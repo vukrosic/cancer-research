@@ -1,0 +1,89 @@
+{
+  "census_id": "EXP022-candidate-shortlist-20260822",
+  "census_at": "2026-08-22T19:03:52+0200",
+  "purpose": "Outcome-free selection of a distinct EP300-status-to-CREBBP-dependency direction",
+  "endpoint_values_opened": false,
+  "endpoint_access": "ScreenNaiveGeneScore.csv header identity only; no CREBBP score row or target value parsed",
+  "eligibility_rule": "PassesQC == True, CanInclude == True, Library in {Avana, KY}, exact ScreenID-to-ModelID map, nonblank eligible OncotreeLineage",
+  "status_rule": "matrix values restricted to {0,1,2}; primary exposure is EP300 damaging value >= 1 and reference is EP300 matrix value == 0",
+  "selection_basis": "EP300-damaging-to-CREBBP is a new paralog direction after EXP021, has the strongest remaining two-source metadata balance and lineage coverage among the reviewed candidates, and has direct CRISPR evidence for EP300/CREBBP interaction. Both source powers are below 0.80, so this is permanently feasibility-only.",
+  "distinctness_contract": {
+    "prior_experiments": ["EXP-20260822-014", "EXP-20260822-015", "EXP-20260822-016", "EXP-20260822-017", "EXP-20260822-018", "EXP-20260822-019", "EXP-20260822-020", "EXP-20260822-021"],
+    "prior_pairs_excluded": ["STAG2_damaging_to_STAG1", "ARID1A_damaging_to_ARID1B", "ARID1A_damaging_to_KEAP1", "TP53_matrix_intact_to_MDM2", "CDKN2A_damaging_to_TYMS", "PTEN_damaging_to_PIK3CB", "TP53_damaging_to_WEE1", "NF1_damaging_to_PTPN11"],
+    "current_pair": "EP300_damaging_to_CREBBP",
+    "endpoint_gene_changed": true,
+    "status_gene_changed": true
+  },
+  "inputs": {
+    "screen_qc_sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407",
+    "screen_map_sha256": "1e2bf9075600cd049dafc385866991523c65806657f3c8bd71afde3fe00ee9ad",
+    "model_sha256": "6b77a73209ce3faaa7442dbd947d8e08ddcb08b538c36fe820163f9cff321341",
+    "damaging_matrix_sha256": "aea4d970c0876afb90d2dc0e2709ff28be5a84e4e246f3a5a31faaba0fbc47e3",
+    "endpoint_sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721",
+    "endpoint_target_column": "CREBBP (1387)"
+  },
+  "candidate_shortlist": [
+    {
+      "status_gene": "EP300",
+      "status_column": "EP300 (2033)",
+      "target_gene": "CREBBP",
+      "target_column": "CREBBP (1387)",
+      "exposure_definition": "damaging matrix value >= 1",
+      "Avana": {"damaging": 61, "matrix_intact": 914, "mixed_lineages": 18, "planning_power": 0.7401},
+      "KY": {"damaging": 34, "matrix_intact": 281, "mixed_lineages": 11, "planning_power": 0.4984},
+      "decision": "selected_best_remaining_two_source_balance_but_feasibility_only",
+      "primary_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8080727/"
+    },
+    {
+      "status_gene": "APC",
+      "status_column": "APC (324)",
+      "target_gene": "TDO2",
+      "target_column": "TDO2 (6999)",
+      "exposure_definition": "damaging matrix value >= 1",
+      "Avana": {"damaging": 54, "matrix_intact": 921, "mixed_lineages": 11},
+      "KY": {"damaging": 30, "matrix_intact": 285, "mixed_lineages": 5},
+      "decision": "not_selected_lower_KY_lineage_coverage",
+      "primary_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9262860/"
+    },
+    {
+      "status_gene": "SMARCA4",
+      "status_column": "SMARCA4 (6597)",
+      "target_gene": "SMARCA2",
+      "target_column": "SMARCA2 (6595)",
+      "exposure_definition": "damaging matrix value >= 1",
+      "Avana": {"damaging": 51, "matrix_intact": 924, "mixed_lineages": 16},
+      "KY": {"damaging": 13, "matrix_intact": 302, "mixed_lineages": 5},
+      "decision": "not_selected_KY_exposure_context_gate",
+      "primary_source": "https://aacrjournals.org/cancerres/article/86/1/213/771171/PRT3789-Is-a-First-in-Human-SMARCA2-Selective"
+    },
+    {
+      "status_gene": "BRCA2",
+      "status_column": "BRCA2 (675)",
+      "target_gene": "POLQ",
+      "target_column": "POLQ (10721)",
+      "exposure_definition": "damaging matrix value >= 1",
+      "Avana": {"damaging": 29, "matrix_intact": 946, "mixed_lineages": 13},
+      "KY": {"damaging": 17, "matrix_intact": 298, "mixed_lineages": 8},
+      "decision": "not_selected_KY_exposure_context_gate",
+      "primary_source": "https://doi.org/10.1038/nature14184"
+    }
+  ],
+  "design_model": {
+    "normal_mean_shift": -0.358286909243,
+    "null_permutations": 100000,
+    "alternative_simulations": 10000,
+    "planning_power_seeds": {"Avana": 20262200, "KY": 20262300},
+    "canonical_roster_sha256": "9a49f37dbde7785df261c92abaf9cb9ec4ccef3c1a1f8fc524865426763407d1",
+    "design_receipt_path": "experiments/EXP-20260822-022/design_census_receipt.json",
+    "design_receipt_normalized_sha256": "f7ed7916bd636e086c04f55fed68a1d6ec539738176870824197a8a40cf6b407",
+    "critical_quantile": "numpy_linear_05",
+    "rejection_rule": "alternative_delta <= critical_delta",
+    "confirmatory_power_threshold": 0.8,
+    "frozen_label": "FEASIBILITY_ONLY"
+  },
+  "literature_search": {
+    "searched_at": "2026-08-22",
+    "primary_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8080727/",
+    "selection_note": "The cited CRISPR study supports an EP300/CREBBP paralog interaction. EXP022 tests only a matrix-defined EP300 proxy against source-specific CREBBP knockout dependency and does not claim functional EP300 loss, paralog causality, drug response, treatment benefit, or clinical utility."
+  }
+}
