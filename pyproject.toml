@@ -28,6 +28,7 @@ candrel-wrn-process-association = "candrel.wrn_process_association:main"
 candrel-paralog-replication = "candrel.paralog_replication:main"
 candrel-arid1a-replication = "candrel.arid1a_replication:main"
 candrel-arid1a-keap1-replication = "candrel.arid1a_keap1_replication:main"
+candrel-tp53-mdm2-replication = "candrel.tp53_mdm2_replication:main"
 
 [build-system]
 requires = ["hatchling"]
