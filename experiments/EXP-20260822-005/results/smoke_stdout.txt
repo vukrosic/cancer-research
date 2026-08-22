@@ -1,0 +1,134 @@
+{
+  "adequacy": {
+    "adequate": true,
+    "complete_finite_endpoints": true,
+    "overlap_counts": {
+      "Large Intestine": 17,
+      "Ovary": 17
+    },
+    "source_tissue_counts": {
+      "Avana|Large Intestine": 25,
+      "Avana|Ovary": 22,
+      "KY|Large Intestine": 30,
+      "KY|Ovary": 26
+    },
+    "total_overlap": 34
+  },
+  "analysis_type": "preregistered_derived_analysis_after_endpoint_unsealing",
+  "bootstrap_ci_95": [
+    0.3353653669268848,
+    0.8222912811576748
+  ],
+  "bootstrap_repeats": 200,
+  "experiment_id": "EXP-20260822-005",
+  "gap_summary": {
+    "by_label": {
+      "MSI": {
+        "median": 0.11172413793103447,
+        "n": 10,
+        "q1": 0.0398706896551724,
+        "q3": 0.20653735632183903
+      },
+      "MSS": {
+        "median": 0.20744252873563224,
+        "n": 24,
+        "q1": 0.10407430213464694,
+        "q3": 0.3452873563218391
+      }
+    },
+    "flagged_fraction": 0.29411764705882354,
+    "flagged_ge_0_25": 10,
+    "median": 0.17501231527093594,
+    "q1": 0.09770114942528736,
+    "q3": 0.27714285714285714,
+    "top_five_expanding_ties": [
+      {
+        "absolute_percentile_gap": 0.7447619047619047,
+        "avana_percentile": 0.09523809523809523,
+        "avana_score": 0.14203843338548522,
+        "discordant_ge_0_25": true,
+        "ky_percentile": 0.84,
+        "ky_score": -1.1172557324232413,
+        "label": "MSI",
+        "model_id": "ACH-000657",
+        "model_name": "A2780",
+        "tissue": "Ovary"
+      },
+      {
+        "absolute_percentile_gap": 0.5238095238095238,
+        "avana_percentile": 0.5238095238095238,
+        "avana_score": -0.1426498610128116,
+        "discordant_ge_0_25": true,
+        "ky_percentile": 0.0,
+        "ky_score": 0.43737966768306724,
+        "label": "MSS",
+        "model_id": "ACH-000048",
+        "model_name": "TOV-112D",
+        "tissue": "Ovary"
+      },
+      {
+        "absolute_percentile_gap": 0.4895238095238096,
+        "avana_percentile": 0.19047619047619047,
+        "avana_score": 0.08843478884281343,
+        "discordant_ge_0_25": true,
+        "ky_percentile": 0.68,
+        "ky_score": -0.30588920293857674,
+        "label": "MSS",
+        "model_id": "ACH-000527",
+        "model_name": "OVISE",
+        "tissue": "Ovary"
+      },
+      {
+        "absolute_percentile_gap": 0.4525862068965517,
+        "avana_percentile": 0.625,
+        "avana_score": -0.27239947181470403,
+        "discordant_ge_0_25": true,
+        "ky_percentile": 0.1724137931034483,
+        "ky_score": 0.2646820910817818,
+        "label": "MSS",
+        "model_id": "ACH-000381",
+        "model_name": "T84",
+        "tissue": "Large Intestine"
+      },
+      {
+        "absolute_percentile_gap": 0.40190476190476193,
+        "avana_percentile": 0.23809523809523808,
+        "avana_score": 0.08677214050886134,
+        "discordant_ge_0_25": true,
+        "ky_percentile": 0.64,
+        "ky_score": -0.28694871294999663,
+        "label": "MSS",
+        "model_id": "ACH-000696",
+        "model_name": "OVCAR-8",
+        "tissue": "Ovary"
+      }
+    ]
+  },
+  "gates": {
+    "bootstrap_lower_above_0_20": true,
+    "no_tissue_below_minus_0_20": true,
+    "permutation_p_at_most_0_05": true,
+    "theta_at_least_0_50": true
+  },
+  "input_sha256": "072dd2775d4e3bfaa480cd70639cc799c1e5914b2e9cc5213328383557680654",
+  "kendall_pair_concordance": {
+    "by_tissue": {
+      "Large Intestine": 0.6323529411764706,
+      "Ovary": 0.27941176470588236
+    },
+    "concordant_pairs": 198,
+    "discordant_pairs": 74,
+    "pooled_concordance_minus_discordance": 0.45588235294117646,
+    "tied_pairs": 0
+  },
+  "overall_pass": true,
+  "permutation_p_one_sided": 0.004975124378109453,
+  "permutation_repeats": 200,
+  "seed": 20260826,
+  "status": "PASS_ORDERING_RELIABILITY",
+  "theta_equal_tissue_mean_spearman": 0.5955882352941178,
+  "tissue_spearman": {
+    "Large Intestine": 0.8210784313725491,
+    "Ovary": 0.37009803921568635
+  }
+}

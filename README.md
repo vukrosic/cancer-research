@@ -36,6 +36,11 @@ Three bounded experiments are complete:
 - `EXP-20260822-004` stopped at T0: the four-tissue model-ordering design required
   at least 8 overlapping models per tissue, but Endometrium has 5. No rank outcome
   was computed and the gate was not weakened.
+- `EXP-20260822-005` passed its narrower preregistered derived analysis: equal-tissue
+  WRN ordering agreement was 0.596 across 17 colorectal and 17 ovarian paired models,
+  but ovarian agreement was weaker and 10/34 models had percentile gaps at least
+  0.25. Independent audit corrected the bootstrap implementation and returned GO;
+  the corrected CI is [0.319, 0.787].
 
 A label-only provenance audit found that the CRC-only cohort has only 7 MSI Broad
 models, below the independently proposed minimum of 8. That CRC-only gate remains a
@@ -48,6 +53,7 @@ uv run pytest
 uv run candrel-smoke  # writes rerun_latest.json and stops if the API inputs drift
 uv run candrel-processing-sensitivity  # expected exit 2: frozen hypothesis failed
 uv run candrel-msi-wrn-replication  # source-separated discovery -> gated confirmation
+uv run candrel-wrn-ordering  # expected pass; two-tissue model-ordering reliability
 ```
 
 Raw API responses are cached under `data/raw/` and excluded from Git. Every run
