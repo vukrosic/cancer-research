@@ -1,0 +1,51 @@
+{
+  "experiment_id": "EXP-20260822-009",
+  "parent_id": "EXP-20260822-005",
+  "frozen_at": "2026-08-22T12:37:28+02:00",
+  "analysis_type": "preregistered_derived_observational_analysis_after_endpoint_unsealing",
+  "entrypoint": "uv run candrel-sequence-inclusion-asymmetry",
+  "seed": 20260829,
+  "permutation_repeats_per_field": 100000,
+  "bootstrap_repeats_per_field": 10000,
+  "inputs": {
+    "cohort": {
+      "file": "experiments/EXP-20260822-007/cohort.csv",
+      "sha256": "2bc84868962b35c55e456aeb953429206e97c9b25f648b5deabe5a1488e60b67"
+    },
+    "screen_qc": {
+      "file": "data/raw/depmap/23q4/AchillesScreenQCReport.csv",
+      "sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407"
+    },
+    "full_model_scores": {
+      "file": "experiments/EXP-20260822-003/results/model_scores.csv",
+      "sha256": "072dd2775d4e3bfaa480cd70639cc799c1e5914b2e9cc5213328383557680654"
+    },
+    "wrn_gaps": {
+      "file": "experiments/EXP-20260822-005/results/model_percentile_gaps.csv",
+      "sha256": "f2dc22d9c26f937413b612ae4924f1965c837e480a805c1ff0b7b0c5d8b3cd4a"
+    }
+  },
+  "primary_field": "nIncludedSequences",
+  "sensitivity_field": "nPassingSequences",
+  "full_denominator_counts": {
+    "Avana|Large Intestine": 25,
+    "KY|Large Intestine": 30,
+    "Avana|Ovary": 22,
+    "KY|Ovary": 26,
+    "total_model_source_records": 103,
+    "unique_screen_ids": 103
+  },
+  "paired_counts": {
+    "Large Intestine": 17,
+    "Ovary": 17,
+    "total": 34
+  },
+  "minimum_distinct_exposure_values_per_tissue": 5,
+  "maximum_largest_tie_per_tissue": 8,
+  "minimum_theta": 0.4,
+  "maximum_permutation_p": 0.05,
+  "minimum_bootstrap_lower": 0.1,
+  "minimum_any_tissue_rho": -0.2,
+  "expected_output": "experiments/EXP-20260822-009/results/summary.json",
+  "code_commit_before_implementation": "438eed1ee039faab62c8c565dbece02ce163a579"
+}

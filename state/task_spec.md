@@ -8,9 +8,9 @@ orthogonal experimental validation.
 
 ## Current milestone
 
-Preserve and publish the audited EXP-008 negative control-discordance result, then
-freeze a gene-specific or assay-kinetic hypothesis that is orthogonal to broad QC and
-model-general instability summaries.
+Execute the frozen EXP-009 sequence-inclusion-asymmetry audit, preserve its result
+regardless of direction, and then select the next orthogonal gene-specific or
+assay-process hypothesis without post hoc rescue.
 
 ## Program success
 
