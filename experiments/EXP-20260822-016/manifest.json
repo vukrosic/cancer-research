@@ -69,8 +69,11 @@
   "code_commit_before_implementation": "73240533116925d1b5dda74e483c224eafbccb8f",
   "implementation_boundary": {
     "required_base_commit": "73240533116925d1b5dda74e483c224eafbccb8f",
-    "implementation_commit": null,
-    "implementation_module": null,
+    "implementation_commit": "58bc6dea37dd06eaabcacb145ba2cadaf310789d",
+    "implementation_module": {
+      "path": "src/candrel/arid1a_keap1_replication.py",
+      "sha256": "c5c70e6149e4a5cfd7dc9e0b26a43fb6cc315e8251632fde27ccf631a3193d10"
+    },
     "verify_uv_lock_sha256": true,
     "verify_manifest_identifiers": true
   },
