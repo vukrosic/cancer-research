@@ -1,0 +1,7 @@
+[
+  {"direction": "early_on_treatment_icb_state", "decision": "deferred", "reason": "small cohorts and uncertain reuse terms"},
+  {"direction": "cross_assay_drug_response", "decision": "backlog", "reason": "important but crowded generalization literature"},
+  {"direction": "survival_signature_transport", "decision": "deferred", "reason": "high endpoint and novelty risk"},
+  {"direction": "rare_subgroup_dependency_stability", "decision": "selected", "reason": "best impact-feasibility-verification balance"},
+  {"direction": "replication_first_paralog_loss", "decision": "selected_next", "reason": "biologically useful after pipeline validation"}
+]

@@ -1,0 +1,18 @@
+{
+  "experiment_id": "EXP-20260822-001",
+  "parent_id": null,
+  "frozen_at": "2026-08-22T10:16:07+02:00",
+  "entrypoint": "uv run candrel-smoke",
+  "seed": 20260822,
+  "source": {
+    "api": "https://api.cellmodelpassports.sanger.ac.uk",
+    "api_version": "1.23.0",
+    "observed_data_version": "2.19.0"
+  },
+  "score": "fc_clean_qn",
+  "panel": ["WRN", "BRAF", "KRAS", "NRAS", "EGFR", "PIK3CA", "CTNNB1", "MDM2"],
+  "expected_output": "experiments/EXP-20260822-001/results/summary.json",
+  "code_commit": "TO_BE_FILLED_AFTER_INITIAL_COMMIT",
+  "input_receipt": "experiments/EXP-20260822-001/input_receipt.json",
+  "input_receipt_sha256": "2086b1f686c28aa87fe2e82228792f98533ca82c14ba3b6a7a07b901d829b2e9"
+}

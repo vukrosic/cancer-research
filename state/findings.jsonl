@@ -1,0 +1,3 @@
+{"ts":"2026-08-22T10:16:07+02:00","experiment":"PROGRAM","tier":"T0","finding":"The M4/16GB machine and 12GB project cap support processed CRISPR matrices and source-paired API analysis, but not raw sequencing or whole-slide workflows."}
+{"ts":"2026-08-22T10:18:24+02:00","experiment":"EXP-20260822-001","tier":"T0","finding":"All eight predeclared genes had 177 paired Broad/Sanger models; median gene-wise Spearman rho was 0.4222 and all correlations were positive."}
+{"ts":"2026-08-22T10:18:25+02:00","experiment":"EXP-20260822-001","tier":"T0","finding":"The harmonized fc_clean_qn field is adequate for an engineering gate but not an untouched independent-replication endpoint."}

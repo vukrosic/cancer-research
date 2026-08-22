@@ -1,0 +1,152 @@
+{
+  "aggregate": {
+    "eligible_genes": 0,
+    "median_spearman": null,
+    "positive_rho_fraction": null
+  },
+  "created_at_utc": "2026-08-22T08:17:32.082112+00:00",
+  "environment": {
+    "platform": "macOS-26.5-arm64-arm-64bit",
+    "python": "3.12.8"
+  },
+  "experiment_id": "EXP-20260822-001",
+  "genes": [
+    {
+      "eligible": false,
+      "gene_id": "SIDG41173",
+      "n_paired": 0,
+      "symbol": "WRN"
+    },
+    {
+      "eligible": false,
+      "gene_id": "SIDG02491",
+      "n_paired": 0,
+      "symbol": "BRAF"
+    },
+    {
+      "eligible": false,
+      "gene_id": "SIDG13960",
+      "n_paired": 0,
+      "symbol": "KRAS"
+    },
+    {
+      "eligible": false,
+      "gene_id": "SIDG22269",
+      "n_paired": 0,
+      "symbol": "NRAS"
+    },
+    {
+      "eligible": false,
+      "gene_id": "SIDG07457",
+      "n_paired": 0,
+      "symbol": "EGFR"
+    },
+    {
+      "eligible": false,
+      "gene_id": "SIDG24670",
+      "n_paired": 0,
+      "symbol": "PIK3CA"
+    },
+    {
+      "eligible": false,
+      "gene_id": "SIDG05669",
+      "n_paired": 0,
+      "symbol": "CTNNB1"
+    },
+    {
+      "eligible": false,
+      "gene_id": "SIDG17467",
+      "n_paired": 0,
+      "symbol": "MDM2"
+    }
+  ],
+  "input_files": [
+    {
+      "path": "data/raw/cell_model_passports/crispr_BRAF_SIDG02491.json",
+      "sha256": "d1b18f398e86aa0cda896e39694c41b69733eaf6a76fd6a0651bb2a0d3b1cf64"
+    },
+    {
+      "path": "data/raw/cell_model_passports/crispr_CTNNB1_SIDG05669.json",
+      "sha256": "a30155c415d13de46e1c321edcd539f78f34f64137cc97990989b6223eacc0da"
+    },
+    {
+      "path": "data/raw/cell_model_passports/crispr_EGFR_SIDG07457.json",
+      "sha256": "74ae676d37576cb741d3a73d2bd4a2e65605258944e329f53b1096662e0c0d99"
+    },
+    {
+      "path": "data/raw/cell_model_passports/crispr_KRAS_SIDG13960.json",
+      "sha256": "c4c9933fc5b4e494041ad7b728d31faef2af23e6d79b60f99de0f8c37ed517e8"
+    },
+    {
+      "path": "data/raw/cell_model_passports/crispr_MDM2_SIDG17467.json",
+      "sha256": "bf504091323d762e39fc842ee6d830f1f71a5e0fe27cb6e8719534845366243c"
+    },
+    {
+      "path": "data/raw/cell_model_passports/crispr_NRAS_SIDG22269.json",
+      "sha256": "4dde9110060651eea33e2478c5e352c8de1ee0528514a6868e10a01e94a2f047"
+    },
+    {
+      "path": "data/raw/cell_model_passports/crispr_PIK3CA_SIDG24670.json",
+      "sha256": "74868239b8ac600d98d6c9c1449594a5b173b638e95706fd2a67254414448d32"
+    },
+    {
+      "path": "data/raw/cell_model_passports/crispr_WRN_SIDG41173.json",
+      "sha256": "f6bbd663370fa868ab60faea49a491d43820755a38301579b343936c586b4077"
+    },
+    {
+      "path": "data/raw/cell_model_passports/gene_BRAF.json",
+      "sha256": "46184bb60457b3393e8e280a09ad872ed0991ef20c6671db129532c5e79bb50e"
+    },
+    {
+      "path": "data/raw/cell_model_passports/gene_CTNNB1.json",
+      "sha256": "1e9ab817104861964622afb7328df0138a96cf5043783f964c275535e5a47f48"
+    },
+    {
+      "path": "data/raw/cell_model_passports/gene_EGFR.json",
+      "sha256": "8e23119f181d5a6c3d32322f4c43804269d76b1f1285b523ffc63a7034ec3215"
+    },
+    {
+      "path": "data/raw/cell_model_passports/gene_KRAS.json",
+      "sha256": "7c1b5137065b843a558de3ec6944a70f016dab3d44c51e22db3d70e50f85ed45"
+    },
+    {
+      "path": "data/raw/cell_model_passports/gene_MDM2.json",
+      "sha256": "f923dc57117fb45b18a1669d77b823bc47c65c999a6ee9d84e76cc930b4c838c"
+    },
+    {
+      "path": "data/raw/cell_model_passports/gene_NRAS.json",
+      "sha256": "64f8de3e4feb62b07ec0808b3e683573909b7faa3f5bc4e648c611eb73088490"
+    },
+    {
+      "path": "data/raw/cell_model_passports/gene_PIK3CA.json",
+      "sha256": "1bd07b997b8cb8b27b71f17b87c1b41bc99b05e663341256dbd9622d94e6fcee"
+    },
+    {
+      "path": "data/raw/cell_model_passports/gene_WRN.json",
+      "sha256": "5e623d633190689c712c92e246d2d73553a6bd5c5fcba08e5ae310d40460a83e"
+    }
+  ],
+  "panel": [
+    "WRN",
+    "BRAF",
+    "KRAS",
+    "NRAS",
+    "EGFR",
+    "PIK3CA",
+    "CTNNB1",
+    "MDM2"
+  ],
+  "preregistered_gates": {
+    "at_least_6_genes_with_100_pairs": false,
+    "median_spearman_at_least_0_30": false,
+    "positive_rho_fraction_at_least_0_75": false
+  },
+  "score": "fc_clean_qn",
+  "seed": 20260822,
+  "source": {
+    "api_version": "1.23.0",
+    "base_url": "https://api.cellmodelpassports.sanger.ac.uk",
+    "name": "Cell Model Passports API"
+  },
+  "status": "FAIL"
+}

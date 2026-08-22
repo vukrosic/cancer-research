@@ -1,0 +1,273 @@
+{
+  "aggregate": {
+    "eligible_genes": 8,
+    "median_spearman": 0.4222399196689809,
+    "positive_rho_fraction": 1.0
+  },
+  "created_at_utc": "2026-08-22T08:25:03.262847+00:00",
+  "environment": {
+    "platform": "macOS-26.5-arm64-arm-64bit",
+    "python": "3.12.8"
+  },
+  "experiment_id": "EXP-20260822-001",
+  "genes": [
+    {
+      "eligible": true,
+      "gene_id": "SIDG41173",
+      "mae": 0.3569238983050847,
+      "n_paired": 177,
+      "pearson_r": 0.7463492863285941,
+      "permutation_p_one_sided": 0.004995004995004995,
+      "spearman_bootstrap_95ci": [
+        0.03391623156353669,
+        0.3571549168885019
+      ],
+      "spearman_rho": 0.20762073870171638,
+      "symbol": "WRN",
+      "threshold_class_agreement_at_minus_0_5": 0.8983050847457628,
+      "threshold_contingency_counts": {
+        "both_dependency": 14,
+        "broad_only": 15,
+        "neither_dependency": 145,
+        "sanger_only": 3
+      }
+    },
+    {
+      "eligible": true,
+      "gene_id": "SIDG02491",
+      "mae": 0.3263868361581921,
+      "n_paired": 177,
+      "pearson_r": 0.39765667754635814,
+      "permutation_p_one_sided": 0.025974025974025976,
+      "spearman_bootstrap_95ci": [
+        -0.02664792326864787,
+        0.29383010789898084
+      ],
+      "spearman_rho": 0.14753034054119565,
+      "symbol": "BRAF",
+      "threshold_class_agreement_at_minus_0_5": 0.8587570621468926,
+      "threshold_contingency_counts": {
+        "both_dependency": 9,
+        "broad_only": 11,
+        "neither_dependency": 143,
+        "sanger_only": 14
+      }
+    },
+    {
+      "eligible": true,
+      "gene_id": "SIDG13960",
+      "mae": 0.49238864406779664,
+      "n_paired": 177,
+      "pearson_r": 0.8006863141946544,
+      "permutation_p_one_sided": 0.000999000999000999,
+      "spearman_bootstrap_95ci": [
+        0.42303185899931317,
+        0.6637360414244526
+      ],
+      "spearman_rho": 0.5525530594568616,
+      "symbol": "KRAS",
+      "threshold_class_agreement_at_minus_0_5": 0.7231638418079096,
+      "threshold_contingency_counts": {
+        "both_dependency": 51,
+        "broad_only": 27,
+        "neither_dependency": 77,
+        "sanger_only": 22
+      }
+    },
+    {
+      "eligible": true,
+      "gene_id": "SIDG22269",
+      "mae": 0.3369306779661017,
+      "n_paired": 177,
+      "pearson_r": 0.7014632947582434,
+      "permutation_p_one_sided": 0.000999000999000999,
+      "spearman_bootstrap_95ci": [
+        0.10472154507791942,
+        0.38251567706882206
+      ],
+      "spearman_rho": 0.2475503840991603,
+      "symbol": "NRAS",
+      "threshold_class_agreement_at_minus_0_5": 0.8926553672316384,
+      "threshold_contingency_counts": {
+        "both_dependency": 5,
+        "broad_only": 4,
+        "neither_dependency": 153,
+        "sanger_only": 15
+      }
+    },
+    {
+      "eligible": true,
+      "gene_id": "SIDG07457",
+      "mae": 0.37966802259887006,
+      "n_paired": 177,
+      "pearson_r": 0.6627574209024809,
+      "permutation_p_one_sided": 0.000999000999000999,
+      "spearman_bootstrap_95ci": [
+        0.4612576264360778,
+        0.6768152282928416
+      ],
+      "spearman_rho": 0.5798592475892038,
+      "symbol": "EGFR",
+      "threshold_class_agreement_at_minus_0_5": 0.8587570621468926,
+      "threshold_contingency_counts": {
+        "both_dependency": 22,
+        "broad_only": 16,
+        "neither_dependency": 130,
+        "sanger_only": 9
+      }
+    },
+    {
+      "eligible": true,
+      "gene_id": "SIDG24670",
+      "mae": 0.40273440677966094,
+      "n_paired": 177,
+      "pearson_r": 0.6077063591231993,
+      "permutation_p_one_sided": 0.000999000999000999,
+      "spearman_bootstrap_95ci": [
+        0.52811394385477,
+        0.7237282009382457
+      ],
+      "spearman_rho": 0.6344916985509255,
+      "symbol": "PIK3CA",
+      "threshold_class_agreement_at_minus_0_5": 0.7231638418079096,
+      "threshold_contingency_counts": {
+        "both_dependency": 70,
+        "broad_only": 30,
+        "neither_dependency": 58,
+        "sanger_only": 19
+      }
+    },
+    {
+      "eligible": true,
+      "gene_id": "SIDG05669",
+      "mae": 0.2838802824858757,
+      "n_paired": 177,
+      "pearson_r": 0.7798809792955254,
+      "permutation_p_one_sided": 0.000999000999000999,
+      "spearman_bootstrap_95ci": [
+        0.33907571745762977,
+        0.5943548582218066
+      ],
+      "spearman_rho": 0.47364787659493435,
+      "symbol": "CTNNB1",
+      "threshold_class_agreement_at_minus_0_5": 0.943502824858757,
+      "threshold_contingency_counts": {
+        "both_dependency": 19,
+        "broad_only": 6,
+        "neither_dependency": 148,
+        "sanger_only": 4
+      }
+    },
+    {
+      "eligible": true,
+      "gene_id": "SIDG17467",
+      "mae": 0.3845187005649717,
+      "n_paired": 177,
+      "pearson_r": 0.6923518298700144,
+      "permutation_p_one_sided": 0.000999000999000999,
+      "spearman_bootstrap_95ci": [
+        0.2155102856988931,
+        0.5178814717667093
+      ],
+      "spearman_rho": 0.3708319627430274,
+      "symbol": "MDM2",
+      "threshold_class_agreement_at_minus_0_5": 0.903954802259887,
+      "threshold_contingency_counts": {
+        "both_dependency": 24,
+        "broad_only": 6,
+        "neither_dependency": 136,
+        "sanger_only": 11
+      }
+    }
+  ],
+  "input_files": [
+    {
+      "path": "data/raw/cell_model_passports/crispr_full_v2_BRAF_SIDG02491.json",
+      "sha256": "c4a44208c1a413fcb43695c0d9ef1eb3747cde2568fc0057a6d4fe2123f4633a"
+    },
+    {
+      "path": "data/raw/cell_model_passports/crispr_full_v2_CTNNB1_SIDG05669.json",
+      "sha256": "04d2539849b83cfaa6205400446f42a7eb24259259279d2e9ecd2fa80dae8535"
+    },
+    {
+      "path": "data/raw/cell_model_passports/crispr_full_v2_EGFR_SIDG07457.json",
+      "sha256": "522064a028d64a5193f82f3978395b6bd41dd469898954c1fbe5c9f7f2a57b60"
+    },
+    {
+      "path": "data/raw/cell_model_passports/crispr_full_v2_KRAS_SIDG13960.json",
+      "sha256": "cd2afdd4b699981ce02e42df28ee7bc1ee8eff71f234615c0a35436252114cbe"
+    },
+    {
+      "path": "data/raw/cell_model_passports/crispr_full_v2_MDM2_SIDG17467.json",
+      "sha256": "5b07b5c1ece018ca105d333af198b0b54c9eb106e69ed763848677b566f49284"
+    },
+    {
+      "path": "data/raw/cell_model_passports/crispr_full_v2_NRAS_SIDG22269.json",
+      "sha256": "5f1bebd8280d774b9f17d554cc902716f39b1e854da9b2db92cceddfc76b7d87"
+    },
+    {
+      "path": "data/raw/cell_model_passports/crispr_full_v2_PIK3CA_SIDG24670.json",
+      "sha256": "fe81f77153637cf5dc6295038739a4b18b4438b5b3a6d147b5e308be2975cf3c"
+    },
+    {
+      "path": "data/raw/cell_model_passports/crispr_full_v2_WRN_SIDG41173.json",
+      "sha256": "3f8ee984e75d95c4eb6056772c783ae04eac50dc9d2d128fa06a307dea4e3a6a"
+    },
+    {
+      "path": "data/raw/cell_model_passports/gene_BRAF.json",
+      "sha256": "46184bb60457b3393e8e280a09ad872ed0991ef20c6671db129532c5e79bb50e"
+    },
+    {
+      "path": "data/raw/cell_model_passports/gene_CTNNB1.json",
+      "sha256": "1e9ab817104861964622afb7328df0138a96cf5043783f964c275535e5a47f48"
+    },
+    {
+      "path": "data/raw/cell_model_passports/gene_EGFR.json",
+      "sha256": "8e23119f181d5a6c3d32322f4c43804269d76b1f1285b523ffc63a7034ec3215"
+    },
+    {
+      "path": "data/raw/cell_model_passports/gene_KRAS.json",
+      "sha256": "7c1b5137065b843a558de3ec6944a70f016dab3d44c51e22db3d70e50f85ed45"
+    },
+    {
+      "path": "data/raw/cell_model_passports/gene_MDM2.json",
+      "sha256": "f923dc57117fb45b18a1669d77b823bc47c65c999a6ee9d84e76cc930b4c838c"
+    },
+    {
+      "path": "data/raw/cell_model_passports/gene_NRAS.json",
+      "sha256": "64f8de3e4feb62b07ec0808b3e683573909b7faa3f5bc4e648c611eb73088490"
+    },
+    {
+      "path": "data/raw/cell_model_passports/gene_PIK3CA.json",
+      "sha256": "1bd07b997b8cb8b27b71f17b87c1b41bc99b05e663341256dbd9622d94e6fcee"
+    },
+    {
+      "path": "data/raw/cell_model_passports/gene_WRN.json",
+      "sha256": "5e623d633190689c712c92e246d2d73553a6bd5c5fcba08e5ae310d40460a83e"
+    }
+  ],
+  "input_receipt_sha256": "2086b1f686c28aa87fe2e82228792f98533ca82c14ba3b6a7a07b901d829b2e9",
+  "panel": [
+    "WRN",
+    "BRAF",
+    "KRAS",
+    "NRAS",
+    "EGFR",
+    "PIK3CA",
+    "CTNNB1",
+    "MDM2"
+  ],
+  "preregistered_gates": {
+    "at_least_6_genes_with_100_pairs": true,
+    "median_spearman_at_least_0_30": true,
+    "positive_rho_fraction_at_least_0_75": true
+  },
+  "score": "fc_clean_qn",
+  "seed": 20260822,
+  "source": {
+    "api_version": "1.23.0",
+    "base_url": "https://api.cellmodelpassports.sanger.ac.uk",
+    "name": "Cell Model Passports API"
+  },
+  "status": "PASS"
+}

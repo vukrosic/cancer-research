@@ -1,0 +1,30 @@
+{
+  "experiment_id": "EXP-20260822-001",
+  "created_post_run": "2026-08-22T10:24:00+02:00",
+  "purpose": "Post-run immutable acquisition receipt. A clean rerun must receive byte-normalized JSON with these exact SHA-256 hashes or stop on input drift.",
+  "source": {
+    "api": "https://api.cellmodelpassports.sanger.ac.uk",
+    "api_version": "1.23.0",
+    "observed_data_version": "2.19.0",
+    "usage_policy": "Non-commercial API use without login is permitted; raw responses are not redistributed by this repository."
+  },
+  "normalization": "JSON parsed then serialized with sorted keys and default separators by Python json.dumps",
+  "files": [
+    {"path":"data/raw/cell_model_passports/crispr_full_v2_BRAF_SIDG02491.json","sha256":"c4a44208c1a413fcb43695c0d9ef1eb3747cde2568fc0057a6d4fe2123f4633a"},
+    {"path":"data/raw/cell_model_passports/crispr_full_v2_CTNNB1_SIDG05669.json","sha256":"04d2539849b83cfaa6205400446f42a7eb24259259279d2e9ecd2fa80dae8535"},
+    {"path":"data/raw/cell_model_passports/crispr_full_v2_EGFR_SIDG07457.json","sha256":"522064a028d64a5193f82f3978395b6bd41dd469898954c1fbe5c9f7f2a57b60"},
+    {"path":"data/raw/cell_model_passports/crispr_full_v2_KRAS_SIDG13960.json","sha256":"cd2afdd4b699981ce02e42df28ee7bc1ee8eff71f234615c0a35436252114cbe"},
+    {"path":"data/raw/cell_model_passports/crispr_full_v2_MDM2_SIDG17467.json","sha256":"5b07b5c1ece018ca105d333af198b0b54c9eb106e69ed763848677b566f49284"},
+    {"path":"data/raw/cell_model_passports/crispr_full_v2_NRAS_SIDG22269.json","sha256":"5f1bebd8280d774b9f17d554cc902716f39b1e854da9b2db92cceddfc76b7d87"},
+    {"path":"data/raw/cell_model_passports/crispr_full_v2_PIK3CA_SIDG24670.json","sha256":"fe81f77153637cf5dc6295038739a4b18b4438b5b3a6d147b5e308be2975cf3c"},
+    {"path":"data/raw/cell_model_passports/crispr_full_v2_WRN_SIDG41173.json","sha256":"3f8ee984e75d95c4eb6056772c783ae04eac50dc9d2d128fa06a307dea4e3a6a"},
+    {"path":"data/raw/cell_model_passports/gene_BRAF.json","sha256":"46184bb60457b3393e8e280a09ad872ed0991ef20c6671db129532c5e79bb50e"},
+    {"path":"data/raw/cell_model_passports/gene_CTNNB1.json","sha256":"1e9ab817104861964622afb7328df0138a96cf5043783f964c275535e5a47f48"},
+    {"path":"data/raw/cell_model_passports/gene_EGFR.json","sha256":"8e23119f181d5a6c3d32322f4c43804269d76b1f1285b523ffc63a7034ec3215"},
+    {"path":"data/raw/cell_model_passports/gene_KRAS.json","sha256":"7c1b5137065b843a558de3ec6944a70f016dab3d44c51e22db3d70e50f85ed45"},
+    {"path":"data/raw/cell_model_passports/gene_MDM2.json","sha256":"f923dc57117fb45b18a1669d77b823bc47c65c999a6ee9d84e76cc930b4c838c"},
+    {"path":"data/raw/cell_model_passports/gene_NRAS.json","sha256":"64f8de3e4feb62b07ec0808b3e683573909b7faa3f5bc4e648c611eb73088490"},
+    {"path":"data/raw/cell_model_passports/gene_PIK3CA.json","sha256":"1bd07b997b8cb8b27b71f17b87c1b41bc99b05e663341256dbd9622d94e6fcee"},
+    {"path":"data/raw/cell_model_passports/gene_WRN.json","sha256":"5e623d633190689c712c92e246d2d73553a6bd5c5fcba08e5ae310d40460a83e"}
+  ]
+}

@@ -1,0 +1,2 @@
+{"ts":"2026-08-22T10:16:07+02:00","iteration":0,"direction":"program_selection","status":"complete","new_findings":1,"next":"Run EXP-20260822-001 without changing preregistered gates."}
+{"ts":"2026-08-22T10:18:24+02:00","iteration":1,"direction":"source_paired_signal_gate","status":"pass","new_findings":2,"next":"Audit source-separated scores and MSI/CRC cohort adequacy before EXP-002."}
