@@ -1,0 +1,1291 @@
+source,model_id,lineage,eligible_screen_ids,CDKN2A_matrix_value,CDKN2A_status
+Avana,ACH-000004,Myeloid,SC-000004.AV01,0,matrix_intact
+Avana,ACH-000005,Myeloid,SC-000005.AV01,0,matrix_intact
+Avana,ACH-000007,Bowel,SC-000007.AV01,0,matrix_intact
+Avana,ACH-000009,Bowel,SC-000009.AV01,0,matrix_intact
+Avana,ACH-000011,Bladder/Urinary Tract,SC-000011.AV01,0,matrix_intact
+Avana,ACH-000012,Lung,SC-000012.AV01,0,matrix_intact
+Avana,ACH-000013,Ovary/Fallopian Tube,SC-000013.AV01,0,matrix_intact
+Avana,ACH-000015,Lung,SC-000015.AV01,0,matrix_intact
+Avana,ACH-000017,Breast,SC-000017.AV01,0,matrix_intact
+Avana,ACH-000018,Bladder/Urinary Tract,SC-000018.AV01,0,matrix_intact
+Avana,ACH-000019,Breast,SC-000019.AV01,0,matrix_intact
+Avana,ACH-000021,Lung,SC-000021.AV01,0,matrix_intact
+Avana,ACH-000022,Pancreas,SC-000022.AV01,0,matrix_intact
+Avana,ACH-000024,Lymphoid,SC-000024.AV01,1,damaging
+Avana,ACH-000025,CNS/Brain,SC-000025.AV01,0,matrix_intact
+Avana,ACH-000028,Breast,SC-000028.AV01,0,matrix_intact
+Avana,ACH-000029,Lung,SC-000029.AV01,0,matrix_intact
+Avana,ACH-000030,Lung,SC-000030.AV01,2,damaging
+Avana,ACH-000035,Lung,SC-000035.AV01,0,matrix_intact
+Avana,ACH-000036,CNS/Brain,SC-000036.AV01,0,matrix_intact
+Avana,ACH-000037,Soft Tissue,SC-000037.AV01,0,matrix_intact
+Avana,ACH-000039,Bone,SC-000039.AV01,0,matrix_intact
+Avana,ACH-000040,CNS/Brain,SC-000040.AV01,0,matrix_intact
+Avana,ACH-000041,Bone,SC-000041.AV01,0,matrix_intact
+Avana,ACH-000042,Pancreas,SC-000042.AV01,2,damaging
+Avana,ACH-000045,Myeloid,SC-000045.AV02,0,matrix_intact
+Avana,ACH-000047,Esophagus/Stomach,SC-000047.AV01,0,matrix_intact
+Avana,ACH-000048,Ovary/Fallopian Tube,SC-000048.AV01,0,matrix_intact
+Avana,ACH-000052,Bone,SC-000052.AV01,0,matrix_intact
+Avana,ACH-000053,Lymphoid,SC-000053.AV01,0,matrix_intact
+Avana,ACH-000054,Soft Tissue,SC-000054.AV01,0,matrix_intact
+Avana,ACH-000055,CNS/Brain,SC-000055.AV01,0,matrix_intact
+Avana,ACH-000060,Pancreas,SC-000060.AV01,0,matrix_intact
+Avana,ACH-000067,CNS/Brain,SC-000067.AV01,0,matrix_intact
+Avana,ACH-000070,Lymphoid,SC-000070.AV01,0,matrix_intact
+Avana,ACH-000074,Myeloid,SC-000074.AV01,0,matrix_intact
+Avana,ACH-000075,CNS/Brain,SC-000075.AV01,0,matrix_intact
+Avana,ACH-000076,Myeloid,SC-000076.AV01,0,matrix_intact
+Avana,ACH-000077,Lymphoid,SC-000077.AV01,0,matrix_intact
+Avana,ACH-000078,Peripheral Nervous System,SC-000078.AV01,0,matrix_intact
+Avana,ACH-000082,Bone,SC-000082.AV01,0,matrix_intact
+Avana,ACH-000085,Pancreas,SC-000085.AV01,0,matrix_intact
+Avana,ACH-000086,Pleura,SC-000086.AV01,0,matrix_intact
+Avana,ACH-000090,Prostate,SC-000090.AV02,0,matrix_intact
+Avana,ACH-000092,Pleura,SC-000092.AV01,0,matrix_intact
+Avana,ACH-000093,Pancreas,SC-000093.AV01,0,matrix_intact
+Avana,ACH-000095,CNS/Brain,SC-000095.AV01,0,matrix_intact
+Avana,ACH-000097,Breast,SC-000097.AV01,0,matrix_intact
+Avana,ACH-000098,CNS/Brain,SC-000098.AV01,0,matrix_intact
+Avana,ACH-000099,Peripheral Nervous System,SC-000099.AV01,0,matrix_intact
+Avana,ACH-000101,Lymphoid,SC-000101.AV01,0,matrix_intact
+Avana,ACH-000108,Pancreas,SC-000108.AV01,0,matrix_intact
+Avana,ACH-000111,Breast,SC-000111.AV01,0,matrix_intact
+Avana,ACH-000113,Myeloid,SC-000113.AV01,0,matrix_intact
+Avana,ACH-000114,Pancreas,SC-000114.AV01,0,matrix_intact
+Avana,ACH-000115,Prostate,SC-000115.AV02,0,matrix_intact
+Avana,ACH-000118,Pancreas,SC-000118.AV01,0,matrix_intact
+Avana,ACH-000120,Peripheral Nervous System,SC-000120.AV01,0,matrix_intact
+Avana,ACH-000123,Ovary/Fallopian Tube,SC-000123.AV01,0,matrix_intact
+Avana,ACH-000127,Bladder/Urinary Tract,SC-000127.AV01,0,matrix_intact
+Avana,ACH-000128,CNS/Brain,SC-000128.AV01,0,matrix_intact
+Avana,ACH-000132,Ovary/Fallopian Tube,SC-000132.AV01,0,matrix_intact
+Avana,ACH-000133,Soft Tissue,SC-000133.AV01,0,matrix_intact
+Avana,ACH-000137,CNS/Brain,SC-000137.AV01,0,matrix_intact
+Avana,ACH-000138,Pancreas,SC-000138.AV01,0,matrix_intact
+Avana,ACH-000141,Biliary Tract,SC-000141.AV01,0,matrix_intact
+Avana,ACH-000142,Bladder/Urinary Tract,SC-000142.AV01,0,matrix_intact
+Avana,ACH-000143,Lung,SC-000143.AV01,0,matrix_intact
+Avana,ACH-000145,Soft Tissue,SC-000145.AV01,0,matrix_intact
+Avana,ACH-000146,Myeloid,SC-000146.AV01,0,matrix_intact
+Avana,ACH-000147,Breast,SC-000147.AV01,0,matrix_intact
+Avana,ACH-000148,Breast,SC-000148.AV01,0,matrix_intact
+Avana,ACH-000151,Lymphoid,SC-000151.AV01,0,matrix_intact
+Avana,ACH-000152,CNS/Brain,SC-000152.AV01,0,matrix_intact
+Avana,ACH-000153,Pleura,SC-000153.AV01,0,matrix_intact
+Avana,ACH-000159,Kidney,SC-000159.AV01,0,matrix_intact
+Avana,ACH-000160,CNS/Brain,SC-000160.AV01,0,matrix_intact
+Avana,ACH-000161,Lung,SC-000161.AV01,0,matrix_intact
+Avana,ACH-000163,Head and Neck,SC-000163.AV01,0,matrix_intact
+Avana,ACH-000164,Pancreas,SC-000164.AV01,0,matrix_intact
+Avana,ACH-000168,Myeloid,SC-000168.AV01,0,matrix_intact
+Avana,ACH-000169,Soft Tissue,SC-000169.AV01,0,matrix_intact
+Avana,ACH-000174,Thyroid,SC-000174.AV01,0,matrix_intact
+Avana,ACH-000178,Pancreas,SC-000178.AV01,2,damaging
+Avana,ACH-000182,Ampulla of Vater,SC-000182.AV01,2,damaging
+Avana,ACH-000183,Lymphoid,SC-000183.AV01,0,matrix_intact
+Avana,ACH-000187,Lung,SC-000187.AV01,0,matrix_intact
+Avana,ACH-000188,Head and Neck,SC-000188.AV01,0,matrix_intact
+Avana,ACH-000189,Kidney,SC-000189.AV01,0,matrix_intact
+Avana,ACH-000190,Myeloid,SC-000190.AV01,0,matrix_intact
+Avana,ACH-000191,Thyroid,SC-000191.AV01,0,matrix_intact
+Avana,ACH-000195,Myeloid,SC-000195.AV02,0,matrix_intact
+Avana,ACH-000198,Myeloid,SC-000198.AV01,0,matrix_intact
+Avana,ACH-000200,CNS/Brain,SC-000200.AV01,0,matrix_intact
+Avana,ACH-000202,Bowel,SC-000202.AV01,0,matrix_intact
+Avana,ACH-000204,Lymphoid,SC-000204.AV01,0,matrix_intact
+Avana,ACH-000206,Lymphoid,SC-000206.AV01,0,matrix_intact
+Avana,ACH-000207,Head and Neck,SC-000207.AV01,0,matrix_intact
+Avana,ACH-000209,Biliary Tract,SC-000209.AV01,0,matrix_intact
+Avana,ACH-000211,CNS/Brain,SC-000211.AV01,0,matrix_intact
+Avana,ACH-000212,Breast,SC-000212.AV01,0,matrix_intact
+Avana,ACH-000215,CNS/Brain,SC-000215.AV01,0,matrix_intact
+Avana,ACH-000216,Esophagus/Stomach,SC-000216.AV01,0,matrix_intact
+Avana,ACH-000217,Liver,SC-000217.AV01,0,matrix_intact
+Avana,ACH-000219,Skin,SC-000219.AV01;SC-002874.AV01,2,damaging
+Avana,ACH-000221,Liver,SC-000221.AV01,0,matrix_intact
+Avana,ACH-000222,Pancreas,SC-000222.AV01,1,damaging
+Avana,ACH-000223,Breast,SC-000223.AV01,0,matrix_intact
+Avana,ACH-000226,Lymphoid,SC-000226.AV01,0,matrix_intact
+Avana,ACH-000227,Peripheral Nervous System,SC-000227.AV01,0,matrix_intact
+Avana,ACH-000228,Head and Neck,SC-000228.AV01,0,matrix_intact
+Avana,ACH-000231,CNS/Brain,SC-000231.AV01,0,matrix_intact
+Avana,ACH-000232,CNS/Brain,SC-000232.AV01,0,matrix_intact
+Avana,ACH-000233,Lymphoid,SC-000233.AV01,0,matrix_intact
+Avana,ACH-000234,Kidney,SC-000234.AV01,0,matrix_intact
+Avana,ACH-000235,Pancreas,SC-000235.AV01,2,damaging
+Avana,ACH-000237,Ovary/Fallopian Tube,SC-000237.AV01,0,matrix_intact
+Avana,ACH-000238,Head and Neck,SC-000238.AV02,2,damaging
+Avana,ACH-000243,Pancreas,SC-000243.AV01,0,matrix_intact
+Avana,ACH-000244,CNS/Brain,SC-000244.AV01,0,matrix_intact
+Avana,ACH-000246,Kidney,SC-000246.AV01,0,matrix_intact
+Avana,ACH-000247,Esophagus/Stomach,SC-000247.AV01,0,matrix_intact
+Avana,ACH-000248,Breast,SC-000248.AV01,0,matrix_intact
+Avana,ACH-000250,Kidney,SC-000250.AV01,0,matrix_intact
+Avana,ACH-000251,Lung,SC-000251.AV01,2,damaging
+Avana,ACH-000252,Bowel,SC-000252.AV01,0,matrix_intact
+Avana,ACH-000253,Bowel,SC-000253.AV01,0,matrix_intact
+Avana,ACH-000255,Esophagus/Stomach,SC-000255.AV01,0,matrix_intact
+Avana,ACH-000256,Ovary/Fallopian Tube,SC-000256.AV01,0,matrix_intact
+Avana,ACH-000257,Lung,SC-000257.AV01,0,matrix_intact
+Avana,ACH-000258,Breast,SC-000258.AV01,0,matrix_intact
+Avana,ACH-000259,Peripheral Nervous System,SC-000259.AV01,1,damaging
+Avana,ACH-000260,Peripheral Nervous System,SC-000260.AV01,0,matrix_intact
+Avana,ACH-000261,Lung,SC-000261.AV01,0,matrix_intact
+Avana,ACH-000262,Kidney,SC-000262.AV01,0,matrix_intact
+Avana,ACH-000263,Myeloid,SC-000263.AV01,0,matrix_intact
+Avana,ACH-000264,Lung,SC-000264.AV01,0,matrix_intact
+Avana,ACH-000265,Pancreas,SC-000265.AV01,0,matrix_intact
+Avana,ACH-000266,Pancreas,SC-000266.AV01,0,matrix_intact
+Avana,ACH-000272,Kidney,SC-000272.AV01,0,matrix_intact
+Avana,ACH-000273,CNS/Brain,SC-000273.AV01,0,matrix_intact
+Avana,ACH-000274,Skin,SC-000274.AV01,0,matrix_intact
+Avana,ACH-000276,Breast,SC-000276.AV01,0,matrix_intact
+Avana,ACH-000277,Breast,SC-000277.AV01,0,matrix_intact
+Avana,ACH-000278,Ovary/Fallopian Tube,SC-000278.AV01,0,matrix_intact
+Avana,ACH-000279,Bone,SC-000279.AV01,0,matrix_intact
+Avana,ACH-000280,Ovary/Fallopian Tube,SC-000280.AV01,0,matrix_intact
+Avana,ACH-000281,Pancreas,SC-000281.AV01,0,matrix_intact
+Avana,ACH-000286,Bowel,SC-000286.AV01,0,matrix_intact
+Avana,ACH-000288,Breast,SC-000288.AV01,0,matrix_intact
+Avana,ACH-000290,Lung,SC-000290.AV01,0,matrix_intact
+Avana,ACH-000291,Ovary/Fallopian Tube,SC-000291.AV01,0,matrix_intact
+Avana,ACH-000292,Lung,SC-000292.AV01,0,matrix_intact
+Avana,ACH-000293,Uterus,SC-000293.AV01,0,matrix_intact
+Avana,ACH-000294,Myeloid,SC-000294.AV01,0,matrix_intact
+Avana,ACH-000295,Myeloid,SC-000295.AV01,0,matrix_intact
+Avana,ACH-000296,Bowel,SC-000296.AV01,0,matrix_intact
+Avana,ACH-000302,Uterus,SC-000302.AV01,0,matrix_intact
+Avana,ACH-000303,Esophagus/Stomach,SC-000303.AV01,2,damaging
+Avana,ACH-000304,Skin,SC-000304.AV01,0,matrix_intact
+Avana,ACH-000305,Esophagus/Stomach,SC-000305.AV01,0,matrix_intact
+Avana,ACH-000307,Pancreas,SC-000307.AV01,0,matrix_intact
+Avana,ACH-000308,Ovary/Fallopian Tube,SC-000308.AV01,0,matrix_intact
+Avana,ACH-000310,Peripheral Nervous System,SC-000310.AV01,0,matrix_intact
+Avana,ACH-000311,Lung,SC-000311.AV01,0,matrix_intact
+Avana,ACH-000312,Peripheral Nervous System,SC-000312.AV01,0,matrix_intact
+Avana,ACH-000313,Kidney,SC-000313.AV01,0,matrix_intact
+Avana,ACH-000315,Lymphoid,SC-000315.AV01,0,matrix_intact
+Avana,ACH-000316,Liver,SC-000316.AV01,0,matrix_intact
+Avana,ACH-000317,Kidney,SC-000317.AV01,0,matrix_intact
+Avana,ACH-000318,Esophagus/Stomach,SC-000318.AV01,0,matrix_intact
+Avana,ACH-000319,Pleura,SC-000319.AV01,0,matrix_intact
+Avana,ACH-000320,Pancreas,SC-000320.AV01,0,matrix_intact
+Avana,ACH-000322,Skin,SC-000322.AV01,0,matrix_intact
+Avana,ACH-000323,CNS/Brain,SC-000323.AV01,0,matrix_intact
+Avana,ACH-000324,Ovary/Fallopian Tube,SC-000324.AV01,0,matrix_intact
+Avana,ACH-000325,Esophagus/Stomach,SC-000325.AV02,0,matrix_intact
+Avana,ACH-000326,Myeloid,SC-000326.AV01,0,matrix_intact
+Avana,ACH-000329,CNS/Brain,SC-000329.AV01,0,matrix_intact
+Avana,ACH-000330,Breast,SC-000330.AV01,0,matrix_intact
+Avana,ACH-000331,Pleura,SC-000331.AV01,0,matrix_intact
+Avana,ACH-000332,Pancreas,SC-000332.AV01,0,matrix_intact
+Avana,ACH-000334,Lymphoid,SC-000334.AV01,0,matrix_intact
+Avana,ACH-000335,Pleura,SC-000335.AV01,0,matrix_intact
+Avana,ACH-000336,Myeloid,SC-000336.AV01,0,matrix_intact
+Avana,ACH-000337,Lung,SC-000337.AV01,0,matrix_intact
+Avana,ACH-000339,Lung,SC-000339.AV01,0,matrix_intact
+Avana,ACH-000341,Peripheral Nervous System,SC-000341.AV01,0,matrix_intact
+Avana,ACH-000343,Lung,SC-000343.AV02,0,matrix_intact
+Avana,ACH-000344,Esophagus/Stomach,SC-000344.AV01,0,matrix_intact
+Avana,ACH-000346,Lymphoid,SC-000346.AV01,0,matrix_intact
+Avana,ACH-000348,Skin,SC-000348.AV01,2,damaging
+Avana,ACH-000350,Bowel,SC-000350.AV01,0,matrix_intact
+Avana,ACH-000352,Breast,SC-000352.AV01,0,matrix_intact
+Avana,ACH-000355,Lung,SC-000355.AV01,0,matrix_intact
+Avana,ACH-000356,Esophagus/Stomach,SC-000356.AV01,0,matrix_intact
+Avana,ACH-000359,Bone,SC-000359.AV01,0,matrix_intact
+Avana,ACH-000361,Liver,SC-000361.AV01,0,matrix_intact
+Avana,ACH-000362,Myeloid,SC-000362.AV01,0,matrix_intact
+Avana,ACH-000363,Lymphoid,SC-000363.AV01,0,matrix_intact
+Avana,ACH-000364,Bone,SC-000364.AV01,0,matrix_intact
+Avana,ACH-000365,Lymphoid,SC-000365.AV01,0,matrix_intact
+Avana,ACH-000366,Peripheral Nervous System,SC-000366.AV01,0,matrix_intact
+Avana,ACH-000368,CNS/Brain,SC-000368.AV01,0,matrix_intact
+Avana,ACH-000370,CNS/Brain,SC-000370.AV01,0,matrix_intact
+Avana,ACH-000371,Lymphoid,SC-000371.AV01,0,matrix_intact
+Avana,ACH-000374,Breast,SC-000374.AV01,0,matrix_intact
+Avana,ACH-000375,Kidney,SC-000375.AV01,0,matrix_intact
+Avana,ACH-000376,CNS/Brain,SC-000376.AV01,0,matrix_intact
+Avana,ACH-000377,Ampulla of Vater,SC-000377.AV01,0,matrix_intact
+Avana,ACH-000378,Lung,SC-000378.AV01,0,matrix_intact
+Avana,ACH-000381,Bowel,SC-000381.AV01,0,matrix_intact
+Avana,ACH-000383,Esophagus/Stomach,SC-000383.AV01,1,damaging
+Avana,ACH-000385,Kidney,SC-000385.AV01,0,matrix_intact
+Avana,ACH-000387,Myeloid,SC-000387.AV01,0,matrix_intact
+Avana,ACH-000389,CNS/Brain,SC-000389.AV01,0,matrix_intact
+Avana,ACH-000390,Lung,SC-000390.AV01,0,matrix_intact
+Avana,ACH-000391,Bone,SC-000391.AV01,1,damaging
+Avana,ACH-000393,Liver,SC-000393.AV01,0,matrix_intact
+Avana,ACH-000395,Lung,SC-000395.AV01,2,damaging
+Avana,ACH-000396,Bladder/Urinary Tract,SC-000396.AV01,0,matrix_intact
+Avana,ACH-000397,Uterus,SC-000397.AV01,0,matrix_intact
+Avana,ACH-000398,Lymphoid,SC-000398.AV01,2,damaging
+Avana,ACH-000401,Skin,SC-000401.AV01,0,matrix_intact
+Avana,ACH-000402,Lymphoid,SC-000402.AV01,0,matrix_intact
+Avana,ACH-000403,Bowel,SC-000403.AV01,0,matrix_intact
+Avana,ACH-000404,Skin,SC-000404.AV01,1,damaging
+Avana,ACH-000405,Lymphoid,SC-000405.AV01,0,matrix_intact
+Avana,ACH-000406,Myeloid,SC-000406.AV01,0,matrix_intact
+Avana,ACH-000407,Uterus,SC-000407.AV01,0,matrix_intact
+Avana,ACH-000408,Esophagus/Stomach,SC-000408.AV01,0,matrix_intact
+Avana,ACH-000410,Bone,SC-000410.AV01,0,matrix_intact
+Avana,ACH-000411,Kidney,SC-000411.AV01,0,matrix_intact
+Avana,ACH-000414,Lung,SC-000414.AV01,0,matrix_intact
+Avana,ACH-000415,Head and Neck,SC-000415.AV01,0,matrix_intact
+Avana,ACH-000416,Lung,SC-000416.AV01,0,matrix_intact
+Avana,ACH-000417,Pancreas,SC-000417.AV01,0,matrix_intact
+Avana,ACH-000420,Liver,SC-000420.AV01,0,matrix_intact
+Avana,ACH-000421,Bowel,SC-000421.AV01,0,matrix_intact
+Avana,ACH-000422,Liver,SC-000422.AV01,0,matrix_intact
+Avana,ACH-000424,Bone,SC-000424.AV01,0,matrix_intact
+Avana,ACH-000425,Skin,SC-000425.AV01,0,matrix_intact
+Avana,ACH-000426,Lymphoid,SC-000426.AV01,0,matrix_intact
+Avana,ACH-000427,Esophagus/Stomach,SC-000427.AV01,0,matrix_intact
+Avana,ACH-000431,Lung,SC-000431.AV01,0,matrix_intact
+Avana,ACH-000433,Kidney,SC-000433.AV01,0,matrix_intact
+Avana,ACH-000434,Lung,SC-000434.AV01,0,matrix_intact
+Avana,ACH-000435,Uterus,SC-000435.AV01,0,matrix_intact
+Avana,ACH-000436,Lymphoid,SC-000436.AV01,0,matrix_intact
+Avana,ACH-000437,CNS/Brain,SC-000437.AV01,0,matrix_intact
+Avana,ACH-000438,Lung,SC-000438.AV01,0,matrix_intact
+Avana,ACH-000441,Skin,SC-000441.AV02,0,matrix_intact
+Avana,ACH-000444,Lung,SC-000444.AV01,0,matrix_intact
+Avana,ACH-000445,CNS/Brain,SC-000445.AV01,0,matrix_intact
+Avana,ACH-000448,Lung,SC-000448.AV01,0,matrix_intact
+Avana,ACH-000450,Skin,SC-000450.AV01,0,matrix_intact
+Avana,ACH-000452,Esophagus/Stomach,SC-000452.AV01,0,matrix_intact
+Avana,ACH-000454,Lung,SC-000454.AV01,0,matrix_intact
+Avana,ACH-000455,CNS/Brain,SC-000455.AV01,0,matrix_intact
+Avana,ACH-000456,Thyroid,SC-000456.AV01,0,matrix_intact
+Avana,ACH-000458,Skin,SC-000458.AV01,0,matrix_intact
+Avana,ACH-000459,Kidney,SC-000459.AV01,0,matrix_intact
+Avana,ACH-000460,Ovary/Fallopian Tube,SC-000460.AV01,0,matrix_intact
+Avana,ACH-000461,Biliary Tract,SC-000461.AV01,0,matrix_intact
+Avana,ACH-000463,Lung,SC-000463.AV01,0,matrix_intact
+Avana,ACH-000464,CNS/Brain,SC-000464.AV01,0,matrix_intact
+Avana,ACH-000466,Esophagus/Stomach,SC-000466.AV01,0,matrix_intact
+Avana,ACH-000467,Bowel,SC-000467.AV01,0,matrix_intact
+Avana,ACH-000468,Pancreas,SC-000468.AV01,0,matrix_intact
+Avana,ACH-000469,CNS/Brain,SC-000469.AV01,0,matrix_intact
+Avana,ACH-000470,Bowel,SC-000470.AV01,0,matrix_intact
+Avana,ACH-000471,Liver,SC-000471.AV01,0,matrix_intact
+Avana,ACH-000472,Head and Neck,SC-000472.AV01,2,damaging
+Avana,ACH-000473,Bladder/Urinary Tract,SC-000473.AV01,0,matrix_intact
+Avana,ACH-000475,Liver,SC-000475.AV01,0,matrix_intact
+Avana,ACH-000476,Liver,SC-000476.AV01,0,matrix_intact
+Avana,ACH-000477,Skin,SC-000477.AV01,0,matrix_intact
+Avana,ACH-000478,Liver,SC-000478.AV01,0,matrix_intact
+Avana,ACH-000479,CNS/Brain,SC-000479.AV01,0,matrix_intact
+Avana,ACH-000480,Liver,SC-000480.AV01,0,matrix_intact
+Avana,ACH-000481,Lung,SC-000481.AV01,0,matrix_intact
+Avana,ACH-000483,Liver,SC-000483.AV01,0,matrix_intact
+Avana,ACH-000484,Kidney,SC-000484.AV01,0,matrix_intact
+Avana,ACH-000485,Esophagus/Stomach,SC-000485.AV01,0,matrix_intact
+Avana,ACH-000486,Bladder/Urinary Tract,SC-000486.AV01,0,matrix_intact
+Avana,ACH-000487,Myeloid,SC-000487.AV01,0,matrix_intact
+Avana,ACH-000488,Esophagus/Stomach,SC-000488.AV01,0,matrix_intact
+Avana,ACH-000489,Bowel,SC-000489.AV01,0,matrix_intact
+Avana,ACH-000490,Cervix,SC-000490.AV01,0,matrix_intact
+Avana,ACH-000491,Bowel,SC-000491.AV01,0,matrix_intact
+Avana,ACH-000493,Liver,SC-000493.AV01,0,matrix_intact
+Avana,ACH-000495,Kidney,SC-000495.AV01,0,matrix_intact
+Avana,ACH-000496,Lung,SC-000496.AV01,0,matrix_intact
+Avana,ACH-000499,Bone,SC-000499.AV01,0,matrix_intact
+Avana,ACH-000500,Head and Neck,SC-000500.AV01,2,damaging
+Avana,ACH-000502,Pancreas,SC-000502.AV01,0,matrix_intact
+Avana,ACH-000503,Head and Neck,SC-000503.AV01,0,matrix_intact
+Avana,ACH-000504,CNS/Brain,SC-000504.AV01,0,matrix_intact
+Avana,ACH-000505,Soft Tissue,SC-000505.AV01,0,matrix_intact
+Avana,ACH-000507,Esophagus/Stomach,SC-000507.AV01,0,matrix_intact
+Avana,ACH-000510,Lung,SC-000510.AV01,0,matrix_intact
+Avana,ACH-000511,Lung,SC-000511.AV01,0,matrix_intact
+Avana,ACH-000512,Lymphoid,SC-000512.AV01,0,matrix_intact
+Avana,ACH-000514,Lung,SC-000514.AV01,0,matrix_intact
+Avana,ACH-000516,Bone,SC-000516.AV01,0,matrix_intact
+Avana,ACH-000517,Pancreas,SC-000517.AV01,0,matrix_intact
+Avana,ACH-000518,Head and Neck,SC-000518.AV01,2,damaging
+Avana,ACH-000520,Ovary/Fallopian Tube,SC-000520.AV01,0,matrix_intact
+Avana,ACH-000521,Lung,SC-000521.AV01,0,matrix_intact
+Avana,ACH-000522,Bladder/Urinary Tract,SC-000522.AV01,0,matrix_intact
+Avana,ACH-000524,Ovary/Fallopian Tube,SC-000524.AV01,0,matrix_intact
+Avana,ACH-000525,Lung,SC-000525.AV01,0,matrix_intact
+Avana,ACH-000527,Ovary/Fallopian Tube,SC-000527.AV01,0,matrix_intact
+Avana,ACH-000528,Lung,SC-000528.AV01,0,matrix_intact
+Avana,ACH-000532,Bowel,SC-000532.AV01,0,matrix_intact
+Avana,ACH-000533,Kidney,SC-000533.AV01,0,matrix_intact
+Avana,ACH-000535,Pancreas,SC-000535.AV01,0,matrix_intact
+Avana,ACH-000537,Liver,SC-000537.AV01,0,matrix_intact
+Avana,ACH-000541,Lymphoid,SC-000541.AV01,0,matrix_intact
+Avana,ACH-000542,Ovary/Fallopian Tube,SC-000542.AV01,0,matrix_intact
+Avana,ACH-000544,Esophagus/Stomach,SC-000544.AV01,0,matrix_intact
+Avana,ACH-000545,Bladder/Urinary Tract,SC-000545.AV01,2,damaging
+Avana,ACH-000547,Bladder/Urinary Tract,SC-000547.AV01,0,matrix_intact
+Avana,ACH-000548,Head and Neck,SC-000548.AV01,1,damaging
+Avana,ACH-000549,Head and Neck,SC-000549.AV01,0,matrix_intact
+Avana,ACH-000550,Skin,SC-000550.AV01,0,matrix_intact
+Avana,ACH-000551,Myeloid,SC-000551.AV01,0,matrix_intact
+Avana,ACH-000552,Bowel,SC-000552.AV01,0,matrix_intact
+Avana,ACH-000556,Cervix,SC-000556.AV01,0,matrix_intact
+Avana,ACH-000557,Myeloid,SC-000557.AV01,0,matrix_intact
+Avana,ACH-000559,Lung,SC-000559.AV01,0,matrix_intact
+Avana,ACH-000563,Lung,SC-000563.AV01,0,matrix_intact
+Avana,ACH-000567,Lymphoid,SC-000567.AV01,0,matrix_intact
+Avana,ACH-000570,CNS/Brain,SC-000570.AV01,0,matrix_intact
+Avana,ACH-000571,CNS/Brain,SC-000571.AV01,0,matrix_intact
+Avana,ACH-000573,Breast,SC-000573.AV01,0,matrix_intact
+Avana,ACH-000576,Lymphoid,SC-000576.AV01,0,matrix_intact
+Avana,ACH-000577,Liver,SC-000577.AV01,1,damaging
+Avana,ACH-000579,Skin,SC-000579.AV01,2,damaging
+Avana,ACH-000580,Skin,SC-000580.AV01,2,damaging
+Avana,ACH-000581,Esophagus/Stomach,SC-000581.AV02,0,matrix_intact
+Avana,ACH-000584,Ovary/Fallopian Tube,SC-000584.AV01,0,matrix_intact
+Avana,ACH-000585,Lung,SC-000585.AV01,0,matrix_intact
+Avana,ACH-000587,Lung,SC-000587.AV01,2,damaging
+Avana,ACH-000588,Lymphoid,SC-000588.AV01,0,matrix_intact
+Avana,ACH-000589,Lung,SC-000589.AV01,0,matrix_intact
+Avana,ACH-000591,CNS/Brain,SC-000591.AV01,0,matrix_intact
+Avana,ACH-000592,CNS/Brain,SC-000592.AV01,0,matrix_intact
+Avana,ACH-000593,Bladder/Urinary Tract,SC-000593.AV01,0,matrix_intact
+Avana,ACH-000595,CNS/Brain,SC-000595.AV01,0,matrix_intact
+Avana,ACH-000596,Lung,SC-000596.AV01,0,matrix_intact
+Avana,ACH-000597,Kidney,SC-000597.AV01,0,matrix_intact
+Avana,ACH-000599,Pancreas,SC-000599.AV01,0,matrix_intact
+Avana,ACH-000601,Pancreas,SC-000601.AV01,0,matrix_intact
+Avana,ACH-000602,Myeloid,SC-000602.AV03,0,matrix_intact
+Avana,ACH-000604,Myeloid,SC-000604.AV01,0,matrix_intact
+Avana,ACH-000605,Esophagus/Stomach,SC-000605.AV01,0,matrix_intact
+Avana,ACH-000606,Head and Neck,SC-000606.AV01,0,matrix_intact
+Avana,ACH-000607,Soft Tissue,SC-000607.AV02,0,matrix_intact
+Avana,ACH-000608,Ovary/Fallopian Tube,SC-000608.AV01,2,damaging
+Avana,ACH-000609,CNS/Brain,SC-000609.AV01,0,matrix_intact
+Avana,ACH-000614,Skin,SC-000614.AV01;SC-002875.AV01,0,matrix_intact
+Avana,ACH-000616,Esophagus/Stomach,SC-000616.AV01,0,matrix_intact
+Avana,ACH-000618,Head and Neck,SC-000618.AV01,0,matrix_intact
+Avana,ACH-000619,Head and Neck,SC-000619.AV01,0,matrix_intact
+Avana,ACH-000620,Liver,SC-000620.AV01,0,matrix_intact
+Avana,ACH-000621,Breast,SC-000621.AV01,0,matrix_intact
+Avana,ACH-000622,CNS/Brain,SC-000622.AV01,0,matrix_intact
+Avana,ACH-000623,CNS/Brain,SC-000623.AV01,0,matrix_intact
+Avana,ACH-000624,Breast,SC-000624.AV01,0,matrix_intact
+Avana,ACH-000627,Lung,SC-000627.AV01,0,matrix_intact
+Avana,ACH-000630,Head and Neck,SC-000630.AV01,0,matrix_intact
+Avana,ACH-000632,Skin,SC-000632.AV01,2,damaging
+Avana,ACH-000633,Esophagus/Stomach,SC-000633.AV01,0,matrix_intact
+Avana,ACH-000634,CNS/Brain,SC-000634.AV01,0,matrix_intact
+Avana,ACH-000637,Esophagus/Stomach,SC-000637.AV01,0,matrix_intact
+Avana,ACH-000638,Lung,SC-000638.AV01,0,matrix_intact
+Avana,ACH-000639,Lung,SC-000639.AV01,0,matrix_intact
+Avana,ACH-000645,Pleura,SC-000645.AV02,0,matrix_intact
+Avana,ACH-000646,Ovary/Fallopian Tube,SC-000646.AV01,0,matrix_intact
+Avana,ACH-000647,Esophagus/Stomach,SC-000647.AV01,0,matrix_intact
+Avana,ACH-000648,Pleura,SC-000648.AV01,0,matrix_intact
+Avana,ACH-000649,Kidney,SC-000649.AV01,0,matrix_intact
+Avana,ACH-000651,Bowel,SC-000651.AV01,0,matrix_intact
+Avana,ACH-000652,Pancreas,SC-000652.AV01,2,damaging
+Avana,ACH-000653,Lymphoid,SC-000653.AV01,0,matrix_intact
+Avana,ACH-000654,Lymphoid,SC-000654.AV01,0,matrix_intact
+Avana,ACH-000655,CNS/Brain,SC-000655.AV01,0,matrix_intact
+Avana,ACH-000657,Ovary/Fallopian Tube,SC-000657.AV01,0,matrix_intact
+Avana,ACH-000661,Skin,SC-000661.AV01,0,matrix_intact
+Avana,ACH-000662,Lung,SC-000662.AV01,2,damaging
+Avana,ACH-000663,Ovary/Fallopian Tube,SC-000663.AV01,0,matrix_intact
+Avana,ACH-000664,Lymphoid,SC-000664.AV01,0,matrix_intact
+Avana,ACH-000665,Lung,SC-000665.AV01,0,matrix_intact
+Avana,ACH-000667,Lung,SC-000667.AV01,0,matrix_intact
+Avana,ACH-000671,Liver,SC-000671.AV01,0,matrix_intact
+Avana,ACH-000673,CNS/Brain,SC-000673.AV01,0,matrix_intact
+Avana,ACH-000676,CNS/Brain,SC-000676.AV01,0,matrix_intact
+Avana,ACH-000677,Lung,SC-000677.AV01,0,matrix_intact
+Avana,ACH-000680,Bowel,SC-000680.AV01,0,matrix_intact
+Avana,ACH-000681,Lung,SC-000681.AV01,0,matrix_intact
+Avana,ACH-000682,Head and Neck,SC-000682.AV01,2,damaging
+Avana,ACH-000683,Bowel,SC-000683.AV01,2,damaging
+Avana,ACH-000684,Kidney,SC-000684.AV01,0,matrix_intact
+Avana,ACH-000685,Pancreas,SC-000685.AV01,0,matrix_intact
+Avana,ACH-000688,Ovary/Fallopian Tube,SC-000688.AV01,0,matrix_intact
+Avana,ACH-000693,Esophagus/Stomach,SC-000693.AV01,0,matrix_intact
+Avana,ACH-000694,Esophagus/Stomach,SC-000694.AV01,0,matrix_intact
+Avana,ACH-000695,Lung,SC-000695.AV01,0,matrix_intact
+Avana,ACH-000696,Ovary/Fallopian Tube,SC-000696.AV01,0,matrix_intact
+Avana,ACH-000697,Lymphoid,SC-000697.AV01,0,matrix_intact
+Avana,ACH-000698,Lung,SC-000698.AV01,0,matrix_intact
+Avana,ACH-000699,Breast,SC-000699.AV01,0,matrix_intact
+Avana,ACH-000700,Lung,SC-000700.AV01,0,matrix_intact
+Avana,ACH-000701,Ovary/Fallopian Tube,SC-000701.AV01,0,matrix_intact
+Avana,ACH-000702,Lymphoid,SC-000702.AV01,0,matrix_intact
+Avana,ACH-000706,Lung,SC-000706.AV01,0,matrix_intact
+Avana,ACH-000709,Kidney,SC-000709.AV02,0,matrix_intact
+Avana,ACH-000711,Breast,SC-000711.AV01,0,matrix_intact
+Avana,ACH-000713,Ovary/Fallopian Tube,SC-000713.AV01,0,matrix_intact
+Avana,ACH-000714,Lymphoid,SC-000714.AV01,0,matrix_intact
+Avana,ACH-000716,Thyroid,SC-000716.AV01,0,matrix_intact
+Avana,ACH-000718,Lung,SC-000718.AV01,0,matrix_intact
+Avana,ACH-000719,Ovary/Fallopian Tube,SC-000719.AV02,0,matrix_intact
+Avana,ACH-000720,Bladder/Urinary Tract,SC-000720.AV01,0,matrix_intact
+Avana,ACH-000721,Breast,SC-000721.AV01,0,matrix_intact
+Avana,ACH-000724,Bladder/Urinary Tract,SC-000724.AV01,0,matrix_intact
+Avana,ACH-000725,Breast,SC-000725.AV01,0,matrix_intact
+Avana,ACH-000732,Head and Neck,SC-000732.AV01,0,matrix_intact
+Avana,ACH-000734,Liver,SC-000734.AV01,0,matrix_intact
+Avana,ACH-000735,Head and Neck,SC-000735.AV01,1,damaging
+Avana,ACH-000736,Esophagus/Stomach,SC-000736.AV01,0,matrix_intact
+Avana,ACH-000738,CNS/Brain,SC-000738.AV01,0,matrix_intact
+Avana,ACH-000739,Liver,SC-000739.AV01,0,matrix_intact
+Avana,ACH-000740,Head and Neck,SC-000740.AV01,2,damaging
+Avana,ACH-000741,Bladder/Urinary Tract,SC-000741.AV01,0,matrix_intact
+Avana,ACH-000746,Esophagus/Stomach,SC-000746.AV01,2,damaging
+Avana,ACH-000747,Lung,SC-000747.AV01,2,damaging
+Avana,ACH-000748,Bone,SC-000748.AV01,0,matrix_intact
+Avana,ACH-000753,Bladder/Urinary Tract,SC-000753.AV01,0,matrix_intact
+Avana,ACH-000754,Lymphoid,SC-000754.AV01,0,matrix_intact
+Avana,ACH-000756,CNS/Brain,SC-000756.AV01,0,matrix_intact
+Avana,ACH-000757,Lung,SC-000757.AV01,0,matrix_intact
+Avana,ACH-000758,Esophagus/Stomach,SC-000758.AV01,0,matrix_intact
+Avana,ACH-000760,CNS/Brain,SC-000760.AV01,0,matrix_intact
+Avana,ACH-000762,Head and Neck,SC-000762.AV01,0,matrix_intact
+Avana,ACH-000763,Lymphoid,SC-000763.AV01,0,matrix_intact
+Avana,ACH-000764,Esophagus/Stomach,SC-000764.AV01,0,matrix_intact
+Avana,ACH-000765,Skin,SC-000765.AV01,2,damaging
+Avana,ACH-000766,Lung,SC-000766.AV01,0,matrix_intact
+Avana,ACH-000767,Lung,SC-000767.AV01,0,matrix_intact
+Avana,ACH-000768,Breast,SC-000768.AV01,0,matrix_intact
+Avana,ACH-000769,Lung,SC-000769.AV01,2,damaging
+Avana,ACH-000770,Myeloid,SC-000770.AV01,0,matrix_intact
+Avana,ACH-000771,Head and Neck,SC-000771.AV01,2,damaging
+Avana,ACH-000773,Lymphoid,SC-000773.AV01,0,matrix_intact
+Avana,ACH-000774,Lung,SC-000774.AV01,0,matrix_intact
+Avana,ACH-000775,Lung,SC-000775.AV01,0,matrix_intact
+Avana,ACH-000776,CNS/Brain,SC-000776.AV01,0,matrix_intact
+Avana,ACH-000777,Esophagus/Stomach,SC-000777.AV01,2,damaging
+Avana,ACH-000778,Head and Neck,SC-000778.AV01,2,damaging
+Avana,ACH-000781,Lung,SC-000781.AV01,0,matrix_intact
+Avana,ACH-000782,Lymphoid,SC-000782.AV01,1,damaging
+Avana,ACH-000783,Breast,SC-000783.AV01,0,matrix_intact
+Avana,ACH-000784,Esophagus/Stomach,SC-000784.AV01,0,matrix_intact
+Avana,ACH-000785,Lung,SC-000785.AV01,0,matrix_intact
+Avana,ACH-000787,Lung,SC-000787.AV01,1,damaging
+Avana,ACH-000788,Skin,SC-000788.AV01,0,matrix_intact
+Avana,ACH-000790,Lung,SC-000790.AV01,0,matrix_intact
+Avana,ACH-000791,Lung,SC-000791.AV01,0,matrix_intact
+Avana,ACH-000792,Kidney,SC-000792.AV01,0,matrix_intact
+Avana,ACH-000793,Esophagus/Stomach,SC-000793.AV01,0,matrix_intact
+Avana,ACH-000794,Head and Neck,SC-000794.AV01,0,matrix_intact
+Avana,ACH-000796,Ovary/Fallopian Tube,SC-000796.AV01,2,damaging
+Avana,ACH-000799,Skin,SC-000799.AV01,0,matrix_intact
+Avana,ACH-000800,Lung,SC-000800.AV01,0,matrix_intact
+Avana,ACH-000801,Skin,SC-000801.AV01,1,damaging
+Avana,ACH-000802,Bladder/Urinary Tract,SC-000802.AV01,0,matrix_intact
+Avana,ACH-000804,Peripheral Nervous System,SC-000804.AV01,0,matrix_intact
+Avana,ACH-000805,Skin,SC-000805.AV01,0,matrix_intact
+Avana,ACH-000807,CNS/Brain,SC-000807.AV01,0,matrix_intact
+Avana,ACH-000809,Esophagus/Stomach,SC-000809.AV01,0,matrix_intact
+Avana,ACH-000810,Skin,SC-000810.AV01,2,damaging
+Avana,ACH-000811,Ovary/Fallopian Tube,SC-000811.AV01,0,matrix_intact
+Avana,ACH-000817,Lymphoid,SC-000817.AV01,0,matrix_intact
+Avana,ACH-000819,CNS/Brain,SC-000819.AV01,0,matrix_intact
+Avana,ACH-000820,Bowel,SC-000820.AV01,0,matrix_intact
+Avana,ACH-000821,Lymphoid,SC-000821.AV01,0,matrix_intact
+Avana,ACH-000822,Skin,SC-000822.AV01,0,matrix_intact
+Avana,ACH-000823,Esophagus/Stomach,SC-000823.AV01,0,matrix_intact
+Avana,ACH-000824,Esophagus/Stomach,SC-000824.AV01,0,matrix_intact
+Avana,ACH-000827,Skin,SC-000827.AV01,0,matrix_intact
+Avana,ACH-000829,Lymphoid,SC-000829.AV01,0,matrix_intact
+Avana,ACH-000831,Uterus,SC-000831.AV01,0,matrix_intact
+Avana,ACH-000832,Head and Neck,SC-000832.AV01,2,damaging
+Avana,ACH-000833,Soft Tissue,SC-000833.AV01,0,matrix_intact
+Avana,ACH-000834,Bladder/Urinary Tract,SC-000834.AV01,0,matrix_intact
+Avana,ACH-000835,Soft Tissue,SC-000835.AV01,0,matrix_intact
+Avana,ACH-000836,Head and Neck,SC-000836.AV01,0,matrix_intact
+Avana,ACH-000837,Lung,SC-000837.AV01,0,matrix_intact
+Avana,ACH-000838,Lymphoid,SC-000838.AV01,0,matrix_intact
+Avana,ACH-000839,Bladder/Urinary Tract,SC-000839.AV01,2,damaging
+Avana,ACH-000840,Lung,SC-000840.AV01,0,matrix_intact
+Avana,ACH-000841,Lung,SC-000841.AV01,0,matrix_intact
+Avana,ACH-000843,Lung,SC-000843.AV01,0,matrix_intact
+Avana,ACH-000845,Lung,SC-000845.AV01,2,damaging
+Avana,ACH-000846,Head and Neck,SC-000846.AV01,2,damaging
+Avana,ACH-000847,Esophagus/Stomach,SC-000847.AV01,0,matrix_intact
+Avana,ACH-000848,Liver,SC-000848.AV01,0,matrix_intact
+Avana,ACH-000849,Breast,SC-000849.AV01,0,matrix_intact
+Avana,ACH-000851,Lung,SC-000851.AV01,0,matrix_intact
+Avana,ACH-000853,Lung,SC-000853.AV01,2,damaging
+Avana,ACH-000855,Esophagus/Stomach,SC-000855.AV01,0,matrix_intact
+Avana,ACH-000856,Breast,SC-000856.AV01,0,matrix_intact
+Avana,ACH-000858,Lung,SC-000858.AV01,2,damaging
+Avana,ACH-000859,Breast,SC-000859.AV01,0,matrix_intact
+Avana,ACH-000860,Lung,SC-000860.AV01,0,matrix_intact
+Avana,ACH-000861,Lung,SC-000861.AV01,0,matrix_intact
+Avana,ACH-000862,Bladder/Urinary Tract,SC-000862.AV01,0,matrix_intact
+Avana,ACH-000865,Esophagus/Stomach,SC-000865.AV01,0,matrix_intact
+Avana,ACH-000866,Lung,SC-000866.AV01,0,matrix_intact
+Avana,ACH-000867,Lung,SC-000867.AV01,0,matrix_intact
+Avana,ACH-000869,Lung,SC-000869.AV01,0,matrix_intact
+Avana,ACH-000871,Lung,SC-000871.AV01,0,matrix_intact
+Avana,ACH-000872,Lung,SC-000872.AV01,2,damaging
+Avana,ACH-000873,Esophagus/Stomach,SC-000873.AV01,0,matrix_intact
+Avana,ACH-000876,Breast,SC-000876.AV01,0,matrix_intact
+Avana,ACH-000878,Lung,SC-000878.AV01,0,matrix_intact
+Avana,ACH-000880,Esophagus/Stomach,SC-000880.AV01,0,matrix_intact
+Avana,ACH-000881,Skin,SC-000881.AV01,0,matrix_intact
+Avana,ACH-000882,Skin,SC-000882.AV01,0,matrix_intact
+Avana,ACH-000884,Skin,SC-000884.AV01,1,damaging
+Avana,ACH-000885,Ovary/Fallopian Tube,SC-000885.AV01,0,matrix_intact
+Avana,ACH-000886,Lung,SC-000886.AV01,0,matrix_intact
+Avana,ACH-000887,CNS/Brain,SC-000887.AV01,0,matrix_intact
+Avana,ACH-000888,Lung,SC-000888.AV02,0,matrix_intact
+Avana,ACH-000889,Lymphoid,SC-000889.AV01,0,matrix_intact
+Avana,ACH-000890,Lung,SC-000890.AV01,0,matrix_intact
+Avana,ACH-000896,Bladder/Urinary Tract,SC-000896.AV01,0,matrix_intact
+Avana,ACH-000898,Esophagus/Stomach,SC-000898.AV01,0,matrix_intact
+Avana,ACH-000899,Skin,SC-000899.AV02,0,matrix_intact
+Avana,ACH-000900,Lung,SC-000900.AV01,0,matrix_intact
+Avana,ACH-000901,Lung,SC-000901.AV01,0,matrix_intact
+Avana,ACH-000903,Thyroid,SC-000903.AV01,0,matrix_intact
+Avana,ACH-000905,Bladder/Urinary Tract,SC-000905.AV01,0,matrix_intact
+Avana,ACH-000906,Ovary/Fallopian Tube,SC-000906.AV01,0,matrix_intact
+Avana,ACH-000907,Kidney,SC-000907.AV01,0,matrix_intact
+Avana,ACH-000910,Breast,SC-000910.AV01,0,matrix_intact
+Avana,ACH-000911,Esophagus/Stomach,SC-000911.AV01,0,matrix_intact
+Avana,ACH-000912,Lung,SC-000912.AV01,2,damaging
+Avana,ACH-000913,Uterus,SC-000913.AV01,0,matrix_intact
+Avana,ACH-000914,Lymphoid,SC-000914.AV01,0,matrix_intact
+Avana,ACH-000915,Skin,SC-000915.AV01,0,matrix_intact
+Avana,ACH-000916,Lung,SC-000916.AV01,0,matrix_intact
+Avana,ACH-000917,Esophagus/Stomach,SC-000917.AV01,0,matrix_intact
+Avana,ACH-000920,Myeloid,SC-000920.AV01,0,matrix_intact
+Avana,ACH-000921,Lung,SC-000921.AV01,2,damaging
+Avana,ACH-000922,Lymphoid,SC-000922.AV01,0,matrix_intact
+Avana,ACH-000924,Lung,SC-000924.AV01,0,matrix_intact
+Avana,ACH-000926,Bowel,SC-000926.AV01,0,matrix_intact
+Avana,ACH-000928,Uterus,SC-000928.AV01,0,matrix_intact
+Avana,ACH-000929,Lung,SC-000929.AV01,0,matrix_intact
+Avana,ACH-000932,Esophagus/Stomach,SC-000932.AV01,0,matrix_intact
+Avana,ACH-000935,Bowel,SC-000935.AV01,2,damaging
+Avana,ACH-000936,Ovary/Fallopian Tube,SC-000936.AV01,0,matrix_intact
+Avana,ACH-000937,Lymphoid,SC-000937.AV01,0,matrix_intact
+Avana,ACH-000938,Lymphoid,SC-000938.AV01,0,matrix_intact
+Avana,ACH-000939,Uterus,SC-000939.AV01,0,matrix_intact
+Avana,ACH-000941,Uterus,SC-000941.AV01,0,matrix_intact
+Avana,ACH-000943,Bowel,SC-000943.AV01,0,matrix_intact
+Avana,ACH-000944,Lymphoid,SC-000944.AV01,0,matrix_intact
+Avana,ACH-000946,Uterus,SC-000946.AV01,0,matrix_intact
+Avana,ACH-000947,Ovary/Fallopian Tube,SC-000947.AV01,0,matrix_intact
+Avana,ACH-000948,Esophagus/Stomach,SC-000948.AV02,0,matrix_intact
+Avana,ACH-000950,Bowel,SC-000950.AV01,0,matrix_intact
+Avana,ACH-000953,Lymphoid,SC-000953.AV01,0,matrix_intact
+Avana,ACH-000957,Bowel,SC-000957.AV01,0,matrix_intact
+Avana,ACH-000958,Bowel,SC-000958.AV01,0,matrix_intact
+Avana,ACH-000959,Bowel,SC-000959.AV02,0,matrix_intact
+Avana,ACH-000960,Lymphoid,SC-000960.AV01,0,matrix_intact
+Avana,ACH-000961,Uterus,SC-000961.AV02,0,matrix_intact
+Avana,ACH-000963,Bowel,SC-000963.AV01,0,matrix_intact
+Avana,ACH-000965,Uterus,SC-000965.AV01,0,matrix_intact
+Avana,ACH-000968,Skin,SC-000968.AV01,0,matrix_intact
+Avana,ACH-000969,Bowel,SC-000969.AV01,0,matrix_intact
+Avana,ACH-000973,Bladder/Urinary Tract,SC-000973.AV01,1,damaging
+Avana,ACH-000974,Uterus,SC-000974.AV01,0,matrix_intact
+Avana,ACH-000975,Lung,SC-000975.AV01,0,matrix_intact
+Avana,ACH-000976,Biliary Tract,SC-000976.AV01,0,matrix_intact
+Avana,ACH-000977,Prostate,SC-000977.AV01,0,matrix_intact
+Avana,ACH-000978,Uterus,SC-000978.AV01,1,damaging
+Avana,ACH-000980,Lung,SC-000980.AV01,0,matrix_intact
+Avana,ACH-000983,Myeloid,SC-000983.AV01,0,matrix_intact
+Avana,ACH-000984,Uterus,SC-000984.AV01,0,matrix_intact
+Avana,ACH-000986,Bowel,SC-000986.AV01,0,matrix_intact
+Avana,ACH-000988,Uterus,SC-000988.AV01,2,damaging
+Avana,ACH-000993,Uterus,SC-000993.AV01,0,matrix_intact
+Avana,ACH-000994,Uterus,SC-000994.AV01,0,matrix_intact
+Avana,ACH-000995,Lymphoid,SC-000995.AV01,0,matrix_intact
+Avana,ACH-000996,Uterus,SC-000996.AV01,0,matrix_intact
+Avana,ACH-001001,Bone,SC-001001.AV01,0,matrix_intact
+Avana,ACH-001020,CNS/Brain,SC-001020.AV01,0,matrix_intact
+Avana,ACH-001028,CNS/Brain,SC-001028.AV01,0,matrix_intact
+Avana,ACH-001029,Bone,SC-001029.AV02,0,matrix_intact
+Avana,ACH-001031,CNS/Brain,SC-001031.AV01,0,matrix_intact
+Avana,ACH-001033,CNS/Brain,SC-001033.AV01,0,matrix_intact
+Avana,ACH-001036,Myeloid,SC-001036.AV01,0,matrix_intact
+Avana,ACH-001038,Bone,SC-001038.AV01,0,matrix_intact
+Avana,ACH-001041,Skin,SC-001041.AV01,0,matrix_intact
+Avana,ACH-001048,Ovary/Fallopian Tube,SC-001048.AV01,0,matrix_intact
+Avana,ACH-001050,Soft Tissue,SC-001050.AV01,0,matrix_intact
+Avana,ACH-001053,CNS/Brain,SC-001053.AV01,0,matrix_intact
+Avana,ACH-001054,CNS/Brain,SC-001054.AV01,0,matrix_intact
+Avana,ACH-001061,Bowel,SC-001061.AV01,0,matrix_intact
+Avana,ACH-001067,CNS/Brain,SC-001067.AV01,0,matrix_intact
+Avana,ACH-001075,Lung,SC-001075.AV01,0,matrix_intact
+Avana,ACH-001096,Soft Tissue,SC-001096.AV01,2,damaging
+Avana,ACH-001098,Pancreas,SC-001098.AV01,2,damaging
+Avana,ACH-001099,Kidney,SC-001099.AV01,0,matrix_intact
+Avana,ACH-001119,Lymphoid,SC-001119.AV01,0,matrix_intact
+Avana,ACH-001128,Kidney,SC-001128.AV01,0,matrix_intact
+Avana,ACH-001129,Myeloid,SC-001129.AV01,0,matrix_intact
+Avana,ACH-001134,Lymphoid,SC-001134.AV01,0,matrix_intact
+Avana,ACH-001145,Ovary/Fallopian Tube,SC-001145.AV01,0,matrix_intact
+Avana,ACH-001151,Ovary/Fallopian Tube,SC-001151.AV01,0,matrix_intact
+Avana,ACH-001163,Kidney,SC-001163.AV01,0,matrix_intact
+Avana,ACH-001164,Soft Tissue,SC-001164.AV01,0,matrix_intact
+Avana,ACH-001172,CNS/Brain,SC-001172.AV01,0,matrix_intact
+Avana,ACH-001183,Bladder/Urinary Tract,SC-001183.AV01,0,matrix_intact
+Avana,ACH-001184,Soft Tissue,SC-001184.AV01,0,matrix_intact
+Avana,ACH-001188,Peripheral Nervous System,SC-001188.AV01,0,matrix_intact
+Avana,ACH-001190,Skin,SC-001190.AV01,0,matrix_intact
+Avana,ACH-001192,Bone,SC-001192.AV01,0,matrix_intact
+Avana,ACH-001193,Bone,SC-001193.AV01,0,matrix_intact
+Avana,ACH-001194,Kidney,SC-001194.AV01,0,matrix_intact
+Avana,ACH-001196,Soft Tissue,SC-001196.AV01,0,matrix_intact
+Avana,ACH-001197,Lymphoid,SC-001197.AV01,0,matrix_intact
+Avana,ACH-001205,Bone,SC-001205.AV01,0,matrix_intact
+Avana,ACH-001211,Kidney,SC-001211.AV01,0,matrix_intact
+Avana,ACH-001212,Kidney,SC-001212.AV01,0,matrix_intact
+Avana,ACH-001228,Head and Neck,SC-001228.AV01,0,matrix_intact
+Avana,ACH-001229,Head and Neck,SC-001229.AV01,0,matrix_intact
+Avana,ACH-001232,CNS/Brain,SC-001232.AV01,0,matrix_intact
+Avana,ACH-001239,Skin,SC-001239.AV01,0,matrix_intact
+Avana,ACH-001270,Soft Tissue,SC-001270.AV01,0,matrix_intact
+Avana,ACH-001274,Soft Tissue,SC-001274.AV01,0,matrix_intact
+Avana,ACH-001275,Soft Tissue,SC-001275.AV01,0,matrix_intact
+Avana,ACH-001277,Soft Tissue,SC-001277.AV01,0,matrix_intact
+Avana,ACH-001278,Ovary/Fallopian Tube,SC-001278.AV01,0,matrix_intact
+Avana,ACH-001279,Ovary/Fallopian Tube,SC-001279.AV02,0,matrix_intact
+Avana,ACH-001280,Soft Tissue,SC-001280.AV01,0,matrix_intact
+Avana,ACH-001283,Bone,SC-001283.AV01,0,matrix_intact
+Avana,ACH-001289,CNS/Brain,SC-001289.AV01,0,matrix_intact
+Avana,ACH-001295,Eye,SC-001295.AV01,0,matrix_intact
+Avana,ACH-001300,Peripheral Nervous System,SC-001300.AV01,0,matrix_intact
+Avana,ACH-001301,Peripheral Nervous System,SC-001301.AV01,0,matrix_intact
+Avana,ACH-001302,Peripheral Nervous System,SC-001302.AV01,0,matrix_intact
+Avana,ACH-001303,Peripheral Nervous System,SC-001303.AV01,0,matrix_intact
+Avana,ACH-001306,Thyroid,SC-001306.AV01,0,matrix_intact
+Avana,ACH-001307,Thyroid,SC-001307.AV01,0,matrix_intact
+Avana,ACH-001310,Kidney,SC-001310.AV01,0,matrix_intact
+Avana,ACH-001318,Liver,SC-001318.AV01,2,damaging
+Avana,ACH-001322,Soft Tissue,SC-001322.AV01,0,matrix_intact
+Avana,ACH-001328,Skin,SC-001328.AV01,0,matrix_intact
+Avana,ACH-001329,CNS/Brain,SC-001329.AV01,0,matrix_intact
+Avana,ACH-001333,Cervix,SC-001333.AV01,0,matrix_intact
+Avana,ACH-001334,Cervix,SC-001334.AV01,0,matrix_intact
+Avana,ACH-001335,Cervix,SC-001335.AV01,0,matrix_intact
+Avana,ACH-001336,Cervix,SC-001336.AV01,0,matrix_intact
+Avana,ACH-001338,Peripheral Nervous System,SC-001338.AV01,0,matrix_intact
+Avana,ACH-001340,Ovary/Fallopian Tube,SC-001340.AV01,0,matrix_intact
+Avana,ACH-001341,Cervix,SC-001341.AV01,0,matrix_intact
+Avana,ACH-001344,Peripheral Nervous System,SC-001344.AV01,0,matrix_intact
+Avana,ACH-001345,Bowel,SC-001345.AV01,0,matrix_intact
+Avana,ACH-001346,Head and Neck,SC-001346.AV01,2,damaging
+Avana,ACH-001347,Head and Neck,SC-001347.AV01,2,damaging
+Avana,ACH-001353,Pancreas,SC-001353.AV01,0,matrix_intact
+Avana,ACH-001354,Peripheral Nervous System,SC-001354.AV01,0,matrix_intact
+Avana,ACH-001356,Thyroid,SC-001356.AV01,0,matrix_intact
+Avana,ACH-001360,Cervix,SC-001360.AV01,0,matrix_intact
+Avana,ACH-001366,Peripheral Nervous System,SC-001366.AV01,0,matrix_intact
+Avana,ACH-001367,Peripheral Nervous System,SC-001367.AV01,0,matrix_intact
+Avana,ACH-001368,Esophagus/Stomach,SC-001368.AV01,0,matrix_intact
+Avana,ACH-001370,Ovary/Fallopian Tube,SC-001370.AV01,0,matrix_intact
+Avana,ACH-001374,Ovary/Fallopian Tube,SC-001374.AV01,0,matrix_intact
+Avana,ACH-001375,Pancreas,SC-001375.AV01,0,matrix_intact
+Avana,ACH-001377,Pancreas,SC-001377.AV01,2,damaging
+Avana,ACH-001379,Pancreas,SC-001379.AV01,0,matrix_intact
+Avana,ACH-001380,Pancreas,SC-001380.AV01,0,matrix_intact
+Avana,ACH-001382,Pancreas,SC-001382.AV01,2,damaging
+Avana,ACH-001385,Head and Neck,SC-001385.AV01,0,matrix_intact
+Avana,ACH-001386,Lung,SC-001386.AV01,0,matrix_intact
+Avana,ACH-001388,Breast,SC-001388.AV01,0,matrix_intact
+Avana,ACH-001389,Breast,SC-001389.AV01,0,matrix_intact
+Avana,ACH-001390,Breast,SC-001390.AV01,0,matrix_intact
+Avana,ACH-001391,Breast,SC-001391.AV01,0,matrix_intact
+Avana,ACH-001392,Breast,SC-001392.AV01,0,matrix_intact
+Avana,ACH-001393,Breast,SC-001393.AV01,0,matrix_intact
+Avana,ACH-001394,Breast,SC-001394.AV01,0,matrix_intact
+Avana,ACH-001396,Breast,SC-001396.AV01,1,damaging
+Avana,ACH-001398,Kidney,SC-001398.AV01,0,matrix_intact
+Avana,ACH-001400,Vulva/Vagina,SC-001400.AV01,0,matrix_intact
+Avana,ACH-001402,Cervix,SC-001402.AV01,0,matrix_intact
+Avana,ACH-001403,Ovary/Fallopian Tube,SC-001403.AV01,0,matrix_intact
+Avana,ACH-001407,Bladder/Urinary Tract,SC-001407.AV01,0,matrix_intact
+Avana,ACH-001408,Bladder/Urinary Tract,SC-001408.AV01,0,matrix_intact
+Avana,ACH-001409,Bladder/Urinary Tract,SC-001409.AV01,0,matrix_intact
+Avana,ACH-001411,Bladder/Urinary Tract,SC-001411.AV01,0,matrix_intact
+Avana,ACH-001412,Bladder/Urinary Tract,SC-001412.AV01,0,matrix_intact
+Avana,ACH-001413,Bladder/Urinary Tract,SC-001413.AV01,0,matrix_intact
+Avana,ACH-001414,Bladder/Urinary Tract,SC-001414.AV01,0,matrix_intact
+Avana,ACH-001415,Bladder/Urinary Tract,SC-001415.AV01,0,matrix_intact
+Avana,ACH-001416,Bladder/Urinary Tract,SC-001416.AV01,2,damaging
+Avana,ACH-001418,Ovary/Fallopian Tube,SC-001418.AV01,0,matrix_intact
+Avana,ACH-001419,Breast,SC-001419.AV01,0,matrix_intact
+Avana,ACH-001421,Eye,SC-001421.AV01,0,matrix_intact
+Avana,ACH-001422,Prostate,SC-001422.AV01,0,matrix_intact
+Avana,ACH-001430,Bone,SC-001430.AV01,0,matrix_intact
+Avana,ACH-001431,Bone,SC-001431.AV01,0,matrix_intact
+Avana,ACH-001433,Soft Tissue,SC-001433.AV01,0,matrix_intact
+Avana,ACH-001442,Skin,SC-001442.AV01,0,matrix_intact
+Avana,ACH-001443,Thyroid,SC-001443.AV01,0,matrix_intact
+Avana,ACH-001450,Lymphoid,SC-001450.AV01,0,matrix_intact
+Avana,ACH-001451,Cervix,SC-001451.AV01,0,matrix_intact
+Avana,ACH-001453,Prostate,SC-001453.AV01,0,matrix_intact
+Avana,ACH-001454,Bowel,SC-001454.AV01,0,matrix_intact
+Avana,ACH-001458,Bowel,SC-001458.AV01,0,matrix_intact
+Avana,ACH-001459,Bowel,SC-001459.AV01,0,matrix_intact
+Avana,ACH-001460,Bowel,SC-001460.AV01,0,matrix_intact
+Avana,ACH-001461,Bowel,SC-001461.AV01,0,matrix_intact
+Avana,ACH-001481,Peripheral Nervous System,SC-001481.AV01,0,matrix_intact
+Avana,ACH-001494,Biliary Tract,SC-001494.AV01,0,matrix_intact
+Avana,ACH-001495,Uterus,SC-001495.AV01,0,matrix_intact
+Avana,ACH-001496,Esophagus/Stomach,SC-001496.AV01,0,matrix_intact
+Avana,ACH-001497,Esophagus/Stomach,SC-001497.AV01,2,damaging
+Avana,ACH-001498,Lymphoid,SC-001498.AV01,1,damaging
+Avana,ACH-001500,Esophagus/Stomach,SC-001500.AV01,0,matrix_intact
+Avana,ACH-001509,Head and Neck,SC-001509.AV01,2,damaging
+Avana,ACH-001510,Head and Neck,SC-001510.AV01,0,matrix_intact
+Avana,ACH-001511,Head and Neck,SC-001511.AV01,0,matrix_intact
+Avana,ACH-001513,Cervix,SC-001513.AV01,0,matrix_intact
+Avana,ACH-001515,Cervix,SC-001515.AV01,0,matrix_intact
+Avana,ACH-001517,Uterus,SC-001517.AV01,0,matrix_intact
+Avana,ACH-001518,Uterus,SC-001518.AV01,0,matrix_intact
+Avana,ACH-001520,Lymphoid,SC-001520.AV01,0,matrix_intact
+Avana,ACH-001521,Skin,SC-001521.AV01,2,damaging
+Avana,ACH-001522,Skin,SC-001522.AV01,0,matrix_intact
+Avana,ACH-001523,Skin,SC-001523.AV01,2,damaging
+Avana,ACH-001524,Skin,SC-001524.AV01,2,damaging
+Avana,ACH-001525,Cervix,SC-001525.AV01,0,matrix_intact
+Avana,ACH-001526,Bone,SC-001526.AV02,0,matrix_intact
+Avana,ACH-001528,Thyroid,SC-001528.AV01,0,matrix_intact
+Avana,ACH-001529,Uterus,SC-001529.AV01,0,matrix_intact
+Avana,ACH-001530,Uterus,SC-001530.AV01,0,matrix_intact
+Avana,ACH-001532,Kidney,SC-001532.AV01,0,matrix_intact
+Avana,ACH-001533,Lymphoid,SC-001533.AV01,0,matrix_intact
+Avana,ACH-001536,Biliary Tract,SC-001536.AV01,0,matrix_intact
+Avana,ACH-001538,Biliary Tract,SC-001538.AV01,0,matrix_intact
+Avana,ACH-001539,Lymphoid,SC-001539.AV01,0,matrix_intact
+Avana,ACH-001542,Head and Neck,SC-001542.AV01,0,matrix_intact
+Avana,ACH-001543,Head and Neck,SC-001543.AV01,2,damaging
+Avana,ACH-001547,Pleura,SC-001547.AV01,0,matrix_intact
+Avana,ACH-001548,Peripheral Nervous System,SC-001548.AV01,0,matrix_intact
+Avana,ACH-001549,Lung,SC-001549.AV01,0,matrix_intact
+Avana,ACH-001550,Skin,SC-001550.AV01,0,matrix_intact
+Avana,ACH-001551,Skin,SC-001551.AV01,0,matrix_intact
+Avana,ACH-001552,Skin,SC-001552.AV01,0,matrix_intact
+Avana,ACH-001554,Eye,SC-001554.AV01,2,damaging
+Avana,ACH-001555,Pleura,SC-001555.AV01,0,matrix_intact
+Avana,ACH-001556,Pleura,SC-001556.AV01,0,matrix_intact
+Avana,ACH-001557,Pleura,SC-001557.AV01,0,matrix_intact
+Avana,ACH-001558,Pleura,SC-001558.AV01,0,matrix_intact
+Avana,ACH-001559,Pleura,SC-001559.AV01,0,matrix_intact
+Avana,ACH-001560,Pleura,SC-001560.AV01,0,matrix_intact
+Avana,ACH-001562,Pleura,SC-001562.AV01,0,matrix_intact
+Avana,ACH-001563,Skin,SC-001563.AV01,2,damaging
+Avana,ACH-001566,Skin,SC-001566.AV01,0,matrix_intact
+Avana,ACH-001567,Skin,SC-001567.AV01,0,matrix_intact
+Avana,ACH-001568,Skin,SC-001568.AV01,0,matrix_intact
+Avana,ACH-001570,Skin,SC-001570.AV01,2,damaging
+Avana,ACH-001574,Myeloid,SC-001574.AV01,0,matrix_intact
+Avana,ACH-001577,Myeloid,SC-001577.AV01,0,matrix_intact
+Avana,ACH-001607,Biliary Tract,SC-001607.AV01,2,damaging
+Avana,ACH-001608,CNS/Brain,SC-001608.AV01,0,matrix_intact
+Avana,ACH-001609,CNS/Brain,SC-001609.AV01,0,matrix_intact
+Avana,ACH-001610,CNS/Brain,SC-001610.AV01,0,matrix_intact
+Avana,ACH-001611,CNS/Brain,SC-001611.AV01,2,damaging
+Avana,ACH-001616,Lymphoid,SC-001616.AV01,2,damaging
+Avana,ACH-001618,Myeloid,SC-001618.AV01,0,matrix_intact
+Avana,ACH-001619,Biliary Tract,SC-001619.AV01,0,matrix_intact
+Avana,ACH-001622,CNS/Brain,SC-001622.AV01,0,matrix_intact
+Avana,ACH-001623,CNS/Brain,SC-001623.AV01,0,matrix_intact
+Avana,ACH-001624,CNS/Brain,SC-001624.AV01,0,matrix_intact
+Avana,ACH-001627,Prostate,SC-001627.AV01,0,matrix_intact
+Avana,ACH-001628,Ovary/Fallopian Tube,SC-001628.AV01,2,damaging
+Avana,ACH-001630,Ovary/Fallopian Tube,SC-001630.AV01,0,matrix_intact
+Avana,ACH-001634,Lymphoid,SC-001634.AV01,0,matrix_intact
+Avana,ACH-001641,Head and Neck,SC-001641.AV01,0,matrix_intact
+Avana,ACH-001645,Skin,SC-001645.AV01,0,matrix_intact
+Avana,ACH-001647,Myeloid,SC-001647.AV01,0,matrix_intact
+Avana,ACH-001648,Prostate,SC-001648.AV01,0,matrix_intact
+Avana,ACH-001649,Prostate,SC-001649.AV01,0,matrix_intact
+Avana,ACH-001650,Cervix,SC-001650.AV01,0,matrix_intact
+Avana,ACH-001651,Cervix,SC-001651.AV01,0,matrix_intact
+Avana,ACH-001652,Cervix,SC-001652.AV01,0,matrix_intact
+Avana,ACH-001653,Esophagus/Stomach,SC-001653.AV01,0,matrix_intact
+Avana,ACH-001654,Esophagus/Stomach,SC-001654.AV01,0,matrix_intact
+Avana,ACH-001655,Uterus,SC-001655.AV01,0,matrix_intact
+Avana,ACH-001656,Myeloid,SC-001656.AV01,0,matrix_intact
+Avana,ACH-001664,Esophagus/Stomach,SC-001664.AV01,0,matrix_intact
+Avana,ACH-001668,Testis,SC-001668.AV01,0,matrix_intact
+Avana,ACH-001669,Lymphoid,SC-001669.AV01,0,matrix_intact
+Avana,ACH-001670,CNS/Brain,SC-001670.AV01,0,matrix_intact
+Avana,ACH-001673,Biliary Tract,SC-001673.AV01,0,matrix_intact
+Avana,ACH-001674,Peripheral Nervous System,SC-001674.AV01,0,matrix_intact
+Avana,ACH-001675,Head and Neck,SC-001675.AV01,2,damaging
+Avana,ACH-001677,Lymphoid,SC-001677.AV01,0,matrix_intact
+Avana,ACH-001685,Lymphoid,SC-001685.AV01,0,matrix_intact
+Avana,ACH-001687,Kidney,SC-001687.AV01,0,matrix_intact
+Avana,ACH-001688,Kidney,SC-001688.AV01,0,matrix_intact
+Avana,ACH-001690,Head and Neck,SC-001690.AV01,2,damaging
+Avana,ACH-001691,Head and Neck,SC-001691.AV01,0,matrix_intact
+Avana,ACH-001692,Head and Neck,SC-001692.AV01,2,damaging
+Avana,ACH-001694,Head and Neck,SC-001694.AV01,0,matrix_intact
+Avana,ACH-001696,Head and Neck,SC-001696.AV01,2,damaging
+Avana,ACH-001698,Head and Neck,SC-001698.AV01,0,matrix_intact
+Avana,ACH-001699,Head and Neck,SC-001699.AV01,0,matrix_intact
+Avana,ACH-001701,Head and Neck,SC-001701.AV01,0,matrix_intact
+Avana,ACH-001702,Soft Tissue,SC-001702.AV01,0,matrix_intact
+Avana,ACH-001707,Lymphoid,SC-001707.AV01,0,matrix_intact
+Avana,ACH-001709,Lymphoid,SC-001709.AV01,0,matrix_intact
+Avana,ACH-001711,CNS/Brain,SC-001711.AV01,0,matrix_intact
+Avana,ACH-001715,Bone,SC-001715.AV01,0,matrix_intact
+Avana,ACH-001719,Ovary/Fallopian Tube,SC-001719.AV01,0,matrix_intact
+Avana,ACH-001735,Lymphoid,SC-001735.AV01,1,damaging
+Avana,ACH-001736,Lymphoid,SC-001736.AV01,2,damaging
+Avana,ACH-001737,Lymphoid,SC-001737.AV01,0,matrix_intact
+Avana,ACH-001740,Soft Tissue,SC-001740.AV01,1,damaging
+Avana,ACH-001745,Soft Tissue,SC-001745.AV01,0,matrix_intact
+Avana,ACH-001750,Soft Tissue,SC-001750.AV01,0,matrix_intact
+Avana,ACH-001765,Soft Tissue,SC-001765.AV01,0,matrix_intact
+Avana,ACH-001786,Bowel,SC-001786.AV01,0,matrix_intact
+Avana,ACH-001791,Soft Tissue,SC-001791.AV01,0,matrix_intact
+Avana,ACH-001793,Soft Tissue,SC-001793.AV01,0,matrix_intact
+Avana,ACH-001794,Soft Tissue,SC-001794.AV01,0,matrix_intact
+Avana,ACH-001795,Soft Tissue,SC-001795.AV01,0,matrix_intact
+Avana,ACH-001796,Soft Tissue,SC-001796.AV01,0,matrix_intact
+Avana,ACH-001799,Soft Tissue,SC-001799.AV01,0,matrix_intact
+Avana,ACH-001802,Soft Tissue,SC-001802.AV01,0,matrix_intact
+Avana,ACH-001804,Soft Tissue,SC-001804.AV01,0,matrix_intact
+Avana,ACH-001814,Bone,SC-001814.AV01,0,matrix_intact
+Avana,ACH-001819,Breast,SC-001819.AV01,0,matrix_intact
+Avana,ACH-001820,Breast,SC-001820.AV01,0,matrix_intact
+Avana,ACH-001834,Biliary Tract,SC-001834.AV01,0,matrix_intact
+Avana,ACH-001835,Biliary Tract,SC-001835.AV01,0,matrix_intact
+Avana,ACH-001836,Biliary Tract,SC-001836.AV01,0,matrix_intact
+Avana,ACH-001838,Biliary Tract,SC-001838.AV01,0,matrix_intact
+Avana,ACH-001839,Biliary Tract,SC-001839.AV01,0,matrix_intact
+Avana,ACH-001841,Biliary Tract,SC-001841.AV01,2,damaging
+Avana,ACH-001842,Biliary Tract,SC-001842.AV01,0,matrix_intact
+Avana,ACH-001843,Biliary Tract,SC-001843.AV01,0,matrix_intact
+Avana,ACH-001844,Biliary Tract,SC-001844.AV01,0,matrix_intact
+Avana,ACH-001848,Biliary Tract,SC-001848.AV01,0,matrix_intact
+Avana,ACH-001849,Biliary Tract,SC-001849.AV01,0,matrix_intact
+Avana,ACH-001850,Biliary Tract,SC-001850.AV01,0,matrix_intact
+Avana,ACH-001852,Biliary Tract,SC-001852.AV01,0,matrix_intact
+Avana,ACH-001853,Liver,SC-001853.AV01,0,matrix_intact
+Avana,ACH-001856,Biliary Tract,SC-001856.AV01,0,matrix_intact
+Avana,ACH-001857,Biliary Tract,SC-001857.AV01,0,matrix_intact
+Avana,ACH-001858,Biliary Tract,SC-001858.AV01,0,matrix_intact
+Avana,ACH-001861,Biliary Tract,SC-001861.AV01,0,matrix_intact
+Avana,ACH-001862,Ampulla of Vater,SC-001862.AV01,2,damaging
+Avana,ACH-001863,Biliary Tract,SC-001863.AV01,0,matrix_intact
+Avana,ACH-001864,Biliary Tract,SC-001864.AV01,0,matrix_intact
+Avana,ACH-001959,Biliary Tract,SC-001959.AV01,0,matrix_intact
+Avana,ACH-001960,Biliary Tract,SC-001960.AV01,0,matrix_intact
+Avana,ACH-001961,Biliary Tract,SC-001961.AV01,0,matrix_intact
+Avana,ACH-001970,Skin,SC-001970.AV01,0,matrix_intact
+Avana,ACH-001973,Skin,SC-001973.AV01,2,damaging
+Avana,ACH-001977,Pleura,SC-001977.AV01,0,matrix_intact
+Avana,ACH-001982,Skin,SC-001982.AV01,0,matrix_intact
+Avana,ACH-001986,Skin,SC-001986.AV01,2,damaging
+Avana,ACH-001990,Skin,SC-001990.AV01,0,matrix_intact
+Avana,ACH-001991,Ovary/Fallopian Tube,SC-001991.AV01,0,matrix_intact
+Avana,ACH-001992,Pleura,SC-001992.AV01,0,matrix_intact
+Avana,ACH-001993,Lymphoid,SC-001993.AV01,0,matrix_intact
+Avana,ACH-001997,Biliary Tract,SC-001997.AV01,0,matrix_intact
+Avana,ACH-001999,Pancreas,SC-001999.AV01,2,damaging
+Avana,ACH-002001,Skin,SC-002001.AV01,2,damaging
+Avana,ACH-002002,Skin,SC-002002.AV01,2,damaging
+Avana,ACH-002003,Skin,SC-002003.AV01,2,damaging
+Avana,ACH-002005,Skin,SC-002005.AV01,2,damaging
+Avana,ACH-002014,Eye,SC-002014.AV02,0,matrix_intact
+Avana,ACH-002015,Eye,SC-002015.AV01,0,matrix_intact
+Avana,ACH-002016,Eye,SC-002016.AV01,0,matrix_intact
+Avana,ACH-002018,Eye,SC-002018.AV01,0,matrix_intact
+Avana,ACH-002019,Cervix,SC-002019.AV01,0,matrix_intact
+Avana,ACH-002020,Cervix,SC-002020.AV01,0,matrix_intact
+Avana,ACH-002021,Uterus,SC-002021.AV01,0,matrix_intact
+Avana,ACH-002023,Ampulla of Vater,SC-002023.AV01,2,damaging
+Avana,ACH-002024,Bowel,SC-002024.AV01,0,matrix_intact
+Avana,ACH-002025,Bowel,SC-002025.AV01,0,matrix_intact
+Avana,ACH-002026,Uterus,SC-002026.AV01,0,matrix_intact
+Avana,ACH-002027,Uterus,SC-002027.AV01,0,matrix_intact
+Avana,ACH-002029,Head and Neck,SC-002029.AV01,0,matrix_intact
+Avana,ACH-002030,Head and Neck,SC-002030.AV01,2,damaging
+Avana,ACH-002035,Lung,SC-002035.AV01,2,damaging
+Avana,ACH-002039,Pancreas,SC-002039.AV01,0,matrix_intact
+Avana,ACH-002040,Vulva/Vagina,SC-002040.AV01,0,matrix_intact
+Avana,ACH-002041,Thyroid,SC-002041.AV01,0,matrix_intact
+Avana,ACH-002042,Head and Neck,SC-002042.AV01,0,matrix_intact
+Avana,ACH-002043,Head and Neck,SC-002043.AV01,0,matrix_intact
+Avana,ACH-002044,Head and Neck,SC-002044.AV01,0,matrix_intact
+Avana,ACH-002045,Head and Neck,SC-002045.AV01,0,matrix_intact
+Avana,ACH-002046,Uterus,SC-002046.AV01,0,matrix_intact
+Avana,ACH-002048,Soft Tissue,SC-002048.AV01,0,matrix_intact
+Avana,ACH-002051,Lung,SC-002051.AV01,0,matrix_intact
+Avana,ACH-002059,Lymphoid,SC-002059.AV01,0,matrix_intact
+Avana,ACH-002061,Myeloid,SC-002061.AV01,0,matrix_intact
+Avana,ACH-002062,Lymphoid,SC-002062.AV01,0,matrix_intact
+Avana,ACH-002066,Peripheral Nervous System,SC-002066.AV01,0,matrix_intact
+Avana,ACH-002067,Bone,SC-002067.AV01,0,matrix_intact
+Avana,ACH-002069,Bone,SC-002069.AV01,0,matrix_intact
+Avana,ACH-002070,CNS/Brain,SC-002070.AV01,0,matrix_intact
+Avana,ACH-002077,Lung,SC-002077.AV01,0,matrix_intact
+Avana,ACH-002080,Peripheral Nervous System,SC-002080.AV01,0,matrix_intact
+Avana,ACH-002084,Skin,SC-002084.AV01,0,matrix_intact
+Avana,ACH-002214,Lymphoid,SC-002214.AV01,0,matrix_intact
+Avana,ACH-002215,Lymphoid,SC-002215.AV01,0,matrix_intact
+Avana,ACH-002291,Testis,SC-002291.AV01,0,matrix_intact
+Avana,ACH-002399,Breast,SC-002399.AV01,0,matrix_intact
+Avana,ACH-002446,Esophagus/Stomach,SC-002446.AV01,0,matrix_intact
+Avana,ACH-002458,Skin,SC-002458.AV01,0,matrix_intact
+Avana,ACH-002459,Skin,SC-002459.AV01,0,matrix_intact
+Avana,ACH-002460,Skin,SC-002460.AV01,0,matrix_intact
+Avana,ACH-002461,Skin,SC-002461.AV01,0,matrix_intact
+Avana,ACH-002462,Eye,SC-002462.AV01,2,damaging
+Avana,ACH-002463,Eye,SC-002463.AV01,2,damaging
+Avana,ACH-002464,Eye,SC-002464.AV01,2,damaging
+Avana,ACH-002465,Eye,SC-002465.AV01,1,damaging
+Avana,ACH-002467,Eye,SC-002467.AV01,2,damaging
+Avana,ACH-002471,Bone,SC-002471.AV01,0,matrix_intact
+Avana,ACH-002478,Lymphoid,SC-002478.AV01,0,matrix_intact
+Avana,ACH-002485,Lymphoid,SC-002485.AV01,0,matrix_intact
+Avana,ACH-002486,Ovary/Fallopian Tube,SC-002486.AV01,0,matrix_intact
+Avana,ACH-002508,Skin,SC-002508.AV01,2,damaging
+Avana,ACH-002510,Skin,SC-002510.AV01,0,matrix_intact
+Avana,ACH-002511,Skin,SC-002511.AV01,0,matrix_intact
+Avana,ACH-002512,Skin,SC-002512.AV01,0,matrix_intact
+Avana,ACH-002522,Lung,SC-002522.AV01,0,matrix_intact
+Avana,ACH-002523,Liver,SC-002523.AV01,0,matrix_intact
+Avana,ACH-002524,Ovary/Fallopian Tube,SC-002524.AV01,0,matrix_intact
+Avana,ACH-002526,Lung,SC-002526.AV01,0,matrix_intact
+Avana,ACH-002531,Lung,SC-002531.AV01,0,matrix_intact
+Avana,ACH-002533,Kidney,SC-002533.AV01,0,matrix_intact
+Avana,ACH-002535,Bowel,SC-002535.AV01,0,matrix_intact
+Avana,ACH-002647,Biliary Tract,SC-002647.AV01,0,matrix_intact
+Avana,ACH-002650,Lung,SC-002650.AV01,0,matrix_intact
+Avana,ACH-002654,Bowel,SC-002654.AV01,0,matrix_intact
+Avana,ACH-002659,Bowel,SC-002659.AV01,0,matrix_intact
+Avana,ACH-002664,Bowel,SC-002664.AV01,0,matrix_intact
+Avana,ACH-002669,Bowel,SC-002669.AV01,0,matrix_intact
+Avana,ACH-002672,Pancreas,SC-002672.AV01,2,damaging
+Avana,ACH-002680,CNS/Brain,SC-002680.AV01,0,matrix_intact
+Avana,ACH-002687,Eye,SC-002687.AV01,0,matrix_intact
+Avana,ACH-002693,Peripheral Nervous System,SC-002693.AV01,0,matrix_intact
+Avana,ACH-002710,Peripheral Nervous System,SC-002710.AV01,0,matrix_intact
+Avana,ACH-002785,Soft Tissue,SC-002785.AV01,0,matrix_intact
+Avana,ACH-002799,Peripheral Nervous System,SC-002799.AV01,0,matrix_intact
+Avana,ACH-002800,Peripheral Nervous System,SC-002800.AV01,0,matrix_intact
+Avana,ACH-002834,Bone,SC-002834.AV01,0,matrix_intact
+Avana,ACH-002847,Skin,SC-002847.AV01,0,matrix_intact
+Avana,ACH-002922,Peripheral Nervous System,SC-002922.AV01,0,matrix_intact
+Avana,ACH-002925,Eye,SC-002925.AV01,0,matrix_intact
+Avana,ACH-002926,Eye,SC-002926.AV01,0,matrix_intact
+KY,ACH-000001,Ovary/Fallopian Tube,SC-000001.KY01,0,matrix_intact
+KY,ACH-000007,Bowel,SC-000007.KY01,0,matrix_intact
+KY,ACH-000009,Bowel,SC-000009.KY01,0,matrix_intact
+KY,ACH-000019,Breast,SC-000019.KY01,0,matrix_intact
+KY,ACH-000023,Pancreas,SC-000023.KY01,0,matrix_intact
+KY,ACH-000024,Lymphoid,SC-000024.KY01,1,damaging
+KY,ACH-000030,Lung,SC-000030.KY01,2,damaging
+KY,ACH-000035,Lung,SC-000035.KY01,0,matrix_intact
+KY,ACH-000042,Pancreas,SC-000042.KY01,2,damaging
+KY,ACH-000048,Ovary/Fallopian Tube,SC-000048.KY01,0,matrix_intact
+KY,ACH-000060,Pancreas,SC-000060.KY01,0,matrix_intact
+KY,ACH-000067,CNS/Brain,SC-000067.KY01,0,matrix_intact
+KY,ACH-000075,CNS/Brain,SC-000075.KY01,0,matrix_intact
+KY,ACH-000094,Pancreas,SC-000094.KY01,0,matrix_intact
+KY,ACH-000098,CNS/Brain,SC-000098.KY01,0,matrix_intact
+KY,ACH-000103,Ovary/Fallopian Tube,SC-000103.KY01,0,matrix_intact
+KY,ACH-000108,Pancreas,SC-000108.KY01,0,matrix_intact
+KY,ACH-000111,Breast,SC-000111.KY01,0,matrix_intact
+KY,ACH-000113,Myeloid,SC-000113.KY01,0,matrix_intact
+KY,ACH-000114,Pancreas,SC-000114.KY01,0,matrix_intact
+KY,ACH-000118,Pancreas,SC-000118.KY01,0,matrix_intact
+KY,ACH-000120,Peripheral Nervous System,SC-000120.KY01,0,matrix_intact
+KY,ACH-000124,Lymphoid,SC-000124.KY01,0,matrix_intact
+KY,ACH-000132,Ovary/Fallopian Tube,SC-000132.KY01,0,matrix_intact
+KY,ACH-000137,CNS/Brain,SC-000137.KY01,0,matrix_intact
+KY,ACH-000139,Pancreas,SC-000139.KY01,0,matrix_intact
+KY,ACH-000144,Esophagus/Stomach,SC-000144.KY01,0,matrix_intact
+KY,ACH-000147,Breast,SC-000147.KY01,0,matrix_intact
+KY,ACH-000148,Breast,SC-000148.KY01,0,matrix_intact
+KY,ACH-000149,Peripheral Nervous System,SC-000149.KY01,0,matrix_intact
+KY,ACH-000155,Pancreas,SC-000155.KY01,0,matrix_intact
+KY,ACH-000176,Lung,SC-000176.KY01,0,matrix_intact
+KY,ACH-000181,Head and Neck,SC-000181.KY01,0,matrix_intact
+KY,ACH-000183,Lymphoid,SC-000183.KY01,0,matrix_intact
+KY,ACH-000192,Uterus,SC-000192.KY01,0,matrix_intact
+KY,ACH-000200,CNS/Brain,SC-000200.KY01,0,matrix_intact
+KY,ACH-000204,Lymphoid,SC-000204.KY01,0,matrix_intact
+KY,ACH-000207,Head and Neck,SC-000207.KY01,0,matrix_intact
+KY,ACH-000213,Pancreas,SC-000213.KY01,0,matrix_intact
+KY,ACH-000219,Skin,SC-000219.KY01,2,damaging
+KY,ACH-000222,Pancreas,SC-000222.KY01,1,damaging
+KY,ACH-000223,Breast,SC-000223.KY01,0,matrix_intact
+KY,ACH-000227,Peripheral Nervous System,SC-000227.KY01,0,matrix_intact
+KY,ACH-000232,CNS/Brain,SC-000232.KY01,0,matrix_intact
+KY,ACH-000235,Pancreas,SC-000235.KY01,2,damaging
+KY,ACH-000238,Head and Neck,SC-000238.KY01,2,damaging
+KY,ACH-000243,Pancreas,SC-000243.KY01,0,matrix_intact
+KY,ACH-000244,CNS/Brain,SC-000244.KY01,0,matrix_intact
+KY,ACH-000248,Breast,SC-000248.KY01,0,matrix_intact
+KY,ACH-000249,Bowel,SC-000249.KY01,0,matrix_intact
+KY,ACH-000252,Bowel,SC-000252.KY01,0,matrix_intact
+KY,ACH-000260,Peripheral Nervous System,SC-000260.KY01,0,matrix_intact
+KY,ACH-000265,Pancreas,SC-000265.KY01,0,matrix_intact
+KY,ACH-000269,CNS/Brain,SC-000269.KY01,0,matrix_intact
+KY,ACH-000271,Lymphoid,SC-000271.KY01,0,matrix_intact
+KY,ACH-000273,CNS/Brain,SC-000273.KY01,0,matrix_intact
+KY,ACH-000276,Breast,SC-000276.KY01,0,matrix_intact
+KY,ACH-000291,Ovary/Fallopian Tube,SC-000291.KY01,0,matrix_intact
+KY,ACH-000293,Uterus,SC-000293.KY01,0,matrix_intact
+KY,ACH-000305,Esophagus/Stomach,SC-000305.KY01,0,matrix_intact
+KY,ACH-000308,Ovary/Fallopian Tube,SC-000308.KY01,0,matrix_intact
+KY,ACH-000318,Esophagus/Stomach,SC-000318.KY01,0,matrix_intact
+KY,ACH-000320,Pancreas,SC-000320.KY01,0,matrix_intact
+KY,ACH-000323,CNS/Brain,SC-000323.KY01,0,matrix_intact
+KY,ACH-000336,Myeloid,SC-000336.KY01,0,matrix_intact
+KY,ACH-000337,Lung,SC-000337.KY01,0,matrix_intact
+KY,ACH-000341,Peripheral Nervous System,SC-000341.KY01,0,matrix_intact
+KY,ACH-000350,Bowel,SC-000350.KY01,0,matrix_intact
+KY,ACH-000354,Pancreas,SC-000354.KY01,0,matrix_intact
+KY,ACH-000366,Peripheral Nervous System,SC-000366.KY01,0,matrix_intact
+KY,ACH-000367,Pleura,SC-000367.KY01,0,matrix_intact
+KY,ACH-000374,Breast,SC-000374.KY01,0,matrix_intact
+KY,ACH-000376,CNS/Brain,SC-000376.KY01,0,matrix_intact
+KY,ACH-000381,Bowel,SC-000381.KY01,0,matrix_intact
+KY,ACH-000383,Esophagus/Stomach,SC-000383.KY01,1,damaging
+KY,ACH-000391,Bone,SC-000391.KY01,1,damaging
+KY,ACH-000395,Lung,SC-000395.KY01,2,damaging
+KY,ACH-000408,Esophagus/Stomach,SC-000408.KY01,0,matrix_intact
+KY,ACH-000411,Kidney,SC-000411.KY01,0,matrix_intact
+KY,ACH-000414,Lung,SC-000414.KY01,0,matrix_intact
+KY,ACH-000417,Pancreas,SC-000417.KY01,0,matrix_intact
+KY,ACH-000421,Bowel,SC-000421.KY01,0,matrix_intact
+KY,ACH-000424,Bone,SC-000424.KY01,0,matrix_intact
+KY,ACH-000427,Esophagus/Stomach,SC-000427.KY01,0,matrix_intact
+KY,ACH-000430,Ovary/Fallopian Tube,SC-000430.KY01,0,matrix_intact
+KY,ACH-000434,Lung,SC-000434.KY01,0,matrix_intact
+KY,ACH-000437,CNS/Brain,SC-000437.KY01,0,matrix_intact
+KY,ACH-000438,Lung,SC-000438.KY01,0,matrix_intact
+KY,ACH-000442,Lung,SC-000442.KY01,0,matrix_intact
+KY,ACH-000452,Esophagus/Stomach,SC-000452.KY01,0,matrix_intact
+KY,ACH-000464,CNS/Brain,SC-000464.KY01,0,matrix_intact
+KY,ACH-000469,CNS/Brain,SC-000469.KY01,0,matrix_intact
+KY,ACH-000481,Lung,SC-000481.KY01,0,matrix_intact
+KY,ACH-000501,Bowel,SC-000501.KY01,0,matrix_intact
+KY,ACH-000504,CNS/Brain,SC-000504.KY01,0,matrix_intact
+KY,ACH-000505,Soft Tissue,SC-000505.KY01,0,matrix_intact
+KY,ACH-000510,Lung,SC-000510.KY01,0,matrix_intact
+KY,ACH-000518,Head and Neck,SC-000518.KY01,2,damaging
+KY,ACH-000524,Ovary/Fallopian Tube,SC-000524.KY01,0,matrix_intact
+KY,ACH-000527,Ovary/Fallopian Tube,SC-000527.KY01,0,matrix_intact
+KY,ACH-000532,Bowel,SC-000532.KY01,0,matrix_intact
+KY,ACH-000535,Pancreas,SC-000535.KY01,0,matrix_intact
+KY,ACH-000544,Esophagus/Stomach,SC-000544.KY01,0,matrix_intact
+KY,ACH-000546,Head and Neck,SC-000546.KY01,2,damaging
+KY,ACH-000548,Head and Neck,SC-000548.KY01,1,damaging
+KY,ACH-000552,Bowel,SC-000552.KY01,0,matrix_intact
+KY,ACH-000554,Breast,SC-000554.KY01,0,matrix_intact
+KY,ACH-000558,CNS/Brain,SC-000558.KY01,0,matrix_intact
+KY,ACH-000561,Esophagus/Stomach,SC-000561.KY01,0,matrix_intact
+KY,ACH-000562,Lung,SC-000562.KY01,2,damaging
+KY,ACH-000563,Lung,SC-000563.KY01,0,matrix_intact
+KY,ACH-000565,Bowel,SC-000565.KY01,0,matrix_intact
+KY,ACH-000571,CNS/Brain,SC-000571.KY01,0,matrix_intact
+KY,ACH-000573,Breast,SC-000573.KY01,0,matrix_intact
+KY,ACH-000581,Esophagus/Stomach,SC-000581.KY01,0,matrix_intact
+KY,ACH-000584,Ovary/Fallopian Tube,SC-000584.KY01,0,matrix_intact
+KY,ACH-000585,Lung,SC-000585.KY01,0,matrix_intact
+KY,ACH-000587,Lung,SC-000587.KY01,2,damaging
+KY,ACH-000595,CNS/Brain,SC-000595.KY01,0,matrix_intact
+KY,ACH-000596,Lung,SC-000596.KY01,0,matrix_intact
+KY,ACH-000599,Pancreas,SC-000599.KY01,0,matrix_intact
+KY,ACH-000601,Pancreas,SC-000601.KY01,0,matrix_intact
+KY,ACH-000609,CNS/Brain,SC-000609.KY01,0,matrix_intact
+KY,ACH-000619,Head and Neck,SC-000619.KY01,0,matrix_intact
+KY,ACH-000622,CNS/Brain,SC-000622.KY01,0,matrix_intact
+KY,ACH-000624,Breast,SC-000624.KY01,0,matrix_intact
+KY,ACH-000637,Esophagus/Stomach,SC-000637.KY01,0,matrix_intact
+KY,ACH-000651,Bowel,SC-000651.KY01,0,matrix_intact
+KY,ACH-000652,Pancreas,SC-000652.KY01,2,damaging
+KY,ACH-000656,Lymphoid,SC-000656.KY01,0,matrix_intact
+KY,ACH-000657,Ovary/Fallopian Tube,SC-000657.KY01,0,matrix_intact
+KY,ACH-000660,Lymphoid,SC-000660.KY01,0,matrix_intact
+KY,ACH-000662,Lung,SC-000662.KY01,2,damaging
+KY,ACH-000665,Lung,SC-000665.KY01,0,matrix_intact
+KY,ACH-000666,Lung,SC-000666.KY01,0,matrix_intact
+KY,ACH-000668,Breast,SC-000668.KY01,0,matrix_intact
+KY,ACH-000677,Lung,SC-000677.KY01,0,matrix_intact
+KY,ACH-000681,Lung,SC-000681.KY01,0,matrix_intact
+KY,ACH-000694,Esophagus/Stomach,SC-000694.KY01,0,matrix_intact
+KY,ACH-000696,Ovary/Fallopian Tube,SC-000696.KY01,0,matrix_intact
+KY,ACH-000699,Breast,SC-000699.KY01,0,matrix_intact
+KY,ACH-000704,Ovary/Fallopian Tube,SC-000704.KY01,0,matrix_intact
+KY,ACH-000711,Breast,SC-000711.KY01,0,matrix_intact
+KY,ACH-000714,Lymphoid,SC-000714.KY01,0,matrix_intact
+KY,ACH-000717,Esophagus/Stomach,SC-000717.KY01,0,matrix_intact
+KY,ACH-000719,Ovary/Fallopian Tube,SC-000719.KY01,0,matrix_intact
+KY,ACH-000722,Bowel,SC-000722.KY01,0,matrix_intact
+KY,ACH-000738,CNS/Brain,SC-000738.KY01,0,matrix_intact
+KY,ACH-000740,Head and Neck,SC-000740.KY01,2,damaging
+KY,ACH-000748,Bone,SC-000748.KY01,0,matrix_intact
+KY,ACH-000756,CNS/Brain,SC-000756.KY01,0,matrix_intact
+KY,ACH-000768,Breast,SC-000768.KY01,0,matrix_intact
+KY,ACH-000769,Lung,SC-000769.KY01,2,damaging
+KY,ACH-000778,Head and Neck,SC-000778.KY01,2,damaging
+KY,ACH-000781,Lung,SC-000781.KY01,0,matrix_intact
+KY,ACH-000784,Esophagus/Stomach,SC-000784.KY01,0,matrix_intact
+KY,ACH-000787,Lung,SC-000787.KY01,1,damaging
+KY,ACH-000788,Skin,SC-000788.KY01,0,matrix_intact
+KY,ACH-000793,Esophagus/Stomach,SC-000793.KY01,0,matrix_intact
+KY,ACH-000794,Head and Neck,SC-000794.KY01,0,matrix_intact
+KY,ACH-000796,Ovary/Fallopian Tube,SC-000796.KY01,2,damaging
+KY,ACH-000809,Esophagus/Stomach,SC-000809.KY01,0,matrix_intact
+KY,ACH-000817,Lymphoid,SC-000817.KY01,0,matrix_intact
+KY,ACH-000823,Esophagus/Stomach,SC-000823.KY01,0,matrix_intact
+KY,ACH-000824,Esophagus/Stomach,SC-000824.KY01,0,matrix_intact
+KY,ACH-000832,Head and Neck,SC-000832.KY01,2,damaging
+KY,ACH-000841,Lung,SC-000841.KY01,0,matrix_intact
+KY,ACH-000843,Lung,SC-000843.KY01,0,matrix_intact
+KY,ACH-000846,Head and Neck,SC-000846.KY01,2,damaging
+KY,ACH-000847,Esophagus/Stomach,SC-000847.KY01,0,matrix_intact
+KY,ACH-000849,Breast,SC-000849.KY01,0,matrix_intact
+KY,ACH-000855,Esophagus/Stomach,SC-000855.KY01,0,matrix_intact
+KY,ACH-000856,Breast,SC-000856.KY01,0,matrix_intact
+KY,ACH-000858,Lung,SC-000858.KY01,2,damaging
+KY,ACH-000859,Breast,SC-000859.KY01,0,matrix_intact
+KY,ACH-000860,Lung,SC-000860.KY01,0,matrix_intact
+KY,ACH-000861,Lung,SC-000861.KY01,0,matrix_intact
+KY,ACH-000863,CNS/Brain,SC-000863.KY01,0,matrix_intact
+KY,ACH-000864,Uterus,SC-000864.KY01,0,matrix_intact
+KY,ACH-000865,Esophagus/Stomach,SC-000865.KY01,0,matrix_intact
+KY,ACH-000869,Lung,SC-000869.KY01,0,matrix_intact
+KY,ACH-000873,Esophagus/Stomach,SC-000873.KY01,0,matrix_intact
+KY,ACH-000876,Breast,SC-000876.KY01,0,matrix_intact
+KY,ACH-000878,Lung,SC-000878.KY01,0,matrix_intact
+KY,ACH-000879,Uterus,SC-000879.KY01,0,matrix_intact
+KY,ACH-000880,Esophagus/Stomach,SC-000880.KY01,0,matrix_intact
+KY,ACH-000885,Ovary/Fallopian Tube,SC-000885.KY01,0,matrix_intact
+KY,ACH-000894,Lung,SC-000894.KY01,0,matrix_intact
+KY,ACH-000900,Lung,SC-000900.KY01,0,matrix_intact
+KY,ACH-000906,Ovary/Fallopian Tube,SC-000906.KY01,0,matrix_intact
+KY,ACH-000910,Breast,SC-000910.KY01,0,matrix_intact
+KY,ACH-000911,Esophagus/Stomach,SC-000911.KY01,0,matrix_intact
+KY,ACH-000913,Uterus,SC-000913.KY01,0,matrix_intact
+KY,ACH-000917,Esophagus/Stomach,SC-000917.KY01,0,matrix_intact
+KY,ACH-000919,Esophagus/Stomach,SC-000919.KY01,0,matrix_intact
+KY,ACH-000926,Bowel,SC-000926.KY01,0,matrix_intact
+KY,ACH-000932,Esophagus/Stomach,SC-000932.KY01,0,matrix_intact
+KY,ACH-000934,Breast,SC-000934.KY01,0,matrix_intact
+KY,ACH-000935,Bowel,SC-000935.KY01,2,damaging
+KY,ACH-000936,Ovary/Fallopian Tube,SC-000936.KY01,0,matrix_intact
+KY,ACH-000943,Bowel,SC-000943.KY01,0,matrix_intact
+KY,ACH-000945,Lung,SC-000945.KY01,0,matrix_intact
+KY,ACH-000947,Ovary/Fallopian Tube,SC-000947.KY01,0,matrix_intact
+KY,ACH-000948,Esophagus/Stomach,SC-000948.KY01,0,matrix_intact
+KY,ACH-000950,Bowel,SC-000950.KY01,0,matrix_intact
+KY,ACH-000956,Prostate,SC-000956.KY01,0,matrix_intact
+KY,ACH-000957,Bowel,SC-000957.KY01,0,matrix_intact
+KY,ACH-000958,Bowel,SC-000958.KY01,0,matrix_intact
+KY,ACH-000962,Ovary/Fallopian Tube,SC-000962.KY01,0,matrix_intact
+KY,ACH-000965,Uterus,SC-000965.KY01,0,matrix_intact
+KY,ACH-000966,Ovary/Fallopian Tube,SC-000966.KY01,0,matrix_intact
+KY,ACH-000969,Bowel,SC-000969.KY01,0,matrix_intact
+KY,ACH-000970,Bowel,SC-000970.KY01,0,matrix_intact
+KY,ACH-000971,Bowel,SC-000971.KY01,1,damaging
+KY,ACH-000974,Uterus,SC-000974.KY01,0,matrix_intact
+KY,ACH-000977,Prostate,SC-000977.KY01,0,matrix_intact
+KY,ACH-000979,Prostate,SC-000979.KY01,2,damaging
+KY,ACH-000980,Lung,SC-000980.KY01,0,matrix_intact
+KY,ACH-000985,Bowel,SC-000985.KY01,0,matrix_intact
+KY,ACH-000991,Bowel,SC-000991.KY01,0,matrix_intact
+KY,ACH-000997,Bowel,SC-000997.KY01,0,matrix_intact
+KY,ACH-001016,CNS/Brain,SC-001016.KY01,0,matrix_intact
+KY,ACH-001039,Bowel,SC-001039.KY01,0,matrix_intact
+KY,ACH-001063,Ovary/Fallopian Tube,SC-001063.KY01,0,matrix_intact
+KY,ACH-001065,Breast,SC-001065.KY01,0,matrix_intact
+KY,ACH-001081,Bowel,SC-001081.KY01,0,matrix_intact
+KY,ACH-001107,Pancreas,SC-001107.KY01,0,matrix_intact
+KY,ACH-001126,CNS/Brain,SC-001126.KY01,2,damaging
+KY,ACH-001137,Lung,SC-001137.KY01,0,matrix_intact
+KY,ACH-001151,Ovary/Fallopian Tube,SC-001151.KY01,0,matrix_intact
+KY,ACH-001190,Skin,SC-001190.KY01,0,matrix_intact
+KY,ACH-001193,Bone,SC-001193.KY01,0,matrix_intact
+KY,ACH-001233,Lung,SC-001233.KY01,0,matrix_intact
+KY,ACH-001331,Head and Neck,SC-001331.KY01,0,matrix_intact
+KY,ACH-001332,Head and Neck,SC-001332.KY01,0,matrix_intact
+KY,ACH-001345,Bowel,SC-001345.KY01,0,matrix_intact
+KY,ACH-001368,Esophagus/Stomach,SC-001368.KY01,0,matrix_intact
+KY,ACH-001399,Bowel,SC-001399.KY01,0,matrix_intact
+KY,ACH-001418,Ovary/Fallopian Tube,SC-001418.KY01,0,matrix_intact
+KY,ACH-001494,Biliary Tract,SC-001494.KY01,0,matrix_intact
+KY,ACH-001496,Esophagus/Stomach,SC-001496.KY01,0,matrix_intact
+KY,ACH-001497,Esophagus/Stomach,SC-001497.KY01,2,damaging
+KY,ACH-001500,Esophagus/Stomach,SC-001500.KY01,0,matrix_intact
+KY,ACH-001517,Uterus,SC-001517.KY01,0,matrix_intact
+KY,ACH-001542,Head and Neck,SC-001542.KY01,0,matrix_intact
+KY,ACH-001544,Esophagus/Stomach,SC-001544.KY01,0,matrix_intact
+KY,ACH-001603,Peripheral Nervous System,SC-001603.KY01,0,matrix_intact
+KY,ACH-001605,CNS/Brain,SC-001605.KY01,0,matrix_intact
+KY,ACH-001606,CNS/Brain,SC-001606.KY01,0,matrix_intact
+KY,ACH-001625,Head and Neck,SC-001625.KY01,0,matrix_intact
+KY,ACH-001626,Head and Neck,SC-001626.KY01,2,damaging
+KY,ACH-001630,Ovary/Fallopian Tube,SC-001630.KY01,0,matrix_intact
+KY,ACH-001632,Ovary/Fallopian Tube,SC-001632.KY01,0,matrix_intact
+KY,ACH-001639,Lymphoid,SC-001639.KY01,0,matrix_intact
+KY,ACH-001654,Esophagus/Stomach,SC-001654.KY01,0,matrix_intact
+KY,ACH-001674,Peripheral Nervous System,SC-001674.KY01,0,matrix_intact
+KY,ACH-001715,Bone,SC-001715.KY01,0,matrix_intact
+KY,ACH-001819,Breast,SC-001819.KY01,0,matrix_intact
+KY,ACH-001820,Breast,SC-001820.KY01,0,matrix_intact
+KY,ACH-002029,Head and Neck,SC-002029.KY01,0,matrix_intact
+KY,ACH-002043,Head and Neck,SC-002043.KY01,0,matrix_intact
+KY,ACH-002045,Head and Neck,SC-002045.KY01,0,matrix_intact
+KY,ACH-002083,Peripheral Nervous System,SC-002083.KY01,0,matrix_intact
+KY,ACH-002105,Bone,SC-002105.KY01,0,matrix_intact
+KY,ACH-002106,Bone,SC-002106.KY01,0,matrix_intact
+KY,ACH-002109,Bone,SC-002109.KY01,0,matrix_intact
+KY,ACH-002110,Bone,SC-002110.KY01,0,matrix_intact
+KY,ACH-002114,Bone,SC-002114.KY01,0,matrix_intact
+KY,ACH-002116,Bone,SC-002116.KY01,0,matrix_intact
+KY,ACH-002119,Bone,SC-002119.KY01,0,matrix_intact
+KY,ACH-002140,Ovary/Fallopian Tube,SC-002140.KY01,0,matrix_intact
+KY,ACH-002141,Esophagus/Stomach,SC-002141.KY01,0,matrix_intact
+KY,ACH-002143,Skin,SC-002143.KY01,0,matrix_intact
+KY,ACH-002150,Kidney,SC-002150.KY01,0,matrix_intact
+KY,ACH-002156,Lung,SC-002156.KY01,0,matrix_intact
+KY,ACH-002160,Bone,SC-002160.KY01,0,matrix_intact
+KY,ACH-002161,Esophagus/Stomach,SC-002161.KY01,0,matrix_intact
+KY,ACH-002179,Breast,SC-002179.KY01,0,matrix_intact
+KY,ACH-002181,Ovary/Fallopian Tube,SC-002181.KY01,0,matrix_intact
+KY,ACH-002183,Ovary/Fallopian Tube,SC-002183.KY01,0,matrix_intact
+KY,ACH-002186,Pancreas,SC-002186.KY01,0,matrix_intact
+KY,ACH-002189,Kidney,SC-002189.KY01,0,matrix_intact
+KY,ACH-002198,Other,SC-002198.KY01,0,matrix_intact
+KY,ACH-002202,Esophagus/Stomach,SC-002202.KY01,0,matrix_intact
+KY,ACH-002210,Myeloid,SC-002210.KY01,0,matrix_intact
+KY,ACH-002212,Head and Neck,SC-002212.KY01,0,matrix_intact
+KY,ACH-002228,CNS/Brain,SC-002228.KY01,0,matrix_intact
+KY,ACH-002229,CNS/Brain,SC-002229.KY01,0,matrix_intact
+KY,ACH-002230,CNS/Brain,SC-002230.KY01,0,matrix_intact
+KY,ACH-002233,Bowel,SC-002233.KY01,0,matrix_intact
+KY,ACH-002234,Head and Neck,SC-002234.KY01,1,damaging
+KY,ACH-002239,Head and Neck,SC-002239.KY01,0,matrix_intact
+KY,ACH-002243,Esophagus/Stomach,SC-002243.KY01,0,matrix_intact
+KY,ACH-002247,Myeloid,SC-002247.KY01,0,matrix_intact
+KY,ACH-002249,Head and Neck,SC-002249.KY01,2,damaging
+KY,ACH-002250,Head and Neck,SC-002250.KY01,0,matrix_intact
+KY,ACH-002251,Head and Neck,SC-002251.KY01,0,matrix_intact
+KY,ACH-002257,CNS/Brain,SC-002257.KY01,0,matrix_intact
+KY,ACH-002261,Peripheral Nervous System,SC-002261.KY01,0,matrix_intact
+KY,ACH-002263,Esophagus/Stomach,SC-002263.KY01,1,damaging
+KY,ACH-002265,Head and Neck,SC-002265.KY01,2,damaging
+KY,ACH-002269,CNS/Brain,SC-002269.KY01,0,matrix_intact
+KY,ACH-002278,Peripheral Nervous System,SC-002278.KY01,0,matrix_intact
+KY,ACH-002280,Peripheral Nervous System,SC-002280.KY01,0,matrix_intact
+KY,ACH-002282,Peripheral Nervous System,SC-002282.KY01,0,matrix_intact
+KY,ACH-002283,Peripheral Nervous System,SC-002283.KY01,0,matrix_intact
+KY,ACH-002284,Peripheral Nervous System,SC-002284.KY01,0,matrix_intact
+KY,ACH-002285,Peripheral Nervous System,SC-002285.KY01,0,matrix_intact
+KY,ACH-002294,Head and Neck,SC-002294.KY01,2,damaging
+KY,ACH-002295,Head and Neck,SC-002295.KY01,0,matrix_intact
+KY,ACH-002296,Head and Neck,SC-002296.KY01,2,damaging
+KY,ACH-002297,Head and Neck,SC-002297.KY01,0,matrix_intact
+KY,ACH-002298,Head and Neck,SC-002298.KY01,0,matrix_intact
+KY,ACH-002304,CNS/Brain,SC-002304.KY01,0,matrix_intact
+KY,ACH-002305,Head and Neck,SC-002305.KY01,0,matrix_intact

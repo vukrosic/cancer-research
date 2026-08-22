@@ -26,3 +26,14 @@ is permitted.
   artifact hashes, and normalized summary digest;
 - require terminal `analysis_label: FEASIBILITY_ONLY`,
   `confirmatory_claim: false`, and `overall_pass: false`.
+
+## Execution receipt
+
+The first pre-endpoint boundary attempt caught an inverted loader threshold
+orientation for the matrix-intact/damaging metadata representation. It stopped
+before endpoint access, was corrected in `d491092`, and was independently
+rerun to GO with exact roster, counts, planning powers, and PELO-header
+identity. The corrected runner completed in approximately `19.92` seconds with
+exit code `2`; independent post-execution recomputation matched both source
+results and all five result artifacts. Preserve the proxy-only feasibility
+label without post hoc rescue.

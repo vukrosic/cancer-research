@@ -1,0 +1,177 @@
+{
+  "analysis_label": "FEASIBILITY_ONLY",
+  "analysis_type": "preregistered_source_specific_lineage_stratified_cdkn2a_pelo_proxy_replication",
+  "artifact_receipt_sha256": {
+    "context_ledger.csv": "1c6b1df176468f25de48585b97d456b7e83c3d2fa63352a31a527b4f3263e725",
+    "design_sensitivity.csv": "4d1a2acf900d7033702c5fcc3018c40d55c69accad71e546de4642e9926325bc",
+    "endpoint_scores.csv": "ae85894b710b0eea0f0d2a6bf3f9cd7ca00a2193071815895be76a89df538ff1",
+    "inference.csv": "2da3a19fcb761c63a321f0db3bc3c14822a3a09110512eecd3d922028891cac3",
+    "summary.json": "8c25695dc89556510b20286b0082c94066f7b7eca552641a84c826ad1016fc73"
+  },
+  "claim_boundary": "damaging-matrix CDKN2A proxy association with source-specific PELO dependency in frozen 23Q4 screen cohorts; no 9p21.3 deletion, FOCAD-loss, MSI-H, mechanistic, PELO-inhibitor, treatment, clinical, or confirmatory claim",
+  "claim_eligibility": {
+    "design_sensitivity_label": "FEASIBILITY_ONLY",
+    "nominal_primary_gates_pass": false,
+    "primary_confirmatory": false
+  },
+  "confirmatory_claim": false,
+  "context_receipt": {
+    "canonical_roster_sha256": "df50a72ac86b161e16ebc5a2eb2b2f5c8d35151d94da4046c375f5ab0f603bb5",
+    "context_ledger_sha256": "1c6b1df176468f25de48585b97d456b7e83c3d2fa63352a31a527b4f3263e725",
+    "damaging_sha256": "aea4d970c0876afb90d2dc0e2709ff28be5a84e4e246f3a5a31faaba0fbc47e3",
+    "eligible_screens": 1292,
+    "eligible_source_models": {
+      "Avana": 975,
+      "KY": 315
+    },
+    "mixed_lineages": {
+      "Avana": 19,
+      "KY": 11
+    },
+    "model_sha256": "6b77a73209ce3faaa7442dbd947d8e08ddcb08b538c36fe820163f9cff321341",
+    "screen_map_sha256": "1e2bf9075600cd049dafc385866991523c65806657f3c8bd71afde3fe00ee9ad",
+    "screen_qc_sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407",
+    "status_column": "CDKN2A (1029)",
+    "status_counts": {
+      "Avana": {
+        "damaging": 110,
+        "matrix_intact": 865
+      },
+      "KY": {
+        "damaging": 37,
+        "matrix_intact": 278
+      }
+    },
+    "status_threshold": 1,
+    "unique_model_ids": 1098
+  },
+  "design_sensitivity": {
+    "all_primary_sources_power_adequate": false,
+    "confirmatory_claim_enabled": false,
+    "design_sensitivity_sha256": "4d1a2acf900d7033702c5fcc3018c40d55c69accad71e546de4642e9926325bc",
+    "frozen_label": "FEASIBILITY_ONLY",
+    "minimum_confirmatory_power": 0.8
+  },
+  "endpoint_receipt": {
+    "eligible_screens_expected": 1292,
+    "eligible_screens_seen": 1292,
+    "median_collapse": true,
+    "model_values": 1290,
+    "sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721"
+  },
+  "experiment_id": "EXP-20260822-025",
+  "implementation_receipt": {
+    "engine_module": "src/candrel/tp53_mdm2_replication.py",
+    "implementation_commit": "d491092b63cb508c67cccd6f10276b7b914b1cb0",
+    "implementation_module": "src/candrel/cdkn2a_pelo_replication.py",
+    "manifest_path": "experiments/EXP-20260822-025/manifest.json",
+    "required_base_commit": "b903b994a040965a88067a9fd27c2eb8c3da8e95",
+    "uv_lock_sha256": "d09301a2eff28d69c3e0b504d4cdae5ed21c1e451efb92e60f360ebf047106dd"
+  },
+  "inference_receipt": {
+    "bootstrap_interval": "percentile_95_linear_quantile",
+    "bootstraps": 10000,
+    "cross_source_raw_score_comparison": false,
+    "design_seeds": {
+      "Avana": 20262500,
+      "KY": 20262600
+    },
+    "inference_seeds": {
+      "Avana": 20272500,
+      "KY": 20272600
+    },
+    "permutations": 100000,
+    "unit": "collapsed_source_model_id"
+  },
+  "overall_pass": false,
+  "pre_endpoint_receipt": {
+    "context_ledger_sha256": "1c6b1df176468f25de48585b97d456b7e83c3d2fa63352a31a527b4f3263e725",
+    "design_sensitivity_sha256": "4d1a2acf900d7033702c5fcc3018c40d55c69accad71e546de4642e9926325bc",
+    "experiment_id": "EXP-20260822-025",
+    "receipt_sha256": "d472cdb83390cdd4c35f8f4895360442c4f81901ce31e20ff5ad4845fa29b538",
+    "sealed_before_endpoint": true
+  },
+  "primary": [
+    {
+      "bootstrap_ci_95_percentile": [
+        -0.28100343920695936,
+        -0.03014363746712523
+      ],
+      "bootstrap_repeats": 10000,
+      "delta": -0.15800121383775034,
+      "gates": {
+        "at_least_5_negative_lineages": true,
+        "bootstrap_upper_lt_0": true,
+        "delta_le_minus_0_20": false,
+        "delta_lt_0": true,
+        "no_lineage_delta_gt_plus_0_20": false,
+        "permutation_p_le_0_05": true
+      },
+      "lineage_deltas": {
+        "Ampulla of Vater": -0.3333333333333333,
+        "Biliary Tract": -0.5,
+        "Bladder/Urinary Tract": 0.08928571428571429,
+        "Bone": 0.42857142857142855,
+        "Bowel": 0.4090909090909091,
+        "Breast": 0.5238095238095238,
+        "CNS/Brain": 0.25,
+        "Esophagus/Stomach": 0.04,
+        "Eye": 0.037037037037037035,
+        "Head and Neck": -0.15476190476190477,
+        "Liver": -0.045454545454545456,
+        "Lung": -0.1943859649122807,
+        "Lymphoid": -0.5042016806722689,
+        "Ovary/Fallopian Tube": 0.3037037037037037,
+        "Pancreas": -0.1310344827586207,
+        "Peripheral Nervous System": -0.5333333333333333,
+        "Skin": -0.21470019342359767,
+        "Soft Tissue": -0.08823529411764706,
+        "Uterus": 0.10714285714285714
+      },
+      "pair_count": 4943,
+      "pair_id": "CDKN2A_damaging_to_PELO",
+      "pass": false,
+      "permutation_extreme_count": 1256,
+      "permutation_p_one_sided_lower": 0.012569874301256988,
+      "permutation_repeats": 100000,
+      "source": "Avana"
+    },
+    {
+      "bootstrap_ci_95_percentile": [
+        -0.25721153846153844,
+        0.13942307692307693
+      ],
+      "bootstrap_repeats": 10000,
+      "delta": -0.057692307692307696,
+      "gates": {
+        "at_least_5_negative_lineages": true,
+        "bootstrap_upper_lt_0": false,
+        "delta_le_minus_0_20": false,
+        "delta_lt_0": true,
+        "no_lineage_delta_gt_plus_0_20": false,
+        "permutation_p_le_0_05": false
+      },
+      "lineage_deltas": {
+        "Bone": -0.8333333333333334,
+        "Bowel": 0.0,
+        "CNS/Brain": -0.75,
+        "Esophagus/Stomach": 0.018518518518518517,
+        "Head and Neck": -0.12030075187969924,
+        "Lung": 0.06666666666666667,
+        "Lymphoid": -0.3333333333333333,
+        "Ovary/Fallopian Tube": 0.21428571428571427,
+        "Pancreas": 0.02631578947368421,
+        "Prostate": -1.0,
+        "Skin": -1.0
+      },
+      "pair_count": 832,
+      "pair_id": "CDKN2A_damaging_to_PELO",
+      "pass": false,
+      "permutation_extreme_count": 31680,
+      "permutation_p_one_sided_lower": 0.3168068319316807,
+      "permutation_repeats": 100000,
+      "source": "KY"
+    }
+  ],
+  "status": "FEASIBILITY_ONLY_NOMINAL_GATE_FAILURE"
+}

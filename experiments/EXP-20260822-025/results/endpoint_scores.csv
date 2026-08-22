@@ -1,0 +1,1291 @@
+pair_id,source,model_id,lineage,status,target_score
+CDKN2A_damaging_to_PELO,Avana,ACH-000004,Myeloid,matrix_intact,-1.3864352756971559
+CDKN2A_damaging_to_PELO,Avana,ACH-000005,Myeloid,matrix_intact,-0.5735379994331193
+CDKN2A_damaging_to_PELO,Avana,ACH-000007,Bowel,matrix_intact,-1.5138391280099657
+CDKN2A_damaging_to_PELO,Avana,ACH-000009,Bowel,matrix_intact,-0.7642931914844859
+CDKN2A_damaging_to_PELO,Avana,ACH-000011,Bladder/Urinary Tract,matrix_intact,-1.4787692672928268
+CDKN2A_damaging_to_PELO,Avana,ACH-000012,Lung,matrix_intact,-2.1918346815137624
+CDKN2A_damaging_to_PELO,Avana,ACH-000013,Ovary/Fallopian Tube,matrix_intact,-0.8704522827863381
+CDKN2A_damaging_to_PELO,Avana,ACH-000015,Lung,matrix_intact,-1.6180187494809894
+CDKN2A_damaging_to_PELO,Avana,ACH-000017,Breast,matrix_intact,-0.47160315602671954
+CDKN2A_damaging_to_PELO,Avana,ACH-000018,Bladder/Urinary Tract,matrix_intact,-0.7850968235783237
+CDKN2A_damaging_to_PELO,Avana,ACH-000019,Breast,matrix_intact,-0.18631760959352484
+CDKN2A_damaging_to_PELO,Avana,ACH-000021,Lung,matrix_intact,-1.1142984462931624
+CDKN2A_damaging_to_PELO,Avana,ACH-000022,Pancreas,matrix_intact,-0.9530785376115078
+CDKN2A_damaging_to_PELO,Avana,ACH-000024,Lymphoid,damaging,-2.8022958402541462
+CDKN2A_damaging_to_PELO,Avana,ACH-000025,CNS/Brain,matrix_intact,-1.7074733313607409
+CDKN2A_damaging_to_PELO,Avana,ACH-000028,Breast,matrix_intact,-0.8451430090895788
+CDKN2A_damaging_to_PELO,Avana,ACH-000029,Lung,matrix_intact,-1.9992927835236978
+CDKN2A_damaging_to_PELO,Avana,ACH-000030,Lung,damaging,-1.9020334899285523
+CDKN2A_damaging_to_PELO,Avana,ACH-000035,Lung,matrix_intact,-2.1169507060380317
+CDKN2A_damaging_to_PELO,Avana,ACH-000036,CNS/Brain,matrix_intact,-0.8654295021900156
+CDKN2A_damaging_to_PELO,Avana,ACH-000037,Soft Tissue,matrix_intact,-0.7618488574271725
+CDKN2A_damaging_to_PELO,Avana,ACH-000039,Bone,matrix_intact,-0.36836848992772475
+CDKN2A_damaging_to_PELO,Avana,ACH-000040,CNS/Brain,matrix_intact,-1.3061903969364197
+CDKN2A_damaging_to_PELO,Avana,ACH-000041,Bone,matrix_intact,-1.3881053476357255
+CDKN2A_damaging_to_PELO,Avana,ACH-000042,Pancreas,damaging,-0.2663948434904051
+CDKN2A_damaging_to_PELO,Avana,ACH-000045,Myeloid,matrix_intact,-0.6016149733107676
+CDKN2A_damaging_to_PELO,Avana,ACH-000047,Esophagus/Stomach,matrix_intact,-0.49105513036194026
+CDKN2A_damaging_to_PELO,Avana,ACH-000048,Ovary/Fallopian Tube,matrix_intact,-0.6792535064632745
+CDKN2A_damaging_to_PELO,Avana,ACH-000052,Bone,matrix_intact,-0.7500945210752281
+CDKN2A_damaging_to_PELO,Avana,ACH-000053,Lymphoid,matrix_intact,-1.3014171986577265
+CDKN2A_damaging_to_PELO,Avana,ACH-000054,Soft Tissue,matrix_intact,-0.6677088735975789
+CDKN2A_damaging_to_PELO,Avana,ACH-000055,CNS/Brain,matrix_intact,-1.3941857632768881
+CDKN2A_damaging_to_PELO,Avana,ACH-000060,Pancreas,matrix_intact,-0.39699557517308337
+CDKN2A_damaging_to_PELO,Avana,ACH-000067,CNS/Brain,matrix_intact,-1.3319269510203788
+CDKN2A_damaging_to_PELO,Avana,ACH-000070,Lymphoid,matrix_intact,-0.554167024090196
+CDKN2A_damaging_to_PELO,Avana,ACH-000074,Myeloid,matrix_intact,-0.6907914512339608
+CDKN2A_damaging_to_PELO,Avana,ACH-000075,CNS/Brain,matrix_intact,-0.5909596229339571
+CDKN2A_damaging_to_PELO,Avana,ACH-000076,Myeloid,matrix_intact,-0.7689370488041227
+CDKN2A_damaging_to_PELO,Avana,ACH-000077,Lymphoid,matrix_intact,-1.0940403097057159
+CDKN2A_damaging_to_PELO,Avana,ACH-000078,Peripheral Nervous System,matrix_intact,-0.6740888645984713
+CDKN2A_damaging_to_PELO,Avana,ACH-000082,Bone,matrix_intact,-0.4411406518120966
+CDKN2A_damaging_to_PELO,Avana,ACH-000085,Pancreas,matrix_intact,-0.3453370216082208
+CDKN2A_damaging_to_PELO,Avana,ACH-000086,Pleura,matrix_intact,-1.4891411642306212
+CDKN2A_damaging_to_PELO,Avana,ACH-000090,Prostate,matrix_intact,-0.4095826388299329
+CDKN2A_damaging_to_PELO,Avana,ACH-000092,Pleura,matrix_intact,-1.5923709061945166
+CDKN2A_damaging_to_PELO,Avana,ACH-000093,Pancreas,matrix_intact,-0.21777805610813153
+CDKN2A_damaging_to_PELO,Avana,ACH-000095,CNS/Brain,matrix_intact,-1.0892963531353161
+CDKN2A_damaging_to_PELO,Avana,ACH-000097,Breast,matrix_intact,-1.4666359978275239
+CDKN2A_damaging_to_PELO,Avana,ACH-000098,CNS/Brain,matrix_intact,-1.1271327288382023
+CDKN2A_damaging_to_PELO,Avana,ACH-000099,Peripheral Nervous System,matrix_intact,-0.9243694737085122
+CDKN2A_damaging_to_PELO,Avana,ACH-000101,Lymphoid,matrix_intact,-1.5203951501215895
+CDKN2A_damaging_to_PELO,Avana,ACH-000108,Pancreas,matrix_intact,-1.0130872881491015
+CDKN2A_damaging_to_PELO,Avana,ACH-000111,Breast,matrix_intact,-2.4969154089725505
+CDKN2A_damaging_to_PELO,Avana,ACH-000113,Myeloid,matrix_intact,-1.317101499898118
+CDKN2A_damaging_to_PELO,Avana,ACH-000114,Pancreas,matrix_intact,-3.166916178173608
+CDKN2A_damaging_to_PELO,Avana,ACH-000115,Prostate,matrix_intact,-0.2684154915301989
+CDKN2A_damaging_to_PELO,Avana,ACH-000118,Pancreas,matrix_intact,-1.1870630376913947
+CDKN2A_damaging_to_PELO,Avana,ACH-000120,Peripheral Nervous System,matrix_intact,-1.0027617648344451
+CDKN2A_damaging_to_PELO,Avana,ACH-000123,Ovary/Fallopian Tube,matrix_intact,-0.8620288281924933
+CDKN2A_damaging_to_PELO,Avana,ACH-000127,Bladder/Urinary Tract,matrix_intact,-1.82305199812257
+CDKN2A_damaging_to_PELO,Avana,ACH-000128,CNS/Brain,matrix_intact,-1.3251909176693721
+CDKN2A_damaging_to_PELO,Avana,ACH-000132,Ovary/Fallopian Tube,matrix_intact,-4.163681241792146
+CDKN2A_damaging_to_PELO,Avana,ACH-000133,Soft Tissue,matrix_intact,-0.7567591460951624
+CDKN2A_damaging_to_PELO,Avana,ACH-000137,CNS/Brain,matrix_intact,-0.7711253134930254
+CDKN2A_damaging_to_PELO,Avana,ACH-000138,Pancreas,matrix_intact,-0.9413699396068198
+CDKN2A_damaging_to_PELO,Avana,ACH-000141,Biliary Tract,matrix_intact,-0.2829502638408812
+CDKN2A_damaging_to_PELO,Avana,ACH-000142,Bladder/Urinary Tract,matrix_intact,-1.2282158588153829
+CDKN2A_damaging_to_PELO,Avana,ACH-000143,Lung,matrix_intact,-1.0827651669508889
+CDKN2A_damaging_to_PELO,Avana,ACH-000145,Soft Tissue,matrix_intact,-0.6181178078036659
+CDKN2A_damaging_to_PELO,Avana,ACH-000146,Myeloid,matrix_intact,-0.549200610120476
+CDKN2A_damaging_to_PELO,Avana,ACH-000147,Breast,matrix_intact,-0.8434184667095201
+CDKN2A_damaging_to_PELO,Avana,ACH-000148,Breast,matrix_intact,-1.2046597635258096
+CDKN2A_damaging_to_PELO,Avana,ACH-000151,Lymphoid,matrix_intact,-0.7110659469011202
+CDKN2A_damaging_to_PELO,Avana,ACH-000152,CNS/Brain,matrix_intact,-0.6905544235806733
+CDKN2A_damaging_to_PELO,Avana,ACH-000153,Pleura,matrix_intact,-0.9292661282960566
+CDKN2A_damaging_to_PELO,Avana,ACH-000159,Kidney,matrix_intact,-1.0523416970002981
+CDKN2A_damaging_to_PELO,Avana,ACH-000160,CNS/Brain,matrix_intact,-1.3318788830468717
+CDKN2A_damaging_to_PELO,Avana,ACH-000161,Lung,matrix_intact,-0.6216118887127164
+CDKN2A_damaging_to_PELO,Avana,ACH-000163,Head and Neck,matrix_intact,-1.701529369607842
+CDKN2A_damaging_to_PELO,Avana,ACH-000164,Pancreas,matrix_intact,-0.9826180494764447
+CDKN2A_damaging_to_PELO,Avana,ACH-000168,Myeloid,matrix_intact,-1.1512766343624432
+CDKN2A_damaging_to_PELO,Avana,ACH-000169,Soft Tissue,matrix_intact,-1.0295688524236648
+CDKN2A_damaging_to_PELO,Avana,ACH-000174,Thyroid,matrix_intact,-1.650589929498289
+CDKN2A_damaging_to_PELO,Avana,ACH-000178,Pancreas,damaging,-2.3192727492988876
+CDKN2A_damaging_to_PELO,Avana,ACH-000182,Ampulla of Vater,damaging,-2.0986504945278925
+CDKN2A_damaging_to_PELO,Avana,ACH-000183,Lymphoid,matrix_intact,-0.5537890713103759
+CDKN2A_damaging_to_PELO,Avana,ACH-000187,Lung,matrix_intact,-0.4658372034896461
+CDKN2A_damaging_to_PELO,Avana,ACH-000188,Head and Neck,matrix_intact,-1.8753502311952868
+CDKN2A_damaging_to_PELO,Avana,ACH-000189,Kidney,matrix_intact,-0.6197294535314115
+CDKN2A_damaging_to_PELO,Avana,ACH-000190,Myeloid,matrix_intact,-1.1531440608012862
+CDKN2A_damaging_to_PELO,Avana,ACH-000191,Thyroid,matrix_intact,-0.9400932985833412
+CDKN2A_damaging_to_PELO,Avana,ACH-000195,Myeloid,matrix_intact,-0.724543272525322
+CDKN2A_damaging_to_PELO,Avana,ACH-000198,Myeloid,matrix_intact,-1.6075489974049648
+CDKN2A_damaging_to_PELO,Avana,ACH-000200,CNS/Brain,matrix_intact,-0.2558485818985532
+CDKN2A_damaging_to_PELO,Avana,ACH-000202,Bowel,matrix_intact,-0.23397416705277796
+CDKN2A_damaging_to_PELO,Avana,ACH-000204,Lymphoid,matrix_intact,-0.43492617990149857
+CDKN2A_damaging_to_PELO,Avana,ACH-000206,Lymphoid,matrix_intact,-1.0870767006348099
+CDKN2A_damaging_to_PELO,Avana,ACH-000207,Head and Neck,matrix_intact,-0.7339080086605949
+CDKN2A_damaging_to_PELO,Avana,ACH-000209,Biliary Tract,matrix_intact,-0.8481665938144195
+CDKN2A_damaging_to_PELO,Avana,ACH-000211,CNS/Brain,matrix_intact,-2.568597305755863
+CDKN2A_damaging_to_PELO,Avana,ACH-000212,Breast,matrix_intact,-1.5898238527749826
+CDKN2A_damaging_to_PELO,Avana,ACH-000215,CNS/Brain,matrix_intact,-3.58768422917033
+CDKN2A_damaging_to_PELO,Avana,ACH-000216,Esophagus/Stomach,matrix_intact,-1.6637815512207208
+CDKN2A_damaging_to_PELO,Avana,ACH-000217,Liver,matrix_intact,-1.0032829073761316
+CDKN2A_damaging_to_PELO,Avana,ACH-000219,Skin,damaging,-2.0867268720478025
+CDKN2A_damaging_to_PELO,Avana,ACH-000221,Liver,matrix_intact,-1.5304929707797
+CDKN2A_damaging_to_PELO,Avana,ACH-000222,Pancreas,damaging,-0.45902218756858765
+CDKN2A_damaging_to_PELO,Avana,ACH-000223,Breast,matrix_intact,-1.3454291653637496
+CDKN2A_damaging_to_PELO,Avana,ACH-000226,Lymphoid,matrix_intact,-1.6474834086739731
+CDKN2A_damaging_to_PELO,Avana,ACH-000227,Peripheral Nervous System,matrix_intact,-0.12311886959304746
+CDKN2A_damaging_to_PELO,Avana,ACH-000228,Head and Neck,matrix_intact,-1.2516124520087843
+CDKN2A_damaging_to_PELO,Avana,ACH-000231,CNS/Brain,matrix_intact,-0.9248578687806366
+CDKN2A_damaging_to_PELO,Avana,ACH-000232,CNS/Brain,matrix_intact,-1.2278126575658725
+CDKN2A_damaging_to_PELO,Avana,ACH-000233,Lymphoid,matrix_intact,-1.4398318192854218
+CDKN2A_damaging_to_PELO,Avana,ACH-000234,Kidney,matrix_intact,-0.44221275467316534
+CDKN2A_damaging_to_PELO,Avana,ACH-000235,Pancreas,damaging,-1.9231895277412503
+CDKN2A_damaging_to_PELO,Avana,ACH-000237,Ovary/Fallopian Tube,matrix_intact,-1.350698499145953
+CDKN2A_damaging_to_PELO,Avana,ACH-000238,Head and Neck,damaging,-2.876113216098518
+CDKN2A_damaging_to_PELO,Avana,ACH-000243,Pancreas,matrix_intact,-1.2695709603659349
+CDKN2A_damaging_to_PELO,Avana,ACH-000244,CNS/Brain,matrix_intact,-0.7644513920110727
+CDKN2A_damaging_to_PELO,Avana,ACH-000246,Kidney,matrix_intact,-1.1918816260216927
+CDKN2A_damaging_to_PELO,Avana,ACH-000247,Esophagus/Stomach,matrix_intact,-3.7735835623884526
+CDKN2A_damaging_to_PELO,Avana,ACH-000248,Breast,matrix_intact,-0.8220908110405538
+CDKN2A_damaging_to_PELO,Avana,ACH-000250,Kidney,matrix_intact,-0.6064988858584526
+CDKN2A_damaging_to_PELO,Avana,ACH-000251,Lung,damaging,-0.5384874635878745
+CDKN2A_damaging_to_PELO,Avana,ACH-000252,Bowel,matrix_intact,-0.6258291382885157
+CDKN2A_damaging_to_PELO,Avana,ACH-000253,Bowel,matrix_intact,-1.578986793942839
+CDKN2A_damaging_to_PELO,Avana,ACH-000255,Esophagus/Stomach,matrix_intact,-1.8176604854468192
+CDKN2A_damaging_to_PELO,Avana,ACH-000256,Ovary/Fallopian Tube,matrix_intact,-1.218290439065579
+CDKN2A_damaging_to_PELO,Avana,ACH-000257,Lung,matrix_intact,-1.250195171892957
+CDKN2A_damaging_to_PELO,Avana,ACH-000258,Breast,matrix_intact,-0.28735220011805895
+CDKN2A_damaging_to_PELO,Avana,ACH-000259,Peripheral Nervous System,damaging,-1.1229798989337385
+CDKN2A_damaging_to_PELO,Avana,ACH-000260,Peripheral Nervous System,matrix_intact,-1.313364965380607
+CDKN2A_damaging_to_PELO,Avana,ACH-000261,Lung,matrix_intact,-1.4288362554152831
+CDKN2A_damaging_to_PELO,Avana,ACH-000262,Kidney,matrix_intact,-0.7231017707926953
+CDKN2A_damaging_to_PELO,Avana,ACH-000263,Myeloid,matrix_intact,-0.23844441377736075
+CDKN2A_damaging_to_PELO,Avana,ACH-000264,Lung,matrix_intact,-2.799730119530347
+CDKN2A_damaging_to_PELO,Avana,ACH-000265,Pancreas,matrix_intact,-1.1631942289075599
+CDKN2A_damaging_to_PELO,Avana,ACH-000266,Pancreas,matrix_intact,-0.5015770323292497
+CDKN2A_damaging_to_PELO,Avana,ACH-000272,Kidney,matrix_intact,-1.7051749471674795
+CDKN2A_damaging_to_PELO,Avana,ACH-000273,CNS/Brain,matrix_intact,-1.2396297554591582
+CDKN2A_damaging_to_PELO,Avana,ACH-000274,Skin,matrix_intact,-2.497944296246143
+CDKN2A_damaging_to_PELO,Avana,ACH-000276,Breast,matrix_intact,-1.4749596740772155
+CDKN2A_damaging_to_PELO,Avana,ACH-000277,Breast,matrix_intact,-0.08742364678792841
+CDKN2A_damaging_to_PELO,Avana,ACH-000278,Ovary/Fallopian Tube,matrix_intact,-1.5047897422998138
+CDKN2A_damaging_to_PELO,Avana,ACH-000279,Bone,matrix_intact,-2.541762311733443
+CDKN2A_damaging_to_PELO,Avana,ACH-000280,Ovary/Fallopian Tube,matrix_intact,-0.9014141599292802
+CDKN2A_damaging_to_PELO,Avana,ACH-000281,Pancreas,matrix_intact,-0.9757173950995078
+CDKN2A_damaging_to_PELO,Avana,ACH-000286,Bowel,matrix_intact,-0.5122668215885232
+CDKN2A_damaging_to_PELO,Avana,ACH-000288,Breast,matrix_intact,-1.3471874612728483
+CDKN2A_damaging_to_PELO,Avana,ACH-000290,Lung,matrix_intact,-1.8540916283493638
+CDKN2A_damaging_to_PELO,Avana,ACH-000291,Ovary/Fallopian Tube,matrix_intact,-1.3347716292906067
+CDKN2A_damaging_to_PELO,Avana,ACH-000292,Lung,matrix_intact,-1.189682470666166
+CDKN2A_damaging_to_PELO,Avana,ACH-000293,Uterus,matrix_intact,-0.4520750372101401
+CDKN2A_damaging_to_PELO,Avana,ACH-000294,Myeloid,matrix_intact,-0.5289615558620602
+CDKN2A_damaging_to_PELO,Avana,ACH-000295,Myeloid,matrix_intact,-0.17474025114739788
+CDKN2A_damaging_to_PELO,Avana,ACH-000296,Bowel,matrix_intact,-1.1723206078133066
+CDKN2A_damaging_to_PELO,Avana,ACH-000302,Uterus,matrix_intact,-0.3291805852997207
+CDKN2A_damaging_to_PELO,Avana,ACH-000303,Esophagus/Stomach,damaging,-3.0550990047035693
+CDKN2A_damaging_to_PELO,Avana,ACH-000304,Skin,matrix_intact,-0.2586875596051481
+CDKN2A_damaging_to_PELO,Avana,ACH-000305,Esophagus/Stomach,matrix_intact,-1.6743020691451023
+CDKN2A_damaging_to_PELO,Avana,ACH-000307,Pancreas,matrix_intact,-1.9599568116337696
+CDKN2A_damaging_to_PELO,Avana,ACH-000308,Ovary/Fallopian Tube,matrix_intact,-0.9164527918438266
+CDKN2A_damaging_to_PELO,Avana,ACH-000310,Peripheral Nervous System,matrix_intact,-0.178722630966436
+CDKN2A_damaging_to_PELO,Avana,ACH-000311,Lung,matrix_intact,-0.17009021229579876
+CDKN2A_damaging_to_PELO,Avana,ACH-000312,Peripheral Nervous System,matrix_intact,-0.3418661037647528
+CDKN2A_damaging_to_PELO,Avana,ACH-000313,Kidney,matrix_intact,-1.3505699539737988
+CDKN2A_damaging_to_PELO,Avana,ACH-000315,Lymphoid,matrix_intact,-0.6847726086256816
+CDKN2A_damaging_to_PELO,Avana,ACH-000316,Liver,matrix_intact,-1.065026843935966
+CDKN2A_damaging_to_PELO,Avana,ACH-000317,Kidney,matrix_intact,-2.337267088015818
+CDKN2A_damaging_to_PELO,Avana,ACH-000318,Esophagus/Stomach,matrix_intact,-0.8255303751241452
+CDKN2A_damaging_to_PELO,Avana,ACH-000319,Pleura,matrix_intact,-0.8295227042757775
+CDKN2A_damaging_to_PELO,Avana,ACH-000320,Pancreas,matrix_intact,-0.41119382644818797
+CDKN2A_damaging_to_PELO,Avana,ACH-000322,Skin,matrix_intact,-1.1574795433288807
+CDKN2A_damaging_to_PELO,Avana,ACH-000323,CNS/Brain,matrix_intact,-1.1502262155298713
+CDKN2A_damaging_to_PELO,Avana,ACH-000324,Ovary/Fallopian Tube,matrix_intact,-0.9761683352705139
+CDKN2A_damaging_to_PELO,Avana,ACH-000325,Esophagus/Stomach,matrix_intact,-1.0311246410908392
+CDKN2A_damaging_to_PELO,Avana,ACH-000326,Myeloid,matrix_intact,-1.2547888442876514
+CDKN2A_damaging_to_PELO,Avana,ACH-000329,CNS/Brain,matrix_intact,-0.8380355711459712
+CDKN2A_damaging_to_PELO,Avana,ACH-000330,Breast,matrix_intact,-0.863223301957083
+CDKN2A_damaging_to_PELO,Avana,ACH-000331,Pleura,matrix_intact,-1.6233089133520728
+CDKN2A_damaging_to_PELO,Avana,ACH-000332,Pancreas,matrix_intact,-1.078458718413773
+CDKN2A_damaging_to_PELO,Avana,ACH-000334,Lymphoid,matrix_intact,-0.5133558183927698
+CDKN2A_damaging_to_PELO,Avana,ACH-000335,Pleura,matrix_intact,-1.7593358887985064
+CDKN2A_damaging_to_PELO,Avana,ACH-000336,Myeloid,matrix_intact,-0.30414846367775894
+CDKN2A_damaging_to_PELO,Avana,ACH-000337,Lung,matrix_intact,-0.6224736715881125
+CDKN2A_damaging_to_PELO,Avana,ACH-000339,Lung,matrix_intact,-2.5673075892195003
+CDKN2A_damaging_to_PELO,Avana,ACH-000341,Peripheral Nervous System,matrix_intact,-0.4010598708237252
+CDKN2A_damaging_to_PELO,Avana,ACH-000343,Lung,matrix_intact,-0.9893923015615518
+CDKN2A_damaging_to_PELO,Avana,ACH-000344,Esophagus/Stomach,matrix_intact,-0.8665229346108969
+CDKN2A_damaging_to_PELO,Avana,ACH-000346,Lymphoid,matrix_intact,-0.7804007802239318
+CDKN2A_damaging_to_PELO,Avana,ACH-000348,Skin,damaging,-0.6155917814505708
+CDKN2A_damaging_to_PELO,Avana,ACH-000350,Bowel,matrix_intact,-1.040983894299183
+CDKN2A_damaging_to_PELO,Avana,ACH-000352,Breast,matrix_intact,-0.6773485937823822
+CDKN2A_damaging_to_PELO,Avana,ACH-000355,Lung,matrix_intact,-2.2564811831579856
+CDKN2A_damaging_to_PELO,Avana,ACH-000356,Esophagus/Stomach,matrix_intact,-0.4072629278216459
+CDKN2A_damaging_to_PELO,Avana,ACH-000359,Bone,matrix_intact,-0.27297389371989567
+CDKN2A_damaging_to_PELO,Avana,ACH-000361,Liver,matrix_intact,-0.7517209781530436
+CDKN2A_damaging_to_PELO,Avana,ACH-000362,Myeloid,matrix_intact,-0.4299320321617044
+CDKN2A_damaging_to_PELO,Avana,ACH-000363,Lymphoid,matrix_intact,-0.3100194779143156
+CDKN2A_damaging_to_PELO,Avana,ACH-000364,Bone,matrix_intact,-0.630172646367595
+CDKN2A_damaging_to_PELO,Avana,ACH-000365,Lymphoid,matrix_intact,-2.130448153120362
+CDKN2A_damaging_to_PELO,Avana,ACH-000366,Peripheral Nervous System,matrix_intact,-1.8757446981708212
+CDKN2A_damaging_to_PELO,Avana,ACH-000368,CNS/Brain,matrix_intact,-0.5618042626651746
+CDKN2A_damaging_to_PELO,Avana,ACH-000370,CNS/Brain,matrix_intact,-0.16043152731084837
+CDKN2A_damaging_to_PELO,Avana,ACH-000371,Lymphoid,matrix_intact,-0.8439155672612131
+CDKN2A_damaging_to_PELO,Avana,ACH-000374,Breast,matrix_intact,-2.3995446904786975
+CDKN2A_damaging_to_PELO,Avana,ACH-000375,Kidney,matrix_intact,-1.0144179962795428
+CDKN2A_damaging_to_PELO,Avana,ACH-000376,CNS/Brain,matrix_intact,-1.2637938640806592
+CDKN2A_damaging_to_PELO,Avana,ACH-000377,Ampulla of Vater,matrix_intact,-1.2202687207657323
+CDKN2A_damaging_to_PELO,Avana,ACH-000378,Lung,matrix_intact,-0.5497048455744244
+CDKN2A_damaging_to_PELO,Avana,ACH-000381,Bowel,matrix_intact,-1.6195558907405307
+CDKN2A_damaging_to_PELO,Avana,ACH-000383,Esophagus/Stomach,damaging,-1.6968870808425562
+CDKN2A_damaging_to_PELO,Avana,ACH-000385,Kidney,matrix_intact,-0.6977660111609754
+CDKN2A_damaging_to_PELO,Avana,ACH-000387,Myeloid,matrix_intact,-0.957884262876405
+CDKN2A_damaging_to_PELO,Avana,ACH-000389,CNS/Brain,matrix_intact,-0.9865318105241571
+CDKN2A_damaging_to_PELO,Avana,ACH-000390,Lung,matrix_intact,-2.171387126682808
+CDKN2A_damaging_to_PELO,Avana,ACH-000391,Bone,damaging,-0.566643827891959
+CDKN2A_damaging_to_PELO,Avana,ACH-000393,Liver,matrix_intact,-1.119498600128075
+CDKN2A_damaging_to_PELO,Avana,ACH-000395,Lung,damaging,-1.331368213867643
+CDKN2A_damaging_to_PELO,Avana,ACH-000396,Bladder/Urinary Tract,matrix_intact,-0.30918007875236875
+CDKN2A_damaging_to_PELO,Avana,ACH-000397,Uterus,matrix_intact,-0.3074679943672844
+CDKN2A_damaging_to_PELO,Avana,ACH-000398,Lymphoid,damaging,-1.3618836399637182
+CDKN2A_damaging_to_PELO,Avana,ACH-000401,Skin,matrix_intact,-0.9971573674212801
+CDKN2A_damaging_to_PELO,Avana,ACH-000402,Lymphoid,matrix_intact,-0.22269769024149083
+CDKN2A_damaging_to_PELO,Avana,ACH-000403,Bowel,matrix_intact,-0.48982626789739275
+CDKN2A_damaging_to_PELO,Avana,ACH-000404,Skin,damaging,-0.8830536254174357
+CDKN2A_damaging_to_PELO,Avana,ACH-000405,Lymphoid,matrix_intact,-1.117051959363549
+CDKN2A_damaging_to_PELO,Avana,ACH-000406,Myeloid,matrix_intact,-0.36899460680783935
+CDKN2A_damaging_to_PELO,Avana,ACH-000407,Uterus,matrix_intact,-0.7139596994515998
+CDKN2A_damaging_to_PELO,Avana,ACH-000408,Esophagus/Stomach,matrix_intact,-0.5224806008362033
+CDKN2A_damaging_to_PELO,Avana,ACH-000410,Bone,matrix_intact,-1.0356108994345217
+CDKN2A_damaging_to_PELO,Avana,ACH-000411,Kidney,matrix_intact,-1.2380658953667867
+CDKN2A_damaging_to_PELO,Avana,ACH-000414,Lung,matrix_intact,-0.7926434533218982
+CDKN2A_damaging_to_PELO,Avana,ACH-000415,Head and Neck,matrix_intact,-2.8088650466856553
+CDKN2A_damaging_to_PELO,Avana,ACH-000416,Lung,matrix_intact,-2.606669195938019
+CDKN2A_damaging_to_PELO,Avana,ACH-000417,Pancreas,matrix_intact,-1.3987622816328629
+CDKN2A_damaging_to_PELO,Avana,ACH-000420,Liver,matrix_intact,-0.8789967160550635
+CDKN2A_damaging_to_PELO,Avana,ACH-000421,Bowel,matrix_intact,-0.5713430028817619
+CDKN2A_damaging_to_PELO,Avana,ACH-000422,Liver,matrix_intact,-1.5694632942094626
+CDKN2A_damaging_to_PELO,Avana,ACH-000424,Bone,matrix_intact,-0.3128563473721817
+CDKN2A_damaging_to_PELO,Avana,ACH-000425,Skin,matrix_intact,-0.16352529321736764
+CDKN2A_damaging_to_PELO,Avana,ACH-000426,Lymphoid,matrix_intact,-1.1654854565005652
+CDKN2A_damaging_to_PELO,Avana,ACH-000427,Esophagus/Stomach,matrix_intact,-0.15515723832870923
+CDKN2A_damaging_to_PELO,Avana,ACH-000431,Lung,matrix_intact,-0.8354750547841094
+CDKN2A_damaging_to_PELO,Avana,ACH-000433,Kidney,matrix_intact,-0.7198406169336997
+CDKN2A_damaging_to_PELO,Avana,ACH-000434,Lung,matrix_intact,-1.2873437294669334
+CDKN2A_damaging_to_PELO,Avana,ACH-000435,Uterus,matrix_intact,-0.52791771495367
+CDKN2A_damaging_to_PELO,Avana,ACH-000436,Lymphoid,matrix_intact,-0.9086770648021454
+CDKN2A_damaging_to_PELO,Avana,ACH-000437,CNS/Brain,matrix_intact,-1.196988475270759
+CDKN2A_damaging_to_PELO,Avana,ACH-000438,Lung,matrix_intact,-1.2096296721515234
+CDKN2A_damaging_to_PELO,Avana,ACH-000441,Skin,matrix_intact,-0.7759028399962782
+CDKN2A_damaging_to_PELO,Avana,ACH-000444,Lung,matrix_intact,-2.6439808010141093
+CDKN2A_damaging_to_PELO,Avana,ACH-000445,CNS/Brain,matrix_intact,-0.8909212603982688
+CDKN2A_damaging_to_PELO,Avana,ACH-000448,Lung,matrix_intact,-0.9784657176039651
+CDKN2A_damaging_to_PELO,Avana,ACH-000450,Skin,matrix_intact,-0.7514350056704929
+CDKN2A_damaging_to_PELO,Avana,ACH-000452,Esophagus/Stomach,matrix_intact,-1.269701348265075
+CDKN2A_damaging_to_PELO,Avana,ACH-000454,Lung,matrix_intact,-1.1597391730868654
+CDKN2A_damaging_to_PELO,Avana,ACH-000455,CNS/Brain,matrix_intact,-3.8551068634026735
+CDKN2A_damaging_to_PELO,Avana,ACH-000456,Thyroid,matrix_intact,-2.19246079422485
+CDKN2A_damaging_to_PELO,Avana,ACH-000458,Skin,matrix_intact,-0.6774276750612627
+CDKN2A_damaging_to_PELO,Avana,ACH-000459,Kidney,matrix_intact,0.16258363283196972
+CDKN2A_damaging_to_PELO,Avana,ACH-000460,Ovary/Fallopian Tube,matrix_intact,-0.7343375352324003
+CDKN2A_damaging_to_PELO,Avana,ACH-000461,Biliary Tract,matrix_intact,-2.019901739942896
+CDKN2A_damaging_to_PELO,Avana,ACH-000463,Lung,matrix_intact,-1.476016721156534
+CDKN2A_damaging_to_PELO,Avana,ACH-000464,CNS/Brain,matrix_intact,-0.15870382792711882
+CDKN2A_damaging_to_PELO,Avana,ACH-000466,Esophagus/Stomach,matrix_intact,-0.5960739341165264
+CDKN2A_damaging_to_PELO,Avana,ACH-000467,Bowel,matrix_intact,-0.8224195072927913
+CDKN2A_damaging_to_PELO,Avana,ACH-000468,Pancreas,matrix_intact,-0.8656356801937153
+CDKN2A_damaging_to_PELO,Avana,ACH-000469,CNS/Brain,matrix_intact,-0.8186406773702287
+CDKN2A_damaging_to_PELO,Avana,ACH-000470,Bowel,matrix_intact,-0.5642028310765652
+CDKN2A_damaging_to_PELO,Avana,ACH-000471,Liver,matrix_intact,-0.9957224133443106
+CDKN2A_damaging_to_PELO,Avana,ACH-000472,Head and Neck,damaging,-1.1908138819725944
+CDKN2A_damaging_to_PELO,Avana,ACH-000473,Bladder/Urinary Tract,matrix_intact,-0.44092889682851766
+CDKN2A_damaging_to_PELO,Avana,ACH-000475,Liver,matrix_intact,-1.9617354184859295
+CDKN2A_damaging_to_PELO,Avana,ACH-000476,Liver,matrix_intact,-0.4949845778078634
+CDKN2A_damaging_to_PELO,Avana,ACH-000477,Skin,matrix_intact,-0.6699345355534989
+CDKN2A_damaging_to_PELO,Avana,ACH-000478,Liver,matrix_intact,-1.0250113116817974
+CDKN2A_damaging_to_PELO,Avana,ACH-000479,CNS/Brain,matrix_intact,-0.21262868639478277
+CDKN2A_damaging_to_PELO,Avana,ACH-000480,Liver,matrix_intact,-1.5946906397029768
+CDKN2A_damaging_to_PELO,Avana,ACH-000481,Lung,matrix_intact,-0.6110991500223555
+CDKN2A_damaging_to_PELO,Avana,ACH-000483,Liver,matrix_intact,-0.20529109602358456
+CDKN2A_damaging_to_PELO,Avana,ACH-000484,Kidney,matrix_intact,-0.5857431003472957
+CDKN2A_damaging_to_PELO,Avana,ACH-000485,Esophagus/Stomach,matrix_intact,-0.4964560570651527
+CDKN2A_damaging_to_PELO,Avana,ACH-000486,Bladder/Urinary Tract,matrix_intact,-1.1162227744315216
+CDKN2A_damaging_to_PELO,Avana,ACH-000487,Myeloid,matrix_intact,-0.9397729434659879
+CDKN2A_damaging_to_PELO,Avana,ACH-000488,Esophagus/Stomach,matrix_intact,-3.078590794291366
+CDKN2A_damaging_to_PELO,Avana,ACH-000489,Bowel,matrix_intact,-1.878586212259814
+CDKN2A_damaging_to_PELO,Avana,ACH-000490,Cervix,matrix_intact,-2.09566947815036
+CDKN2A_damaging_to_PELO,Avana,ACH-000491,Bowel,matrix_intact,-0.8278490412631114
+CDKN2A_damaging_to_PELO,Avana,ACH-000493,Liver,matrix_intact,-0.4144373701512779
+CDKN2A_damaging_to_PELO,Avana,ACH-000495,Kidney,matrix_intact,-0.629390937987716
+CDKN2A_damaging_to_PELO,Avana,ACH-000496,Lung,matrix_intact,-0.9158330679372266
+CDKN2A_damaging_to_PELO,Avana,ACH-000499,Bone,matrix_intact,-0.826429853884071
+CDKN2A_damaging_to_PELO,Avana,ACH-000500,Head and Neck,damaging,-0.008134794949431812
+CDKN2A_damaging_to_PELO,Avana,ACH-000502,Pancreas,matrix_intact,-1.193406669584062
+CDKN2A_damaging_to_PELO,Avana,ACH-000503,Head and Neck,matrix_intact,-0.6884569827560214
+CDKN2A_damaging_to_PELO,Avana,ACH-000504,CNS/Brain,matrix_intact,-0.11309760754258323
+CDKN2A_damaging_to_PELO,Avana,ACH-000505,Soft Tissue,matrix_intact,-1.033349838848296
+CDKN2A_damaging_to_PELO,Avana,ACH-000507,Esophagus/Stomach,matrix_intact,-1.0277774453304405
+CDKN2A_damaging_to_PELO,Avana,ACH-000510,Lung,matrix_intact,-1.086088926250107
+CDKN2A_damaging_to_PELO,Avana,ACH-000511,Lung,matrix_intact,-0.5408955205477587
+CDKN2A_damaging_to_PELO,Avana,ACH-000512,Lymphoid,matrix_intact,-1.3922611476366349
+CDKN2A_damaging_to_PELO,Avana,ACH-000514,Lung,matrix_intact,-0.6497564506471297
+CDKN2A_damaging_to_PELO,Avana,ACH-000516,Bone,matrix_intact,-1.7460073614225915
+CDKN2A_damaging_to_PELO,Avana,ACH-000517,Pancreas,matrix_intact,-0.5321424270904052
+CDKN2A_damaging_to_PELO,Avana,ACH-000518,Head and Neck,damaging,-0.9062115242816056
+CDKN2A_damaging_to_PELO,Avana,ACH-000520,Ovary/Fallopian Tube,matrix_intact,-1.0945164092274653
+CDKN2A_damaging_to_PELO,Avana,ACH-000521,Lung,matrix_intact,-0.9358561807108344
+CDKN2A_damaging_to_PELO,Avana,ACH-000522,Bladder/Urinary Tract,matrix_intact,-2.525578946046552
+CDKN2A_damaging_to_PELO,Avana,ACH-000524,Ovary/Fallopian Tube,matrix_intact,-1.163192092110961
+CDKN2A_damaging_to_PELO,Avana,ACH-000525,Lung,matrix_intact,-2.111092842604446
+CDKN2A_damaging_to_PELO,Avana,ACH-000527,Ovary/Fallopian Tube,matrix_intact,-1.068262205524515
+CDKN2A_damaging_to_PELO,Avana,ACH-000528,Lung,matrix_intact,-0.7502236922313296
+CDKN2A_damaging_to_PELO,Avana,ACH-000532,Bowel,matrix_intact,-0.9489869239965073
+CDKN2A_damaging_to_PELO,Avana,ACH-000533,Kidney,matrix_intact,-0.6601858130733449
+CDKN2A_damaging_to_PELO,Avana,ACH-000535,Pancreas,matrix_intact,-1.4587911253616543
+CDKN2A_damaging_to_PELO,Avana,ACH-000537,Liver,matrix_intact,-1.1472503143429273
+CDKN2A_damaging_to_PELO,Avana,ACH-000541,Lymphoid,matrix_intact,-0.1015797024315868
+CDKN2A_damaging_to_PELO,Avana,ACH-000542,Ovary/Fallopian Tube,matrix_intact,-4.465644755344188
+CDKN2A_damaging_to_PELO,Avana,ACH-000544,Esophagus/Stomach,matrix_intact,-2.4832842148810625
+CDKN2A_damaging_to_PELO,Avana,ACH-000545,Bladder/Urinary Tract,damaging,-1.662603163452557
+CDKN2A_damaging_to_PELO,Avana,ACH-000547,Bladder/Urinary Tract,matrix_intact,-1.1318111715062247
+CDKN2A_damaging_to_PELO,Avana,ACH-000548,Head and Neck,damaging,-1.1172348262741143
+CDKN2A_damaging_to_PELO,Avana,ACH-000549,Head and Neck,matrix_intact,-1.3344919849967742
+CDKN2A_damaging_to_PELO,Avana,ACH-000550,Skin,matrix_intact,-1.005720522975952
+CDKN2A_damaging_to_PELO,Avana,ACH-000551,Myeloid,matrix_intact,-4.5200898248573225
+CDKN2A_damaging_to_PELO,Avana,ACH-000552,Bowel,matrix_intact,-0.8833028138921781
+CDKN2A_damaging_to_PELO,Avana,ACH-000556,Cervix,matrix_intact,-1.4009359544662439
+CDKN2A_damaging_to_PELO,Avana,ACH-000557,Myeloid,matrix_intact,-0.6134094377826015
+CDKN2A_damaging_to_PELO,Avana,ACH-000559,Lung,matrix_intact,-0.30696162250360093
+CDKN2A_damaging_to_PELO,Avana,ACH-000563,Lung,matrix_intact,-1.4369830349055372
+CDKN2A_damaging_to_PELO,Avana,ACH-000567,Lymphoid,matrix_intact,-1.00141912752059
+CDKN2A_damaging_to_PELO,Avana,ACH-000570,CNS/Brain,matrix_intact,-1.8613761330363203
+CDKN2A_damaging_to_PELO,Avana,ACH-000571,CNS/Brain,matrix_intact,-0.6761067545530213
+CDKN2A_damaging_to_PELO,Avana,ACH-000573,Breast,matrix_intact,-2.5474321069801986
+CDKN2A_damaging_to_PELO,Avana,ACH-000576,Lymphoid,matrix_intact,-1.2570310842078807
+CDKN2A_damaging_to_PELO,Avana,ACH-000577,Liver,damaging,-0.6307366554397306
+CDKN2A_damaging_to_PELO,Avana,ACH-000579,Skin,damaging,-1.0425781300232586
+CDKN2A_damaging_to_PELO,Avana,ACH-000580,Skin,damaging,-0.5881977048628064
+CDKN2A_damaging_to_PELO,Avana,ACH-000581,Esophagus/Stomach,matrix_intact,-0.7352203167964149
+CDKN2A_damaging_to_PELO,Avana,ACH-000584,Ovary/Fallopian Tube,matrix_intact,-1.7359284159166763
+CDKN2A_damaging_to_PELO,Avana,ACH-000585,Lung,matrix_intact,-1.0415010284578679
+CDKN2A_damaging_to_PELO,Avana,ACH-000587,Lung,damaging,-2.661682974174772
+CDKN2A_damaging_to_PELO,Avana,ACH-000588,Lymphoid,matrix_intact,-1.2369153486643945
+CDKN2A_damaging_to_PELO,Avana,ACH-000589,Lung,matrix_intact,-0.9928406378278926
+CDKN2A_damaging_to_PELO,Avana,ACH-000591,CNS/Brain,matrix_intact,-0.7875731899934895
+CDKN2A_damaging_to_PELO,Avana,ACH-000592,CNS/Brain,matrix_intact,-1.8654056444083333
+CDKN2A_damaging_to_PELO,Avana,ACH-000593,Bladder/Urinary Tract,matrix_intact,-1.46550673193636
+CDKN2A_damaging_to_PELO,Avana,ACH-000595,CNS/Brain,matrix_intact,-1.8255533925360075
+CDKN2A_damaging_to_PELO,Avana,ACH-000596,Lung,matrix_intact,-0.9072917918228907
+CDKN2A_damaging_to_PELO,Avana,ACH-000597,Kidney,matrix_intact,-0.27164220006701845
+CDKN2A_damaging_to_PELO,Avana,ACH-000599,Pancreas,matrix_intact,-0.8706446986940933
+CDKN2A_damaging_to_PELO,Avana,ACH-000601,Pancreas,matrix_intact,-3.1637728780800525
+CDKN2A_damaging_to_PELO,Avana,ACH-000602,Myeloid,matrix_intact,-0.9397959217296962
+CDKN2A_damaging_to_PELO,Avana,ACH-000604,Myeloid,matrix_intact,-2.1807440620044165
+CDKN2A_damaging_to_PELO,Avana,ACH-000605,Esophagus/Stomach,matrix_intact,-0.7267655927559552
+CDKN2A_damaging_to_PELO,Avana,ACH-000606,Head and Neck,matrix_intact,-1.2739161452451748
+CDKN2A_damaging_to_PELO,Avana,ACH-000607,Soft Tissue,matrix_intact,-0.6303039983683432
+CDKN2A_damaging_to_PELO,Avana,ACH-000608,Ovary/Fallopian Tube,damaging,-1.0508730972430351
+CDKN2A_damaging_to_PELO,Avana,ACH-000609,CNS/Brain,matrix_intact,-0.5060334009249289
+CDKN2A_damaging_to_PELO,Avana,ACH-000614,Skin,matrix_intact,-0.2183088000838009
+CDKN2A_damaging_to_PELO,Avana,ACH-000616,Esophagus/Stomach,matrix_intact,-1.3767198774184837
+CDKN2A_damaging_to_PELO,Avana,ACH-000618,Head and Neck,matrix_intact,-2.007542366578714
+CDKN2A_damaging_to_PELO,Avana,ACH-000619,Head and Neck,matrix_intact,-1.1220936149853142
+CDKN2A_damaging_to_PELO,Avana,ACH-000620,Liver,matrix_intact,-1.9635907158759525
+CDKN2A_damaging_to_PELO,Avana,ACH-000621,Breast,matrix_intact,-1.1917552353740748
+CDKN2A_damaging_to_PELO,Avana,ACH-000622,CNS/Brain,matrix_intact,-0.4642608911056446
+CDKN2A_damaging_to_PELO,Avana,ACH-000623,CNS/Brain,matrix_intact,-0.6395262733651275
+CDKN2A_damaging_to_PELO,Avana,ACH-000624,Breast,matrix_intact,-2.362172505344932
+CDKN2A_damaging_to_PELO,Avana,ACH-000627,Lung,matrix_intact,-0.8620415989425232
+CDKN2A_damaging_to_PELO,Avana,ACH-000630,Head and Neck,matrix_intact,-2.359911643731875
+CDKN2A_damaging_to_PELO,Avana,ACH-000632,Skin,damaging,-1.4815237777214691
+CDKN2A_damaging_to_PELO,Avana,ACH-000633,Esophagus/Stomach,matrix_intact,-0.13778956964093284
+CDKN2A_damaging_to_PELO,Avana,ACH-000634,CNS/Brain,matrix_intact,-0.7968220257208332
+CDKN2A_damaging_to_PELO,Avana,ACH-000637,Esophagus/Stomach,matrix_intact,-1.5492478791958684
+CDKN2A_damaging_to_PELO,Avana,ACH-000638,Lung,matrix_intact,-0.7440552070469436
+CDKN2A_damaging_to_PELO,Avana,ACH-000639,Lung,matrix_intact,-1.0518421354546135
+CDKN2A_damaging_to_PELO,Avana,ACH-000645,Pleura,matrix_intact,-1.515788053191489
+CDKN2A_damaging_to_PELO,Avana,ACH-000646,Ovary/Fallopian Tube,matrix_intact,-0.7916366103128785
+CDKN2A_damaging_to_PELO,Avana,ACH-000647,Esophagus/Stomach,matrix_intact,-1.442623989940556
+CDKN2A_damaging_to_PELO,Avana,ACH-000648,Pleura,matrix_intact,-0.5831328311198413
+CDKN2A_damaging_to_PELO,Avana,ACH-000649,Kidney,matrix_intact,-2.5445731994577696
+CDKN2A_damaging_to_PELO,Avana,ACH-000651,Bowel,matrix_intact,-2.2435392709981863
+CDKN2A_damaging_to_PELO,Avana,ACH-000652,Pancreas,damaging,-0.6264787396936691
+CDKN2A_damaging_to_PELO,Avana,ACH-000653,Lymphoid,matrix_intact,-0.590360012787051
+CDKN2A_damaging_to_PELO,Avana,ACH-000654,Lymphoid,matrix_intact,-1.624183576629652
+CDKN2A_damaging_to_PELO,Avana,ACH-000655,CNS/Brain,matrix_intact,-1.2878232949727533
+CDKN2A_damaging_to_PELO,Avana,ACH-000657,Ovary/Fallopian Tube,matrix_intact,-1.165563867912037
+CDKN2A_damaging_to_PELO,Avana,ACH-000661,Skin,matrix_intact,-0.6557906600159704
+CDKN2A_damaging_to_PELO,Avana,ACH-000662,Lung,damaging,-1.8601776357078634
+CDKN2A_damaging_to_PELO,Avana,ACH-000663,Ovary/Fallopian Tube,matrix_intact,-0.9934414930338682
+CDKN2A_damaging_to_PELO,Avana,ACH-000664,Lymphoid,matrix_intact,-1.3724852957200206
+CDKN2A_damaging_to_PELO,Avana,ACH-000665,Lung,matrix_intact,-2.1126735164560166
+CDKN2A_damaging_to_PELO,Avana,ACH-000667,Lung,matrix_intact,-2.2833641310026596
+CDKN2A_damaging_to_PELO,Avana,ACH-000671,Liver,matrix_intact,-2.418050176955048
+CDKN2A_damaging_to_PELO,Avana,ACH-000673,CNS/Brain,matrix_intact,-2.6247651982386326
+CDKN2A_damaging_to_PELO,Avana,ACH-000676,CNS/Brain,matrix_intact,-2.5075134082983745
+CDKN2A_damaging_to_PELO,Avana,ACH-000677,Lung,matrix_intact,-0.6002202395531113
+CDKN2A_damaging_to_PELO,Avana,ACH-000680,Bowel,matrix_intact,-0.35597352720085246
+CDKN2A_damaging_to_PELO,Avana,ACH-000681,Lung,matrix_intact,-1.6180770820776564
+CDKN2A_damaging_to_PELO,Avana,ACH-000682,Head and Neck,damaging,-2.2827305146616985
+CDKN2A_damaging_to_PELO,Avana,ACH-000683,Bowel,damaging,-0.81152842459839
+CDKN2A_damaging_to_PELO,Avana,ACH-000684,Kidney,matrix_intact,-1.1461026438764532
+CDKN2A_damaging_to_PELO,Avana,ACH-000685,Pancreas,matrix_intact,-1.0875893764129092
+CDKN2A_damaging_to_PELO,Avana,ACH-000688,Ovary/Fallopian Tube,matrix_intact,-0.2768047626982431
+CDKN2A_damaging_to_PELO,Avana,ACH-000693,Esophagus/Stomach,matrix_intact,-1.9881136996097402
+CDKN2A_damaging_to_PELO,Avana,ACH-000694,Esophagus/Stomach,matrix_intact,-2.1755403723835247
+CDKN2A_damaging_to_PELO,Avana,ACH-000695,Lung,matrix_intact,-0.2951469124357642
+CDKN2A_damaging_to_PELO,Avana,ACH-000696,Ovary/Fallopian Tube,matrix_intact,-1.3790409325394257
+CDKN2A_damaging_to_PELO,Avana,ACH-000697,Lymphoid,matrix_intact,-1.352973369759697
+CDKN2A_damaging_to_PELO,Avana,ACH-000698,Lung,matrix_intact,-4.043776841207139
+CDKN2A_damaging_to_PELO,Avana,ACH-000699,Breast,matrix_intact,-1.0836506351748825
+CDKN2A_damaging_to_PELO,Avana,ACH-000700,Lung,matrix_intact,-0.30137485263174296
+CDKN2A_damaging_to_PELO,Avana,ACH-000701,Ovary/Fallopian Tube,matrix_intact,-0.8773280991805238
+CDKN2A_damaging_to_PELO,Avana,ACH-000702,Lymphoid,matrix_intact,-1.1745919656055839
+CDKN2A_damaging_to_PELO,Avana,ACH-000706,Lung,matrix_intact,-1.5267273223967863
+CDKN2A_damaging_to_PELO,Avana,ACH-000709,Kidney,matrix_intact,-0.6620356275845584
+CDKN2A_damaging_to_PELO,Avana,ACH-000711,Breast,matrix_intact,-2.202048540830403
+CDKN2A_damaging_to_PELO,Avana,ACH-000713,Ovary/Fallopian Tube,matrix_intact,-1.588437713914547
+CDKN2A_damaging_to_PELO,Avana,ACH-000714,Lymphoid,matrix_intact,-0.3781819024065643
+CDKN2A_damaging_to_PELO,Avana,ACH-000716,Thyroid,matrix_intact,-1.414998580988427
+CDKN2A_damaging_to_PELO,Avana,ACH-000718,Lung,matrix_intact,-1.7114384215320593
+CDKN2A_damaging_to_PELO,Avana,ACH-000719,Ovary/Fallopian Tube,matrix_intact,-0.8507029216695785
+CDKN2A_damaging_to_PELO,Avana,ACH-000720,Bladder/Urinary Tract,matrix_intact,-1.6447626391282255
+CDKN2A_damaging_to_PELO,Avana,ACH-000721,Breast,matrix_intact,-1.375399131483749
+CDKN2A_damaging_to_PELO,Avana,ACH-000724,Bladder/Urinary Tract,matrix_intact,-0.3685500871061027
+CDKN2A_damaging_to_PELO,Avana,ACH-000725,Breast,matrix_intact,-1.2608010794041475
+CDKN2A_damaging_to_PELO,Avana,ACH-000732,Head and Neck,matrix_intact,-0.7108300523702483
+CDKN2A_damaging_to_PELO,Avana,ACH-000734,Liver,matrix_intact,-1.2328829845786866
+CDKN2A_damaging_to_PELO,Avana,ACH-000735,Head and Neck,damaging,-2.5573790342705647
+CDKN2A_damaging_to_PELO,Avana,ACH-000736,Esophagus/Stomach,matrix_intact,-1.387026469139213
+CDKN2A_damaging_to_PELO,Avana,ACH-000738,CNS/Brain,matrix_intact,-3.9012733128364308
+CDKN2A_damaging_to_PELO,Avana,ACH-000739,Liver,matrix_intact,-0.6111188223458168
+CDKN2A_damaging_to_PELO,Avana,ACH-000740,Head and Neck,damaging,-2.072962342923527
+CDKN2A_damaging_to_PELO,Avana,ACH-000741,Bladder/Urinary Tract,matrix_intact,-2.2975781332227045
+CDKN2A_damaging_to_PELO,Avana,ACH-000746,Esophagus/Stomach,damaging,-0.7312057978341125
+CDKN2A_damaging_to_PELO,Avana,ACH-000747,Lung,damaging,-1.2284261088043165
+CDKN2A_damaging_to_PELO,Avana,ACH-000748,Bone,matrix_intact,-1.291789821402019
+CDKN2A_damaging_to_PELO,Avana,ACH-000753,Bladder/Urinary Tract,matrix_intact,-2.4843311125947114
+CDKN2A_damaging_to_PELO,Avana,ACH-000754,Lymphoid,matrix_intact,-1.2702294220779438
+CDKN2A_damaging_to_PELO,Avana,ACH-000756,CNS/Brain,matrix_intact,-1.4610309666645964
+CDKN2A_damaging_to_PELO,Avana,ACH-000757,Lung,matrix_intact,-1.118580045867549
+CDKN2A_damaging_to_PELO,Avana,ACH-000758,Esophagus/Stomach,matrix_intact,-1.1784433654826887
+CDKN2A_damaging_to_PELO,Avana,ACH-000760,CNS/Brain,matrix_intact,-0.9033696309700128
+CDKN2A_damaging_to_PELO,Avana,ACH-000762,Head and Neck,matrix_intact,-1.8860923075996308
+CDKN2A_damaging_to_PELO,Avana,ACH-000763,Lymphoid,matrix_intact,-1.2318938577827727
+CDKN2A_damaging_to_PELO,Avana,ACH-000764,Esophagus/Stomach,matrix_intact,-0.5156016110803772
+CDKN2A_damaging_to_PELO,Avana,ACH-000765,Skin,damaging,-1.0563657580293375
+CDKN2A_damaging_to_PELO,Avana,ACH-000766,Lung,matrix_intact,0.01910071987113751
+CDKN2A_damaging_to_PELO,Avana,ACH-000767,Lung,matrix_intact,-0.5368775812957507
+CDKN2A_damaging_to_PELO,Avana,ACH-000768,Breast,matrix_intact,-3.1282989265711394
+CDKN2A_damaging_to_PELO,Avana,ACH-000769,Lung,damaging,-0.9824286238343694
+CDKN2A_damaging_to_PELO,Avana,ACH-000770,Myeloid,matrix_intact,-1.3723607078939029
+CDKN2A_damaging_to_PELO,Avana,ACH-000771,Head and Neck,damaging,-1.2366071417406244
+CDKN2A_damaging_to_PELO,Avana,ACH-000773,Lymphoid,matrix_intact,-0.8817879552519645
+CDKN2A_damaging_to_PELO,Avana,ACH-000774,Lung,matrix_intact,-0.7415021711623284
+CDKN2A_damaging_to_PELO,Avana,ACH-000775,Lung,matrix_intact,-1.3902634464786274
+CDKN2A_damaging_to_PELO,Avana,ACH-000776,CNS/Brain,matrix_intact,-0.707111718250025
+CDKN2A_damaging_to_PELO,Avana,ACH-000777,Esophagus/Stomach,damaging,-1.0979765073613463
+CDKN2A_damaging_to_PELO,Avana,ACH-000778,Head and Neck,damaging,-1.1798335773358959
+CDKN2A_damaging_to_PELO,Avana,ACH-000781,Lung,matrix_intact,-1.9595800358597733
+CDKN2A_damaging_to_PELO,Avana,ACH-000782,Lymphoid,damaging,-0.37625263671820436
+CDKN2A_damaging_to_PELO,Avana,ACH-000783,Breast,matrix_intact,-0.4050531045838332
+CDKN2A_damaging_to_PELO,Avana,ACH-000784,Esophagus/Stomach,matrix_intact,-1.5748315979033352
+CDKN2A_damaging_to_PELO,Avana,ACH-000785,Lung,matrix_intact,-1.1653434669056004
+CDKN2A_damaging_to_PELO,Avana,ACH-000787,Lung,damaging,-1.4302988105992345
+CDKN2A_damaging_to_PELO,Avana,ACH-000788,Skin,matrix_intact,-2.5749694238394625
+CDKN2A_damaging_to_PELO,Avana,ACH-000790,Lung,matrix_intact,-0.9474481828089796
+CDKN2A_damaging_to_PELO,Avana,ACH-000791,Lung,matrix_intact,-0.8170989662178847
+CDKN2A_damaging_to_PELO,Avana,ACH-000792,Kidney,matrix_intact,-1.5082835772285286
+CDKN2A_damaging_to_PELO,Avana,ACH-000793,Esophagus/Stomach,matrix_intact,-3.982420875088262
+CDKN2A_damaging_to_PELO,Avana,ACH-000794,Head and Neck,matrix_intact,-3.612252774693107
+CDKN2A_damaging_to_PELO,Avana,ACH-000796,Ovary/Fallopian Tube,damaging,-0.9600619849658383
+CDKN2A_damaging_to_PELO,Avana,ACH-000799,Skin,matrix_intact,-0.8047966922455996
+CDKN2A_damaging_to_PELO,Avana,ACH-000800,Lung,matrix_intact,-0.7927966975841665
+CDKN2A_damaging_to_PELO,Avana,ACH-000801,Skin,damaging,-0.2844628093088067
+CDKN2A_damaging_to_PELO,Avana,ACH-000802,Bladder/Urinary Tract,matrix_intact,-1.7400908534765915
+CDKN2A_damaging_to_PELO,Avana,ACH-000804,Peripheral Nervous System,matrix_intact,-0.9993992120166733
+CDKN2A_damaging_to_PELO,Avana,ACH-000805,Skin,matrix_intact,-0.4028335280735771
+CDKN2A_damaging_to_PELO,Avana,ACH-000807,CNS/Brain,matrix_intact,-2.5817015653416613
+CDKN2A_damaging_to_PELO,Avana,ACH-000809,Esophagus/Stomach,matrix_intact,-1.5766183145825075
+CDKN2A_damaging_to_PELO,Avana,ACH-000810,Skin,damaging,-0.9505748536060468
+CDKN2A_damaging_to_PELO,Avana,ACH-000811,Ovary/Fallopian Tube,matrix_intact,-0.5947578343503808
+CDKN2A_damaging_to_PELO,Avana,ACH-000817,Lymphoid,matrix_intact,-1.3108620363271495
+CDKN2A_damaging_to_PELO,Avana,ACH-000819,CNS/Brain,matrix_intact,-1.1428711989163995
+CDKN2A_damaging_to_PELO,Avana,ACH-000820,Bowel,matrix_intact,-0.46265752240087116
+CDKN2A_damaging_to_PELO,Avana,ACH-000821,Lymphoid,matrix_intact,0.12931298168702993
+CDKN2A_damaging_to_PELO,Avana,ACH-000822,Skin,matrix_intact,-1.341653529020237
+CDKN2A_damaging_to_PELO,Avana,ACH-000823,Esophagus/Stomach,matrix_intact,-2.085212671589985
+CDKN2A_damaging_to_PELO,Avana,ACH-000824,Esophagus/Stomach,matrix_intact,-1.033236188763461
+CDKN2A_damaging_to_PELO,Avana,ACH-000827,Skin,matrix_intact,-0.6094988487239794
+CDKN2A_damaging_to_PELO,Avana,ACH-000829,Lymphoid,matrix_intact,-1.514751336049332
+CDKN2A_damaging_to_PELO,Avana,ACH-000831,Uterus,matrix_intact,-2.6162338144192145
+CDKN2A_damaging_to_PELO,Avana,ACH-000832,Head and Neck,damaging,-2.2724677859532454
+CDKN2A_damaging_to_PELO,Avana,ACH-000833,Soft Tissue,matrix_intact,-0.5818437519971044
+CDKN2A_damaging_to_PELO,Avana,ACH-000834,Bladder/Urinary Tract,matrix_intact,-0.9932989005480191
+CDKN2A_damaging_to_PELO,Avana,ACH-000835,Soft Tissue,matrix_intact,-1.90980587028002
+CDKN2A_damaging_to_PELO,Avana,ACH-000836,Head and Neck,matrix_intact,-0.8726001743600955
+CDKN2A_damaging_to_PELO,Avana,ACH-000837,Lung,matrix_intact,-1.2711751610497197
+CDKN2A_damaging_to_PELO,Avana,ACH-000838,Lymphoid,matrix_intact,-0.09857697165920064
+CDKN2A_damaging_to_PELO,Avana,ACH-000839,Bladder/Urinary Tract,damaging,-1.0388755413303374
+CDKN2A_damaging_to_PELO,Avana,ACH-000840,Lung,matrix_intact,-0.7890652883776991
+CDKN2A_damaging_to_PELO,Avana,ACH-000841,Lung,matrix_intact,-0.49949437632963245
+CDKN2A_damaging_to_PELO,Avana,ACH-000843,Lung,matrix_intact,-1.1688600389490165
+CDKN2A_damaging_to_PELO,Avana,ACH-000845,Lung,damaging,-1.1590172592131265
+CDKN2A_damaging_to_PELO,Avana,ACH-000846,Head and Neck,damaging,-1.5059390076990316
+CDKN2A_damaging_to_PELO,Avana,ACH-000847,Esophagus/Stomach,matrix_intact,-0.3737218772457598
+CDKN2A_damaging_to_PELO,Avana,ACH-000848,Liver,matrix_intact,-1.3155824102959506
+CDKN2A_damaging_to_PELO,Avana,ACH-000849,Breast,matrix_intact,-1.1548411814026514
+CDKN2A_damaging_to_PELO,Avana,ACH-000851,Lung,matrix_intact,-0.43201093708736277
+CDKN2A_damaging_to_PELO,Avana,ACH-000853,Lung,damaging,-1.0212586844649127
+CDKN2A_damaging_to_PELO,Avana,ACH-000855,Esophagus/Stomach,matrix_intact,-2.147356488143016
+CDKN2A_damaging_to_PELO,Avana,ACH-000856,Breast,matrix_intact,-1.5282391060161649
+CDKN2A_damaging_to_PELO,Avana,ACH-000858,Lung,damaging,-1.1172064821744812
+CDKN2A_damaging_to_PELO,Avana,ACH-000859,Breast,matrix_intact,-0.9896021146894816
+CDKN2A_damaging_to_PELO,Avana,ACH-000860,Lung,matrix_intact,-1.828462199154537
+CDKN2A_damaging_to_PELO,Avana,ACH-000861,Lung,matrix_intact,-1.1119180395435415
+CDKN2A_damaging_to_PELO,Avana,ACH-000862,Bladder/Urinary Tract,matrix_intact,-1.0299110085222418
+CDKN2A_damaging_to_PELO,Avana,ACH-000865,Esophagus/Stomach,matrix_intact,-1.5839131951017662
+CDKN2A_damaging_to_PELO,Avana,ACH-000866,Lung,matrix_intact,-2.445606908225626
+CDKN2A_damaging_to_PELO,Avana,ACH-000867,Lung,matrix_intact,-1.936727388570699
+CDKN2A_damaging_to_PELO,Avana,ACH-000869,Lung,matrix_intact,-1.1650133316220153
+CDKN2A_damaging_to_PELO,Avana,ACH-000871,Lung,matrix_intact,-1.8886359542209115
+CDKN2A_damaging_to_PELO,Avana,ACH-000872,Lung,damaging,-1.0937340634839423
+CDKN2A_damaging_to_PELO,Avana,ACH-000873,Esophagus/Stomach,matrix_intact,-1.5818319775676002
+CDKN2A_damaging_to_PELO,Avana,ACH-000876,Breast,matrix_intact,-0.2763795821684552
+CDKN2A_damaging_to_PELO,Avana,ACH-000878,Lung,matrix_intact,-0.8317450373543376
+CDKN2A_damaging_to_PELO,Avana,ACH-000880,Esophagus/Stomach,matrix_intact,-1.6799016737808068
+CDKN2A_damaging_to_PELO,Avana,ACH-000881,Skin,matrix_intact,-0.8364336565712263
+CDKN2A_damaging_to_PELO,Avana,ACH-000882,Skin,matrix_intact,-1.3965182091983352
+CDKN2A_damaging_to_PELO,Avana,ACH-000884,Skin,damaging,-1.6613164472673163
+CDKN2A_damaging_to_PELO,Avana,ACH-000885,Ovary/Fallopian Tube,matrix_intact,-2.473828963379134
+CDKN2A_damaging_to_PELO,Avana,ACH-000886,Lung,matrix_intact,-3.265279355414234
+CDKN2A_damaging_to_PELO,Avana,ACH-000887,CNS/Brain,matrix_intact,-2.372191171203104
+CDKN2A_damaging_to_PELO,Avana,ACH-000888,Lung,matrix_intact,-0.8354414697451467
+CDKN2A_damaging_to_PELO,Avana,ACH-000889,Lymphoid,matrix_intact,-0.5809994140049092
+CDKN2A_damaging_to_PELO,Avana,ACH-000890,Lung,matrix_intact,-2.0282156773231654
+CDKN2A_damaging_to_PELO,Avana,ACH-000896,Bladder/Urinary Tract,matrix_intact,-1.3472270396742476
+CDKN2A_damaging_to_PELO,Avana,ACH-000898,Esophagus/Stomach,matrix_intact,-0.0708820222328898
+CDKN2A_damaging_to_PELO,Avana,ACH-000899,Skin,matrix_intact,-2.1356611291611145
+CDKN2A_damaging_to_PELO,Avana,ACH-000900,Lung,matrix_intact,-1.581022215894865
+CDKN2A_damaging_to_PELO,Avana,ACH-000901,Lung,matrix_intact,-1.609553891570062
+CDKN2A_damaging_to_PELO,Avana,ACH-000903,Thyroid,matrix_intact,-1.2662506784186496
+CDKN2A_damaging_to_PELO,Avana,ACH-000905,Bladder/Urinary Tract,matrix_intact,-1.6159591861830154
+CDKN2A_damaging_to_PELO,Avana,ACH-000906,Ovary/Fallopian Tube,matrix_intact,-2.2560234518834124
+CDKN2A_damaging_to_PELO,Avana,ACH-000907,Kidney,matrix_intact,-0.12233279897341429
+CDKN2A_damaging_to_PELO,Avana,ACH-000910,Breast,matrix_intact,-1.050825066402613
+CDKN2A_damaging_to_PELO,Avana,ACH-000911,Esophagus/Stomach,matrix_intact,-1.1918496156732132
+CDKN2A_damaging_to_PELO,Avana,ACH-000912,Lung,damaging,-2.1197255600988303
+CDKN2A_damaging_to_PELO,Avana,ACH-000913,Uterus,matrix_intact,-1.4309601492367552
+CDKN2A_damaging_to_PELO,Avana,ACH-000914,Lymphoid,matrix_intact,-1.981825133205472
+CDKN2A_damaging_to_PELO,Avana,ACH-000915,Skin,matrix_intact,-1.3627550252354315
+CDKN2A_damaging_to_PELO,Avana,ACH-000916,Lung,matrix_intact,-0.3696170469529991
+CDKN2A_damaging_to_PELO,Avana,ACH-000917,Esophagus/Stomach,matrix_intact,-0.9892096177042919
+CDKN2A_damaging_to_PELO,Avana,ACH-000920,Myeloid,matrix_intact,-0.39196216933501343
+CDKN2A_damaging_to_PELO,Avana,ACH-000921,Lung,damaging,-1.547481233578042
+CDKN2A_damaging_to_PELO,Avana,ACH-000922,Lymphoid,matrix_intact,-0.9033736710367347
+CDKN2A_damaging_to_PELO,Avana,ACH-000924,Lung,matrix_intact,-0.3456007933821366
+CDKN2A_damaging_to_PELO,Avana,ACH-000926,Bowel,matrix_intact,-1.0396125901160982
+CDKN2A_damaging_to_PELO,Avana,ACH-000928,Uterus,matrix_intact,-0.9819278444968873
+CDKN2A_damaging_to_PELO,Avana,ACH-000929,Lung,matrix_intact,-0.35258302297507566
+CDKN2A_damaging_to_PELO,Avana,ACH-000932,Esophagus/Stomach,matrix_intact,-3.0847610168038586
+CDKN2A_damaging_to_PELO,Avana,ACH-000935,Bowel,damaging,-0.7084538679825292
+CDKN2A_damaging_to_PELO,Avana,ACH-000936,Ovary/Fallopian Tube,matrix_intact,-2.608963690038008
+CDKN2A_damaging_to_PELO,Avana,ACH-000937,Lymphoid,matrix_intact,-4.621984527125445
+CDKN2A_damaging_to_PELO,Avana,ACH-000938,Lymphoid,matrix_intact,-1.227754184278131
+CDKN2A_damaging_to_PELO,Avana,ACH-000939,Uterus,matrix_intact,-0.46300450844084295
+CDKN2A_damaging_to_PELO,Avana,ACH-000941,Uterus,matrix_intact,-2.085285512693294
+CDKN2A_damaging_to_PELO,Avana,ACH-000943,Bowel,matrix_intact,-2.201814332533348
+CDKN2A_damaging_to_PELO,Avana,ACH-000944,Lymphoid,matrix_intact,-0.8866228710794632
+CDKN2A_damaging_to_PELO,Avana,ACH-000946,Uterus,matrix_intact,-2.1574896729361095
+CDKN2A_damaging_to_PELO,Avana,ACH-000947,Ovary/Fallopian Tube,matrix_intact,-2.983756010789822
+CDKN2A_damaging_to_PELO,Avana,ACH-000948,Esophagus/Stomach,matrix_intact,-2.0872702674477654
+CDKN2A_damaging_to_PELO,Avana,ACH-000950,Bowel,matrix_intact,-0.8709740833867672
+CDKN2A_damaging_to_PELO,Avana,ACH-000953,Lymphoid,matrix_intact,-1.0373500402015248
+CDKN2A_damaging_to_PELO,Avana,ACH-000957,Bowel,matrix_intact,-1.9182685436339022
+CDKN2A_damaging_to_PELO,Avana,ACH-000958,Bowel,matrix_intact,-1.258049611912353
+CDKN2A_damaging_to_PELO,Avana,ACH-000959,Bowel,matrix_intact,-1.4711821427355916
+CDKN2A_damaging_to_PELO,Avana,ACH-000960,Lymphoid,matrix_intact,-1.7860930178138497
+CDKN2A_damaging_to_PELO,Avana,ACH-000961,Uterus,matrix_intact,-1.3000999756310163
+CDKN2A_damaging_to_PELO,Avana,ACH-000963,Bowel,matrix_intact,-0.9182057345554329
+CDKN2A_damaging_to_PELO,Avana,ACH-000965,Uterus,matrix_intact,-2.4511143809590994
+CDKN2A_damaging_to_PELO,Avana,ACH-000968,Skin,matrix_intact,-0.6333874451739966
+CDKN2A_damaging_to_PELO,Avana,ACH-000969,Bowel,matrix_intact,-1.0889117329410405
+CDKN2A_damaging_to_PELO,Avana,ACH-000973,Bladder/Urinary Tract,damaging,-1.1329236084663838
+CDKN2A_damaging_to_PELO,Avana,ACH-000974,Uterus,matrix_intact,-2.7555396293475822
+CDKN2A_damaging_to_PELO,Avana,ACH-000975,Lung,matrix_intact,-0.9291177630121132
+CDKN2A_damaging_to_PELO,Avana,ACH-000976,Biliary Tract,matrix_intact,-1.0439687355248832
+CDKN2A_damaging_to_PELO,Avana,ACH-000977,Prostate,matrix_intact,-1.3541734262997296
+CDKN2A_damaging_to_PELO,Avana,ACH-000978,Uterus,damaging,-0.4921963331202748
+CDKN2A_damaging_to_PELO,Avana,ACH-000980,Lung,matrix_intact,-2.322952808435855
+CDKN2A_damaging_to_PELO,Avana,ACH-000983,Myeloid,matrix_intact,-0.4622416965544155
+CDKN2A_damaging_to_PELO,Avana,ACH-000984,Uterus,matrix_intact,-2.120430881896652
+CDKN2A_damaging_to_PELO,Avana,ACH-000986,Bowel,matrix_intact,-0.8527211635427481
+CDKN2A_damaging_to_PELO,Avana,ACH-000988,Uterus,damaging,-1.884510408362933
+CDKN2A_damaging_to_PELO,Avana,ACH-000993,Uterus,matrix_intact,-1.8265200317606567
+CDKN2A_damaging_to_PELO,Avana,ACH-000994,Uterus,matrix_intact,-2.201636551786408
+CDKN2A_damaging_to_PELO,Avana,ACH-000995,Lymphoid,matrix_intact,-1.0775114012422082
+CDKN2A_damaging_to_PELO,Avana,ACH-000996,Uterus,matrix_intact,-0.3947420861101944
+CDKN2A_damaging_to_PELO,Avana,ACH-001001,Bone,matrix_intact,-2.0664782752142963
+CDKN2A_damaging_to_PELO,Avana,ACH-001020,CNS/Brain,matrix_intact,-0.5144501212606989
+CDKN2A_damaging_to_PELO,Avana,ACH-001028,CNS/Brain,matrix_intact,-1.6294167432284103
+CDKN2A_damaging_to_PELO,Avana,ACH-001029,Bone,matrix_intact,-1.4886738916792375
+CDKN2A_damaging_to_PELO,Avana,ACH-001031,CNS/Brain,matrix_intact,-1.0699148578451756
+CDKN2A_damaging_to_PELO,Avana,ACH-001033,CNS/Brain,matrix_intact,-0.055262660082478016
+CDKN2A_damaging_to_PELO,Avana,ACH-001036,Myeloid,matrix_intact,-0.886554609913182
+CDKN2A_damaging_to_PELO,Avana,ACH-001038,Bone,matrix_intact,-2.6755535331625317
+CDKN2A_damaging_to_PELO,Avana,ACH-001041,Skin,matrix_intact,-0.7489773721839423
+CDKN2A_damaging_to_PELO,Avana,ACH-001048,Ovary/Fallopian Tube,matrix_intact,-1.8167503058384895
+CDKN2A_damaging_to_PELO,Avana,ACH-001050,Soft Tissue,matrix_intact,-1.1405536544457466
+CDKN2A_damaging_to_PELO,Avana,ACH-001053,CNS/Brain,matrix_intact,-1.463118154863547
+CDKN2A_damaging_to_PELO,Avana,ACH-001054,CNS/Brain,matrix_intact,-0.989969169256157
+CDKN2A_damaging_to_PELO,Avana,ACH-001061,Bowel,matrix_intact,-1.2483923227906506
+CDKN2A_damaging_to_PELO,Avana,ACH-001067,CNS/Brain,matrix_intact,-0.6180181310058758
+CDKN2A_damaging_to_PELO,Avana,ACH-001075,Lung,matrix_intact,-1.1882373861331406
+CDKN2A_damaging_to_PELO,Avana,ACH-001096,Soft Tissue,damaging,-1.0841032911227373
+CDKN2A_damaging_to_PELO,Avana,ACH-001098,Pancreas,damaging,-1.4041849758139295
+CDKN2A_damaging_to_PELO,Avana,ACH-001099,Kidney,matrix_intact,-0.5966225552524188
+CDKN2A_damaging_to_PELO,Avana,ACH-001119,Lymphoid,matrix_intact,-0.6563791841671434
+CDKN2A_damaging_to_PELO,Avana,ACH-001128,Kidney,matrix_intact,-0.44222727772034703
+CDKN2A_damaging_to_PELO,Avana,ACH-001129,Myeloid,matrix_intact,-0.20007558832907968
+CDKN2A_damaging_to_PELO,Avana,ACH-001134,Lymphoid,matrix_intact,-1.6135762815495602
+CDKN2A_damaging_to_PELO,Avana,ACH-001145,Ovary/Fallopian Tube,matrix_intact,-3.0657078489538305
+CDKN2A_damaging_to_PELO,Avana,ACH-001151,Ovary/Fallopian Tube,matrix_intact,-1.3690616005741507
+CDKN2A_damaging_to_PELO,Avana,ACH-001163,Kidney,matrix_intact,-0.6786501461156096
+CDKN2A_damaging_to_PELO,Avana,ACH-001164,Soft Tissue,matrix_intact,-0.7184063827496585
+CDKN2A_damaging_to_PELO,Avana,ACH-001172,CNS/Brain,matrix_intact,-1.0368048373526522
+CDKN2A_damaging_to_PELO,Avana,ACH-001183,Bladder/Urinary Tract,matrix_intact,-0.5929929834488643
+CDKN2A_damaging_to_PELO,Avana,ACH-001184,Soft Tissue,matrix_intact,-1.6828475919356993
+CDKN2A_damaging_to_PELO,Avana,ACH-001188,Peripheral Nervous System,matrix_intact,-0.3533548998001549
+CDKN2A_damaging_to_PELO,Avana,ACH-001190,Skin,matrix_intact,-0.43049923612520047
+CDKN2A_damaging_to_PELO,Avana,ACH-001192,Bone,matrix_intact,-1.4738484093495834
+CDKN2A_damaging_to_PELO,Avana,ACH-001193,Bone,matrix_intact,-0.8393775176110161
+CDKN2A_damaging_to_PELO,Avana,ACH-001194,Kidney,matrix_intact,-0.8410124257963929
+CDKN2A_damaging_to_PELO,Avana,ACH-001196,Soft Tissue,matrix_intact,-0.8574838794345504
+CDKN2A_damaging_to_PELO,Avana,ACH-001197,Lymphoid,matrix_intact,-1.0052914759265237
+CDKN2A_damaging_to_PELO,Avana,ACH-001205,Bone,matrix_intact,-0.2541953212095743
+CDKN2A_damaging_to_PELO,Avana,ACH-001211,Kidney,matrix_intact,-0.48522649656314787
+CDKN2A_damaging_to_PELO,Avana,ACH-001212,Kidney,matrix_intact,-0.14537248473711945
+CDKN2A_damaging_to_PELO,Avana,ACH-001228,Head and Neck,matrix_intact,-0.27591243075173777
+CDKN2A_damaging_to_PELO,Avana,ACH-001229,Head and Neck,matrix_intact,-1.4220281041693177
+CDKN2A_damaging_to_PELO,Avana,ACH-001232,CNS/Brain,matrix_intact,-0.482648224781003
+CDKN2A_damaging_to_PELO,Avana,ACH-001239,Skin,matrix_intact,-0.9062561377477597
+CDKN2A_damaging_to_PELO,Avana,ACH-001270,Soft Tissue,matrix_intact,-0.15080387525827896
+CDKN2A_damaging_to_PELO,Avana,ACH-001274,Soft Tissue,matrix_intact,-1.0156505941150775
+CDKN2A_damaging_to_PELO,Avana,ACH-001275,Soft Tissue,matrix_intact,-0.5381910302154936
+CDKN2A_damaging_to_PELO,Avana,ACH-001277,Soft Tissue,matrix_intact,-0.835764571427434
+CDKN2A_damaging_to_PELO,Avana,ACH-001278,Ovary/Fallopian Tube,matrix_intact,-1.303594269080312
+CDKN2A_damaging_to_PELO,Avana,ACH-001279,Ovary/Fallopian Tube,matrix_intact,-0.6963527080638374
+CDKN2A_damaging_to_PELO,Avana,ACH-001280,Soft Tissue,matrix_intact,-0.4010396504331415
+CDKN2A_damaging_to_PELO,Avana,ACH-001283,Bone,matrix_intact,-0.5626306353750575
+CDKN2A_damaging_to_PELO,Avana,ACH-001289,CNS/Brain,matrix_intact,-0.900782919080926
+CDKN2A_damaging_to_PELO,Avana,ACH-001295,Eye,matrix_intact,-2.4881154561846817
+CDKN2A_damaging_to_PELO,Avana,ACH-001300,Peripheral Nervous System,matrix_intact,-0.9589640633232923
+CDKN2A_damaging_to_PELO,Avana,ACH-001301,Peripheral Nervous System,matrix_intact,-0.6838320993480682
+CDKN2A_damaging_to_PELO,Avana,ACH-001302,Peripheral Nervous System,matrix_intact,-0.630879936146234
+CDKN2A_damaging_to_PELO,Avana,ACH-001303,Peripheral Nervous System,matrix_intact,-0.4458620940469449
+CDKN2A_damaging_to_PELO,Avana,ACH-001306,Thyroid,matrix_intact,-1.1952964110173792
+CDKN2A_damaging_to_PELO,Avana,ACH-001307,Thyroid,matrix_intact,-0.6051775356907232
+CDKN2A_damaging_to_PELO,Avana,ACH-001310,Kidney,matrix_intact,-0.6450191978943924
+CDKN2A_damaging_to_PELO,Avana,ACH-001318,Liver,damaging,-1.721757665695635
+CDKN2A_damaging_to_PELO,Avana,ACH-001322,Soft Tissue,matrix_intact,-0.9051960110779333
+CDKN2A_damaging_to_PELO,Avana,ACH-001328,Skin,matrix_intact,-1.6895954188625102
+CDKN2A_damaging_to_PELO,Avana,ACH-001329,CNS/Brain,matrix_intact,-1.0494143550167707
+CDKN2A_damaging_to_PELO,Avana,ACH-001333,Cervix,matrix_intact,-2.280467700450089
+CDKN2A_damaging_to_PELO,Avana,ACH-001334,Cervix,matrix_intact,-1.7043822863160698
+CDKN2A_damaging_to_PELO,Avana,ACH-001335,Cervix,matrix_intact,-0.7723605580932448
+CDKN2A_damaging_to_PELO,Avana,ACH-001336,Cervix,matrix_intact,-1.8036851685809734
+CDKN2A_damaging_to_PELO,Avana,ACH-001338,Peripheral Nervous System,matrix_intact,-0.6538346873662362
+CDKN2A_damaging_to_PELO,Avana,ACH-001340,Ovary/Fallopian Tube,matrix_intact,-1.2118509363782697
+CDKN2A_damaging_to_PELO,Avana,ACH-001341,Cervix,matrix_intact,-0.9898029514388367
+CDKN2A_damaging_to_PELO,Avana,ACH-001344,Peripheral Nervous System,matrix_intact,-0.42891585781722513
+CDKN2A_damaging_to_PELO,Avana,ACH-001345,Bowel,matrix_intact,-0.44029768165389604
+CDKN2A_damaging_to_PELO,Avana,ACH-001346,Head and Neck,damaging,-1.9094053616991868
+CDKN2A_damaging_to_PELO,Avana,ACH-001347,Head and Neck,damaging,-3.0287331352520774
+CDKN2A_damaging_to_PELO,Avana,ACH-001353,Pancreas,matrix_intact,-2.594145964772772
+CDKN2A_damaging_to_PELO,Avana,ACH-001354,Peripheral Nervous System,matrix_intact,-1.3118461579341254
+CDKN2A_damaging_to_PELO,Avana,ACH-001356,Thyroid,matrix_intact,-0.6275225779730141
+CDKN2A_damaging_to_PELO,Avana,ACH-001360,Cervix,matrix_intact,-1.0616760061069423
+CDKN2A_damaging_to_PELO,Avana,ACH-001366,Peripheral Nervous System,matrix_intact,-0.6776435042111788
+CDKN2A_damaging_to_PELO,Avana,ACH-001367,Peripheral Nervous System,matrix_intact,-0.8704357140819705
+CDKN2A_damaging_to_PELO,Avana,ACH-001368,Esophagus/Stomach,matrix_intact,-1.1440601490404707
+CDKN2A_damaging_to_PELO,Avana,ACH-001370,Ovary/Fallopian Tube,matrix_intact,-1.2291818963427255
+CDKN2A_damaging_to_PELO,Avana,ACH-001374,Ovary/Fallopian Tube,matrix_intact,-0.16646091469430596
+CDKN2A_damaging_to_PELO,Avana,ACH-001375,Pancreas,matrix_intact,-0.7708714730595871
+CDKN2A_damaging_to_PELO,Avana,ACH-001377,Pancreas,damaging,-2.2139901087966996
+CDKN2A_damaging_to_PELO,Avana,ACH-001379,Pancreas,matrix_intact,-1.2221754885912417
+CDKN2A_damaging_to_PELO,Avana,ACH-001380,Pancreas,matrix_intact,-1.356168564500892
+CDKN2A_damaging_to_PELO,Avana,ACH-001382,Pancreas,damaging,-0.11272119873450061
+CDKN2A_damaging_to_PELO,Avana,ACH-001385,Head and Neck,matrix_intact,-1.1584898115338547
+CDKN2A_damaging_to_PELO,Avana,ACH-001386,Lung,matrix_intact,-0.549250131313701
+CDKN2A_damaging_to_PELO,Avana,ACH-001388,Breast,matrix_intact,-0.9400112807576293
+CDKN2A_damaging_to_PELO,Avana,ACH-001389,Breast,matrix_intact,-0.9643767477035299
+CDKN2A_damaging_to_PELO,Avana,ACH-001390,Breast,matrix_intact,-3.1564207567826537
+CDKN2A_damaging_to_PELO,Avana,ACH-001391,Breast,matrix_intact,-1.8749835168891815
+CDKN2A_damaging_to_PELO,Avana,ACH-001392,Breast,matrix_intact,-0.2640527927543448
+CDKN2A_damaging_to_PELO,Avana,ACH-001393,Breast,matrix_intact,-0.06593150120248296
+CDKN2A_damaging_to_PELO,Avana,ACH-001394,Breast,matrix_intact,-1.6428720079258676
+CDKN2A_damaging_to_PELO,Avana,ACH-001396,Breast,damaging,-0.666743082241279
+CDKN2A_damaging_to_PELO,Avana,ACH-001398,Kidney,matrix_intact,-0.24643524226043786
+CDKN2A_damaging_to_PELO,Avana,ACH-001400,Vulva/Vagina,matrix_intact,-0.33391666733739644
+CDKN2A_damaging_to_PELO,Avana,ACH-001402,Cervix,matrix_intact,-0.927833244616429
+CDKN2A_damaging_to_PELO,Avana,ACH-001403,Ovary/Fallopian Tube,matrix_intact,-1.241744056212449
+CDKN2A_damaging_to_PELO,Avana,ACH-001407,Bladder/Urinary Tract,matrix_intact,-1.4705836946983144
+CDKN2A_damaging_to_PELO,Avana,ACH-001408,Bladder/Urinary Tract,matrix_intact,-0.8492275868983317
+CDKN2A_damaging_to_PELO,Avana,ACH-001409,Bladder/Urinary Tract,matrix_intact,-1.1395195004699499
+CDKN2A_damaging_to_PELO,Avana,ACH-001411,Bladder/Urinary Tract,matrix_intact,-0.5844965625990168
+CDKN2A_damaging_to_PELO,Avana,ACH-001412,Bladder/Urinary Tract,matrix_intact,-2.214673594099455
+CDKN2A_damaging_to_PELO,Avana,ACH-001413,Bladder/Urinary Tract,matrix_intact,-3.75990288496188
+CDKN2A_damaging_to_PELO,Avana,ACH-001414,Bladder/Urinary Tract,matrix_intact,-1.6257362339155668
+CDKN2A_damaging_to_PELO,Avana,ACH-001415,Bladder/Urinary Tract,matrix_intact,-0.402406906609654
+CDKN2A_damaging_to_PELO,Avana,ACH-001416,Bladder/Urinary Tract,damaging,-0.9255920499558878
+CDKN2A_damaging_to_PELO,Avana,ACH-001418,Ovary/Fallopian Tube,matrix_intact,-2.120083767254541
+CDKN2A_damaging_to_PELO,Avana,ACH-001419,Breast,matrix_intact,-0.7277686493387123
+CDKN2A_damaging_to_PELO,Avana,ACH-001421,Eye,matrix_intact,-1.002795729174013
+CDKN2A_damaging_to_PELO,Avana,ACH-001422,Prostate,matrix_intact,-0.2780724265162941
+CDKN2A_damaging_to_PELO,Avana,ACH-001430,Bone,matrix_intact,-0.23064749786903255
+CDKN2A_damaging_to_PELO,Avana,ACH-001431,Bone,matrix_intact,-0.8930921094148299
+CDKN2A_damaging_to_PELO,Avana,ACH-001433,Soft Tissue,matrix_intact,0.4494432612984567
+CDKN2A_damaging_to_PELO,Avana,ACH-001442,Skin,matrix_intact,-0.46788249440231766
+CDKN2A_damaging_to_PELO,Avana,ACH-001443,Thyroid,matrix_intact,-1.535506704389336
+CDKN2A_damaging_to_PELO,Avana,ACH-001450,Lymphoid,matrix_intact,-1.7218530985811564
+CDKN2A_damaging_to_PELO,Avana,ACH-001451,Cervix,matrix_intact,-0.6456821389011425
+CDKN2A_damaging_to_PELO,Avana,ACH-001453,Prostate,matrix_intact,-1.9303338792567621
+CDKN2A_damaging_to_PELO,Avana,ACH-001454,Bowel,matrix_intact,-1.8842839011193888
+CDKN2A_damaging_to_PELO,Avana,ACH-001458,Bowel,matrix_intact,-0.49679332547268495
+CDKN2A_damaging_to_PELO,Avana,ACH-001459,Bowel,matrix_intact,-0.7422697194318113
+CDKN2A_damaging_to_PELO,Avana,ACH-001460,Bowel,matrix_intact,-2.365926744355714
+CDKN2A_damaging_to_PELO,Avana,ACH-001461,Bowel,matrix_intact,-0.1909234213087898
+CDKN2A_damaging_to_PELO,Avana,ACH-001481,Peripheral Nervous System,matrix_intact,-0.7906003190293179
+CDKN2A_damaging_to_PELO,Avana,ACH-001494,Biliary Tract,matrix_intact,-1.723800907000418
+CDKN2A_damaging_to_PELO,Avana,ACH-001495,Uterus,matrix_intact,-0.5104978031756096
+CDKN2A_damaging_to_PELO,Avana,ACH-001496,Esophagus/Stomach,matrix_intact,-2.371452041266914
+CDKN2A_damaging_to_PELO,Avana,ACH-001497,Esophagus/Stomach,damaging,-0.8273344953374298
+CDKN2A_damaging_to_PELO,Avana,ACH-001498,Lymphoid,damaging,-2.1164313777292434
+CDKN2A_damaging_to_PELO,Avana,ACH-001500,Esophagus/Stomach,matrix_intact,-1.3750626178283398
+CDKN2A_damaging_to_PELO,Avana,ACH-001509,Head and Neck,damaging,-0.7260603858910608
+CDKN2A_damaging_to_PELO,Avana,ACH-001510,Head and Neck,matrix_intact,-2.2920211380812656
+CDKN2A_damaging_to_PELO,Avana,ACH-001511,Head and Neck,matrix_intact,-2.1337927421566527
+CDKN2A_damaging_to_PELO,Avana,ACH-001513,Cervix,matrix_intact,-1.167768240541157
+CDKN2A_damaging_to_PELO,Avana,ACH-001515,Cervix,matrix_intact,-1.920755615925907
+CDKN2A_damaging_to_PELO,Avana,ACH-001517,Uterus,matrix_intact,-3.121151889134005
+CDKN2A_damaging_to_PELO,Avana,ACH-001518,Uterus,matrix_intact,-0.7067145313141925
+CDKN2A_damaging_to_PELO,Avana,ACH-001520,Lymphoid,matrix_intact,-1.5854068538573554
+CDKN2A_damaging_to_PELO,Avana,ACH-001521,Skin,damaging,-0.6515240580749788
+CDKN2A_damaging_to_PELO,Avana,ACH-001522,Skin,matrix_intact,-1.451110491301269
+CDKN2A_damaging_to_PELO,Avana,ACH-001523,Skin,damaging,-2.06158705556937
+CDKN2A_damaging_to_PELO,Avana,ACH-001524,Skin,damaging,-1.8891163769478145
+CDKN2A_damaging_to_PELO,Avana,ACH-001525,Cervix,matrix_intact,-0.9182046543221007
+CDKN2A_damaging_to_PELO,Avana,ACH-001526,Bone,matrix_intact,-0.6483442263143941
+CDKN2A_damaging_to_PELO,Avana,ACH-001528,Thyroid,matrix_intact,-2.2100306136241623
+CDKN2A_damaging_to_PELO,Avana,ACH-001529,Uterus,matrix_intact,-2.161633783756291
+CDKN2A_damaging_to_PELO,Avana,ACH-001530,Uterus,matrix_intact,-1.454053347800265
+CDKN2A_damaging_to_PELO,Avana,ACH-001532,Kidney,matrix_intact,-0.6725723314366759
+CDKN2A_damaging_to_PELO,Avana,ACH-001533,Lymphoid,matrix_intact,-1.1060304883958554
+CDKN2A_damaging_to_PELO,Avana,ACH-001536,Biliary Tract,matrix_intact,-0.9309397181645953
+CDKN2A_damaging_to_PELO,Avana,ACH-001538,Biliary Tract,matrix_intact,-1.1490711634358592
+CDKN2A_damaging_to_PELO,Avana,ACH-001539,Lymphoid,matrix_intact,-0.17007613564101431
+CDKN2A_damaging_to_PELO,Avana,ACH-001542,Head and Neck,matrix_intact,-2.4809252243839683
+CDKN2A_damaging_to_PELO,Avana,ACH-001543,Head and Neck,damaging,-3.2603528571661005
+CDKN2A_damaging_to_PELO,Avana,ACH-001547,Pleura,matrix_intact,-2.8106876624663357
+CDKN2A_damaging_to_PELO,Avana,ACH-001548,Peripheral Nervous System,matrix_intact,-0.0038544341055968268
+CDKN2A_damaging_to_PELO,Avana,ACH-001549,Lung,matrix_intact,-2.413795029201135
+CDKN2A_damaging_to_PELO,Avana,ACH-001550,Skin,matrix_intact,-0.5820784091145099
+CDKN2A_damaging_to_PELO,Avana,ACH-001551,Skin,matrix_intact,-2.0246942683792897
+CDKN2A_damaging_to_PELO,Avana,ACH-001552,Skin,matrix_intact,-0.4788811011629419
+CDKN2A_damaging_to_PELO,Avana,ACH-001554,Eye,damaging,-1.8853408630327269
+CDKN2A_damaging_to_PELO,Avana,ACH-001555,Pleura,matrix_intact,-1.606598442962977
+CDKN2A_damaging_to_PELO,Avana,ACH-001556,Pleura,matrix_intact,-3.577990957768235
+CDKN2A_damaging_to_PELO,Avana,ACH-001557,Pleura,matrix_intact,-2.07723341750592
+CDKN2A_damaging_to_PELO,Avana,ACH-001558,Pleura,matrix_intact,-1.3670036539612134
+CDKN2A_damaging_to_PELO,Avana,ACH-001559,Pleura,matrix_intact,-0.9916403923209093
+CDKN2A_damaging_to_PELO,Avana,ACH-001560,Pleura,matrix_intact,-4.042828534987039
+CDKN2A_damaging_to_PELO,Avana,ACH-001562,Pleura,matrix_intact,-0.8841410482485457
+CDKN2A_damaging_to_PELO,Avana,ACH-001563,Skin,damaging,-1.2810482921882582
+CDKN2A_damaging_to_PELO,Avana,ACH-001566,Skin,matrix_intact,-0.24612738801594508
+CDKN2A_damaging_to_PELO,Avana,ACH-001567,Skin,matrix_intact,-5.2492116053571785
+CDKN2A_damaging_to_PELO,Avana,ACH-001568,Skin,matrix_intact,-0.5344718162600239
+CDKN2A_damaging_to_PELO,Avana,ACH-001570,Skin,damaging,-1.2287250166846468
+CDKN2A_damaging_to_PELO,Avana,ACH-001574,Myeloid,matrix_intact,-1.3938432480626377
+CDKN2A_damaging_to_PELO,Avana,ACH-001577,Myeloid,matrix_intact,-0.603090394691459
+CDKN2A_damaging_to_PELO,Avana,ACH-001607,Biliary Tract,damaging,-3.697780544777713
+CDKN2A_damaging_to_PELO,Avana,ACH-001608,CNS/Brain,matrix_intact,-1.379563252162133
+CDKN2A_damaging_to_PELO,Avana,ACH-001609,CNS/Brain,matrix_intact,-1.0416747326323978
+CDKN2A_damaging_to_PELO,Avana,ACH-001610,CNS/Brain,matrix_intact,-1.6611864117644197
+CDKN2A_damaging_to_PELO,Avana,ACH-001611,CNS/Brain,damaging,-0.8919837979373275
+CDKN2A_damaging_to_PELO,Avana,ACH-001616,Lymphoid,damaging,-1.9560142087023218
+CDKN2A_damaging_to_PELO,Avana,ACH-001618,Myeloid,matrix_intact,-2.343990623663107
+CDKN2A_damaging_to_PELO,Avana,ACH-001619,Biliary Tract,matrix_intact,-0.9243341114510306
+CDKN2A_damaging_to_PELO,Avana,ACH-001622,CNS/Brain,matrix_intact,-1.8416858331179107
+CDKN2A_damaging_to_PELO,Avana,ACH-001623,CNS/Brain,matrix_intact,-1.4324016402115025
+CDKN2A_damaging_to_PELO,Avana,ACH-001624,CNS/Brain,matrix_intact,-0.5263785117129616
+CDKN2A_damaging_to_PELO,Avana,ACH-001627,Prostate,matrix_intact,-2.0977036571030805
+CDKN2A_damaging_to_PELO,Avana,ACH-001628,Ovary/Fallopian Tube,damaging,-1.1437887788709187
+CDKN2A_damaging_to_PELO,Avana,ACH-001630,Ovary/Fallopian Tube,matrix_intact,-2.3917170893941666
+CDKN2A_damaging_to_PELO,Avana,ACH-001634,Lymphoid,matrix_intact,-1.8216994831013587
+CDKN2A_damaging_to_PELO,Avana,ACH-001641,Head and Neck,matrix_intact,-2.2743377189749383
+CDKN2A_damaging_to_PELO,Avana,ACH-001645,Skin,matrix_intact,-0.44855627775609935
+CDKN2A_damaging_to_PELO,Avana,ACH-001647,Myeloid,matrix_intact,-0.8134561937076357
+CDKN2A_damaging_to_PELO,Avana,ACH-001648,Prostate,matrix_intact,-1.5305172457991465
+CDKN2A_damaging_to_PELO,Avana,ACH-001649,Prostate,matrix_intact,-1.2355139112686166
+CDKN2A_damaging_to_PELO,Avana,ACH-001650,Cervix,matrix_intact,-2.254593575820099
+CDKN2A_damaging_to_PELO,Avana,ACH-001651,Cervix,matrix_intact,-0.47321814525533107
+CDKN2A_damaging_to_PELO,Avana,ACH-001652,Cervix,matrix_intact,-1.486279239526033
+CDKN2A_damaging_to_PELO,Avana,ACH-001653,Esophagus/Stomach,matrix_intact,-1.8919133686232814
+CDKN2A_damaging_to_PELO,Avana,ACH-001654,Esophagus/Stomach,matrix_intact,-3.436014347339225
+CDKN2A_damaging_to_PELO,Avana,ACH-001655,Uterus,matrix_intact,-0.4516739870424584
+CDKN2A_damaging_to_PELO,Avana,ACH-001656,Myeloid,matrix_intact,-0.6265448154238977
+CDKN2A_damaging_to_PELO,Avana,ACH-001664,Esophagus/Stomach,matrix_intact,-3.93987240352846
+CDKN2A_damaging_to_PELO,Avana,ACH-001668,Testis,matrix_intact,-1.9684749107445767
+CDKN2A_damaging_to_PELO,Avana,ACH-001669,Lymphoid,matrix_intact,-1.5323769030957242
+CDKN2A_damaging_to_PELO,Avana,ACH-001670,CNS/Brain,matrix_intact,-1.636916049190383
+CDKN2A_damaging_to_PELO,Avana,ACH-001673,Biliary Tract,matrix_intact,-2.740353125166399
+CDKN2A_damaging_to_PELO,Avana,ACH-001674,Peripheral Nervous System,matrix_intact,-1.0305532033458245
+CDKN2A_damaging_to_PELO,Avana,ACH-001675,Head and Neck,damaging,-1.297487877376065
+CDKN2A_damaging_to_PELO,Avana,ACH-001677,Lymphoid,matrix_intact,-0.7227418235668197
+CDKN2A_damaging_to_PELO,Avana,ACH-001685,Lymphoid,matrix_intact,-2.2811210757275067
+CDKN2A_damaging_to_PELO,Avana,ACH-001687,Kidney,matrix_intact,-2.1292171038766114
+CDKN2A_damaging_to_PELO,Avana,ACH-001688,Kidney,matrix_intact,-0.5584482729771567
+CDKN2A_damaging_to_PELO,Avana,ACH-001690,Head and Neck,damaging,-4.753163198773416
+CDKN2A_damaging_to_PELO,Avana,ACH-001691,Head and Neck,matrix_intact,-0.9914796972582125
+CDKN2A_damaging_to_PELO,Avana,ACH-001692,Head and Neck,damaging,-3.7444672421623184
+CDKN2A_damaging_to_PELO,Avana,ACH-001694,Head and Neck,matrix_intact,-2.033703120992417
+CDKN2A_damaging_to_PELO,Avana,ACH-001696,Head and Neck,damaging,-1.051537317964308
+CDKN2A_damaging_to_PELO,Avana,ACH-001698,Head and Neck,matrix_intact,-1.1343426202538303
+CDKN2A_damaging_to_PELO,Avana,ACH-001699,Head and Neck,matrix_intact,-2.73142997380238
+CDKN2A_damaging_to_PELO,Avana,ACH-001701,Head and Neck,matrix_intact,-2.761940358346619
+CDKN2A_damaging_to_PELO,Avana,ACH-001702,Soft Tissue,matrix_intact,-1.730441861349687
+CDKN2A_damaging_to_PELO,Avana,ACH-001707,Lymphoid,matrix_intact,-1.1091036624409365
+CDKN2A_damaging_to_PELO,Avana,ACH-001709,Lymphoid,matrix_intact,-2.050245706568831
+CDKN2A_damaging_to_PELO,Avana,ACH-001711,CNS/Brain,matrix_intact,-1.3260458865017024
+CDKN2A_damaging_to_PELO,Avana,ACH-001715,Bone,matrix_intact,-0.5932296545593019
+CDKN2A_damaging_to_PELO,Avana,ACH-001719,Ovary/Fallopian Tube,matrix_intact,-0.9678790176358029
+CDKN2A_damaging_to_PELO,Avana,ACH-001735,Lymphoid,damaging,-1.8131254329328668
+CDKN2A_damaging_to_PELO,Avana,ACH-001736,Lymphoid,damaging,-1.3987347362925688
+CDKN2A_damaging_to_PELO,Avana,ACH-001737,Lymphoid,matrix_intact,-0.4576164752037539
+CDKN2A_damaging_to_PELO,Avana,ACH-001740,Soft Tissue,damaging,-0.832321621971196
+CDKN2A_damaging_to_PELO,Avana,ACH-001745,Soft Tissue,matrix_intact,-0.9847871552688916
+CDKN2A_damaging_to_PELO,Avana,ACH-001750,Soft Tissue,matrix_intact,-0.8735000319077955
+CDKN2A_damaging_to_PELO,Avana,ACH-001765,Soft Tissue,matrix_intact,-1.5635161578272028
+CDKN2A_damaging_to_PELO,Avana,ACH-001786,Bowel,matrix_intact,-2.2455764606387607
+CDKN2A_damaging_to_PELO,Avana,ACH-001791,Soft Tissue,matrix_intact,-0.0033116512105243884
+CDKN2A_damaging_to_PELO,Avana,ACH-001793,Soft Tissue,matrix_intact,-1.1553880719008065
+CDKN2A_damaging_to_PELO,Avana,ACH-001794,Soft Tissue,matrix_intact,-1.1387931239294202
+CDKN2A_damaging_to_PELO,Avana,ACH-001795,Soft Tissue,matrix_intact,-3.85294849811926
+CDKN2A_damaging_to_PELO,Avana,ACH-001796,Soft Tissue,matrix_intact,-1.3266381518895094
+CDKN2A_damaging_to_PELO,Avana,ACH-001799,Soft Tissue,matrix_intact,-0.5299288503672211
+CDKN2A_damaging_to_PELO,Avana,ACH-001802,Soft Tissue,matrix_intact,-1.1448995885366502
+CDKN2A_damaging_to_PELO,Avana,ACH-001804,Soft Tissue,matrix_intact,-0.2948423708819776
+CDKN2A_damaging_to_PELO,Avana,ACH-001814,Bone,matrix_intact,-0.3294288765129135
+CDKN2A_damaging_to_PELO,Avana,ACH-001819,Breast,matrix_intact,-0.6127941094281284
+CDKN2A_damaging_to_PELO,Avana,ACH-001820,Breast,matrix_intact,-0.43772463481365786
+CDKN2A_damaging_to_PELO,Avana,ACH-001834,Biliary Tract,matrix_intact,-2.4367985983206975
+CDKN2A_damaging_to_PELO,Avana,ACH-001835,Biliary Tract,matrix_intact,-2.0063719903897255
+CDKN2A_damaging_to_PELO,Avana,ACH-001836,Biliary Tract,matrix_intact,-3.1866827016979564
+CDKN2A_damaging_to_PELO,Avana,ACH-001838,Biliary Tract,matrix_intact,-0.385853825839782
+CDKN2A_damaging_to_PELO,Avana,ACH-001839,Biliary Tract,matrix_intact,-0.26102894373065183
+CDKN2A_damaging_to_PELO,Avana,ACH-001841,Biliary Tract,damaging,-1.333156530601988
+CDKN2A_damaging_to_PELO,Avana,ACH-001842,Biliary Tract,matrix_intact,-0.49174148871257417
+CDKN2A_damaging_to_PELO,Avana,ACH-001843,Biliary Tract,matrix_intact,-3.755507861381145
+CDKN2A_damaging_to_PELO,Avana,ACH-001844,Biliary Tract,matrix_intact,-1.13918283177538
+CDKN2A_damaging_to_PELO,Avana,ACH-001848,Biliary Tract,matrix_intact,-0.7620905221859339
+CDKN2A_damaging_to_PELO,Avana,ACH-001849,Biliary Tract,matrix_intact,-0.7924002124437184
+CDKN2A_damaging_to_PELO,Avana,ACH-001850,Biliary Tract,matrix_intact,-2.3848848948029664
+CDKN2A_damaging_to_PELO,Avana,ACH-001852,Biliary Tract,matrix_intact,-1.758437768257616
+CDKN2A_damaging_to_PELO,Avana,ACH-001853,Liver,matrix_intact,-0.4031032678868205
+CDKN2A_damaging_to_PELO,Avana,ACH-001856,Biliary Tract,matrix_intact,-1.3641625573762708
+CDKN2A_damaging_to_PELO,Avana,ACH-001857,Biliary Tract,matrix_intact,-0.3435977484639947
+CDKN2A_damaging_to_PELO,Avana,ACH-001858,Biliary Tract,matrix_intact,-3.099824785858832
+CDKN2A_damaging_to_PELO,Avana,ACH-001861,Biliary Tract,matrix_intact,-1.6721563740195418
+CDKN2A_damaging_to_PELO,Avana,ACH-001862,Ampulla of Vater,damaging,-1.15423197844326
+CDKN2A_damaging_to_PELO,Avana,ACH-001863,Biliary Tract,matrix_intact,-0.5680962515803332
+CDKN2A_damaging_to_PELO,Avana,ACH-001864,Biliary Tract,matrix_intact,-1.7412141183507823
+CDKN2A_damaging_to_PELO,Avana,ACH-001959,Biliary Tract,matrix_intact,-1.0314587476929162
+CDKN2A_damaging_to_PELO,Avana,ACH-001960,Biliary Tract,matrix_intact,-2.6769653756415686
+CDKN2A_damaging_to_PELO,Avana,ACH-001961,Biliary Tract,matrix_intact,-2.1172675695737437
+CDKN2A_damaging_to_PELO,Avana,ACH-001970,Skin,matrix_intact,-0.5133741134359338
+CDKN2A_damaging_to_PELO,Avana,ACH-001973,Skin,damaging,-0.7836335192557087
+CDKN2A_damaging_to_PELO,Avana,ACH-001977,Pleura,matrix_intact,-1.3591034388723542
+CDKN2A_damaging_to_PELO,Avana,ACH-001982,Skin,matrix_intact,-0.6529195618388144
+CDKN2A_damaging_to_PELO,Avana,ACH-001986,Skin,damaging,-0.008567453560782007
+CDKN2A_damaging_to_PELO,Avana,ACH-001990,Skin,matrix_intact,-0.9369016869684419
+CDKN2A_damaging_to_PELO,Avana,ACH-001991,Ovary/Fallopian Tube,matrix_intact,-1.3901208972967796
+CDKN2A_damaging_to_PELO,Avana,ACH-001992,Pleura,matrix_intact,-2.2794577876789166
+CDKN2A_damaging_to_PELO,Avana,ACH-001993,Lymphoid,matrix_intact,-0.7355479019430509
+CDKN2A_damaging_to_PELO,Avana,ACH-001997,Biliary Tract,matrix_intact,-1.2042332967131206
+CDKN2A_damaging_to_PELO,Avana,ACH-001999,Pancreas,damaging,-2.717695569576276
+CDKN2A_damaging_to_PELO,Avana,ACH-002001,Skin,damaging,-1.9203685609536976
+CDKN2A_damaging_to_PELO,Avana,ACH-002002,Skin,damaging,-3.531518146595353
+CDKN2A_damaging_to_PELO,Avana,ACH-002003,Skin,damaging,-1.965519138560372
+CDKN2A_damaging_to_PELO,Avana,ACH-002005,Skin,damaging,-1.276908398039923
+CDKN2A_damaging_to_PELO,Avana,ACH-002014,Eye,matrix_intact,-0.38559132443275285
+CDKN2A_damaging_to_PELO,Avana,ACH-002015,Eye,matrix_intact,-1.1892312543604788
+CDKN2A_damaging_to_PELO,Avana,ACH-002016,Eye,matrix_intact,-0.14863662606088068
+CDKN2A_damaging_to_PELO,Avana,ACH-002018,Eye,matrix_intact,-0.6764264976724839
+CDKN2A_damaging_to_PELO,Avana,ACH-002019,Cervix,matrix_intact,-1.2261050893339211
+CDKN2A_damaging_to_PELO,Avana,ACH-002020,Cervix,matrix_intact,-1.9943855725662618
+CDKN2A_damaging_to_PELO,Avana,ACH-002021,Uterus,matrix_intact,-1.492586712469446
+CDKN2A_damaging_to_PELO,Avana,ACH-002023,Ampulla of Vater,damaging,-2.000394094848377
+CDKN2A_damaging_to_PELO,Avana,ACH-002024,Bowel,matrix_intact,-0.398848325357283
+CDKN2A_damaging_to_PELO,Avana,ACH-002025,Bowel,matrix_intact,-1.9390092899718063
+CDKN2A_damaging_to_PELO,Avana,ACH-002026,Uterus,matrix_intact,-1.6894780759766617
+CDKN2A_damaging_to_PELO,Avana,ACH-002027,Uterus,matrix_intact,-1.5905288172202137
+CDKN2A_damaging_to_PELO,Avana,ACH-002029,Head and Neck,matrix_intact,-2.167747127224927
+CDKN2A_damaging_to_PELO,Avana,ACH-002030,Head and Neck,damaging,-2.3484280132314765
+CDKN2A_damaging_to_PELO,Avana,ACH-002035,Lung,damaging,-0.6699369313757435
+CDKN2A_damaging_to_PELO,Avana,ACH-002039,Pancreas,matrix_intact,-1.2428949236280222
+CDKN2A_damaging_to_PELO,Avana,ACH-002040,Vulva/Vagina,matrix_intact,-0.43713439787460345
+CDKN2A_damaging_to_PELO,Avana,ACH-002041,Thyroid,matrix_intact,-2.0430933476637536
+CDKN2A_damaging_to_PELO,Avana,ACH-002042,Head and Neck,matrix_intact,-0.49010899692489396
+CDKN2A_damaging_to_PELO,Avana,ACH-002043,Head and Neck,matrix_intact,-1.5255583772095132
+CDKN2A_damaging_to_PELO,Avana,ACH-002044,Head and Neck,matrix_intact,-2.077861952289278
+CDKN2A_damaging_to_PELO,Avana,ACH-002045,Head and Neck,matrix_intact,-0.727816221061329
+CDKN2A_damaging_to_PELO,Avana,ACH-002046,Uterus,matrix_intact,-1.2139645701458455
+CDKN2A_damaging_to_PELO,Avana,ACH-002048,Soft Tissue,matrix_intact,-1.1369665046373045
+CDKN2A_damaging_to_PELO,Avana,ACH-002051,Lung,matrix_intact,-0.47636258022482014
+CDKN2A_damaging_to_PELO,Avana,ACH-002059,Lymphoid,matrix_intact,-1.369238837409872
+CDKN2A_damaging_to_PELO,Avana,ACH-002061,Myeloid,matrix_intact,-5.977040520846331
+CDKN2A_damaging_to_PELO,Avana,ACH-002062,Lymphoid,matrix_intact,-2.108321846558354
+CDKN2A_damaging_to_PELO,Avana,ACH-002066,Peripheral Nervous System,matrix_intact,-0.9841551080654148
+CDKN2A_damaging_to_PELO,Avana,ACH-002067,Bone,matrix_intact,-0.8525406507067044
+CDKN2A_damaging_to_PELO,Avana,ACH-002069,Bone,matrix_intact,-0.9972482258324034
+CDKN2A_damaging_to_PELO,Avana,ACH-002070,CNS/Brain,matrix_intact,-1.6266545905710474
+CDKN2A_damaging_to_PELO,Avana,ACH-002077,Lung,matrix_intact,-0.07326452597040393
+CDKN2A_damaging_to_PELO,Avana,ACH-002080,Peripheral Nervous System,matrix_intact,-0.8502573463428766
+CDKN2A_damaging_to_PELO,Avana,ACH-002084,Skin,matrix_intact,-2.1071868474100652
+CDKN2A_damaging_to_PELO,Avana,ACH-002214,Lymphoid,matrix_intact,-0.4330844368346085
+CDKN2A_damaging_to_PELO,Avana,ACH-002215,Lymphoid,matrix_intact,-0.42306080935458956
+CDKN2A_damaging_to_PELO,Avana,ACH-002291,Testis,matrix_intact,-1.7257587398207437
+CDKN2A_damaging_to_PELO,Avana,ACH-002399,Breast,matrix_intact,-2.6950867341316402
+CDKN2A_damaging_to_PELO,Avana,ACH-002446,Esophagus/Stomach,matrix_intact,-2.323315933529585
+CDKN2A_damaging_to_PELO,Avana,ACH-002458,Skin,matrix_intact,-0.8932484012346537
+CDKN2A_damaging_to_PELO,Avana,ACH-002459,Skin,matrix_intact,-1.762681350062659
+CDKN2A_damaging_to_PELO,Avana,ACH-002460,Skin,matrix_intact,-1.3022314590744122
+CDKN2A_damaging_to_PELO,Avana,ACH-002461,Skin,matrix_intact,-1.3822327195048105
+CDKN2A_damaging_to_PELO,Avana,ACH-002462,Eye,damaging,-0.7260905834126888
+CDKN2A_damaging_to_PELO,Avana,ACH-002463,Eye,damaging,-0.5287593723140905
+CDKN2A_damaging_to_PELO,Avana,ACH-002464,Eye,damaging,0.2808040331096459
+CDKN2A_damaging_to_PELO,Avana,ACH-002465,Eye,damaging,-0.5492309102656274
+CDKN2A_damaging_to_PELO,Avana,ACH-002467,Eye,damaging,-1.474386410859557
+CDKN2A_damaging_to_PELO,Avana,ACH-002471,Bone,matrix_intact,-0.5758037832591781
+CDKN2A_damaging_to_PELO,Avana,ACH-002478,Lymphoid,matrix_intact,-0.9566329132680593
+CDKN2A_damaging_to_PELO,Avana,ACH-002485,Lymphoid,matrix_intact,-1.551984115248418
+CDKN2A_damaging_to_PELO,Avana,ACH-002486,Ovary/Fallopian Tube,matrix_intact,-1.9398708124287025
+CDKN2A_damaging_to_PELO,Avana,ACH-002508,Skin,damaging,-1.1186379930587727
+CDKN2A_damaging_to_PELO,Avana,ACH-002510,Skin,matrix_intact,-0.863777726459916
+CDKN2A_damaging_to_PELO,Avana,ACH-002511,Skin,matrix_intact,-1.43154388165752
+CDKN2A_damaging_to_PELO,Avana,ACH-002512,Skin,matrix_intact,-0.20154743481254878
+CDKN2A_damaging_to_PELO,Avana,ACH-002522,Lung,matrix_intact,-0.6406421071404624
+CDKN2A_damaging_to_PELO,Avana,ACH-002523,Liver,matrix_intact,-1.8145253933787608
+CDKN2A_damaging_to_PELO,Avana,ACH-002524,Ovary/Fallopian Tube,matrix_intact,-1.2298328613239553
+CDKN2A_damaging_to_PELO,Avana,ACH-002526,Lung,matrix_intact,-0.5734118811221101
+CDKN2A_damaging_to_PELO,Avana,ACH-002531,Lung,matrix_intact,-0.8502424988633823
+CDKN2A_damaging_to_PELO,Avana,ACH-002533,Kidney,matrix_intact,-1.4782168561053473
+CDKN2A_damaging_to_PELO,Avana,ACH-002535,Bowel,matrix_intact,-1.319219494069801
+CDKN2A_damaging_to_PELO,Avana,ACH-002647,Biliary Tract,matrix_intact,-0.4410079078401026
+CDKN2A_damaging_to_PELO,Avana,ACH-002650,Lung,matrix_intact,-1.0521078939141315
+CDKN2A_damaging_to_PELO,Avana,ACH-002654,Bowel,matrix_intact,-1.041284894246393
+CDKN2A_damaging_to_PELO,Avana,ACH-002659,Bowel,matrix_intact,-1.8617550191190153
+CDKN2A_damaging_to_PELO,Avana,ACH-002664,Bowel,matrix_intact,-1.29045558908656
+CDKN2A_damaging_to_PELO,Avana,ACH-002669,Bowel,matrix_intact,-2.5124924305345813
+CDKN2A_damaging_to_PELO,Avana,ACH-002672,Pancreas,damaging,-1.4638925601030546
+CDKN2A_damaging_to_PELO,Avana,ACH-002680,CNS/Brain,matrix_intact,-0.781384605395568
+CDKN2A_damaging_to_PELO,Avana,ACH-002687,Eye,matrix_intact,-1.0405095468720766
+CDKN2A_damaging_to_PELO,Avana,ACH-002693,Peripheral Nervous System,matrix_intact,-1.630526672466581
+CDKN2A_damaging_to_PELO,Avana,ACH-002710,Peripheral Nervous System,matrix_intact,-1.6699799120341525
+CDKN2A_damaging_to_PELO,Avana,ACH-002785,Soft Tissue,matrix_intact,-0.8415431993964495
+CDKN2A_damaging_to_PELO,Avana,ACH-002799,Peripheral Nervous System,matrix_intact,-2.1977778412283824
+CDKN2A_damaging_to_PELO,Avana,ACH-002800,Peripheral Nervous System,matrix_intact,-0.85481883163152
+CDKN2A_damaging_to_PELO,Avana,ACH-002834,Bone,matrix_intact,-1.1333158021797898
+CDKN2A_damaging_to_PELO,Avana,ACH-002847,Skin,matrix_intact,-4.882537780774388
+CDKN2A_damaging_to_PELO,Avana,ACH-002922,Peripheral Nervous System,matrix_intact,-1.5181272950009013
+CDKN2A_damaging_to_PELO,Avana,ACH-002925,Eye,matrix_intact,-0.14857385514357402
+CDKN2A_damaging_to_PELO,Avana,ACH-002926,Eye,matrix_intact,-0.7379660016782287
+CDKN2A_damaging_to_PELO,KY,ACH-000001,Ovary/Fallopian Tube,matrix_intact,-0.0024859602018521276
+CDKN2A_damaging_to_PELO,KY,ACH-000007,Bowel,matrix_intact,-1.0525805338231602
+CDKN2A_damaging_to_PELO,KY,ACH-000009,Bowel,matrix_intact,-0.3264494112055368
+CDKN2A_damaging_to_PELO,KY,ACH-000019,Breast,matrix_intact,-0.8297539810056863
+CDKN2A_damaging_to_PELO,KY,ACH-000023,Pancreas,matrix_intact,-0.3777225992357753
+CDKN2A_damaging_to_PELO,KY,ACH-000024,Lymphoid,damaging,-1.13004175995009
+CDKN2A_damaging_to_PELO,KY,ACH-000030,Lung,damaging,-1.2252424841849858
+CDKN2A_damaging_to_PELO,KY,ACH-000035,Lung,matrix_intact,-0.9209448070357165
+CDKN2A_damaging_to_PELO,KY,ACH-000042,Pancreas,damaging,-0.8751576876612746
+CDKN2A_damaging_to_PELO,KY,ACH-000048,Ovary/Fallopian Tube,matrix_intact,-0.7826803920981966
+CDKN2A_damaging_to_PELO,KY,ACH-000060,Pancreas,matrix_intact,0.02368216565717827
+CDKN2A_damaging_to_PELO,KY,ACH-000067,CNS/Brain,matrix_intact,-0.5530484950818754
+CDKN2A_damaging_to_PELO,KY,ACH-000075,CNS/Brain,matrix_intact,-1.699816883811489
+CDKN2A_damaging_to_PELO,KY,ACH-000094,Pancreas,matrix_intact,-0.5257015007743844
+CDKN2A_damaging_to_PELO,KY,ACH-000098,CNS/Brain,matrix_intact,-0.39571531792032294
+CDKN2A_damaging_to_PELO,KY,ACH-000103,Ovary/Fallopian Tube,matrix_intact,-0.5804521207193293
+CDKN2A_damaging_to_PELO,KY,ACH-000108,Pancreas,matrix_intact,-1.172745445971315
+CDKN2A_damaging_to_PELO,KY,ACH-000111,Breast,matrix_intact,-1.76698016816429
+CDKN2A_damaging_to_PELO,KY,ACH-000113,Myeloid,matrix_intact,-0.6263502924455102
+CDKN2A_damaging_to_PELO,KY,ACH-000114,Pancreas,matrix_intact,-3.62154561491476
+CDKN2A_damaging_to_PELO,KY,ACH-000118,Pancreas,matrix_intact,-1.0017181312460466
+CDKN2A_damaging_to_PELO,KY,ACH-000120,Peripheral Nervous System,matrix_intact,0.0030080597259633524
+CDKN2A_damaging_to_PELO,KY,ACH-000124,Lymphoid,matrix_intact,-1.1552674123365014
+CDKN2A_damaging_to_PELO,KY,ACH-000132,Ovary/Fallopian Tube,matrix_intact,-3.815215954129531
+CDKN2A_damaging_to_PELO,KY,ACH-000137,CNS/Brain,matrix_intact,-0.7701907743409677
+CDKN2A_damaging_to_PELO,KY,ACH-000139,Pancreas,matrix_intact,-0.3280720699355269
+CDKN2A_damaging_to_PELO,KY,ACH-000144,Esophagus/Stomach,matrix_intact,-0.060082192833547696
+CDKN2A_damaging_to_PELO,KY,ACH-000147,Breast,matrix_intact,-0.32260308425011897
+CDKN2A_damaging_to_PELO,KY,ACH-000148,Breast,matrix_intact,-0.07574854150762533
+CDKN2A_damaging_to_PELO,KY,ACH-000149,Peripheral Nervous System,matrix_intact,0.5757533376891982
+CDKN2A_damaging_to_PELO,KY,ACH-000155,Pancreas,matrix_intact,-0.6237037608134336
+CDKN2A_damaging_to_PELO,KY,ACH-000176,Lung,matrix_intact,-0.8798389949890372
+CDKN2A_damaging_to_PELO,KY,ACH-000181,Head and Neck,matrix_intact,-2.0643800819313016
+CDKN2A_damaging_to_PELO,KY,ACH-000183,Lymphoid,matrix_intact,-0.1644318110396028
+CDKN2A_damaging_to_PELO,KY,ACH-000192,Uterus,matrix_intact,0.21725464788617246
+CDKN2A_damaging_to_PELO,KY,ACH-000200,CNS/Brain,matrix_intact,-0.02435409489360269
+CDKN2A_damaging_to_PELO,KY,ACH-000204,Lymphoid,matrix_intact,-0.42150662950390466
+CDKN2A_damaging_to_PELO,KY,ACH-000207,Head and Neck,matrix_intact,-0.9748586780136336
+CDKN2A_damaging_to_PELO,KY,ACH-000213,Pancreas,matrix_intact,-0.11580696373242995
+CDKN2A_damaging_to_PELO,KY,ACH-000219,Skin,damaging,-1.725445773728447
+CDKN2A_damaging_to_PELO,KY,ACH-000222,Pancreas,damaging,-0.7738878482665994
+CDKN2A_damaging_to_PELO,KY,ACH-000223,Breast,matrix_intact,-0.35530312543944237
+CDKN2A_damaging_to_PELO,KY,ACH-000227,Peripheral Nervous System,matrix_intact,-0.37707852956239946
+CDKN2A_damaging_to_PELO,KY,ACH-000232,CNS/Brain,matrix_intact,-0.50636425843082
+CDKN2A_damaging_to_PELO,KY,ACH-000235,Pancreas,damaging,-0.8151846566851225
+CDKN2A_damaging_to_PELO,KY,ACH-000238,Head and Neck,damaging,-1.1674909876186603
+CDKN2A_damaging_to_PELO,KY,ACH-000243,Pancreas,matrix_intact,-1.343843906931492
+CDKN2A_damaging_to_PELO,KY,ACH-000244,CNS/Brain,matrix_intact,-1.7301488718761524
+CDKN2A_damaging_to_PELO,KY,ACH-000248,Breast,matrix_intact,0.3185863135842144
+CDKN2A_damaging_to_PELO,KY,ACH-000249,Bowel,matrix_intact,-0.6813518184002955
+CDKN2A_damaging_to_PELO,KY,ACH-000252,Bowel,matrix_intact,-1.3698456224189937
+CDKN2A_damaging_to_PELO,KY,ACH-000260,Peripheral Nervous System,matrix_intact,-0.6966430530391349
+CDKN2A_damaging_to_PELO,KY,ACH-000265,Pancreas,matrix_intact,-0.758054337421
+CDKN2A_damaging_to_PELO,KY,ACH-000269,CNS/Brain,matrix_intact,-1.394720449842373
+CDKN2A_damaging_to_PELO,KY,ACH-000271,Lymphoid,matrix_intact,-1.1117625481780125
+CDKN2A_damaging_to_PELO,KY,ACH-000273,CNS/Brain,matrix_intact,-1.5142251664757453
+CDKN2A_damaging_to_PELO,KY,ACH-000276,Breast,matrix_intact,-0.8687128417751366
+CDKN2A_damaging_to_PELO,KY,ACH-000291,Ovary/Fallopian Tube,matrix_intact,-0.3205850898135041
+CDKN2A_damaging_to_PELO,KY,ACH-000293,Uterus,matrix_intact,-0.15045601492894703
+CDKN2A_damaging_to_PELO,KY,ACH-000305,Esophagus/Stomach,matrix_intact,-0.4699034775893865
+CDKN2A_damaging_to_PELO,KY,ACH-000308,Ovary/Fallopian Tube,matrix_intact,0.03165701946341746
+CDKN2A_damaging_to_PELO,KY,ACH-000318,Esophagus/Stomach,matrix_intact,-0.8649203078698666
+CDKN2A_damaging_to_PELO,KY,ACH-000320,Pancreas,matrix_intact,-2.4842547210858767
+CDKN2A_damaging_to_PELO,KY,ACH-000323,CNS/Brain,matrix_intact,-0.754413360805543
+CDKN2A_damaging_to_PELO,KY,ACH-000336,Myeloid,matrix_intact,-1.3080907120340381
+CDKN2A_damaging_to_PELO,KY,ACH-000337,Lung,matrix_intact,-0.49184936635028204
+CDKN2A_damaging_to_PELO,KY,ACH-000341,Peripheral Nervous System,matrix_intact,-0.7530191339295481
+CDKN2A_damaging_to_PELO,KY,ACH-000350,Bowel,matrix_intact,-0.029441684661129865
+CDKN2A_damaging_to_PELO,KY,ACH-000354,Pancreas,matrix_intact,-4.246469634414076
+CDKN2A_damaging_to_PELO,KY,ACH-000366,Peripheral Nervous System,matrix_intact,-0.269706712875104
+CDKN2A_damaging_to_PELO,KY,ACH-000367,Pleura,matrix_intact,-0.0481940935905105
+CDKN2A_damaging_to_PELO,KY,ACH-000374,Breast,matrix_intact,-1.3347712773303453
+CDKN2A_damaging_to_PELO,KY,ACH-000376,CNS/Brain,matrix_intact,-0.9100995427264369
+CDKN2A_damaging_to_PELO,KY,ACH-000381,Bowel,matrix_intact,-0.41465968614223137
+CDKN2A_damaging_to_PELO,KY,ACH-000383,Esophagus/Stomach,damaging,-1.3338831766035517
+CDKN2A_damaging_to_PELO,KY,ACH-000391,Bone,damaging,-1.4634874391089072
+CDKN2A_damaging_to_PELO,KY,ACH-000395,Lung,damaging,-0.801064644170942
+CDKN2A_damaging_to_PELO,KY,ACH-000408,Esophagus/Stomach,matrix_intact,-0.46012863730162984
+CDKN2A_damaging_to_PELO,KY,ACH-000411,Kidney,matrix_intact,-0.8731964270094662
+CDKN2A_damaging_to_PELO,KY,ACH-000414,Lung,matrix_intact,-1.0210052167688326
+CDKN2A_damaging_to_PELO,KY,ACH-000417,Pancreas,matrix_intact,-0.690037411224029
+CDKN2A_damaging_to_PELO,KY,ACH-000421,Bowel,matrix_intact,0.1381488145476393
+CDKN2A_damaging_to_PELO,KY,ACH-000424,Bone,matrix_intact,-1.3259333439075562
+CDKN2A_damaging_to_PELO,KY,ACH-000427,Esophagus/Stomach,matrix_intact,-0.3259788077027251
+CDKN2A_damaging_to_PELO,KY,ACH-000430,Ovary/Fallopian Tube,matrix_intact,-0.7153050960151218
+CDKN2A_damaging_to_PELO,KY,ACH-000434,Lung,matrix_intact,-0.1886702289530842
+CDKN2A_damaging_to_PELO,KY,ACH-000437,CNS/Brain,matrix_intact,-0.12823015744530317
+CDKN2A_damaging_to_PELO,KY,ACH-000438,Lung,matrix_intact,0.23290699452793784
+CDKN2A_damaging_to_PELO,KY,ACH-000442,Lung,matrix_intact,-2.4981285888642297
+CDKN2A_damaging_to_PELO,KY,ACH-000452,Esophagus/Stomach,matrix_intact,-0.036814018512486495
+CDKN2A_damaging_to_PELO,KY,ACH-000464,CNS/Brain,matrix_intact,-0.2934684768643326
+CDKN2A_damaging_to_PELO,KY,ACH-000469,CNS/Brain,matrix_intact,-0.41342629019955957
+CDKN2A_damaging_to_PELO,KY,ACH-000481,Lung,matrix_intact,-0.5606291799064812
+CDKN2A_damaging_to_PELO,KY,ACH-000501,Bowel,matrix_intact,-0.48802090437912155
+CDKN2A_damaging_to_PELO,KY,ACH-000504,CNS/Brain,matrix_intact,-0.18512942636553653
+CDKN2A_damaging_to_PELO,KY,ACH-000505,Soft Tissue,matrix_intact,0.056795469455754866
+CDKN2A_damaging_to_PELO,KY,ACH-000510,Lung,matrix_intact,-0.5725378311048079
+CDKN2A_damaging_to_PELO,KY,ACH-000518,Head and Neck,damaging,-1.5798364628801214
+CDKN2A_damaging_to_PELO,KY,ACH-000524,Ovary/Fallopian Tube,matrix_intact,-0.8487749845266954
+CDKN2A_damaging_to_PELO,KY,ACH-000527,Ovary/Fallopian Tube,matrix_intact,-0.1965426345987494
+CDKN2A_damaging_to_PELO,KY,ACH-000532,Bowel,matrix_intact,-0.5640155899335692
+CDKN2A_damaging_to_PELO,KY,ACH-000535,Pancreas,matrix_intact,-0.7578337404325568
+CDKN2A_damaging_to_PELO,KY,ACH-000544,Esophagus/Stomach,matrix_intact,-0.9343624572464447
+CDKN2A_damaging_to_PELO,KY,ACH-000546,Head and Neck,damaging,-0.6293928979144928
+CDKN2A_damaging_to_PELO,KY,ACH-000548,Head and Neck,damaging,-1.392492033974096
+CDKN2A_damaging_to_PELO,KY,ACH-000552,Bowel,matrix_intact,-0.5484374227277362
+CDKN2A_damaging_to_PELO,KY,ACH-000554,Breast,matrix_intact,-0.7363167932057303
+CDKN2A_damaging_to_PELO,KY,ACH-000558,CNS/Brain,matrix_intact,-0.10894685915802418
+CDKN2A_damaging_to_PELO,KY,ACH-000561,Esophagus/Stomach,matrix_intact,-2.416579755652134
+CDKN2A_damaging_to_PELO,KY,ACH-000562,Lung,damaging,-0.29087386731600995
+CDKN2A_damaging_to_PELO,KY,ACH-000563,Lung,matrix_intact,-1.2732849794860504
+CDKN2A_damaging_to_PELO,KY,ACH-000565,Bowel,matrix_intact,-0.29559924269295496
+CDKN2A_damaging_to_PELO,KY,ACH-000571,CNS/Brain,matrix_intact,-1.3370738927249273
+CDKN2A_damaging_to_PELO,KY,ACH-000573,Breast,matrix_intact,-1.339311130507755
+CDKN2A_damaging_to_PELO,KY,ACH-000581,Esophagus/Stomach,matrix_intact,-2.5527085536543663
+CDKN2A_damaging_to_PELO,KY,ACH-000584,Ovary/Fallopian Tube,matrix_intact,-0.3093682168731063
+CDKN2A_damaging_to_PELO,KY,ACH-000585,Lung,matrix_intact,-0.9995643108604586
+CDKN2A_damaging_to_PELO,KY,ACH-000587,Lung,damaging,-0.7568019076071028
+CDKN2A_damaging_to_PELO,KY,ACH-000595,CNS/Brain,matrix_intact,-1.1319959054336668
+CDKN2A_damaging_to_PELO,KY,ACH-000596,Lung,matrix_intact,-0.5613362969792198
+CDKN2A_damaging_to_PELO,KY,ACH-000599,Pancreas,matrix_intact,-0.0555956850800144
+CDKN2A_damaging_to_PELO,KY,ACH-000601,Pancreas,matrix_intact,-2.7890287766275215
+CDKN2A_damaging_to_PELO,KY,ACH-000609,CNS/Brain,matrix_intact,-0.5738891349915669
+CDKN2A_damaging_to_PELO,KY,ACH-000619,Head and Neck,matrix_intact,-2.37172031149944
+CDKN2A_damaging_to_PELO,KY,ACH-000622,CNS/Brain,matrix_intact,-0.740008248272735
+CDKN2A_damaging_to_PELO,KY,ACH-000624,Breast,matrix_intact,-0.46803011226551666
+CDKN2A_damaging_to_PELO,KY,ACH-000637,Esophagus/Stomach,matrix_intact,-0.841962638686894
+CDKN2A_damaging_to_PELO,KY,ACH-000651,Bowel,matrix_intact,-0.5936562207012108
+CDKN2A_damaging_to_PELO,KY,ACH-000652,Pancreas,damaging,-0.3442902902263694
+CDKN2A_damaging_to_PELO,KY,ACH-000656,Lymphoid,matrix_intact,-1.079702427224417
+CDKN2A_damaging_to_PELO,KY,ACH-000657,Ovary/Fallopian Tube,matrix_intact,0.36214087442582604
+CDKN2A_damaging_to_PELO,KY,ACH-000660,Lymphoid,matrix_intact,-1.2382279387947464
+CDKN2A_damaging_to_PELO,KY,ACH-000662,Lung,damaging,-1.6699590290975574
+CDKN2A_damaging_to_PELO,KY,ACH-000665,Lung,matrix_intact,-1.550886517514888
+CDKN2A_damaging_to_PELO,KY,ACH-000666,Lung,matrix_intact,-1.3477513786299102
+CDKN2A_damaging_to_PELO,KY,ACH-000668,Breast,matrix_intact,-1.2279675933766154
+CDKN2A_damaging_to_PELO,KY,ACH-000677,Lung,matrix_intact,-0.7723024548380315
+CDKN2A_damaging_to_PELO,KY,ACH-000681,Lung,matrix_intact,-0.738793462847239
+CDKN2A_damaging_to_PELO,KY,ACH-000694,Esophagus/Stomach,matrix_intact,-0.30070947379113017
+CDKN2A_damaging_to_PELO,KY,ACH-000696,Ovary/Fallopian Tube,matrix_intact,-0.6696654152488607
+CDKN2A_damaging_to_PELO,KY,ACH-000699,Breast,matrix_intact,-0.5834912290094936
+CDKN2A_damaging_to_PELO,KY,ACH-000704,Ovary/Fallopian Tube,matrix_intact,-0.030350795923173524
+CDKN2A_damaging_to_PELO,KY,ACH-000711,Breast,matrix_intact,-0.27641273071935174
+CDKN2A_damaging_to_PELO,KY,ACH-000714,Lymphoid,matrix_intact,-0.09217685468348678
+CDKN2A_damaging_to_PELO,KY,ACH-000717,Esophagus/Stomach,matrix_intact,-0.8763296665722597
+CDKN2A_damaging_to_PELO,KY,ACH-000719,Ovary/Fallopian Tube,matrix_intact,-0.07967484559982449
+CDKN2A_damaging_to_PELO,KY,ACH-000722,Bowel,matrix_intact,-0.21250757381885668
+CDKN2A_damaging_to_PELO,KY,ACH-000738,CNS/Brain,matrix_intact,-2.966623236377769
+CDKN2A_damaging_to_PELO,KY,ACH-000740,Head and Neck,damaging,-1.2506636785753555
+CDKN2A_damaging_to_PELO,KY,ACH-000748,Bone,matrix_intact,-1.1317873446614442
+CDKN2A_damaging_to_PELO,KY,ACH-000756,CNS/Brain,matrix_intact,-0.21561328547848818
+CDKN2A_damaging_to_PELO,KY,ACH-000768,Breast,matrix_intact,-2.967090155673684
+CDKN2A_damaging_to_PELO,KY,ACH-000769,Lung,damaging,-0.6874738486138928
+CDKN2A_damaging_to_PELO,KY,ACH-000778,Head and Neck,damaging,-2.8865690975281786
+CDKN2A_damaging_to_PELO,KY,ACH-000781,Lung,matrix_intact,-1.6236516816698432
+CDKN2A_damaging_to_PELO,KY,ACH-000784,Esophagus/Stomach,matrix_intact,-0.6592731951815317
+CDKN2A_damaging_to_PELO,KY,ACH-000787,Lung,damaging,-1.3986928177219877
+CDKN2A_damaging_to_PELO,KY,ACH-000788,Skin,matrix_intact,-0.6697940938634871
+CDKN2A_damaging_to_PELO,KY,ACH-000793,Esophagus/Stomach,matrix_intact,-0.549483936939
+CDKN2A_damaging_to_PELO,KY,ACH-000794,Head and Neck,matrix_intact,-1.4283354556366963
+CDKN2A_damaging_to_PELO,KY,ACH-000796,Ovary/Fallopian Tube,damaging,-0.3337832920401216
+CDKN2A_damaging_to_PELO,KY,ACH-000809,Esophagus/Stomach,matrix_intact,-1.3718625566097142
+CDKN2A_damaging_to_PELO,KY,ACH-000817,Lymphoid,matrix_intact,-0.5340801442582077
+CDKN2A_damaging_to_PELO,KY,ACH-000823,Esophagus/Stomach,matrix_intact,-0.8652182413741635
+CDKN2A_damaging_to_PELO,KY,ACH-000824,Esophagus/Stomach,matrix_intact,-0.7644610870321308
+CDKN2A_damaging_to_PELO,KY,ACH-000832,Head and Neck,damaging,-1.9008534701347308
+CDKN2A_damaging_to_PELO,KY,ACH-000841,Lung,matrix_intact,-0.45701610474704873
+CDKN2A_damaging_to_PELO,KY,ACH-000843,Lung,matrix_intact,-2.157036975519468
+CDKN2A_damaging_to_PELO,KY,ACH-000846,Head and Neck,damaging,-2.060420161258619
+CDKN2A_damaging_to_PELO,KY,ACH-000847,Esophagus/Stomach,matrix_intact,-0.5470613522068176
+CDKN2A_damaging_to_PELO,KY,ACH-000849,Breast,matrix_intact,-0.5228122674874383
+CDKN2A_damaging_to_PELO,KY,ACH-000855,Esophagus/Stomach,matrix_intact,-1.404428245187841
+CDKN2A_damaging_to_PELO,KY,ACH-000856,Breast,matrix_intact,-0.7300809169247544
+CDKN2A_damaging_to_PELO,KY,ACH-000858,Lung,damaging,0.016134317436431293
+CDKN2A_damaging_to_PELO,KY,ACH-000859,Breast,matrix_intact,-0.26302424691839715
+CDKN2A_damaging_to_PELO,KY,ACH-000860,Lung,matrix_intact,-0.4900240440235551
+CDKN2A_damaging_to_PELO,KY,ACH-000861,Lung,matrix_intact,-1.662700162897214
+CDKN2A_damaging_to_PELO,KY,ACH-000863,CNS/Brain,matrix_intact,-0.4377541858945646
+CDKN2A_damaging_to_PELO,KY,ACH-000864,Uterus,matrix_intact,-2.241398470690818
+CDKN2A_damaging_to_PELO,KY,ACH-000865,Esophagus/Stomach,matrix_intact,-1.3650373554774775
+CDKN2A_damaging_to_PELO,KY,ACH-000869,Lung,matrix_intact,0.10273504044700732
+CDKN2A_damaging_to_PELO,KY,ACH-000873,Esophagus/Stomach,matrix_intact,-1.3781051829579773
+CDKN2A_damaging_to_PELO,KY,ACH-000876,Breast,matrix_intact,-0.07320046797468124
+CDKN2A_damaging_to_PELO,KY,ACH-000878,Lung,matrix_intact,0.025541308839182302
+CDKN2A_damaging_to_PELO,KY,ACH-000879,Uterus,matrix_intact,-0.37301124613197506
+CDKN2A_damaging_to_PELO,KY,ACH-000880,Esophagus/Stomach,matrix_intact,-0.7937175097853907
+CDKN2A_damaging_to_PELO,KY,ACH-000885,Ovary/Fallopian Tube,matrix_intact,-2.8190184467846424
+CDKN2A_damaging_to_PELO,KY,ACH-000894,Lung,matrix_intact,-2.0481548127861506
+CDKN2A_damaging_to_PELO,KY,ACH-000900,Lung,matrix_intact,-1.7154409507664106
+CDKN2A_damaging_to_PELO,KY,ACH-000906,Ovary/Fallopian Tube,matrix_intact,-1.12488164404308
+CDKN2A_damaging_to_PELO,KY,ACH-000910,Breast,matrix_intact,-0.2149253945871806
+CDKN2A_damaging_to_PELO,KY,ACH-000911,Esophagus/Stomach,matrix_intact,-1.5856088320772006
+CDKN2A_damaging_to_PELO,KY,ACH-000913,Uterus,matrix_intact,-0.5640448394856392
+CDKN2A_damaging_to_PELO,KY,ACH-000917,Esophagus/Stomach,matrix_intact,-1.4937276004566789
+CDKN2A_damaging_to_PELO,KY,ACH-000919,Esophagus/Stomach,matrix_intact,-2.3160979462110483
+CDKN2A_damaging_to_PELO,KY,ACH-000926,Bowel,matrix_intact,-1.0400199214027115
+CDKN2A_damaging_to_PELO,KY,ACH-000932,Esophagus/Stomach,matrix_intact,-1.8615270023381687
+CDKN2A_damaging_to_PELO,KY,ACH-000934,Breast,matrix_intact,-0.4835429983658142
+CDKN2A_damaging_to_PELO,KY,ACH-000935,Bowel,damaging,-0.3469211834297284
+CDKN2A_damaging_to_PELO,KY,ACH-000936,Ovary/Fallopian Tube,matrix_intact,-0.83953617728461
+CDKN2A_damaging_to_PELO,KY,ACH-000943,Bowel,matrix_intact,-4.346973827760831
+CDKN2A_damaging_to_PELO,KY,ACH-000945,Lung,matrix_intact,-0.3873690634577577
+CDKN2A_damaging_to_PELO,KY,ACH-000947,Ovary/Fallopian Tube,matrix_intact,-1.7617328787536204
+CDKN2A_damaging_to_PELO,KY,ACH-000948,Esophagus/Stomach,matrix_intact,-2.5472227761943724
+CDKN2A_damaging_to_PELO,KY,ACH-000950,Bowel,matrix_intact,-2.4851731965729997
+CDKN2A_damaging_to_PELO,KY,ACH-000956,Prostate,matrix_intact,-0.4236157898040264
+CDKN2A_damaging_to_PELO,KY,ACH-000957,Bowel,matrix_intact,-3.576985386670897
+CDKN2A_damaging_to_PELO,KY,ACH-000958,Bowel,matrix_intact,-1.6683944512536797
+CDKN2A_damaging_to_PELO,KY,ACH-000962,Ovary/Fallopian Tube,matrix_intact,-4.092242868589255
+CDKN2A_damaging_to_PELO,KY,ACH-000965,Uterus,matrix_intact,-3.921597221507836
+CDKN2A_damaging_to_PELO,KY,ACH-000966,Ovary/Fallopian Tube,matrix_intact,-2.1589481619414195
+CDKN2A_damaging_to_PELO,KY,ACH-000969,Bowel,matrix_intact,-2.3100215275736353
+CDKN2A_damaging_to_PELO,KY,ACH-000970,Bowel,matrix_intact,-2.6236672127903513
+CDKN2A_damaging_to_PELO,KY,ACH-000971,Bowel,damaging,-2.6451823190405883
+CDKN2A_damaging_to_PELO,KY,ACH-000974,Uterus,matrix_intact,-2.6084534473326766
+CDKN2A_damaging_to_PELO,KY,ACH-000977,Prostate,matrix_intact,-0.9009153390261228
+CDKN2A_damaging_to_PELO,KY,ACH-000979,Prostate,damaging,-1.0136929979908451
+CDKN2A_damaging_to_PELO,KY,ACH-000980,Lung,matrix_intact,-1.7846054470302377
+CDKN2A_damaging_to_PELO,KY,ACH-000985,Bowel,matrix_intact,-6.1438229623497405
+CDKN2A_damaging_to_PELO,KY,ACH-000991,Bowel,matrix_intact,-0.8418742596021237
+CDKN2A_damaging_to_PELO,KY,ACH-000997,Bowel,matrix_intact,-3.877272363412905
+CDKN2A_damaging_to_PELO,KY,ACH-001016,CNS/Brain,matrix_intact,-1.2235373950717858
+CDKN2A_damaging_to_PELO,KY,ACH-001039,Bowel,matrix_intact,-0.8674346711218143
+CDKN2A_damaging_to_PELO,KY,ACH-001063,Ovary/Fallopian Tube,matrix_intact,-1.7922013111626016
+CDKN2A_damaging_to_PELO,KY,ACH-001065,Breast,matrix_intact,-0.8166007909144355
+CDKN2A_damaging_to_PELO,KY,ACH-001081,Bowel,matrix_intact,-1.0353571964285173
+CDKN2A_damaging_to_PELO,KY,ACH-001107,Pancreas,matrix_intact,-1.030710404448035
+CDKN2A_damaging_to_PELO,KY,ACH-001126,CNS/Brain,damaging,-1.4568840417916253
+CDKN2A_damaging_to_PELO,KY,ACH-001137,Lung,matrix_intact,-1.0889805452147197
+CDKN2A_damaging_to_PELO,KY,ACH-001151,Ovary/Fallopian Tube,matrix_intact,-0.4201899465259868
+CDKN2A_damaging_to_PELO,KY,ACH-001190,Skin,matrix_intact,-0.7950830732289784
+CDKN2A_damaging_to_PELO,KY,ACH-001193,Bone,matrix_intact,-0.3860678309432606
+CDKN2A_damaging_to_PELO,KY,ACH-001233,Lung,matrix_intact,-3.397831295528352
+CDKN2A_damaging_to_PELO,KY,ACH-001331,Head and Neck,matrix_intact,-0.2677329206595353
+CDKN2A_damaging_to_PELO,KY,ACH-001332,Head and Neck,matrix_intact,-2.951569676282913
+CDKN2A_damaging_to_PELO,KY,ACH-001345,Bowel,matrix_intact,-3.420550529093834
+CDKN2A_damaging_to_PELO,KY,ACH-001368,Esophagus/Stomach,matrix_intact,-0.611301199275096
+CDKN2A_damaging_to_PELO,KY,ACH-001399,Bowel,matrix_intact,-0.6640176023324763
+CDKN2A_damaging_to_PELO,KY,ACH-001418,Ovary/Fallopian Tube,matrix_intact,-0.1536583262726274
+CDKN2A_damaging_to_PELO,KY,ACH-001494,Biliary Tract,matrix_intact,-1.5110857763956638
+CDKN2A_damaging_to_PELO,KY,ACH-001496,Esophagus/Stomach,matrix_intact,-0.33543478567201324
+CDKN2A_damaging_to_PELO,KY,ACH-001497,Esophagus/Stomach,damaging,-0.6318755588965038
+CDKN2A_damaging_to_PELO,KY,ACH-001500,Esophagus/Stomach,matrix_intact,-1.3498154275089718
+CDKN2A_damaging_to_PELO,KY,ACH-001517,Uterus,matrix_intact,-2.574597019168728
+CDKN2A_damaging_to_PELO,KY,ACH-001542,Head and Neck,matrix_intact,-2.5975069746112873
+CDKN2A_damaging_to_PELO,KY,ACH-001544,Esophagus/Stomach,matrix_intact,-0.27283631493815946
+CDKN2A_damaging_to_PELO,KY,ACH-001603,Peripheral Nervous System,matrix_intact,-0.2632603563577931
+CDKN2A_damaging_to_PELO,KY,ACH-001605,CNS/Brain,matrix_intact,-0.3221812718653715
+CDKN2A_damaging_to_PELO,KY,ACH-001606,CNS/Brain,matrix_intact,0.048631089952751484
+CDKN2A_damaging_to_PELO,KY,ACH-001625,Head and Neck,matrix_intact,-0.2789146744515519
+CDKN2A_damaging_to_PELO,KY,ACH-001626,Head and Neck,damaging,-0.540504681120464
+CDKN2A_damaging_to_PELO,KY,ACH-001630,Ovary/Fallopian Tube,matrix_intact,-2.355721870057914
+CDKN2A_damaging_to_PELO,KY,ACH-001632,Ovary/Fallopian Tube,matrix_intact,-1.351388021381319
+CDKN2A_damaging_to_PELO,KY,ACH-001639,Lymphoid,matrix_intact,-1.250847219663772
+CDKN2A_damaging_to_PELO,KY,ACH-001654,Esophagus/Stomach,matrix_intact,-3.570544471313705
+CDKN2A_damaging_to_PELO,KY,ACH-001674,Peripheral Nervous System,matrix_intact,-1.2070207687549406
+CDKN2A_damaging_to_PELO,KY,ACH-001715,Bone,matrix_intact,-0.30703836628589554
+CDKN2A_damaging_to_PELO,KY,ACH-001819,Breast,matrix_intact,-1.4905705294137928
+CDKN2A_damaging_to_PELO,KY,ACH-001820,Breast,matrix_intact,-0.5260634651064926
+CDKN2A_damaging_to_PELO,KY,ACH-002029,Head and Neck,matrix_intact,-1.6708487166126054
+CDKN2A_damaging_to_PELO,KY,ACH-002043,Head and Neck,matrix_intact,-0.7337484457837941
+CDKN2A_damaging_to_PELO,KY,ACH-002045,Head and Neck,matrix_intact,-0.8508590398162289
+CDKN2A_damaging_to_PELO,KY,ACH-002083,Peripheral Nervous System,matrix_intact,-0.9059507006640543
+CDKN2A_damaging_to_PELO,KY,ACH-002105,Bone,matrix_intact,-0.3968490728519111
+CDKN2A_damaging_to_PELO,KY,ACH-002106,Bone,matrix_intact,-1.1411709780625012
+CDKN2A_damaging_to_PELO,KY,ACH-002109,Bone,matrix_intact,-0.446604198885288
+CDKN2A_damaging_to_PELO,KY,ACH-002110,Bone,matrix_intact,-1.8575673384119538
+CDKN2A_damaging_to_PELO,KY,ACH-002114,Bone,matrix_intact,-1.0273144870510595
+CDKN2A_damaging_to_PELO,KY,ACH-002116,Bone,matrix_intact,-0.3121346213787028
+CDKN2A_damaging_to_PELO,KY,ACH-002119,Bone,matrix_intact,-0.948717807194619
+CDKN2A_damaging_to_PELO,KY,ACH-002140,Ovary/Fallopian Tube,matrix_intact,-1.9398158678178234
+CDKN2A_damaging_to_PELO,KY,ACH-002141,Esophagus/Stomach,matrix_intact,-1.4474286796102138
+CDKN2A_damaging_to_PELO,KY,ACH-002143,Skin,matrix_intact,-0.2202456377837431
+CDKN2A_damaging_to_PELO,KY,ACH-002150,Kidney,matrix_intact,-1.0944883383133224
+CDKN2A_damaging_to_PELO,KY,ACH-002156,Lung,matrix_intact,0.11001589964499647
+CDKN2A_damaging_to_PELO,KY,ACH-002160,Bone,matrix_intact,-0.2452920822759981
+CDKN2A_damaging_to_PELO,KY,ACH-002161,Esophagus/Stomach,matrix_intact,-1.2091556973622508
+CDKN2A_damaging_to_PELO,KY,ACH-002179,Breast,matrix_intact,-0.9042288884643094
+CDKN2A_damaging_to_PELO,KY,ACH-002181,Ovary/Fallopian Tube,matrix_intact,-0.08390214073503548
+CDKN2A_damaging_to_PELO,KY,ACH-002183,Ovary/Fallopian Tube,matrix_intact,-0.07812804819863828
+CDKN2A_damaging_to_PELO,KY,ACH-002186,Pancreas,matrix_intact,-0.7049508666183215
+CDKN2A_damaging_to_PELO,KY,ACH-002189,Kidney,matrix_intact,-0.6399423926394008
+CDKN2A_damaging_to_PELO,KY,ACH-002198,Other,matrix_intact,-0.3231683674332312
+CDKN2A_damaging_to_PELO,KY,ACH-002202,Esophagus/Stomach,matrix_intact,-0.6921762060127734
+CDKN2A_damaging_to_PELO,KY,ACH-002210,Myeloid,matrix_intact,-0.8015545364336667
+CDKN2A_damaging_to_PELO,KY,ACH-002212,Head and Neck,matrix_intact,-1.1910275602276328
+CDKN2A_damaging_to_PELO,KY,ACH-002228,CNS/Brain,matrix_intact,-0.7940839848136194
+CDKN2A_damaging_to_PELO,KY,ACH-002229,CNS/Brain,matrix_intact,-0.2817716198125871
+CDKN2A_damaging_to_PELO,KY,ACH-002230,CNS/Brain,matrix_intact,-0.24473267349953687
+CDKN2A_damaging_to_PELO,KY,ACH-002233,Bowel,matrix_intact,-0.9606190662203846
+CDKN2A_damaging_to_PELO,KY,ACH-002234,Head and Neck,damaging,-0.8127354048542642
+CDKN2A_damaging_to_PELO,KY,ACH-002239,Head and Neck,matrix_intact,-0.39830401420177175
+CDKN2A_damaging_to_PELO,KY,ACH-002243,Esophagus/Stomach,matrix_intact,-1.5747629441754543
+CDKN2A_damaging_to_PELO,KY,ACH-002247,Myeloid,matrix_intact,-0.5399178924379884
+CDKN2A_damaging_to_PELO,KY,ACH-002249,Head and Neck,damaging,-2.4890981780943164
+CDKN2A_damaging_to_PELO,KY,ACH-002250,Head and Neck,matrix_intact,-0.6171270759812556
+CDKN2A_damaging_to_PELO,KY,ACH-002251,Head and Neck,matrix_intact,-2.229313003516868
+CDKN2A_damaging_to_PELO,KY,ACH-002257,CNS/Brain,matrix_intact,-0.2336763820756128
+CDKN2A_damaging_to_PELO,KY,ACH-002261,Peripheral Nervous System,matrix_intact,-0.6633701014166581
+CDKN2A_damaging_to_PELO,KY,ACH-002263,Esophagus/Stomach,damaging,-1.3406550140182023
+CDKN2A_damaging_to_PELO,KY,ACH-002265,Head and Neck,damaging,-0.03505798501034715
+CDKN2A_damaging_to_PELO,KY,ACH-002269,CNS/Brain,matrix_intact,-0.58092786479072
+CDKN2A_damaging_to_PELO,KY,ACH-002278,Peripheral Nervous System,matrix_intact,-0.05104247281203643
+CDKN2A_damaging_to_PELO,KY,ACH-002280,Peripheral Nervous System,matrix_intact,-0.48488402345392173
+CDKN2A_damaging_to_PELO,KY,ACH-002282,Peripheral Nervous System,matrix_intact,-0.3830160222483947
+CDKN2A_damaging_to_PELO,KY,ACH-002283,Peripheral Nervous System,matrix_intact,-0.2517872636576079
+CDKN2A_damaging_to_PELO,KY,ACH-002284,Peripheral Nervous System,matrix_intact,-0.5814793480470116
+CDKN2A_damaging_to_PELO,KY,ACH-002285,Peripheral Nervous System,matrix_intact,-0.633840709581389
+CDKN2A_damaging_to_PELO,KY,ACH-002294,Head and Neck,damaging,-3.0097233215590347
+CDKN2A_damaging_to_PELO,KY,ACH-002295,Head and Neck,matrix_intact,-0.3064188627362279
+CDKN2A_damaging_to_PELO,KY,ACH-002296,Head and Neck,damaging,-1.593438179719179
+CDKN2A_damaging_to_PELO,KY,ACH-002297,Head and Neck,matrix_intact,-1.9741792286547728
+CDKN2A_damaging_to_PELO,KY,ACH-002298,Head and Neck,matrix_intact,-1.4260616667720376
+CDKN2A_damaging_to_PELO,KY,ACH-002304,CNS/Brain,matrix_intact,-0.35970242328539365
+CDKN2A_damaging_to_PELO,KY,ACH-002305,Head and Neck,matrix_intact,-1.1385205703007077
