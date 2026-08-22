@@ -21,7 +21,7 @@ uncertainty and artifact controls?
 
 ## Current phase
 
-Nine bounded experiments are complete:
+Ten bounded experiments are complete:
 
 - `EXP-20260822-001` passed the API engineering gate: all eight frozen genes had 177
   paired Broad/Sanger models and positive source correlations.
@@ -64,6 +64,11 @@ Nine bounded experiments are complete:
   negative Large Intestine and positive Ovary estimates. The near-duplicate passing-
   sequence sensitivity field gave the same conclusion and could not rescue the
   primary failure.
+- `EXP-20260822-010` stopped at its preregistered baseline reconstruction gate:
+  100/103 official WRN screen scores were reproduced, but the three screens where
+  included sequence count exceeded passing count failed (maximum discrepancy
+  0.5755). No guide omission was computed, leaving single-guide robustness
+  unresolved while exposing a sequence-inclusion pipeline ambiguity.
 
 A label-only provenance audit found that the CRC-only cohort has only 7 MSI Broad
 models, below the independently proposed minimum of 8. That CRC-only gate remains a
@@ -81,6 +86,7 @@ uv run candrel-wrn-qc-asymmetry  # expected exit 2; frozen QC-gap hypothesis fai
 uv run candrel-wrn-guide-mutation-adequacy  # expected exit 2; constant exposure
 uv run candrel-control-discordance  # expected exit 2; primary control panel failed
 uv run candrel-sequence-inclusion-asymmetry  # expected exit 2; inclusion audit failed
+uv run candrel-wrn-guide-loo  # expected exit 1; frozen baseline reconstruction failed
 ```
 
 Raw API responses are cached under `data/raw/` and excluded from Git. Every run

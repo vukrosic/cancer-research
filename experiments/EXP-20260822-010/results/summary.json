@@ -1,0 +1,6 @@
+{
+  "error": "baseline reconstruction drift: n=103, max_abs=0.575461258572683",
+  "experiment_id": "EXP-20260822-010",
+  "overall_pass": false,
+  "status": "ERROR_INTEGRITY"
+}

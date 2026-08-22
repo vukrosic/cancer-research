@@ -1,0 +1,66 @@
+{
+  "experiment_id": "EXP-20260822-010",
+  "gate": "baseline_no_drift",
+  "status": "FAIL_T0_RECONSTRUCTION",
+  "scores_checked": 103,
+  "scores_with_absolute_discrepancy_above_1e_8": 3,
+  "scores_matching_within_1e_8": 100,
+  "maximum_absolute_discrepancy": 0.575461258572683,
+  "frozen_absolute_tolerance": 1e-8,
+  "frozen_relative_tolerance": 0,
+  "mismatches": [
+    {
+      "model_id": "ACH-000680",
+      "source": "Avana",
+      "tissue": "Large Intestine",
+      "screen_id": "SC-000680.AV01",
+      "n_passing_sequences": 1,
+      "n_included_sequences": 2,
+      "reconstructed_score": -0.6221878632730302,
+      "official_score": -1.1976491218457133,
+      "absolute_discrepancy": 0.575461258572683
+    },
+    {
+      "model_id": "ACH-000719",
+      "source": "KY",
+      "tissue": "Ovary",
+      "screen_id": "SC-000719.KY01",
+      "n_passing_sequences": 2,
+      "n_included_sequences": 3,
+      "reconstructed_score": -0.09539496044784783,
+      "official_score": -0.13552228894882573,
+      "absolute_discrepancy": 0.0401273285009779
+    },
+    {
+      "model_id": "ACH-000663",
+      "source": "Avana",
+      "tissue": "Ovary",
+      "screen_id": "SC-000663.AV01",
+      "n_passing_sequences": 2,
+      "n_included_sequences": 3,
+      "reconstructed_score": 0.06562115906099217,
+      "official_score": 0.07163218792954681,
+      "absolute_discrepancy": 0.0060110288685546465
+    }
+  ],
+  "relationship_to_sequence_qc": {
+    "all_three_mismatches_have_included_greater_than_passing": true,
+    "each_mismatch_screen_has_exactly_one_PassesQC_false_sequence": true,
+    "all_other_frozen_screens_match_within_tolerance": true,
+    "alternative_filter_or_aggregation_executed": false
+  },
+  "large_input_receipts": {
+    "AvanaLogfoldChange.csv": {
+      "size": 3173505617,
+      "md5": "58b1f479091a9f8b3e858d69d55413c4",
+      "sha256": "f018d7ff6820af6d0bb095f1e2b405ec31d7a744a1e4c019cfd9f3509e63bdee"
+    },
+    "KYLogfoldChange.csv": {
+      "size": 1585769082,
+      "md5": "c711c9413b63fe7c55b734e43cdeca91",
+      "sha256": "5b03df4b4affda1f0ed36f2bd564e1cbd53ec443b20e60295cad577677874767"
+    }
+  },
+  "guide_omission_configurations_computed": 0,
+  "robustness_result_computed": false
+}
