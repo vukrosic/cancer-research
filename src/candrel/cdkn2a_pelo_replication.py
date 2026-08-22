@@ -69,8 +69,8 @@ def _set_configuration(exposed: str, reference: str) -> None:
     engine.INFERENCE_SEEDS = INFERENCE_SEEDS.copy()
     engine.EXPOSED = exposed
     engine.REFERENCE = reference
-    engine.MIN_EXPOSED = 20 if exposed == ANALYSIS_EXPOSED else 20
-    engine.MIN_REFERENCE = 50
+    engine.MIN_EXPOSED = 50 if exposed == LOADER_EXPOSED else 20
+    engine.MIN_REFERENCE = 20 if reference == LOADER_REFERENCE else 50
     engine.EXPECTED_ROSTER_SHA256 = EXPECTED_ROSTER_SHA256
 
 
