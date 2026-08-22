@@ -475,9 +475,19 @@ def run(args: argparse.Namespace, output_dir: Path) -> dict[str, object]:
         by_model[row.model_id].append(row)
     adequacy = {"efficacy": {}, "growth": {}}
     for tissue in TISSUES:
-        selected = [row for row in denominators if row.tissue == tissue and row.model_id in paired_ids]
-        efficacy_exposure = [abs(efficacy_q[(row.model_id, "Avana")] - efficacy_q[(row.model_id, "KY")]) for row in selected]
-        growth_exposure = [abs(growth_q[(row.model_id, "Avana")] - growth_q[(row.model_id, "KY")]) for row in selected]
+        selected_ids = sorted(
+            {row.model_id for row in denominators if row.tissue == tissue and row.model_id in paired_ids}
+        )
+        if len(selected_ids) != EXPECTED_PAIRS[tissue]:
+            raise IntegrityError(f"paired adequacy population drift: {tissue}")
+        efficacy_exposure = [
+            abs(efficacy_q[(model_id, "Avana")] - efficacy_q[(model_id, "KY")])
+            for model_id in selected_ids
+        ]
+        growth_exposure = [
+            abs(growth_q[(model_id, "Avana")] - growth_q[(model_id, "KY")])
+            for model_id in selected_ids
+        ]
         adequacy["efficacy"][tissue] = tied_exposure_gate(efficacy_exposure, tissue, "efficacy")
         adequacy["growth"][tissue] = tied_exposure_gate(growth_exposure, tissue, "growth")
     parameter_rows = build_parameter_rows(denominators, efficacy, growth, efficacy_q, growth_q)
