@@ -1,0 +1,109 @@
+{
+  "adequacy": {
+    "overall_adequate": true,
+    "panels": {
+      "common_essential": {
+        "adequate": true,
+        "by_tissue": {
+          "Large Intestine": {
+            "adequate": true,
+            "distinct_values": 16,
+            "finite": true,
+            "n": 17
+          },
+          "Ovary": {
+            "adequate": true,
+            "distinct_values": 16,
+            "finite": true,
+            "n": 17
+          }
+        },
+        "eligible_genes": 1227,
+        "gene_count_adequate": true,
+        "minimum_eligible_genes": 996
+      },
+      "nonessential": {
+        "adequate": true,
+        "by_tissue": {
+          "Large Intestine": {
+            "adequate": true,
+            "distinct_values": 17,
+            "finite": true,
+            "n": 17
+          },
+          "Ovary": {
+            "adequate": true,
+            "distinct_values": 17,
+            "finite": true,
+            "n": 17
+          }
+        },
+        "eligible_genes": 618,
+        "gene_count_adequate": true,
+        "minimum_eligible_genes": 584
+      }
+    }
+  },
+  "analysis_type": "preregistered_derived_observational_analysis_after_endpoint_unsealing",
+  "association_computed": true,
+  "bootstrap_repeats_per_panel": 200,
+  "broad_model_general_claim_supported": false,
+  "claim_boundary": "model-level observational control-gene discordance association only",
+  "corroborative_nonessential_pass": false,
+  "experiment_id": "EXP-20260822-008",
+  "input_receipt": {
+    "cohort_file_sha256": "2bc84868962b35c55e456aeb953429206e97c9b25f648b5deabe5a1488e60b67",
+    "denominator_file_sha256": "072dd2775d4e3bfaa480cd70639cc799c1e5914b2e9cc5213328383557680654",
+    "essential_file_sha256": "496c5ec9eaa2f4c13dc00fd15a8e24df253afcc5a969d3956b7dd3d987640084",
+    "gap_file_sha256": "f2dc22d9c26f937413b612ae4924f1965c837e480a805c1ff0b7b0c5d8b3cd4a",
+    "nonessential_file_sha256": "2aacca44b6a79e7240518e6adbd89c70d7d895da91cd4c8b4d380529bc5b8e5e",
+    "score_file_sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721"
+  },
+  "outcome_hash_verified": true,
+  "outcome_values_loaded": true,
+  "overall_pass": false,
+  "panel_results": {
+    "common_essential": {
+      "bootstrap_ci_95": [
+        -0.23181386043189922,
+        0.44208177953935535
+      ],
+      "gates": {
+        "no_tissue_below_minus_0_20": true,
+        "permutation_p_at_most_0_05": false,
+        "point_target_theta_at_least_0_40": false,
+        "practical_ci_lower_above_0_10": false
+      },
+      "passed_all_gates": false,
+      "permutation_p_one_sided": 0.3034825870646766,
+      "theta_equal_tissue_mean_spearman": 0.11465360830671886,
+      "tissue_spearman": {
+        "Large Intestine": 0.04782343020280252,
+        "Ovary": 0.1814837864106352
+      }
+    },
+    "nonessential": {
+      "bootstrap_ci_95": [
+        -0.4451712179460954,
+        0.3542917981358875
+      ],
+      "gates": {
+        "no_tissue_below_minus_0_20": true,
+        "permutation_p_at_most_0_05": false,
+        "point_target_theta_at_least_0_40": false,
+        "practical_ci_lower_above_0_10": false
+      },
+      "passed_all_gates": false,
+      "permutation_p_one_sided": 0.7313432835820896,
+      "theta_equal_tissue_mean_spearman": -0.10784313725490197,
+      "tissue_spearman": {
+        "Large Intestine": -0.061274509803921566,
+        "Ovary": -0.15441176470588236
+      }
+    }
+  },
+  "permutation_repeats_per_panel": 200,
+  "primary_common_essential_pass": false,
+  "seed": 20260828,
+  "status": "FAIL_PRIMARY_CONTROL_DISCORDANCE"
+}

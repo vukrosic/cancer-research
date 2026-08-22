@@ -8,9 +8,9 @@ orthogonal experimental validation.
 
 ## Current milestone
 
-Preserve and publish the audited EXP-007 guide-mutation adequacy failure, then freeze
-a distinct test of whether WRN discordance is model-general across control genes or
-WRN-specific.
+Preserve and publish the audited EXP-008 negative control-discordance result, then
+freeze a gene-specific or assay-kinetic hypothesis that is orthogonal to broad QC and
+model-general instability summaries.
 
 ## Program success
 
