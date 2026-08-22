@@ -55,9 +55,17 @@ context/design artifacts and in-memory pre-endpoint receipt. The critic also
 requested deeper artifact-schema tests.
 
 The runner was amended to bind final implementation commit
-`2135a60d89d10e9147c149c838543ebe7493e392`
-and module SHA-256 `99a77c47e53a0989c5b6928884839b64a4f9440dfb33513ff954bbaba90ff699`,
+`20120c864fa3f65c97bd8594c6228be23682a33a`
+and module SHA-256 `5717f39e73ac92ef8263da2308fa0f3f581b7a374736f0c6d9b0dd0fa535d60d`,
 write `pre_endpoint_receipt.json` before endpoint loading, preserve staged
 context/design files under `t0_provenance` on an endpoint T0 stop, force all
 nominal CSV flags to `False`, and validate these invariants. The focused suite
 now has 82 passing tests.
+
+## Attempt 001 correction
+
+The first execution reached an integrity stop on a blank lineage in unrelated
+non-eligible metadata (`ACH-003132`). The failure was preserved in
+`attempt-001_error_receipt.json` and `execution_log.md`. The implementation
+now permits blank lineage only in unrelated `Model.csv` rows and rejects it if
+the QC-to-Model join selects that model; no endpoint value was accessed.
