@@ -1,0 +1,177 @@
+{
+  "analysis_label": "FEASIBILITY_ONLY",
+  "analysis_type": "preregistered_source_specific_lineage_stratified_cdkn2a_mat2a_proxy_replication",
+  "artifact_receipt_sha256": {
+    "context_ledger.csv": "1c6b1df176468f25de48585b97d456b7e83c3d2fa63352a31a527b4f3263e725",
+    "design_sensitivity.csv": "d79398107dea3d888ca9c10be3855eef242cb16aa88d9ed477398fdf59730260",
+    "endpoint_scores.csv": "41ed3ccd4d7679247fc9bdfac663e34f524412c73bd078d947a6fbe6ce2ae5d6",
+    "inference.csv": "3fc988c9ce1d20c008a5866853536f5fd788b10ff52303a30e7a5fc27a0b49ad",
+    "summary.json": "99f3330dc3f17949aaf8ed5c691206d01c61f639edb5cf243922ef45a6d6562c"
+  },
+  "claim_boundary": "damaging-matrix CDKN2A proxy association with source-specific MAT2A dependency in frozen 23Q4 screen cohorts; no 9p21.3 deletion, FOCAD-loss, MSI-H, mechanistic, MAT2A-inhibitor, treatment, clinical, or confirmatory claim",
+  "claim_eligibility": {
+    "design_sensitivity_label": "FEASIBILITY_ONLY",
+    "nominal_primary_gates_pass": false,
+    "primary_confirmatory": false
+  },
+  "confirmatory_claim": false,
+  "context_receipt": {
+    "canonical_roster_sha256": "df50a72ac86b161e16ebc5a2eb2b2f5c8d35151d94da4046c375f5ab0f603bb5",
+    "context_ledger_sha256": "1c6b1df176468f25de48585b97d456b7e83c3d2fa63352a31a527b4f3263e725",
+    "damaging_sha256": "aea4d970c0876afb90d2dc0e2709ff28be5a84e4e246f3a5a31faaba0fbc47e3",
+    "eligible_screens": 1292,
+    "eligible_source_models": {
+      "Avana": 975,
+      "KY": 315
+    },
+    "mixed_lineages": {
+      "Avana": 19,
+      "KY": 11
+    },
+    "model_sha256": "6b77a73209ce3faaa7442dbd947d8e08ddcb08b538c36fe820163f9cff321341",
+    "screen_map_sha256": "1e2bf9075600cd049dafc385866991523c65806657f3c8bd71afde3fe00ee9ad",
+    "screen_qc_sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407",
+    "status_column": "CDKN2A (1029)",
+    "status_counts": {
+      "Avana": {
+        "damaging": 110,
+        "matrix_intact": 865
+      },
+      "KY": {
+        "damaging": 37,
+        "matrix_intact": 278
+      }
+    },
+    "status_threshold": 1,
+    "unique_model_ids": 1098
+  },
+  "design_sensitivity": {
+    "all_primary_sources_power_adequate": false,
+    "confirmatory_claim_enabled": false,
+    "design_sensitivity_sha256": "d79398107dea3d888ca9c10be3855eef242cb16aa88d9ed477398fdf59730260",
+    "frozen_label": "FEASIBILITY_ONLY",
+    "minimum_confirmatory_power": 0.8
+  },
+  "endpoint_receipt": {
+    "eligible_screens_expected": 1292,
+    "eligible_screens_seen": 1292,
+    "median_collapse": true,
+    "model_values": 1290,
+    "sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721"
+  },
+  "experiment_id": "EXP-20260822-037",
+  "implementation_receipt": {
+    "engine_module": "src/candrel/tp53_mdm2_replication.py",
+    "implementation_commit": "8bf9e4c04f7f9bc8cf701ebc33b26fd92a0a7030",
+    "implementation_module": "src/candrel/cdkn2a_mat2a_replication.py",
+    "manifest_path": "experiments/EXP-20260822-037/manifest.json",
+    "required_base_commit": "e12edbdb9e1d1526d2e32c7f93e01a77786855b6",
+    "uv_lock_sha256": "d09301a2eff28d69c3e0b504d4cdae5ed21c1e451efb92e60f360ebf047106dd"
+  },
+  "inference_receipt": {
+    "bootstrap_interval": "percentile_95_linear_quantile",
+    "bootstraps": 10000,
+    "cross_source_raw_score_comparison": false,
+    "design_seeds": {
+      "Avana": 20263700,
+      "KY": 20263800
+    },
+    "inference_seeds": {
+      "Avana": 20273700,
+      "KY": 20273800
+    },
+    "permutations": 100000,
+    "unit": "collapsed_source_model_id"
+  },
+  "overall_pass": false,
+  "pre_endpoint_receipt": {
+    "context_ledger_sha256": "1c6b1df176468f25de48585b97d456b7e83c3d2fa63352a31a527b4f3263e725",
+    "design_sensitivity_sha256": "d79398107dea3d888ca9c10be3855eef242cb16aa88d9ed477398fdf59730260",
+    "experiment_id": "EXP-20260822-037",
+    "receipt_sha256": "6a977c2df3823d22b92fa4f0027f15dd00f22850fade46a3f6b75ea22e22105e",
+    "sealed_before_endpoint": true
+  },
+  "primary": [
+    {
+      "bootstrap_ci_95_percentile": [
+        -0.019633825611976526,
+        0.23366376694315194
+      ],
+      "bootstrap_repeats": 10000,
+      "delta": 0.10944770382358891,
+      "gates": {
+        "at_least_5_negative_lineages": true,
+        "bootstrap_upper_lt_0": false,
+        "delta_le_minus_0_20": false,
+        "delta_lt_0": false,
+        "no_lineage_delta_gt_plus_0_20": false,
+        "permutation_p_le_0_05": false
+      },
+      "lineage_deltas": {
+        "Ampulla of Vater": 1.0,
+        "Biliary Tract": 0.15625,
+        "Bladder/Urinary Tract": 0.0,
+        "Bone": -0.07142857142857142,
+        "Bowel": 0.4318181818181818,
+        "Breast": -0.2857142857142857,
+        "CNS/Brain": -0.3611111111111111,
+        "Esophagus/Stomach": -0.08,
+        "Eye": 0.2222222222222222,
+        "Head and Neck": 0.2916666666666667,
+        "Liver": -0.09090909090909091,
+        "Lung": 0.1957894736842105,
+        "Lymphoid": -0.17647058823529413,
+        "Ovary/Fallopian Tube": -0.1111111111111111,
+        "Pancreas": 0.2689655172413793,
+        "Peripheral Nervous System": -0.7333333333333333,
+        "Skin": 0.048355899419729204,
+        "Soft Tissue": 0.4117647058823529,
+        "Uterus": 0.5714285714285714
+      },
+      "pair_count": 4943,
+      "pair_id": "CDKN2A_damaging_to_MAT2A",
+      "pass": false,
+      "permutation_extreme_count": 94239,
+      "permutation_p_one_sided_lower": 0.942390576094239,
+      "permutation_repeats": 100000,
+      "source": "Avana"
+    },
+    {
+      "bootstrap_ci_95_percentile": [
+        -0.41586538461538464,
+        -0.01201923076923077
+      ],
+      "bootstrap_repeats": 10000,
+      "delta": -0.21394230769230768,
+      "gates": {
+        "at_least_5_negative_lineages": true,
+        "bootstrap_upper_lt_0": true,
+        "delta_le_minus_0_20": true,
+        "delta_lt_0": true,
+        "no_lineage_delta_gt_plus_0_20": false,
+        "permutation_p_le_0_05": true
+      },
+      "lineage_deltas": {
+        "Bone": 0.8333333333333334,
+        "Bowel": -0.2857142857142857,
+        "CNS/Brain": -0.25,
+        "Esophagus/Stomach": -0.7037037037037037,
+        "Head and Neck": -0.15037593984962405,
+        "Lung": -0.025,
+        "Lymphoid": 0.1111111111111111,
+        "Ovary/Fallopian Tube": -0.7857142857142857,
+        "Pancreas": -0.23684210526315788,
+        "Prostate": 0.0,
+        "Skin": -1.0
+      },
+      "pair_count": 832,
+      "pair_id": "CDKN2A_damaging_to_MAT2A",
+      "pass": false,
+      "permutation_extreme_count": 3513,
+      "permutation_p_one_sided_lower": 0.035139648603513964,
+      "permutation_repeats": 100000,
+      "source": "KY"
+    }
+  ],
+  "status": "FEASIBILITY_ONLY_NOMINAL_GATE_FAILURE"
+}

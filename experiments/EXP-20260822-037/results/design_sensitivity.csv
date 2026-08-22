@@ -1,0 +1,3 @@
+pair_id,source,exposed_models,reference_models,contributing_lineages,expected_delta,normal_mean_shift,null_permutations,alternative_simulations,critical_delta,simulated_power,confirmatory_power_adequate
+CDKN2A_damaging_to_MAT2A,Avana,110,865,19,-0.2,-0.358286909243,100000,10000,-0.11592150515881045,0.8906,True
+CDKN2A_damaging_to_MAT2A,KY,37,278,11,-0.2,-0.358286909243,100000,10000,-0.19230769230769232,0.5361,False
