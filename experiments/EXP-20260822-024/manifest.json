@@ -1,0 +1,50 @@
+{
+  "experiment_id": "EXP-20260822-024",
+  "analysis_type": "preregistered_source_specific_lineage_stratified_kmt2d_kmt2c_replication",
+  "primary_pair": "KMT2D_damaging_status_to_KMT2C_dependency",
+  "entrypoint": ".venv/bin/python -m candrel.kmt2d_kmt2c_replication",
+  "inputs": {
+    "endpoint": {"path": "data/raw/depmap/23q4/ScreenNaiveGeneScore.csv", "sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721", "target_column": "KMT2C (58508)"},
+    "screen_qc": {"path": "data/raw/depmap/23q4/AchillesScreenQCReport.csv", "sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407"},
+    "screen_map": {"path": "data/raw/depmap/23q4/CRISPRScreenMap.csv", "sha256": "1e2bf9075600cd049dafc385866991523c65806657f3c8bd71afde3fe00ee9ad"},
+    "model": {"path": "data/raw/depmap/23q4/Model.csv", "sha256": "6b77a73209ce3faaa7442dbd947d8e08ddcb08b538c36fe820163f9cff321341"},
+    "damaging_matrix": {"path": "data/raw/depmap/23q4/OmicsSomaticMutationsMatrixDamaging.csv", "sha256": "aea4d970c0876afb90d2dc0e2709ff28be5a84e4e246f3a5a31faaba0fbc47e3", "status_column": "KMT2D (8085)"}
+  },
+  "eligibility": {"libraries": ["Avana", "KY"], "pass_qc": true, "can_include": true, "expected_source_models": {"Avana": 975, "KY": 315}},
+  "status_contract": {
+    "exposed": "damaging",
+    "reference": "matrix_intact",
+    "exposed_matrix_values": [1, 2],
+    "reference_matrix_values": [0],
+    "expected_counts": {"Avana": {"damaging": 86, "matrix_intact": 889}, "KY": {"damaging": 33, "matrix_intact": 282}},
+    "expected_mixed_lineages": {"Avana": 17, "KY": 11}
+  },
+  "candidate_census": {"path": "experiments/EXP-20260822-024/candidate_census.json", "sha256": "b443ec0865faf4f3b51ce656cffc432792374061852f29ea4f911b663922dfee", "canonical_roster_sha256": "e8f440a118065e4fc23535dca196c03b8c9a08b9a4f4348516f214d19b2e9164"},
+  "design_receipt": {"path": "experiments/EXP-20260822-024/design_census_receipt.json", "sha256": "f34271a6c6e3f9d70abc0fead0de6d2630469c9c5d717954389479247a848446", "canonical_roster_sha256": "e8f440a118065e4fc23535dca196c03b8c9a08b9a4f4348516f214d19b2e9164"},
+  "selection_seal": {"path": "experiments/EXP-20260822-024/selection_seal.json", "sha256": "04e074c12f119e9d7ad0666bdffb448ba500aa677d25030a1fb9d851bf913735", "sealed_before_endpoint_access": true, "protocol_commit": "5af7d8cf583abf46ad0a4ca3e598519020d70163"},
+  "design_sensitivity": {
+    "mean_shift": -0.358286909243,
+    "null_permutations": 100000,
+    "alternative_simulations": 10000,
+    "planning_power_seeds": {"Avana": 20262400, "KY": 20262500},
+    "expected_critical_delta": {"Avana": -0.12622333751568382, "KY": -0.1994645247657296},
+    "expected_power": {"Avana": 0.8433, "KY": 0.512},
+    "minimum_power_for_confirmatory_label": 0.8,
+    "frozen_label": "FEASIBILITY_ONLY"
+  },
+  "inference": {"inference_seeds": {"Avana": 20272400, "KY": 20272500}, "permutations": 100000, "bootstraps": 10000, "delta_target": -0.2, "permutation_p_max": 0.05, "bootstrap_upper_max": 0.0, "max_lineage_delta": 0.2},
+  "claim_contract": {"analysis_label": "FEASIBILITY_ONLY", "confirmatory_claim": false, "overall_pass": false},
+  "uv_lock_sha256": "d09301a2eff28d69c3e0b504d4cdae5ed21c1e451efb92e60f360ebf047106dd",
+  "implementation_boundary": {
+    "required_base_commit": "311d6b212f9c3c7564e4279ee41fbd59eab61f3e",
+    "implementation_commit": "f6ea8341bcbabd0ca15c009c52d868222ec9dc3e",
+    "implementation_module": "src/candrel/kmt2d_kmt2c_replication.py",
+    "engine_module": "src/candrel/tp53_mdm2_replication.py",
+    "project_file": "pyproject.toml",
+    "modules": [
+      {"path": "src/candrel/kmt2d_kmt2c_replication.py", "sha256": "935050e4e69a89b6f4e0cb14c814b92e9b652f3104c475a53f09bef6f2826b33"},
+      {"path": "src/candrel/tp53_mdm2_replication.py", "sha256": "8c2bda37783d193bd0f948d4c4cfc4608dccba49d8d0c16aeba640cbac1c4164"},
+      {"path": "pyproject.toml", "sha256": "3d941c33519bcfcdba4300c703cb9419ba199317387814a1dd4ede6007e3300c"}
+    ]
+  }
+}
