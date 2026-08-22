@@ -1,0 +1,91 @@
+{
+  "census_id": "EXP025-candidate-shortlist-20260822",
+  "census_at": "2026-08-22T19:52:22+0200",
+  "purpose": "Outcome-free selection of a distinct CDKN2A-proxy-to-PELO-dependency direction",
+  "endpoint_values_opened": false,
+  "endpoint_access": "ScreenNaiveGeneScore.csv header identity only; no PELO score row or target value parsed",
+  "eligibility_rule": "PassesQC == True, CanInclude == True, Library in {Avana, KY}, exact ScreenID-to-ModelID map, nonblank eligible OncotreeLineage",
+  "status_rule": "matrix values restricted to {0,1,2}; primary exposure is CDKN2A damaging value >= 1 and reference is CDKN2A matrix value == 0",
+  "selection_basis": "CDKN2A-damaging-to-PELO has the strongest fresh two-source metadata among the reviewed candidates and tests whether a common CDKN2A mutation proxy tracks the newly reported PELO vulnerability. The primary study identifies biallelic 9p21.3 deletion and FOCAD loss, not isolated CDKN2A mutation, as the causal context; this experiment therefore audits proxy transportability and cannot claim 9p21.3 biology. KY planning power is 0.5265, so the paired experiment is permanently feasibility-only.",
+  "distinctness_contract": {
+    "prior_experiments": ["EXP-20260822-014", "EXP-20260822-015", "EXP-20260822-016", "EXP-20260822-017", "EXP-20260822-018", "EXP-20260822-019", "EXP-20260822-020", "EXP-20260822-021", "EXP-20260822-022", "EXP-20260822-023", "EXP-20260822-024"],
+    "prior_pairs_excluded": ["STAG2_damaging_to_STAG1", "PDS5B_damaging_to_PDS5A", "ARID1A_damaging_to_ARID1B", "ARID1A_damaging_to_KEAP1", "TP53_matrix_intact_to_MDM2", "CDKN2A_damaging_to_TYMS", "PTEN_damaging_to_PIK3CB", "TP53_damaging_to_WEE1", "NF1_damaging_to_PTPN11", "EP300_damaging_to_CREBBP", "APC_damaging_to_TDO2", "KMT2D_damaging_to_KMT2C"],
+    "current_pair": "CDKN2A_damaging_to_PELO",
+    "endpoint_gene_changed": true,
+    "status_gene_changed": true
+  },
+  "inputs": {
+    "screen_qc_sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407",
+    "screen_map_sha256": "1e2bf9075600cd049dafc385866991523c65806657f3c8bd71afde3fe00ee9ad",
+    "model_sha256": "6b77a73209ce3faaa7442dbd947d8e08ddcb08b538c36fe820163f9cff321341",
+    "damaging_matrix_sha256": "aea4d970c0876afb90d2dc0e2709ff28be5a84e4e246f3a5a31faaba0fbc47e3",
+    "endpoint_sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721",
+    "endpoint_target_column": "PELO (53918)"
+  },
+  "candidate_shortlist": [
+    {
+      "status_gene": "CDKN2A",
+      "status_column": "CDKN2A (1029)",
+      "target_gene": "PELO",
+      "target_column": "PELO (53918)",
+      "exposure_definition": "damaging matrix value >= 1",
+      "Avana": {"damaging": 110, "matrix_intact": 865, "mixed_lineages": 19, "planning_power": 0.8958},
+      "KY": {"damaging": 37, "matrix_intact": 278, "mixed_lineages": 11, "planning_power": 0.5265},
+      "decision": "selected_strongest_fresh_two_source_balance_but_proxy_audit_feasibility_only",
+      "primary_source": "https://www.nature.com/articles/s41586-024-08509-3"
+    },
+    {
+      "status_gene": "ARID1A",
+      "status_column": "ARID1A (8289)",
+      "target_gene": "EZH2",
+      "target_column": "EZH2 (2146)",
+      "exposure_definition": "damaging matrix value >= 1",
+      "Avana": {"damaging": 101, "matrix_intact": 874, "mixed_lineages": 19, "planning_power": 0.8621},
+      "KY": {"damaging": 43, "matrix_intact": 272, "mixed_lineages": 11, "planning_power": 0.5760},
+      "decision": "not_selected_older_well_established_interaction_less_fresh_than_PELO_proxy_audit",
+      "primary_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4886303/"
+    },
+    {
+      "status_gene": "PTEN",
+      "status_column": "PTEN (5728)",
+      "target_gene": "CHD1",
+      "target_column": "CHD1 (1105)",
+      "exposure_definition": "damaging matrix value >= 1",
+      "Avana": {"damaging": 94, "matrix_intact": 881, "mixed_lineages": 19, "planning_power": 0.8500},
+      "KY": {"damaging": 38, "matrix_intact": 277, "mixed_lineages": 11, "planning_power": 0.5396},
+      "decision": "not_selected_secondary_freshness_and_same_source_feasibility_profile",
+      "primary_source": "https://www.nature.com/articles/nature21357"
+    },
+    {
+      "status_gene": "FOCAD",
+      "status_column": "FOCAD (54914)",
+      "target_gene": "PELO",
+      "target_column": "PELO (53918)",
+      "exposure_definition": "damaging matrix value >= 1",
+      "Avana": {"damaging": 6, "matrix_intact": 969, "mixed_lineages": 5},
+      "KY": {"damaging": 4, "matrix_intact": 311, "mixed_lineages": 3},
+      "decision": "not_selected_matrix_exposure_inadequate_for_frozen_context_gate",
+      "primary_source": "https://www.nature.com/articles/s41586-024-08509-3"
+    }
+  ],
+  "design_model": {
+    "normal_mean_shift": -0.358286909243,
+    "null_permutations": 100000,
+    "alternative_simulations": 10000,
+    "planning_power_seeds": {"Avana": 20262500, "KY": 20262600},
+    "canonical_roster_sha256": "df50a72ac86b161e16ebc5a2eb2b2f5c8d35151d94da4046c375f5ab0f603bb5",
+    "design_receipt_path": "experiments/EXP-20260822-025/design_census_receipt.json",
+    "critical_quantile": "numpy_linear_05",
+    "rejection_rule": "alternative_delta <= critical_delta",
+    "confirmatory_power_threshold": 0.8,
+    "frozen_label": "FEASIBILITY_ONLY"
+  },
+  "literature_search": {
+    "searched_at": "2026-08-22",
+    "primary_sources": [
+      "https://www.nature.com/articles/s41586-024-08509-3",
+      "https://www.nature.com/articles/s41586-024-08398-6"
+    ],
+    "selection_note": "The primary Nature study identifies PELO dependency in biallelic 9p21.3-deleted or MSI-H cancers and experimentally identifies FOCAD loss as the 9p21.3 driver. It notes CDKN2A as a key driver of many 9p21.3 deletions but also emphasizes neighboring-gene contributions. EXP025 tests only a matrix-defined CDKN2A damaging proxy against source-specific PELO knockout dependency; it does not claim 9p21.3 deletion, FOCAD loss, MSI-H biology, mechanistic causality, inhibitor response, treatment benefit, or clinical utility."
+  }
+}
