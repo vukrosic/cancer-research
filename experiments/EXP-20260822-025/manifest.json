@@ -37,12 +37,12 @@
   "uv_lock_sha256": "d09301a2eff28d69c3e0b504d4cdae5ed21c1e451efb92e60f360ebf047106dd",
   "implementation_boundary": {
     "required_base_commit": "b903b994a040965a88067a9fd27c2eb8c3da8e95",
-    "implementation_commit": "e16e06f1cb946b7d3e1afbd01b771144d4d76bc5",
+    "implementation_commit": "d491092b63cb508c67cccd6f10276b7b914b1cb0",
     "implementation_module": "src/candrel/cdkn2a_pelo_replication.py",
     "engine_module": "src/candrel/tp53_mdm2_replication.py",
     "project_file": "pyproject.toml",
     "modules": [
-      {"path": "src/candrel/cdkn2a_pelo_replication.py", "sha256": "08047d213bd7b9595ebbffdc44419c6524c3bcdefc12dda8937e5371dffc2a0d"},
+      {"path": "src/candrel/cdkn2a_pelo_replication.py", "sha256": "522a8a40505567b3ef160ff98844e06d5d4ac708b9ecc7453958a2ad41c2fe21"},
       {"path": "src/candrel/tp53_mdm2_replication.py", "sha256": "8c2bda37783d193bd0f948d4c4cfc4608dccba49d8d0c16aeba640cbac1c4164"},
       {"path": "pyproject.toml", "sha256": "3d941c33519bcfcdba4300c703cb9419ba199317387814a1dd4ede6007e3300c"}
     ]
