@@ -1,0 +1,88 @@
+{
+  "census_id": "EXP018-candidate-shortlist-20260822",
+  "census_at": "2026-08-22T17:24:00+02:00",
+  "purpose": "Outcome-free selection of a distinct CDKN2A-status-to-TYMS-dependency direction",
+  "endpoint_values_opened": false,
+  "endpoint_access": "ScreenNaiveGeneScore.csv header identity only; no TYMS score row or target value parsed",
+  "eligibility_rule": "PassesQC == True, CanInclude == True, Library in {Avana, KY}, exact ScreenID-to-ModelID map, nonblank eligible OncotreeLineage",
+  "status_rule": "matrix values restricted to {0,1,2}; primary exposure is CDKN2A damaging value >= 1 and reference is CDKN2A matrix value == 0",
+  "inputs": {
+    "screen_qc_sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407",
+    "screen_map_sha256": "1e2bf9075600cd049dafc385866991523c65806657f3c8bd71afde3fe00ee9ad",
+    "model_sha256": "6b77a73209ce3faaa7442dbd947d8e08ddcb08b538c36fe820163f9cff321341",
+    "damaging_matrix_sha256": "aea4d970c0876afb90d2dc0e2709ff28be5a84e4e246f3a5a31faaba0fbc47e3",
+    "endpoint_header_sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721"
+  },
+  "candidate_shortlist": [
+    {
+      "status_gene": "CDKN2A",
+      "status_column": "CDKN2A (1029)",
+      "target_gene": "TYMS",
+      "target_column": "TYMS (7298)",
+      "exposure_definition": "damaging matrix value >= 1",
+      "Avana": {"damaging": 110, "intact": 865, "mixed_lineages": 19, "planning_power": 0.8954},
+      "KY": {"damaging": 37, "intact": 278, "mixed_lineages": 11, "planning_power": 0.5364},
+      "decision": "selected_best_feasible_candidate_but_feasibility_only",
+      "primary_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8401190/"
+    },
+    {
+      "status_gene": "PTEN",
+      "status_column": "PTEN (5728)",
+      "target_gene": "PIK3CB",
+      "target_column": "PIK3CB (5291)",
+      "exposure_definition": "damaging matrix value >= 1",
+      "Avana": {"damaging": 94, "intact": 881, "mixed_lineages": 19, "planning_power": 0.8522},
+      "KY": {"damaging": 38, "intact": 277, "mixed_lineages": 11, "planning_power": 0.5445},
+      "decision": "not_selected_less_direct_current_shortlist_support",
+      "primary_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2529105/"
+    },
+    {
+      "status_gene": "BRCA2",
+      "status_column": "BRCA2 (675)",
+      "target_gene": "POLQ",
+      "target_column": "POLQ (10721)",
+      "exposure_definition": "damaging matrix value >= 1",
+      "Avana": {"damaging": 29, "intact": 946, "mixed_lineages": 13},
+      "KY": {"damaging": 17, "intact": 298, "mixed_lineages": 8},
+      "decision": "not_selected_KY_exposure_context_gate",
+      "primary_source": "https://doi.org/10.1038/nature14184"
+    },
+    {
+      "status_gene": "RB1",
+      "status_column": "RB1 (5925)",
+      "target_gene": "E2F3",
+      "target_column": "E2F3 (1871)",
+      "exposure_definition": "damaging matrix value >= 1",
+      "Avana": {"damaging": 57, "intact": 918, "mixed_lineages": 13},
+      "KY": {"damaging": 18, "intact": 297, "mixed_lineages": 9},
+      "decision": "not_selected_KY_exposure_context_gate"
+    },
+    {
+      "status_gene": "PBRM1",
+      "status_column": "PBRM1 (55193)",
+      "target_gene": "EZH2",
+      "target_column": "EZH2 (2146)",
+      "exposure_definition": "damaging matrix value >= 1",
+      "Avana": {"damaging": 32, "intact": 943, "mixed_lineages": 13},
+      "KY": {"damaging": 11, "intact": 304, "mixed_lineages": 6},
+      "decision": "not_selected_KY_exposure_context_gate"
+    }
+  ],
+  "design_model": {
+    "normal_mean_shift": -0.358286909243,
+    "null_permutations": 100000,
+    "alternative_simulations": 10000,
+    "planning_power_seeds": {"Avana": 20261800, "KY": 20261900},
+    "canonical_roster_sha256": "df50a72ac86b161e16ebc5a2eb2b2f5c8d35151d94da4046c375f5ab0f603bb5",
+    "design_receipt_path": "experiments/EXP-20260822-018/design_census_receipt.json",
+    "design_receipt_normalized_sha256": "528294bb9cbe70081edc3d05e985bd992ea0c605656c283b5a4ed53794b97402",
+    "critical_quantile": "numpy_linear_05",
+    "rejection_rule": "alternative_delta <= critical_delta",
+    "confirmatory_power_threshold": 0.8
+  },
+  "literature_search": {
+    "searched_at": "2026-08-22",
+    "primary_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8401190/",
+    "selection_note": "A primary DepMap-linked study identified and experimentally tested CDKN2A-deficiency/TYMS vulnerability, including genetic and isogenic validation; the present experiment tests cross-screen reliability of the matrix-defined proxy and does not claim deletion, biallelic loss, functional status, or treatment benefit."
+  }
+}
