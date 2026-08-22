@@ -29,6 +29,7 @@ candrel-paralog-replication = "candrel.paralog_replication:main"
 candrel-arid1a-replication = "candrel.arid1a_replication:main"
 candrel-arid1a-keap1-replication = "candrel.arid1a_keap1_replication:main"
 candrel-tp53-mdm2-replication = "candrel.tp53_mdm2_replication:main"
+candrel-cdkn2a-tyms-replication = "candrel.cdkn2a_tyms_replication:main"
 
 [build-system]
 requires = ["hatchling"]
