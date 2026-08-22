@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import argparse
+from functools import wraps
 import hashlib
 import json
 import os
@@ -44,6 +45,42 @@ IntegrityError = base.IntegrityError
 T0Stop = base.T0Stop
 Context = base.Context
 
+_BASE_CONFIGURATION_KEYS = (
+    "EXPERIMENT_ID",
+    "PAIR_ID",
+    "STATUS_COLUMN",
+    "TARGET_COLUMN",
+    "EXPECTED_HASHES",
+    "EXPECTED_SOURCE_MODELS",
+    "EXPECTED_STATUS_COUNTS",
+    "EXPECTED_MIXED_LINEAGES",
+    "DESIGN_SEEDS",
+    "INFERENCE_SEEDS",
+    "EXPOSED",
+    "REFERENCE",
+    "MIN_EXPOSED",
+    "MIN_REFERENCE",
+    "EXPECTED_ROSTER_SHA256",
+    "EXPECTED_DESIGN_RECEIPT_NORMALIZED_SHA256",
+)
+
+
+def _preserve_base_globals(function):
+    @wraps(function)
+    def wrapped(*args, **kwargs):
+        saved = {key: getattr(base, key) for key in _BASE_CONFIGURATION_KEYS if hasattr(base, key)}
+        created = [key for key in _BASE_CONFIGURATION_KEYS if not hasattr(base, key)]
+        try:
+            return function(*args, **kwargs)
+        finally:
+            for key, value in saved.items():
+                setattr(base, key, value)
+            for key in created:
+                if hasattr(base, key):
+                    delattr(base, key)
+
+    return wrapped
+
 
 def _configure_base() -> None:
     base.EXPERIMENT_ID = EXPERIMENT_ID
@@ -80,6 +117,7 @@ def git_blob_sha256(commit: str, path: str) -> str:
     return base.git_blob_sha256(commit, path)
 
 
+@_preserve_base_globals
 def verify_implementation_boundary(manifest_path: Path) -> dict[str, object]:
     _configure_base()
     try:
@@ -131,41 +169,49 @@ def verify_implementation_boundary(manifest_path: Path) -> dict[str, object]:
     return manifest
 
 
+@_preserve_base_globals
 def load_context(qc_path: Path, screen_map_path: Path, model_path: Path, damaging_path: Path):
     _configure_base()
     return base.load_context(qc_path, screen_map_path, model_path, damaging_path)
 
 
+@_preserve_base_globals
 def grouped_contexts(contexts: Sequence[Context], source: str):
     _configure_base()
     return base.grouped_contexts(contexts, source)
 
 
+@_preserve_base_globals
 def design_sensitivity(contexts: Sequence[Context], source: str, rng: np.random.Generator):
     _configure_base()
     return base.design_sensitivity(contexts, source, rng)
 
 
+@_preserve_base_globals
 def inference_for(contexts: Sequence[Context], scores: dict[tuple[str, str], float], source: str, rng: np.random.Generator):
     _configure_base()
     return base.inference_for(contexts, scores, source, rng)
 
 
+@_preserve_base_globals
 def verify_endpoint_hash(path: Path) -> None:
     _configure_base()
     return base.verify_endpoint_hash(path)
 
 
+@_preserve_base_globals
 def load_endpoint(path: Path, contexts: Sequence[Context]):
     _configure_base()
     return base.load_endpoint(path, contexts)
 
 
+@_preserve_base_globals
 def write_context_ledger(path: Path, contexts: Sequence[Context]) -> None:
     _configure_base()
     return base.write_context_ledger(path, contexts)
 
 
+@_preserve_base_globals
 def run(args: argparse.Namespace, stage: Path) -> dict[str, object]:
     _configure_base()
     manifest = verify_implementation_boundary(Path(args.manifest_file))

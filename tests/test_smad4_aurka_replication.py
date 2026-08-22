@@ -3,6 +3,7 @@ from pathlib import Path
 import pytest
 
 from candrel import tp53_mdm2_replication as engine
+from candrel import smad4_brd4_replication as base
 from candrel.smad4_aurka_replication import ANALYSIS_EXPOSED, ANALYSIS_REFERENCE, Context, T0Stop, grouped_contexts, verify_endpoint_hash
 
 
@@ -17,6 +18,12 @@ def test_wrapper_restores_engine_globals_after_configuration():
     before = (engine.EXPERIMENT_ID, engine.PAIR_ID, engine.STATUS_COLUMN, engine.TARGET_COLUMN)
     grouped_contexts([], "Avana")
     assert (engine.EXPERIMENT_ID, engine.PAIR_ID, engine.STATUS_COLUMN, engine.TARGET_COLUMN) == before
+
+
+def test_wrapper_restores_base_globals_after_configuration():
+    before = (base.EXPERIMENT_ID, base.PAIR_ID, base.STATUS_COLUMN, base.TARGET_COLUMN)
+    grouped_contexts([], "Avana")
+    assert (base.EXPERIMENT_ID, base.PAIR_ID, base.STATUS_COLUMN, base.TARGET_COLUMN) == before
 
 
 def test_endpoint_hash_stop_is_pre_value(tmp_path: Path):
