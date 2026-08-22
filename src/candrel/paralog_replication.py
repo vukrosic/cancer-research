@@ -144,7 +144,7 @@ def load_model_lineages(path: Path) -> tuple[dict[str, str], str]:
         for row in reader:
             model_id = row["ModelID"].strip()
             lineage = row["OncotreeLineage"].strip()
-            if not model_id or model_id in lineages or not lineage:
+            if not model_id or model_id in lineages:
                 raise IntegrityError(f"invalid Model.csv identity: {model_id}")
             lineages[model_id] = lineage
     return lineages, actual
@@ -229,6 +229,8 @@ def load_context(
             model_id = row["ModelID"].strip()
             if screen_id in seen_screens or not model_id or model_id not in lineages:
                 raise IntegrityError(f"invalid eligible screen identity: {screen_id}")
+            if not lineages[model_id]:
+                raise IntegrityError(f"missing lineage for eligible ModelID: {model_id}")
             if screen_map.get(screen_id) != model_id:
                 raise IntegrityError(f"screen map mismatch: {screen_id}")
             seen_screens.add(screen_id)
