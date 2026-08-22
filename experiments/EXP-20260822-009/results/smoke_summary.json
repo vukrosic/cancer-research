@@ -1,0 +1,94 @@
+{
+  "adequacy": {
+    "adequate": true,
+    "count_field_relationship": {
+      "differing_records": 3,
+      "included_greater_than_passing_records": 3
+    },
+    "exposure_structure": {
+      "nIncludedSequences": {
+        "Large Intestine": {
+          "distinct_exposure_values": 6,
+          "largest_tie": 7,
+          "n": 17,
+          "nonzero_exposures": 17
+        },
+        "Ovary": {
+          "distinct_exposure_values": 5,
+          "largest_tie": 7,
+          "n": 17,
+          "nonzero_exposures": 17
+        }
+      },
+      "nPassingSequences": {
+        "Large Intestine": {
+          "distinct_exposure_values": 6,
+          "largest_tie": 7,
+          "n": 17,
+          "nonzero_exposures": 17
+        },
+        "Ovary": {
+          "distinct_exposure_values": 5,
+          "largest_tie": 7,
+          "n": 17,
+          "nonzero_exposures": 17
+        }
+      }
+    },
+    "full_model_source_records": 103,
+    "paired_by_tissue": {
+      "Large Intestine": 17,
+      "Ovary": 17
+    },
+    "paired_models": 34,
+    "unique_screen_ids": 103
+  },
+  "analysis_type": "preregistered_derived_observational_analysis_after_endpoint_unsealing",
+  "bootstrap_repeats_per_field": 200,
+  "claim_boundary": "descriptive observational association, not causal explanation",
+  "experiment_id": "EXP-20260822-009",
+  "input_receipt": {
+    "cohort_file_sha256": "2bc84868962b35c55e456aeb953429206e97c9b25f648b5deabe5a1488e60b67",
+    "gap_file_sha256_after_adequacy": "f2dc22d9c26f937413b612ae4924f1965c837e480a805c1ff0b7b0c5d8b3cd4a",
+    "model_file_sha256": "072dd2775d4e3bfaa480cd70639cc799c1e5914b2e9cc5213328383557680654",
+    "qc_file_sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407"
+  },
+  "overall_pass": false,
+  "permutation_repeats_per_field": 200,
+  "primary": {
+    "bootstrap_ci_95": [
+      -0.21491713308238383,
+      0.35582948585097035
+    ],
+    "field": "nIncludedSequences",
+    "permutation_p_one_sided": 0.4079601990049751,
+    "theta_equal_tissue_mean_spearman": 0.06671341673377815,
+    "tissue_spearman": {
+      "Large Intestine": -0.36793605950083325,
+      "Ovary": 0.5013628929683895
+    }
+  },
+  "primary_gates": {
+    "no_tissue_below_minus_0_20": false,
+    "permutation_p_at_most_0_05": false,
+    "point_target_theta_at_least_0_40": false,
+    "practical_ci_lower_above_0_10": false
+  },
+  "seed_per_field": 20260829,
+  "sensitivity": {
+    "bootstrap_ci_95": [
+      -0.2022419766501622,
+      0.3584852997663143
+    ],
+    "can_rescue_primary_failure": false,
+    "field": "nPassingSequences",
+    "independent_corroboration": false,
+    "permutation_p_one_sided": 0.373134328358209,
+    "theta_equal_tissue_mean_spearman": 0.07103286769288833,
+    "tissue_spearman": {
+      "Large Intestine": -0.36793605950083325,
+      "Ovary": 0.5100017948866099
+    }
+  },
+  "status": "FAIL_SEQUENCE_INCLUSION_ASSOCIATION"
+}
