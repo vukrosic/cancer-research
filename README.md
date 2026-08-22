@@ -21,7 +21,7 @@ uncertainty and artifact controls?
 
 ## Current phase
 
-Thirteen bounded experiments are complete:
+Fourteen bounded experiments are complete:
 
 - `EXP-20260822-001` passed the API engineering gate: all eight frozen genes had 177
   paired Broad/Sanger models and positive source correlations.
@@ -85,6 +85,12 @@ Thirteen bounded experiments are complete:
   the fixed-rank bootstrap 95% interval was [-0.1697, 0.5334]. The tissue-rho
   floor gate passed, but the positive-association claim did not. Growth rate was
   descriptive only; no growth p-value or confidence interval was computed.
+- `EXP-20260822-014` was labeled **FEASIBILITY_ONLY**, not a confirmatory
+  replication: matrix-defined damaging STAG2 status versus STAG1 dependency was
+  strongly negative in Avana (delta -0.4709) and KY (delta -0.6413), but the
+  pre-outcome simulated powers were 0.5070 and 0.2406, and Avana failed the
+  frozen lineage-consistency gate. The known interaction is not claimed as newly
+  discovered or clinically actionable.
 
 A label-only provenance audit found that the CRC-only cohort has only 7 MSI Broad
 models, below the independently proposed minimum of 8. That CRC-only gate remains a
@@ -106,6 +112,7 @@ uv run candrel-wrn-guide-loo  # expected exit 1; frozen baseline reconstruction 
 uv run candrel-wrn-sequence-semantics  # expected pass; 103-score semantics audit
 uv run candrel-wrn-guide-loo-passing  # expected exit 2; 5/10 robustness criterion failed
 uv run candrel-wrn-process-association  # expected exit 2; efficacy association gates failed
+uv run candrel-paralog-replication  # expected exit 2; feasibility-only/non-confirmatory result
 ```
 
 Raw API responses are cached under `data/raw/` and excluded from Git. Every run

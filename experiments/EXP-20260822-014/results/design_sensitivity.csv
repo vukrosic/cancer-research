@@ -1,0 +1,5 @@
+pair_id,source,loss_models,intact_models,contributing_lineages,expected_delta,normal_mean_shift,null_permutations,alternative_simulations,null_lower_05_critical_delta,simulated_power_for_permutation_gate,confirmatory_power_adequate
+STAG2_to_STAG1,Avana,31,944,13,-0.2,-0.3582869092425833,100000,10000,-0.19973544973544974,0.507,False
+STAG2_to_STAG1,KY,9,306,6,-0.2,-0.3582869092425833,100000,10000,-0.3632286995515695,0.2406,False
+PDS5B_to_PDS5A,Avana,23,952,11,-0.2,-0.3582869092425833,100000,10000,-0.23373493975903614,0.4126,False
+PDS5B_to_PDS5A,KY,12,303,8,-0.2,-0.3582869092425833,100000,10000,-0.3252032520325203,0.2673,False

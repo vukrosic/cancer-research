@@ -8,10 +8,10 @@ orthogonal experimental validation.
 
 ## Current milestone
 
-Preserve the audited EXP-013 negative same-assay process-association result, then
-select a distinct outcome-blind gene-specific or assay-kinetic direction. Do not
-rescue EXP-013 with its descriptive growth companion, tissue subgroups, or another
-post hoc combination.
+Preserve EXP-014 as a feasibility-only, non-confirmatory paralog-status result,
+then select the next distinct outcome-blind dependency direction. Do not upgrade
+EXP-014 to confirmatory status, and do not rescue it with the secondary PDS5B pair,
+source pooling, or post hoc lineage exclusions.
 
 ## Program success
 
