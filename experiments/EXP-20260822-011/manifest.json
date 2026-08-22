@@ -1,0 +1,68 @@
+{
+  "experiment_id": "EXP-20260822-011",
+  "parent_id": "EXP-20260822-010",
+  "frozen_at": "2026-08-22T13:34:46+02:00",
+  "analysis_type": "post_failure_single_candidate_pipeline_semantics_audit",
+  "entrypoint": "uv run candrel-wrn-sequence-semantics",
+  "parent_commit": "e18f8b115963c904577223254647fa04464abc3a",
+  "parent_is_immutable_fail_t0": true,
+  "parent_artifacts": {
+    "preregistration_sha256": "6e43ed8144f3ae5aa489be76dd244f0c88e359d9274520af504aa52cd5671382",
+    "failure_receipt_sha256": "e199e3d8bcbe960721292044de6204bd9317908dfc8fcf859deabd43beb4b3f5",
+    "result_sha256": "e0d4edba97bf6683070158f00dbe786941e4509f8c010f8ffda4d25bd2268b21",
+    "prior_mismatch_count": 3,
+    "prior_mismatch_model_source": [
+      "ACH-000680|Avana",
+      "ACH-000719|KY",
+      "ACH-000663|Avana"
+    ]
+  },
+  "large_inputs": {
+    "AvanaLogfoldChange.csv": {
+      "size": 3173505617,
+      "md5": "58b1f479091a9f8b3e858d69d55413c4",
+      "sha256": "f018d7ff6820af6d0bb095f1e2b405ec31d7a744a1e4c019cfd9f3509e63bdee"
+    },
+    "KYLogfoldChange.csv": {
+      "size": 1585769082,
+      "md5": "c711c9413b63fe7c55b734e43cdeca91",
+      "sha256": "5b03df4b4affda1f0ed36f2bd564e1cbd53ec443b20e60295cad577677874767"
+    }
+  },
+  "inputs": {
+    "avana_guide_map_sha256": "5580f89d2bbd26d25cf107c6441dcc30774a333385e104e83e1212ca16ec99a2",
+    "ky_guide_map_sha256": "23bafc0d2f88b25727af8e2f5d0245495c39243163fb465ceffc9755c012c4b0",
+    "screen_sequence_map_sha256": "e4b99b4a6cd48c3957c5ada2abeeed1e1de319fe26526e76de6088ec73704c0b",
+    "screen_qc_sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407",
+    "naive_gene_scores_sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721",
+    "denominator_extract_sha256": "072dd2775d4e3bfaa480cd70639cc799c1e5914b2e9cc5213328383557680654"
+  },
+  "retention_rule": {
+    "sequence_PassesQC": "True",
+    "ExcludeFromCRISPRCombined": "False",
+    "retained_count_must_equal": "nPassingSequences"
+  },
+  "full_denominator_counts": {
+    "Avana|Large Intestine": 25,
+    "KY|Large Intestine": 30,
+    "Avana|Ovary": 22,
+    "KY|Ovary": 26,
+    "total_source_screens": 103
+  },
+  "eligible_guide_counts": {
+    "Avana": 4,
+    "KY": 5
+  },
+  "absolute_tolerance": 1e-8,
+  "relative_tolerance": 0,
+  "required_passing_comparisons": 103,
+  "forbidden_inputs_and_analyses": [
+    "EXP-005 gap file",
+    "guide omissions",
+    "dependency ranks or percentiles",
+    "robustness statistics",
+    "fallback candidate rules"
+  ],
+  "expected_output": "experiments/EXP-20260822-011/results/summary.json",
+  "code_commit_before_implementation": "e18f8b115963c904577223254647fa04464abc3a"
+}

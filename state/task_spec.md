@@ -8,9 +8,9 @@ orthogonal experimental validation.
 
 ## Current milestone
 
-Execute the frozen EXP-010 exhaustive single-guide-omission robustness audit,
-preserve its result regardless of direction, and use it to determine whether the
-previously flagged WRN gaps are stable to one eligible guide at a time.
+Execute the frozen EXP-011 post-failure passing-sequence semantics audit without
+modifying EXP-010 or computing guide omissions, and require 103/103 exact baseline
+reconstructions before any future robustness experiment is considered.
 
 ## Program success
 
