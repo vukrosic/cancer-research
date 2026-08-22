@@ -21,7 +21,7 @@ uncertainty and artifact controls?
 
 ## Current phase
 
-Eighteen bounded experiments are complete:
+Nineteen bounded experiments are complete:
 
 - `EXP-20260822-001` passed the API engineering gate: all eight frozen genes had 177
   paired Broad/Sanger models and positive source correlations.
@@ -118,6 +118,13 @@ Eighteen bounded experiments are complete:
   lineage gates, KY failed effect, permutation, bootstrap, and lineage gates,
   and KY planning power was only `0.5364`. No reliable biomarker, functional-loss,
   TYMP, treatment, clinical, or confirmatory claim is permitted.
+- `EXP-20260822-019` is **T1 descriptive association only; not T2/confirmatory**
+  and is labeled **FEASIBILITY_ONLY_NOMINAL_GATE_FAILURE**. The damaging-matrix
+  PTEN-to-PIK3CB direction was negative in Avana (delta `-0.2803`) but failed
+  lineage consistency; KY was near zero (delta `-0.0066`, p `0.4831`) and failed
+  effect, permutation, bootstrap, and lineage gates. KY planning power was only
+  `0.5375`. This does not support a general PTEN-to-PIK3CB dependency claim or
+  any PTEN-null, inhibitor, treatment, clinical, or confirmatory claim.
 
 A label-only provenance audit found that the CRC-only cohort has only 7 MSI Broad
 models, below the independently proposed minimum of 8. That CRC-only gate remains a
@@ -144,6 +151,7 @@ uv run candrel-arid1a-replication  # expected exit 2; feasibility-only nominal g
 uv run candrel-arid1a-keap1-replication  # expected exit 2; protocol-deviation/non-confirmatory result
 uv run candrel-tp53-mdm2-replication  # expected exit 2; T1 feasibility-only lineage-gate failure
 uv run candrel-cdkn2a-tyms-replication  # expected exit 2; T1 feasibility-only nominal-gate failure
+uv run candrel-pten-pik3cb-replication  # expected exit 2; T1 feasibility-only cross-source failure
 ```
 
 Raw API responses are cached under `data/raw/` and excluded from Git. Every run

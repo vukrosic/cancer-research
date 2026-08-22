@@ -15,7 +15,10 @@ TP53-matrix-intact/MDM2 result, and EXP-018 as a **T1 descriptive association
 only; not T2/confirmatory** CDKN2A-damaging/TYMS result. EXP-017's Avana
 lineage-consistency failure and KY planning power below 0.80, plus EXP-018's
 failed source-specific nominal gates and KY planning power of 0.5364, are
-permanent claim boundaries. Select the next distinct outcome-blind dependency
+permanent claim boundaries. EXP-019 is a **T1 descriptive association only; not
+T2/confirmatory** PTEN-damaging/PIK3CB result: Avana was negative but failed
+lineage consistency, while KY was near zero and failed the effect, permutation,
+bootstrap, and lineage gates. Select the next distinct outcome-blind dependency
 direction after release. Do not pool Avana and KY, rescue failed lineages with
 post hoc exclusions, or change thresholds to upgrade any experiment. Keep the
 EXP-014 boundary immutable.

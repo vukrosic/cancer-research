@@ -1,0 +1,177 @@
+{
+  "analysis_label": "FEASIBILITY_ONLY",
+  "analysis_type": "preregistered_source_specific_lineage_stratified_pten_pik3cb_replication",
+  "artifact_receipt_sha256": {
+    "context_ledger.csv": "48bf8b95574dc6b79acdb31acbb08cbc9166ffd4c04de600142df9c03baaa11b",
+    "design_sensitivity.csv": "f849c280dc056c2192ca1c3ac4bfd0256944bac48a661006ddb76f277648a963",
+    "endpoint_scores.csv": "85d0a72e00b8f43a39970efd8e94069dee84dabceb9bd9589079ed7061b54982",
+    "inference.csv": "bc8fbd40ea92e8ce84bfaa8c85d5d8e5dd7415d9e4f95505dc021c95cb124ee1",
+    "summary.json": "bef5b62da8d93a9c3ab4aeec3e8ab3dde0ce1b311e28dba6507505ec53e1ec40"
+  },
+  "claim_boundary": "damaging-matrix PTEN status association with source-specific PIK3CB dependency in frozen 23Q4 screen cohorts; no PTEN-null, biallelic functional-loss, protein-loss, copy-number, inhibitor, treatment, clinical, or confirmatory claim",
+  "claim_eligibility": {
+    "design_sensitivity_label": "FEASIBILITY_ONLY",
+    "nominal_primary_gates_pass": false,
+    "primary_confirmatory": false
+  },
+  "confirmatory_claim": false,
+  "context_receipt": {
+    "canonical_roster_sha256": "73222b7a148f333399d580107e1ab64672b0920678f3a2a9789b3440f9c2d953",
+    "context_ledger_sha256": "48bf8b95574dc6b79acdb31acbb08cbc9166ffd4c04de600142df9c03baaa11b",
+    "damaging_sha256": "aea4d970c0876afb90d2dc0e2709ff28be5a84e4e246f3a5a31faaba0fbc47e3",
+    "eligible_screens": 1292,
+    "eligible_source_models": {
+      "Avana": 975,
+      "KY": 315
+    },
+    "mixed_lineages": {
+      "Avana": 19,
+      "KY": 11
+    },
+    "model_sha256": "6b77a73209ce3faaa7442dbd947d8e08ddcb08b538c36fe820163f9cff321341",
+    "screen_map_sha256": "1e2bf9075600cd049dafc385866991523c65806657f3c8bd71afde3fe00ee9ad",
+    "screen_qc_sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407",
+    "status_column": "PTEN (5728)",
+    "status_counts": {
+      "Avana": {
+        "damaging": 94,
+        "matrix_intact": 881
+      },
+      "KY": {
+        "damaging": 38,
+        "matrix_intact": 277
+      }
+    },
+    "status_threshold": 1,
+    "unique_model_ids": 1098
+  },
+  "design_sensitivity": {
+    "all_primary_sources_power_adequate": false,
+    "confirmatory_claim_enabled": false,
+    "design_sensitivity_sha256": "f849c280dc056c2192ca1c3ac4bfd0256944bac48a661006ddb76f277648a963",
+    "frozen_label": "FEASIBILITY_ONLY",
+    "minimum_confirmatory_power": 0.8
+  },
+  "endpoint_receipt": {
+    "eligible_screens_expected": 1292,
+    "eligible_screens_seen": 1292,
+    "median_collapse": true,
+    "model_values": 1290,
+    "sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721"
+  },
+  "experiment_id": "EXP-20260822-019",
+  "implementation_receipt": {
+    "engine_module": "src/candrel/tp53_mdm2_replication.py",
+    "implementation_commit": "98a9ee33a7346175f3354b7f304b9542e0c20269",
+    "implementation_module": "src/candrel/pten_pik3cb_replication.py",
+    "manifest_path": "experiments/EXP-20260822-019/manifest.json",
+    "required_base_commit": "d061a93c239e48944e8fec3d54f6b4ae0460224c",
+    "uv_lock_sha256": "d09301a2eff28d69c3e0b504d4cdae5ed21c1e451efb92e60f360ebf047106dd"
+  },
+  "inference_receipt": {
+    "bootstrap_interval": "percentile_95_linear_quantile",
+    "bootstraps": 10000,
+    "cross_source_raw_score_comparison": false,
+    "design_seeds": {
+      "Avana": 20261900,
+      "KY": 20262000
+    },
+    "inference_seeds": {
+      "Avana": 20271900,
+      "KY": 20272000
+    },
+    "permutations": 100000,
+    "unit": "collapsed_source_model_id"
+  },
+  "overall_pass": false,
+  "pre_endpoint_receipt": {
+    "context_ledger_sha256": "48bf8b95574dc6b79acdb31acbb08cbc9166ffd4c04de600142df9c03baaa11b",
+    "design_sensitivity_sha256": "f849c280dc056c2192ca1c3ac4bfd0256944bac48a661006ddb76f277648a963",
+    "experiment_id": "EXP-20260822-019",
+    "receipt_sha256": "db091d171a2b1856beed7da67ad316d5661fc78d4253ebc1c11593328cd85758",
+    "sealed_before_endpoint": true
+  },
+  "primary": [
+    {
+      "bootstrap_ci_95_percentile": [
+        -0.395464739596312,
+        -0.15723897333665587
+      ],
+      "bootstrap_repeats": 10000,
+      "delta": -0.28033889857961625,
+      "gates": {
+        "at_least_5_negative_lineages": true,
+        "bootstrap_upper_lt_0": true,
+        "delta_le_minus_0_20": true,
+        "delta_lt_0": true,
+        "no_lineage_delta_gt_plus_0_20": false,
+        "permutation_p_le_0_05": true
+      },
+      "lineage_deltas": {
+        "Biliary Tract": -0.7419354838709677,
+        "Bladder/Urinary Tract": -0.21839080459770116,
+        "Bowel": 0.4728682170542636,
+        "Breast": -0.7747747747747747,
+        "CNS/Brain": -0.115,
+        "Cervix": 1.0,
+        "Esophagus/Stomach": -0.4019607843137255,
+        "Head and Neck": -0.34615384615384615,
+        "Kidney": -0.532258064516129,
+        "Liver": -0.9130434782608695,
+        "Lung": -0.358974358974359,
+        "Lymphoid": -0.7085714285714285,
+        "Myeloid": -0.06060606060606061,
+        "Ovary/Fallopian Tube": 0.06046511627906977,
+        "Pancreas": -0.21052631578947367,
+        "Prostate": -1.0,
+        "Skin": -0.65,
+        "Thyroid": 0.1111111111111111,
+        "Uterus": 0.29464285714285715
+      },
+      "pair_count": 4013,
+      "pair_id": "PTEN_damaging_to_PIK3CB",
+      "pass": false,
+      "permutation_extreme_count": 11,
+      "permutation_p_one_sided_lower": 0.00011999880001199988,
+      "permutation_repeats": 100000,
+      "source": "Avana"
+    },
+    {
+      "bootstrap_ci_95_percentile": [
+        -0.21532364597093792,
+        0.202113606340819
+      ],
+      "bootstrap_repeats": 10000,
+      "delta": -0.0066050198150594455,
+      "gates": {
+        "at_least_5_negative_lineages": true,
+        "bootstrap_upper_lt_0": false,
+        "delta_le_minus_0_20": false,
+        "delta_lt_0": true,
+        "no_lineage_delta_gt_plus_0_20": false,
+        "permutation_p_le_0_05": false
+      },
+      "lineage_deltas": {
+        "Bowel": 0.008,
+        "Breast": -0.8,
+        "CNS/Brain": 0.3412698412698413,
+        "Esophagus/Stomach": 0.32432432432432434,
+        "Head and Neck": -0.0625,
+        "Lung": -0.4594594594594595,
+        "Lymphoid": -0.25,
+        "Ovary/Fallopian Tube": -0.06,
+        "Prostate": -1.0,
+        "Skin": -1.0,
+        "Uterus": -0.125
+      },
+      "pair_count": 757,
+      "pair_id": "PTEN_damaging_to_PIK3CB",
+      "pass": false,
+      "permutation_extreme_count": 48307,
+      "permutation_p_one_sided_lower": 0.4830751692483075,
+      "permutation_repeats": 100000,
+      "source": "KY"
+    }
+  ],
+  "status": "FEASIBILITY_ONLY_NOMINAL_GATE_FAILURE"
+}

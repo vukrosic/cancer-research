@@ -35,3 +35,24 @@ The frozen question, candidate census, thresholds, and claim boundary must not
 be rewritten after endpoint access. Any implementation deviation must be
 recorded as a deviation and cannot be silently repaired by changing the
 preregistration.
+
+## Implementation receipt
+
+The runner is bound by manifest `experiments/EXP-20260822-019/manifest.json`.
+The implementation commit is `98a9ee33a7346175f3354b7f304b9542e0c20269`, based
+on the outcome-blind selection seal commit
+`d061a93c239e48944e8fec3d54f6b4ae0460224c`. The independent pre-endpoint audit
+returned **GO** at manifest commit
+`776d4564b46cf64a436abd2c5ea53647e4ba1e8c`; no endpoint values were opened by
+that audit.
+
+## Execution receipt
+
+The bound runner completed the frozen protocol with `1292` eligible screens and
+`1290` source/model units. The complete result bundle is in `results/`; endpoint
+access occurred only after the sealed context and design receipts. The terminal
+result is `FEASIBILITY_ONLY_NOMINAL_GATE_FAILURE`, with
+`confirmatory_claim: false` and `overall_pass: false`. Avana failed lineage
+consistency despite a negative aggregate delta; KY was near zero and failed
+effect, permutation, bootstrap, and lineage gates. Exact receipt and artifact
+hashes are in `execution_log.md` and `result.md`.

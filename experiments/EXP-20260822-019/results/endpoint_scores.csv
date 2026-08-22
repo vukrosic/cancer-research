@@ -1,0 +1,1291 @@
+pair_id,source,model_id,lineage,status,target_score
+PTEN_damaging_to_PIK3CB,Avana,ACH-000004,Myeloid,matrix_intact,0.115386237275394
+PTEN_damaging_to_PIK3CB,Avana,ACH-000005,Myeloid,matrix_intact,-0.16128461805566902
+PTEN_damaging_to_PIK3CB,Avana,ACH-000007,Bowel,matrix_intact,-0.008553356007461398
+PTEN_damaging_to_PIK3CB,Avana,ACH-000009,Bowel,matrix_intact,-0.3405151974849424
+PTEN_damaging_to_PIK3CB,Avana,ACH-000011,Bladder/Urinary Tract,matrix_intact,-0.05247329846388379
+PTEN_damaging_to_PIK3CB,Avana,ACH-000012,Lung,matrix_intact,0.16398404178942805
+PTEN_damaging_to_PIK3CB,Avana,ACH-000013,Ovary/Fallopian Tube,matrix_intact,-0.4030365154423613
+PTEN_damaging_to_PIK3CB,Avana,ACH-000015,Lung,matrix_intact,-0.21884952079188436
+PTEN_damaging_to_PIK3CB,Avana,ACH-000017,Breast,matrix_intact,0.027496940182770963
+PTEN_damaging_to_PIK3CB,Avana,ACH-000018,Bladder/Urinary Tract,matrix_intact,-0.07340379371808987
+PTEN_damaging_to_PIK3CB,Avana,ACH-000019,Breast,matrix_intact,0.15582633231441717
+PTEN_damaging_to_PIK3CB,Avana,ACH-000021,Lung,matrix_intact,0.11105668941730482
+PTEN_damaging_to_PIK3CB,Avana,ACH-000022,Pancreas,matrix_intact,0.02916101056014767
+PTEN_damaging_to_PIK3CB,Avana,ACH-000024,Lymphoid,matrix_intact,0.2636270987931103
+PTEN_damaging_to_PIK3CB,Avana,ACH-000025,CNS/Brain,damaging,-0.1155481376941987
+PTEN_damaging_to_PIK3CB,Avana,ACH-000028,Breast,matrix_intact,0.19843303995194977
+PTEN_damaging_to_PIK3CB,Avana,ACH-000029,Lung,matrix_intact,-0.09028572473537003
+PTEN_damaging_to_PIK3CB,Avana,ACH-000030,Lung,matrix_intact,-0.14086244018225855
+PTEN_damaging_to_PIK3CB,Avana,ACH-000035,Lung,matrix_intact,-0.18333081974592125
+PTEN_damaging_to_PIK3CB,Avana,ACH-000036,CNS/Brain,damaging,-0.6593892092953215
+PTEN_damaging_to_PIK3CB,Avana,ACH-000037,Soft Tissue,matrix_intact,-0.00760380120611745
+PTEN_damaging_to_PIK3CB,Avana,ACH-000039,Bone,matrix_intact,-0.1656193245012865
+PTEN_damaging_to_PIK3CB,Avana,ACH-000040,CNS/Brain,damaging,-0.24176021896901329
+PTEN_damaging_to_PIK3CB,Avana,ACH-000041,Bone,matrix_intact,0.32517195704028223
+PTEN_damaging_to_PIK3CB,Avana,ACH-000042,Pancreas,matrix_intact,-0.12499668951776388
+PTEN_damaging_to_PIK3CB,Avana,ACH-000045,Myeloid,matrix_intact,0.1619242075019765
+PTEN_damaging_to_PIK3CB,Avana,ACH-000047,Esophagus/Stomach,matrix_intact,-0.2995599914141244
+PTEN_damaging_to_PIK3CB,Avana,ACH-000048,Ovary/Fallopian Tube,matrix_intact,-0.041886661445579954
+PTEN_damaging_to_PIK3CB,Avana,ACH-000052,Bone,matrix_intact,-0.1792710550111276
+PTEN_damaging_to_PIK3CB,Avana,ACH-000053,Lymphoid,matrix_intact,-0.06719936761326853
+PTEN_damaging_to_PIK3CB,Avana,ACH-000054,Soft Tissue,matrix_intact,-0.1725718781234864
+PTEN_damaging_to_PIK3CB,Avana,ACH-000055,CNS/Brain,matrix_intact,0.4809824027574965
+PTEN_damaging_to_PIK3CB,Avana,ACH-000060,Pancreas,matrix_intact,-0.4955022434758928
+PTEN_damaging_to_PIK3CB,Avana,ACH-000067,CNS/Brain,matrix_intact,-0.6518005930701989
+PTEN_damaging_to_PIK3CB,Avana,ACH-000070,Lymphoid,matrix_intact,-0.06370542063900785
+PTEN_damaging_to_PIK3CB,Avana,ACH-000074,Myeloid,matrix_intact,0.10251151425520141
+PTEN_damaging_to_PIK3CB,Avana,ACH-000075,CNS/Brain,damaging,-0.4634779803312052
+PTEN_damaging_to_PIK3CB,Avana,ACH-000076,Myeloid,matrix_intact,-0.43873644559167246
+PTEN_damaging_to_PIK3CB,Avana,ACH-000077,Lymphoid,matrix_intact,-0.06989526915540306
+PTEN_damaging_to_PIK3CB,Avana,ACH-000078,Peripheral Nervous System,matrix_intact,0.19320435874536201
+PTEN_damaging_to_PIK3CB,Avana,ACH-000082,Bone,matrix_intact,-0.040732755239663056
+PTEN_damaging_to_PIK3CB,Avana,ACH-000085,Pancreas,matrix_intact,0.042630842679475575
+PTEN_damaging_to_PIK3CB,Avana,ACH-000086,Pleura,matrix_intact,-0.24219806729130922
+PTEN_damaging_to_PIK3CB,Avana,ACH-000090,Prostate,matrix_intact,-0.2161211284546444
+PTEN_damaging_to_PIK3CB,Avana,ACH-000092,Pleura,matrix_intact,-1.029867859638478
+PTEN_damaging_to_PIK3CB,Avana,ACH-000093,Pancreas,matrix_intact,0.26226066191416875
+PTEN_damaging_to_PIK3CB,Avana,ACH-000095,CNS/Brain,matrix_intact,-0.17401167560925956
+PTEN_damaging_to_PIK3CB,Avana,ACH-000097,Breast,damaging,-1.3503968237743043
+PTEN_damaging_to_PIK3CB,Avana,ACH-000098,CNS/Brain,matrix_intact,-0.2517240356967706
+PTEN_damaging_to_PIK3CB,Avana,ACH-000099,Peripheral Nervous System,matrix_intact,0.42572592003818666
+PTEN_damaging_to_PIK3CB,Avana,ACH-000101,Lymphoid,matrix_intact,0.44449296897843515
+PTEN_damaging_to_PIK3CB,Avana,ACH-000108,Pancreas,matrix_intact,-0.35454176781462404
+PTEN_damaging_to_PIK3CB,Avana,ACH-000111,Breast,matrix_intact,-1.0324030976099898
+PTEN_damaging_to_PIK3CB,Avana,ACH-000113,Myeloid,matrix_intact,-0.18078671460692058
+PTEN_damaging_to_PIK3CB,Avana,ACH-000114,Pancreas,matrix_intact,0.2480826083712451
+PTEN_damaging_to_PIK3CB,Avana,ACH-000115,Prostate,matrix_intact,0.127260682598529
+PTEN_damaging_to_PIK3CB,Avana,ACH-000118,Pancreas,matrix_intact,-0.26660973297823504
+PTEN_damaging_to_PIK3CB,Avana,ACH-000120,Peripheral Nervous System,matrix_intact,0.10401937709682148
+PTEN_damaging_to_PIK3CB,Avana,ACH-000123,Ovary/Fallopian Tube,matrix_intact,0.08294028663587447
+PTEN_damaging_to_PIK3CB,Avana,ACH-000127,Bladder/Urinary Tract,matrix_intact,-0.235795345598821
+PTEN_damaging_to_PIK3CB,Avana,ACH-000128,CNS/Brain,damaging,0.13548460758746741
+PTEN_damaging_to_PIK3CB,Avana,ACH-000132,Ovary/Fallopian Tube,matrix_intact,-0.38310237087220145
+PTEN_damaging_to_PIK3CB,Avana,ACH-000133,Soft Tissue,matrix_intact,-0.1501212627790562
+PTEN_damaging_to_PIK3CB,Avana,ACH-000137,CNS/Brain,damaging,-0.05921174344483708
+PTEN_damaging_to_PIK3CB,Avana,ACH-000138,Pancreas,matrix_intact,-0.20320789554917573
+PTEN_damaging_to_PIK3CB,Avana,ACH-000141,Biliary Tract,matrix_intact,-0.27310735971478073
+PTEN_damaging_to_PIK3CB,Avana,ACH-000142,Bladder/Urinary Tract,matrix_intact,0.10714979904038648
+PTEN_damaging_to_PIK3CB,Avana,ACH-000143,Lung,matrix_intact,-0.3810307080243721
+PTEN_damaging_to_PIK3CB,Avana,ACH-000145,Soft Tissue,matrix_intact,-0.18967427369625506
+PTEN_damaging_to_PIK3CB,Avana,ACH-000146,Myeloid,matrix_intact,0.05137763786944125
+PTEN_damaging_to_PIK3CB,Avana,ACH-000147,Breast,matrix_intact,0.21185733696275885
+PTEN_damaging_to_PIK3CB,Avana,ACH-000148,Breast,matrix_intact,-0.15507323816879767
+PTEN_damaging_to_PIK3CB,Avana,ACH-000151,Lymphoid,matrix_intact,0.19424928054799473
+PTEN_damaging_to_PIK3CB,Avana,ACH-000152,CNS/Brain,damaging,-0.21331481200289557
+PTEN_damaging_to_PIK3CB,Avana,ACH-000153,Pleura,matrix_intact,0.02106415211039453
+PTEN_damaging_to_PIK3CB,Avana,ACH-000159,Kidney,damaging,-0.7843564811395143
+PTEN_damaging_to_PIK3CB,Avana,ACH-000160,CNS/Brain,matrix_intact,0.2758195572008725
+PTEN_damaging_to_PIK3CB,Avana,ACH-000161,Lung,matrix_intact,-0.09627552630039736
+PTEN_damaging_to_PIK3CB,Avana,ACH-000163,Head and Neck,matrix_intact,-0.13297914994725468
+PTEN_damaging_to_PIK3CB,Avana,ACH-000164,Pancreas,matrix_intact,0.28659320898573837
+PTEN_damaging_to_PIK3CB,Avana,ACH-000168,Myeloid,matrix_intact,0.12648577349202222
+PTEN_damaging_to_PIK3CB,Avana,ACH-000169,Soft Tissue,matrix_intact,-0.06893943352030885
+PTEN_damaging_to_PIK3CB,Avana,ACH-000174,Thyroid,matrix_intact,-0.4933838404909676
+PTEN_damaging_to_PIK3CB,Avana,ACH-000178,Pancreas,matrix_intact,-0.6558572459546865
+PTEN_damaging_to_PIK3CB,Avana,ACH-000182,Ampulla of Vater,matrix_intact,-0.06221861372501275
+PTEN_damaging_to_PIK3CB,Avana,ACH-000183,Lymphoid,matrix_intact,0.1198838121245399
+PTEN_damaging_to_PIK3CB,Avana,ACH-000187,Lung,matrix_intact,0.20458433770000709
+PTEN_damaging_to_PIK3CB,Avana,ACH-000188,Head and Neck,matrix_intact,-0.26573170966344495
+PTEN_damaging_to_PIK3CB,Avana,ACH-000189,Kidney,matrix_intact,0.18453967206936378
+PTEN_damaging_to_PIK3CB,Avana,ACH-000190,Myeloid,matrix_intact,-0.10217921307597685
+PTEN_damaging_to_PIK3CB,Avana,ACH-000191,Thyroid,matrix_intact,-0.2084353106460428
+PTEN_damaging_to_PIK3CB,Avana,ACH-000195,Myeloid,matrix_intact,-0.11884129498747108
+PTEN_damaging_to_PIK3CB,Avana,ACH-000198,Myeloid,matrix_intact,0.23631618737186336
+PTEN_damaging_to_PIK3CB,Avana,ACH-000200,CNS/Brain,matrix_intact,-0.25965777155876146
+PTEN_damaging_to_PIK3CB,Avana,ACH-000202,Bowel,matrix_intact,0.041573819344637664
+PTEN_damaging_to_PIK3CB,Avana,ACH-000204,Lymphoid,matrix_intact,0.12047178441042798
+PTEN_damaging_to_PIK3CB,Avana,ACH-000206,Lymphoid,matrix_intact,0.05355577408360723
+PTEN_damaging_to_PIK3CB,Avana,ACH-000207,Head and Neck,matrix_intact,-0.006487930794371238
+PTEN_damaging_to_PIK3CB,Avana,ACH-000209,Biliary Tract,matrix_intact,0.05055999912105455
+PTEN_damaging_to_PIK3CB,Avana,ACH-000211,CNS/Brain,matrix_intact,0.08738073250674065
+PTEN_damaging_to_PIK3CB,Avana,ACH-000212,Breast,matrix_intact,-0.7536231945795087
+PTEN_damaging_to_PIK3CB,Avana,ACH-000215,CNS/Brain,damaging,0.12926620707591188
+PTEN_damaging_to_PIK3CB,Avana,ACH-000216,Esophagus/Stomach,matrix_intact,-0.35369331363038453
+PTEN_damaging_to_PIK3CB,Avana,ACH-000217,Liver,matrix_intact,-0.022392519001027386
+PTEN_damaging_to_PIK3CB,Avana,ACH-000219,Skin,matrix_intact,-0.04663389907589498
+PTEN_damaging_to_PIK3CB,Avana,ACH-000221,Liver,matrix_intact,0.11059603226307987
+PTEN_damaging_to_PIK3CB,Avana,ACH-000222,Pancreas,matrix_intact,-0.1872741087075709
+PTEN_damaging_to_PIK3CB,Avana,ACH-000223,Breast,matrix_intact,-0.36779965306191087
+PTEN_damaging_to_PIK3CB,Avana,ACH-000226,Lymphoid,matrix_intact,0.12102081459887559
+PTEN_damaging_to_PIK3CB,Avana,ACH-000227,Peripheral Nervous System,matrix_intact,-0.05715020472845733
+PTEN_damaging_to_PIK3CB,Avana,ACH-000228,Head and Neck,matrix_intact,-0.4754988101378026
+PTEN_damaging_to_PIK3CB,Avana,ACH-000231,CNS/Brain,damaging,-0.7475692622819441
+PTEN_damaging_to_PIK3CB,Avana,ACH-000232,CNS/Brain,damaging,-1.7902251090191013
+PTEN_damaging_to_PIK3CB,Avana,ACH-000233,Lymphoid,matrix_intact,0.07387475717026692
+PTEN_damaging_to_PIK3CB,Avana,ACH-000234,Kidney,matrix_intact,-0.1700077592146174
+PTEN_damaging_to_PIK3CB,Avana,ACH-000235,Pancreas,matrix_intact,-0.15960627259471494
+PTEN_damaging_to_PIK3CB,Avana,ACH-000237,Ovary/Fallopian Tube,damaging,-0.002831816052660502
+PTEN_damaging_to_PIK3CB,Avana,ACH-000238,Head and Neck,matrix_intact,0.2246578904876638
+PTEN_damaging_to_PIK3CB,Avana,ACH-000243,Pancreas,matrix_intact,-0.03224110293638313
+PTEN_damaging_to_PIK3CB,Avana,ACH-000244,CNS/Brain,damaging,-0.07474804595853747
+PTEN_damaging_to_PIK3CB,Avana,ACH-000246,Kidney,matrix_intact,-0.8931333863708542
+PTEN_damaging_to_PIK3CB,Avana,ACH-000247,Esophagus/Stomach,matrix_intact,-0.3418701699388953
+PTEN_damaging_to_PIK3CB,Avana,ACH-000248,Breast,matrix_intact,-0.16496336898591552
+PTEN_damaging_to_PIK3CB,Avana,ACH-000250,Kidney,matrix_intact,-0.27570294225218406
+PTEN_damaging_to_PIK3CB,Avana,ACH-000251,Lung,matrix_intact,-0.22921676761438015
+PTEN_damaging_to_PIK3CB,Avana,ACH-000252,Bowel,matrix_intact,0.03205406589969738
+PTEN_damaging_to_PIK3CB,Avana,ACH-000253,Bowel,matrix_intact,-0.17696475277183366
+PTEN_damaging_to_PIK3CB,Avana,ACH-000255,Esophagus/Stomach,matrix_intact,-0.06640528766127529
+PTEN_damaging_to_PIK3CB,Avana,ACH-000256,Ovary/Fallopian Tube,matrix_intact,-0.3164734852312004
+PTEN_damaging_to_PIK3CB,Avana,ACH-000257,Lung,matrix_intact,-0.8721513030100796
+PTEN_damaging_to_PIK3CB,Avana,ACH-000258,Breast,matrix_intact,0.12927076375853414
+PTEN_damaging_to_PIK3CB,Avana,ACH-000259,Peripheral Nervous System,matrix_intact,-0.1609592081227164
+PTEN_damaging_to_PIK3CB,Avana,ACH-000260,Peripheral Nervous System,matrix_intact,-0.0511566150846085
+PTEN_damaging_to_PIK3CB,Avana,ACH-000261,Lung,matrix_intact,-0.37496269246371394
+PTEN_damaging_to_PIK3CB,Avana,ACH-000262,Kidney,damaging,-0.4274165430066157
+PTEN_damaging_to_PIK3CB,Avana,ACH-000263,Myeloid,matrix_intact,0.020012957492757423
+PTEN_damaging_to_PIK3CB,Avana,ACH-000264,Lung,matrix_intact,0.25038344631522724
+PTEN_damaging_to_PIK3CB,Avana,ACH-000265,Pancreas,matrix_intact,0.25200385130471026
+PTEN_damaging_to_PIK3CB,Avana,ACH-000266,Pancreas,matrix_intact,-0.11037858781165671
+PTEN_damaging_to_PIK3CB,Avana,ACH-000272,Kidney,matrix_intact,-0.37175937786387603
+PTEN_damaging_to_PIK3CB,Avana,ACH-000273,CNS/Brain,matrix_intact,-0.04859935314113836
+PTEN_damaging_to_PIK3CB,Avana,ACH-000274,Skin,matrix_intact,0.28316792195838403
+PTEN_damaging_to_PIK3CB,Avana,ACH-000276,Breast,matrix_intact,-0.7717720654343365
+PTEN_damaging_to_PIK3CB,Avana,ACH-000277,Breast,matrix_intact,0.0016345333868597323
+PTEN_damaging_to_PIK3CB,Avana,ACH-000278,Ovary/Fallopian Tube,matrix_intact,-0.12987067582482634
+PTEN_damaging_to_PIK3CB,Avana,ACH-000279,Bone,matrix_intact,-0.10885616602812083
+PTEN_damaging_to_PIK3CB,Avana,ACH-000280,Ovary/Fallopian Tube,matrix_intact,0.36902552937097755
+PTEN_damaging_to_PIK3CB,Avana,ACH-000281,Pancreas,matrix_intact,0.04841813013229683
+PTEN_damaging_to_PIK3CB,Avana,ACH-000286,Bowel,matrix_intact,0.19352185704720526
+PTEN_damaging_to_PIK3CB,Avana,ACH-000288,Breast,damaging,-0.9989663688893529
+PTEN_damaging_to_PIK3CB,Avana,ACH-000290,Lung,matrix_intact,0.12456933210706073
+PTEN_damaging_to_PIK3CB,Avana,ACH-000291,Ovary/Fallopian Tube,matrix_intact,-0.1881021207190945
+PTEN_damaging_to_PIK3CB,Avana,ACH-000292,Lung,matrix_intact,0.23999580945353033
+PTEN_damaging_to_PIK3CB,Avana,ACH-000293,Uterus,matrix_intact,0.004651241129070477
+PTEN_damaging_to_PIK3CB,Avana,ACH-000294,Myeloid,matrix_intact,0.037134136431326716
+PTEN_damaging_to_PIK3CB,Avana,ACH-000295,Myeloid,matrix_intact,-0.001982204379081173
+PTEN_damaging_to_PIK3CB,Avana,ACH-000296,Bowel,matrix_intact,-0.8684590833403631
+PTEN_damaging_to_PIK3CB,Avana,ACH-000302,Uterus,matrix_intact,-0.18996473928205976
+PTEN_damaging_to_PIK3CB,Avana,ACH-000303,Esophagus/Stomach,matrix_intact,-0.28748795745273537
+PTEN_damaging_to_PIK3CB,Avana,ACH-000304,Skin,matrix_intact,-0.5724128656271938
+PTEN_damaging_to_PIK3CB,Avana,ACH-000305,Esophagus/Stomach,matrix_intact,-0.21124737139455485
+PTEN_damaging_to_PIK3CB,Avana,ACH-000307,Pancreas,matrix_intact,-0.16505614341437047
+PTEN_damaging_to_PIK3CB,Avana,ACH-000308,Ovary/Fallopian Tube,matrix_intact,-0.5339277279037535
+PTEN_damaging_to_PIK3CB,Avana,ACH-000310,Peripheral Nervous System,matrix_intact,0.09064653455133911
+PTEN_damaging_to_PIK3CB,Avana,ACH-000311,Lung,matrix_intact,-0.14948252838094042
+PTEN_damaging_to_PIK3CB,Avana,ACH-000312,Peripheral Nervous System,matrix_intact,0.017105873740978488
+PTEN_damaging_to_PIK3CB,Avana,ACH-000313,Kidney,matrix_intact,-0.751842500038399
+PTEN_damaging_to_PIK3CB,Avana,ACH-000315,Lymphoid,damaging,-0.6134667963371063
+PTEN_damaging_to_PIK3CB,Avana,ACH-000316,Liver,matrix_intact,-0.3338804965053588
+PTEN_damaging_to_PIK3CB,Avana,ACH-000317,Kidney,matrix_intact,-0.2669980043582277
+PTEN_damaging_to_PIK3CB,Avana,ACH-000318,Esophagus/Stomach,matrix_intact,0.05555318267542879
+PTEN_damaging_to_PIK3CB,Avana,ACH-000319,Pleura,matrix_intact,-0.035483040710802785
+PTEN_damaging_to_PIK3CB,Avana,ACH-000320,Pancreas,matrix_intact,-0.07393241104659748
+PTEN_damaging_to_PIK3CB,Avana,ACH-000322,Skin,matrix_intact,-0.2723876502158648
+PTEN_damaging_to_PIK3CB,Avana,ACH-000323,CNS/Brain,damaging,-0.3232203822591199
+PTEN_damaging_to_PIK3CB,Avana,ACH-000324,Ovary/Fallopian Tube,matrix_intact,0.20119953035987148
+PTEN_damaging_to_PIK3CB,Avana,ACH-000325,Esophagus/Stomach,matrix_intact,-0.1879966511272726
+PTEN_damaging_to_PIK3CB,Avana,ACH-000326,Myeloid,matrix_intact,0.036428080095499984
+PTEN_damaging_to_PIK3CB,Avana,ACH-000329,CNS/Brain,damaging,0.14540975981051296
+PTEN_damaging_to_PIK3CB,Avana,ACH-000330,Breast,matrix_intact,0.25724966216568523
+PTEN_damaging_to_PIK3CB,Avana,ACH-000331,Pleura,matrix_intact,-0.4859169947675492
+PTEN_damaging_to_PIK3CB,Avana,ACH-000332,Pancreas,matrix_intact,0.05370539582993559
+PTEN_damaging_to_PIK3CB,Avana,ACH-000334,Lymphoid,matrix_intact,0.06381239320969956
+PTEN_damaging_to_PIK3CB,Avana,ACH-000335,Pleura,matrix_intact,-0.4468017620372237
+PTEN_damaging_to_PIK3CB,Avana,ACH-000336,Myeloid,matrix_intact,0.10069297967714838
+PTEN_damaging_to_PIK3CB,Avana,ACH-000337,Lung,matrix_intact,0.014829801285361904
+PTEN_damaging_to_PIK3CB,Avana,ACH-000339,Lung,damaging,-0.3027820922135336
+PTEN_damaging_to_PIK3CB,Avana,ACH-000341,Peripheral Nervous System,matrix_intact,-0.062176989013324656
+PTEN_damaging_to_PIK3CB,Avana,ACH-000343,Lung,matrix_intact,-0.19774255487397602
+PTEN_damaging_to_PIK3CB,Avana,ACH-000344,Esophagus/Stomach,matrix_intact,-0.23338447579297042
+PTEN_damaging_to_PIK3CB,Avana,ACH-000346,Lymphoid,matrix_intact,0.05266862645180939
+PTEN_damaging_to_PIK3CB,Avana,ACH-000348,Skin,matrix_intact,-0.3203101828347923
+PTEN_damaging_to_PIK3CB,Avana,ACH-000350,Bowel,matrix_intact,0.06155646463617612
+PTEN_damaging_to_PIK3CB,Avana,ACH-000352,Breast,matrix_intact,-0.24761546402810308
+PTEN_damaging_to_PIK3CB,Avana,ACH-000355,Lung,matrix_intact,0.06946017924978687
+PTEN_damaging_to_PIK3CB,Avana,ACH-000356,Esophagus/Stomach,matrix_intact,0.008101142334158207
+PTEN_damaging_to_PIK3CB,Avana,ACH-000359,Bone,matrix_intact,0.2104889538973929
+PTEN_damaging_to_PIK3CB,Avana,ACH-000361,Liver,matrix_intact,-0.6476771241741357
+PTEN_damaging_to_PIK3CB,Avana,ACH-000362,Myeloid,matrix_intact,-0.05666194462753213
+PTEN_damaging_to_PIK3CB,Avana,ACH-000363,Lymphoid,matrix_intact,-0.19812959326608306
+PTEN_damaging_to_PIK3CB,Avana,ACH-000364,Bone,matrix_intact,0.12793178393902027
+PTEN_damaging_to_PIK3CB,Avana,ACH-000365,Lymphoid,matrix_intact,-0.31981887805979525
+PTEN_damaging_to_PIK3CB,Avana,ACH-000366,Peripheral Nervous System,matrix_intact,0.02310224397785637
+PTEN_damaging_to_PIK3CB,Avana,ACH-000368,CNS/Brain,matrix_intact,-0.37922336954810687
+PTEN_damaging_to_PIK3CB,Avana,ACH-000370,CNS/Brain,damaging,-0.30423392798496707
+PTEN_damaging_to_PIK3CB,Avana,ACH-000371,Lymphoid,damaging,-0.3851744511618439
+PTEN_damaging_to_PIK3CB,Avana,ACH-000374,Breast,matrix_intact,-0.17843606331282258
+PTEN_damaging_to_PIK3CB,Avana,ACH-000375,Kidney,matrix_intact,0.1464570221285118
+PTEN_damaging_to_PIK3CB,Avana,ACH-000376,CNS/Brain,damaging,-0.8154024263926649
+PTEN_damaging_to_PIK3CB,Avana,ACH-000377,Ampulla of Vater,matrix_intact,-0.4345852075947464
+PTEN_damaging_to_PIK3CB,Avana,ACH-000378,Lung,matrix_intact,0.045054141981083304
+PTEN_damaging_to_PIK3CB,Avana,ACH-000381,Bowel,matrix_intact,-0.05438074868730452
+PTEN_damaging_to_PIK3CB,Avana,ACH-000383,Esophagus/Stomach,matrix_intact,0.009381479138624194
+PTEN_damaging_to_PIK3CB,Avana,ACH-000385,Kidney,matrix_intact,-0.5291945755141576
+PTEN_damaging_to_PIK3CB,Avana,ACH-000387,Myeloid,matrix_intact,-0.04027166529812444
+PTEN_damaging_to_PIK3CB,Avana,ACH-000389,CNS/Brain,matrix_intact,-0.5466870160438546
+PTEN_damaging_to_PIK3CB,Avana,ACH-000390,Lung,matrix_intact,0.28543442349538645
+PTEN_damaging_to_PIK3CB,Avana,ACH-000391,Bone,matrix_intact,-0.009077019548963457
+PTEN_damaging_to_PIK3CB,Avana,ACH-000393,Liver,matrix_intact,0.1130000663856699
+PTEN_damaging_to_PIK3CB,Avana,ACH-000395,Lung,matrix_intact,-0.2044503650181806
+PTEN_damaging_to_PIK3CB,Avana,ACH-000396,Bladder/Urinary Tract,matrix_intact,0.20359783181538843
+PTEN_damaging_to_PIK3CB,Avana,ACH-000397,Uterus,matrix_intact,0.25510100736380326
+PTEN_damaging_to_PIK3CB,Avana,ACH-000398,Lymphoid,matrix_intact,0.07522810369170424
+PTEN_damaging_to_PIK3CB,Avana,ACH-000401,Skin,matrix_intact,-0.2729422551769672
+PTEN_damaging_to_PIK3CB,Avana,ACH-000402,Lymphoid,matrix_intact,-0.21155615889657756
+PTEN_damaging_to_PIK3CB,Avana,ACH-000403,Bowel,matrix_intact,-0.10153234819682344
+PTEN_damaging_to_PIK3CB,Avana,ACH-000404,Skin,matrix_intact,-0.3324103890446731
+PTEN_damaging_to_PIK3CB,Avana,ACH-000405,Lymphoid,matrix_intact,0.11646518410382528
+PTEN_damaging_to_PIK3CB,Avana,ACH-000406,Myeloid,damaging,0.003722121771004578
+PTEN_damaging_to_PIK3CB,Avana,ACH-000407,Uterus,matrix_intact,-0.11992677899642953
+PTEN_damaging_to_PIK3CB,Avana,ACH-000408,Esophagus/Stomach,matrix_intact,-0.011473538406541986
+PTEN_damaging_to_PIK3CB,Avana,ACH-000410,Bone,matrix_intact,0.010621076635273313
+PTEN_damaging_to_PIK3CB,Avana,ACH-000411,Kidney,matrix_intact,-0.00031281471090853497
+PTEN_damaging_to_PIK3CB,Avana,ACH-000414,Lung,matrix_intact,0.06422461116984482
+PTEN_damaging_to_PIK3CB,Avana,ACH-000415,Head and Neck,matrix_intact,0.34742769196663714
+PTEN_damaging_to_PIK3CB,Avana,ACH-000416,Lung,matrix_intact,0.16428006571657147
+PTEN_damaging_to_PIK3CB,Avana,ACH-000417,Pancreas,matrix_intact,0.030948721429530295
+PTEN_damaging_to_PIK3CB,Avana,ACH-000420,Liver,damaging,-0.5677926028804436
+PTEN_damaging_to_PIK3CB,Avana,ACH-000421,Bowel,matrix_intact,-0.06296010765226999
+PTEN_damaging_to_PIK3CB,Avana,ACH-000422,Liver,matrix_intact,-0.19834207694155773
+PTEN_damaging_to_PIK3CB,Avana,ACH-000424,Bone,matrix_intact,-0.20916227183495067
+PTEN_damaging_to_PIK3CB,Avana,ACH-000425,Skin,damaging,-1.1299236832403836
+PTEN_damaging_to_PIK3CB,Avana,ACH-000426,Lymphoid,matrix_intact,0.25263637656791005
+PTEN_damaging_to_PIK3CB,Avana,ACH-000427,Esophagus/Stomach,matrix_intact,-0.15087497558552204
+PTEN_damaging_to_PIK3CB,Avana,ACH-000431,Lung,matrix_intact,-0.17193996756498636
+PTEN_damaging_to_PIK3CB,Avana,ACH-000433,Kidney,matrix_intact,-0.3546142265431751
+PTEN_damaging_to_PIK3CB,Avana,ACH-000434,Lung,matrix_intact,0.23977213748278056
+PTEN_damaging_to_PIK3CB,Avana,ACH-000435,Uterus,matrix_intact,-0.14939800165190584
+PTEN_damaging_to_PIK3CB,Avana,ACH-000436,Lymphoid,matrix_intact,0.06583016222056556
+PTEN_damaging_to_PIK3CB,Avana,ACH-000437,CNS/Brain,matrix_intact,-0.9399877253825872
+PTEN_damaging_to_PIK3CB,Avana,ACH-000438,Lung,matrix_intact,0.16843115682959425
+PTEN_damaging_to_PIK3CB,Avana,ACH-000441,Skin,matrix_intact,0.07330066290786079
+PTEN_damaging_to_PIK3CB,Avana,ACH-000444,Lung,matrix_intact,-0.08884565279766177
+PTEN_damaging_to_PIK3CB,Avana,ACH-000445,CNS/Brain,matrix_intact,-0.6493987292802208
+PTEN_damaging_to_PIK3CB,Avana,ACH-000448,Lung,matrix_intact,0.006109993243907031
+PTEN_damaging_to_PIK3CB,Avana,ACH-000450,Skin,damaging,-0.4668012565128289
+PTEN_damaging_to_PIK3CB,Avana,ACH-000452,Esophagus/Stomach,matrix_intact,0.005086359371006584
+PTEN_damaging_to_PIK3CB,Avana,ACH-000454,Lung,matrix_intact,-0.1884035853626288
+PTEN_damaging_to_PIK3CB,Avana,ACH-000455,CNS/Brain,matrix_intact,0.14615501423385296
+PTEN_damaging_to_PIK3CB,Avana,ACH-000456,Thyroid,matrix_intact,-0.08456945223871101
+PTEN_damaging_to_PIK3CB,Avana,ACH-000458,Skin,matrix_intact,-0.09269157892042519
+PTEN_damaging_to_PIK3CB,Avana,ACH-000459,Kidney,matrix_intact,-0.2347837628038451
+PTEN_damaging_to_PIK3CB,Avana,ACH-000460,Ovary/Fallopian Tube,matrix_intact,-0.1320349682115225
+PTEN_damaging_to_PIK3CB,Avana,ACH-000461,Biliary Tract,matrix_intact,0.11097980999441688
+PTEN_damaging_to_PIK3CB,Avana,ACH-000463,Lung,matrix_intact,-0.05672644480200877
+PTEN_damaging_to_PIK3CB,Avana,ACH-000464,CNS/Brain,damaging,-0.21613229659645627
+PTEN_damaging_to_PIK3CB,Avana,ACH-000466,Esophagus/Stomach,matrix_intact,-0.12504080706454782
+PTEN_damaging_to_PIK3CB,Avana,ACH-000467,Bowel,matrix_intact,0.024914209297512462
+PTEN_damaging_to_PIK3CB,Avana,ACH-000468,Pancreas,matrix_intact,-0.15957489160078323
+PTEN_damaging_to_PIK3CB,Avana,ACH-000469,CNS/Brain,matrix_intact,-0.48846879204440347
+PTEN_damaging_to_PIK3CB,Avana,ACH-000470,Bowel,matrix_intact,0.04095109502330686
+PTEN_damaging_to_PIK3CB,Avana,ACH-000471,Liver,matrix_intact,0.026890096127151493
+PTEN_damaging_to_PIK3CB,Avana,ACH-000472,Head and Neck,matrix_intact,0.10331256839669142
+PTEN_damaging_to_PIK3CB,Avana,ACH-000473,Bladder/Urinary Tract,matrix_intact,0.0907530559645856
+PTEN_damaging_to_PIK3CB,Avana,ACH-000475,Liver,matrix_intact,-0.055879615107383235
+PTEN_damaging_to_PIK3CB,Avana,ACH-000476,Liver,matrix_intact,-0.08067255333049189
+PTEN_damaging_to_PIK3CB,Avana,ACH-000477,Skin,matrix_intact,-0.2280049584422561
+PTEN_damaging_to_PIK3CB,Avana,ACH-000478,Liver,matrix_intact,-0.3259247174765129
+PTEN_damaging_to_PIK3CB,Avana,ACH-000479,CNS/Brain,matrix_intact,0.03687520772676754
+PTEN_damaging_to_PIK3CB,Avana,ACH-000480,Liver,matrix_intact,-0.09178717262031771
+PTEN_damaging_to_PIK3CB,Avana,ACH-000481,Lung,matrix_intact,0.11610625971508699
+PTEN_damaging_to_PIK3CB,Avana,ACH-000483,Liver,matrix_intact,-0.05058310959484698
+PTEN_damaging_to_PIK3CB,Avana,ACH-000484,Kidney,matrix_intact,0.02677375606900162
+PTEN_damaging_to_PIK3CB,Avana,ACH-000485,Esophagus/Stomach,matrix_intact,-0.46728692682067047
+PTEN_damaging_to_PIK3CB,Avana,ACH-000486,Bladder/Urinary Tract,matrix_intact,0.168909831045319
+PTEN_damaging_to_PIK3CB,Avana,ACH-000487,Myeloid,matrix_intact,-0.1730504976016105
+PTEN_damaging_to_PIK3CB,Avana,ACH-000488,Esophagus/Stomach,matrix_intact,-0.31090093210555425
+PTEN_damaging_to_PIK3CB,Avana,ACH-000489,Bowel,matrix_intact,-0.3200005718120719
+PTEN_damaging_to_PIK3CB,Avana,ACH-000490,Cervix,matrix_intact,-0.047476469218722964
+PTEN_damaging_to_PIK3CB,Avana,ACH-000491,Bowel,matrix_intact,0.22009009421369927
+PTEN_damaging_to_PIK3CB,Avana,ACH-000493,Liver,matrix_intact,0.08055648643390705
+PTEN_damaging_to_PIK3CB,Avana,ACH-000495,Kidney,matrix_intact,-0.07305763846378713
+PTEN_damaging_to_PIK3CB,Avana,ACH-000496,Lung,matrix_intact,-0.21543538524538253
+PTEN_damaging_to_PIK3CB,Avana,ACH-000499,Bone,matrix_intact,0.033360050272567436
+PTEN_damaging_to_PIK3CB,Avana,ACH-000500,Head and Neck,matrix_intact,0.07129639978162844
+PTEN_damaging_to_PIK3CB,Avana,ACH-000502,Pancreas,matrix_intact,-0.11019884142230142
+PTEN_damaging_to_PIK3CB,Avana,ACH-000503,Head and Neck,matrix_intact,-0.22255553537474435
+PTEN_damaging_to_PIK3CB,Avana,ACH-000504,CNS/Brain,matrix_intact,-0.7548482212360192
+PTEN_damaging_to_PIK3CB,Avana,ACH-000505,Soft Tissue,matrix_intact,-0.053512429083642746
+PTEN_damaging_to_PIK3CB,Avana,ACH-000507,Esophagus/Stomach,matrix_intact,-0.04592200411452556
+PTEN_damaging_to_PIK3CB,Avana,ACH-000510,Lung,matrix_intact,0.11385389171478816
+PTEN_damaging_to_PIK3CB,Avana,ACH-000511,Lung,matrix_intact,-0.2446331642813798
+PTEN_damaging_to_PIK3CB,Avana,ACH-000512,Lymphoid,matrix_intact,0.027320019453555666
+PTEN_damaging_to_PIK3CB,Avana,ACH-000514,Lung,matrix_intact,-0.09042960018984164
+PTEN_damaging_to_PIK3CB,Avana,ACH-000516,Bone,matrix_intact,0.056622358289671215
+PTEN_damaging_to_PIK3CB,Avana,ACH-000517,Pancreas,matrix_intact,0.010594710778215782
+PTEN_damaging_to_PIK3CB,Avana,ACH-000518,Head and Neck,matrix_intact,0.14469611427073223
+PTEN_damaging_to_PIK3CB,Avana,ACH-000520,Ovary/Fallopian Tube,matrix_intact,-0.8679104340090713
+PTEN_damaging_to_PIK3CB,Avana,ACH-000521,Lung,matrix_intact,-0.13707430416794492
+PTEN_damaging_to_PIK3CB,Avana,ACH-000522,Bladder/Urinary Tract,matrix_intact,-0.7292552009591451
+PTEN_damaging_to_PIK3CB,Avana,ACH-000524,Ovary/Fallopian Tube,matrix_intact,-0.5184177481173389
+PTEN_damaging_to_PIK3CB,Avana,ACH-000525,Lung,matrix_intact,0.013111333614325385
+PTEN_damaging_to_PIK3CB,Avana,ACH-000527,Ovary/Fallopian Tube,matrix_intact,0.11029453187603094
+PTEN_damaging_to_PIK3CB,Avana,ACH-000528,Lung,matrix_intact,-0.2420141970965034
+PTEN_damaging_to_PIK3CB,Avana,ACH-000532,Bowel,matrix_intact,-0.009645720577021922
+PTEN_damaging_to_PIK3CB,Avana,ACH-000533,Kidney,matrix_intact,-0.1269823208103858
+PTEN_damaging_to_PIK3CB,Avana,ACH-000535,Pancreas,matrix_intact,-0.2970492020134521
+PTEN_damaging_to_PIK3CB,Avana,ACH-000537,Liver,matrix_intact,-0.35616155664941995
+PTEN_damaging_to_PIK3CB,Avana,ACH-000541,Lymphoid,matrix_intact,0.10503399352077639
+PTEN_damaging_to_PIK3CB,Avana,ACH-000542,Ovary/Fallopian Tube,matrix_intact,-0.5496795035914663
+PTEN_damaging_to_PIK3CB,Avana,ACH-000544,Esophagus/Stomach,matrix_intact,0.15643330856077858
+PTEN_damaging_to_PIK3CB,Avana,ACH-000545,Bladder/Urinary Tract,matrix_intact,-0.1217308679462108
+PTEN_damaging_to_PIK3CB,Avana,ACH-000547,Bladder/Urinary Tract,matrix_intact,0.13492477263249686
+PTEN_damaging_to_PIK3CB,Avana,ACH-000548,Head and Neck,matrix_intact,0.016029857139994136
+PTEN_damaging_to_PIK3CB,Avana,ACH-000549,Head and Neck,matrix_intact,0.22539452077754124
+PTEN_damaging_to_PIK3CB,Avana,ACH-000550,Skin,matrix_intact,-0.38799607135636105
+PTEN_damaging_to_PIK3CB,Avana,ACH-000551,Myeloid,matrix_intact,0.030981008779404573
+PTEN_damaging_to_PIK3CB,Avana,ACH-000552,Bowel,matrix_intact,0.08871636139885597
+PTEN_damaging_to_PIK3CB,Avana,ACH-000556,Cervix,matrix_intact,-0.9137547531020034
+PTEN_damaging_to_PIK3CB,Avana,ACH-000557,Myeloid,matrix_intact,0.33619472197077593
+PTEN_damaging_to_PIK3CB,Avana,ACH-000559,Lung,matrix_intact,-0.008104701155232128
+PTEN_damaging_to_PIK3CB,Avana,ACH-000563,Lung,matrix_intact,-0.6580488715862368
+PTEN_damaging_to_PIK3CB,Avana,ACH-000567,Lymphoid,matrix_intact,0.10835287670041362
+PTEN_damaging_to_PIK3CB,Avana,ACH-000570,CNS/Brain,damaging,-0.34484096938065656
+PTEN_damaging_to_PIK3CB,Avana,ACH-000571,CNS/Brain,matrix_intact,-0.14623406879969145
+PTEN_damaging_to_PIK3CB,Avana,ACH-000573,Breast,matrix_intact,-0.11903830764803722
+PTEN_damaging_to_PIK3CB,Avana,ACH-000576,Lymphoid,matrix_intact,-0.11762033516484655
+PTEN_damaging_to_PIK3CB,Avana,ACH-000577,Liver,matrix_intact,0.0173937515873374
+PTEN_damaging_to_PIK3CB,Avana,ACH-000579,Skin,matrix_intact,-0.04603744545928996
+PTEN_damaging_to_PIK3CB,Avana,ACH-000580,Skin,matrix_intact,-0.9709784565490661
+PTEN_damaging_to_PIK3CB,Avana,ACH-000581,Esophagus/Stomach,matrix_intact,0.04236902601842113
+PTEN_damaging_to_PIK3CB,Avana,ACH-000584,Ovary/Fallopian Tube,matrix_intact,-0.13960044296689697
+PTEN_damaging_to_PIK3CB,Avana,ACH-000585,Lung,matrix_intact,-0.17038772043898154
+PTEN_damaging_to_PIK3CB,Avana,ACH-000587,Lung,matrix_intact,0.08821634013728244
+PTEN_damaging_to_PIK3CB,Avana,ACH-000588,Lymphoid,matrix_intact,0.007691757150794495
+PTEN_damaging_to_PIK3CB,Avana,ACH-000589,Lung,matrix_intact,0.059249761153821814
+PTEN_damaging_to_PIK3CB,Avana,ACH-000591,CNS/Brain,matrix_intact,-1.0497610757340072
+PTEN_damaging_to_PIK3CB,Avana,ACH-000592,CNS/Brain,matrix_intact,0.172624570053816
+PTEN_damaging_to_PIK3CB,Avana,ACH-000593,Bladder/Urinary Tract,matrix_intact,-0.10880825793093146
+PTEN_damaging_to_PIK3CB,Avana,ACH-000595,CNS/Brain,matrix_intact,-0.02488713574372528
+PTEN_damaging_to_PIK3CB,Avana,ACH-000596,Lung,matrix_intact,-0.15875693027743631
+PTEN_damaging_to_PIK3CB,Avana,ACH-000597,Kidney,matrix_intact,0.10641648883048573
+PTEN_damaging_to_PIK3CB,Avana,ACH-000599,Pancreas,matrix_intact,0.17665496418376847
+PTEN_damaging_to_PIK3CB,Avana,ACH-000601,Pancreas,matrix_intact,-0.060543823349496304
+PTEN_damaging_to_PIK3CB,Avana,ACH-000602,Myeloid,matrix_intact,-0.3857030002317856
+PTEN_damaging_to_PIK3CB,Avana,ACH-000604,Myeloid,matrix_intact,-0.02441652394454856
+PTEN_damaging_to_PIK3CB,Avana,ACH-000605,Esophagus/Stomach,matrix_intact,-0.27827410350582094
+PTEN_damaging_to_PIK3CB,Avana,ACH-000606,Head and Neck,matrix_intact,0.19037167806416821
+PTEN_damaging_to_PIK3CB,Avana,ACH-000607,Soft Tissue,matrix_intact,-0.1803495764422295
+PTEN_damaging_to_PIK3CB,Avana,ACH-000608,Ovary/Fallopian Tube,matrix_intact,-0.19383506609933426
+PTEN_damaging_to_PIK3CB,Avana,ACH-000609,CNS/Brain,damaging,-0.2618150766901701
+PTEN_damaging_to_PIK3CB,Avana,ACH-000614,Skin,matrix_intact,-1.248229955721529
+PTEN_damaging_to_PIK3CB,Avana,ACH-000616,Esophagus/Stomach,matrix_intact,0.027206099464545625
+PTEN_damaging_to_PIK3CB,Avana,ACH-000618,Head and Neck,matrix_intact,0.0337726769568501
+PTEN_damaging_to_PIK3CB,Avana,ACH-000619,Head and Neck,matrix_intact,0.315320204676096
+PTEN_damaging_to_PIK3CB,Avana,ACH-000620,Liver,matrix_intact,-0.11631213210342073
+PTEN_damaging_to_PIK3CB,Avana,ACH-000621,Breast,matrix_intact,-0.22083332840580136
+PTEN_damaging_to_PIK3CB,Avana,ACH-000622,CNS/Brain,matrix_intact,-0.2039288926994822
+PTEN_damaging_to_PIK3CB,Avana,ACH-000623,CNS/Brain,damaging,-0.03389259400939876
+PTEN_damaging_to_PIK3CB,Avana,ACH-000624,Breast,matrix_intact,-0.20039139653082239
+PTEN_damaging_to_PIK3CB,Avana,ACH-000627,Lung,matrix_intact,-0.06206572174528634
+PTEN_damaging_to_PIK3CB,Avana,ACH-000630,Head and Neck,matrix_intact,-0.1607923084771343
+PTEN_damaging_to_PIK3CB,Avana,ACH-000632,Skin,damaging,-0.24892581358210203
+PTEN_damaging_to_PIK3CB,Avana,ACH-000633,Esophagus/Stomach,matrix_intact,0.25196707308217864
+PTEN_damaging_to_PIK3CB,Avana,ACH-000634,CNS/Brain,damaging,-0.8496542757699208
+PTEN_damaging_to_PIK3CB,Avana,ACH-000637,Esophagus/Stomach,matrix_intact,0.05813921600395136
+PTEN_damaging_to_PIK3CB,Avana,ACH-000638,Lung,matrix_intact,0.23021461477224003
+PTEN_damaging_to_PIK3CB,Avana,ACH-000639,Lung,matrix_intact,0.017210943580897843
+PTEN_damaging_to_PIK3CB,Avana,ACH-000645,Pleura,matrix_intact,0.009876158675516139
+PTEN_damaging_to_PIK3CB,Avana,ACH-000646,Ovary/Fallopian Tube,matrix_intact,-0.10715237603049879
+PTEN_damaging_to_PIK3CB,Avana,ACH-000647,Esophagus/Stomach,matrix_intact,0.17144284539123295
+PTEN_damaging_to_PIK3CB,Avana,ACH-000648,Pleura,matrix_intact,-0.058395760202114094
+PTEN_damaging_to_PIK3CB,Avana,ACH-000649,Kidney,damaging,-0.43879392651438265
+PTEN_damaging_to_PIK3CB,Avana,ACH-000651,Bowel,matrix_intact,0.1772895060954361
+PTEN_damaging_to_PIK3CB,Avana,ACH-000652,Pancreas,matrix_intact,-0.2801038784379495
+PTEN_damaging_to_PIK3CB,Avana,ACH-000653,Lymphoid,matrix_intact,0.2361418064309988
+PTEN_damaging_to_PIK3CB,Avana,ACH-000654,Lymphoid,damaging,-0.13891073316129265
+PTEN_damaging_to_PIK3CB,Avana,ACH-000655,CNS/Brain,matrix_intact,-0.010452164713503617
+PTEN_damaging_to_PIK3CB,Avana,ACH-000657,Ovary/Fallopian Tube,matrix_intact,0.20788482332407948
+PTEN_damaging_to_PIK3CB,Avana,ACH-000661,Skin,matrix_intact,-0.011200613312393862
+PTEN_damaging_to_PIK3CB,Avana,ACH-000662,Lung,matrix_intact,-0.7617811350676442
+PTEN_damaging_to_PIK3CB,Avana,ACH-000663,Ovary/Fallopian Tube,matrix_intact,0.22861186934322897
+PTEN_damaging_to_PIK3CB,Avana,ACH-000664,Lymphoid,matrix_intact,-0.19205644488531742
+PTEN_damaging_to_PIK3CB,Avana,ACH-000665,Lung,matrix_intact,0.32498269407663605
+PTEN_damaging_to_PIK3CB,Avana,ACH-000667,Lung,matrix_intact,-0.35205121326108246
+PTEN_damaging_to_PIK3CB,Avana,ACH-000671,Liver,matrix_intact,-0.12491654378479972
+PTEN_damaging_to_PIK3CB,Avana,ACH-000673,CNS/Brain,matrix_intact,0.0626147103559891
+PTEN_damaging_to_PIK3CB,Avana,ACH-000676,CNS/Brain,damaging,-0.35384183306807193
+PTEN_damaging_to_PIK3CB,Avana,ACH-000677,Lung,matrix_intact,0.11329806738008726
+PTEN_damaging_to_PIK3CB,Avana,ACH-000680,Bowel,matrix_intact,-0.39704656804587657
+PTEN_damaging_to_PIK3CB,Avana,ACH-000681,Lung,matrix_intact,0.4115427190485786
+PTEN_damaging_to_PIK3CB,Avana,ACH-000682,Head and Neck,matrix_intact,0.16097439216493115
+PTEN_damaging_to_PIK3CB,Avana,ACH-000683,Bowel,matrix_intact,-0.009221178841408814
+PTEN_damaging_to_PIK3CB,Avana,ACH-000684,Kidney,matrix_intact,-0.35344140959283804
+PTEN_damaging_to_PIK3CB,Avana,ACH-000685,Pancreas,matrix_intact,-0.005621965862031272
+PTEN_damaging_to_PIK3CB,Avana,ACH-000688,Ovary/Fallopian Tube,matrix_intact,0.0322059422875101
+PTEN_damaging_to_PIK3CB,Avana,ACH-000693,Esophagus/Stomach,matrix_intact,0.06596601188072174
+PTEN_damaging_to_PIK3CB,Avana,ACH-000694,Esophagus/Stomach,matrix_intact,0.21681980887753333
+PTEN_damaging_to_PIK3CB,Avana,ACH-000695,Lung,damaging,-0.16540223615212024
+PTEN_damaging_to_PIK3CB,Avana,ACH-000696,Ovary/Fallopian Tube,matrix_intact,-0.305232431074414
+PTEN_damaging_to_PIK3CB,Avana,ACH-000697,Lymphoid,matrix_intact,0.017475047714202968
+PTEN_damaging_to_PIK3CB,Avana,ACH-000698,Lung,matrix_intact,0.0010458056401002479
+PTEN_damaging_to_PIK3CB,Avana,ACH-000699,Breast,matrix_intact,-0.3112258518752305
+PTEN_damaging_to_PIK3CB,Avana,ACH-000700,Lung,matrix_intact,-0.4816877421304451
+PTEN_damaging_to_PIK3CB,Avana,ACH-000701,Ovary/Fallopian Tube,matrix_intact,-0.06551666417894489
+PTEN_damaging_to_PIK3CB,Avana,ACH-000702,Lymphoid,matrix_intact,0.17071676286179518
+PTEN_damaging_to_PIK3CB,Avana,ACH-000706,Lung,matrix_intact,0.07354562982359447
+PTEN_damaging_to_PIK3CB,Avana,ACH-000709,Kidney,matrix_intact,-0.47438857803985984
+PTEN_damaging_to_PIK3CB,Avana,ACH-000711,Breast,matrix_intact,-0.4288802702788713
+PTEN_damaging_to_PIK3CB,Avana,ACH-000713,Ovary/Fallopian Tube,matrix_intact,0.17218823487975995
+PTEN_damaging_to_PIK3CB,Avana,ACH-000714,Lymphoid,matrix_intact,0.12769418328344528
+PTEN_damaging_to_PIK3CB,Avana,ACH-000716,Thyroid,matrix_intact,-0.0077996767795105
+PTEN_damaging_to_PIK3CB,Avana,ACH-000718,Lung,matrix_intact,-0.5342085987114471
+PTEN_damaging_to_PIK3CB,Avana,ACH-000719,Ovary/Fallopian Tube,matrix_intact,-0.09822278803902007
+PTEN_damaging_to_PIK3CB,Avana,ACH-000720,Bladder/Urinary Tract,matrix_intact,-0.036586202688142
+PTEN_damaging_to_PIK3CB,Avana,ACH-000721,Breast,matrix_intact,-0.3664333008251215
+PTEN_damaging_to_PIK3CB,Avana,ACH-000724,Bladder/Urinary Tract,matrix_intact,0.13418059882545424
+PTEN_damaging_to_PIK3CB,Avana,ACH-000725,Breast,matrix_intact,0.25445384220361117
+PTEN_damaging_to_PIK3CB,Avana,ACH-000732,Head and Neck,matrix_intact,0.11876579799597266
+PTEN_damaging_to_PIK3CB,Avana,ACH-000734,Liver,matrix_intact,0.2525868136744609
+PTEN_damaging_to_PIK3CB,Avana,ACH-000735,Head and Neck,matrix_intact,-0.03412219888092234
+PTEN_damaging_to_PIK3CB,Avana,ACH-000736,Esophagus/Stomach,matrix_intact,-0.061962200592774686
+PTEN_damaging_to_PIK3CB,Avana,ACH-000738,CNS/Brain,matrix_intact,0.15879256262239141
+PTEN_damaging_to_PIK3CB,Avana,ACH-000739,Liver,matrix_intact,-0.08891228824045783
+PTEN_damaging_to_PIK3CB,Avana,ACH-000740,Head and Neck,matrix_intact,-0.033884297792986295
+PTEN_damaging_to_PIK3CB,Avana,ACH-000741,Bladder/Urinary Tract,matrix_intact,0.3497713920496408
+PTEN_damaging_to_PIK3CB,Avana,ACH-000746,Esophagus/Stomach,matrix_intact,0.18957006440699817
+PTEN_damaging_to_PIK3CB,Avana,ACH-000747,Lung,matrix_intact,-0.3276717297275602
+PTEN_damaging_to_PIK3CB,Avana,ACH-000748,Bone,matrix_intact,-0.04268660333532094
+PTEN_damaging_to_PIK3CB,Avana,ACH-000753,Bladder/Urinary Tract,matrix_intact,-0.0684873547033327
+PTEN_damaging_to_PIK3CB,Avana,ACH-000754,Lymphoid,matrix_intact,-0.0017322944305003946
+PTEN_damaging_to_PIK3CB,Avana,ACH-000756,CNS/Brain,matrix_intact,-0.41655652304893903
+PTEN_damaging_to_PIK3CB,Avana,ACH-000757,Lung,matrix_intact,0.089599351788792
+PTEN_damaging_to_PIK3CB,Avana,ACH-000758,Esophagus/Stomach,matrix_intact,0.03491803614346099
+PTEN_damaging_to_PIK3CB,Avana,ACH-000760,CNS/Brain,damaging,-0.007490853034791384
+PTEN_damaging_to_PIK3CB,Avana,ACH-000762,Head and Neck,matrix_intact,-0.9940726856459308
+PTEN_damaging_to_PIK3CB,Avana,ACH-000763,Lymphoid,matrix_intact,0.005137891664144245
+PTEN_damaging_to_PIK3CB,Avana,ACH-000764,Esophagus/Stomach,damaging,-0.08145651162578069
+PTEN_damaging_to_PIK3CB,Avana,ACH-000765,Skin,matrix_intact,0.16854700973479111
+PTEN_damaging_to_PIK3CB,Avana,ACH-000766,Lung,matrix_intact,-0.39806756142718486
+PTEN_damaging_to_PIK3CB,Avana,ACH-000767,Lung,matrix_intact,-0.04605656177503456
+PTEN_damaging_to_PIK3CB,Avana,ACH-000768,Breast,matrix_intact,0.08140121336554568
+PTEN_damaging_to_PIK3CB,Avana,ACH-000769,Lung,matrix_intact,-0.13836960391543135
+PTEN_damaging_to_PIK3CB,Avana,ACH-000770,Myeloid,damaging,-0.004572916187767631
+PTEN_damaging_to_PIK3CB,Avana,ACH-000771,Head and Neck,matrix_intact,-0.34659585825234
+PTEN_damaging_to_PIK3CB,Avana,ACH-000773,Lymphoid,matrix_intact,0.18802003225754854
+PTEN_damaging_to_PIK3CB,Avana,ACH-000774,Lung,matrix_intact,0.1904545985708479
+PTEN_damaging_to_PIK3CB,Avana,ACH-000775,Lung,matrix_intact,0.034847506530483005
+PTEN_damaging_to_PIK3CB,Avana,ACH-000776,CNS/Brain,matrix_intact,-0.032000034709756486
+PTEN_damaging_to_PIK3CB,Avana,ACH-000777,Esophagus/Stomach,matrix_intact,0.23150254681560645
+PTEN_damaging_to_PIK3CB,Avana,ACH-000778,Head and Neck,matrix_intact,0.015087240888323826
+PTEN_damaging_to_PIK3CB,Avana,ACH-000781,Lung,matrix_intact,0.1542385689563024
+PTEN_damaging_to_PIK3CB,Avana,ACH-000782,Lymphoid,matrix_intact,0.25016359987875314
+PTEN_damaging_to_PIK3CB,Avana,ACH-000783,Breast,damaging,-0.23165604123666692
+PTEN_damaging_to_PIK3CB,Avana,ACH-000784,Esophagus/Stomach,matrix_intact,0.17616087145086679
+PTEN_damaging_to_PIK3CB,Avana,ACH-000785,Lung,matrix_intact,0.03145361751929168
+PTEN_damaging_to_PIK3CB,Avana,ACH-000787,Lung,matrix_intact,-0.1999642900427009
+PTEN_damaging_to_PIK3CB,Avana,ACH-000788,Skin,damaging,-1.1286394022067543
+PTEN_damaging_to_PIK3CB,Avana,ACH-000790,Lung,matrix_intact,-0.0598448619003772
+PTEN_damaging_to_PIK3CB,Avana,ACH-000791,Lung,matrix_intact,-0.09190982264285824
+PTEN_damaging_to_PIK3CB,Avana,ACH-000792,Kidney,matrix_intact,0.11564956995055864
+PTEN_damaging_to_PIK3CB,Avana,ACH-000793,Esophagus/Stomach,matrix_intact,0.014715461603846458
+PTEN_damaging_to_PIK3CB,Avana,ACH-000794,Head and Neck,matrix_intact,0.16366611993552066
+PTEN_damaging_to_PIK3CB,Avana,ACH-000796,Ovary/Fallopian Tube,matrix_intact,-0.09562715872662193
+PTEN_damaging_to_PIK3CB,Avana,ACH-000799,Skin,matrix_intact,-0.0802033114563136
+PTEN_damaging_to_PIK3CB,Avana,ACH-000800,Lung,damaging,-0.0530790278162479
+PTEN_damaging_to_PIK3CB,Avana,ACH-000801,Skin,matrix_intact,0.3365249011463925
+PTEN_damaging_to_PIK3CB,Avana,ACH-000802,Bladder/Urinary Tract,matrix_intact,0.16915269338374292
+PTEN_damaging_to_PIK3CB,Avana,ACH-000804,Peripheral Nervous System,matrix_intact,0.05357804746932682
+PTEN_damaging_to_PIK3CB,Avana,ACH-000805,Skin,matrix_intact,-0.2011238702174033
+PTEN_damaging_to_PIK3CB,Avana,ACH-000807,CNS/Brain,matrix_intact,-0.42221483560436107
+PTEN_damaging_to_PIK3CB,Avana,ACH-000809,Esophagus/Stomach,matrix_intact,-0.016329050624228625
+PTEN_damaging_to_PIK3CB,Avana,ACH-000810,Skin,matrix_intact,-0.278567873883146
+PTEN_damaging_to_PIK3CB,Avana,ACH-000811,Ovary/Fallopian Tube,matrix_intact,-0.09546576926828486
+PTEN_damaging_to_PIK3CB,Avana,ACH-000817,Lymphoid,matrix_intact,0.339139649900853
+PTEN_damaging_to_PIK3CB,Avana,ACH-000819,CNS/Brain,matrix_intact,-0.35876029334832127
+PTEN_damaging_to_PIK3CB,Avana,ACH-000820,Bowel,matrix_intact,0.15184898450392575
+PTEN_damaging_to_PIK3CB,Avana,ACH-000821,Lymphoid,matrix_intact,-0.022791610135591223
+PTEN_damaging_to_PIK3CB,Avana,ACH-000822,Skin,matrix_intact,0.08960231211269948
+PTEN_damaging_to_PIK3CB,Avana,ACH-000823,Esophagus/Stomach,matrix_intact,-0.1367105301777007
+PTEN_damaging_to_PIK3CB,Avana,ACH-000824,Esophagus/Stomach,matrix_intact,0.29123754970547067
+PTEN_damaging_to_PIK3CB,Avana,ACH-000827,Skin,damaging,-0.14756958430173034
+PTEN_damaging_to_PIK3CB,Avana,ACH-000829,Lymphoid,matrix_intact,-0.16502418069441704
+PTEN_damaging_to_PIK3CB,Avana,ACH-000831,Uterus,matrix_intact,0.4154253706136277
+PTEN_damaging_to_PIK3CB,Avana,ACH-000832,Head and Neck,matrix_intact,-0.22729391213138325
+PTEN_damaging_to_PIK3CB,Avana,ACH-000833,Soft Tissue,matrix_intact,-0.05097543170467575
+PTEN_damaging_to_PIK3CB,Avana,ACH-000834,Bladder/Urinary Tract,matrix_intact,0.29405379925759023
+PTEN_damaging_to_PIK3CB,Avana,ACH-000835,Soft Tissue,matrix_intact,-0.37651478052274484
+PTEN_damaging_to_PIK3CB,Avana,ACH-000836,Head and Neck,matrix_intact,-0.18473932811877342
+PTEN_damaging_to_PIK3CB,Avana,ACH-000837,Lung,matrix_intact,0.19912741969730413
+PTEN_damaging_to_PIK3CB,Avana,ACH-000838,Lymphoid,matrix_intact,-0.0297819491510874
+PTEN_damaging_to_PIK3CB,Avana,ACH-000839,Bladder/Urinary Tract,matrix_intact,-0.2733278157688521
+PTEN_damaging_to_PIK3CB,Avana,ACH-000840,Lung,matrix_intact,0.40616492091042306
+PTEN_damaging_to_PIK3CB,Avana,ACH-000841,Lung,matrix_intact,-0.3653270202720998
+PTEN_damaging_to_PIK3CB,Avana,ACH-000843,Lung,matrix_intact,-0.08869140343537515
+PTEN_damaging_to_PIK3CB,Avana,ACH-000845,Lung,matrix_intact,-0.20436917948854125
+PTEN_damaging_to_PIK3CB,Avana,ACH-000846,Head and Neck,matrix_intact,0.07217649593239495
+PTEN_damaging_to_PIK3CB,Avana,ACH-000847,Esophagus/Stomach,matrix_intact,0.08291704757403945
+PTEN_damaging_to_PIK3CB,Avana,ACH-000848,Liver,matrix_intact,-0.03673895112872526
+PTEN_damaging_to_PIK3CB,Avana,ACH-000849,Breast,damaging,-1.2230844885261067
+PTEN_damaging_to_PIK3CB,Avana,ACH-000851,Lung,matrix_intact,-0.24152843780032582
+PTEN_damaging_to_PIK3CB,Avana,ACH-000853,Lung,matrix_intact,-0.24639467645242746
+PTEN_damaging_to_PIK3CB,Avana,ACH-000855,Esophagus/Stomach,matrix_intact,0.29535067705657214
+PTEN_damaging_to_PIK3CB,Avana,ACH-000856,Breast,damaging,-0.12560092330736047
+PTEN_damaging_to_PIK3CB,Avana,ACH-000858,Lung,matrix_intact,0.09942996090781712
+PTEN_damaging_to_PIK3CB,Avana,ACH-000859,Breast,matrix_intact,0.031329943634095296
+PTEN_damaging_to_PIK3CB,Avana,ACH-000860,Lung,matrix_intact,0.20536587878143298
+PTEN_damaging_to_PIK3CB,Avana,ACH-000861,Lung,matrix_intact,-0.24743074141896965
+PTEN_damaging_to_PIK3CB,Avana,ACH-000862,Bladder/Urinary Tract,damaging,0.17334730351081
+PTEN_damaging_to_PIK3CB,Avana,ACH-000865,Esophagus/Stomach,matrix_intact,-0.11074023351901105
+PTEN_damaging_to_PIK3CB,Avana,ACH-000866,Lung,matrix_intact,0.24867726302099152
+PTEN_damaging_to_PIK3CB,Avana,ACH-000867,Lung,matrix_intact,-0.03473106671642993
+PTEN_damaging_to_PIK3CB,Avana,ACH-000869,Lung,matrix_intact,0.03979055423870374
+PTEN_damaging_to_PIK3CB,Avana,ACH-000871,Lung,matrix_intact,0.19340035917679144
+PTEN_damaging_to_PIK3CB,Avana,ACH-000872,Lung,matrix_intact,-0.18047539263780216
+PTEN_damaging_to_PIK3CB,Avana,ACH-000873,Esophagus/Stomach,matrix_intact,0.0001639026526980905
+PTEN_damaging_to_PIK3CB,Avana,ACH-000876,Breast,damaging,-0.8155244880318562
+PTEN_damaging_to_PIK3CB,Avana,ACH-000878,Lung,matrix_intact,0.4660317956985019
+PTEN_damaging_to_PIK3CB,Avana,ACH-000880,Esophagus/Stomach,matrix_intact,0.302195435701774
+PTEN_damaging_to_PIK3CB,Avana,ACH-000881,Skin,matrix_intact,0.07361075458701632
+PTEN_damaging_to_PIK3CB,Avana,ACH-000882,Skin,matrix_intact,-0.1997360234474898
+PTEN_damaging_to_PIK3CB,Avana,ACH-000884,Skin,matrix_intact,-0.10528692732924352
+PTEN_damaging_to_PIK3CB,Avana,ACH-000885,Ovary/Fallopian Tube,damaging,0.031050482971209332
+PTEN_damaging_to_PIK3CB,Avana,ACH-000886,Lung,matrix_intact,0.25973915474903697
+PTEN_damaging_to_PIK3CB,Avana,ACH-000887,CNS/Brain,matrix_intact,-0.24394452139685674
+PTEN_damaging_to_PIK3CB,Avana,ACH-000888,Lung,matrix_intact,0.2013561740525899
+PTEN_damaging_to_PIK3CB,Avana,ACH-000889,Lymphoid,matrix_intact,0.004483858032797314
+PTEN_damaging_to_PIK3CB,Avana,ACH-000890,Lung,matrix_intact,0.039162854445005627
+PTEN_damaging_to_PIK3CB,Avana,ACH-000896,Bladder/Urinary Tract,matrix_intact,-0.25269398430210094
+PTEN_damaging_to_PIK3CB,Avana,ACH-000898,Esophagus/Stomach,matrix_intact,-0.04620597435251916
+PTEN_damaging_to_PIK3CB,Avana,ACH-000899,Skin,matrix_intact,0.2689238286654207
+PTEN_damaging_to_PIK3CB,Avana,ACH-000900,Lung,matrix_intact,0.12426435159546442
+PTEN_damaging_to_PIK3CB,Avana,ACH-000901,Lung,matrix_intact,-0.2590804801816272
+PTEN_damaging_to_PIK3CB,Avana,ACH-000903,Thyroid,damaging,-0.4833971441651337
+PTEN_damaging_to_PIK3CB,Avana,ACH-000905,Bladder/Urinary Tract,matrix_intact,-0.04673082023068437
+PTEN_damaging_to_PIK3CB,Avana,ACH-000906,Ovary/Fallopian Tube,matrix_intact,-0.12784742891662257
+PTEN_damaging_to_PIK3CB,Avana,ACH-000907,Kidney,matrix_intact,-0.6411293069152336
+PTEN_damaging_to_PIK3CB,Avana,ACH-000910,Breast,matrix_intact,0.06892634185267563
+PTEN_damaging_to_PIK3CB,Avana,ACH-000911,Esophagus/Stomach,matrix_intact,-0.05972926490421748
+PTEN_damaging_to_PIK3CB,Avana,ACH-000912,Lung,matrix_intact,-0.21385634547983512
+PTEN_damaging_to_PIK3CB,Avana,ACH-000913,Uterus,matrix_intact,-0.0015500253482780973
+PTEN_damaging_to_PIK3CB,Avana,ACH-000914,Lymphoid,matrix_intact,0.10832474188389965
+PTEN_damaging_to_PIK3CB,Avana,ACH-000915,Skin,matrix_intact,-1.0439481311530452
+PTEN_damaging_to_PIK3CB,Avana,ACH-000916,Lung,matrix_intact,-0.6514245089885402
+PTEN_damaging_to_PIK3CB,Avana,ACH-000917,Esophagus/Stomach,damaging,-0.04113504873039082
+PTEN_damaging_to_PIK3CB,Avana,ACH-000920,Myeloid,matrix_intact,-0.07436033023436908
+PTEN_damaging_to_PIK3CB,Avana,ACH-000921,Lung,damaging,-0.2897228942334836
+PTEN_damaging_to_PIK3CB,Avana,ACH-000922,Lymphoid,matrix_intact,0.022208277166039424
+PTEN_damaging_to_PIK3CB,Avana,ACH-000924,Lung,matrix_intact,0.03136173578694961
+PTEN_damaging_to_PIK3CB,Avana,ACH-000926,Bowel,matrix_intact,0.1495167772382784
+PTEN_damaging_to_PIK3CB,Avana,ACH-000928,Uterus,damaging,0.13510147086083307
+PTEN_damaging_to_PIK3CB,Avana,ACH-000929,Lung,matrix_intact,-0.19725864112953712
+PTEN_damaging_to_PIK3CB,Avana,ACH-000932,Esophagus/Stomach,matrix_intact,-0.0051189100921508746
+PTEN_damaging_to_PIK3CB,Avana,ACH-000935,Bowel,matrix_intact,-0.6760685455098117
+PTEN_damaging_to_PIK3CB,Avana,ACH-000936,Ovary/Fallopian Tube,damaging,-0.14527277862780913
+PTEN_damaging_to_PIK3CB,Avana,ACH-000937,Lymphoid,matrix_intact,-0.09844580193930016
+PTEN_damaging_to_PIK3CB,Avana,ACH-000938,Lymphoid,matrix_intact,-0.027853587211263
+PTEN_damaging_to_PIK3CB,Avana,ACH-000939,Uterus,damaging,-0.0736262583644231
+PTEN_damaging_to_PIK3CB,Avana,ACH-000941,Uterus,matrix_intact,0.3633690278584427
+PTEN_damaging_to_PIK3CB,Avana,ACH-000943,Bowel,matrix_intact,0.08478105520302065
+PTEN_damaging_to_PIK3CB,Avana,ACH-000944,Lymphoid,matrix_intact,0.23175303549919812
+PTEN_damaging_to_PIK3CB,Avana,ACH-000946,Uterus,damaging,-0.07670055406478495
+PTEN_damaging_to_PIK3CB,Avana,ACH-000947,Ovary/Fallopian Tube,damaging,-0.11002853764433185
+PTEN_damaging_to_PIK3CB,Avana,ACH-000948,Esophagus/Stomach,matrix_intact,-0.7505370150450426
+PTEN_damaging_to_PIK3CB,Avana,ACH-000950,Bowel,matrix_intact,-0.20509273314055532
+PTEN_damaging_to_PIK3CB,Avana,ACH-000953,Lymphoid,matrix_intact,0.24064475208369493
+PTEN_damaging_to_PIK3CB,Avana,ACH-000957,Bowel,damaging,0.3921980983085884
+PTEN_damaging_to_PIK3CB,Avana,ACH-000958,Bowel,matrix_intact,0.015508708774635949
+PTEN_damaging_to_PIK3CB,Avana,ACH-000959,Bowel,damaging,0.009876533154208209
+PTEN_damaging_to_PIK3CB,Avana,ACH-000960,Lymphoid,matrix_intact,0.25258419125392717
+PTEN_damaging_to_PIK3CB,Avana,ACH-000961,Uterus,damaging,-0.09787705538116932
+PTEN_damaging_to_PIK3CB,Avana,ACH-000963,Bowel,matrix_intact,-0.08578886483783506
+PTEN_damaging_to_PIK3CB,Avana,ACH-000965,Uterus,damaging,-0.07956269892780245
+PTEN_damaging_to_PIK3CB,Avana,ACH-000968,Skin,matrix_intact,0.10039246167638101
+PTEN_damaging_to_PIK3CB,Avana,ACH-000969,Bowel,damaging,0.08393208129424239
+PTEN_damaging_to_PIK3CB,Avana,ACH-000973,Bladder/Urinary Tract,damaging,-0.10082414503112155
+PTEN_damaging_to_PIK3CB,Avana,ACH-000974,Uterus,damaging,0.4491057011620878
+PTEN_damaging_to_PIK3CB,Avana,ACH-000975,Lung,matrix_intact,0.4563980806131767
+PTEN_damaging_to_PIK3CB,Avana,ACH-000976,Biliary Tract,matrix_intact,-0.06163642921443731
+PTEN_damaging_to_PIK3CB,Avana,ACH-000977,Prostate,damaging,-0.3220389161408703
+PTEN_damaging_to_PIK3CB,Avana,ACH-000978,Uterus,matrix_intact,-0.057001806102215655
+PTEN_damaging_to_PIK3CB,Avana,ACH-000980,Lung,damaging,-0.45430803631821565
+PTEN_damaging_to_PIK3CB,Avana,ACH-000983,Myeloid,matrix_intact,0.03975220294073134
+PTEN_damaging_to_PIK3CB,Avana,ACH-000984,Uterus,damaging,0.15659155560601343
+PTEN_damaging_to_PIK3CB,Avana,ACH-000986,Bowel,matrix_intact,-0.059665451173898654
+PTEN_damaging_to_PIK3CB,Avana,ACH-000988,Uterus,damaging,-0.050794983099228835
+PTEN_damaging_to_PIK3CB,Avana,ACH-000993,Uterus,damaging,0.19709526924312742
+PTEN_damaging_to_PIK3CB,Avana,ACH-000994,Uterus,damaging,0.32413223961870047
+PTEN_damaging_to_PIK3CB,Avana,ACH-000995,Lymphoid,matrix_intact,-0.279323952384639
+PTEN_damaging_to_PIK3CB,Avana,ACH-000996,Uterus,damaging,0.06874319158769325
+PTEN_damaging_to_PIK3CB,Avana,ACH-001001,Bone,matrix_intact,0.06924433983381388
+PTEN_damaging_to_PIK3CB,Avana,ACH-001020,CNS/Brain,matrix_intact,0.012130796435231503
+PTEN_damaging_to_PIK3CB,Avana,ACH-001028,CNS/Brain,matrix_intact,-0.3710250841608915
+PTEN_damaging_to_PIK3CB,Avana,ACH-001029,Bone,matrix_intact,0.011889129723226081
+PTEN_damaging_to_PIK3CB,Avana,ACH-001031,CNS/Brain,matrix_intact,0.023289340421091934
+PTEN_damaging_to_PIK3CB,Avana,ACH-001033,CNS/Brain,matrix_intact,-0.002472931692738073
+PTEN_damaging_to_PIK3CB,Avana,ACH-001036,Myeloid,matrix_intact,-0.14356293766546868
+PTEN_damaging_to_PIK3CB,Avana,ACH-001038,Bone,matrix_intact,0.2770757416643006
+PTEN_damaging_to_PIK3CB,Avana,ACH-001041,Skin,matrix_intact,-0.37695425822643797
+PTEN_damaging_to_PIK3CB,Avana,ACH-001048,Ovary/Fallopian Tube,matrix_intact,0.3710147565999087
+PTEN_damaging_to_PIK3CB,Avana,ACH-001050,Soft Tissue,matrix_intact,-0.04504128647724222
+PTEN_damaging_to_PIK3CB,Avana,ACH-001053,CNS/Brain,matrix_intact,-0.32857725451702774
+PTEN_damaging_to_PIK3CB,Avana,ACH-001054,CNS/Brain,matrix_intact,-0.2792548012694776
+PTEN_damaging_to_PIK3CB,Avana,ACH-001061,Bowel,matrix_intact,0.22013213542330978
+PTEN_damaging_to_PIK3CB,Avana,ACH-001067,CNS/Brain,matrix_intact,-0.5375711675292743
+PTEN_damaging_to_PIK3CB,Avana,ACH-001075,Lung,matrix_intact,0.15226000689169344
+PTEN_damaging_to_PIK3CB,Avana,ACH-001096,Soft Tissue,matrix_intact,-0.0662488462801604
+PTEN_damaging_to_PIK3CB,Avana,ACH-001098,Pancreas,matrix_intact,-0.27110875752602087
+PTEN_damaging_to_PIK3CB,Avana,ACH-001099,Kidney,matrix_intact,-0.09483721970613376
+PTEN_damaging_to_PIK3CB,Avana,ACH-001119,Lymphoid,matrix_intact,-0.11636446277714399
+PTEN_damaging_to_PIK3CB,Avana,ACH-001128,Kidney,matrix_intact,-0.39128013724679217
+PTEN_damaging_to_PIK3CB,Avana,ACH-001129,Myeloid,matrix_intact,-0.3073236443383412
+PTEN_damaging_to_PIK3CB,Avana,ACH-001134,Lymphoid,matrix_intact,0.11202856196560522
+PTEN_damaging_to_PIK3CB,Avana,ACH-001145,Ovary/Fallopian Tube,matrix_intact,-0.19089493063304802
+PTEN_damaging_to_PIK3CB,Avana,ACH-001151,Ovary/Fallopian Tube,matrix_intact,0.38308182286161463
+PTEN_damaging_to_PIK3CB,Avana,ACH-001163,Kidney,matrix_intact,0.003558916728882519
+PTEN_damaging_to_PIK3CB,Avana,ACH-001164,Soft Tissue,matrix_intact,-0.2253641361932148
+PTEN_damaging_to_PIK3CB,Avana,ACH-001172,CNS/Brain,damaging,-0.03359633543191359
+PTEN_damaging_to_PIK3CB,Avana,ACH-001183,Bladder/Urinary Tract,matrix_intact,0.2549263850232607
+PTEN_damaging_to_PIK3CB,Avana,ACH-001184,Soft Tissue,matrix_intact,0.22391421247317791
+PTEN_damaging_to_PIK3CB,Avana,ACH-001188,Peripheral Nervous System,matrix_intact,0.24598333351358864
+PTEN_damaging_to_PIK3CB,Avana,ACH-001190,Skin,matrix_intact,0.10175890963517867
+PTEN_damaging_to_PIK3CB,Avana,ACH-001192,Bone,matrix_intact,-0.09078633079864319
+PTEN_damaging_to_PIK3CB,Avana,ACH-001193,Bone,matrix_intact,-0.24707628966742098
+PTEN_damaging_to_PIK3CB,Avana,ACH-001194,Kidney,matrix_intact,0.0009511184251140489
+PTEN_damaging_to_PIK3CB,Avana,ACH-001196,Soft Tissue,matrix_intact,-0.07062868352928388
+PTEN_damaging_to_PIK3CB,Avana,ACH-001197,Lymphoid,matrix_intact,-0.5477034558780352
+PTEN_damaging_to_PIK3CB,Avana,ACH-001205,Bone,matrix_intact,-0.17299267120386286
+PTEN_damaging_to_PIK3CB,Avana,ACH-001211,Kidney,matrix_intact,-0.18105890802076982
+PTEN_damaging_to_PIK3CB,Avana,ACH-001212,Kidney,matrix_intact,-0.009990623656736197
+PTEN_damaging_to_PIK3CB,Avana,ACH-001228,Head and Neck,damaging,-0.08114740636901926
+PTEN_damaging_to_PIK3CB,Avana,ACH-001229,Head and Neck,matrix_intact,0.30296862128195123
+PTEN_damaging_to_PIK3CB,Avana,ACH-001232,CNS/Brain,matrix_intact,-0.4134989359440687
+PTEN_damaging_to_PIK3CB,Avana,ACH-001239,Skin,matrix_intact,-1.5918087381395125
+PTEN_damaging_to_PIK3CB,Avana,ACH-001270,Soft Tissue,matrix_intact,-0.3266937281860289
+PTEN_damaging_to_PIK3CB,Avana,ACH-001274,Soft Tissue,matrix_intact,-0.25298443636727924
+PTEN_damaging_to_PIK3CB,Avana,ACH-001275,Soft Tissue,matrix_intact,-0.20594798753515192
+PTEN_damaging_to_PIK3CB,Avana,ACH-001277,Soft Tissue,matrix_intact,-0.006759637217937577
+PTEN_damaging_to_PIK3CB,Avana,ACH-001278,Ovary/Fallopian Tube,matrix_intact,-0.14520295518597492
+PTEN_damaging_to_PIK3CB,Avana,ACH-001279,Ovary/Fallopian Tube,matrix_intact,0.34245917887467003
+PTEN_damaging_to_PIK3CB,Avana,ACH-001280,Soft Tissue,matrix_intact,0.07984371608460493
+PTEN_damaging_to_PIK3CB,Avana,ACH-001283,Bone,matrix_intact,0.2188443032804868
+PTEN_damaging_to_PIK3CB,Avana,ACH-001289,CNS/Brain,matrix_intact,-0.38884054922571115
+PTEN_damaging_to_PIK3CB,Avana,ACH-001295,Eye,matrix_intact,0.603861869124676
+PTEN_damaging_to_PIK3CB,Avana,ACH-001300,Peripheral Nervous System,matrix_intact,0.42770929293229326
+PTEN_damaging_to_PIK3CB,Avana,ACH-001301,Peripheral Nervous System,matrix_intact,-0.07160009233646837
+PTEN_damaging_to_PIK3CB,Avana,ACH-001302,Peripheral Nervous System,matrix_intact,0.3283621713139353
+PTEN_damaging_to_PIK3CB,Avana,ACH-001303,Peripheral Nervous System,matrix_intact,0.17448893751135058
+PTEN_damaging_to_PIK3CB,Avana,ACH-001306,Thyroid,matrix_intact,-0.2923908688208967
+PTEN_damaging_to_PIK3CB,Avana,ACH-001307,Thyroid,matrix_intact,0.01223481167180518
+PTEN_damaging_to_PIK3CB,Avana,ACH-001310,Kidney,matrix_intact,-0.3479496839997824
+PTEN_damaging_to_PIK3CB,Avana,ACH-001318,Liver,matrix_intact,0.1621626458144489
+PTEN_damaging_to_PIK3CB,Avana,ACH-001322,Soft Tissue,matrix_intact,-0.45881543596202334
+PTEN_damaging_to_PIK3CB,Avana,ACH-001328,Skin,matrix_intact,0.20426509964276196
+PTEN_damaging_to_PIK3CB,Avana,ACH-001329,CNS/Brain,matrix_intact,-0.45978613158233056
+PTEN_damaging_to_PIK3CB,Avana,ACH-001333,Cervix,damaging,0.2850486147279274
+PTEN_damaging_to_PIK3CB,Avana,ACH-001334,Cervix,matrix_intact,0.1349324297826376
+PTEN_damaging_to_PIK3CB,Avana,ACH-001335,Cervix,matrix_intact,-0.2453774852211889
+PTEN_damaging_to_PIK3CB,Avana,ACH-001336,Cervix,matrix_intact,-0.03480549563883323
+PTEN_damaging_to_PIK3CB,Avana,ACH-001338,Peripheral Nervous System,matrix_intact,-0.18874369434455704
+PTEN_damaging_to_PIK3CB,Avana,ACH-001340,Ovary/Fallopian Tube,matrix_intact,0.03525730123291918
+PTEN_damaging_to_PIK3CB,Avana,ACH-001341,Cervix,matrix_intact,0.03500508835125734
+PTEN_damaging_to_PIK3CB,Avana,ACH-001344,Peripheral Nervous System,matrix_intact,-0.49167460018067116
+PTEN_damaging_to_PIK3CB,Avana,ACH-001345,Bowel,matrix_intact,-0.15095341597468132
+PTEN_damaging_to_PIK3CB,Avana,ACH-001346,Head and Neck,matrix_intact,-0.18625570437227912
+PTEN_damaging_to_PIK3CB,Avana,ACH-001347,Head and Neck,matrix_intact,-0.16364481679850124
+PTEN_damaging_to_PIK3CB,Avana,ACH-001353,Pancreas,matrix_intact,0.1905617793775587
+PTEN_damaging_to_PIK3CB,Avana,ACH-001354,Peripheral Nervous System,matrix_intact,-0.13015375288683545
+PTEN_damaging_to_PIK3CB,Avana,ACH-001356,Thyroid,matrix_intact,-0.16501744158399023
+PTEN_damaging_to_PIK3CB,Avana,ACH-001360,Cervix,matrix_intact,0.17251054102493596
+PTEN_damaging_to_PIK3CB,Avana,ACH-001366,Peripheral Nervous System,matrix_intact,0.12489836680609837
+PTEN_damaging_to_PIK3CB,Avana,ACH-001367,Peripheral Nervous System,matrix_intact,-0.057525932759641574
+PTEN_damaging_to_PIK3CB,Avana,ACH-001368,Esophagus/Stomach,matrix_intact,0.0390026932093375
+PTEN_damaging_to_PIK3CB,Avana,ACH-001370,Ovary/Fallopian Tube,matrix_intact,-0.37368029158255717
+PTEN_damaging_to_PIK3CB,Avana,ACH-001374,Ovary/Fallopian Tube,matrix_intact,-0.08882871461900296
+PTEN_damaging_to_PIK3CB,Avana,ACH-001375,Pancreas,matrix_intact,-0.18662832729319134
+PTEN_damaging_to_PIK3CB,Avana,ACH-001377,Pancreas,damaging,-0.13785801449522492
+PTEN_damaging_to_PIK3CB,Avana,ACH-001379,Pancreas,matrix_intact,0.1085444468946864
+PTEN_damaging_to_PIK3CB,Avana,ACH-001380,Pancreas,matrix_intact,-0.023834186928831824
+PTEN_damaging_to_PIK3CB,Avana,ACH-001382,Pancreas,matrix_intact,-0.10862675506081707
+PTEN_damaging_to_PIK3CB,Avana,ACH-001385,Head and Neck,matrix_intact,0.19445795744232006
+PTEN_damaging_to_PIK3CB,Avana,ACH-001386,Lung,matrix_intact,0.011506641439165174
+PTEN_damaging_to_PIK3CB,Avana,ACH-001388,Breast,matrix_intact,0.24919811608508544
+PTEN_damaging_to_PIK3CB,Avana,ACH-001389,Breast,matrix_intact,-0.7616023105370919
+PTEN_damaging_to_PIK3CB,Avana,ACH-001390,Breast,matrix_intact,-0.03284781261939696
+PTEN_damaging_to_PIK3CB,Avana,ACH-001391,Breast,matrix_intact,0.3589084057718174
+PTEN_damaging_to_PIK3CB,Avana,ACH-001392,Breast,matrix_intact,-0.03935477375134961
+PTEN_damaging_to_PIK3CB,Avana,ACH-001393,Breast,matrix_intact,-0.07318396260370146
+PTEN_damaging_to_PIK3CB,Avana,ACH-001394,Breast,matrix_intact,0.0012004966693749397
+PTEN_damaging_to_PIK3CB,Avana,ACH-001396,Breast,matrix_intact,0.0776275481741377
+PTEN_damaging_to_PIK3CB,Avana,ACH-001398,Kidney,damaging,-0.1225750177939555
+PTEN_damaging_to_PIK3CB,Avana,ACH-001400,Vulva/Vagina,matrix_intact,-0.07844906845226426
+PTEN_damaging_to_PIK3CB,Avana,ACH-001402,Cervix,matrix_intact,-0.2806207343240339
+PTEN_damaging_to_PIK3CB,Avana,ACH-001403,Ovary/Fallopian Tube,matrix_intact,-0.07619527262063916
+PTEN_damaging_to_PIK3CB,Avana,ACH-001407,Bladder/Urinary Tract,matrix_intact,-0.09526488462595148
+PTEN_damaging_to_PIK3CB,Avana,ACH-001408,Bladder/Urinary Tract,matrix_intact,-0.12417038153602791
+PTEN_damaging_to_PIK3CB,Avana,ACH-001409,Bladder/Urinary Tract,matrix_intact,-0.18186773274324436
+PTEN_damaging_to_PIK3CB,Avana,ACH-001411,Bladder/Urinary Tract,matrix_intact,0.03775158785226475
+PTEN_damaging_to_PIK3CB,Avana,ACH-001412,Bladder/Urinary Tract,matrix_intact,0.11794915599895495
+PTEN_damaging_to_PIK3CB,Avana,ACH-001413,Bladder/Urinary Tract,matrix_intact,0.0920445309951568
+PTEN_damaging_to_PIK3CB,Avana,ACH-001414,Bladder/Urinary Tract,matrix_intact,0.04116397995380097
+PTEN_damaging_to_PIK3CB,Avana,ACH-001415,Bladder/Urinary Tract,matrix_intact,0.00682289688265366
+PTEN_damaging_to_PIK3CB,Avana,ACH-001416,Bladder/Urinary Tract,damaging,-0.38198526171607844
+PTEN_damaging_to_PIK3CB,Avana,ACH-001418,Ovary/Fallopian Tube,matrix_intact,-0.2895114569734368
+PTEN_damaging_to_PIK3CB,Avana,ACH-001419,Breast,matrix_intact,0.00299370820987032
+PTEN_damaging_to_PIK3CB,Avana,ACH-001421,Eye,matrix_intact,-0.007983426452558492
+PTEN_damaging_to_PIK3CB,Avana,ACH-001422,Prostate,matrix_intact,0.09118489947388708
+PTEN_damaging_to_PIK3CB,Avana,ACH-001430,Bone,matrix_intact,-0.15992644458435595
+PTEN_damaging_to_PIK3CB,Avana,ACH-001431,Bone,matrix_intact,-0.28578889625284765
+PTEN_damaging_to_PIK3CB,Avana,ACH-001433,Soft Tissue,matrix_intact,0.2387202377343423
+PTEN_damaging_to_PIK3CB,Avana,ACH-001442,Skin,matrix_intact,-0.19757177490244665
+PTEN_damaging_to_PIK3CB,Avana,ACH-001443,Thyroid,damaging,0.023026532110988387
+PTEN_damaging_to_PIK3CB,Avana,ACH-001450,Lymphoid,matrix_intact,-0.3473807040988127
+PTEN_damaging_to_PIK3CB,Avana,ACH-001451,Cervix,matrix_intact,-0.15817639245958526
+PTEN_damaging_to_PIK3CB,Avana,ACH-001453,Prostate,matrix_intact,-0.2258682620894348
+PTEN_damaging_to_PIK3CB,Avana,ACH-001454,Bowel,matrix_intact,0.2087822724097395
+PTEN_damaging_to_PIK3CB,Avana,ACH-001458,Bowel,matrix_intact,-0.6135671790948978
+PTEN_damaging_to_PIK3CB,Avana,ACH-001459,Bowel,matrix_intact,0.1789330428644807
+PTEN_damaging_to_PIK3CB,Avana,ACH-001460,Bowel,matrix_intact,-0.15495090182703927
+PTEN_damaging_to_PIK3CB,Avana,ACH-001461,Bowel,matrix_intact,0.009144866576843703
+PTEN_damaging_to_PIK3CB,Avana,ACH-001481,Peripheral Nervous System,matrix_intact,-0.02682918583196464
+PTEN_damaging_to_PIK3CB,Avana,ACH-001494,Biliary Tract,matrix_intact,0.05487666431213706
+PTEN_damaging_to_PIK3CB,Avana,ACH-001495,Uterus,matrix_intact,0.11093816016322137
+PTEN_damaging_to_PIK3CB,Avana,ACH-001496,Esophagus/Stomach,damaging,-0.0397870331388597
+PTEN_damaging_to_PIK3CB,Avana,ACH-001497,Esophagus/Stomach,matrix_intact,-0.22224984907070405
+PTEN_damaging_to_PIK3CB,Avana,ACH-001498,Lymphoid,matrix_intact,-0.11808853618186266
+PTEN_damaging_to_PIK3CB,Avana,ACH-001500,Esophagus/Stomach,matrix_intact,0.006974454002165689
+PTEN_damaging_to_PIK3CB,Avana,ACH-001509,Head and Neck,matrix_intact,-0.226736894766364
+PTEN_damaging_to_PIK3CB,Avana,ACH-001510,Head and Neck,matrix_intact,-0.3968670371491884
+PTEN_damaging_to_PIK3CB,Avana,ACH-001511,Head and Neck,matrix_intact,-0.03277971333388316
+PTEN_damaging_to_PIK3CB,Avana,ACH-001513,Cervix,matrix_intact,0.02310101261491141
+PTEN_damaging_to_PIK3CB,Avana,ACH-001515,Cervix,matrix_intact,0.1879443711775424
+PTEN_damaging_to_PIK3CB,Avana,ACH-001517,Uterus,matrix_intact,0.11992501118905699
+PTEN_damaging_to_PIK3CB,Avana,ACH-001518,Uterus,damaging,0.2821880104786133
+PTEN_damaging_to_PIK3CB,Avana,ACH-001520,Lymphoid,matrix_intact,0.4795212017515725
+PTEN_damaging_to_PIK3CB,Avana,ACH-001521,Skin,matrix_intact,0.2191093962289629
+PTEN_damaging_to_PIK3CB,Avana,ACH-001522,Skin,matrix_intact,0.19945751876797635
+PTEN_damaging_to_PIK3CB,Avana,ACH-001523,Skin,matrix_intact,0.014072745949358291
+PTEN_damaging_to_PIK3CB,Avana,ACH-001524,Skin,matrix_intact,0.27224801681541155
+PTEN_damaging_to_PIK3CB,Avana,ACH-001525,Cervix,matrix_intact,-0.011156169200326378
+PTEN_damaging_to_PIK3CB,Avana,ACH-001526,Bone,matrix_intact,-0.2256797923314154
+PTEN_damaging_to_PIK3CB,Avana,ACH-001528,Thyroid,matrix_intact,-0.0675893575116948
+PTEN_damaging_to_PIK3CB,Avana,ACH-001529,Uterus,matrix_intact,-3.323901946722698
+PTEN_damaging_to_PIK3CB,Avana,ACH-001530,Uterus,matrix_intact,-0.38613265850831274
+PTEN_damaging_to_PIK3CB,Avana,ACH-001532,Kidney,matrix_intact,-0.0269195165891722
+PTEN_damaging_to_PIK3CB,Avana,ACH-001533,Lymphoid,matrix_intact,-0.06351456657879409
+PTEN_damaging_to_PIK3CB,Avana,ACH-001536,Biliary Tract,matrix_intact,-0.11300771045939391
+PTEN_damaging_to_PIK3CB,Avana,ACH-001538,Biliary Tract,matrix_intact,-0.2530307778988224
+PTEN_damaging_to_PIK3CB,Avana,ACH-001539,Lymphoid,damaging,-0.02025013497824532
+PTEN_damaging_to_PIK3CB,Avana,ACH-001542,Head and Neck,matrix_intact,0.2153553047660282
+PTEN_damaging_to_PIK3CB,Avana,ACH-001543,Head and Neck,matrix_intact,0.42708189849305633
+PTEN_damaging_to_PIK3CB,Avana,ACH-001547,Pleura,matrix_intact,0.13018060123373937
+PTEN_damaging_to_PIK3CB,Avana,ACH-001548,Peripheral Nervous System,matrix_intact,-0.17005425422762555
+PTEN_damaging_to_PIK3CB,Avana,ACH-001549,Lung,matrix_intact,0.04459816169640968
+PTEN_damaging_to_PIK3CB,Avana,ACH-001550,Skin,matrix_intact,0.1529963522116122
+PTEN_damaging_to_PIK3CB,Avana,ACH-001551,Skin,matrix_intact,-0.3316226043425731
+PTEN_damaging_to_PIK3CB,Avana,ACH-001552,Skin,matrix_intact,-0.13236245663652116
+PTEN_damaging_to_PIK3CB,Avana,ACH-001554,Eye,matrix_intact,-0.2125714561123377
+PTEN_damaging_to_PIK3CB,Avana,ACH-001555,Pleura,matrix_intact,-1.1969376827841502
+PTEN_damaging_to_PIK3CB,Avana,ACH-001556,Pleura,matrix_intact,-0.01235351349218429
+PTEN_damaging_to_PIK3CB,Avana,ACH-001557,Pleura,matrix_intact,0.12112892736456257
+PTEN_damaging_to_PIK3CB,Avana,ACH-001558,Pleura,matrix_intact,-0.06000979567259003
+PTEN_damaging_to_PIK3CB,Avana,ACH-001559,Pleura,matrix_intact,-0.05300583641295904
+PTEN_damaging_to_PIK3CB,Avana,ACH-001560,Pleura,matrix_intact,0.3393183108408788
+PTEN_damaging_to_PIK3CB,Avana,ACH-001562,Pleura,matrix_intact,-0.1905839283214457
+PTEN_damaging_to_PIK3CB,Avana,ACH-001563,Skin,matrix_intact,0.44602281274815564
+PTEN_damaging_to_PIK3CB,Avana,ACH-001566,Skin,matrix_intact,-0.1751208992732733
+PTEN_damaging_to_PIK3CB,Avana,ACH-001567,Skin,matrix_intact,0.024137187856505482
+PTEN_damaging_to_PIK3CB,Avana,ACH-001568,Skin,matrix_intact,-0.5756718918623003
+PTEN_damaging_to_PIK3CB,Avana,ACH-001570,Skin,matrix_intact,-0.24986013513270539
+PTEN_damaging_to_PIK3CB,Avana,ACH-001574,Myeloid,matrix_intact,-0.2951177270305046
+PTEN_damaging_to_PIK3CB,Avana,ACH-001577,Myeloid,matrix_intact,0.2054341696742279
+PTEN_damaging_to_PIK3CB,Avana,ACH-001607,Biliary Tract,matrix_intact,-0.25962781937126594
+PTEN_damaging_to_PIK3CB,Avana,ACH-001608,CNS/Brain,matrix_intact,0.15274877116449392
+PTEN_damaging_to_PIK3CB,Avana,ACH-001609,CNS/Brain,matrix_intact,0.18562452503526305
+PTEN_damaging_to_PIK3CB,Avana,ACH-001610,CNS/Brain,damaging,-0.0017485863564058318
+PTEN_damaging_to_PIK3CB,Avana,ACH-001611,CNS/Brain,matrix_intact,-0.10828503112249431
+PTEN_damaging_to_PIK3CB,Avana,ACH-001616,Lymphoid,matrix_intact,-0.11191244425388977
+PTEN_damaging_to_PIK3CB,Avana,ACH-001618,Myeloid,matrix_intact,-0.6313344203640305
+PTEN_damaging_to_PIK3CB,Avana,ACH-001619,Biliary Tract,matrix_intact,-0.046988899296261655
+PTEN_damaging_to_PIK3CB,Avana,ACH-001622,CNS/Brain,damaging,-0.43121043830933564
+PTEN_damaging_to_PIK3CB,Avana,ACH-001623,CNS/Brain,matrix_intact,-0.03863084933667063
+PTEN_damaging_to_PIK3CB,Avana,ACH-001624,CNS/Brain,matrix_intact,-0.1404914351281792
+PTEN_damaging_to_PIK3CB,Avana,ACH-001627,Prostate,matrix_intact,0.27526183093575135
+PTEN_damaging_to_PIK3CB,Avana,ACH-001628,Ovary/Fallopian Tube,matrix_intact,-0.5446180364563347
+PTEN_damaging_to_PIK3CB,Avana,ACH-001630,Ovary/Fallopian Tube,matrix_intact,0.08067512159796794
+PTEN_damaging_to_PIK3CB,Avana,ACH-001634,Lymphoid,matrix_intact,-0.10511040421052842
+PTEN_damaging_to_PIK3CB,Avana,ACH-001641,Head and Neck,matrix_intact,0.011435356980664196
+PTEN_damaging_to_PIK3CB,Avana,ACH-001645,Skin,matrix_intact,0.003366980655092472
+PTEN_damaging_to_PIK3CB,Avana,ACH-001647,Myeloid,matrix_intact,0.0039049695110859872
+PTEN_damaging_to_PIK3CB,Avana,ACH-001648,Prostate,matrix_intact,-0.10131437325340281
+PTEN_damaging_to_PIK3CB,Avana,ACH-001649,Prostate,matrix_intact,0.20953453050215914
+PTEN_damaging_to_PIK3CB,Avana,ACH-001650,Cervix,matrix_intact,-0.057731303104744114
+PTEN_damaging_to_PIK3CB,Avana,ACH-001651,Cervix,matrix_intact,0.14209521555537966
+PTEN_damaging_to_PIK3CB,Avana,ACH-001652,Cervix,matrix_intact,-0.277916458656346
+PTEN_damaging_to_PIK3CB,Avana,ACH-001653,Esophagus/Stomach,matrix_intact,-0.3558556693161469
+PTEN_damaging_to_PIK3CB,Avana,ACH-001654,Esophagus/Stomach,matrix_intact,0.31045220831447434
+PTEN_damaging_to_PIK3CB,Avana,ACH-001655,Uterus,damaging,-0.32519699691447546
+PTEN_damaging_to_PIK3CB,Avana,ACH-001656,Myeloid,matrix_intact,0.0165120835159992
+PTEN_damaging_to_PIK3CB,Avana,ACH-001664,Esophagus/Stomach,matrix_intact,0.4060398633200567
+PTEN_damaging_to_PIK3CB,Avana,ACH-001668,Testis,matrix_intact,-0.7951091842019391
+PTEN_damaging_to_PIK3CB,Avana,ACH-001669,Lymphoid,matrix_intact,0.09222442782980153
+PTEN_damaging_to_PIK3CB,Avana,ACH-001670,CNS/Brain,matrix_intact,-0.9769076055699171
+PTEN_damaging_to_PIK3CB,Avana,ACH-001673,Biliary Tract,matrix_intact,-0.25076154397561856
+PTEN_damaging_to_PIK3CB,Avana,ACH-001674,Peripheral Nervous System,matrix_intact,0.10929671884490685
+PTEN_damaging_to_PIK3CB,Avana,ACH-001675,Head and Neck,matrix_intact,0.10025877530211777
+PTEN_damaging_to_PIK3CB,Avana,ACH-001677,Lymphoid,matrix_intact,-0.024490307000524243
+PTEN_damaging_to_PIK3CB,Avana,ACH-001685,Lymphoid,matrix_intact,0.22479468695633809
+PTEN_damaging_to_PIK3CB,Avana,ACH-001687,Kidney,matrix_intact,-0.011617264435048208
+PTEN_damaging_to_PIK3CB,Avana,ACH-001688,Kidney,matrix_intact,-0.3853952947469734
+PTEN_damaging_to_PIK3CB,Avana,ACH-001690,Head and Neck,matrix_intact,0.20866773896423485
+PTEN_damaging_to_PIK3CB,Avana,ACH-001691,Head and Neck,matrix_intact,-0.25693427062352675
+PTEN_damaging_to_PIK3CB,Avana,ACH-001692,Head and Neck,matrix_intact,0.2331296146502523
+PTEN_damaging_to_PIK3CB,Avana,ACH-001694,Head and Neck,matrix_intact,-0.01676071547836643
+PTEN_damaging_to_PIK3CB,Avana,ACH-001696,Head and Neck,matrix_intact,0.009352128733477086
+PTEN_damaging_to_PIK3CB,Avana,ACH-001698,Head and Neck,matrix_intact,-0.03888985052623453
+PTEN_damaging_to_PIK3CB,Avana,ACH-001699,Head and Neck,matrix_intact,-0.10347137639127521
+PTEN_damaging_to_PIK3CB,Avana,ACH-001701,Head and Neck,matrix_intact,0.6691309424706322
+PTEN_damaging_to_PIK3CB,Avana,ACH-001702,Soft Tissue,matrix_intact,-0.05122172274116374
+PTEN_damaging_to_PIK3CB,Avana,ACH-001707,Lymphoid,matrix_intact,-0.06721392176335639
+PTEN_damaging_to_PIK3CB,Avana,ACH-001709,Lymphoid,matrix_intact,0.3025143133047119
+PTEN_damaging_to_PIK3CB,Avana,ACH-001711,CNS/Brain,matrix_intact,0.383658967261614
+PTEN_damaging_to_PIK3CB,Avana,ACH-001715,Bone,matrix_intact,-0.2207433463737974
+PTEN_damaging_to_PIK3CB,Avana,ACH-001719,Ovary/Fallopian Tube,matrix_intact,0.13618464354077178
+PTEN_damaging_to_PIK3CB,Avana,ACH-001735,Lymphoid,matrix_intact,0.14703794158183525
+PTEN_damaging_to_PIK3CB,Avana,ACH-001736,Lymphoid,matrix_intact,0.2840547591324221
+PTEN_damaging_to_PIK3CB,Avana,ACH-001737,Lymphoid,matrix_intact,0.08753536862484662
+PTEN_damaging_to_PIK3CB,Avana,ACH-001740,Soft Tissue,matrix_intact,0.1854477719171914
+PTEN_damaging_to_PIK3CB,Avana,ACH-001745,Soft Tissue,matrix_intact,-0.11836941526418279
+PTEN_damaging_to_PIK3CB,Avana,ACH-001750,Soft Tissue,matrix_intact,-0.3458876755399314
+PTEN_damaging_to_PIK3CB,Avana,ACH-001765,Soft Tissue,matrix_intact,-0.2135123614701347
+PTEN_damaging_to_PIK3CB,Avana,ACH-001786,Bowel,matrix_intact,0.10867242787612902
+PTEN_damaging_to_PIK3CB,Avana,ACH-001791,Soft Tissue,matrix_intact,-0.06697963805852732
+PTEN_damaging_to_PIK3CB,Avana,ACH-001793,Soft Tissue,matrix_intact,0.04513635226146029
+PTEN_damaging_to_PIK3CB,Avana,ACH-001794,Soft Tissue,matrix_intact,0.0501321697929291
+PTEN_damaging_to_PIK3CB,Avana,ACH-001795,Soft Tissue,matrix_intact,-0.4993373845270651
+PTEN_damaging_to_PIK3CB,Avana,ACH-001796,Soft Tissue,matrix_intact,-0.23987743198528755
+PTEN_damaging_to_PIK3CB,Avana,ACH-001799,Soft Tissue,matrix_intact,0.3985891665502112
+PTEN_damaging_to_PIK3CB,Avana,ACH-001802,Soft Tissue,matrix_intact,0.11047059169371301
+PTEN_damaging_to_PIK3CB,Avana,ACH-001804,Soft Tissue,matrix_intact,-0.12379807427361735
+PTEN_damaging_to_PIK3CB,Avana,ACH-001814,Bone,matrix_intact,-0.3376778923294604
+PTEN_damaging_to_PIK3CB,Avana,ACH-001819,Breast,matrix_intact,0.14323706216053544
+PTEN_damaging_to_PIK3CB,Avana,ACH-001820,Breast,matrix_intact,0.037132450825983855
+PTEN_damaging_to_PIK3CB,Avana,ACH-001834,Biliary Tract,damaging,-1.0221327139887353
+PTEN_damaging_to_PIK3CB,Avana,ACH-001835,Biliary Tract,damaging,-0.24583201644465147
+PTEN_damaging_to_PIK3CB,Avana,ACH-001836,Biliary Tract,damaging,-0.6920776900996213
+PTEN_damaging_to_PIK3CB,Avana,ACH-001838,Biliary Tract,matrix_intact,-0.19820264518476627
+PTEN_damaging_to_PIK3CB,Avana,ACH-001839,Biliary Tract,matrix_intact,0.09060984651140197
+PTEN_damaging_to_PIK3CB,Avana,ACH-001841,Biliary Tract,matrix_intact,-0.04072846485968776
+PTEN_damaging_to_PIK3CB,Avana,ACH-001842,Biliary Tract,matrix_intact,-0.21884230045541286
+PTEN_damaging_to_PIK3CB,Avana,ACH-001843,Biliary Tract,matrix_intact,-0.7222689473042176
+PTEN_damaging_to_PIK3CB,Avana,ACH-001844,Biliary Tract,matrix_intact,-0.26779696907058614
+PTEN_damaging_to_PIK3CB,Avana,ACH-001848,Biliary Tract,matrix_intact,-0.23856591172019168
+PTEN_damaging_to_PIK3CB,Avana,ACH-001849,Biliary Tract,matrix_intact,-0.3828809530824105
+PTEN_damaging_to_PIK3CB,Avana,ACH-001850,Biliary Tract,matrix_intact,-0.4227166123024863
+PTEN_damaging_to_PIK3CB,Avana,ACH-001852,Biliary Tract,matrix_intact,0.10644684006591693
+PTEN_damaging_to_PIK3CB,Avana,ACH-001853,Liver,matrix_intact,0.04141503182936603
+PTEN_damaging_to_PIK3CB,Avana,ACH-001856,Biliary Tract,matrix_intact,-0.2321661848009516
+PTEN_damaging_to_PIK3CB,Avana,ACH-001857,Biliary Tract,matrix_intact,-0.1112591182504099
+PTEN_damaging_to_PIK3CB,Avana,ACH-001858,Biliary Tract,matrix_intact,-0.04464539541858853
+PTEN_damaging_to_PIK3CB,Avana,ACH-001861,Biliary Tract,matrix_intact,-0.36238074246972396
+PTEN_damaging_to_PIK3CB,Avana,ACH-001862,Ampulla of Vater,matrix_intact,-0.5182690394220009
+PTEN_damaging_to_PIK3CB,Avana,ACH-001863,Biliary Tract,matrix_intact,-0.09315654407349169
+PTEN_damaging_to_PIK3CB,Avana,ACH-001864,Biliary Tract,matrix_intact,-0.042821255086255616
+PTEN_damaging_to_PIK3CB,Avana,ACH-001959,Biliary Tract,matrix_intact,-0.012717742011371314
+PTEN_damaging_to_PIK3CB,Avana,ACH-001960,Biliary Tract,matrix_intact,-0.21134616986559615
+PTEN_damaging_to_PIK3CB,Avana,ACH-001961,Biliary Tract,matrix_intact,-0.40783900196517864
+PTEN_damaging_to_PIK3CB,Avana,ACH-001970,Skin,matrix_intact,0.007452691553966412
+PTEN_damaging_to_PIK3CB,Avana,ACH-001973,Skin,matrix_intact,0.09977165169680191
+PTEN_damaging_to_PIK3CB,Avana,ACH-001977,Pleura,matrix_intact,-0.010854677484830173
+PTEN_damaging_to_PIK3CB,Avana,ACH-001982,Skin,matrix_intact,-0.08302352473567336
+PTEN_damaging_to_PIK3CB,Avana,ACH-001986,Skin,matrix_intact,0.09850253810368984
+PTEN_damaging_to_PIK3CB,Avana,ACH-001990,Skin,matrix_intact,-0.11540497609744138
+PTEN_damaging_to_PIK3CB,Avana,ACH-001991,Ovary/Fallopian Tube,damaging,0.024943429446759032
+PTEN_damaging_to_PIK3CB,Avana,ACH-001992,Pleura,matrix_intact,0.07917206119731102
+PTEN_damaging_to_PIK3CB,Avana,ACH-001993,Lymphoid,matrix_intact,0.03317765207066929
+PTEN_damaging_to_PIK3CB,Avana,ACH-001997,Biliary Tract,matrix_intact,-0.41010990946787595
+PTEN_damaging_to_PIK3CB,Avana,ACH-001999,Pancreas,matrix_intact,-0.30345508886371153
+PTEN_damaging_to_PIK3CB,Avana,ACH-002001,Skin,matrix_intact,0.11518472771806783
+PTEN_damaging_to_PIK3CB,Avana,ACH-002002,Skin,matrix_intact,-0.31029037945356874
+PTEN_damaging_to_PIK3CB,Avana,ACH-002003,Skin,matrix_intact,-0.3850979178296749
+PTEN_damaging_to_PIK3CB,Avana,ACH-002005,Skin,matrix_intact,0.3507785037560437
+PTEN_damaging_to_PIK3CB,Avana,ACH-002014,Eye,matrix_intact,-0.6668956576199294
+PTEN_damaging_to_PIK3CB,Avana,ACH-002015,Eye,matrix_intact,0.04292553489838355
+PTEN_damaging_to_PIK3CB,Avana,ACH-002016,Eye,matrix_intact,-0.19440707863611847
+PTEN_damaging_to_PIK3CB,Avana,ACH-002018,Eye,matrix_intact,-0.2895235197987743
+PTEN_damaging_to_PIK3CB,Avana,ACH-002019,Cervix,matrix_intact,-0.21089379755266174
+PTEN_damaging_to_PIK3CB,Avana,ACH-002020,Cervix,matrix_intact,0.1595749622372318
+PTEN_damaging_to_PIK3CB,Avana,ACH-002021,Uterus,matrix_intact,-0.31742300431906245
+PTEN_damaging_to_PIK3CB,Avana,ACH-002023,Ampulla of Vater,matrix_intact,-0.12254794332794013
+PTEN_damaging_to_PIK3CB,Avana,ACH-002024,Bowel,matrix_intact,-0.02553406787842634
+PTEN_damaging_to_PIK3CB,Avana,ACH-002025,Bowel,matrix_intact,-0.13303740664966973
+PTEN_damaging_to_PIK3CB,Avana,ACH-002026,Uterus,damaging,0.3375233441568738
+PTEN_damaging_to_PIK3CB,Avana,ACH-002027,Uterus,damaging,0.15894426599270917
+PTEN_damaging_to_PIK3CB,Avana,ACH-002029,Head and Neck,matrix_intact,-0.03221923054930006
+PTEN_damaging_to_PIK3CB,Avana,ACH-002030,Head and Neck,matrix_intact,-0.2521052892058742
+PTEN_damaging_to_PIK3CB,Avana,ACH-002035,Lung,matrix_intact,-0.09690628319361752
+PTEN_damaging_to_PIK3CB,Avana,ACH-002039,Pancreas,matrix_intact,0.02680721145048097
+PTEN_damaging_to_PIK3CB,Avana,ACH-002040,Vulva/Vagina,matrix_intact,0.17836464896444107
+PTEN_damaging_to_PIK3CB,Avana,ACH-002041,Thyroid,matrix_intact,-0.13571558318125476
+PTEN_damaging_to_PIK3CB,Avana,ACH-002042,Head and Neck,matrix_intact,0.09024090822443848
+PTEN_damaging_to_PIK3CB,Avana,ACH-002043,Head and Neck,matrix_intact,0.0868430080231315
+PTEN_damaging_to_PIK3CB,Avana,ACH-002044,Head and Neck,matrix_intact,-0.28545878075231856
+PTEN_damaging_to_PIK3CB,Avana,ACH-002045,Head and Neck,matrix_intact,-0.04062327298693266
+PTEN_damaging_to_PIK3CB,Avana,ACH-002046,Uterus,damaging,0.039590475968804405
+PTEN_damaging_to_PIK3CB,Avana,ACH-002048,Soft Tissue,matrix_intact,0.051223706622762905
+PTEN_damaging_to_PIK3CB,Avana,ACH-002051,Lung,matrix_intact,-0.09420779097250961
+PTEN_damaging_to_PIK3CB,Avana,ACH-002059,Lymphoid,matrix_intact,0.2116067676326853
+PTEN_damaging_to_PIK3CB,Avana,ACH-002061,Myeloid,matrix_intact,0.513803453895835
+PTEN_damaging_to_PIK3CB,Avana,ACH-002062,Lymphoid,matrix_intact,0.9808374789400744
+PTEN_damaging_to_PIK3CB,Avana,ACH-002066,Peripheral Nervous System,matrix_intact,0.053993981824611986
+PTEN_damaging_to_PIK3CB,Avana,ACH-002067,Bone,matrix_intact,-0.12930433907496575
+PTEN_damaging_to_PIK3CB,Avana,ACH-002069,Bone,matrix_intact,-0.3455263825007426
+PTEN_damaging_to_PIK3CB,Avana,ACH-002070,CNS/Brain,matrix_intact,-0.015045521222090956
+PTEN_damaging_to_PIK3CB,Avana,ACH-002077,Lung,damaging,0.13681463851461562
+PTEN_damaging_to_PIK3CB,Avana,ACH-002080,Peripheral Nervous System,matrix_intact,0.0906061936023139
+PTEN_damaging_to_PIK3CB,Avana,ACH-002084,Skin,matrix_intact,-0.2887845910962986
+PTEN_damaging_to_PIK3CB,Avana,ACH-002214,Lymphoid,matrix_intact,-0.8314175628488663
+PTEN_damaging_to_PIK3CB,Avana,ACH-002215,Lymphoid,damaging,-0.0786344650915275
+PTEN_damaging_to_PIK3CB,Avana,ACH-002291,Testis,matrix_intact,0.008788867021832542
+PTEN_damaging_to_PIK3CB,Avana,ACH-002399,Breast,matrix_intact,0.1272285896854174
+PTEN_damaging_to_PIK3CB,Avana,ACH-002446,Esophagus/Stomach,damaging,-1.5302309066345776
+PTEN_damaging_to_PIK3CB,Avana,ACH-002458,Skin,matrix_intact,0.3497580288917993
+PTEN_damaging_to_PIK3CB,Avana,ACH-002459,Skin,matrix_intact,0.38844056200123045
+PTEN_damaging_to_PIK3CB,Avana,ACH-002460,Skin,matrix_intact,-0.342826341172187
+PTEN_damaging_to_PIK3CB,Avana,ACH-002461,Skin,matrix_intact,0.4292078059927391
+PTEN_damaging_to_PIK3CB,Avana,ACH-002462,Eye,matrix_intact,-0.5666987436081611
+PTEN_damaging_to_PIK3CB,Avana,ACH-002463,Eye,matrix_intact,-0.4264104300283097
+PTEN_damaging_to_PIK3CB,Avana,ACH-002464,Eye,matrix_intact,-0.8185905443724106
+PTEN_damaging_to_PIK3CB,Avana,ACH-002465,Eye,matrix_intact,-0.3582391388499726
+PTEN_damaging_to_PIK3CB,Avana,ACH-002467,Eye,matrix_intact,-0.5602210126912401
+PTEN_damaging_to_PIK3CB,Avana,ACH-002471,Bone,matrix_intact,-0.023066805639202423
+PTEN_damaging_to_PIK3CB,Avana,ACH-002478,Lymphoid,matrix_intact,0.14520891963624524
+PTEN_damaging_to_PIK3CB,Avana,ACH-002485,Lymphoid,matrix_intact,0.31782354268653634
+PTEN_damaging_to_PIK3CB,Avana,ACH-002486,Ovary/Fallopian Tube,matrix_intact,0.11251063344220655
+PTEN_damaging_to_PIK3CB,Avana,ACH-002508,Skin,matrix_intact,0.006123258265507761
+PTEN_damaging_to_PIK3CB,Avana,ACH-002510,Skin,matrix_intact,-0.19725210580597746
+PTEN_damaging_to_PIK3CB,Avana,ACH-002511,Skin,matrix_intact,-0.22991893986101258
+PTEN_damaging_to_PIK3CB,Avana,ACH-002512,Skin,matrix_intact,-0.19605509445345692
+PTEN_damaging_to_PIK3CB,Avana,ACH-002522,Lung,matrix_intact,-0.571852645633791
+PTEN_damaging_to_PIK3CB,Avana,ACH-002523,Liver,matrix_intact,-0.13432138755156897
+PTEN_damaging_to_PIK3CB,Avana,ACH-002524,Ovary/Fallopian Tube,matrix_intact,0.0317002101413428
+PTEN_damaging_to_PIK3CB,Avana,ACH-002526,Lung,matrix_intact,-0.5267781350818992
+PTEN_damaging_to_PIK3CB,Avana,ACH-002531,Lung,matrix_intact,0.2848419351059866
+PTEN_damaging_to_PIK3CB,Avana,ACH-002533,Kidney,matrix_intact,-0.1371147242008868
+PTEN_damaging_to_PIK3CB,Avana,ACH-002535,Bowel,matrix_intact,-0.11333229229643176
+PTEN_damaging_to_PIK3CB,Avana,ACH-002647,Biliary Tract,matrix_intact,0.057954853268152196
+PTEN_damaging_to_PIK3CB,Avana,ACH-002650,Lung,matrix_intact,0.10340277509126047
+PTEN_damaging_to_PIK3CB,Avana,ACH-002654,Bowel,matrix_intact,0.43355233650151614
+PTEN_damaging_to_PIK3CB,Avana,ACH-002659,Bowel,matrix_intact,-0.052309277555785974
+PTEN_damaging_to_PIK3CB,Avana,ACH-002664,Bowel,matrix_intact,0.06309297706289298
+PTEN_damaging_to_PIK3CB,Avana,ACH-002669,Bowel,matrix_intact,0.21276298255762832
+PTEN_damaging_to_PIK3CB,Avana,ACH-002672,Pancreas,matrix_intact,-0.8538773842159726
+PTEN_damaging_to_PIK3CB,Avana,ACH-002680,CNS/Brain,matrix_intact,-0.6882351022459705
+PTEN_damaging_to_PIK3CB,Avana,ACH-002687,Eye,matrix_intact,-0.3024083609722615
+PTEN_damaging_to_PIK3CB,Avana,ACH-002693,Peripheral Nervous System,matrix_intact,-0.4058816519937469
+PTEN_damaging_to_PIK3CB,Avana,ACH-002710,Peripheral Nervous System,matrix_intact,-0.5742681056783376
+PTEN_damaging_to_PIK3CB,Avana,ACH-002785,Soft Tissue,matrix_intact,-0.21330809304605097
+PTEN_damaging_to_PIK3CB,Avana,ACH-002799,Peripheral Nervous System,matrix_intact,-0.10085575208292011
+PTEN_damaging_to_PIK3CB,Avana,ACH-002800,Peripheral Nervous System,matrix_intact,-0.25463125608841475
+PTEN_damaging_to_PIK3CB,Avana,ACH-002834,Bone,matrix_intact,0.16900701449270988
+PTEN_damaging_to_PIK3CB,Avana,ACH-002847,Skin,matrix_intact,-0.06459613522008427
+PTEN_damaging_to_PIK3CB,Avana,ACH-002922,Peripheral Nervous System,matrix_intact,-0.04907529310052765
+PTEN_damaging_to_PIK3CB,Avana,ACH-002925,Eye,matrix_intact,-1.0707647208958226
+PTEN_damaging_to_PIK3CB,Avana,ACH-002926,Eye,matrix_intact,0.06765406080420128
+PTEN_damaging_to_PIK3CB,KY,ACH-000001,Ovary/Fallopian Tube,matrix_intact,-0.16348786108792676
+PTEN_damaging_to_PIK3CB,KY,ACH-000007,Bowel,matrix_intact,-1.0901117849027941
+PTEN_damaging_to_PIK3CB,KY,ACH-000009,Bowel,matrix_intact,-0.6305641139786006
+PTEN_damaging_to_PIK3CB,KY,ACH-000019,Breast,matrix_intact,-0.6565617645901121
+PTEN_damaging_to_PIK3CB,KY,ACH-000023,Pancreas,matrix_intact,-1.3022500905047223
+PTEN_damaging_to_PIK3CB,KY,ACH-000024,Lymphoid,matrix_intact,-0.05958910221513505
+PTEN_damaging_to_PIK3CB,KY,ACH-000030,Lung,matrix_intact,-0.2645433885815232
+PTEN_damaging_to_PIK3CB,KY,ACH-000035,Lung,matrix_intact,-0.5986450373491112
+PTEN_damaging_to_PIK3CB,KY,ACH-000042,Pancreas,matrix_intact,-0.3279848160749361
+PTEN_damaging_to_PIK3CB,KY,ACH-000048,Ovary/Fallopian Tube,matrix_intact,-0.256829008779851
+PTEN_damaging_to_PIK3CB,KY,ACH-000060,Pancreas,matrix_intact,-0.6668808979196227
+PTEN_damaging_to_PIK3CB,KY,ACH-000067,CNS/Brain,matrix_intact,-0.7888155510603254
+PTEN_damaging_to_PIK3CB,KY,ACH-000075,CNS/Brain,damaging,0.02669760770548671
+PTEN_damaging_to_PIK3CB,KY,ACH-000094,Pancreas,matrix_intact,-0.400718730609069
+PTEN_damaging_to_PIK3CB,KY,ACH-000098,CNS/Brain,matrix_intact,0.12486883484915895
+PTEN_damaging_to_PIK3CB,KY,ACH-000103,Ovary/Fallopian Tube,matrix_intact,-0.7881625315934104
+PTEN_damaging_to_PIK3CB,KY,ACH-000108,Pancreas,matrix_intact,-0.8560865526096734
+PTEN_damaging_to_PIK3CB,KY,ACH-000111,Breast,matrix_intact,-0.544355188436419
+PTEN_damaging_to_PIK3CB,KY,ACH-000113,Myeloid,matrix_intact,-0.446747851191099
+PTEN_damaging_to_PIK3CB,KY,ACH-000114,Pancreas,matrix_intact,-0.34507684592701193
+PTEN_damaging_to_PIK3CB,KY,ACH-000118,Pancreas,matrix_intact,-0.1669485386043271
+PTEN_damaging_to_PIK3CB,KY,ACH-000120,Peripheral Nervous System,matrix_intact,-1.114470780197271
+PTEN_damaging_to_PIK3CB,KY,ACH-000124,Lymphoid,matrix_intact,-0.16578002060362126
+PTEN_damaging_to_PIK3CB,KY,ACH-000132,Ovary/Fallopian Tube,matrix_intact,-0.010077175290783094
+PTEN_damaging_to_PIK3CB,KY,ACH-000137,CNS/Brain,damaging,-0.38803208893556523
+PTEN_damaging_to_PIK3CB,KY,ACH-000139,Pancreas,matrix_intact,-0.544234345239234
+PTEN_damaging_to_PIK3CB,KY,ACH-000144,Esophagus/Stomach,matrix_intact,-0.006948966777911486
+PTEN_damaging_to_PIK3CB,KY,ACH-000147,Breast,matrix_intact,-0.34501782964132904
+PTEN_damaging_to_PIK3CB,KY,ACH-000148,Breast,matrix_intact,-1.341712276035116
+PTEN_damaging_to_PIK3CB,KY,ACH-000149,Peripheral Nervous System,matrix_intact,-1.5027709927366584
+PTEN_damaging_to_PIK3CB,KY,ACH-000155,Pancreas,matrix_intact,-0.2946741647116525
+PTEN_damaging_to_PIK3CB,KY,ACH-000176,Lung,matrix_intact,-0.39388658688599903
+PTEN_damaging_to_PIK3CB,KY,ACH-000181,Head and Neck,matrix_intact,-0.5876230777740395
+PTEN_damaging_to_PIK3CB,KY,ACH-000183,Lymphoid,matrix_intact,-1.4440336428812313
+PTEN_damaging_to_PIK3CB,KY,ACH-000192,Uterus,matrix_intact,-0.6498602826026342
+PTEN_damaging_to_PIK3CB,KY,ACH-000200,CNS/Brain,matrix_intact,-0.5493119546900571
+PTEN_damaging_to_PIK3CB,KY,ACH-000204,Lymphoid,matrix_intact,-0.7999713126718101
+PTEN_damaging_to_PIK3CB,KY,ACH-000207,Head and Neck,matrix_intact,0.09498712782448422
+PTEN_damaging_to_PIK3CB,KY,ACH-000213,Pancreas,matrix_intact,-0.7967678369719683
+PTEN_damaging_to_PIK3CB,KY,ACH-000219,Skin,matrix_intact,-1.0858587934216475
+PTEN_damaging_to_PIK3CB,KY,ACH-000222,Pancreas,matrix_intact,-0.394293359758276
+PTEN_damaging_to_PIK3CB,KY,ACH-000223,Breast,matrix_intact,-0.6954270346332501
+PTEN_damaging_to_PIK3CB,KY,ACH-000227,Peripheral Nervous System,matrix_intact,0.2485401932704688
+PTEN_damaging_to_PIK3CB,KY,ACH-000232,CNS/Brain,damaging,-0.11255273710826878
+PTEN_damaging_to_PIK3CB,KY,ACH-000235,Pancreas,matrix_intact,-0.46849106155228776
+PTEN_damaging_to_PIK3CB,KY,ACH-000238,Head and Neck,matrix_intact,0.4158713152727034
+PTEN_damaging_to_PIK3CB,KY,ACH-000243,Pancreas,matrix_intact,-0.40750296850035617
+PTEN_damaging_to_PIK3CB,KY,ACH-000244,CNS/Brain,damaging,0.2969515534170046
+PTEN_damaging_to_PIK3CB,KY,ACH-000248,Breast,matrix_intact,0.1979172065109407
+PTEN_damaging_to_PIK3CB,KY,ACH-000249,Bowel,matrix_intact,-2.6528708163152515
+PTEN_damaging_to_PIK3CB,KY,ACH-000252,Bowel,matrix_intact,-2.4075240013893207
+PTEN_damaging_to_PIK3CB,KY,ACH-000260,Peripheral Nervous System,matrix_intact,-0.1598565666070151
+PTEN_damaging_to_PIK3CB,KY,ACH-000265,Pancreas,matrix_intact,-0.6914672843813777
+PTEN_damaging_to_PIK3CB,KY,ACH-000269,CNS/Brain,matrix_intact,-1.4502339518036158
+PTEN_damaging_to_PIK3CB,KY,ACH-000271,Lymphoid,damaging,-0.5167873379403888
+PTEN_damaging_to_PIK3CB,KY,ACH-000273,CNS/Brain,matrix_intact,-0.19820686162732187
+PTEN_damaging_to_PIK3CB,KY,ACH-000276,Breast,matrix_intact,-1.3630743621665606
+PTEN_damaging_to_PIK3CB,KY,ACH-000291,Ovary/Fallopian Tube,matrix_intact,-0.5990231905660837
+PTEN_damaging_to_PIK3CB,KY,ACH-000293,Uterus,matrix_intact,-0.891130057663915
+PTEN_damaging_to_PIK3CB,KY,ACH-000305,Esophagus/Stomach,matrix_intact,-0.629579435847299
+PTEN_damaging_to_PIK3CB,KY,ACH-000308,Ovary/Fallopian Tube,matrix_intact,-0.6883394639510271
+PTEN_damaging_to_PIK3CB,KY,ACH-000318,Esophagus/Stomach,matrix_intact,-0.2985136644559702
+PTEN_damaging_to_PIK3CB,KY,ACH-000320,Pancreas,matrix_intact,-0.7911403798147609
+PTEN_damaging_to_PIK3CB,KY,ACH-000323,CNS/Brain,damaging,-0.28551217442657884
+PTEN_damaging_to_PIK3CB,KY,ACH-000336,Myeloid,matrix_intact,-0.11847206630469333
+PTEN_damaging_to_PIK3CB,KY,ACH-000337,Lung,matrix_intact,-0.6148225317052
+PTEN_damaging_to_PIK3CB,KY,ACH-000341,Peripheral Nervous System,matrix_intact,-0.22811270328116517
+PTEN_damaging_to_PIK3CB,KY,ACH-000350,Bowel,matrix_intact,-0.7149603822243057
+PTEN_damaging_to_PIK3CB,KY,ACH-000354,Pancreas,matrix_intact,-0.8763434608977002
+PTEN_damaging_to_PIK3CB,KY,ACH-000366,Peripheral Nervous System,matrix_intact,-0.31421889376845086
+PTEN_damaging_to_PIK3CB,KY,ACH-000367,Pleura,matrix_intact,-0.5566153342304943
+PTEN_damaging_to_PIK3CB,KY,ACH-000374,Breast,matrix_intact,-1.1707392920699393
+PTEN_damaging_to_PIK3CB,KY,ACH-000376,CNS/Brain,damaging,-0.4267529951752594
+PTEN_damaging_to_PIK3CB,KY,ACH-000381,Bowel,matrix_intact,-0.46393270445982104
+PTEN_damaging_to_PIK3CB,KY,ACH-000383,Esophagus/Stomach,matrix_intact,-0.8591351935570878
+PTEN_damaging_to_PIK3CB,KY,ACH-000391,Bone,matrix_intact,-0.20130319575373148
+PTEN_damaging_to_PIK3CB,KY,ACH-000395,Lung,matrix_intact,-1.670880771074846
+PTEN_damaging_to_PIK3CB,KY,ACH-000408,Esophagus/Stomach,matrix_intact,-0.5586145588653912
+PTEN_damaging_to_PIK3CB,KY,ACH-000411,Kidney,matrix_intact,-0.4956694106226081
+PTEN_damaging_to_PIK3CB,KY,ACH-000414,Lung,matrix_intact,-0.36461526503340475
+PTEN_damaging_to_PIK3CB,KY,ACH-000417,Pancreas,matrix_intact,-0.8145792536470221
+PTEN_damaging_to_PIK3CB,KY,ACH-000421,Bowel,matrix_intact,-0.14180888570606517
+PTEN_damaging_to_PIK3CB,KY,ACH-000424,Bone,matrix_intact,-0.9033421447098703
+PTEN_damaging_to_PIK3CB,KY,ACH-000427,Esophagus/Stomach,matrix_intact,-0.7428286308479718
+PTEN_damaging_to_PIK3CB,KY,ACH-000430,Ovary/Fallopian Tube,matrix_intact,-0.27655524874315485
+PTEN_damaging_to_PIK3CB,KY,ACH-000434,Lung,matrix_intact,-0.42358515626647075
+PTEN_damaging_to_PIK3CB,KY,ACH-000437,CNS/Brain,matrix_intact,-1.2828743613179876
+PTEN_damaging_to_PIK3CB,KY,ACH-000438,Lung,matrix_intact,0.4174032197471782
+PTEN_damaging_to_PIK3CB,KY,ACH-000442,Lung,matrix_intact,0.3454277110113018
+PTEN_damaging_to_PIK3CB,KY,ACH-000452,Esophagus/Stomach,matrix_intact,-0.5757063685170937
+PTEN_damaging_to_PIK3CB,KY,ACH-000464,CNS/Brain,damaging,-0.28338567625468025
+PTEN_damaging_to_PIK3CB,KY,ACH-000469,CNS/Brain,matrix_intact,-1.5960567697385173
+PTEN_damaging_to_PIK3CB,KY,ACH-000481,Lung,matrix_intact,-0.42317456626263256
+PTEN_damaging_to_PIK3CB,KY,ACH-000501,Bowel,matrix_intact,-1.821931701481777
+PTEN_damaging_to_PIK3CB,KY,ACH-000504,CNS/Brain,matrix_intact,-0.6645154547325466
+PTEN_damaging_to_PIK3CB,KY,ACH-000505,Soft Tissue,matrix_intact,-0.28074197862433353
+PTEN_damaging_to_PIK3CB,KY,ACH-000510,Lung,matrix_intact,-0.17074428909171538
+PTEN_damaging_to_PIK3CB,KY,ACH-000518,Head and Neck,matrix_intact,-0.32078144847373813
+PTEN_damaging_to_PIK3CB,KY,ACH-000524,Ovary/Fallopian Tube,matrix_intact,-0.49706236646320834
+PTEN_damaging_to_PIK3CB,KY,ACH-000527,Ovary/Fallopian Tube,matrix_intact,-0.24327705026550075
+PTEN_damaging_to_PIK3CB,KY,ACH-000532,Bowel,matrix_intact,-0.2437169197491921
+PTEN_damaging_to_PIK3CB,KY,ACH-000535,Pancreas,matrix_intact,-0.48439986673033
+PTEN_damaging_to_PIK3CB,KY,ACH-000544,Esophagus/Stomach,matrix_intact,-0.3086342500729428
+PTEN_damaging_to_PIK3CB,KY,ACH-000546,Head and Neck,damaging,-0.44922697349085167
+PTEN_damaging_to_PIK3CB,KY,ACH-000548,Head and Neck,matrix_intact,-0.5914218653119522
+PTEN_damaging_to_PIK3CB,KY,ACH-000552,Bowel,matrix_intact,-0.023592291371331352
+PTEN_damaging_to_PIK3CB,KY,ACH-000554,Breast,matrix_intact,-0.39102038151060725
+PTEN_damaging_to_PIK3CB,KY,ACH-000558,CNS/Brain,matrix_intact,-0.5399193610101102
+PTEN_damaging_to_PIK3CB,KY,ACH-000561,Esophagus/Stomach,matrix_intact,-0.8533382770746387
+PTEN_damaging_to_PIK3CB,KY,ACH-000562,Lung,matrix_intact,-0.31050801600347133
+PTEN_damaging_to_PIK3CB,KY,ACH-000563,Lung,matrix_intact,-0.9920719067057148
+PTEN_damaging_to_PIK3CB,KY,ACH-000565,Bowel,matrix_intact,-0.4432209870722272
+PTEN_damaging_to_PIK3CB,KY,ACH-000571,CNS/Brain,matrix_intact,-0.9948269653613075
+PTEN_damaging_to_PIK3CB,KY,ACH-000573,Breast,matrix_intact,-0.48724139356476287
+PTEN_damaging_to_PIK3CB,KY,ACH-000581,Esophagus/Stomach,matrix_intact,-0.17144806779117286
+PTEN_damaging_to_PIK3CB,KY,ACH-000584,Ovary/Fallopian Tube,matrix_intact,-0.29147225000995475
+PTEN_damaging_to_PIK3CB,KY,ACH-000585,Lung,matrix_intact,-0.40358534221483994
+PTEN_damaging_to_PIK3CB,KY,ACH-000587,Lung,matrix_intact,-0.25409992596934794
+PTEN_damaging_to_PIK3CB,KY,ACH-000595,CNS/Brain,matrix_intact,-0.2714319165592994
+PTEN_damaging_to_PIK3CB,KY,ACH-000596,Lung,matrix_intact,-0.9164757528873189
+PTEN_damaging_to_PIK3CB,KY,ACH-000599,Pancreas,matrix_intact,-0.5823253805467864
+PTEN_damaging_to_PIK3CB,KY,ACH-000601,Pancreas,matrix_intact,-0.33890044947982156
+PTEN_damaging_to_PIK3CB,KY,ACH-000609,CNS/Brain,damaging,-0.1420976837634553
+PTEN_damaging_to_PIK3CB,KY,ACH-000619,Head and Neck,matrix_intact,-0.09588883334107305
+PTEN_damaging_to_PIK3CB,KY,ACH-000622,CNS/Brain,matrix_intact,0.006379286934765489
+PTEN_damaging_to_PIK3CB,KY,ACH-000624,Breast,matrix_intact,-0.7493295944824494
+PTEN_damaging_to_PIK3CB,KY,ACH-000637,Esophagus/Stomach,matrix_intact,-0.3154986063088087
+PTEN_damaging_to_PIK3CB,KY,ACH-000651,Bowel,matrix_intact,-0.24518028181034443
+PTEN_damaging_to_PIK3CB,KY,ACH-000652,Pancreas,matrix_intact,-1.0920681808072925
+PTEN_damaging_to_PIK3CB,KY,ACH-000656,Lymphoid,matrix_intact,-0.6560598803587108
+PTEN_damaging_to_PIK3CB,KY,ACH-000657,Ovary/Fallopian Tube,matrix_intact,-0.46558321936341795
+PTEN_damaging_to_PIK3CB,KY,ACH-000660,Lymphoid,damaging,-0.5923018743680918
+PTEN_damaging_to_PIK3CB,KY,ACH-000662,Lung,matrix_intact,-0.6402969878389108
+PTEN_damaging_to_PIK3CB,KY,ACH-000665,Lung,matrix_intact,-0.5138448708559957
+PTEN_damaging_to_PIK3CB,KY,ACH-000666,Lung,matrix_intact,-0.19762224724202343
+PTEN_damaging_to_PIK3CB,KY,ACH-000668,Breast,damaging,-3.915713642051771
+PTEN_damaging_to_PIK3CB,KY,ACH-000677,Lung,matrix_intact,-0.13024423069069144
+PTEN_damaging_to_PIK3CB,KY,ACH-000681,Lung,matrix_intact,-0.1976100641252964
+PTEN_damaging_to_PIK3CB,KY,ACH-000694,Esophagus/Stomach,matrix_intact,-0.21065480088307664
+PTEN_damaging_to_PIK3CB,KY,ACH-000696,Ovary/Fallopian Tube,matrix_intact,-0.5497225133809447
+PTEN_damaging_to_PIK3CB,KY,ACH-000699,Breast,matrix_intact,-1.9064529355607487
+PTEN_damaging_to_PIK3CB,KY,ACH-000704,Ovary/Fallopian Tube,matrix_intact,-0.1678458524915033
+PTEN_damaging_to_PIK3CB,KY,ACH-000711,Breast,matrix_intact,-0.7232410810100477
+PTEN_damaging_to_PIK3CB,KY,ACH-000714,Lymphoid,matrix_intact,-0.2527429566269146
+PTEN_damaging_to_PIK3CB,KY,ACH-000717,Esophagus/Stomach,matrix_intact,0.24071062657285505
+PTEN_damaging_to_PIK3CB,KY,ACH-000719,Ovary/Fallopian Tube,matrix_intact,-0.8241744051580504
+PTEN_damaging_to_PIK3CB,KY,ACH-000722,Bowel,matrix_intact,-0.5452911245044898
+PTEN_damaging_to_PIK3CB,KY,ACH-000738,CNS/Brain,matrix_intact,-0.2959233970255909
+PTEN_damaging_to_PIK3CB,KY,ACH-000740,Head and Neck,matrix_intact,-0.1397891581777443
+PTEN_damaging_to_PIK3CB,KY,ACH-000748,Bone,matrix_intact,-0.3609192251380053
+PTEN_damaging_to_PIK3CB,KY,ACH-000756,CNS/Brain,matrix_intact,-0.8112472849056972
+PTEN_damaging_to_PIK3CB,KY,ACH-000768,Breast,matrix_intact,-0.9680854325801136
+PTEN_damaging_to_PIK3CB,KY,ACH-000769,Lung,matrix_intact,-0.17521893000362807
+PTEN_damaging_to_PIK3CB,KY,ACH-000778,Head and Neck,matrix_intact,-0.22883393760732598
+PTEN_damaging_to_PIK3CB,KY,ACH-000781,Lung,matrix_intact,-0.12436529319994988
+PTEN_damaging_to_PIK3CB,KY,ACH-000784,Esophagus/Stomach,matrix_intact,-0.14207241256382708
+PTEN_damaging_to_PIK3CB,KY,ACH-000787,Lung,matrix_intact,-0.9940438962693822
+PTEN_damaging_to_PIK3CB,KY,ACH-000788,Skin,damaging,-1.5899633646750635
+PTEN_damaging_to_PIK3CB,KY,ACH-000793,Esophagus/Stomach,matrix_intact,-0.3024985333434438
+PTEN_damaging_to_PIK3CB,KY,ACH-000794,Head and Neck,matrix_intact,-0.022758868338102683
+PTEN_damaging_to_PIK3CB,KY,ACH-000796,Ovary/Fallopian Tube,matrix_intact,-0.35789285980200525
+PTEN_damaging_to_PIK3CB,KY,ACH-000809,Esophagus/Stomach,matrix_intact,-0.3489634483957797
+PTEN_damaging_to_PIK3CB,KY,ACH-000817,Lymphoid,matrix_intact,0.07352307234954598
+PTEN_damaging_to_PIK3CB,KY,ACH-000823,Esophagus/Stomach,matrix_intact,-0.20326575738788263
+PTEN_damaging_to_PIK3CB,KY,ACH-000824,Esophagus/Stomach,matrix_intact,-0.16542123092426414
+PTEN_damaging_to_PIK3CB,KY,ACH-000832,Head and Neck,matrix_intact,-0.22651469038982175
+PTEN_damaging_to_PIK3CB,KY,ACH-000841,Lung,matrix_intact,-0.19827170557222706
+PTEN_damaging_to_PIK3CB,KY,ACH-000843,Lung,matrix_intact,-0.17722013381869617
+PTEN_damaging_to_PIK3CB,KY,ACH-000846,Head and Neck,matrix_intact,-0.8560790893306934
+PTEN_damaging_to_PIK3CB,KY,ACH-000847,Esophagus/Stomach,matrix_intact,-0.5393416083824
+PTEN_damaging_to_PIK3CB,KY,ACH-000849,Breast,damaging,-1.660754367024575
+PTEN_damaging_to_PIK3CB,KY,ACH-000855,Esophagus/Stomach,matrix_intact,0.12808862564882653
+PTEN_damaging_to_PIK3CB,KY,ACH-000856,Breast,damaging,-0.9008769535369782
+PTEN_damaging_to_PIK3CB,KY,ACH-000858,Lung,matrix_intact,-0.31412554181508384
+PTEN_damaging_to_PIK3CB,KY,ACH-000859,Breast,matrix_intact,0.0001582740949980302
+PTEN_damaging_to_PIK3CB,KY,ACH-000860,Lung,matrix_intact,-0.2284332366095877
+PTEN_damaging_to_PIK3CB,KY,ACH-000861,Lung,matrix_intact,-1.2275479854965277
+PTEN_damaging_to_PIK3CB,KY,ACH-000863,CNS/Brain,matrix_intact,-0.7483629104536718
+PTEN_damaging_to_PIK3CB,KY,ACH-000864,Uterus,damaging,-0.8806521026212408
+PTEN_damaging_to_PIK3CB,KY,ACH-000865,Esophagus/Stomach,matrix_intact,-0.8736479474432629
+PTEN_damaging_to_PIK3CB,KY,ACH-000869,Lung,matrix_intact,-0.6966286518921073
+PTEN_damaging_to_PIK3CB,KY,ACH-000873,Esophagus/Stomach,matrix_intact,-2.0025337632237243
+PTEN_damaging_to_PIK3CB,KY,ACH-000876,Breast,damaging,-1.6981489924424438
+PTEN_damaging_to_PIK3CB,KY,ACH-000878,Lung,matrix_intact,0.11773941802026155
+PTEN_damaging_to_PIK3CB,KY,ACH-000879,Uterus,damaging,-1.116370747979221
+PTEN_damaging_to_PIK3CB,KY,ACH-000880,Esophagus/Stomach,matrix_intact,0.08851038694163088
+PTEN_damaging_to_PIK3CB,KY,ACH-000885,Ovary/Fallopian Tube,damaging,-0.19328211825174493
+PTEN_damaging_to_PIK3CB,KY,ACH-000894,Lung,matrix_intact,-0.18960338111361894
+PTEN_damaging_to_PIK3CB,KY,ACH-000900,Lung,matrix_intact,-0.25712502228029527
+PTEN_damaging_to_PIK3CB,KY,ACH-000906,Ovary/Fallopian Tube,matrix_intact,-0.7075302543413824
+PTEN_damaging_to_PIK3CB,KY,ACH-000910,Breast,matrix_intact,-0.29323902457471446
+PTEN_damaging_to_PIK3CB,KY,ACH-000911,Esophagus/Stomach,matrix_intact,-0.14423275639509592
+PTEN_damaging_to_PIK3CB,KY,ACH-000913,Uterus,matrix_intact,-0.6440702158886573
+PTEN_damaging_to_PIK3CB,KY,ACH-000917,Esophagus/Stomach,damaging,0.18041443477038863
+PTEN_damaging_to_PIK3CB,KY,ACH-000919,Esophagus/Stomach,matrix_intact,-0.46715755618400673
+PTEN_damaging_to_PIK3CB,KY,ACH-000926,Bowel,matrix_intact,-1.4012027645681835
+PTEN_damaging_to_PIK3CB,KY,ACH-000932,Esophagus/Stomach,matrix_intact,-0.3665974306764472
+PTEN_damaging_to_PIK3CB,KY,ACH-000934,Breast,matrix_intact,-0.13826118427906608
+PTEN_damaging_to_PIK3CB,KY,ACH-000935,Bowel,matrix_intact,-2.6251365398795237
+PTEN_damaging_to_PIK3CB,KY,ACH-000936,Ovary/Fallopian Tube,damaging,-0.2297921215029831
+PTEN_damaging_to_PIK3CB,KY,ACH-000943,Bowel,matrix_intact,-0.4358129418340379
+PTEN_damaging_to_PIK3CB,KY,ACH-000945,Lung,matrix_intact,-0.21754334815313298
+PTEN_damaging_to_PIK3CB,KY,ACH-000947,Ovary/Fallopian Tube,damaging,-0.5507344234937566
+PTEN_damaging_to_PIK3CB,KY,ACH-000948,Esophagus/Stomach,matrix_intact,-1.1083046704102537
+PTEN_damaging_to_PIK3CB,KY,ACH-000950,Bowel,matrix_intact,-2.897171469079526
+PTEN_damaging_to_PIK3CB,KY,ACH-000956,Prostate,matrix_intact,-0.30457615062961413
+PTEN_damaging_to_PIK3CB,KY,ACH-000957,Bowel,damaging,-0.212967097587488
+PTEN_damaging_to_PIK3CB,KY,ACH-000958,Bowel,matrix_intact,-0.5397853865013168
+PTEN_damaging_to_PIK3CB,KY,ACH-000962,Ovary/Fallopian Tube,matrix_intact,-1.490689933059275
+PTEN_damaging_to_PIK3CB,KY,ACH-000965,Uterus,damaging,-0.19405223223578014
+PTEN_damaging_to_PIK3CB,KY,ACH-000966,Ovary/Fallopian Tube,damaging,-0.8036584561064758
+PTEN_damaging_to_PIK3CB,KY,ACH-000969,Bowel,damaging,-0.36118193786402225
+PTEN_damaging_to_PIK3CB,KY,ACH-000970,Bowel,matrix_intact,-0.17070461731798584
+PTEN_damaging_to_PIK3CB,KY,ACH-000971,Bowel,matrix_intact,-0.9674850053989971
+PTEN_damaging_to_PIK3CB,KY,ACH-000974,Uterus,damaging,-0.24005522333606374
+PTEN_damaging_to_PIK3CB,KY,ACH-000977,Prostate,damaging,-1.2520328415487
+PTEN_damaging_to_PIK3CB,KY,ACH-000979,Prostate,matrix_intact,-1.1157920892198605
+PTEN_damaging_to_PIK3CB,KY,ACH-000980,Lung,damaging,-0.4936226471324161
+PTEN_damaging_to_PIK3CB,KY,ACH-000985,Bowel,damaging,-1.743166437666959
+PTEN_damaging_to_PIK3CB,KY,ACH-000991,Bowel,damaging,-2.8973270742342465
+PTEN_damaging_to_PIK3CB,KY,ACH-000997,Bowel,matrix_intact,-0.6143103223293626
+PTEN_damaging_to_PIK3CB,KY,ACH-001016,CNS/Brain,matrix_intact,-0.7763729622459922
+PTEN_damaging_to_PIK3CB,KY,ACH-001039,Bowel,matrix_intact,-1.4355187450536426
+PTEN_damaging_to_PIK3CB,KY,ACH-001063,Ovary/Fallopian Tube,matrix_intact,-0.1291590804364598
+PTEN_damaging_to_PIK3CB,KY,ACH-001065,Breast,damaging,-4.543812674273105
+PTEN_damaging_to_PIK3CB,KY,ACH-001081,Bowel,damaging,-0.4278794536586792
+PTEN_damaging_to_PIK3CB,KY,ACH-001107,Pancreas,matrix_intact,-0.6861418328676239
+PTEN_damaging_to_PIK3CB,KY,ACH-001126,CNS/Brain,damaging,-0.8810835118185001
+PTEN_damaging_to_PIK3CB,KY,ACH-001137,Lung,matrix_intact,-0.2981677626304802
+PTEN_damaging_to_PIK3CB,KY,ACH-001151,Ovary/Fallopian Tube,matrix_intact,0.016886137772299175
+PTEN_damaging_to_PIK3CB,KY,ACH-001190,Skin,matrix_intact,-0.38651210322555535
+PTEN_damaging_to_PIK3CB,KY,ACH-001193,Bone,matrix_intact,-0.8531108916384507
+PTEN_damaging_to_PIK3CB,KY,ACH-001233,Lung,matrix_intact,-0.2473537884016772
+PTEN_damaging_to_PIK3CB,KY,ACH-001331,Head and Neck,matrix_intact,-0.4179498795633741
+PTEN_damaging_to_PIK3CB,KY,ACH-001332,Head and Neck,matrix_intact,-0.5228982420524803
+PTEN_damaging_to_PIK3CB,KY,ACH-001345,Bowel,matrix_intact,-0.2673663251506893
+PTEN_damaging_to_PIK3CB,KY,ACH-001368,Esophagus/Stomach,matrix_intact,-0.004296200293874304
+PTEN_damaging_to_PIK3CB,KY,ACH-001399,Bowel,matrix_intact,-0.230334442576677
+PTEN_damaging_to_PIK3CB,KY,ACH-001418,Ovary/Fallopian Tube,matrix_intact,-0.1982263372252514
+PTEN_damaging_to_PIK3CB,KY,ACH-001494,Biliary Tract,matrix_intact,0.004854954980140362
+PTEN_damaging_to_PIK3CB,KY,ACH-001496,Esophagus/Stomach,damaging,-0.4452198633407929
+PTEN_damaging_to_PIK3CB,KY,ACH-001497,Esophagus/Stomach,matrix_intact,-0.016634754173290005
+PTEN_damaging_to_PIK3CB,KY,ACH-001500,Esophagus/Stomach,matrix_intact,-0.5635366283233604
+PTEN_damaging_to_PIK3CB,KY,ACH-001517,Uterus,matrix_intact,-0.19299444926162768
+PTEN_damaging_to_PIK3CB,KY,ACH-001542,Head and Neck,matrix_intact,-0.500139907358507
+PTEN_damaging_to_PIK3CB,KY,ACH-001544,Esophagus/Stomach,matrix_intact,-0.44373792556772357
+PTEN_damaging_to_PIK3CB,KY,ACH-001603,Peripheral Nervous System,matrix_intact,-0.40561851160442636
+PTEN_damaging_to_PIK3CB,KY,ACH-001605,CNS/Brain,matrix_intact,-0.2771425920750752
+PTEN_damaging_to_PIK3CB,KY,ACH-001606,CNS/Brain,matrix_intact,-0.3255744090738403
+PTEN_damaging_to_PIK3CB,KY,ACH-001625,Head and Neck,matrix_intact,-1.5086181752714007
+PTEN_damaging_to_PIK3CB,KY,ACH-001626,Head and Neck,matrix_intact,-0.4731771475317525
+PTEN_damaging_to_PIK3CB,KY,ACH-001630,Ovary/Fallopian Tube,matrix_intact,-0.09427616170957483
+PTEN_damaging_to_PIK3CB,KY,ACH-001632,Ovary/Fallopian Tube,matrix_intact,-0.5669761017293736
+PTEN_damaging_to_PIK3CB,KY,ACH-001639,Lymphoid,matrix_intact,-0.43272615677851056
+PTEN_damaging_to_PIK3CB,KY,ACH-001654,Esophagus/Stomach,matrix_intact,-0.15867323078002535
+PTEN_damaging_to_PIK3CB,KY,ACH-001674,Peripheral Nervous System,matrix_intact,-0.5317821808668524
+PTEN_damaging_to_PIK3CB,KY,ACH-001715,Bone,matrix_intact,-0.2848529638731717
+PTEN_damaging_to_PIK3CB,KY,ACH-001819,Breast,matrix_intact,-1.814135156730189
+PTEN_damaging_to_PIK3CB,KY,ACH-001820,Breast,matrix_intact,-0.5567111514098192
+PTEN_damaging_to_PIK3CB,KY,ACH-002029,Head and Neck,matrix_intact,-0.3568778906733569
+PTEN_damaging_to_PIK3CB,KY,ACH-002043,Head and Neck,matrix_intact,-0.5736014249300784
+PTEN_damaging_to_PIK3CB,KY,ACH-002045,Head and Neck,matrix_intact,-0.13208952958173495
+PTEN_damaging_to_PIK3CB,KY,ACH-002083,Peripheral Nervous System,matrix_intact,-0.30876817036629983
+PTEN_damaging_to_PIK3CB,KY,ACH-002105,Bone,matrix_intact,-0.30939414307673757
+PTEN_damaging_to_PIK3CB,KY,ACH-002106,Bone,matrix_intact,0.076443131208163
+PTEN_damaging_to_PIK3CB,KY,ACH-002109,Bone,matrix_intact,-0.21340467949633424
+PTEN_damaging_to_PIK3CB,KY,ACH-002110,Bone,matrix_intact,-0.6607063666149194
+PTEN_damaging_to_PIK3CB,KY,ACH-002114,Bone,matrix_intact,-0.404703004587025
+PTEN_damaging_to_PIK3CB,KY,ACH-002116,Bone,matrix_intact,-0.1117364232649401
+PTEN_damaging_to_PIK3CB,KY,ACH-002119,Bone,matrix_intact,-0.4755439787698638
+PTEN_damaging_to_PIK3CB,KY,ACH-002140,Ovary/Fallopian Tube,matrix_intact,-0.6890883996459113
+PTEN_damaging_to_PIK3CB,KY,ACH-002141,Esophagus/Stomach,matrix_intact,-0.3323682781194197
+PTEN_damaging_to_PIK3CB,KY,ACH-002143,Skin,matrix_intact,-0.39155382106489806
+PTEN_damaging_to_PIK3CB,KY,ACH-002150,Kidney,matrix_intact,-0.4748881892184589
+PTEN_damaging_to_PIK3CB,KY,ACH-002156,Lung,matrix_intact,0.12311008557436671
+PTEN_damaging_to_PIK3CB,KY,ACH-002160,Bone,matrix_intact,-1.2025943022223553
+PTEN_damaging_to_PIK3CB,KY,ACH-002161,Esophagus/Stomach,matrix_intact,-0.14155770509476848
+PTEN_damaging_to_PIK3CB,KY,ACH-002179,Breast,matrix_intact,0.22286948795726505
+PTEN_damaging_to_PIK3CB,KY,ACH-002181,Ovary/Fallopian Tube,matrix_intact,-0.3404465226397442
+PTEN_damaging_to_PIK3CB,KY,ACH-002183,Ovary/Fallopian Tube,matrix_intact,-0.2895282478045696
+PTEN_damaging_to_PIK3CB,KY,ACH-002186,Pancreas,matrix_intact,-1.202318027772367
+PTEN_damaging_to_PIK3CB,KY,ACH-002189,Kidney,matrix_intact,-2.5749529370006354
+PTEN_damaging_to_PIK3CB,KY,ACH-002198,Other,matrix_intact,-0.6069742845301247
+PTEN_damaging_to_PIK3CB,KY,ACH-002202,Esophagus/Stomach,matrix_intact,-0.5173332473014038
+PTEN_damaging_to_PIK3CB,KY,ACH-002210,Myeloid,matrix_intact,-0.5709073235114831
+PTEN_damaging_to_PIK3CB,KY,ACH-002212,Head and Neck,matrix_intact,-0.7830169594119475
+PTEN_damaging_to_PIK3CB,KY,ACH-002228,CNS/Brain,damaging,-0.8428283186650374
+PTEN_damaging_to_PIK3CB,KY,ACH-002229,CNS/Brain,matrix_intact,-0.810870817450303
+PTEN_damaging_to_PIK3CB,KY,ACH-002230,CNS/Brain,damaging,-0.62967815923939
+PTEN_damaging_to_PIK3CB,KY,ACH-002233,Bowel,matrix_intact,-0.45717012141118746
+PTEN_damaging_to_PIK3CB,KY,ACH-002234,Head and Neck,matrix_intact,-0.7657124310311042
+PTEN_damaging_to_PIK3CB,KY,ACH-002239,Head and Neck,matrix_intact,-0.6664473481549134
+PTEN_damaging_to_PIK3CB,KY,ACH-002243,Esophagus/Stomach,matrix_intact,-0.4191140600265319
+PTEN_damaging_to_PIK3CB,KY,ACH-002247,Myeloid,matrix_intact,-0.08982934715256097
+PTEN_damaging_to_PIK3CB,KY,ACH-002249,Head and Neck,matrix_intact,-0.06562273309661015
+PTEN_damaging_to_PIK3CB,KY,ACH-002250,Head and Neck,matrix_intact,-0.5288837592093308
+PTEN_damaging_to_PIK3CB,KY,ACH-002251,Head and Neck,matrix_intact,-0.525080107382375
+PTEN_damaging_to_PIK3CB,KY,ACH-002257,CNS/Brain,matrix_intact,-0.7824857248644745
+PTEN_damaging_to_PIK3CB,KY,ACH-002261,Peripheral Nervous System,matrix_intact,-0.18313212606413096
+PTEN_damaging_to_PIK3CB,KY,ACH-002263,Esophagus/Stomach,matrix_intact,-0.41744960393899677
+PTEN_damaging_to_PIK3CB,KY,ACH-002265,Head and Neck,matrix_intact,-0.7693720209625736
+PTEN_damaging_to_PIK3CB,KY,ACH-002269,CNS/Brain,damaging,-0.016301583261700198
+PTEN_damaging_to_PIK3CB,KY,ACH-002278,Peripheral Nervous System,matrix_intact,-0.13554630124622857
+PTEN_damaging_to_PIK3CB,KY,ACH-002280,Peripheral Nervous System,matrix_intact,0.015833558987583086
+PTEN_damaging_to_PIK3CB,KY,ACH-002282,Peripheral Nervous System,matrix_intact,-0.976152975280109
+PTEN_damaging_to_PIK3CB,KY,ACH-002283,Peripheral Nervous System,matrix_intact,0.1625502174955632
+PTEN_damaging_to_PIK3CB,KY,ACH-002284,Peripheral Nervous System,matrix_intact,0.16170391912272664
+PTEN_damaging_to_PIK3CB,KY,ACH-002285,Peripheral Nervous System,matrix_intact,-0.6577252495625066
+PTEN_damaging_to_PIK3CB,KY,ACH-002294,Head and Neck,matrix_intact,-0.6847890645465573
+PTEN_damaging_to_PIK3CB,KY,ACH-002295,Head and Neck,matrix_intact,-0.09420835953640665
+PTEN_damaging_to_PIK3CB,KY,ACH-002296,Head and Neck,matrix_intact,0.008669111139535982
+PTEN_damaging_to_PIK3CB,KY,ACH-002297,Head and Neck,matrix_intact,-0.18039770346668063
+PTEN_damaging_to_PIK3CB,KY,ACH-002298,Head and Neck,matrix_intact,-0.18548304336158633
+PTEN_damaging_to_PIK3CB,KY,ACH-002304,CNS/Brain,matrix_intact,0.033387212958565615
+PTEN_damaging_to_PIK3CB,KY,ACH-002305,Head and Neck,matrix_intact,-0.24274877211997373
