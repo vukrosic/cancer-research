@@ -8,10 +8,11 @@ orthogonal experimental validation.
 
 ## Current milestone
 
-Preserve EXP-014 as a feasibility-only, non-confirmatory paralog-status result,
+Preserve EXP-015 as a feasibility-only, non-confirmatory ARID1A/ARID1B result,
 then select the next distinct outcome-blind dependency direction. Do not upgrade
-EXP-014 to confirmatory status, and do not rescue it with the secondary PDS5B pair,
-source pooling, or post hoc lineage exclusions.
+EXP-015 to confirmatory status, pool Avana and KY, or rescue KY with post hoc
+lineage exclusions or threshold changes. Keep the EXP-014 non-confirmatory
+boundary immutable as well.
 
 ## Program success
 

@@ -69,3 +69,11 @@ non-eligible metadata (`ACH-003132`). The failure was preserved in
 `attempt-001_error_receipt.json` and `execution_log.md`. The implementation
 now permits blank lineage only in unrelated `Model.csv` rows and rejects it if
 the QC-to-Model join selects that model; no endpoint value was accessed.
+
+## Final artifact audit — GO
+
+Artifact auditor `01a029c7-70dd-7791-9a36-b2d91b450cdb` independently
+reproduced the released hashes, source/model counts, endpoint median collapse,
+design receipts, inference, gate failures, non-confirmatory flags, and summary
+self-digest. After the planning-versus-realized power distinction and successful
+execution log were added, the complete staged bundle received **GO for release**.

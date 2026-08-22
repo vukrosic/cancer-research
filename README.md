@@ -21,7 +21,7 @@ uncertainty and artifact controls?
 
 ## Current phase
 
-Fourteen bounded experiments are complete:
+Fifteen bounded experiments are complete:
 
 - `EXP-20260822-001` passed the API engineering gate: all eight frozen genes had 177
   paired Broad/Sanger models and positive source correlations.
@@ -91,6 +91,11 @@ Fourteen bounded experiments are complete:
   pre-outcome simulated powers were 0.5070 and 0.2406, and Avana failed the
   frozen lineage-consistency gate. The known interaction is not claimed as newly
   discovered or clinically actionable.
+- `EXP-20260822-015` was labeled **FEASIBILITY_ONLY_NOMINAL_GATE_FAILURE** for
+  the known ARID1A-status/ARID1B-dependency relationship. Avana passed all six
+  nominal gates (delta `-0.4583`), while KY failed the bootstrap upper-bound and
+  lineage-consistency gates (Bone `+1.0`, Pancreas `+0.2667`). KY's frozen
+  design power is below 0.80, so no confirmatory two-source claim is permitted.
 
 A label-only provenance audit found that the CRC-only cohort has only 7 MSI Broad
 models, below the independently proposed minimum of 8. That CRC-only gate remains a
@@ -113,6 +118,7 @@ uv run candrel-wrn-sequence-semantics  # expected pass; 103-score semantics audi
 uv run candrel-wrn-guide-loo-passing  # expected exit 2; 5/10 robustness criterion failed
 uv run candrel-wrn-process-association  # expected exit 2; efficacy association gates failed
 uv run candrel-paralog-replication  # expected exit 2; feasibility-only/non-confirmatory result
+uv run candrel-arid1a-replication  # expected exit 2; feasibility-only nominal gate failure
 ```
 
 Raw API responses are cached under `data/raw/` and excluded from Git. Every run

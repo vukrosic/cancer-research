@@ -1,0 +1,152 @@
+{
+  "analysis_type": "preregistered_source_specific_lineage_stratified_arid1a_status_replication",
+  "artifact_receipt_sha256": {
+    "context_ledger.csv": "23369e7d1d43f738bb1bcf511512edc6cde0e770bde690c350d5d8d6025ad815",
+    "design_sensitivity.csv": "5645c87a351c7daf28233c434b373575c35a578ed68096eae2622b505ccb589d",
+    "endpoint_scores.csv": "da56e757e1c5682cd600c530367d43409b4c77dcdbcc947ec4bdbf36c50d25ce",
+    "inference.csv": "0182528c108d85416928dd897924e7d30211f5b44508352847a79c6783293912",
+    "summary.json": "7080ee945ffad26787f6576f43be1333b2a75bb003beac98b975b7ab2a29624a"
+  },
+  "claim_boundary": "matrix-defined damaging ARID1A status association with source-specific ARID1B dependency in frozen 23Q4 cell-line screen cohorts; no biological independence or clinical claim",
+  "claim_eligibility": {
+    "design_sensitivity_label": "FEASIBILITY_ONLY",
+    "nominal_primary_gates_pass": false,
+    "primary_confirmatory": false
+  },
+  "context_receipt": {
+    "context_ledger_sha256": "23369e7d1d43f738bb1bcf511512edc6cde0e770bde690c350d5d8d6025ad815",
+    "damaging_sha256": "aea4d970c0876afb90d2dc0e2709ff28be5a84e4e246f3a5a31faaba0fbc47e3",
+    "eligible_screens": 1292,
+    "eligible_source_models": {
+      "Avana": 975,
+      "KY": 315
+    },
+    "model_sha256": "6b77a73209ce3faaa7442dbd947d8e08ddcb08b538c36fe820163f9cff321341",
+    "screen_map_sha256": "1e2bf9075600cd049dafc385866991523c65806657f3c8bd71afde3fe00ee9ad",
+    "screen_qc_sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407",
+    "status_column": "ARID1A (8289)",
+    "status_threshold": 1,
+    "unique_model_ids": 1098
+  },
+  "design_sensitivity": {
+    "all_primary_sources_power_adequate": false,
+    "confirmatory_claim_enabled": false,
+    "design_sensitivity_sha256": "5645c87a351c7daf28233c434b373575c35a578ed68096eae2622b505ccb589d",
+    "frozen_label": "FEASIBILITY_ONLY",
+    "minimum_confirmatory_power": 0.8
+  },
+  "endpoint_receipt": {
+    "eligible_screens_expected": 1292,
+    "eligible_screens_seen": 1292,
+    "median_collapse": true,
+    "model_values": 1290,
+    "sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721"
+  },
+  "experiment_id": "EXP-20260822-015",
+  "inference_receipt": {
+    "bootstrap_interval": "percentile_95_linear_quantile",
+    "bootstraps": 10000,
+    "cross_source_raw_score_comparison": false,
+    "design_seeds": {
+      "Avana": 20260830,
+      "KY": 20260930
+    },
+    "inference_seeds": {
+      "Avana": 20270830,
+      "KY": 20270930
+    },
+    "permutations": 100000,
+    "unit": "collapsed_source_model_id"
+  },
+  "overall_pass": false,
+  "pre_endpoint_receipt": {
+    "context_ledger_sha256": "23369e7d1d43f738bb1bcf511512edc6cde0e770bde690c350d5d8d6025ad815",
+    "design_sensitivity_sha256": "5645c87a351c7daf28233c434b373575c35a578ed68096eae2622b505ccb589d",
+    "experiment_id": "EXP-20260822-015",
+    "receipt_sha256": "a9706b29bc3e80aee287db25ed61e20d2a3693a9b1fe885b3d6296b667705a97",
+    "sealed_before_endpoint": true
+  },
+  "primary": [
+    {
+      "bootstrap_ci_95_percentile": [
+        -0.5967914438502674,
+        -0.3122994652406417
+      ],
+      "bootstrap_repeats": 10000,
+      "delta": -0.45828877005347596,
+      "gates": {
+        "at_least_5_negative_lineages": true,
+        "bootstrap_upper_lt_0": true,
+        "delta_le_minus_0_20": true,
+        "delta_lt_0": true,
+        "no_lineage_delta_gt_plus_0_20": true,
+        "permutation_p_le_0_05": true
+      },
+      "lineage_deltas": {
+        "Biliary Tract": -0.26666666666666666,
+        "Bladder/Urinary Tract": -0.3229166666666667,
+        "Bowel": -0.506578947368421,
+        "Breast": -0.48717948717948717,
+        "CNS/Brain": -0.6388888888888888,
+        "Cervix": -0.5294117647058824,
+        "Esophagus/Stomach": -0.6488888888888888,
+        "Kidney": -0.030303030303030304,
+        "Liver": -0.7777777777777778,
+        "Lung": -0.21497919556171982,
+        "Lymphoid": -0.5828571428571429,
+        "Myeloid": -0.35294117647058826,
+        "Ovary/Fallopian Tube": -0.5263157894736842,
+        "Pancreas": -0.22727272727272727,
+        "Peripheral Nervous System": -0.9310344827586207,
+        "Prostate": -0.7142857142857143,
+        "Skin": -0.6262626262626263,
+        "Soft Tissue": -0.9428571428571428,
+        "Uterus": -0.645933014354067
+      },
+      "pair_count": 3740,
+      "pair_id": "ARID1A_to_ARID1B",
+      "pass": true,
+      "permutation_extreme_count": 0,
+      "permutation_p_one_sided_lower": 9.99990000099999e-06,
+      "permutation_repeats": 100000,
+      "source": "Avana"
+    },
+    {
+      "bootstrap_ci_95_percentile": [
+        -0.4329054842473746,
+        0.005834305717619603
+      ],
+      "bootstrap_repeats": 10000,
+      "delta": -0.21586931155192532,
+      "gates": {
+        "at_least_5_negative_lineages": true,
+        "bootstrap_upper_lt_0": false,
+        "delta_le_minus_0_20": true,
+        "delta_lt_0": true,
+        "no_lineage_delta_gt_plus_0_20": false,
+        "permutation_p_le_0_05": true
+      },
+      "lineage_deltas": {
+        "Bone": 1.0,
+        "Bowel": -0.164021164021164,
+        "Breast": -0.45454545454545453,
+        "CNS/Brain": -0.5,
+        "Esophagus/Stomach": -0.23214285714285715,
+        "Lung": -0.35135135135135137,
+        "Lymphoid": -1.0,
+        "Ovary/Fallopian Tube": -0.3,
+        "Pancreas": 0.26666666666666666,
+        "Prostate": 0.0,
+        "Uterus": -1.0
+      },
+      "pair_count": 857,
+      "pair_id": "ARID1A_to_ARID1B",
+      "pass": false,
+      "permutation_extreme_count": 2633,
+      "permutation_p_one_sided_lower": 0.026339736602633973,
+      "permutation_repeats": 100000,
+      "source": "KY"
+    }
+  ],
+  "status": "FEASIBILITY_ONLY_NOMINAL_GATE_FAILURE"
+}

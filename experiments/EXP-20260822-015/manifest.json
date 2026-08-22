@@ -52,6 +52,8 @@
     "alternative_simulations": 10000,
     "minimum_power_for_confirmatory_label": 0.8,
     "planning_power": {"Avana": 0.8651, "KY": 0.5636},
+    "planning_power_basis": "outcome_free_candidate_census_receipt; approximate Monte Carlo planning values, not required to equal the execution draw",
+    "execution_power_is_seeded_receipt": true,
     "frozen_label": "FEASIBILITY_ONLY",
     "confirmatory_claim_enabled": false
   },
