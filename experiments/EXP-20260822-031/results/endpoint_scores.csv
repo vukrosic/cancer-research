@@ -1,0 +1,1291 @@
+pair_id,source,model_id,lineage,status,target_score
+SMAD4_damaging_to_BRD4,Avana,ACH-000004,Myeloid,matrix_intact,-0.5608331763507816
+SMAD4_damaging_to_BRD4,Avana,ACH-000005,Myeloid,matrix_intact,-0.32906746272302945
+SMAD4_damaging_to_BRD4,Avana,ACH-000007,Bowel,matrix_intact,-1.2107511778888025
+SMAD4_damaging_to_BRD4,Avana,ACH-000009,Bowel,damaging,-1.6566619450258537
+SMAD4_damaging_to_BRD4,Avana,ACH-000011,Bladder/Urinary Tract,matrix_intact,-1.2410299257004365
+SMAD4_damaging_to_BRD4,Avana,ACH-000012,Lung,matrix_intact,-0.7458708724510504
+SMAD4_damaging_to_BRD4,Avana,ACH-000013,Ovary/Fallopian Tube,matrix_intact,-1.8860533416116518
+SMAD4_damaging_to_BRD4,Avana,ACH-000015,Lung,matrix_intact,-1.3160220029922707
+SMAD4_damaging_to_BRD4,Avana,ACH-000017,Breast,matrix_intact,-1.2454314806734916
+SMAD4_damaging_to_BRD4,Avana,ACH-000018,Bladder/Urinary Tract,matrix_intact,-0.6308741750433011
+SMAD4_damaging_to_BRD4,Avana,ACH-000019,Breast,matrix_intact,-0.3997668576326322
+SMAD4_damaging_to_BRD4,Avana,ACH-000021,Lung,matrix_intact,-1.1732779269426188
+SMAD4_damaging_to_BRD4,Avana,ACH-000022,Pancreas,matrix_intact,-1.454454112078468
+SMAD4_damaging_to_BRD4,Avana,ACH-000024,Lymphoid,matrix_intact,-3.9559181681221185
+SMAD4_damaging_to_BRD4,Avana,ACH-000025,CNS/Brain,matrix_intact,-1.386941268635176
+SMAD4_damaging_to_BRD4,Avana,ACH-000028,Breast,matrix_intact,-1.1880297010301262
+SMAD4_damaging_to_BRD4,Avana,ACH-000029,Lung,matrix_intact,-1.6613213506120563
+SMAD4_damaging_to_BRD4,Avana,ACH-000030,Lung,matrix_intact,-1.7410615570766987
+SMAD4_damaging_to_BRD4,Avana,ACH-000035,Lung,matrix_intact,-1.8986163090200106
+SMAD4_damaging_to_BRD4,Avana,ACH-000036,CNS/Brain,matrix_intact,-0.7040624606738466
+SMAD4_damaging_to_BRD4,Avana,ACH-000037,Soft Tissue,matrix_intact,-0.4064643037063111
+SMAD4_damaging_to_BRD4,Avana,ACH-000039,Bone,matrix_intact,-0.4414952402617143
+SMAD4_damaging_to_BRD4,Avana,ACH-000040,CNS/Brain,matrix_intact,-0.6602238765745798
+SMAD4_damaging_to_BRD4,Avana,ACH-000041,Bone,matrix_intact,-1.0603379581681454
+SMAD4_damaging_to_BRD4,Avana,ACH-000042,Pancreas,damaging,-1.1964673200062341
+SMAD4_damaging_to_BRD4,Avana,ACH-000045,Myeloid,matrix_intact,-1.0759847349032743
+SMAD4_damaging_to_BRD4,Avana,ACH-000047,Esophagus/Stomach,matrix_intact,-1.2262989470932162
+SMAD4_damaging_to_BRD4,Avana,ACH-000048,Ovary/Fallopian Tube,matrix_intact,-1.1527664836823814
+SMAD4_damaging_to_BRD4,Avana,ACH-000052,Bone,matrix_intact,-0.6745636542036985
+SMAD4_damaging_to_BRD4,Avana,ACH-000053,Lymphoid,matrix_intact,-1.2601090106518034
+SMAD4_damaging_to_BRD4,Avana,ACH-000054,Soft Tissue,matrix_intact,-1.3421987924693428
+SMAD4_damaging_to_BRD4,Avana,ACH-000055,CNS/Brain,matrix_intact,-1.3803680647972938
+SMAD4_damaging_to_BRD4,Avana,ACH-000060,Pancreas,matrix_intact,-1.2604011595535933
+SMAD4_damaging_to_BRD4,Avana,ACH-000067,CNS/Brain,matrix_intact,-1.408768412768468
+SMAD4_damaging_to_BRD4,Avana,ACH-000070,Lymphoid,matrix_intact,-0.7035997704022039
+SMAD4_damaging_to_BRD4,Avana,ACH-000074,Myeloid,matrix_intact,-1.037825009882027
+SMAD4_damaging_to_BRD4,Avana,ACH-000075,CNS/Brain,matrix_intact,-0.21145685387804164
+SMAD4_damaging_to_BRD4,Avana,ACH-000076,Myeloid,matrix_intact,-1.2363208652979587
+SMAD4_damaging_to_BRD4,Avana,ACH-000077,Lymphoid,matrix_intact,-0.3561300629497372
+SMAD4_damaging_to_BRD4,Avana,ACH-000078,Peripheral Nervous System,matrix_intact,-0.25417651563890187
+SMAD4_damaging_to_BRD4,Avana,ACH-000082,Bone,matrix_intact,-0.8908191715384906
+SMAD4_damaging_to_BRD4,Avana,ACH-000085,Pancreas,matrix_intact,-0.8615115695411912
+SMAD4_damaging_to_BRD4,Avana,ACH-000086,Pleura,matrix_intact,-0.8897359774129868
+SMAD4_damaging_to_BRD4,Avana,ACH-000090,Prostate,matrix_intact,-0.36610247522545425
+SMAD4_damaging_to_BRD4,Avana,ACH-000092,Pleura,matrix_intact,-0.7451596000611764
+SMAD4_damaging_to_BRD4,Avana,ACH-000093,Pancreas,matrix_intact,-0.3903680916283032
+SMAD4_damaging_to_BRD4,Avana,ACH-000095,CNS/Brain,matrix_intact,-2.213331899718318
+SMAD4_damaging_to_BRD4,Avana,ACH-000097,Breast,matrix_intact,-0.3594156031323963
+SMAD4_damaging_to_BRD4,Avana,ACH-000098,CNS/Brain,matrix_intact,-2.2896864122835145
+SMAD4_damaging_to_BRD4,Avana,ACH-000099,Peripheral Nervous System,matrix_intact,-1.6658625656187245
+SMAD4_damaging_to_BRD4,Avana,ACH-000101,Lymphoid,matrix_intact,-1.5205629645378913
+SMAD4_damaging_to_BRD4,Avana,ACH-000108,Pancreas,damaging,-1.1359370162464821
+SMAD4_damaging_to_BRD4,Avana,ACH-000111,Breast,matrix_intact,-1.1698504294106327
+SMAD4_damaging_to_BRD4,Avana,ACH-000113,Myeloid,matrix_intact,-1.5069824486789853
+SMAD4_damaging_to_BRD4,Avana,ACH-000114,Pancreas,matrix_intact,-1.8234988405031325
+SMAD4_damaging_to_BRD4,Avana,ACH-000115,Prostate,matrix_intact,-0.992820025078462
+SMAD4_damaging_to_BRD4,Avana,ACH-000118,Pancreas,matrix_intact,-1.0164131371261793
+SMAD4_damaging_to_BRD4,Avana,ACH-000120,Peripheral Nervous System,matrix_intact,-1.2042123086983305
+SMAD4_damaging_to_BRD4,Avana,ACH-000123,Ovary/Fallopian Tube,matrix_intact,-0.6654148688719024
+SMAD4_damaging_to_BRD4,Avana,ACH-000127,Bladder/Urinary Tract,matrix_intact,-2.6892588529029284
+SMAD4_damaging_to_BRD4,Avana,ACH-000128,CNS/Brain,matrix_intact,-0.697123974056622
+SMAD4_damaging_to_BRD4,Avana,ACH-000132,Ovary/Fallopian Tube,matrix_intact,-1.7110436517847516
+SMAD4_damaging_to_BRD4,Avana,ACH-000133,Soft Tissue,matrix_intact,-0.8485925769758635
+SMAD4_damaging_to_BRD4,Avana,ACH-000137,CNS/Brain,matrix_intact,-0.8256917453479421
+SMAD4_damaging_to_BRD4,Avana,ACH-000138,Pancreas,matrix_intact,-1.1477705718740625
+SMAD4_damaging_to_BRD4,Avana,ACH-000141,Biliary Tract,damaging,-1.498080494005793
+SMAD4_damaging_to_BRD4,Avana,ACH-000142,Bladder/Urinary Tract,matrix_intact,-1.7530024173504604
+SMAD4_damaging_to_BRD4,Avana,ACH-000143,Lung,matrix_intact,-1.276664690002808
+SMAD4_damaging_to_BRD4,Avana,ACH-000145,Soft Tissue,matrix_intact,-0.9592402772360114
+SMAD4_damaging_to_BRD4,Avana,ACH-000146,Myeloid,matrix_intact,-1.046339226443765
+SMAD4_damaging_to_BRD4,Avana,ACH-000147,Breast,matrix_intact,-1.962966521441876
+SMAD4_damaging_to_BRD4,Avana,ACH-000148,Breast,matrix_intact,-1.1238459137304275
+SMAD4_damaging_to_BRD4,Avana,ACH-000151,Lymphoid,matrix_intact,-0.648307320132568
+SMAD4_damaging_to_BRD4,Avana,ACH-000152,CNS/Brain,matrix_intact,-1.5615603813701524
+SMAD4_damaging_to_BRD4,Avana,ACH-000153,Pleura,matrix_intact,-0.5552533039843136
+SMAD4_damaging_to_BRD4,Avana,ACH-000159,Kidney,matrix_intact,-1.0365693884131026
+SMAD4_damaging_to_BRD4,Avana,ACH-000160,CNS/Brain,matrix_intact,-1.3004675693404995
+SMAD4_damaging_to_BRD4,Avana,ACH-000161,Lung,matrix_intact,-0.5958069372061416
+SMAD4_damaging_to_BRD4,Avana,ACH-000163,Head and Neck,matrix_intact,-1.8611520230065088
+SMAD4_damaging_to_BRD4,Avana,ACH-000164,Pancreas,matrix_intact,-1.923988789398035
+SMAD4_damaging_to_BRD4,Avana,ACH-000168,Myeloid,matrix_intact,-0.8077878828584533
+SMAD4_damaging_to_BRD4,Avana,ACH-000169,Soft Tissue,matrix_intact,-0.612760315425561
+SMAD4_damaging_to_BRD4,Avana,ACH-000174,Thyroid,matrix_intact,-2.669694464177792
+SMAD4_damaging_to_BRD4,Avana,ACH-000178,Pancreas,matrix_intact,-2.3118244867674327
+SMAD4_damaging_to_BRD4,Avana,ACH-000182,Ampulla of Vater,damaging,-2.453603325766914
+SMAD4_damaging_to_BRD4,Avana,ACH-000183,Lymphoid,matrix_intact,-3.243224965788368
+SMAD4_damaging_to_BRD4,Avana,ACH-000187,Lung,matrix_intact,-0.6037500410594561
+SMAD4_damaging_to_BRD4,Avana,ACH-000188,Head and Neck,matrix_intact,-1.404772921547393
+SMAD4_damaging_to_BRD4,Avana,ACH-000189,Kidney,matrix_intact,-0.14295404795930183
+SMAD4_damaging_to_BRD4,Avana,ACH-000190,Myeloid,matrix_intact,-0.9241371841833952
+SMAD4_damaging_to_BRD4,Avana,ACH-000191,Thyroid,matrix_intact,-2.240581607148319
+SMAD4_damaging_to_BRD4,Avana,ACH-000195,Myeloid,matrix_intact,-0.468099894109078
+SMAD4_damaging_to_BRD4,Avana,ACH-000198,Myeloid,matrix_intact,-2.4303552059427984
+SMAD4_damaging_to_BRD4,Avana,ACH-000200,CNS/Brain,matrix_intact,-0.34407331839700867
+SMAD4_damaging_to_BRD4,Avana,ACH-000202,Bowel,matrix_intact,-0.22967318286796967
+SMAD4_damaging_to_BRD4,Avana,ACH-000204,Lymphoid,matrix_intact,-0.7408310149622134
+SMAD4_damaging_to_BRD4,Avana,ACH-000206,Lymphoid,matrix_intact,-0.5775264739310397
+SMAD4_damaging_to_BRD4,Avana,ACH-000207,Head and Neck,matrix_intact,-0.8125836785916679
+SMAD4_damaging_to_BRD4,Avana,ACH-000209,Biliary Tract,matrix_intact,-0.940835981118651
+SMAD4_damaging_to_BRD4,Avana,ACH-000211,CNS/Brain,matrix_intact,-1.7322264789262372
+SMAD4_damaging_to_BRD4,Avana,ACH-000212,Breast,matrix_intact,-4.68943362952086
+SMAD4_damaging_to_BRD4,Avana,ACH-000215,CNS/Brain,matrix_intact,-2.51075624807069
+SMAD4_damaging_to_BRD4,Avana,ACH-000216,Esophagus/Stomach,damaging,-1.8729316770162288
+SMAD4_damaging_to_BRD4,Avana,ACH-000217,Liver,matrix_intact,-1.4380356706253608
+SMAD4_damaging_to_BRD4,Avana,ACH-000219,Skin,matrix_intact,-1.7830910247739418
+SMAD4_damaging_to_BRD4,Avana,ACH-000221,Liver,matrix_intact,-1.2044982021176431
+SMAD4_damaging_to_BRD4,Avana,ACH-000222,Pancreas,damaging,-0.3693420507038976
+SMAD4_damaging_to_BRD4,Avana,ACH-000223,Breast,matrix_intact,-1.4767404309924945
+SMAD4_damaging_to_BRD4,Avana,ACH-000226,Lymphoid,matrix_intact,-1.278644984021093
+SMAD4_damaging_to_BRD4,Avana,ACH-000227,Peripheral Nervous System,matrix_intact,-0.1224273446391176
+SMAD4_damaging_to_BRD4,Avana,ACH-000228,Head and Neck,damaging,-0.7353952667617158
+SMAD4_damaging_to_BRD4,Avana,ACH-000231,CNS/Brain,matrix_intact,-1.9373035012857929
+SMAD4_damaging_to_BRD4,Avana,ACH-000232,CNS/Brain,matrix_intact,-2.2073592786390495
+SMAD4_damaging_to_BRD4,Avana,ACH-000233,Lymphoid,matrix_intact,-1.203690265825637
+SMAD4_damaging_to_BRD4,Avana,ACH-000234,Kidney,matrix_intact,-0.24242703127090917
+SMAD4_damaging_to_BRD4,Avana,ACH-000235,Pancreas,matrix_intact,-2.7814561712273607
+SMAD4_damaging_to_BRD4,Avana,ACH-000237,Ovary/Fallopian Tube,matrix_intact,-1.0474127576616357
+SMAD4_damaging_to_BRD4,Avana,ACH-000238,Head and Neck,matrix_intact,-1.5321618648717823
+SMAD4_damaging_to_BRD4,Avana,ACH-000243,Pancreas,damaging,-0.687936924056453
+SMAD4_damaging_to_BRD4,Avana,ACH-000244,CNS/Brain,matrix_intact,-0.2761605467684358
+SMAD4_damaging_to_BRD4,Avana,ACH-000246,Kidney,matrix_intact,-2.029148463204229
+SMAD4_damaging_to_BRD4,Avana,ACH-000247,Esophagus/Stomach,matrix_intact,-2.9966204170657877
+SMAD4_damaging_to_BRD4,Avana,ACH-000248,Breast,matrix_intact,-0.9398747327178967
+SMAD4_damaging_to_BRD4,Avana,ACH-000250,Kidney,matrix_intact,-1.8867778818932628
+SMAD4_damaging_to_BRD4,Avana,ACH-000251,Lung,matrix_intact,-0.30640469781584256
+SMAD4_damaging_to_BRD4,Avana,ACH-000252,Bowel,matrix_intact,-0.5391765273854632
+SMAD4_damaging_to_BRD4,Avana,ACH-000253,Bowel,matrix_intact,-1.3594660410011274
+SMAD4_damaging_to_BRD4,Avana,ACH-000255,Esophagus/Stomach,matrix_intact,-1.536540548527498
+SMAD4_damaging_to_BRD4,Avana,ACH-000256,Ovary/Fallopian Tube,matrix_intact,-1.3128538916130656
+SMAD4_damaging_to_BRD4,Avana,ACH-000257,Lung,matrix_intact,-1.8519243166226893
+SMAD4_damaging_to_BRD4,Avana,ACH-000258,Breast,matrix_intact,-0.4614095356070737
+SMAD4_damaging_to_BRD4,Avana,ACH-000259,Peripheral Nervous System,matrix_intact,-0.7174659164694155
+SMAD4_damaging_to_BRD4,Avana,ACH-000260,Peripheral Nervous System,matrix_intact,-1.487446308715906
+SMAD4_damaging_to_BRD4,Avana,ACH-000261,Lung,matrix_intact,-1.7598309084730346
+SMAD4_damaging_to_BRD4,Avana,ACH-000262,Kidney,matrix_intact,-0.38670445623454297
+SMAD4_damaging_to_BRD4,Avana,ACH-000263,Myeloid,matrix_intact,-0.2477754665150309
+SMAD4_damaging_to_BRD4,Avana,ACH-000264,Lung,matrix_intact,-1.7782173533434547
+SMAD4_damaging_to_BRD4,Avana,ACH-000265,Pancreas,matrix_intact,-1.1470252215086523
+SMAD4_damaging_to_BRD4,Avana,ACH-000266,Pancreas,matrix_intact,-1.3232404184013289
+SMAD4_damaging_to_BRD4,Avana,ACH-000272,Kidney,matrix_intact,-1.8780235495996158
+SMAD4_damaging_to_BRD4,Avana,ACH-000273,CNS/Brain,matrix_intact,-2.094892755413632
+SMAD4_damaging_to_BRD4,Avana,ACH-000274,Skin,matrix_intact,-0.2752702665971187
+SMAD4_damaging_to_BRD4,Avana,ACH-000276,Breast,matrix_intact,-0.9625035734880676
+SMAD4_damaging_to_BRD4,Avana,ACH-000277,Breast,matrix_intact,-0.25801681434885393
+SMAD4_damaging_to_BRD4,Avana,ACH-000278,Ovary/Fallopian Tube,matrix_intact,-0.6668642373998235
+SMAD4_damaging_to_BRD4,Avana,ACH-000279,Bone,matrix_intact,-1.4033049473903634
+SMAD4_damaging_to_BRD4,Avana,ACH-000280,Ovary/Fallopian Tube,matrix_intact,-0.9252764002800866
+SMAD4_damaging_to_BRD4,Avana,ACH-000281,Pancreas,damaging,-1.5408543767547287
+SMAD4_damaging_to_BRD4,Avana,ACH-000286,Bowel,matrix_intact,-0.8547082936377948
+SMAD4_damaging_to_BRD4,Avana,ACH-000288,Breast,matrix_intact,-1.322660197796352
+SMAD4_damaging_to_BRD4,Avana,ACH-000290,Lung,matrix_intact,-1.623392197664477
+SMAD4_damaging_to_BRD4,Avana,ACH-000291,Ovary/Fallopian Tube,damaging,-2.1920825663914156
+SMAD4_damaging_to_BRD4,Avana,ACH-000292,Lung,matrix_intact,-0.9327942984253218
+SMAD4_damaging_to_BRD4,Avana,ACH-000293,Uterus,matrix_intact,-0.24367901843339113
+SMAD4_damaging_to_BRD4,Avana,ACH-000294,Myeloid,matrix_intact,-1.030428776056088
+SMAD4_damaging_to_BRD4,Avana,ACH-000295,Myeloid,matrix_intact,-0.47565216090671925
+SMAD4_damaging_to_BRD4,Avana,ACH-000296,Bowel,matrix_intact,-0.9120386359400636
+SMAD4_damaging_to_BRD4,Avana,ACH-000302,Uterus,matrix_intact,-0.8963571697517376
+SMAD4_damaging_to_BRD4,Avana,ACH-000303,Esophagus/Stomach,matrix_intact,-2.5166829789375207
+SMAD4_damaging_to_BRD4,Avana,ACH-000304,Skin,matrix_intact,-0.4481005480375402
+SMAD4_damaging_to_BRD4,Avana,ACH-000305,Esophagus/Stomach,matrix_intact,-1.052198891977993
+SMAD4_damaging_to_BRD4,Avana,ACH-000307,Pancreas,matrix_intact,-1.7432161046651982
+SMAD4_damaging_to_BRD4,Avana,ACH-000308,Ovary/Fallopian Tube,matrix_intact,-2.900383538447409
+SMAD4_damaging_to_BRD4,Avana,ACH-000310,Peripheral Nervous System,matrix_intact,-0.16490433720259087
+SMAD4_damaging_to_BRD4,Avana,ACH-000311,Lung,matrix_intact,-0.5742177318978527
+SMAD4_damaging_to_BRD4,Avana,ACH-000312,Peripheral Nervous System,matrix_intact,-0.5366015926464048
+SMAD4_damaging_to_BRD4,Avana,ACH-000313,Kidney,matrix_intact,-2.070473507697774
+SMAD4_damaging_to_BRD4,Avana,ACH-000315,Lymphoid,matrix_intact,-1.2224975381668552
+SMAD4_damaging_to_BRD4,Avana,ACH-000316,Liver,matrix_intact,-1.101050285285719
+SMAD4_damaging_to_BRD4,Avana,ACH-000317,Kidney,matrix_intact,-0.5512998812693983
+SMAD4_damaging_to_BRD4,Avana,ACH-000318,Esophagus/Stomach,matrix_intact,-1.0405124551773404
+SMAD4_damaging_to_BRD4,Avana,ACH-000319,Pleura,matrix_intact,-0.6548426090043509
+SMAD4_damaging_to_BRD4,Avana,ACH-000320,Pancreas,matrix_intact,-0.18153928772002154
+SMAD4_damaging_to_BRD4,Avana,ACH-000322,Skin,matrix_intact,-1.309058613945294
+SMAD4_damaging_to_BRD4,Avana,ACH-000323,CNS/Brain,matrix_intact,-1.140027228734698
+SMAD4_damaging_to_BRD4,Avana,ACH-000324,Ovary/Fallopian Tube,matrix_intact,-0.9109062462561702
+SMAD4_damaging_to_BRD4,Avana,ACH-000325,Esophagus/Stomach,matrix_intact,-1.1542698462277143
+SMAD4_damaging_to_BRD4,Avana,ACH-000326,Myeloid,matrix_intact,-1.1373276516138755
+SMAD4_damaging_to_BRD4,Avana,ACH-000329,CNS/Brain,matrix_intact,-0.18589442438623754
+SMAD4_damaging_to_BRD4,Avana,ACH-000330,Breast,matrix_intact,-0.7508161326644851
+SMAD4_damaging_to_BRD4,Avana,ACH-000331,Pleura,matrix_intact,-1.1463332513632487
+SMAD4_damaging_to_BRD4,Avana,ACH-000332,Pancreas,damaging,-1.549172975119006
+SMAD4_damaging_to_BRD4,Avana,ACH-000334,Lymphoid,matrix_intact,-0.9119944555886352
+SMAD4_damaging_to_BRD4,Avana,ACH-000335,Pleura,matrix_intact,-1.1515051245438106
+SMAD4_damaging_to_BRD4,Avana,ACH-000336,Myeloid,matrix_intact,-0.30641915586396795
+SMAD4_damaging_to_BRD4,Avana,ACH-000337,Lung,matrix_intact,-0.6867460724473756
+SMAD4_damaging_to_BRD4,Avana,ACH-000339,Lung,matrix_intact,-3.035003434945538
+SMAD4_damaging_to_BRD4,Avana,ACH-000341,Peripheral Nervous System,matrix_intact,-0.38892249676113944
+SMAD4_damaging_to_BRD4,Avana,ACH-000343,Lung,matrix_intact,-1.3209507117730688
+SMAD4_damaging_to_BRD4,Avana,ACH-000344,Esophagus/Stomach,matrix_intact,-0.752495727927827
+SMAD4_damaging_to_BRD4,Avana,ACH-000346,Lymphoid,matrix_intact,-0.8158120235830735
+SMAD4_damaging_to_BRD4,Avana,ACH-000348,Skin,matrix_intact,-1.1995476865774204
+SMAD4_damaging_to_BRD4,Avana,ACH-000350,Bowel,matrix_intact,-0.992467691330674
+SMAD4_damaging_to_BRD4,Avana,ACH-000352,Breast,matrix_intact,-1.2460290582018556
+SMAD4_damaging_to_BRD4,Avana,ACH-000355,Lung,matrix_intact,-0.7207337188079688
+SMAD4_damaging_to_BRD4,Avana,ACH-000356,Esophagus/Stomach,matrix_intact,-0.40321185239430773
+SMAD4_damaging_to_BRD4,Avana,ACH-000359,Bone,matrix_intact,-1.1169624676526235
+SMAD4_damaging_to_BRD4,Avana,ACH-000361,Liver,matrix_intact,-0.9193653950236894
+SMAD4_damaging_to_BRD4,Avana,ACH-000362,Myeloid,matrix_intact,-0.8944014252442449
+SMAD4_damaging_to_BRD4,Avana,ACH-000363,Lymphoid,matrix_intact,-2.791134190511926
+SMAD4_damaging_to_BRD4,Avana,ACH-000364,Bone,matrix_intact,-0.9425264673766508
+SMAD4_damaging_to_BRD4,Avana,ACH-000365,Lymphoid,matrix_intact,-2.143164768597519
+SMAD4_damaging_to_BRD4,Avana,ACH-000366,Peripheral Nervous System,matrix_intact,-1.731099810784114
+SMAD4_damaging_to_BRD4,Avana,ACH-000368,CNS/Brain,matrix_intact,-0.45866988944881265
+SMAD4_damaging_to_BRD4,Avana,ACH-000370,CNS/Brain,matrix_intact,-0.5661795963494125
+SMAD4_damaging_to_BRD4,Avana,ACH-000371,Lymphoid,matrix_intact,-1.3229400427273281
+SMAD4_damaging_to_BRD4,Avana,ACH-000374,Breast,matrix_intact,-3.4490443852642954
+SMAD4_damaging_to_BRD4,Avana,ACH-000375,Kidney,matrix_intact,-1.4400146253230766
+SMAD4_damaging_to_BRD4,Avana,ACH-000376,CNS/Brain,matrix_intact,-1.4257724525627822
+SMAD4_damaging_to_BRD4,Avana,ACH-000377,Ampulla of Vater,matrix_intact,-2.6095652541803425
+SMAD4_damaging_to_BRD4,Avana,ACH-000378,Lung,matrix_intact,-0.5779459748723049
+SMAD4_damaging_to_BRD4,Avana,ACH-000381,Bowel,matrix_intact,-0.6977550180411908
+SMAD4_damaging_to_BRD4,Avana,ACH-000383,Esophagus/Stomach,matrix_intact,-2.529595939071017
+SMAD4_damaging_to_BRD4,Avana,ACH-000385,Kidney,matrix_intact,-0.8818191532324171
+SMAD4_damaging_to_BRD4,Avana,ACH-000387,Myeloid,matrix_intact,-0.9172865869338177
+SMAD4_damaging_to_BRD4,Avana,ACH-000389,CNS/Brain,matrix_intact,-0.4560419030003508
+SMAD4_damaging_to_BRD4,Avana,ACH-000390,Lung,matrix_intact,-1.7190107934503471
+SMAD4_damaging_to_BRD4,Avana,ACH-000391,Bone,matrix_intact,-0.34401328848425916
+SMAD4_damaging_to_BRD4,Avana,ACH-000393,Liver,matrix_intact,-1.1086896101664248
+SMAD4_damaging_to_BRD4,Avana,ACH-000395,Lung,matrix_intact,-1.0660764970075751
+SMAD4_damaging_to_BRD4,Avana,ACH-000396,Bladder/Urinary Tract,matrix_intact,-0.3188536354706314
+SMAD4_damaging_to_BRD4,Avana,ACH-000397,Uterus,matrix_intact,-1.4896575970160182
+SMAD4_damaging_to_BRD4,Avana,ACH-000398,Lymphoid,matrix_intact,-1.0867238489729774
+SMAD4_damaging_to_BRD4,Avana,ACH-000401,Skin,matrix_intact,-1.1230150378647503
+SMAD4_damaging_to_BRD4,Avana,ACH-000402,Lymphoid,matrix_intact,-0.5758038454735086
+SMAD4_damaging_to_BRD4,Avana,ACH-000403,Bowel,matrix_intact,-1.1911024885222445
+SMAD4_damaging_to_BRD4,Avana,ACH-000404,Skin,matrix_intact,-1.4480282660698878
+SMAD4_damaging_to_BRD4,Avana,ACH-000405,Lymphoid,matrix_intact,-1.416780433364559
+SMAD4_damaging_to_BRD4,Avana,ACH-000406,Myeloid,matrix_intact,-1.3676676765888907
+SMAD4_damaging_to_BRD4,Avana,ACH-000407,Uterus,matrix_intact,-1.015342892094865
+SMAD4_damaging_to_BRD4,Avana,ACH-000408,Esophagus/Stomach,matrix_intact,-0.4281310379537709
+SMAD4_damaging_to_BRD4,Avana,ACH-000410,Bone,matrix_intact,-0.7516548809370958
+SMAD4_damaging_to_BRD4,Avana,ACH-000411,Kidney,matrix_intact,-1.0481544722082758
+SMAD4_damaging_to_BRD4,Avana,ACH-000414,Lung,matrix_intact,-0.8596757520121299
+SMAD4_damaging_to_BRD4,Avana,ACH-000415,Head and Neck,matrix_intact,-1.3328816114506228
+SMAD4_damaging_to_BRD4,Avana,ACH-000416,Lung,matrix_intact,-2.0453430601677027
+SMAD4_damaging_to_BRD4,Avana,ACH-000417,Pancreas,damaging,-1.2170125400199328
+SMAD4_damaging_to_BRD4,Avana,ACH-000420,Liver,matrix_intact,-1.0246239690547023
+SMAD4_damaging_to_BRD4,Avana,ACH-000421,Bowel,matrix_intact,-1.1344125900348172
+SMAD4_damaging_to_BRD4,Avana,ACH-000422,Liver,matrix_intact,-2.0278030980586146
+SMAD4_damaging_to_BRD4,Avana,ACH-000424,Bone,matrix_intact,-0.24567339616227196
+SMAD4_damaging_to_BRD4,Avana,ACH-000425,Skin,matrix_intact,-1.6081510240538357
+SMAD4_damaging_to_BRD4,Avana,ACH-000426,Lymphoid,matrix_intact,-0.7479536060703832
+SMAD4_damaging_to_BRD4,Avana,ACH-000427,Esophagus/Stomach,matrix_intact,-0.1252347356104408
+SMAD4_damaging_to_BRD4,Avana,ACH-000431,Lung,matrix_intact,-0.8517820855086942
+SMAD4_damaging_to_BRD4,Avana,ACH-000433,Kidney,matrix_intact,-0.6636478732792308
+SMAD4_damaging_to_BRD4,Avana,ACH-000434,Lung,matrix_intact,-0.9673564229683228
+SMAD4_damaging_to_BRD4,Avana,ACH-000435,Uterus,matrix_intact,-0.3412011213543088
+SMAD4_damaging_to_BRD4,Avana,ACH-000436,Lymphoid,matrix_intact,-1.7188469036418574
+SMAD4_damaging_to_BRD4,Avana,ACH-000437,CNS/Brain,matrix_intact,-1.4540380232990566
+SMAD4_damaging_to_BRD4,Avana,ACH-000438,Lung,matrix_intact,-1.9810577181832514
+SMAD4_damaging_to_BRD4,Avana,ACH-000441,Skin,matrix_intact,-3.4157368985003527
+SMAD4_damaging_to_BRD4,Avana,ACH-000444,Lung,matrix_intact,-1.0979696611298535
+SMAD4_damaging_to_BRD4,Avana,ACH-000445,CNS/Brain,matrix_intact,-1.4400121181953018
+SMAD4_damaging_to_BRD4,Avana,ACH-000448,Lung,matrix_intact,-1.3319544546897553
+SMAD4_damaging_to_BRD4,Avana,ACH-000450,Skin,matrix_intact,-0.6537549289077624
+SMAD4_damaging_to_BRD4,Avana,ACH-000452,Esophagus/Stomach,matrix_intact,-1.5809899922538608
+SMAD4_damaging_to_BRD4,Avana,ACH-000454,Lung,matrix_intact,-1.0626997317439288
+SMAD4_damaging_to_BRD4,Avana,ACH-000455,CNS/Brain,matrix_intact,-2.1686818847399616
+SMAD4_damaging_to_BRD4,Avana,ACH-000456,Thyroid,matrix_intact,-2.861466506708408
+SMAD4_damaging_to_BRD4,Avana,ACH-000458,Skin,matrix_intact,-0.7648514288572988
+SMAD4_damaging_to_BRD4,Avana,ACH-000459,Kidney,matrix_intact,-0.5909703665224387
+SMAD4_damaging_to_BRD4,Avana,ACH-000460,Ovary/Fallopian Tube,matrix_intact,-1.0848538251371371
+SMAD4_damaging_to_BRD4,Avana,ACH-000461,Biliary Tract,damaging,-1.649796605785288
+SMAD4_damaging_to_BRD4,Avana,ACH-000463,Lung,matrix_intact,-0.5422269328897671
+SMAD4_damaging_to_BRD4,Avana,ACH-000464,CNS/Brain,matrix_intact,-0.4291132980885166
+SMAD4_damaging_to_BRD4,Avana,ACH-000466,Esophagus/Stomach,damaging,-0.4759027439214156
+SMAD4_damaging_to_BRD4,Avana,ACH-000467,Bowel,matrix_intact,-0.8251946452530765
+SMAD4_damaging_to_BRD4,Avana,ACH-000468,Pancreas,matrix_intact,-1.1709055407093132
+SMAD4_damaging_to_BRD4,Avana,ACH-000469,CNS/Brain,matrix_intact,-1.2753931665980147
+SMAD4_damaging_to_BRD4,Avana,ACH-000470,Bowel,damaging,-1.7393032747150032
+SMAD4_damaging_to_BRD4,Avana,ACH-000471,Liver,matrix_intact,-1.1806334143036525
+SMAD4_damaging_to_BRD4,Avana,ACH-000472,Head and Neck,matrix_intact,-2.414493464138224
+SMAD4_damaging_to_BRD4,Avana,ACH-000473,Bladder/Urinary Tract,matrix_intact,-1.0019609972242378
+SMAD4_damaging_to_BRD4,Avana,ACH-000475,Liver,matrix_intact,-2.7617016965146566
+SMAD4_damaging_to_BRD4,Avana,ACH-000476,Liver,matrix_intact,-0.8798600578939736
+SMAD4_damaging_to_BRD4,Avana,ACH-000477,Skin,matrix_intact,-0.6914109571749105
+SMAD4_damaging_to_BRD4,Avana,ACH-000478,Liver,matrix_intact,-0.8450735019687652
+SMAD4_damaging_to_BRD4,Avana,ACH-000479,CNS/Brain,matrix_intact,-0.5605992346266913
+SMAD4_damaging_to_BRD4,Avana,ACH-000480,Liver,matrix_intact,-0.553361141728169
+SMAD4_damaging_to_BRD4,Avana,ACH-000481,Lung,matrix_intact,-0.7871441392553473
+SMAD4_damaging_to_BRD4,Avana,ACH-000483,Liver,matrix_intact,-0.6105863080818195
+SMAD4_damaging_to_BRD4,Avana,ACH-000484,Kidney,matrix_intact,-0.9817959793362451
+SMAD4_damaging_to_BRD4,Avana,ACH-000485,Esophagus/Stomach,matrix_intact,-1.5926579533286245
+SMAD4_damaging_to_BRD4,Avana,ACH-000486,Bladder/Urinary Tract,matrix_intact,-1.3391550968854011
+SMAD4_damaging_to_BRD4,Avana,ACH-000487,Myeloid,matrix_intact,-2.7654943946584294
+SMAD4_damaging_to_BRD4,Avana,ACH-000488,Esophagus/Stomach,matrix_intact,-1.7808232021792398
+SMAD4_damaging_to_BRD4,Avana,ACH-000489,Bowel,matrix_intact,-1.4191657994519566
+SMAD4_damaging_to_BRD4,Avana,ACH-000490,Cervix,matrix_intact,-1.9537283426773024
+SMAD4_damaging_to_BRD4,Avana,ACH-000491,Bowel,matrix_intact,-1.2949146685781134
+SMAD4_damaging_to_BRD4,Avana,ACH-000493,Liver,matrix_intact,-1.415301783435016
+SMAD4_damaging_to_BRD4,Avana,ACH-000495,Kidney,matrix_intact,-0.575782463444332
+SMAD4_damaging_to_BRD4,Avana,ACH-000496,Lung,matrix_intact,-0.9173724265216474
+SMAD4_damaging_to_BRD4,Avana,ACH-000499,Bone,matrix_intact,-0.774496879481391
+SMAD4_damaging_to_BRD4,Avana,ACH-000500,Head and Neck,matrix_intact,-0.12079779618229289
+SMAD4_damaging_to_BRD4,Avana,ACH-000502,Pancreas,damaging,-1.5702565352366542
+SMAD4_damaging_to_BRD4,Avana,ACH-000503,Head and Neck,matrix_intact,-0.667778246111071
+SMAD4_damaging_to_BRD4,Avana,ACH-000504,CNS/Brain,matrix_intact,-0.7818041565454439
+SMAD4_damaging_to_BRD4,Avana,ACH-000505,Soft Tissue,matrix_intact,-0.6956495965105579
+SMAD4_damaging_to_BRD4,Avana,ACH-000507,Esophagus/Stomach,matrix_intact,-1.068347129474288
+SMAD4_damaging_to_BRD4,Avana,ACH-000510,Lung,matrix_intact,-1.9239707117057336
+SMAD4_damaging_to_BRD4,Avana,ACH-000511,Lung,matrix_intact,-0.8470256437360267
+SMAD4_damaging_to_BRD4,Avana,ACH-000512,Lymphoid,matrix_intact,-0.7305984371996548
+SMAD4_damaging_to_BRD4,Avana,ACH-000514,Lung,matrix_intact,-0.3552125809091859
+SMAD4_damaging_to_BRD4,Avana,ACH-000516,Bone,matrix_intact,-2.2151666863303117
+SMAD4_damaging_to_BRD4,Avana,ACH-000517,Pancreas,matrix_intact,-0.6171857859133987
+SMAD4_damaging_to_BRD4,Avana,ACH-000518,Head and Neck,damaging,-0.4442391196231847
+SMAD4_damaging_to_BRD4,Avana,ACH-000520,Ovary/Fallopian Tube,matrix_intact,-0.8752606470162265
+SMAD4_damaging_to_BRD4,Avana,ACH-000521,Lung,matrix_intact,-1.192977898474319
+SMAD4_damaging_to_BRD4,Avana,ACH-000522,Bladder/Urinary Tract,matrix_intact,-2.0997522026984043
+SMAD4_damaging_to_BRD4,Avana,ACH-000524,Ovary/Fallopian Tube,matrix_intact,-1.6937012321928677
+SMAD4_damaging_to_BRD4,Avana,ACH-000525,Lung,matrix_intact,-1.9133964985198912
+SMAD4_damaging_to_BRD4,Avana,ACH-000527,Ovary/Fallopian Tube,matrix_intact,-1.3324382281038054
+SMAD4_damaging_to_BRD4,Avana,ACH-000528,Lung,matrix_intact,-1.7100862719311047
+SMAD4_damaging_to_BRD4,Avana,ACH-000532,Bowel,matrix_intact,-1.1334335835286664
+SMAD4_damaging_to_BRD4,Avana,ACH-000533,Kidney,matrix_intact,-0.9539144441739976
+SMAD4_damaging_to_BRD4,Avana,ACH-000535,Pancreas,matrix_intact,-1.1244190364797184
+SMAD4_damaging_to_BRD4,Avana,ACH-000537,Liver,matrix_intact,-1.1413127237749467
+SMAD4_damaging_to_BRD4,Avana,ACH-000541,Lymphoid,matrix_intact,-1.3113939136601591
+SMAD4_damaging_to_BRD4,Avana,ACH-000542,Ovary/Fallopian Tube,matrix_intact,-1.8439971803803934
+SMAD4_damaging_to_BRD4,Avana,ACH-000544,Esophagus/Stomach,matrix_intact,-3.267893927833621
+SMAD4_damaging_to_BRD4,Avana,ACH-000545,Bladder/Urinary Tract,matrix_intact,-1.1282653341221422
+SMAD4_damaging_to_BRD4,Avana,ACH-000547,Bladder/Urinary Tract,matrix_intact,-0.5765985815786578
+SMAD4_damaging_to_BRD4,Avana,ACH-000548,Head and Neck,matrix_intact,-1.2089841215869992
+SMAD4_damaging_to_BRD4,Avana,ACH-000549,Head and Neck,matrix_intact,-1.1219107704573963
+SMAD4_damaging_to_BRD4,Avana,ACH-000550,Skin,matrix_intact,-1.132965117677783
+SMAD4_damaging_to_BRD4,Avana,ACH-000551,Myeloid,matrix_intact,-2.33089323634732
+SMAD4_damaging_to_BRD4,Avana,ACH-000552,Bowel,damaging,-1.0581325876463736
+SMAD4_damaging_to_BRD4,Avana,ACH-000556,Cervix,matrix_intact,-2.0089402858640355
+SMAD4_damaging_to_BRD4,Avana,ACH-000557,Myeloid,matrix_intact,-1.9516540430858544
+SMAD4_damaging_to_BRD4,Avana,ACH-000559,Lung,matrix_intact,-1.2369750212569433
+SMAD4_damaging_to_BRD4,Avana,ACH-000563,Lung,matrix_intact,-1.4900192685570537
+SMAD4_damaging_to_BRD4,Avana,ACH-000567,Lymphoid,matrix_intact,-1.2336120365050283
+SMAD4_damaging_to_BRD4,Avana,ACH-000570,CNS/Brain,matrix_intact,-1.1896327303378254
+SMAD4_damaging_to_BRD4,Avana,ACH-000571,CNS/Brain,matrix_intact,-1.8106478698739563
+SMAD4_damaging_to_BRD4,Avana,ACH-000573,Breast,matrix_intact,-1.6184978738832636
+SMAD4_damaging_to_BRD4,Avana,ACH-000576,Lymphoid,matrix_intact,-1.0624750485831629
+SMAD4_damaging_to_BRD4,Avana,ACH-000577,Liver,matrix_intact,-0.6714482220708053
+SMAD4_damaging_to_BRD4,Avana,ACH-000579,Skin,matrix_intact,-1.284906128389177
+SMAD4_damaging_to_BRD4,Avana,ACH-000580,Skin,matrix_intact,-1.6752098694088167
+SMAD4_damaging_to_BRD4,Avana,ACH-000581,Esophagus/Stomach,matrix_intact,-0.12399397204286006
+SMAD4_damaging_to_BRD4,Avana,ACH-000584,Ovary/Fallopian Tube,matrix_intact,-2.7058830604571766
+SMAD4_damaging_to_BRD4,Avana,ACH-000585,Lung,matrix_intact,-1.0850158911876058
+SMAD4_damaging_to_BRD4,Avana,ACH-000587,Lung,matrix_intact,-1.713496735781141
+SMAD4_damaging_to_BRD4,Avana,ACH-000588,Lymphoid,matrix_intact,-2.3986977261079696
+SMAD4_damaging_to_BRD4,Avana,ACH-000589,Lung,matrix_intact,-1.3423100227893712
+SMAD4_damaging_to_BRD4,Avana,ACH-000591,CNS/Brain,matrix_intact,-1.0374499516217406
+SMAD4_damaging_to_BRD4,Avana,ACH-000592,CNS/Brain,matrix_intact,-1.010324041209217
+SMAD4_damaging_to_BRD4,Avana,ACH-000593,Bladder/Urinary Tract,matrix_intact,-0.952086923536042
+SMAD4_damaging_to_BRD4,Avana,ACH-000595,CNS/Brain,matrix_intact,-2.3395081810635476
+SMAD4_damaging_to_BRD4,Avana,ACH-000596,Lung,matrix_intact,-0.8317266830151855
+SMAD4_damaging_to_BRD4,Avana,ACH-000597,Kidney,matrix_intact,-0.7839462628162165
+SMAD4_damaging_to_BRD4,Avana,ACH-000599,Pancreas,matrix_intact,-2.758179711938096
+SMAD4_damaging_to_BRD4,Avana,ACH-000601,Pancreas,matrix_intact,-1.9661338537001425
+SMAD4_damaging_to_BRD4,Avana,ACH-000602,Myeloid,matrix_intact,-1.4187112817098795
+SMAD4_damaging_to_BRD4,Avana,ACH-000604,Myeloid,matrix_intact,-0.8601725203218535
+SMAD4_damaging_to_BRD4,Avana,ACH-000605,Esophagus/Stomach,matrix_intact,-0.49763143137697363
+SMAD4_damaging_to_BRD4,Avana,ACH-000606,Head and Neck,damaging,-0.8972144204139667
+SMAD4_damaging_to_BRD4,Avana,ACH-000607,Soft Tissue,matrix_intact,-0.7620088245566179
+SMAD4_damaging_to_BRD4,Avana,ACH-000608,Ovary/Fallopian Tube,matrix_intact,-0.9740879791426013
+SMAD4_damaging_to_BRD4,Avana,ACH-000609,CNS/Brain,matrix_intact,-0.35253820101797045
+SMAD4_damaging_to_BRD4,Avana,ACH-000614,Skin,matrix_intact,-1.0015803548714894
+SMAD4_damaging_to_BRD4,Avana,ACH-000616,Esophagus/Stomach,matrix_intact,-1.9034848268874147
+SMAD4_damaging_to_BRD4,Avana,ACH-000618,Head and Neck,matrix_intact,-0.7826941046581795
+SMAD4_damaging_to_BRD4,Avana,ACH-000619,Head and Neck,matrix_intact,-0.5646486002804201
+SMAD4_damaging_to_BRD4,Avana,ACH-000620,Liver,matrix_intact,-2.8959959044776964
+SMAD4_damaging_to_BRD4,Avana,ACH-000621,Breast,matrix_intact,-1.6906654565360837
+SMAD4_damaging_to_BRD4,Avana,ACH-000622,CNS/Brain,matrix_intact,-0.6950338748103464
+SMAD4_damaging_to_BRD4,Avana,ACH-000623,CNS/Brain,matrix_intact,-0.835739238309948
+SMAD4_damaging_to_BRD4,Avana,ACH-000624,Breast,matrix_intact,-1.89592145217323
+SMAD4_damaging_to_BRD4,Avana,ACH-000627,Lung,matrix_intact,-1.5814296392583302
+SMAD4_damaging_to_BRD4,Avana,ACH-000630,Head and Neck,matrix_intact,-2.0480176188782258
+SMAD4_damaging_to_BRD4,Avana,ACH-000632,Skin,matrix_intact,-0.8087116833795212
+SMAD4_damaging_to_BRD4,Avana,ACH-000633,Esophagus/Stomach,matrix_intact,-2.1851846293361765
+SMAD4_damaging_to_BRD4,Avana,ACH-000634,CNS/Brain,matrix_intact,-0.792263354929835
+SMAD4_damaging_to_BRD4,Avana,ACH-000637,Esophagus/Stomach,matrix_intact,-2.043063441496769
+SMAD4_damaging_to_BRD4,Avana,ACH-000638,Lung,matrix_intact,-1.0600929611611831
+SMAD4_damaging_to_BRD4,Avana,ACH-000639,Lung,matrix_intact,-2.912688066544722
+SMAD4_damaging_to_BRD4,Avana,ACH-000645,Pleura,matrix_intact,-0.9089570498794677
+SMAD4_damaging_to_BRD4,Avana,ACH-000646,Ovary/Fallopian Tube,matrix_intact,-0.5756627316049121
+SMAD4_damaging_to_BRD4,Avana,ACH-000647,Esophagus/Stomach,damaging,-1.6160837366847658
+SMAD4_damaging_to_BRD4,Avana,ACH-000648,Pleura,matrix_intact,-0.3231793452175157
+SMAD4_damaging_to_BRD4,Avana,ACH-000649,Kidney,matrix_intact,-1.362646120074905
+SMAD4_damaging_to_BRD4,Avana,ACH-000651,Bowel,matrix_intact,-1.19358294825568
+SMAD4_damaging_to_BRD4,Avana,ACH-000652,Pancreas,matrix_intact,-0.9452564407228189
+SMAD4_damaging_to_BRD4,Avana,ACH-000653,Lymphoid,matrix_intact,-1.9539379202942047
+SMAD4_damaging_to_BRD4,Avana,ACH-000654,Lymphoid,matrix_intact,-2.5109897335747164
+SMAD4_damaging_to_BRD4,Avana,ACH-000655,CNS/Brain,matrix_intact,-2.074051628236303
+SMAD4_damaging_to_BRD4,Avana,ACH-000657,Ovary/Fallopian Tube,matrix_intact,-1.8958748092386484
+SMAD4_damaging_to_BRD4,Avana,ACH-000661,Skin,matrix_intact,-0.885201741260685
+SMAD4_damaging_to_BRD4,Avana,ACH-000662,Lung,matrix_intact,-2.0434282797703163
+SMAD4_damaging_to_BRD4,Avana,ACH-000663,Ovary/Fallopian Tube,matrix_intact,-1.0951882777540956
+SMAD4_damaging_to_BRD4,Avana,ACH-000664,Lymphoid,matrix_intact,-2.7059266325316558
+SMAD4_damaging_to_BRD4,Avana,ACH-000665,Lung,matrix_intact,-1.4475903904008183
+SMAD4_damaging_to_BRD4,Avana,ACH-000667,Lung,matrix_intact,-2.3785917652265143
+SMAD4_damaging_to_BRD4,Avana,ACH-000671,Liver,matrix_intact,-2.101525880558261
+SMAD4_damaging_to_BRD4,Avana,ACH-000673,CNS/Brain,matrix_intact,-2.460373948288451
+SMAD4_damaging_to_BRD4,Avana,ACH-000676,CNS/Brain,matrix_intact,-3.1028696311505883
+SMAD4_damaging_to_BRD4,Avana,ACH-000677,Lung,matrix_intact,-1.2696366634392235
+SMAD4_damaging_to_BRD4,Avana,ACH-000680,Bowel,damaging,-0.4812594467008628
+SMAD4_damaging_to_BRD4,Avana,ACH-000681,Lung,matrix_intact,-1.2830996371814016
+SMAD4_damaging_to_BRD4,Avana,ACH-000682,Head and Neck,matrix_intact,-2.572860437175639
+SMAD4_damaging_to_BRD4,Avana,ACH-000683,Bowel,matrix_intact,-2.5000661512540354
+SMAD4_damaging_to_BRD4,Avana,ACH-000684,Kidney,matrix_intact,-0.19618116142220027
+SMAD4_damaging_to_BRD4,Avana,ACH-000685,Pancreas,matrix_intact,-0.48211106258767433
+SMAD4_damaging_to_BRD4,Avana,ACH-000688,Ovary/Fallopian Tube,matrix_intact,-0.12642212808269493
+SMAD4_damaging_to_BRD4,Avana,ACH-000693,Esophagus/Stomach,matrix_intact,-0.9700632011568988
+SMAD4_damaging_to_BRD4,Avana,ACH-000694,Esophagus/Stomach,matrix_intact,-1.776103580938274
+SMAD4_damaging_to_BRD4,Avana,ACH-000695,Lung,matrix_intact,-0.5452971121049677
+SMAD4_damaging_to_BRD4,Avana,ACH-000696,Ovary/Fallopian Tube,matrix_intact,-1.472930939648342
+SMAD4_damaging_to_BRD4,Avana,ACH-000697,Lymphoid,matrix_intact,-0.6419225722242903
+SMAD4_damaging_to_BRD4,Avana,ACH-000698,Lung,matrix_intact,-2.803974541404493
+SMAD4_damaging_to_BRD4,Avana,ACH-000699,Breast,matrix_intact,-0.3301833174529498
+SMAD4_damaging_to_BRD4,Avana,ACH-000700,Lung,matrix_intact,-0.4248965912775291
+SMAD4_damaging_to_BRD4,Avana,ACH-000701,Ovary/Fallopian Tube,matrix_intact,-0.8210078911149803
+SMAD4_damaging_to_BRD4,Avana,ACH-000702,Lymphoid,matrix_intact,-2.9964654648879865
+SMAD4_damaging_to_BRD4,Avana,ACH-000706,Lung,matrix_intact,-1.8939346301073425
+SMAD4_damaging_to_BRD4,Avana,ACH-000709,Kidney,matrix_intact,-0.7952590131074819
+SMAD4_damaging_to_BRD4,Avana,ACH-000711,Breast,matrix_intact,-2.993961220298699
+SMAD4_damaging_to_BRD4,Avana,ACH-000713,Ovary/Fallopian Tube,matrix_intact,-1.7237512348988877
+SMAD4_damaging_to_BRD4,Avana,ACH-000714,Lymphoid,matrix_intact,-1.8832051749783725
+SMAD4_damaging_to_BRD4,Avana,ACH-000716,Thyroid,matrix_intact,-1.1805517600428348
+SMAD4_damaging_to_BRD4,Avana,ACH-000718,Lung,matrix_intact,-1.1999608593658178
+SMAD4_damaging_to_BRD4,Avana,ACH-000719,Ovary/Fallopian Tube,matrix_intact,-1.5427189989070818
+SMAD4_damaging_to_BRD4,Avana,ACH-000720,Bladder/Urinary Tract,matrix_intact,-1.4466372125773548
+SMAD4_damaging_to_BRD4,Avana,ACH-000721,Breast,matrix_intact,-1.6279207538773215
+SMAD4_damaging_to_BRD4,Avana,ACH-000724,Bladder/Urinary Tract,matrix_intact,-0.6697947006889027
+SMAD4_damaging_to_BRD4,Avana,ACH-000725,Breast,matrix_intact,-1.425897913030127
+SMAD4_damaging_to_BRD4,Avana,ACH-000732,Head and Neck,matrix_intact,-0.5528858011430287
+SMAD4_damaging_to_BRD4,Avana,ACH-000734,Liver,matrix_intact,-3.464850895721666
+SMAD4_damaging_to_BRD4,Avana,ACH-000735,Head and Neck,matrix_intact,-2.523562127589464
+SMAD4_damaging_to_BRD4,Avana,ACH-000736,Esophagus/Stomach,matrix_intact,-1.0556391477889169
+SMAD4_damaging_to_BRD4,Avana,ACH-000738,CNS/Brain,matrix_intact,-1.6142995479156315
+SMAD4_damaging_to_BRD4,Avana,ACH-000739,Liver,matrix_intact,-0.9819572277692604
+SMAD4_damaging_to_BRD4,Avana,ACH-000740,Head and Neck,matrix_intact,-1.3135854111849774
+SMAD4_damaging_to_BRD4,Avana,ACH-000741,Bladder/Urinary Tract,matrix_intact,-2.5727460208151736
+SMAD4_damaging_to_BRD4,Avana,ACH-000746,Esophagus/Stomach,matrix_intact,-1.2332820528234447
+SMAD4_damaging_to_BRD4,Avana,ACH-000747,Lung,matrix_intact,-0.4627364861116625
+SMAD4_damaging_to_BRD4,Avana,ACH-000748,Bone,matrix_intact,-1.66129183809438
+SMAD4_damaging_to_BRD4,Avana,ACH-000753,Bladder/Urinary Tract,matrix_intact,-1.0367186256161316
+SMAD4_damaging_to_BRD4,Avana,ACH-000754,Lymphoid,matrix_intact,-1.8417862798953872
+SMAD4_damaging_to_BRD4,Avana,ACH-000756,CNS/Brain,matrix_intact,-5.653846557071111
+SMAD4_damaging_to_BRD4,Avana,ACH-000757,Lung,matrix_intact,-0.6928772730672562
+SMAD4_damaging_to_BRD4,Avana,ACH-000758,Esophagus/Stomach,matrix_intact,-1.3793893407723266
+SMAD4_damaging_to_BRD4,Avana,ACH-000760,CNS/Brain,matrix_intact,-0.807019756510539
+SMAD4_damaging_to_BRD4,Avana,ACH-000762,Head and Neck,matrix_intact,-1.7337840241302818
+SMAD4_damaging_to_BRD4,Avana,ACH-000763,Lymphoid,matrix_intact,-0.987399738307766
+SMAD4_damaging_to_BRD4,Avana,ACH-000764,Esophagus/Stomach,matrix_intact,-0.41871831849668134
+SMAD4_damaging_to_BRD4,Avana,ACH-000765,Skin,matrix_intact,-1.1813570079663052
+SMAD4_damaging_to_BRD4,Avana,ACH-000766,Lung,matrix_intact,0.38956308654626626
+SMAD4_damaging_to_BRD4,Avana,ACH-000767,Lung,matrix_intact,-1.7350619145128965
+SMAD4_damaging_to_BRD4,Avana,ACH-000768,Breast,matrix_intact,-2.5347124493912094
+SMAD4_damaging_to_BRD4,Avana,ACH-000769,Lung,matrix_intact,-0.7674348414124192
+SMAD4_damaging_to_BRD4,Avana,ACH-000770,Myeloid,matrix_intact,-1.4363879725091375
+SMAD4_damaging_to_BRD4,Avana,ACH-000771,Head and Neck,matrix_intact,-1.3743959632729688
+SMAD4_damaging_to_BRD4,Avana,ACH-000773,Lymphoid,matrix_intact,-1.2199351801062828
+SMAD4_damaging_to_BRD4,Avana,ACH-000774,Lung,matrix_intact,-0.9116486558518716
+SMAD4_damaging_to_BRD4,Avana,ACH-000775,Lung,matrix_intact,-1.1192509292897213
+SMAD4_damaging_to_BRD4,Avana,ACH-000776,CNS/Brain,matrix_intact,-0.9984234611422941
+SMAD4_damaging_to_BRD4,Avana,ACH-000777,Esophagus/Stomach,matrix_intact,-2.5182161053153465
+SMAD4_damaging_to_BRD4,Avana,ACH-000778,Head and Neck,damaging,-0.7237528153786568
+SMAD4_damaging_to_BRD4,Avana,ACH-000781,Lung,matrix_intact,-1.7712494625574755
+SMAD4_damaging_to_BRD4,Avana,ACH-000782,Lymphoid,matrix_intact,-0.6579354955771906
+SMAD4_damaging_to_BRD4,Avana,ACH-000783,Breast,matrix_intact,-0.6628906824365017
+SMAD4_damaging_to_BRD4,Avana,ACH-000784,Esophagus/Stomach,matrix_intact,-1.9308824961886946
+SMAD4_damaging_to_BRD4,Avana,ACH-000785,Lung,matrix_intact,-1.0233721823444661
+SMAD4_damaging_to_BRD4,Avana,ACH-000787,Lung,matrix_intact,-0.8341041049940457
+SMAD4_damaging_to_BRD4,Avana,ACH-000788,Skin,matrix_intact,-2.156343849716615
+SMAD4_damaging_to_BRD4,Avana,ACH-000790,Lung,matrix_intact,-1.0076840014889967
+SMAD4_damaging_to_BRD4,Avana,ACH-000791,Lung,matrix_intact,-0.7927161618221502
+SMAD4_damaging_to_BRD4,Avana,ACH-000792,Kidney,matrix_intact,-1.1887222647839977
+SMAD4_damaging_to_BRD4,Avana,ACH-000793,Esophagus/Stomach,matrix_intact,-3.788277264255729
+SMAD4_damaging_to_BRD4,Avana,ACH-000794,Head and Neck,matrix_intact,-2.3620790085547716
+SMAD4_damaging_to_BRD4,Avana,ACH-000796,Ovary/Fallopian Tube,matrix_intact,-1.6071133621937315
+SMAD4_damaging_to_BRD4,Avana,ACH-000799,Skin,matrix_intact,-1.0166030039001213
+SMAD4_damaging_to_BRD4,Avana,ACH-000800,Lung,matrix_intact,-0.7348368818615989
+SMAD4_damaging_to_BRD4,Avana,ACH-000801,Skin,matrix_intact,-2.575864017231748
+SMAD4_damaging_to_BRD4,Avana,ACH-000802,Bladder/Urinary Tract,matrix_intact,-1.5947069757630437
+SMAD4_damaging_to_BRD4,Avana,ACH-000804,Peripheral Nervous System,matrix_intact,-0.4579824644323329
+SMAD4_damaging_to_BRD4,Avana,ACH-000805,Skin,matrix_intact,-0.5439726678599475
+SMAD4_damaging_to_BRD4,Avana,ACH-000807,CNS/Brain,matrix_intact,-1.520158072845383
+SMAD4_damaging_to_BRD4,Avana,ACH-000809,Esophagus/Stomach,matrix_intact,-2.052233394197368
+SMAD4_damaging_to_BRD4,Avana,ACH-000810,Skin,matrix_intact,-1.6074676306652673
+SMAD4_damaging_to_BRD4,Avana,ACH-000811,Ovary/Fallopian Tube,matrix_intact,-0.5686314050146294
+SMAD4_damaging_to_BRD4,Avana,ACH-000817,Lymphoid,matrix_intact,-1.597182828014833
+SMAD4_damaging_to_BRD4,Avana,ACH-000819,CNS/Brain,matrix_intact,-0.7408660429467258
+SMAD4_damaging_to_BRD4,Avana,ACH-000820,Bowel,matrix_intact,-0.3762764671794878
+SMAD4_damaging_to_BRD4,Avana,ACH-000821,Lymphoid,matrix_intact,-2.089895596998579
+SMAD4_damaging_to_BRD4,Avana,ACH-000822,Skin,matrix_intact,-1.7281903394837541
+SMAD4_damaging_to_BRD4,Avana,ACH-000823,Esophagus/Stomach,matrix_intact,-0.9648326460416197
+SMAD4_damaging_to_BRD4,Avana,ACH-000824,Esophagus/Stomach,matrix_intact,-1.2329451002918326
+SMAD4_damaging_to_BRD4,Avana,ACH-000827,Skin,matrix_intact,-1.5135032497226883
+SMAD4_damaging_to_BRD4,Avana,ACH-000829,Lymphoid,matrix_intact,-3.4890078168570438
+SMAD4_damaging_to_BRD4,Avana,ACH-000831,Uterus,matrix_intact,-1.7384552390101118
+SMAD4_damaging_to_BRD4,Avana,ACH-000832,Head and Neck,damaging,-1.0697864854925747
+SMAD4_damaging_to_BRD4,Avana,ACH-000833,Soft Tissue,matrix_intact,-1.0566129962286204
+SMAD4_damaging_to_BRD4,Avana,ACH-000834,Bladder/Urinary Tract,matrix_intact,-0.8530469625686935
+SMAD4_damaging_to_BRD4,Avana,ACH-000835,Soft Tissue,matrix_intact,-1.7542636519054353
+SMAD4_damaging_to_BRD4,Avana,ACH-000836,Head and Neck,matrix_intact,-3.6957932841979035
+SMAD4_damaging_to_BRD4,Avana,ACH-000837,Lung,matrix_intact,-0.9628353462646464
+SMAD4_damaging_to_BRD4,Avana,ACH-000838,Lymphoid,matrix_intact,-1.084973637348269
+SMAD4_damaging_to_BRD4,Avana,ACH-000839,Bladder/Urinary Tract,matrix_intact,-0.7579339984332625
+SMAD4_damaging_to_BRD4,Avana,ACH-000840,Lung,matrix_intact,-1.796212575513751
+SMAD4_damaging_to_BRD4,Avana,ACH-000841,Lung,matrix_intact,-0.18531776708008843
+SMAD4_damaging_to_BRD4,Avana,ACH-000843,Lung,matrix_intact,-0.7533409216440827
+SMAD4_damaging_to_BRD4,Avana,ACH-000845,Lung,matrix_intact,-1.3634359550403388
+SMAD4_damaging_to_BRD4,Avana,ACH-000846,Head and Neck,matrix_intact,-1.5052727742432244
+SMAD4_damaging_to_BRD4,Avana,ACH-000847,Esophagus/Stomach,matrix_intact,-0.38033957832471854
+SMAD4_damaging_to_BRD4,Avana,ACH-000848,Liver,matrix_intact,-1.0165403992039765
+SMAD4_damaging_to_BRD4,Avana,ACH-000849,Breast,matrix_intact,-1.8539528359218815
+SMAD4_damaging_to_BRD4,Avana,ACH-000851,Lung,matrix_intact,-0.8898193131739534
+SMAD4_damaging_to_BRD4,Avana,ACH-000853,Lung,matrix_intact,-1.1956573759040996
+SMAD4_damaging_to_BRD4,Avana,ACH-000855,Esophagus/Stomach,damaging,-1.098974454905628
+SMAD4_damaging_to_BRD4,Avana,ACH-000856,Breast,matrix_intact,-0.8817002403906706
+SMAD4_damaging_to_BRD4,Avana,ACH-000858,Lung,matrix_intact,-1.293551053607316
+SMAD4_damaging_to_BRD4,Avana,ACH-000859,Breast,matrix_intact,-0.408310855622577
+SMAD4_damaging_to_BRD4,Avana,ACH-000860,Lung,matrix_intact,-1.289090693455337
+SMAD4_damaging_to_BRD4,Avana,ACH-000861,Lung,matrix_intact,-0.9057472670566802
+SMAD4_damaging_to_BRD4,Avana,ACH-000862,Bladder/Urinary Tract,matrix_intact,-0.5884021589198105
+SMAD4_damaging_to_BRD4,Avana,ACH-000865,Esophagus/Stomach,damaging,-1.286527311050111
+SMAD4_damaging_to_BRD4,Avana,ACH-000866,Lung,matrix_intact,-2.3306550132733297
+SMAD4_damaging_to_BRD4,Avana,ACH-000867,Lung,matrix_intact,-1.3272659645488099
+SMAD4_damaging_to_BRD4,Avana,ACH-000869,Lung,matrix_intact,-1.7606656447977396
+SMAD4_damaging_to_BRD4,Avana,ACH-000871,Lung,damaging,-0.26467319126903366
+SMAD4_damaging_to_BRD4,Avana,ACH-000872,Lung,matrix_intact,-1.0331879398173904
+SMAD4_damaging_to_BRD4,Avana,ACH-000873,Esophagus/Stomach,matrix_intact,-0.9413411644253534
+SMAD4_damaging_to_BRD4,Avana,ACH-000876,Breast,matrix_intact,-1.0474504577918182
+SMAD4_damaging_to_BRD4,Avana,ACH-000878,Lung,matrix_intact,-0.27544187032950174
+SMAD4_damaging_to_BRD4,Avana,ACH-000880,Esophagus/Stomach,damaging,-0.75253079180444
+SMAD4_damaging_to_BRD4,Avana,ACH-000881,Skin,matrix_intact,-0.9590773993393986
+SMAD4_damaging_to_BRD4,Avana,ACH-000882,Skin,matrix_intact,-2.0139389029940316
+SMAD4_damaging_to_BRD4,Avana,ACH-000884,Skin,matrix_intact,-1.6270825485960105
+SMAD4_damaging_to_BRD4,Avana,ACH-000885,Ovary/Fallopian Tube,matrix_intact,-1.345700614840309
+SMAD4_damaging_to_BRD4,Avana,ACH-000886,Lung,matrix_intact,-0.6473479467740177
+SMAD4_damaging_to_BRD4,Avana,ACH-000887,CNS/Brain,matrix_intact,-2.823293848562615
+SMAD4_damaging_to_BRD4,Avana,ACH-000888,Lung,matrix_intact,-0.4886506639242857
+SMAD4_damaging_to_BRD4,Avana,ACH-000889,Lymphoid,matrix_intact,-2.13144435312238
+SMAD4_damaging_to_BRD4,Avana,ACH-000890,Lung,matrix_intact,-1.5807423401096399
+SMAD4_damaging_to_BRD4,Avana,ACH-000896,Bladder/Urinary Tract,matrix_intact,-0.6729162277229414
+SMAD4_damaging_to_BRD4,Avana,ACH-000898,Esophagus/Stomach,matrix_intact,-0.5706644738566777
+SMAD4_damaging_to_BRD4,Avana,ACH-000899,Skin,matrix_intact,-3.3314990368109894
+SMAD4_damaging_to_BRD4,Avana,ACH-000900,Lung,matrix_intact,-0.9162600612783663
+SMAD4_damaging_to_BRD4,Avana,ACH-000901,Lung,matrix_intact,-1.1772222502833074
+SMAD4_damaging_to_BRD4,Avana,ACH-000903,Thyroid,matrix_intact,-1.015340320654274
+SMAD4_damaging_to_BRD4,Avana,ACH-000905,Bladder/Urinary Tract,matrix_intact,-1.5026055997054226
+SMAD4_damaging_to_BRD4,Avana,ACH-000906,Ovary/Fallopian Tube,matrix_intact,-1.9030425178339279
+SMAD4_damaging_to_BRD4,Avana,ACH-000907,Kidney,matrix_intact,-0.31520267486502007
+SMAD4_damaging_to_BRD4,Avana,ACH-000910,Breast,matrix_intact,-1.7013023739312987
+SMAD4_damaging_to_BRD4,Avana,ACH-000911,Esophagus/Stomach,matrix_intact,-0.573160669283412
+SMAD4_damaging_to_BRD4,Avana,ACH-000912,Lung,matrix_intact,-1.380393295613747
+SMAD4_damaging_to_BRD4,Avana,ACH-000913,Uterus,matrix_intact,-1.3945508400340851
+SMAD4_damaging_to_BRD4,Avana,ACH-000914,Lymphoid,matrix_intact,-3.4407193307497907
+SMAD4_damaging_to_BRD4,Avana,ACH-000915,Skin,matrix_intact,-3.5656113594544934
+SMAD4_damaging_to_BRD4,Avana,ACH-000916,Lung,matrix_intact,-0.410047075880836
+SMAD4_damaging_to_BRD4,Avana,ACH-000917,Esophagus/Stomach,matrix_intact,-0.695650376798914
+SMAD4_damaging_to_BRD4,Avana,ACH-000920,Myeloid,matrix_intact,-0.0612999599677004
+SMAD4_damaging_to_BRD4,Avana,ACH-000921,Lung,matrix_intact,-1.1689392294247458
+SMAD4_damaging_to_BRD4,Avana,ACH-000922,Lymphoid,matrix_intact,-1.6072393011913815
+SMAD4_damaging_to_BRD4,Avana,ACH-000924,Lung,matrix_intact,-1.2110048297930223
+SMAD4_damaging_to_BRD4,Avana,ACH-000926,Bowel,matrix_intact,-1.048673929503638
+SMAD4_damaging_to_BRD4,Avana,ACH-000928,Uterus,matrix_intact,-0.664332009666524
+SMAD4_damaging_to_BRD4,Avana,ACH-000929,Lung,matrix_intact,-0.37185924981362833
+SMAD4_damaging_to_BRD4,Avana,ACH-000932,Esophagus/Stomach,damaging,-2.0619683540246947
+SMAD4_damaging_to_BRD4,Avana,ACH-000935,Bowel,matrix_intact,-0.009330896883553388
+SMAD4_damaging_to_BRD4,Avana,ACH-000936,Ovary/Fallopian Tube,damaging,-1.5576773198581022
+SMAD4_damaging_to_BRD4,Avana,ACH-000937,Lymphoid,matrix_intact,-2.910342729407457
+SMAD4_damaging_to_BRD4,Avana,ACH-000938,Lymphoid,matrix_intact,-0.971418351177417
+SMAD4_damaging_to_BRD4,Avana,ACH-000939,Uterus,matrix_intact,-0.7835551994893781
+SMAD4_damaging_to_BRD4,Avana,ACH-000941,Uterus,matrix_intact,-1.6442021690925537
+SMAD4_damaging_to_BRD4,Avana,ACH-000943,Bowel,matrix_intact,-1.2405054473173087
+SMAD4_damaging_to_BRD4,Avana,ACH-000944,Lymphoid,matrix_intact,-1.0277493045954555
+SMAD4_damaging_to_BRD4,Avana,ACH-000946,Uterus,matrix_intact,-0.845393447330983
+SMAD4_damaging_to_BRD4,Avana,ACH-000947,Ovary/Fallopian Tube,matrix_intact,-1.714047167045214
+SMAD4_damaging_to_BRD4,Avana,ACH-000948,Esophagus/Stomach,matrix_intact,-1.1682150075279987
+SMAD4_damaging_to_BRD4,Avana,ACH-000950,Bowel,matrix_intact,-0.49739800905332543
+SMAD4_damaging_to_BRD4,Avana,ACH-000953,Lymphoid,matrix_intact,-2.2805457809112086
+SMAD4_damaging_to_BRD4,Avana,ACH-000957,Bowel,matrix_intact,-0.4822853215600649
+SMAD4_damaging_to_BRD4,Avana,ACH-000958,Bowel,matrix_intact,-0.7465076583589414
+SMAD4_damaging_to_BRD4,Avana,ACH-000959,Bowel,matrix_intact,-0.9161448508745291
+SMAD4_damaging_to_BRD4,Avana,ACH-000960,Lymphoid,matrix_intact,-1.2576354391129252
+SMAD4_damaging_to_BRD4,Avana,ACH-000961,Uterus,matrix_intact,-0.5543972116438437
+SMAD4_damaging_to_BRD4,Avana,ACH-000963,Bowel,matrix_intact,-0.14213800532229767
+SMAD4_damaging_to_BRD4,Avana,ACH-000965,Uterus,matrix_intact,-2.221404600207343
+SMAD4_damaging_to_BRD4,Avana,ACH-000968,Skin,matrix_intact,-1.1891900950166083
+SMAD4_damaging_to_BRD4,Avana,ACH-000969,Bowel,matrix_intact,-0.6435311819541771
+SMAD4_damaging_to_BRD4,Avana,ACH-000973,Bladder/Urinary Tract,matrix_intact,-2.4928120689730653
+SMAD4_damaging_to_BRD4,Avana,ACH-000974,Uterus,matrix_intact,-2.041339782170393
+SMAD4_damaging_to_BRD4,Avana,ACH-000975,Lung,matrix_intact,-1.9619782652628355
+SMAD4_damaging_to_BRD4,Avana,ACH-000976,Biliary Tract,matrix_intact,-2.131457584991793
+SMAD4_damaging_to_BRD4,Avana,ACH-000977,Prostate,matrix_intact,-1.9706612815900324
+SMAD4_damaging_to_BRD4,Avana,ACH-000978,Uterus,matrix_intact,-0.4386345901546319
+SMAD4_damaging_to_BRD4,Avana,ACH-000980,Lung,damaging,-1.8093431950978645
+SMAD4_damaging_to_BRD4,Avana,ACH-000983,Myeloid,matrix_intact,-2.071928704556319
+SMAD4_damaging_to_BRD4,Avana,ACH-000984,Uterus,matrix_intact,-1.1275134188948503
+SMAD4_damaging_to_BRD4,Avana,ACH-000986,Bowel,matrix_intact,-0.9393856926783017
+SMAD4_damaging_to_BRD4,Avana,ACH-000988,Uterus,matrix_intact,-0.8165491910087983
+SMAD4_damaging_to_BRD4,Avana,ACH-000993,Uterus,matrix_intact,-0.8514714202969045
+SMAD4_damaging_to_BRD4,Avana,ACH-000994,Uterus,matrix_intact,-0.7951469476548993
+SMAD4_damaging_to_BRD4,Avana,ACH-000995,Lymphoid,matrix_intact,-0.7022068806012376
+SMAD4_damaging_to_BRD4,Avana,ACH-000996,Uterus,matrix_intact,-0.9220946999801161
+SMAD4_damaging_to_BRD4,Avana,ACH-001001,Bone,matrix_intact,-1.1317469783384206
+SMAD4_damaging_to_BRD4,Avana,ACH-001020,CNS/Brain,matrix_intact,-0.46140993284062626
+SMAD4_damaging_to_BRD4,Avana,ACH-001028,CNS/Brain,matrix_intact,-2.664663823600588
+SMAD4_damaging_to_BRD4,Avana,ACH-001029,Bone,matrix_intact,-0.8687533483332497
+SMAD4_damaging_to_BRD4,Avana,ACH-001031,CNS/Brain,matrix_intact,-1.6050958162838964
+SMAD4_damaging_to_BRD4,Avana,ACH-001033,CNS/Brain,matrix_intact,-0.6084884352927382
+SMAD4_damaging_to_BRD4,Avana,ACH-001036,Myeloid,matrix_intact,-0.2914055096380358
+SMAD4_damaging_to_BRD4,Avana,ACH-001038,Bone,matrix_intact,-2.1161445504551493
+SMAD4_damaging_to_BRD4,Avana,ACH-001041,Skin,damaging,-0.8912729811796756
+SMAD4_damaging_to_BRD4,Avana,ACH-001048,Ovary/Fallopian Tube,matrix_intact,-1.6477949974730146
+SMAD4_damaging_to_BRD4,Avana,ACH-001050,Soft Tissue,matrix_intact,-1.5911327580041301
+SMAD4_damaging_to_BRD4,Avana,ACH-001053,CNS/Brain,matrix_intact,-0.8975373206469399
+SMAD4_damaging_to_BRD4,Avana,ACH-001054,CNS/Brain,matrix_intact,-1.2061188661890574
+SMAD4_damaging_to_BRD4,Avana,ACH-001061,Bowel,matrix_intact,-1.4628373694570957
+SMAD4_damaging_to_BRD4,Avana,ACH-001067,CNS/Brain,matrix_intact,-2.384609730889747
+SMAD4_damaging_to_BRD4,Avana,ACH-001075,Lung,matrix_intact,-1.0289245885754301
+SMAD4_damaging_to_BRD4,Avana,ACH-001096,Soft Tissue,matrix_intact,-0.7527084449780649
+SMAD4_damaging_to_BRD4,Avana,ACH-001098,Pancreas,damaging,-0.804570829245264
+SMAD4_damaging_to_BRD4,Avana,ACH-001099,Kidney,matrix_intact,-1.0241370083979486
+SMAD4_damaging_to_BRD4,Avana,ACH-001119,Lymphoid,matrix_intact,-0.29391675655823624
+SMAD4_damaging_to_BRD4,Avana,ACH-001128,Kidney,matrix_intact,-0.8652327479675304
+SMAD4_damaging_to_BRD4,Avana,ACH-001129,Myeloid,matrix_intact,-0.2718802507907293
+SMAD4_damaging_to_BRD4,Avana,ACH-001134,Lymphoid,matrix_intact,-1.400532243144223
+SMAD4_damaging_to_BRD4,Avana,ACH-001145,Ovary/Fallopian Tube,matrix_intact,-2.2433446686694656
+SMAD4_damaging_to_BRD4,Avana,ACH-001151,Ovary/Fallopian Tube,matrix_intact,-2.9306243079743775
+SMAD4_damaging_to_BRD4,Avana,ACH-001163,Kidney,matrix_intact,-1.3877023629979246
+SMAD4_damaging_to_BRD4,Avana,ACH-001164,Soft Tissue,matrix_intact,-0.37055196956612646
+SMAD4_damaging_to_BRD4,Avana,ACH-001172,CNS/Brain,matrix_intact,-2.39601412397045
+SMAD4_damaging_to_BRD4,Avana,ACH-001183,Bladder/Urinary Tract,matrix_intact,-0.7840114840746334
+SMAD4_damaging_to_BRD4,Avana,ACH-001184,Soft Tissue,matrix_intact,-1.1935438452990241
+SMAD4_damaging_to_BRD4,Avana,ACH-001188,Peripheral Nervous System,matrix_intact,-0.6027129716200424
+SMAD4_damaging_to_BRD4,Avana,ACH-001190,Skin,matrix_intact,-0.8426162856497583
+SMAD4_damaging_to_BRD4,Avana,ACH-001192,Bone,matrix_intact,-1.0179519723423351
+SMAD4_damaging_to_BRD4,Avana,ACH-001193,Bone,matrix_intact,-0.5622633794191605
+SMAD4_damaging_to_BRD4,Avana,ACH-001194,Kidney,matrix_intact,-1.6839962223462992
+SMAD4_damaging_to_BRD4,Avana,ACH-001196,Soft Tissue,matrix_intact,-0.9654201496985589
+SMAD4_damaging_to_BRD4,Avana,ACH-001197,Lymphoid,matrix_intact,-0.7297096639615273
+SMAD4_damaging_to_BRD4,Avana,ACH-001205,Bone,matrix_intact,-0.4482477303381258
+SMAD4_damaging_to_BRD4,Avana,ACH-001211,Kidney,matrix_intact,-0.725899219221406
+SMAD4_damaging_to_BRD4,Avana,ACH-001212,Kidney,matrix_intact,-0.5247760456094849
+SMAD4_damaging_to_BRD4,Avana,ACH-001228,Head and Neck,matrix_intact,-0.6044856053771793
+SMAD4_damaging_to_BRD4,Avana,ACH-001229,Head and Neck,matrix_intact,-0.7775672323771832
+SMAD4_damaging_to_BRD4,Avana,ACH-001232,CNS/Brain,matrix_intact,-1.5912330059799142
+SMAD4_damaging_to_BRD4,Avana,ACH-001239,Skin,matrix_intact,-1.779920230562623
+SMAD4_damaging_to_BRD4,Avana,ACH-001270,Soft Tissue,matrix_intact,-0.2360063604607791
+SMAD4_damaging_to_BRD4,Avana,ACH-001274,Soft Tissue,matrix_intact,-0.9314581263492551
+SMAD4_damaging_to_BRD4,Avana,ACH-001275,Soft Tissue,matrix_intact,-0.7781183169720776
+SMAD4_damaging_to_BRD4,Avana,ACH-001277,Soft Tissue,matrix_intact,-0.8106175945365128
+SMAD4_damaging_to_BRD4,Avana,ACH-001278,Ovary/Fallopian Tube,matrix_intact,-1.1253839967021375
+SMAD4_damaging_to_BRD4,Avana,ACH-001279,Ovary/Fallopian Tube,matrix_intact,-2.9302744765805393
+SMAD4_damaging_to_BRD4,Avana,ACH-001280,Soft Tissue,matrix_intact,-0.9271920864824665
+SMAD4_damaging_to_BRD4,Avana,ACH-001283,Bone,matrix_intact,-0.8587889821691994
+SMAD4_damaging_to_BRD4,Avana,ACH-001289,CNS/Brain,matrix_intact,-2.172983741692865
+SMAD4_damaging_to_BRD4,Avana,ACH-001295,Eye,matrix_intact,-1.4332450675294406
+SMAD4_damaging_to_BRD4,Avana,ACH-001300,Peripheral Nervous System,matrix_intact,-0.44237168357080625
+SMAD4_damaging_to_BRD4,Avana,ACH-001301,Peripheral Nervous System,matrix_intact,-0.6595183498056936
+SMAD4_damaging_to_BRD4,Avana,ACH-001302,Peripheral Nervous System,matrix_intact,-0.8341869325163762
+SMAD4_damaging_to_BRD4,Avana,ACH-001303,Peripheral Nervous System,matrix_intact,-0.33740147836569
+SMAD4_damaging_to_BRD4,Avana,ACH-001306,Thyroid,matrix_intact,-1.475904199739404
+SMAD4_damaging_to_BRD4,Avana,ACH-001307,Thyroid,matrix_intact,-1.719732372959717
+SMAD4_damaging_to_BRD4,Avana,ACH-001310,Kidney,matrix_intact,-0.12789899547623046
+SMAD4_damaging_to_BRD4,Avana,ACH-001318,Liver,matrix_intact,-1.1142091251752508
+SMAD4_damaging_to_BRD4,Avana,ACH-001322,Soft Tissue,matrix_intact,-0.6856091634717463
+SMAD4_damaging_to_BRD4,Avana,ACH-001328,Skin,matrix_intact,-0.8893034093092963
+SMAD4_damaging_to_BRD4,Avana,ACH-001329,CNS/Brain,matrix_intact,-1.3577045974291733
+SMAD4_damaging_to_BRD4,Avana,ACH-001333,Cervix,matrix_intact,-0.9900803189932128
+SMAD4_damaging_to_BRD4,Avana,ACH-001334,Cervix,matrix_intact,-2.002135064858167
+SMAD4_damaging_to_BRD4,Avana,ACH-001335,Cervix,matrix_intact,-0.7950362392700845
+SMAD4_damaging_to_BRD4,Avana,ACH-001336,Cervix,matrix_intact,-1.2931343028134648
+SMAD4_damaging_to_BRD4,Avana,ACH-001338,Peripheral Nervous System,matrix_intact,-0.6070967198708714
+SMAD4_damaging_to_BRD4,Avana,ACH-001340,Ovary/Fallopian Tube,matrix_intact,-1.224679564236462
+SMAD4_damaging_to_BRD4,Avana,ACH-001341,Cervix,matrix_intact,-1.8489152234654647
+SMAD4_damaging_to_BRD4,Avana,ACH-001344,Peripheral Nervous System,matrix_intact,-0.37214135517325
+SMAD4_damaging_to_BRD4,Avana,ACH-001345,Bowel,matrix_intact,-0.14544099027541568
+SMAD4_damaging_to_BRD4,Avana,ACH-001346,Head and Neck,matrix_intact,-1.251076494937085
+SMAD4_damaging_to_BRD4,Avana,ACH-001347,Head and Neck,matrix_intact,-1.9228644477361923
+SMAD4_damaging_to_BRD4,Avana,ACH-001353,Pancreas,matrix_intact,-2.3025531925811387
+SMAD4_damaging_to_BRD4,Avana,ACH-001354,Peripheral Nervous System,matrix_intact,-0.5325828244096746
+SMAD4_damaging_to_BRD4,Avana,ACH-001356,Thyroid,matrix_intact,-1.28730665541217
+SMAD4_damaging_to_BRD4,Avana,ACH-001360,Cervix,matrix_intact,-1.4868166567945766
+SMAD4_damaging_to_BRD4,Avana,ACH-001366,Peripheral Nervous System,matrix_intact,-0.8643490632382639
+SMAD4_damaging_to_BRD4,Avana,ACH-001367,Peripheral Nervous System,matrix_intact,-0.4150824820995878
+SMAD4_damaging_to_BRD4,Avana,ACH-001368,Esophagus/Stomach,matrix_intact,-1.6919441150705614
+SMAD4_damaging_to_BRD4,Avana,ACH-001370,Ovary/Fallopian Tube,matrix_intact,-0.5679307315448865
+SMAD4_damaging_to_BRD4,Avana,ACH-001374,Ovary/Fallopian Tube,matrix_intact,-0.3065284406336639
+SMAD4_damaging_to_BRD4,Avana,ACH-001375,Pancreas,matrix_intact,-1.0212754487501696
+SMAD4_damaging_to_BRD4,Avana,ACH-001377,Pancreas,matrix_intact,-1.030265320128425
+SMAD4_damaging_to_BRD4,Avana,ACH-001379,Pancreas,matrix_intact,-0.8006405927641432
+SMAD4_damaging_to_BRD4,Avana,ACH-001380,Pancreas,matrix_intact,-2.3958525588020976
+SMAD4_damaging_to_BRD4,Avana,ACH-001382,Pancreas,matrix_intact,-0.28716012681687614
+SMAD4_damaging_to_BRD4,Avana,ACH-001385,Head and Neck,matrix_intact,-1.6967424498346673
+SMAD4_damaging_to_BRD4,Avana,ACH-001386,Lung,matrix_intact,-0.6158012069142016
+SMAD4_damaging_to_BRD4,Avana,ACH-001388,Breast,matrix_intact,-2.1056692152822265
+SMAD4_damaging_to_BRD4,Avana,ACH-001389,Breast,matrix_intact,-1.6952137778617944
+SMAD4_damaging_to_BRD4,Avana,ACH-001390,Breast,matrix_intact,-0.6948550756818818
+SMAD4_damaging_to_BRD4,Avana,ACH-001391,Breast,matrix_intact,-2.0506810572913157
+SMAD4_damaging_to_BRD4,Avana,ACH-001392,Breast,matrix_intact,-0.20312594378626497
+SMAD4_damaging_to_BRD4,Avana,ACH-001393,Breast,matrix_intact,-0.9226124327930321
+SMAD4_damaging_to_BRD4,Avana,ACH-001394,Breast,matrix_intact,-3.275970408288758
+SMAD4_damaging_to_BRD4,Avana,ACH-001396,Breast,matrix_intact,-0.9544914586282278
+SMAD4_damaging_to_BRD4,Avana,ACH-001398,Kidney,matrix_intact,-0.3060038035145132
+SMAD4_damaging_to_BRD4,Avana,ACH-001400,Vulva/Vagina,damaging,-0.3442890037667991
+SMAD4_damaging_to_BRD4,Avana,ACH-001402,Cervix,matrix_intact,-1.121153985025218
+SMAD4_damaging_to_BRD4,Avana,ACH-001403,Ovary/Fallopian Tube,matrix_intact,-1.3843868274505962
+SMAD4_damaging_to_BRD4,Avana,ACH-001407,Bladder/Urinary Tract,matrix_intact,-1.6164499382870914
+SMAD4_damaging_to_BRD4,Avana,ACH-001408,Bladder/Urinary Tract,matrix_intact,-0.7648296192517965
+SMAD4_damaging_to_BRD4,Avana,ACH-001409,Bladder/Urinary Tract,matrix_intact,-0.39569717349516764
+SMAD4_damaging_to_BRD4,Avana,ACH-001411,Bladder/Urinary Tract,matrix_intact,-0.4957653288347163
+SMAD4_damaging_to_BRD4,Avana,ACH-001412,Bladder/Urinary Tract,matrix_intact,-1.0192431733410376
+SMAD4_damaging_to_BRD4,Avana,ACH-001413,Bladder/Urinary Tract,matrix_intact,-1.2412407193186228
+SMAD4_damaging_to_BRD4,Avana,ACH-001414,Bladder/Urinary Tract,matrix_intact,-1.5475136711231716
+SMAD4_damaging_to_BRD4,Avana,ACH-001415,Bladder/Urinary Tract,matrix_intact,-0.8870577404014652
+SMAD4_damaging_to_BRD4,Avana,ACH-001416,Bladder/Urinary Tract,matrix_intact,-0.689161401566012
+SMAD4_damaging_to_BRD4,Avana,ACH-001418,Ovary/Fallopian Tube,matrix_intact,-1.6751851367262858
+SMAD4_damaging_to_BRD4,Avana,ACH-001419,Breast,matrix_intact,-0.9593584038586171
+SMAD4_damaging_to_BRD4,Avana,ACH-001421,Eye,matrix_intact,-0.24407036603692903
+SMAD4_damaging_to_BRD4,Avana,ACH-001422,Prostate,matrix_intact,-0.2535712515061328
+SMAD4_damaging_to_BRD4,Avana,ACH-001430,Bone,matrix_intact,-0.2942014706972373
+SMAD4_damaging_to_BRD4,Avana,ACH-001431,Bone,matrix_intact,-0.8852957337761046
+SMAD4_damaging_to_BRD4,Avana,ACH-001433,Soft Tissue,matrix_intact,-1.9822491208145694
+SMAD4_damaging_to_BRD4,Avana,ACH-001442,Skin,matrix_intact,-1.0173366481990715
+SMAD4_damaging_to_BRD4,Avana,ACH-001443,Thyroid,matrix_intact,-2.463216414454685
+SMAD4_damaging_to_BRD4,Avana,ACH-001450,Lymphoid,matrix_intact,-1.313465811974512
+SMAD4_damaging_to_BRD4,Avana,ACH-001451,Cervix,matrix_intact,-0.9505519809472662
+SMAD4_damaging_to_BRD4,Avana,ACH-001453,Prostate,matrix_intact,-0.9671817177025757
+SMAD4_damaging_to_BRD4,Avana,ACH-001454,Bowel,matrix_intact,-1.3437552396885697
+SMAD4_damaging_to_BRD4,Avana,ACH-001458,Bowel,matrix_intact,-0.5035268694049275
+SMAD4_damaging_to_BRD4,Avana,ACH-001459,Bowel,damaging,-0.294688823101255
+SMAD4_damaging_to_BRD4,Avana,ACH-001460,Bowel,matrix_intact,-2.0264760768808934
+SMAD4_damaging_to_BRD4,Avana,ACH-001461,Bowel,damaging,-0.15719056051148333
+SMAD4_damaging_to_BRD4,Avana,ACH-001481,Peripheral Nervous System,matrix_intact,-0.525576223791167
+SMAD4_damaging_to_BRD4,Avana,ACH-001494,Biliary Tract,matrix_intact,-2.647121910362503
+SMAD4_damaging_to_BRD4,Avana,ACH-001495,Uterus,matrix_intact,-1.8815445057007434
+SMAD4_damaging_to_BRD4,Avana,ACH-001496,Esophagus/Stomach,damaging,-2.0413457354403133
+SMAD4_damaging_to_BRD4,Avana,ACH-001497,Esophagus/Stomach,matrix_intact,-1.1779305618936418
+SMAD4_damaging_to_BRD4,Avana,ACH-001498,Lymphoid,matrix_intact,-2.218830050790455
+SMAD4_damaging_to_BRD4,Avana,ACH-001500,Esophagus/Stomach,matrix_intact,-0.21854631562811816
+SMAD4_damaging_to_BRD4,Avana,ACH-001509,Head and Neck,matrix_intact,-0.5655844212677287
+SMAD4_damaging_to_BRD4,Avana,ACH-001510,Head and Neck,matrix_intact,-2.2915878360231208
+SMAD4_damaging_to_BRD4,Avana,ACH-001511,Head and Neck,matrix_intact,-1.6620306669147806
+SMAD4_damaging_to_BRD4,Avana,ACH-001513,Cervix,matrix_intact,-1.3667446044474398
+SMAD4_damaging_to_BRD4,Avana,ACH-001515,Cervix,matrix_intact,-1.8975015811025555
+SMAD4_damaging_to_BRD4,Avana,ACH-001517,Uterus,matrix_intact,-1.570578026154133
+SMAD4_damaging_to_BRD4,Avana,ACH-001518,Uterus,matrix_intact,0.026081957420379914
+SMAD4_damaging_to_BRD4,Avana,ACH-001520,Lymphoid,matrix_intact,-1.8526578049703997
+SMAD4_damaging_to_BRD4,Avana,ACH-001521,Skin,matrix_intact,-0.799647169195718
+SMAD4_damaging_to_BRD4,Avana,ACH-001522,Skin,matrix_intact,-1.7701399240517643
+SMAD4_damaging_to_BRD4,Avana,ACH-001523,Skin,damaging,-1.4566216973062525
+SMAD4_damaging_to_BRD4,Avana,ACH-001524,Skin,matrix_intact,-1.688659053133735
+SMAD4_damaging_to_BRD4,Avana,ACH-001525,Cervix,matrix_intact,-2.2481531319365953
+SMAD4_damaging_to_BRD4,Avana,ACH-001526,Bone,matrix_intact,-0.6717032217733307
+SMAD4_damaging_to_BRD4,Avana,ACH-001528,Thyroid,matrix_intact,-1.4442210599627265
+SMAD4_damaging_to_BRD4,Avana,ACH-001529,Uterus,matrix_intact,-1.2130119826297365
+SMAD4_damaging_to_BRD4,Avana,ACH-001530,Uterus,matrix_intact,-1.8182808020045105
+SMAD4_damaging_to_BRD4,Avana,ACH-001532,Kidney,matrix_intact,-2.437512691399742
+SMAD4_damaging_to_BRD4,Avana,ACH-001533,Lymphoid,matrix_intact,-0.8903872503750616
+SMAD4_damaging_to_BRD4,Avana,ACH-001536,Biliary Tract,damaging,-1.0473737300869361
+SMAD4_damaging_to_BRD4,Avana,ACH-001538,Biliary Tract,damaging,-1.41742336808194
+SMAD4_damaging_to_BRD4,Avana,ACH-001539,Lymphoid,matrix_intact,-0.8099504716559989
+SMAD4_damaging_to_BRD4,Avana,ACH-001542,Head and Neck,matrix_intact,-2.4254300884873685
+SMAD4_damaging_to_BRD4,Avana,ACH-001543,Head and Neck,matrix_intact,-3.6046790265195803
+SMAD4_damaging_to_BRD4,Avana,ACH-001547,Pleura,matrix_intact,-1.1766529646422725
+SMAD4_damaging_to_BRD4,Avana,ACH-001548,Peripheral Nervous System,matrix_intact,-0.3523177194717419
+SMAD4_damaging_to_BRD4,Avana,ACH-001549,Lung,matrix_intact,-0.9983213781599113
+SMAD4_damaging_to_BRD4,Avana,ACH-001550,Skin,matrix_intact,-0.3211178300240025
+SMAD4_damaging_to_BRD4,Avana,ACH-001551,Skin,matrix_intact,-1.1899210835593492
+SMAD4_damaging_to_BRD4,Avana,ACH-001552,Skin,matrix_intact,-0.5998203316040718
+SMAD4_damaging_to_BRD4,Avana,ACH-001554,Eye,matrix_intact,-1.3430933299644865
+SMAD4_damaging_to_BRD4,Avana,ACH-001555,Pleura,matrix_intact,-0.8281674292950685
+SMAD4_damaging_to_BRD4,Avana,ACH-001556,Pleura,damaging,-2.373564455649258
+SMAD4_damaging_to_BRD4,Avana,ACH-001557,Pleura,matrix_intact,-1.0767116306933993
+SMAD4_damaging_to_BRD4,Avana,ACH-001558,Pleura,matrix_intact,-0.7931225794500167
+SMAD4_damaging_to_BRD4,Avana,ACH-001559,Pleura,matrix_intact,-0.7271516774979422
+SMAD4_damaging_to_BRD4,Avana,ACH-001560,Pleura,matrix_intact,-1.8254164955509005
+SMAD4_damaging_to_BRD4,Avana,ACH-001562,Pleura,matrix_intact,-0.373002509217295
+SMAD4_damaging_to_BRD4,Avana,ACH-001563,Skin,matrix_intact,-2.3037247805821295
+SMAD4_damaging_to_BRD4,Avana,ACH-001566,Skin,matrix_intact,-2.5110887715386863
+SMAD4_damaging_to_BRD4,Avana,ACH-001567,Skin,matrix_intact,-1.310436125280841
+SMAD4_damaging_to_BRD4,Avana,ACH-001568,Skin,matrix_intact,-1.0119815640119145
+SMAD4_damaging_to_BRD4,Avana,ACH-001570,Skin,matrix_intact,-1.2410051404466707
+SMAD4_damaging_to_BRD4,Avana,ACH-001574,Myeloid,matrix_intact,-1.874802029967373
+SMAD4_damaging_to_BRD4,Avana,ACH-001577,Myeloid,matrix_intact,-1.8185137412578753
+SMAD4_damaging_to_BRD4,Avana,ACH-001607,Biliary Tract,matrix_intact,-2.3975651403942044
+SMAD4_damaging_to_BRD4,Avana,ACH-001608,CNS/Brain,matrix_intact,-1.2161589317912473
+SMAD4_damaging_to_BRD4,Avana,ACH-001609,CNS/Brain,matrix_intact,-1.1096028657993382
+SMAD4_damaging_to_BRD4,Avana,ACH-001610,CNS/Brain,matrix_intact,-0.7815442017790162
+SMAD4_damaging_to_BRD4,Avana,ACH-001611,CNS/Brain,matrix_intact,-1.5149908683670017
+SMAD4_damaging_to_BRD4,Avana,ACH-001616,Lymphoid,matrix_intact,-4.142235355569222
+SMAD4_damaging_to_BRD4,Avana,ACH-001618,Myeloid,matrix_intact,-1.403778153254961
+SMAD4_damaging_to_BRD4,Avana,ACH-001619,Biliary Tract,matrix_intact,-1.2230067125946569
+SMAD4_damaging_to_BRD4,Avana,ACH-001622,CNS/Brain,matrix_intact,-1.9742607255006384
+SMAD4_damaging_to_BRD4,Avana,ACH-001623,CNS/Brain,matrix_intact,-0.7028218350606802
+SMAD4_damaging_to_BRD4,Avana,ACH-001624,CNS/Brain,matrix_intact,-0.7607320728841231
+SMAD4_damaging_to_BRD4,Avana,ACH-001627,Prostate,matrix_intact,-1.5702652974619684
+SMAD4_damaging_to_BRD4,Avana,ACH-001628,Ovary/Fallopian Tube,matrix_intact,-1.1963827965672718
+SMAD4_damaging_to_BRD4,Avana,ACH-001630,Ovary/Fallopian Tube,matrix_intact,-2.099093583474626
+SMAD4_damaging_to_BRD4,Avana,ACH-001634,Lymphoid,matrix_intact,-1.110960462941681
+SMAD4_damaging_to_BRD4,Avana,ACH-001641,Head and Neck,matrix_intact,-2.224630141597907
+SMAD4_damaging_to_BRD4,Avana,ACH-001645,Skin,matrix_intact,-1.9630879833729125
+SMAD4_damaging_to_BRD4,Avana,ACH-001647,Myeloid,matrix_intact,-1.6324208586350504
+SMAD4_damaging_to_BRD4,Avana,ACH-001648,Prostate,matrix_intact,-1.7070635448362306
+SMAD4_damaging_to_BRD4,Avana,ACH-001649,Prostate,matrix_intact,-0.5943317367170895
+SMAD4_damaging_to_BRD4,Avana,ACH-001650,Cervix,matrix_intact,-1.8594376982207872
+SMAD4_damaging_to_BRD4,Avana,ACH-001651,Cervix,matrix_intact,-1.1322199758560618
+SMAD4_damaging_to_BRD4,Avana,ACH-001652,Cervix,damaging,-1.4536305505021825
+SMAD4_damaging_to_BRD4,Avana,ACH-001653,Esophagus/Stomach,matrix_intact,-1.5983817359265422
+SMAD4_damaging_to_BRD4,Avana,ACH-001654,Esophagus/Stomach,matrix_intact,-1.7942083379022002
+SMAD4_damaging_to_BRD4,Avana,ACH-001655,Uterus,matrix_intact,-0.46168955278548657
+SMAD4_damaging_to_BRD4,Avana,ACH-001656,Myeloid,matrix_intact,-0.8425104325917645
+SMAD4_damaging_to_BRD4,Avana,ACH-001664,Esophagus/Stomach,matrix_intact,-2.441924312925116
+SMAD4_damaging_to_BRD4,Avana,ACH-001668,Testis,matrix_intact,-1.1668856259624114
+SMAD4_damaging_to_BRD4,Avana,ACH-001669,Lymphoid,matrix_intact,-1.6902083217475488
+SMAD4_damaging_to_BRD4,Avana,ACH-001670,CNS/Brain,matrix_intact,-0.9493797332089535
+SMAD4_damaging_to_BRD4,Avana,ACH-001673,Biliary Tract,matrix_intact,-2.911916324244417
+SMAD4_damaging_to_BRD4,Avana,ACH-001674,Peripheral Nervous System,matrix_intact,-0.6448409157092241
+SMAD4_damaging_to_BRD4,Avana,ACH-001675,Head and Neck,matrix_intact,-1.0041059103034393
+SMAD4_damaging_to_BRD4,Avana,ACH-001677,Lymphoid,matrix_intact,-0.5176399787753599
+SMAD4_damaging_to_BRD4,Avana,ACH-001685,Lymphoid,matrix_intact,-1.2527263026276678
+SMAD4_damaging_to_BRD4,Avana,ACH-001687,Kidney,matrix_intact,-2.044247193188234
+SMAD4_damaging_to_BRD4,Avana,ACH-001688,Kidney,matrix_intact,-0.06807979280978405
+SMAD4_damaging_to_BRD4,Avana,ACH-001690,Head and Neck,matrix_intact,-1.7693933728791351
+SMAD4_damaging_to_BRD4,Avana,ACH-001691,Head and Neck,matrix_intact,-1.3740841681748988
+SMAD4_damaging_to_BRD4,Avana,ACH-001692,Head and Neck,matrix_intact,-1.917911454100098
+SMAD4_damaging_to_BRD4,Avana,ACH-001694,Head and Neck,matrix_intact,-1.0206471610175782
+SMAD4_damaging_to_BRD4,Avana,ACH-001696,Head and Neck,matrix_intact,-3.1019500375424687
+SMAD4_damaging_to_BRD4,Avana,ACH-001698,Head and Neck,matrix_intact,-1.3613705459051966
+SMAD4_damaging_to_BRD4,Avana,ACH-001699,Head and Neck,matrix_intact,-2.4421394892896786
+SMAD4_damaging_to_BRD4,Avana,ACH-001701,Head and Neck,matrix_intact,-2.425280373477934
+SMAD4_damaging_to_BRD4,Avana,ACH-001702,Soft Tissue,matrix_intact,-3.0156275984027805
+SMAD4_damaging_to_BRD4,Avana,ACH-001707,Lymphoid,matrix_intact,-1.8531435206588664
+SMAD4_damaging_to_BRD4,Avana,ACH-001709,Lymphoid,matrix_intact,-2.248299889198604
+SMAD4_damaging_to_BRD4,Avana,ACH-001711,CNS/Brain,matrix_intact,-0.9175162659920786
+SMAD4_damaging_to_BRD4,Avana,ACH-001715,Bone,matrix_intact,-0.6003038165577702
+SMAD4_damaging_to_BRD4,Avana,ACH-001719,Ovary/Fallopian Tube,matrix_intact,-1.6506046318536605
+SMAD4_damaging_to_BRD4,Avana,ACH-001735,Lymphoid,matrix_intact,-1.7075186389340558
+SMAD4_damaging_to_BRD4,Avana,ACH-001736,Lymphoid,matrix_intact,-1.9029496729696664
+SMAD4_damaging_to_BRD4,Avana,ACH-001737,Lymphoid,matrix_intact,-0.0006990703002574747
+SMAD4_damaging_to_BRD4,Avana,ACH-001740,Soft Tissue,matrix_intact,-0.788011704603704
+SMAD4_damaging_to_BRD4,Avana,ACH-001745,Soft Tissue,matrix_intact,-1.055038078100898
+SMAD4_damaging_to_BRD4,Avana,ACH-001750,Soft Tissue,matrix_intact,-1.2865721309393368
+SMAD4_damaging_to_BRD4,Avana,ACH-001765,Soft Tissue,matrix_intact,-1.5438496259642638
+SMAD4_damaging_to_BRD4,Avana,ACH-001786,Bowel,matrix_intact,-0.20758135726940233
+SMAD4_damaging_to_BRD4,Avana,ACH-001791,Soft Tissue,matrix_intact,-1.1517525048955182
+SMAD4_damaging_to_BRD4,Avana,ACH-001793,Soft Tissue,matrix_intact,-1.4397310597941329
+SMAD4_damaging_to_BRD4,Avana,ACH-001794,Soft Tissue,matrix_intact,-0.6291461576155251
+SMAD4_damaging_to_BRD4,Avana,ACH-001795,Soft Tissue,matrix_intact,-3.0776714963673335
+SMAD4_damaging_to_BRD4,Avana,ACH-001796,Soft Tissue,matrix_intact,-0.7665792117515844
+SMAD4_damaging_to_BRD4,Avana,ACH-001799,Soft Tissue,matrix_intact,-0.6306066441922796
+SMAD4_damaging_to_BRD4,Avana,ACH-001802,Soft Tissue,matrix_intact,-2.9941339927802137
+SMAD4_damaging_to_BRD4,Avana,ACH-001804,Soft Tissue,matrix_intact,-1.013834149857006
+SMAD4_damaging_to_BRD4,Avana,ACH-001814,Bone,matrix_intact,-0.2581505360172758
+SMAD4_damaging_to_BRD4,Avana,ACH-001819,Breast,matrix_intact,-1.9525438773874901
+SMAD4_damaging_to_BRD4,Avana,ACH-001820,Breast,matrix_intact,-0.4416010695972247
+SMAD4_damaging_to_BRD4,Avana,ACH-001834,Biliary Tract,matrix_intact,-2.5030787488265784
+SMAD4_damaging_to_BRD4,Avana,ACH-001835,Biliary Tract,matrix_intact,-1.5367570560360728
+SMAD4_damaging_to_BRD4,Avana,ACH-001836,Biliary Tract,matrix_intact,-2.0539423432576682
+SMAD4_damaging_to_BRD4,Avana,ACH-001838,Biliary Tract,matrix_intact,-1.4280720496971648
+SMAD4_damaging_to_BRD4,Avana,ACH-001839,Biliary Tract,matrix_intact,-1.518966818091124
+SMAD4_damaging_to_BRD4,Avana,ACH-001841,Biliary Tract,damaging,-1.4260155684891704
+SMAD4_damaging_to_BRD4,Avana,ACH-001842,Biliary Tract,matrix_intact,-0.2276219227455693
+SMAD4_damaging_to_BRD4,Avana,ACH-001843,Biliary Tract,matrix_intact,-3.111015334437349
+SMAD4_damaging_to_BRD4,Avana,ACH-001844,Biliary Tract,matrix_intact,-1.4563286148954173
+SMAD4_damaging_to_BRD4,Avana,ACH-001848,Biliary Tract,matrix_intact,-3.3800386093889165
+SMAD4_damaging_to_BRD4,Avana,ACH-001849,Biliary Tract,matrix_intact,-0.8058134373011031
+SMAD4_damaging_to_BRD4,Avana,ACH-001850,Biliary Tract,matrix_intact,-3.1054803659022756
+SMAD4_damaging_to_BRD4,Avana,ACH-001852,Biliary Tract,matrix_intact,-2.768308116989139
+SMAD4_damaging_to_BRD4,Avana,ACH-001853,Liver,matrix_intact,-1.1507702774022994
+SMAD4_damaging_to_BRD4,Avana,ACH-001856,Biliary Tract,matrix_intact,-1.8623612613579485
+SMAD4_damaging_to_BRD4,Avana,ACH-001857,Biliary Tract,matrix_intact,-0.483846694435383
+SMAD4_damaging_to_BRD4,Avana,ACH-001858,Biliary Tract,matrix_intact,-2.2889700796181636
+SMAD4_damaging_to_BRD4,Avana,ACH-001861,Biliary Tract,matrix_intact,-1.4932326223217647
+SMAD4_damaging_to_BRD4,Avana,ACH-001862,Ampulla of Vater,matrix_intact,-1.7938957480619937
+SMAD4_damaging_to_BRD4,Avana,ACH-001863,Biliary Tract,matrix_intact,-0.5114667008736465
+SMAD4_damaging_to_BRD4,Avana,ACH-001864,Biliary Tract,matrix_intact,-1.5775715444213079
+SMAD4_damaging_to_BRD4,Avana,ACH-001959,Biliary Tract,matrix_intact,-1.6564715424680063
+SMAD4_damaging_to_BRD4,Avana,ACH-001960,Biliary Tract,matrix_intact,-2.1579442317641297
+SMAD4_damaging_to_BRD4,Avana,ACH-001961,Biliary Tract,matrix_intact,-2.545603178793456
+SMAD4_damaging_to_BRD4,Avana,ACH-001970,Skin,matrix_intact,-0.5608045162132607
+SMAD4_damaging_to_BRD4,Avana,ACH-001973,Skin,matrix_intact,-0.4578378908419469
+SMAD4_damaging_to_BRD4,Avana,ACH-001977,Pleura,matrix_intact,-0.9356515693004858
+SMAD4_damaging_to_BRD4,Avana,ACH-001982,Skin,damaging,-2.1752221688010542
+SMAD4_damaging_to_BRD4,Avana,ACH-001986,Skin,matrix_intact,-0.8598496400391742
+SMAD4_damaging_to_BRD4,Avana,ACH-001990,Skin,matrix_intact,-1.5010911102612243
+SMAD4_damaging_to_BRD4,Avana,ACH-001991,Ovary/Fallopian Tube,matrix_intact,-0.4731775578265952
+SMAD4_damaging_to_BRD4,Avana,ACH-001992,Pleura,matrix_intact,-2.5460891797175833
+SMAD4_damaging_to_BRD4,Avana,ACH-001993,Lymphoid,matrix_intact,-0.8271478706373414
+SMAD4_damaging_to_BRD4,Avana,ACH-001997,Biliary Tract,matrix_intact,-1.474808514976647
+SMAD4_damaging_to_BRD4,Avana,ACH-001999,Pancreas,damaging,-1.9383373491530658
+SMAD4_damaging_to_BRD4,Avana,ACH-002001,Skin,matrix_intact,-1.4629070932044645
+SMAD4_damaging_to_BRD4,Avana,ACH-002002,Skin,matrix_intact,-3.3196598530873
+SMAD4_damaging_to_BRD4,Avana,ACH-002003,Skin,matrix_intact,-3.195894770647683
+SMAD4_damaging_to_BRD4,Avana,ACH-002005,Skin,matrix_intact,-1.2766793485946313
+SMAD4_damaging_to_BRD4,Avana,ACH-002014,Eye,matrix_intact,-0.13693245065446968
+SMAD4_damaging_to_BRD4,Avana,ACH-002015,Eye,matrix_intact,-1.7631341994734466
+SMAD4_damaging_to_BRD4,Avana,ACH-002016,Eye,matrix_intact,-1.0317546929079144
+SMAD4_damaging_to_BRD4,Avana,ACH-002018,Eye,matrix_intact,-2.0381091282474033
+SMAD4_damaging_to_BRD4,Avana,ACH-002019,Cervix,matrix_intact,-2.2043097596322507
+SMAD4_damaging_to_BRD4,Avana,ACH-002020,Cervix,matrix_intact,-2.0978030955107947
+SMAD4_damaging_to_BRD4,Avana,ACH-002021,Uterus,matrix_intact,-0.9766289986762899
+SMAD4_damaging_to_BRD4,Avana,ACH-002023,Ampulla of Vater,matrix_intact,-2.547458152051835
+SMAD4_damaging_to_BRD4,Avana,ACH-002024,Bowel,matrix_intact,-0.2379442323880886
+SMAD4_damaging_to_BRD4,Avana,ACH-002025,Bowel,matrix_intact,-2.0876699583403164
+SMAD4_damaging_to_BRD4,Avana,ACH-002026,Uterus,matrix_intact,-0.8220880043907641
+SMAD4_damaging_to_BRD4,Avana,ACH-002027,Uterus,matrix_intact,-1.6993773820027873
+SMAD4_damaging_to_BRD4,Avana,ACH-002029,Head and Neck,matrix_intact,-1.5660908120747026
+SMAD4_damaging_to_BRD4,Avana,ACH-002030,Head and Neck,matrix_intact,-2.6038061641070622
+SMAD4_damaging_to_BRD4,Avana,ACH-002035,Lung,matrix_intact,-0.6644549205741143
+SMAD4_damaging_to_BRD4,Avana,ACH-002039,Pancreas,matrix_intact,-1.531441046667429
+SMAD4_damaging_to_BRD4,Avana,ACH-002040,Vulva/Vagina,matrix_intact,-0.6679095377141313
+SMAD4_damaging_to_BRD4,Avana,ACH-002041,Thyroid,matrix_intact,-1.6083280604597845
+SMAD4_damaging_to_BRD4,Avana,ACH-002042,Head and Neck,matrix_intact,-0.7252654316883369
+SMAD4_damaging_to_BRD4,Avana,ACH-002043,Head and Neck,matrix_intact,-1.9044958108892185
+SMAD4_damaging_to_BRD4,Avana,ACH-002044,Head and Neck,matrix_intact,-1.193295097417867
+SMAD4_damaging_to_BRD4,Avana,ACH-002045,Head and Neck,matrix_intact,-0.7831318714424729
+SMAD4_damaging_to_BRD4,Avana,ACH-002046,Uterus,matrix_intact,-2.7416118360066806
+SMAD4_damaging_to_BRD4,Avana,ACH-002048,Soft Tissue,matrix_intact,-0.9748630105174746
+SMAD4_damaging_to_BRD4,Avana,ACH-002051,Lung,matrix_intact,-1.8852030578233743
+SMAD4_damaging_to_BRD4,Avana,ACH-002059,Lymphoid,matrix_intact,-1.0151205722979268
+SMAD4_damaging_to_BRD4,Avana,ACH-002061,Myeloid,matrix_intact,-3.7642560939592364
+SMAD4_damaging_to_BRD4,Avana,ACH-002062,Lymphoid,matrix_intact,-2.989629004223114
+SMAD4_damaging_to_BRD4,Avana,ACH-002066,Peripheral Nervous System,matrix_intact,-1.8085757990261548
+SMAD4_damaging_to_BRD4,Avana,ACH-002067,Bone,matrix_intact,-0.26117702770100776
+SMAD4_damaging_to_BRD4,Avana,ACH-002069,Bone,matrix_intact,-0.5528242268592818
+SMAD4_damaging_to_BRD4,Avana,ACH-002070,CNS/Brain,matrix_intact,-1.3884144983611892
+SMAD4_damaging_to_BRD4,Avana,ACH-002077,Lung,matrix_intact,-0.22879757368057868
+SMAD4_damaging_to_BRD4,Avana,ACH-002080,Peripheral Nervous System,matrix_intact,-1.156797665676518
+SMAD4_damaging_to_BRD4,Avana,ACH-002084,Skin,matrix_intact,-1.4526806935119159
+SMAD4_damaging_to_BRD4,Avana,ACH-002214,Lymphoid,matrix_intact,-5.070404548371107
+SMAD4_damaging_to_BRD4,Avana,ACH-002215,Lymphoid,matrix_intact,-0.7359168001995839
+SMAD4_damaging_to_BRD4,Avana,ACH-002291,Testis,matrix_intact,-0.5157908266391726
+SMAD4_damaging_to_BRD4,Avana,ACH-002399,Breast,matrix_intact,-1.517912406845455
+SMAD4_damaging_to_BRD4,Avana,ACH-002446,Esophagus/Stomach,matrix_intact,-2.152748161592892
+SMAD4_damaging_to_BRD4,Avana,ACH-002458,Skin,matrix_intact,-0.49961733118778895
+SMAD4_damaging_to_BRD4,Avana,ACH-002459,Skin,matrix_intact,-1.3971802015156976
+SMAD4_damaging_to_BRD4,Avana,ACH-002460,Skin,matrix_intact,-1.0210843317163816
+SMAD4_damaging_to_BRD4,Avana,ACH-002461,Skin,matrix_intact,-2.1009427609193283
+SMAD4_damaging_to_BRD4,Avana,ACH-002462,Eye,matrix_intact,-2.6145144564635947
+SMAD4_damaging_to_BRD4,Avana,ACH-002463,Eye,matrix_intact,-1.4675992865972711
+SMAD4_damaging_to_BRD4,Avana,ACH-002464,Eye,matrix_intact,-0.8420053985040599
+SMAD4_damaging_to_BRD4,Avana,ACH-002465,Eye,matrix_intact,-0.6428937414536708
+SMAD4_damaging_to_BRD4,Avana,ACH-002467,Eye,matrix_intact,-1.6017693405964089
+SMAD4_damaging_to_BRD4,Avana,ACH-002471,Bone,matrix_intact,-0.17467876412930924
+SMAD4_damaging_to_BRD4,Avana,ACH-002478,Lymphoid,matrix_intact,-1.133744024292012
+SMAD4_damaging_to_BRD4,Avana,ACH-002485,Lymphoid,matrix_intact,-0.9141744558391713
+SMAD4_damaging_to_BRD4,Avana,ACH-002486,Ovary/Fallopian Tube,matrix_intact,-1.0731895652266554
+SMAD4_damaging_to_BRD4,Avana,ACH-002508,Skin,matrix_intact,-1.5196219037503171
+SMAD4_damaging_to_BRD4,Avana,ACH-002510,Skin,matrix_intact,-0.7318853216899288
+SMAD4_damaging_to_BRD4,Avana,ACH-002511,Skin,matrix_intact,-1.0414643021424936
+SMAD4_damaging_to_BRD4,Avana,ACH-002512,Skin,matrix_intact,-0.07822130154688621
+SMAD4_damaging_to_BRD4,Avana,ACH-002522,Lung,matrix_intact,-0.6890629458295865
+SMAD4_damaging_to_BRD4,Avana,ACH-002523,Liver,matrix_intact,-2.4794625999447013
+SMAD4_damaging_to_BRD4,Avana,ACH-002524,Ovary/Fallopian Tube,matrix_intact,-0.8841079436902617
+SMAD4_damaging_to_BRD4,Avana,ACH-002526,Lung,matrix_intact,-1.2844297623026932
+SMAD4_damaging_to_BRD4,Avana,ACH-002531,Lung,matrix_intact,-0.9098967440603105
+SMAD4_damaging_to_BRD4,Avana,ACH-002533,Kidney,matrix_intact,-1.4016690060369448
+SMAD4_damaging_to_BRD4,Avana,ACH-002535,Bowel,matrix_intact,-0.9311270922721295
+SMAD4_damaging_to_BRD4,Avana,ACH-002647,Biliary Tract,matrix_intact,-0.3397012944839957
+SMAD4_damaging_to_BRD4,Avana,ACH-002650,Lung,matrix_intact,-2.2500246142149543
+SMAD4_damaging_to_BRD4,Avana,ACH-002654,Bowel,matrix_intact,-0.481476152218812
+SMAD4_damaging_to_BRD4,Avana,ACH-002659,Bowel,matrix_intact,-1.1043368999312477
+SMAD4_damaging_to_BRD4,Avana,ACH-002664,Bowel,damaging,-0.9094769154253406
+SMAD4_damaging_to_BRD4,Avana,ACH-002669,Bowel,matrix_intact,-2.1241817532331733
+SMAD4_damaging_to_BRD4,Avana,ACH-002672,Pancreas,matrix_intact,-1.7611324719445212
+SMAD4_damaging_to_BRD4,Avana,ACH-002680,CNS/Brain,matrix_intact,-2.263154368139742
+SMAD4_damaging_to_BRD4,Avana,ACH-002687,Eye,matrix_intact,-1.7043187494555676
+SMAD4_damaging_to_BRD4,Avana,ACH-002693,Peripheral Nervous System,matrix_intact,-1.9988540634554628
+SMAD4_damaging_to_BRD4,Avana,ACH-002710,Peripheral Nervous System,matrix_intact,-2.1644273148630804
+SMAD4_damaging_to_BRD4,Avana,ACH-002785,Soft Tissue,matrix_intact,-1.623709727810672
+SMAD4_damaging_to_BRD4,Avana,ACH-002799,Peripheral Nervous System,matrix_intact,-3.3470188951250854
+SMAD4_damaging_to_BRD4,Avana,ACH-002800,Peripheral Nervous System,matrix_intact,-1.520339935783786
+SMAD4_damaging_to_BRD4,Avana,ACH-002834,Bone,matrix_intact,-1.2049358029876935
+SMAD4_damaging_to_BRD4,Avana,ACH-002847,Skin,matrix_intact,-0.9204947103213836
+SMAD4_damaging_to_BRD4,Avana,ACH-002922,Peripheral Nervous System,matrix_intact,-1.5474001939139672
+SMAD4_damaging_to_BRD4,Avana,ACH-002925,Eye,matrix_intact,-0.3557582409228859
+SMAD4_damaging_to_BRD4,Avana,ACH-002926,Eye,matrix_intact,-1.2881036450617662
+SMAD4_damaging_to_BRD4,KY,ACH-000001,Ovary/Fallopian Tube,matrix_intact,-0.8582660438192874
+SMAD4_damaging_to_BRD4,KY,ACH-000007,Bowel,matrix_intact,-1.4055881245468251
+SMAD4_damaging_to_BRD4,KY,ACH-000009,Bowel,damaging,-2.3778214262521007
+SMAD4_damaging_to_BRD4,KY,ACH-000019,Breast,matrix_intact,-1.1118310400753284
+SMAD4_damaging_to_BRD4,KY,ACH-000023,Pancreas,matrix_intact,-1.6712490718926343
+SMAD4_damaging_to_BRD4,KY,ACH-000024,Lymphoid,matrix_intact,-0.8033844873433766
+SMAD4_damaging_to_BRD4,KY,ACH-000030,Lung,matrix_intact,-1.0856146567103024
+SMAD4_damaging_to_BRD4,KY,ACH-000035,Lung,matrix_intact,-1.5308288712602138
+SMAD4_damaging_to_BRD4,KY,ACH-000042,Pancreas,damaging,-0.4685769575413161
+SMAD4_damaging_to_BRD4,KY,ACH-000048,Ovary/Fallopian Tube,matrix_intact,-1.7903216460843392
+SMAD4_damaging_to_BRD4,KY,ACH-000060,Pancreas,matrix_intact,-0.3964471192138268
+SMAD4_damaging_to_BRD4,KY,ACH-000067,CNS/Brain,matrix_intact,-1.1397279012915078
+SMAD4_damaging_to_BRD4,KY,ACH-000075,CNS/Brain,matrix_intact,-1.7180745725422528
+SMAD4_damaging_to_BRD4,KY,ACH-000094,Pancreas,matrix_intact,-1.038493013714068
+SMAD4_damaging_to_BRD4,KY,ACH-000098,CNS/Brain,matrix_intact,-0.9709728099202009
+SMAD4_damaging_to_BRD4,KY,ACH-000103,Ovary/Fallopian Tube,matrix_intact,-0.9444979732881106
+SMAD4_damaging_to_BRD4,KY,ACH-000108,Pancreas,damaging,-1.067718891072194
+SMAD4_damaging_to_BRD4,KY,ACH-000111,Breast,matrix_intact,-0.5706910433973759
+SMAD4_damaging_to_BRD4,KY,ACH-000113,Myeloid,matrix_intact,-1.1383899953110783
+SMAD4_damaging_to_BRD4,KY,ACH-000114,Pancreas,matrix_intact,-1.5838956629631102
+SMAD4_damaging_to_BRD4,KY,ACH-000118,Pancreas,matrix_intact,-0.4284967812582661
+SMAD4_damaging_to_BRD4,KY,ACH-000120,Peripheral Nervous System,matrix_intact,-1.630534162650318
+SMAD4_damaging_to_BRD4,KY,ACH-000124,Lymphoid,matrix_intact,-0.8061312727408968
+SMAD4_damaging_to_BRD4,KY,ACH-000132,Ovary/Fallopian Tube,matrix_intact,-1.905620788127618
+SMAD4_damaging_to_BRD4,KY,ACH-000137,CNS/Brain,matrix_intact,-1.4194496844511706
+SMAD4_damaging_to_BRD4,KY,ACH-000139,Pancreas,matrix_intact,-0.7630887405848016
+SMAD4_damaging_to_BRD4,KY,ACH-000144,Esophagus/Stomach,matrix_intact,-0.8017392531276004
+SMAD4_damaging_to_BRD4,KY,ACH-000147,Breast,matrix_intact,-1.8067959185237759
+SMAD4_damaging_to_BRD4,KY,ACH-000148,Breast,matrix_intact,-0.6536327477743263
+SMAD4_damaging_to_BRD4,KY,ACH-000149,Peripheral Nervous System,matrix_intact,-2.6655320461038396
+SMAD4_damaging_to_BRD4,KY,ACH-000155,Pancreas,matrix_intact,-0.7098177326110908
+SMAD4_damaging_to_BRD4,KY,ACH-000176,Lung,matrix_intact,-1.5460920851708064
+SMAD4_damaging_to_BRD4,KY,ACH-000181,Head and Neck,matrix_intact,-1.3291952723273999
+SMAD4_damaging_to_BRD4,KY,ACH-000183,Lymphoid,matrix_intact,-1.3369077516731787
+SMAD4_damaging_to_BRD4,KY,ACH-000192,Uterus,matrix_intact,-0.5285716334379458
+SMAD4_damaging_to_BRD4,KY,ACH-000200,CNS/Brain,matrix_intact,-1.096047249827714
+SMAD4_damaging_to_BRD4,KY,ACH-000204,Lymphoid,matrix_intact,-3.031004949497246
+SMAD4_damaging_to_BRD4,KY,ACH-000207,Head and Neck,matrix_intact,-1.2785004481973494
+SMAD4_damaging_to_BRD4,KY,ACH-000213,Pancreas,matrix_intact,-0.9635141298545181
+SMAD4_damaging_to_BRD4,KY,ACH-000219,Skin,matrix_intact,-1.2116652853246577
+SMAD4_damaging_to_BRD4,KY,ACH-000222,Pancreas,damaging,-0.6322289016965558
+SMAD4_damaging_to_BRD4,KY,ACH-000223,Breast,matrix_intact,-0.44737818981339794
+SMAD4_damaging_to_BRD4,KY,ACH-000227,Peripheral Nervous System,matrix_intact,-1.010343740593427
+SMAD4_damaging_to_BRD4,KY,ACH-000232,CNS/Brain,matrix_intact,-1.098396306485485
+SMAD4_damaging_to_BRD4,KY,ACH-000235,Pancreas,matrix_intact,-1.288918459919956
+SMAD4_damaging_to_BRD4,KY,ACH-000238,Head and Neck,matrix_intact,-0.9727707571619826
+SMAD4_damaging_to_BRD4,KY,ACH-000243,Pancreas,damaging,-1.2125381741106154
+SMAD4_damaging_to_BRD4,KY,ACH-000244,CNS/Brain,matrix_intact,-0.43586132953822365
+SMAD4_damaging_to_BRD4,KY,ACH-000248,Breast,matrix_intact,-1.0201940803051206
+SMAD4_damaging_to_BRD4,KY,ACH-000249,Bowel,matrix_intact,-1.638716742399681
+SMAD4_damaging_to_BRD4,KY,ACH-000252,Bowel,matrix_intact,-1.4876577437432148
+SMAD4_damaging_to_BRD4,KY,ACH-000260,Peripheral Nervous System,matrix_intact,-1.6615220878754051
+SMAD4_damaging_to_BRD4,KY,ACH-000265,Pancreas,matrix_intact,-1.5908497539079296
+SMAD4_damaging_to_BRD4,KY,ACH-000269,CNS/Brain,matrix_intact,-0.6811352230226329
+SMAD4_damaging_to_BRD4,KY,ACH-000271,Lymphoid,matrix_intact,-1.9963576760601074
+SMAD4_damaging_to_BRD4,KY,ACH-000273,CNS/Brain,matrix_intact,-1.1564797360175985
+SMAD4_damaging_to_BRD4,KY,ACH-000276,Breast,matrix_intact,-1.051796768063264
+SMAD4_damaging_to_BRD4,KY,ACH-000291,Ovary/Fallopian Tube,damaging,-1.5511616956364593
+SMAD4_damaging_to_BRD4,KY,ACH-000293,Uterus,matrix_intact,-0.5584099389374929
+SMAD4_damaging_to_BRD4,KY,ACH-000305,Esophagus/Stomach,matrix_intact,-0.5838437277785525
+SMAD4_damaging_to_BRD4,KY,ACH-000308,Ovary/Fallopian Tube,matrix_intact,-0.5174425944302491
+SMAD4_damaging_to_BRD4,KY,ACH-000318,Esophagus/Stomach,matrix_intact,-1.3213167013697538
+SMAD4_damaging_to_BRD4,KY,ACH-000320,Pancreas,matrix_intact,-1.3383007892616545
+SMAD4_damaging_to_BRD4,KY,ACH-000323,CNS/Brain,matrix_intact,-0.12441047696658278
+SMAD4_damaging_to_BRD4,KY,ACH-000336,Myeloid,matrix_intact,-1.6276745512949213
+SMAD4_damaging_to_BRD4,KY,ACH-000337,Lung,matrix_intact,-1.9674488013609368
+SMAD4_damaging_to_BRD4,KY,ACH-000341,Peripheral Nervous System,matrix_intact,-1.9226387519799601
+SMAD4_damaging_to_BRD4,KY,ACH-000350,Bowel,matrix_intact,-0.1188695427378274
+SMAD4_damaging_to_BRD4,KY,ACH-000354,Pancreas,damaging,-1.6745743571249052
+SMAD4_damaging_to_BRD4,KY,ACH-000366,Peripheral Nervous System,matrix_intact,-0.6596925442047018
+SMAD4_damaging_to_BRD4,KY,ACH-000367,Pleura,matrix_intact,-0.7829201955751662
+SMAD4_damaging_to_BRD4,KY,ACH-000374,Breast,matrix_intact,-1.250673384171401
+SMAD4_damaging_to_BRD4,KY,ACH-000376,CNS/Brain,matrix_intact,-1.4141872219022047
+SMAD4_damaging_to_BRD4,KY,ACH-000381,Bowel,matrix_intact,-0.2305969848839737
+SMAD4_damaging_to_BRD4,KY,ACH-000383,Esophagus/Stomach,matrix_intact,-1.62361119656535
+SMAD4_damaging_to_BRD4,KY,ACH-000391,Bone,matrix_intact,-1.639340692469365
+SMAD4_damaging_to_BRD4,KY,ACH-000395,Lung,matrix_intact,-1.0821673320543133
+SMAD4_damaging_to_BRD4,KY,ACH-000408,Esophagus/Stomach,matrix_intact,-1.8000521339172852
+SMAD4_damaging_to_BRD4,KY,ACH-000411,Kidney,matrix_intact,-1.0473314656955302
+SMAD4_damaging_to_BRD4,KY,ACH-000414,Lung,matrix_intact,-1.59588612054225
+SMAD4_damaging_to_BRD4,KY,ACH-000417,Pancreas,damaging,-2.0530254889469224
+SMAD4_damaging_to_BRD4,KY,ACH-000421,Bowel,matrix_intact,-0.92838632025135
+SMAD4_damaging_to_BRD4,KY,ACH-000424,Bone,matrix_intact,-1.1868258167399217
+SMAD4_damaging_to_BRD4,KY,ACH-000427,Esophagus/Stomach,matrix_intact,-0.5385968637049585
+SMAD4_damaging_to_BRD4,KY,ACH-000430,Ovary/Fallopian Tube,matrix_intact,-1.7018458731838566
+SMAD4_damaging_to_BRD4,KY,ACH-000434,Lung,matrix_intact,-1.047284296038363
+SMAD4_damaging_to_BRD4,KY,ACH-000437,CNS/Brain,matrix_intact,-0.759944640640132
+SMAD4_damaging_to_BRD4,KY,ACH-000438,Lung,matrix_intact,-1.0930922545459543
+SMAD4_damaging_to_BRD4,KY,ACH-000442,Lung,matrix_intact,-1.5417652536587123
+SMAD4_damaging_to_BRD4,KY,ACH-000452,Esophagus/Stomach,matrix_intact,-1.58705988818452
+SMAD4_damaging_to_BRD4,KY,ACH-000464,CNS/Brain,matrix_intact,-0.3601508699678942
+SMAD4_damaging_to_BRD4,KY,ACH-000469,CNS/Brain,matrix_intact,-1.0509660067325637
+SMAD4_damaging_to_BRD4,KY,ACH-000481,Lung,matrix_intact,-1.3202647359593336
+SMAD4_damaging_to_BRD4,KY,ACH-000501,Bowel,damaging,-0.6336690340256067
+SMAD4_damaging_to_BRD4,KY,ACH-000504,CNS/Brain,matrix_intact,-0.5944150129456318
+SMAD4_damaging_to_BRD4,KY,ACH-000505,Soft Tissue,matrix_intact,-0.6090062044419454
+SMAD4_damaging_to_BRD4,KY,ACH-000510,Lung,matrix_intact,-0.6658131972063493
+SMAD4_damaging_to_BRD4,KY,ACH-000518,Head and Neck,damaging,-0.7433361872765989
+SMAD4_damaging_to_BRD4,KY,ACH-000524,Ovary/Fallopian Tube,matrix_intact,-0.901488117673464
+SMAD4_damaging_to_BRD4,KY,ACH-000527,Ovary/Fallopian Tube,matrix_intact,-1.0143338891560287
+SMAD4_damaging_to_BRD4,KY,ACH-000532,Bowel,matrix_intact,-1.2929139951832236
+SMAD4_damaging_to_BRD4,KY,ACH-000535,Pancreas,matrix_intact,-0.8593252032770672
+SMAD4_damaging_to_BRD4,KY,ACH-000544,Esophagus/Stomach,matrix_intact,-1.315089483399529
+SMAD4_damaging_to_BRD4,KY,ACH-000546,Head and Neck,matrix_intact,-1.2033173002807154
+SMAD4_damaging_to_BRD4,KY,ACH-000548,Head and Neck,matrix_intact,-1.4518532147122378
+SMAD4_damaging_to_BRD4,KY,ACH-000552,Bowel,damaging,-1.6308877363010232
+SMAD4_damaging_to_BRD4,KY,ACH-000554,Breast,matrix_intact,-1.0923005966973205
+SMAD4_damaging_to_BRD4,KY,ACH-000558,CNS/Brain,matrix_intact,-1.7373311533649907
+SMAD4_damaging_to_BRD4,KY,ACH-000561,Esophagus/Stomach,matrix_intact,-0.6780725564528224
+SMAD4_damaging_to_BRD4,KY,ACH-000562,Lung,matrix_intact,-0.9799547883008357
+SMAD4_damaging_to_BRD4,KY,ACH-000563,Lung,matrix_intact,-1.2445492306940145
+SMAD4_damaging_to_BRD4,KY,ACH-000565,Bowel,damaging,-1.1768176516619646
+SMAD4_damaging_to_BRD4,KY,ACH-000571,CNS/Brain,matrix_intact,-0.3458800204670606
+SMAD4_damaging_to_BRD4,KY,ACH-000573,Breast,matrix_intact,-1.5985758213234729
+SMAD4_damaging_to_BRD4,KY,ACH-000581,Esophagus/Stomach,matrix_intact,-0.6079338649798904
+SMAD4_damaging_to_BRD4,KY,ACH-000584,Ovary/Fallopian Tube,matrix_intact,-1.1972079068690482
+SMAD4_damaging_to_BRD4,KY,ACH-000585,Lung,matrix_intact,-0.792893631844238
+SMAD4_damaging_to_BRD4,KY,ACH-000587,Lung,matrix_intact,-1.4171319319734004
+SMAD4_damaging_to_BRD4,KY,ACH-000595,CNS/Brain,matrix_intact,-1.2585777789511101
+SMAD4_damaging_to_BRD4,KY,ACH-000596,Lung,matrix_intact,-0.41569107368274255
+SMAD4_damaging_to_BRD4,KY,ACH-000599,Pancreas,matrix_intact,-1.3173393750808693
+SMAD4_damaging_to_BRD4,KY,ACH-000601,Pancreas,matrix_intact,-0.9642155693636597
+SMAD4_damaging_to_BRD4,KY,ACH-000609,CNS/Brain,matrix_intact,-1.2459673838594492
+SMAD4_damaging_to_BRD4,KY,ACH-000619,Head and Neck,matrix_intact,-1.3662137424738994
+SMAD4_damaging_to_BRD4,KY,ACH-000622,CNS/Brain,matrix_intact,-1.0534201417517148
+SMAD4_damaging_to_BRD4,KY,ACH-000624,Breast,matrix_intact,-1.3769043264563194
+SMAD4_damaging_to_BRD4,KY,ACH-000637,Esophagus/Stomach,matrix_intact,-1.5271499687654906
+SMAD4_damaging_to_BRD4,KY,ACH-000651,Bowel,matrix_intact,-0.6556772391201551
+SMAD4_damaging_to_BRD4,KY,ACH-000652,Pancreas,matrix_intact,-1.1965421172584672
+SMAD4_damaging_to_BRD4,KY,ACH-000656,Lymphoid,matrix_intact,-1.9597223634495924
+SMAD4_damaging_to_BRD4,KY,ACH-000657,Ovary/Fallopian Tube,matrix_intact,-3.5859261911319207
+SMAD4_damaging_to_BRD4,KY,ACH-000660,Lymphoid,matrix_intact,-1.0694666765924297
+SMAD4_damaging_to_BRD4,KY,ACH-000662,Lung,matrix_intact,-0.6589941536306646
+SMAD4_damaging_to_BRD4,KY,ACH-000665,Lung,matrix_intact,-1.1441712206230228
+SMAD4_damaging_to_BRD4,KY,ACH-000666,Lung,matrix_intact,-1.570932620911144
+SMAD4_damaging_to_BRD4,KY,ACH-000668,Breast,matrix_intact,-0.9507032238183637
+SMAD4_damaging_to_BRD4,KY,ACH-000677,Lung,matrix_intact,-1.6427452528677566
+SMAD4_damaging_to_BRD4,KY,ACH-000681,Lung,matrix_intact,-0.807248873527938
+SMAD4_damaging_to_BRD4,KY,ACH-000694,Esophagus/Stomach,matrix_intact,-0.3612395275929818
+SMAD4_damaging_to_BRD4,KY,ACH-000696,Ovary/Fallopian Tube,matrix_intact,-1.71656416305587
+SMAD4_damaging_to_BRD4,KY,ACH-000699,Breast,matrix_intact,-0.05944596461753356
+SMAD4_damaging_to_BRD4,KY,ACH-000704,Ovary/Fallopian Tube,matrix_intact,-0.3970080748232654
+SMAD4_damaging_to_BRD4,KY,ACH-000711,Breast,matrix_intact,-0.6123155031082407
+SMAD4_damaging_to_BRD4,KY,ACH-000714,Lymphoid,matrix_intact,-2.136046545591147
+SMAD4_damaging_to_BRD4,KY,ACH-000717,Esophagus/Stomach,matrix_intact,-1.6716787849755015
+SMAD4_damaging_to_BRD4,KY,ACH-000719,Ovary/Fallopian Tube,matrix_intact,-1.3111607856287955
+SMAD4_damaging_to_BRD4,KY,ACH-000722,Bowel,matrix_intact,-1.7520190565341665
+SMAD4_damaging_to_BRD4,KY,ACH-000738,CNS/Brain,matrix_intact,-0.4301399605198061
+SMAD4_damaging_to_BRD4,KY,ACH-000740,Head and Neck,matrix_intact,-0.853465687596025
+SMAD4_damaging_to_BRD4,KY,ACH-000748,Bone,matrix_intact,-2.0973758454800233
+SMAD4_damaging_to_BRD4,KY,ACH-000756,CNS/Brain,matrix_intact,-1.7468806278445967
+SMAD4_damaging_to_BRD4,KY,ACH-000768,Breast,matrix_intact,-1.243473601999911
+SMAD4_damaging_to_BRD4,KY,ACH-000769,Lung,matrix_intact,-1.5876220164569308
+SMAD4_damaging_to_BRD4,KY,ACH-000778,Head and Neck,damaging,-1.6301171999406285
+SMAD4_damaging_to_BRD4,KY,ACH-000781,Lung,matrix_intact,-1.5160399149432553
+SMAD4_damaging_to_BRD4,KY,ACH-000784,Esophagus/Stomach,matrix_intact,-0.6681254260201269
+SMAD4_damaging_to_BRD4,KY,ACH-000787,Lung,matrix_intact,-1.4242329517751209
+SMAD4_damaging_to_BRD4,KY,ACH-000788,Skin,matrix_intact,-1.0853641054109893
+SMAD4_damaging_to_BRD4,KY,ACH-000793,Esophagus/Stomach,matrix_intact,-1.096926283191837
+SMAD4_damaging_to_BRD4,KY,ACH-000794,Head and Neck,matrix_intact,-0.8837561129035129
+SMAD4_damaging_to_BRD4,KY,ACH-000796,Ovary/Fallopian Tube,matrix_intact,-0.9075984302479959
+SMAD4_damaging_to_BRD4,KY,ACH-000809,Esophagus/Stomach,matrix_intact,-1.2411271513449262
+SMAD4_damaging_to_BRD4,KY,ACH-000817,Lymphoid,matrix_intact,-1.2832703360331548
+SMAD4_damaging_to_BRD4,KY,ACH-000823,Esophagus/Stomach,matrix_intact,-0.5342261978075513
+SMAD4_damaging_to_BRD4,KY,ACH-000824,Esophagus/Stomach,matrix_intact,-1.4920186647079625
+SMAD4_damaging_to_BRD4,KY,ACH-000832,Head and Neck,damaging,-2.1195355387466868
+SMAD4_damaging_to_BRD4,KY,ACH-000841,Lung,matrix_intact,-0.5930241049253754
+SMAD4_damaging_to_BRD4,KY,ACH-000843,Lung,matrix_intact,-1.2430815617416517
+SMAD4_damaging_to_BRD4,KY,ACH-000846,Head and Neck,matrix_intact,-1.2258333565392225
+SMAD4_damaging_to_BRD4,KY,ACH-000847,Esophagus/Stomach,matrix_intact,-0.9859471578075559
+SMAD4_damaging_to_BRD4,KY,ACH-000849,Breast,matrix_intact,-1.7727930127803209
+SMAD4_damaging_to_BRD4,KY,ACH-000855,Esophagus/Stomach,damaging,-1.1205799926294973
+SMAD4_damaging_to_BRD4,KY,ACH-000856,Breast,matrix_intact,-0.9468859309213276
+SMAD4_damaging_to_BRD4,KY,ACH-000858,Lung,matrix_intact,-1.8111234137074195
+SMAD4_damaging_to_BRD4,KY,ACH-000859,Breast,matrix_intact,-0.7805689232357098
+SMAD4_damaging_to_BRD4,KY,ACH-000860,Lung,matrix_intact,-1.1634399557182695
+SMAD4_damaging_to_BRD4,KY,ACH-000861,Lung,matrix_intact,-1.765745793529853
+SMAD4_damaging_to_BRD4,KY,ACH-000863,CNS/Brain,matrix_intact,-1.2456302470137273
+SMAD4_damaging_to_BRD4,KY,ACH-000864,Uterus,matrix_intact,-0.9338437175124349
+SMAD4_damaging_to_BRD4,KY,ACH-000865,Esophagus/Stomach,damaging,-1.4170213497712287
+SMAD4_damaging_to_BRD4,KY,ACH-000869,Lung,matrix_intact,-0.8610822766100531
+SMAD4_damaging_to_BRD4,KY,ACH-000873,Esophagus/Stomach,matrix_intact,-2.5359649299673657
+SMAD4_damaging_to_BRD4,KY,ACH-000876,Breast,matrix_intact,-1.2404238868597082
+SMAD4_damaging_to_BRD4,KY,ACH-000878,Lung,matrix_intact,-0.5890755206458627
+SMAD4_damaging_to_BRD4,KY,ACH-000879,Uterus,matrix_intact,-1.0192476593905455
+SMAD4_damaging_to_BRD4,KY,ACH-000880,Esophagus/Stomach,damaging,-0.882371035974805
+SMAD4_damaging_to_BRD4,KY,ACH-000885,Ovary/Fallopian Tube,matrix_intact,-1.236032483355695
+SMAD4_damaging_to_BRD4,KY,ACH-000894,Lung,matrix_intact,-1.07994786045199
+SMAD4_damaging_to_BRD4,KY,ACH-000900,Lung,matrix_intact,-1.4863866515423723
+SMAD4_damaging_to_BRD4,KY,ACH-000906,Ovary/Fallopian Tube,matrix_intact,-2.249554397115063
+SMAD4_damaging_to_BRD4,KY,ACH-000910,Breast,matrix_intact,-1.1535241565131829
+SMAD4_damaging_to_BRD4,KY,ACH-000911,Esophagus/Stomach,matrix_intact,-0.8717808774311496
+SMAD4_damaging_to_BRD4,KY,ACH-000913,Uterus,matrix_intact,-1.0774346931972674
+SMAD4_damaging_to_BRD4,KY,ACH-000917,Esophagus/Stomach,matrix_intact,-1.6247126216650758
+SMAD4_damaging_to_BRD4,KY,ACH-000919,Esophagus/Stomach,matrix_intact,-0.5612995020457507
+SMAD4_damaging_to_BRD4,KY,ACH-000926,Bowel,matrix_intact,-1.2782504695328056
+SMAD4_damaging_to_BRD4,KY,ACH-000932,Esophagus/Stomach,damaging,-0.7404413551178965
+SMAD4_damaging_to_BRD4,KY,ACH-000934,Breast,matrix_intact,-1.0325496082321675
+SMAD4_damaging_to_BRD4,KY,ACH-000935,Bowel,matrix_intact,-0.2345350216122172
+SMAD4_damaging_to_BRD4,KY,ACH-000936,Ovary/Fallopian Tube,damaging,-0.8656199784893474
+SMAD4_damaging_to_BRD4,KY,ACH-000943,Bowel,matrix_intact,-2.249857554532308
+SMAD4_damaging_to_BRD4,KY,ACH-000945,Lung,matrix_intact,-0.9107924744561458
+SMAD4_damaging_to_BRD4,KY,ACH-000947,Ovary/Fallopian Tube,matrix_intact,-1.3777554283893114
+SMAD4_damaging_to_BRD4,KY,ACH-000948,Esophagus/Stomach,matrix_intact,-0.9284622281582948
+SMAD4_damaging_to_BRD4,KY,ACH-000950,Bowel,matrix_intact,-1.4862633596012367
+SMAD4_damaging_to_BRD4,KY,ACH-000956,Prostate,matrix_intact,-1.0690956932501003
+SMAD4_damaging_to_BRD4,KY,ACH-000957,Bowel,matrix_intact,-1.8654411568599638
+SMAD4_damaging_to_BRD4,KY,ACH-000958,Bowel,matrix_intact,-1.7374455672472784
+SMAD4_damaging_to_BRD4,KY,ACH-000962,Ovary/Fallopian Tube,matrix_intact,-1.8177575248167435
+SMAD4_damaging_to_BRD4,KY,ACH-000965,Uterus,matrix_intact,-1.297428554659988
+SMAD4_damaging_to_BRD4,KY,ACH-000966,Ovary/Fallopian Tube,damaging,-0.2591209297423666
+SMAD4_damaging_to_BRD4,KY,ACH-000969,Bowel,matrix_intact,-0.9321242517187723
+SMAD4_damaging_to_BRD4,KY,ACH-000970,Bowel,matrix_intact,-1.5885919894309704
+SMAD4_damaging_to_BRD4,KY,ACH-000971,Bowel,matrix_intact,-1.4809034275851045
+SMAD4_damaging_to_BRD4,KY,ACH-000974,Uterus,matrix_intact,-1.4733874444242463
+SMAD4_damaging_to_BRD4,KY,ACH-000977,Prostate,matrix_intact,-1.583306928956775
+SMAD4_damaging_to_BRD4,KY,ACH-000979,Prostate,matrix_intact,-0.3610020044997932
+SMAD4_damaging_to_BRD4,KY,ACH-000980,Lung,damaging,-0.9678534218774372
+SMAD4_damaging_to_BRD4,KY,ACH-000985,Bowel,matrix_intact,-1.3546667359886249
+SMAD4_damaging_to_BRD4,KY,ACH-000991,Bowel,matrix_intact,-0.9866697355589337
+SMAD4_damaging_to_BRD4,KY,ACH-000997,Bowel,matrix_intact,-1.3267998689467038
+SMAD4_damaging_to_BRD4,KY,ACH-001016,CNS/Brain,matrix_intact,-0.4199213359588381
+SMAD4_damaging_to_BRD4,KY,ACH-001039,Bowel,matrix_intact,-1.3827791132823757
+SMAD4_damaging_to_BRD4,KY,ACH-001063,Ovary/Fallopian Tube,matrix_intact,-1.2181905536649547
+SMAD4_damaging_to_BRD4,KY,ACH-001065,Breast,matrix_intact,-1.4701249891829669
+SMAD4_damaging_to_BRD4,KY,ACH-001081,Bowel,matrix_intact,-0.6226669460135671
+SMAD4_damaging_to_BRD4,KY,ACH-001107,Pancreas,matrix_intact,-1.344400518190528
+SMAD4_damaging_to_BRD4,KY,ACH-001126,CNS/Brain,matrix_intact,-1.4901500830458998
+SMAD4_damaging_to_BRD4,KY,ACH-001137,Lung,matrix_intact,-2.0941816144703864
+SMAD4_damaging_to_BRD4,KY,ACH-001151,Ovary/Fallopian Tube,matrix_intact,-1.9677344600561553
+SMAD4_damaging_to_BRD4,KY,ACH-001190,Skin,matrix_intact,-1.07617151288491
+SMAD4_damaging_to_BRD4,KY,ACH-001193,Bone,matrix_intact,-1.0816236609599426
+SMAD4_damaging_to_BRD4,KY,ACH-001233,Lung,matrix_intact,-1.3012342273253743
+SMAD4_damaging_to_BRD4,KY,ACH-001331,Head and Neck,matrix_intact,-1.2808980047426168
+SMAD4_damaging_to_BRD4,KY,ACH-001332,Head and Neck,matrix_intact,-0.6883484355112378
+SMAD4_damaging_to_BRD4,KY,ACH-001345,Bowel,matrix_intact,-1.4097164842553065
+SMAD4_damaging_to_BRD4,KY,ACH-001368,Esophagus/Stomach,matrix_intact,-1.3652916259665318
+SMAD4_damaging_to_BRD4,KY,ACH-001399,Bowel,damaging,-0.9388234909218318
+SMAD4_damaging_to_BRD4,KY,ACH-001418,Ovary/Fallopian Tube,matrix_intact,-0.8726771285149955
+SMAD4_damaging_to_BRD4,KY,ACH-001494,Biliary Tract,matrix_intact,-1.6261594665652226
+SMAD4_damaging_to_BRD4,KY,ACH-001496,Esophagus/Stomach,damaging,-1.8517959674158695
+SMAD4_damaging_to_BRD4,KY,ACH-001497,Esophagus/Stomach,matrix_intact,-1.5818897515089638
+SMAD4_damaging_to_BRD4,KY,ACH-001500,Esophagus/Stomach,matrix_intact,-0.11366730537372795
+SMAD4_damaging_to_BRD4,KY,ACH-001517,Uterus,matrix_intact,-1.0865790058769909
+SMAD4_damaging_to_BRD4,KY,ACH-001542,Head and Neck,matrix_intact,-1.800423171789481
+SMAD4_damaging_to_BRD4,KY,ACH-001544,Esophagus/Stomach,matrix_intact,-1.4422081131176057
+SMAD4_damaging_to_BRD4,KY,ACH-001603,Peripheral Nervous System,matrix_intact,-0.8034222210419969
+SMAD4_damaging_to_BRD4,KY,ACH-001605,CNS/Brain,matrix_intact,-0.9184269416394426
+SMAD4_damaging_to_BRD4,KY,ACH-001606,CNS/Brain,matrix_intact,-1.7473912809025474
+SMAD4_damaging_to_BRD4,KY,ACH-001625,Head and Neck,matrix_intact,-0.2095736204089973
+SMAD4_damaging_to_BRD4,KY,ACH-001626,Head and Neck,matrix_intact,-1.4530136595376641
+SMAD4_damaging_to_BRD4,KY,ACH-001630,Ovary/Fallopian Tube,matrix_intact,-0.8345309653359076
+SMAD4_damaging_to_BRD4,KY,ACH-001632,Ovary/Fallopian Tube,matrix_intact,-0.20265964808144457
+SMAD4_damaging_to_BRD4,KY,ACH-001639,Lymphoid,matrix_intact,-1.496349906390529
+SMAD4_damaging_to_BRD4,KY,ACH-001654,Esophagus/Stomach,matrix_intact,-1.0755580810499679
+SMAD4_damaging_to_BRD4,KY,ACH-001674,Peripheral Nervous System,matrix_intact,-1.7321361173420564
+SMAD4_damaging_to_BRD4,KY,ACH-001715,Bone,matrix_intact,-0.807716859404579
+SMAD4_damaging_to_BRD4,KY,ACH-001819,Breast,matrix_intact,-1.2856364370439668
+SMAD4_damaging_to_BRD4,KY,ACH-001820,Breast,matrix_intact,-0.8722587902832754
+SMAD4_damaging_to_BRD4,KY,ACH-002029,Head and Neck,matrix_intact,-1.566930227922186
+SMAD4_damaging_to_BRD4,KY,ACH-002043,Head and Neck,matrix_intact,-1.0349671286542752
+SMAD4_damaging_to_BRD4,KY,ACH-002045,Head and Neck,matrix_intact,-1.3165720606288576
+SMAD4_damaging_to_BRD4,KY,ACH-002083,Peripheral Nervous System,matrix_intact,-1.25608142129966
+SMAD4_damaging_to_BRD4,KY,ACH-002105,Bone,matrix_intact,-1.1359014943403694
+SMAD4_damaging_to_BRD4,KY,ACH-002106,Bone,matrix_intact,-0.8420829159770097
+SMAD4_damaging_to_BRD4,KY,ACH-002109,Bone,matrix_intact,-1.9185929759620632
+SMAD4_damaging_to_BRD4,KY,ACH-002110,Bone,matrix_intact,-1.70292275402477
+SMAD4_damaging_to_BRD4,KY,ACH-002114,Bone,matrix_intact,-0.6682199696514571
+SMAD4_damaging_to_BRD4,KY,ACH-002116,Bone,matrix_intact,-0.4328031589083518
+SMAD4_damaging_to_BRD4,KY,ACH-002119,Bone,matrix_intact,-2.4881907149068967
+SMAD4_damaging_to_BRD4,KY,ACH-002140,Ovary/Fallopian Tube,matrix_intact,-1.351381259231476
+SMAD4_damaging_to_BRD4,KY,ACH-002141,Esophagus/Stomach,matrix_intact,-1.461483957302104
+SMAD4_damaging_to_BRD4,KY,ACH-002143,Skin,matrix_intact,-0.25691511673892037
+SMAD4_damaging_to_BRD4,KY,ACH-002150,Kidney,matrix_intact,-1.370169170394126
+SMAD4_damaging_to_BRD4,KY,ACH-002156,Lung,matrix_intact,-1.063780870692554
+SMAD4_damaging_to_BRD4,KY,ACH-002160,Bone,matrix_intact,-0.8855866500843957
+SMAD4_damaging_to_BRD4,KY,ACH-002161,Esophagus/Stomach,matrix_intact,-1.4027743168447637
+SMAD4_damaging_to_BRD4,KY,ACH-002179,Breast,matrix_intact,0.05314912285675233
+SMAD4_damaging_to_BRD4,KY,ACH-002181,Ovary/Fallopian Tube,matrix_intact,-1.6919274282112322
+SMAD4_damaging_to_BRD4,KY,ACH-002183,Ovary/Fallopian Tube,matrix_intact,-0.3945267003359765
+SMAD4_damaging_to_BRD4,KY,ACH-002186,Pancreas,matrix_intact,-1.351857661618988
+SMAD4_damaging_to_BRD4,KY,ACH-002189,Kidney,matrix_intact,-0.957973725614473
+SMAD4_damaging_to_BRD4,KY,ACH-002198,Other,matrix_intact,-0.3195321843250076
+SMAD4_damaging_to_BRD4,KY,ACH-002202,Esophagus/Stomach,matrix_intact,-0.9144787546984687
+SMAD4_damaging_to_BRD4,KY,ACH-002210,Myeloid,matrix_intact,-1.7101607581017373
+SMAD4_damaging_to_BRD4,KY,ACH-002212,Head and Neck,damaging,-1.3453542595282608
+SMAD4_damaging_to_BRD4,KY,ACH-002228,CNS/Brain,matrix_intact,-1.6008555283590749
+SMAD4_damaging_to_BRD4,KY,ACH-002229,CNS/Brain,matrix_intact,-1.0831537274727256
+SMAD4_damaging_to_BRD4,KY,ACH-002230,CNS/Brain,matrix_intact,-0.7073544318297755
+SMAD4_damaging_to_BRD4,KY,ACH-002233,Bowel,matrix_intact,-0.8396750212171442
+SMAD4_damaging_to_BRD4,KY,ACH-002234,Head and Neck,matrix_intact,-0.9781239693482222
+SMAD4_damaging_to_BRD4,KY,ACH-002239,Head and Neck,matrix_intact,-1.5684637645223967
+SMAD4_damaging_to_BRD4,KY,ACH-002243,Esophagus/Stomach,matrix_intact,-0.9181362196336241
+SMAD4_damaging_to_BRD4,KY,ACH-002247,Myeloid,matrix_intact,-1.9857932530785316
+SMAD4_damaging_to_BRD4,KY,ACH-002249,Head and Neck,matrix_intact,-2.0361365575297263
+SMAD4_damaging_to_BRD4,KY,ACH-002250,Head and Neck,matrix_intact,-0.7322171438500055
+SMAD4_damaging_to_BRD4,KY,ACH-002251,Head and Neck,matrix_intact,-1.6660884943251
+SMAD4_damaging_to_BRD4,KY,ACH-002257,CNS/Brain,matrix_intact,-0.9189329231687805
+SMAD4_damaging_to_BRD4,KY,ACH-002261,Peripheral Nervous System,matrix_intact,-0.8332317185255277
+SMAD4_damaging_to_BRD4,KY,ACH-002263,Esophagus/Stomach,matrix_intact,-2.1931248751499717
+SMAD4_damaging_to_BRD4,KY,ACH-002265,Head and Neck,matrix_intact,-0.858402911110344
+SMAD4_damaging_to_BRD4,KY,ACH-002269,CNS/Brain,matrix_intact,-0.17695865694723623
+SMAD4_damaging_to_BRD4,KY,ACH-002278,Peripheral Nervous System,matrix_intact,-1.1004441569240986
+SMAD4_damaging_to_BRD4,KY,ACH-002280,Peripheral Nervous System,matrix_intact,-0.7178733885334719
+SMAD4_damaging_to_BRD4,KY,ACH-002282,Peripheral Nervous System,matrix_intact,-0.891582984492024
+SMAD4_damaging_to_BRD4,KY,ACH-002283,Peripheral Nervous System,matrix_intact,-1.5941046074021792
+SMAD4_damaging_to_BRD4,KY,ACH-002284,Peripheral Nervous System,matrix_intact,-0.5132231952006941
+SMAD4_damaging_to_BRD4,KY,ACH-002285,Peripheral Nervous System,matrix_intact,-1.4166323997312353
+SMAD4_damaging_to_BRD4,KY,ACH-002294,Head and Neck,matrix_intact,-0.6243085320277287
+SMAD4_damaging_to_BRD4,KY,ACH-002295,Head and Neck,matrix_intact,-1.76785403267092
+SMAD4_damaging_to_BRD4,KY,ACH-002296,Head and Neck,matrix_intact,-1.4680639757815792
+SMAD4_damaging_to_BRD4,KY,ACH-002297,Head and Neck,damaging,-1.833519614219447
+SMAD4_damaging_to_BRD4,KY,ACH-002298,Head and Neck,matrix_intact,-2.110963899086295
+SMAD4_damaging_to_BRD4,KY,ACH-002304,CNS/Brain,matrix_intact,-1.2991660277541186
+SMAD4_damaging_to_BRD4,KY,ACH-002305,Head and Neck,matrix_intact,-1.3461239094395914

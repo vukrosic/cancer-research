@@ -21,7 +21,7 @@ uncertainty and artifact controls?
 
 ## Current phase
 
-Thirty bounded experiments are complete:
+Thirty-one bounded experiments are complete:
 
 - `EXP-20260822-001` passed the API engineering gate: all eight frozen genes had 177
   paired Broad/Sanger models and positive source correlations.
@@ -216,6 +216,13 @@ Thirty bounded experiments are complete:
   powers were `0.6686` and `0.4355`; no robust two-source BRCA1/2–CIP2A,
   biallelic-BRCA, HRD, pharmacologic, treatment, clinical, or confirmatory
   claim is permitted.
+- `EXP-20260822-031` is **T1 descriptive association only; not T2/confirmatory**
+  and is labeled **FEASIBILITY_ONLY_NOMINAL_GATE_FAILURE**. The SMAD4
+  damaging-matrix proxy did not transport to genetic BRD4 dependency: Avana was
+  positive and heterogeneous (delta `+0.0889`, p `0.8132`), while KY was
+  near-null and uncertain (delta `-0.0491`, p `0.3582`). Planning powers were
+  `0.6414` and `0.4630`; no functional-SMAD4, BET-inhibitor, BRD4-inhibitor,
+  treatment, clinical, or confirmatory claim is permitted.
 
 A label-only provenance audit found that the CRC-only cohort has only 7 MSI Broad
 models, below the independently proposed minimum of 8. That CRC-only gate remains a
@@ -254,6 +261,7 @@ uv run python -m candrel.arid1a_ezh2_replication  # expected exit 2; T1 feasibil
 uv run python -m candrel.tp53_tiparp_replication  # expected exit 2; T1 feasibility-only proxy/lineage-gate failure
 uv run python -m candrel.brca12_cip2a_replication  # expected exit 2; T1 feasibility-only lineage-gate failure
 uv run python -m candrel.brca12_polq_replication  # expected exit 2; T1 feasibility-only composite-proxy/source-discordance failure
+uv run python -m candrel.smad4_brd4_replication  # expected exit 2; T1 feasibility-only SMAD4/BRD4 transport failure
 ```
 
 Raw API responses are cached under `data/raw/` and excluded from Git. Every run
