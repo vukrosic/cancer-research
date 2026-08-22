@@ -60,7 +60,7 @@
     "null_permutations": 100000,
     "minimum_power_for_confirmatory_label": 0.8
   },
-  "code_commit_before_implementation": "ec2e893fb0de7e3f579d19ed6ae5eb3103c345a9",
+  "code_commit_before_implementation": "3d088442fe86d14c8258f54e58a01a81a995f940",
   "uv_lock_sha256": "d09301a2eff28d69c3e0b504d4cdae5ed21c1e451efb92e60f360ebf047106dd",
   "outcome_loaded_only_after_context_adequacy": true,
   "expected_output": "experiments/EXP-20260822-014/results/summary.json"

@@ -25,6 +25,7 @@ candrel-wrn-guide-loo = "candrel.wrn_guide_loo:main"
 candrel-wrn-sequence-semantics = "candrel.wrn_sequence_semantics:main"
 candrel-wrn-guide-loo-passing = "candrel.wrn_guide_loo_passing:main"
 candrel-wrn-process-association = "candrel.wrn_process_association:main"
+candrel-paralog-replication = "candrel.paralog_replication:main"
 
 [build-system]
 requires = ["hatchling"]
