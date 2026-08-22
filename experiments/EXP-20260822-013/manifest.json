@@ -1,0 +1,64 @@
+{
+  "experiment_id": "EXP-20260822-013",
+  "parent_id": "EXP-20260822-005",
+  "frozen_at": "2026-08-22T14:18:00+02:00",
+  "analysis_type": "preregistered_same_assay_model_parameter_association_after_endpoint_unsealing",
+  "entrypoint": "uv run candrel-wrn-process-association",
+  "inputs": {
+    "efficacy_file": {
+      "path": "data/raw/depmap/23q4/CRISPRInferredModelEfficacy.csv",
+      "sha256": "a64065456d8d1e83d2fac94fc7e3ae28e65272cd2a45c3fa969848555f0b7aa0",
+      "source_columns": {
+        "Avana": "Achilles-Avana-2D",
+        "KY": "Achilles-KY-2D"
+      }
+    },
+    "growth_rate_file": {
+      "path": "data/raw/depmap/23q4/CRISPRInferredModelGrowthRate.csv",
+      "sha256": "4f2f4a9f80af1e9862319156f9a8de38d677797074823bebec7853060550f29c",
+      "source_columns": {
+        "Avana": "Achilles-Avana-2D",
+        "KY": "Achilles-KY-2D"
+      }
+    },
+    "denominator_file": {
+      "path": "experiments/EXP-20260822-003/results/model_scores.csv",
+      "sha256": "072dd2775d4e3bfaa480cd70639cc799c1e5914b2e9cc5213328383557680654"
+    },
+    "outcome_gap_file": {
+      "path": "experiments/EXP-20260822-005/results/model_percentile_gaps.csv",
+      "sha256": "f2dc22d9c26f937413b612ae4924f1965c837e480a805c1ff0b7b0c5d8b3cd4a"
+    }
+  },
+  "denominators": {
+    "Avana|Large Intestine": 25,
+    "KY|Large Intestine": 30,
+    "Avana|Ovary": 22,
+    "KY|Ovary": 26,
+    "total_source_records": 103
+  },
+  "paired_models": {
+    "Large Intestine": 17,
+    "Ovary": 17,
+    "total": 34
+  },
+  "primary_parameter": "inferred_model_efficacy",
+  "companion_parameter": "inferred_model_growth_rate_descriptive_only",
+  "adequacy": {
+    "minimum_distinct_paired_exposures_per_tissue": 10,
+    "maximum_tied_exposure_level_per_tissue": 8,
+    "minimum_pairs_per_tissue": 15
+  },
+  "inference": {
+    "seed": 20260830,
+    "permutations": 100000,
+    "bootstraps": 10000,
+    "point_target_theta": 0.4,
+    "permutation_p_max": 0.05,
+    "bootstrap_lower_min": 0.1,
+    "minimum_tissue_rho": -0.2
+  },
+  "outcome_loaded_only_after_adequacy": true,
+  "code_commit_before_implementation": "b9f7b0436e316aeffa0d04fbcced74188bc87dfd",
+  "expected_output": "experiments/EXP-20260822-013/results/summary.json"
+}
