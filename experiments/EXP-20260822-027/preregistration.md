@@ -41,6 +41,8 @@ The result is permanently labeled `FEASIBILITY_ONLY`; no confirmatory claim is e
 - Inference seeds: Avana 20272700; KY 20272800.
 - Score distributions and ordering are frozen by the implementation manifest.
 
+The executable frozen engine yields planning critical deltas of -0.1213903743315508 (Avana) and -0.18319719953325556 (KY), with simulated powers 0.8621 and 0.5760. These replace an initial local planning printout from a status-label helper; the target pair and all outcome-free context counts were unchanged, and no endpoint value was opened.
+
 ## Claim boundary
 
 The strongest permitted conclusion is a source-specific association between the frozen matrix proxy and EZH2 dependency in frozen 23Q4 cell-line screens. The analysis cannot claim functional ARID1A loss, ovarian-specific biology, pharmacologic EZH2 inhibition, causal synthetic lethality, inhibitor response, treatment benefit, or clinical utility.

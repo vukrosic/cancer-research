@@ -6,7 +6,7 @@
   "endpoint_access": "ScreenNaiveGeneScore.csv header identity only; no EZH2 score row or target value parsed",
   "eligibility_rule": "PassesQC == True, CanInclude == True, Library in {Avana, KY}, exact ScreenID-to-ModelID map, nonblank eligible OncotreeLineage",
   "status_rule": "matrix values restricted to {0,1,2}; primary exposure is ARID1A damaging value >= 1 and reference is ARID1A matrix value == 0",
-  "selection_basis": "ARID1A-to-EZH2 is a distinct target direction after the completed ARID1A-to-ARID1B and ARID1A-to-KEAP1 audits. Primary Nature Medicine work experimentally reports synthetic lethality between ARID1A mutation and EZH2 inhibition in ovarian cancer models. EXP027 audits transportability to source-specific EZH2 knockout dependency using the frozen 23Q4 DepMap cohort. KY planning power is 0.5716, so the paired experiment is permanently feasibility-only.",
+  "selection_basis": "ARID1A-to-EZH2 is a distinct target direction after the completed ARID1A-to-ARID1B and ARID1A-to-KEAP1 audits. Primary Nature Medicine work experimentally reports synthetic lethality between ARID1A mutation and EZH2 inhibition in ovarian cancer models. EXP027 audits transportability to source-specific EZH2 knockout dependency using the frozen 23Q4 DepMap cohort. KY planning power is 0.5760, so the paired experiment is permanently feasibility-only.",
   "distinctness_contract": {
     "prior_experiments": ["EXP-20260822-014", "EXP-20260822-015", "EXP-20260822-016", "EXP-20260822-017", "EXP-20260822-018", "EXP-20260822-019", "EXP-20260822-020", "EXP-20260822-021", "EXP-20260822-022", "EXP-20260822-023", "EXP-20260822-024", "EXP-20260822-025", "EXP-20260822-026"],
     "prior_pairs_excluded": ["STAG2_damaging_to_STAG1", "PDS5B_damaging_to_PDS5A", "ARID1A_damaging_to_ARID1B", "ARID1A_damaging_to_KEAP1", "TP53_matrix_intact_to_MDM2", "CDKN2A_damaging_to_TYMS", "PTEN_damaging_to_PIK3CB", "TP53_damaging_to_WEE1", "NF1_damaging_to_PTPN11", "EP300_damaging_to_CREBBP", "APC_damaging_to_TDO2", "KMT2D_damaging_to_KMT2C", "CDKN2A_damaging_to_PELO", "PTEN_damaging_to_PAPSS1"],
@@ -29,8 +29,8 @@
       "target_gene": "EZH2",
       "target_column": "EZH2 (2146)",
       "exposure_definition": "damaging matrix value >= 1",
-      "Avana": {"damaging": 101, "matrix_intact": 874, "mixed_lineages": 19, "planning_power": 0.8643},
-      "KY": {"damaging": 43, "matrix_intact": 272, "mixed_lineages": 11, "planning_power": 0.5716},
+      "Avana": {"damaging": 101, "matrix_intact": 874, "mixed_lineages": 19, "planning_power": 0.8621},
+      "KY": {"damaging": 43, "matrix_intact": 272, "mixed_lineages": 11, "planning_power": 0.5760},
       "decision": "selected_distinct_primary_literature_interaction_but_feasibility_only",
       "primary_source": "https://www.nature.com/articles/nm.3799"
     },
@@ -62,7 +62,7 @@
     "null_permutations": 100000,
     "alternative_simulations": 10000,
     "planning_power_seeds": {"Avana": 20262700, "KY": 20262800},
-    "canonical_roster_sha256": "b17fc6c02aa5b747dd588eafb9c4bcc25c378f6cd70ff5412fe78c6168d80c74",
+    "canonical_roster_sha256": "62f8bf69649eb375de12daed222a50a4bc3b3df39c40f0e614845fbab12ab9ed",
     "design_receipt_path": "experiments/EXP-20260822-027/design_census_receipt.json",
     "critical_quantile": "numpy_linear_05",
     "rejection_rule": "alternative_delta <= critical_delta",

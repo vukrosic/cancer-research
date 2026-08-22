@@ -7,7 +7,7 @@
     "serialization": "one compact sorted-key JSON object per sorted (source, ModelID) row followed by LF",
     "row_fields": ["source", "model_id", "lineage", "screen_ids", "matrix_value", "status"],
     "status_labels": {"damaging": "ARID1A matrix value >= 1", "matrix_intact": "ARID1A matrix value == 0"},
-    "sha256": "b17fc6c02aa5b747dd588eafb9c4bcc25c378f6cd70ff5412fe78c6168d80c74"
+    "sha256": "62f8bf69649eb375de12daed222a50a4bc3b3df39c40f0e614845fbab12ab9ed"
   },
   "source_model_counts": {"Avana": 975, "KY": 315},
   "source_status_counts": {"Avana": {"damaging": 101, "matrix_intact": 874}, "KY": {"damaging": 43, "matrix_intact": 272}},
@@ -36,9 +36,9 @@
     "rejection_rule": "alternative_delta <= critical_delta"
   },
   "planning_receipts": {
-    "Avana": {"seed": 20262700, "critical_delta": -0.1213903743315508, "simulated_power": 0.8643, "confirmatory_power_adequate": true},
-    "KY": {"seed": 20262800, "critical_delta": -0.1808634772462077, "simulated_power": 0.5716, "confirmatory_power_adequate": false}
+    "Avana": {"seed": 20262700, "critical_delta": -0.1213903743315508, "simulated_power": 0.8621, "confirmatory_power_adequate": true},
+    "KY": {"seed": 20262800, "critical_delta": -0.18319719953325556, "simulated_power": 0.576, "confirmatory_power_adequate": false}
   },
   "sealed_before_endpoint": true,
-  "receipt_sha256": "3ca2a9dec2f2e747bdb21e3643b23bcf27c79f0b4bc2fcbaa6261d3f64ecf18c"
+  "receipt_sha256": "0b38286f8fe6ad583090e1a0da8be4cd9aa12edc370c2b8b5110dba973e633d6"
 }

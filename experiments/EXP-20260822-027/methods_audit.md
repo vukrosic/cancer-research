@@ -10,7 +10,7 @@ Eligible screens are filtered by the frozen QC flags and library names. Screen I
 
 ## Design sensitivity
 
-Planning uses the same lineage-stratified rank-delta estimator as the execution analysis. Null scores are independent `Normal(0,1)` draws and the alternative gives damaging models a mean shift of `-0.358286909243`, with separate PCG64 streams per source. The frozen rejection quantile is NumPy's linear 0.05 quantile of 100,000 null draws. Simulated power is 0.8643 for Avana and 0.5716 for KY; the paired record is feasibility-only.
+Planning uses the same lineage-stratified rank-delta estimator as the execution analysis. Null scores are independent `Normal(0,1)` draws and the alternative gives damaging models a mean shift of `-0.358286909243`, with separate PCG64 streams per source. The frozen rejection quantile is NumPy's linear 0.05 quantile of 100,000 null draws. Simulated power is 0.8621 for Avana and 0.5760 for KY; the paired record is feasibility-only. An initial local helper printout used different status labels and produced 0.8643/0.5716; the executable engine check corrected the receipt before implementation and before any endpoint value was opened.
 
 ## Audit constraints
 
