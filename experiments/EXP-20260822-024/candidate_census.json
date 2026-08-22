@@ -1,0 +1,90 @@
+{
+  "census_id": "EXP024-candidate-shortlist-20260822",
+  "census_at": "2026-08-22T19:38:00+0200",
+  "purpose": "Outcome-free selection of a distinct KMT2D-status-to-KMT2C-dependency direction",
+  "endpoint_values_opened": false,
+  "endpoint_access": "ScreenNaiveGeneScore.csv header identity only; no KMT2C score row or target value parsed",
+  "eligibility_rule": "PassesQC == True, CanInclude == True, Library in {Avana, KY}, exact ScreenID-to-ModelID map, nonblank eligible OncotreeLineage",
+  "status_rule": "matrix values restricted to {0,1,2}; primary exposure is KMT2D damaging value >= 1 and reference is KMT2D matrix value == 0",
+  "selection_basis": "KMT2D-damaging-to-KMT2C has the strongest current two-source metadata balance among fresh candidates after EXP023, with 86/33 damaging models and 17/11 mixed lineages. An emerging 2026 CRISPR study reports KMT2C as a top dependency in KMT2D-null lymphoma, making cross-source generalization unresolved. Avana planning power exceeds 0.80 but KY does not, so the paired experiment is permanently feasibility-only.",
+  "distinctness_contract": {
+    "prior_experiments": ["EXP-20260822-014", "EXP-20260822-015", "EXP-20260822-016", "EXP-20260822-017", "EXP-20260822-018", "EXP-20260822-019", "EXP-20260822-020", "EXP-20260822-021", "EXP-20260822-022", "EXP-20260822-023"],
+    "prior_pairs_excluded": ["STAG2_damaging_to_STAG1", "PDS5B_damaging_to_PDS5A", "ARID1A_damaging_to_ARID1B", "ARID1A_damaging_to_KEAP1", "TP53_matrix_intact_to_MDM2", "CDKN2A_damaging_to_TYMS", "PTEN_damaging_to_PIK3CB", "TP53_damaging_to_WEE1", "NF1_damaging_to_PTPN11", "EP300_damaging_to_CREBBP", "APC_damaging_to_TDO2"],
+    "current_pair": "KMT2D_damaging_to_KMT2C",
+    "endpoint_gene_changed": true,
+    "status_gene_changed": true
+  },
+  "inputs": {
+    "screen_qc_sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407",
+    "screen_map_sha256": "1e2bf9075600cd049dafc385866991523c65806657f3c8bd71afde3fe00ee9ad",
+    "model_sha256": "6b77a73209ce3faaa7442dbd947d8e08ddcb08b538c36fe820163f9cff321341",
+    "damaging_matrix_sha256": "aea4d970c0876afb90d2dc0e2709ff28be5a84e4e246f3a5a31faaba0fbc47e3",
+    "endpoint_sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721",
+    "endpoint_target_column": "KMT2C (58508)"
+  },
+  "candidate_shortlist": [
+    {
+      "status_gene": "KMT2D",
+      "status_column": "KMT2D (8085)",
+      "target_gene": "KMT2C",
+      "target_column": "KMT2C (58508)",
+      "exposure_definition": "damaging matrix value >= 1",
+      "Avana": {"damaging": 86, "matrix_intact": 889, "mixed_lineages": 17, "planning_power": 0.8433},
+      "KY": {"damaging": 33, "matrix_intact": 282, "mixed_lineages": 11, "planning_power": 0.512},
+      "decision": "selected_strongest_fresh_two_source_balance_but_feasibility_only",
+      "primary_source": "https://doi.org/10.1158/1538-7445.AM2026-7060"
+    },
+    {
+      "status_gene": "APC",
+      "status_column": "APC (324)",
+      "target_gene": "TDO2",
+      "target_column": "TDO2 (6999)",
+      "exposure_definition": "damaging matrix value >= 1",
+      "Avana": {"damaging": 54, "matrix_intact": 921, "mixed_lineages": 11},
+      "KY": {"damaging": 30, "matrix_intact": 285, "mixed_lineages": 5},
+      "decision": "excluded_completed_EXP023_source_discordance",
+      "primary_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9262860/"
+    },
+    {
+      "status_gene": "SMARCA4",
+      "status_column": "SMARCA4 (6597)",
+      "target_gene": "SMARCA2",
+      "target_column": "SMARCA2 (6595)",
+      "exposure_definition": "damaging matrix value >= 1",
+      "Avana": {"damaging": 51, "matrix_intact": 924, "mixed_lineages": 16},
+      "KY": {"damaging": 13, "matrix_intact": 302, "mixed_lineages": 5},
+      "decision": "not_selected_KY_exposure_below_frozen_minimum",
+      "primary_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6691015/"
+    },
+    {
+      "status_gene": "BRCA2",
+      "status_column": "BRCA2 (675)",
+      "target_gene": "POLQ",
+      "target_column": "POLQ (10721)",
+      "exposure_definition": "damaging matrix value >= 1",
+      "Avana": {"damaging": 29, "matrix_intact": 946, "mixed_lineages": 13},
+      "KY": {"damaging": 17, "matrix_intact": 298, "mixed_lineages": 8},
+      "decision": "not_selected_KY_exposure_below_frozen_minimum",
+      "primary_source": "https://doi.org/10.1038/nature14184"
+    }
+  ],
+  "design_model": {
+    "normal_mean_shift": -0.358286909243,
+    "null_permutations": 100000,
+    "alternative_simulations": 10000,
+    "planning_power_seeds": {"Avana": 20262400, "KY": 20262500},
+    "canonical_roster_sha256": "e8f440a118065e4fc23535dca196c03b8c9a08b9a4f4348516f214d19b2e9164",
+    "design_receipt_path": "experiments/EXP-20260822-024/design_census_receipt.json",
+    "design_receipt_normalized_sha256": "dde5a09e73c1dd6744704a67ad5754fccfc8bee95bd4bf383f670e3799682263",
+    "critical_quantile": "numpy_linear_05",
+    "rejection_rule": "alternative_delta <= critical_delta",
+    "confirmatory_power_threshold": 0.8,
+    "frozen_label": "FEASIBILITY_ONLY"
+  },
+  "literature_search": {
+    "searched_at": "2026-08-22",
+    "primary_source": "https://doi.org/10.1158/1538-7445.AM2026-7060",
+    "secondary_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4676270/",
+    "selection_note": "The 2026 AACR abstract reports KMT2C as a top CRISPR dependency in KMT2D-null DLBCL and validates the interaction in KMT2D isogenic models. EXP024 tests only a matrix-defined KMT2D proxy against source-specific KMT2C knockout dependency and does not claim functional KMT2D loss, lymphoma-specific causality, paralog causality, inhibitor response, treatment benefit, or clinical utility."
+  }
+}
