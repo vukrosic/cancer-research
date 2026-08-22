@@ -1,0 +1,175 @@
+{
+  "analysis_label": "FEASIBILITY_ONLY",
+  "analysis_type": "preregistered_source_specific_lineage_stratified_kmt2d_kmt2c_replication",
+  "artifact_receipt_sha256": {
+    "context_ledger.csv": "95af290eb5384cf360156709c42087e3c5013ca9087b617f48dde3ec15ee0c49",
+    "design_sensitivity.csv": "e33a2556ac46ca617749095e8d78f8bc6210a2c62ed9349f9fb4c0125fdeb4e8",
+    "endpoint_scores.csv": "f91af4e96a2b0598249cbce23fb4d84dc6dd5c71210472c37232681d6a96baf7",
+    "inference.csv": "46b6e6778098baf5486112f5817df1133f718386f6dfb5876d95176c1674c235",
+    "summary.json": "4efb6a9fec2a73e25e133c29d8abd7540af0c6868e535270d63e3e5f2703c4ab"
+  },
+  "claim_boundary": "damaging-matrix KMT2D status association with source-specific KMT2C dependency in frozen 23Q4 screen cohorts; no functional-KMT2D, KMT2D-null, lymphoma-specific, paralog-causal, KMT2C-inhibitor, treatment, clinical, or confirmatory claim",
+  "claim_eligibility": {
+    "design_sensitivity_label": "FEASIBILITY_ONLY",
+    "nominal_primary_gates_pass": false,
+    "primary_confirmatory": false
+  },
+  "confirmatory_claim": false,
+  "context_receipt": {
+    "canonical_roster_sha256": "e8f440a118065e4fc23535dca196c03b8c9a08b9a4f4348516f214d19b2e9164",
+    "context_ledger_sha256": "95af290eb5384cf360156709c42087e3c5013ca9087b617f48dde3ec15ee0c49",
+    "damaging_sha256": "aea4d970c0876afb90d2dc0e2709ff28be5a84e4e246f3a5a31faaba0fbc47e3",
+    "eligible_screens": 1292,
+    "eligible_source_models": {
+      "Avana": 975,
+      "KY": 315
+    },
+    "mixed_lineages": {
+      "Avana": 17,
+      "KY": 11
+    },
+    "model_sha256": "6b77a73209ce3faaa7442dbd947d8e08ddcb08b538c36fe820163f9cff321341",
+    "screen_map_sha256": "1e2bf9075600cd049dafc385866991523c65806657f3c8bd71afde3fe00ee9ad",
+    "screen_qc_sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407",
+    "status_column": "KMT2D (8085)",
+    "status_counts": {
+      "Avana": {
+        "damaging": 86,
+        "matrix_intact": 889
+      },
+      "KY": {
+        "damaging": 33,
+        "matrix_intact": 282
+      }
+    },
+    "status_threshold": 1,
+    "unique_model_ids": 1098
+  },
+  "design_sensitivity": {
+    "all_primary_sources_power_adequate": false,
+    "confirmatory_claim_enabled": false,
+    "design_sensitivity_sha256": "e33a2556ac46ca617749095e8d78f8bc6210a2c62ed9349f9fb4c0125fdeb4e8",
+    "frozen_label": "FEASIBILITY_ONLY",
+    "minimum_confirmatory_power": 0.8
+  },
+  "endpoint_receipt": {
+    "eligible_screens_expected": 1292,
+    "eligible_screens_seen": 1292,
+    "median_collapse": true,
+    "model_values": 1290,
+    "sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721"
+  },
+  "experiment_id": "EXP-20260822-024",
+  "implementation_receipt": {
+    "engine_module": "src/candrel/tp53_mdm2_replication.py",
+    "implementation_commit": "f6ea8341bcbabd0ca15c009c52d868222ec9dc3e",
+    "implementation_module": "src/candrel/kmt2d_kmt2c_replication.py",
+    "manifest_path": "experiments/EXP-20260822-024/manifest.json",
+    "required_base_commit": "311d6b212f9c3c7564e4279ee41fbd59eab61f3e",
+    "uv_lock_sha256": "d09301a2eff28d69c3e0b504d4cdae5ed21c1e451efb92e60f360ebf047106dd"
+  },
+  "inference_receipt": {
+    "bootstrap_interval": "percentile_95_linear_quantile",
+    "bootstraps": 10000,
+    "cross_source_raw_score_comparison": false,
+    "design_seeds": {
+      "Avana": 20262400,
+      "KY": 20262500
+    },
+    "inference_seeds": {
+      "Avana": 20272400,
+      "KY": 20272500
+    },
+    "permutations": 100000,
+    "unit": "collapsed_source_model_id"
+  },
+  "overall_pass": false,
+  "pre_endpoint_receipt": {
+    "context_ledger_sha256": "95af290eb5384cf360156709c42087e3c5013ca9087b617f48dde3ec15ee0c49",
+    "design_sensitivity_sha256": "e33a2556ac46ca617749095e8d78f8bc6210a2c62ed9349f9fb4c0125fdeb4e8",
+    "experiment_id": "EXP-20260822-024",
+    "receipt_sha256": "9d6543bc1457eea3741b4eda3c947b3de20de743908126a63e0fb1d00c6948d1",
+    "sealed_before_endpoint": true
+  },
+  "primary": [
+    {
+      "bootstrap_ci_95_percentile": [
+        -0.3259723964868256,
+        -0.024843161856963614
+      ],
+      "bootstrap_repeats": 10000,
+      "delta": -0.1779171894604768,
+      "gates": {
+        "at_least_5_negative_lineages": true,
+        "bootstrap_upper_lt_0": true,
+        "delta_le_minus_0_20": false,
+        "delta_lt_0": true,
+        "no_lineage_delta_gt_plus_0_20": false,
+        "permutation_p_le_0_05": true
+      },
+      "lineage_deltas": {
+        "Ampulla of Vater": 1.0,
+        "Biliary Tract": 0.15625,
+        "Bladder/Urinary Tract": -0.08571428571428572,
+        "Bone": 0.8571428571428571,
+        "Bowel": -0.09210526315789473,
+        "Breast": 0.7142857142857143,
+        "Cervix": 0.1111111111111111,
+        "Esophagus/Stomach": -0.10119047619047619,
+        "Head and Neck": 0.20408163265306123,
+        "Kidney": -0.5882352941176471,
+        "Lung": -0.46094609460946095,
+        "Lymphoid": -0.09533468559837728,
+        "Myeloid": -0.4166666666666667,
+        "Ovary/Fallopian Tube": -0.43703703703703706,
+        "Pancreas": 0.05263157894736842,
+        "Skin": -0.2698412698412698,
+        "Uterus": -0.05555555555555555
+      },
+      "pair_count": 3985,
+      "pair_id": "KMT2D_damaging_to_KMT2C",
+      "pass": false,
+      "permutation_extreme_count": 977,
+      "permutation_p_one_sided_lower": 0.00977990220097799,
+      "permutation_repeats": 100000,
+      "source": "Avana"
+    },
+    {
+      "bootstrap_ci_95_percentile": [
+        -0.14330655957161975,
+        0.3413654618473896
+      ],
+      "bootstrap_repeats": 10000,
+      "delta": 0.10040160642570281,
+      "gates": {
+        "at_least_5_negative_lineages": true,
+        "bootstrap_upper_lt_0": false,
+        "delta_le_minus_0_20": false,
+        "delta_lt_0": false,
+        "no_lineage_delta_gt_plus_0_20": false,
+        "permutation_p_le_0_05": false
+      },
+      "lineage_deltas": {
+        "Bone": 1.0,
+        "Bowel": 0.45454545454545453,
+        "CNS/Brain": -0.25806451612903225,
+        "Esophagus/Stomach": -0.08235294117647059,
+        "Head and Neck": 0.1935483870967742,
+        "Lung": 0.02857142857142857,
+        "Lymphoid": 0.23809523809523808,
+        "Ovary/Fallopian Tube": -0.16,
+        "Pancreas": 1.0,
+        "Prostate": -1.0,
+        "Uterus": -0.7333333333333333
+      },
+      "pair_count": 747,
+      "pair_id": "KMT2D_damaging_to_KMT2C",
+      "pass": false,
+      "permutation_extreme_count": 79715,
+      "permutation_p_one_sided_lower": 0.7971520284797152,
+      "permutation_repeats": 100000,
+      "source": "KY"
+    }
+  ],
+  "status": "FEASIBILITY_ONLY_NOMINAL_GATE_FAILURE"
+}

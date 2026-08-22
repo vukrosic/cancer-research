@@ -1,0 +1,1291 @@
+pair_id,source,model_id,lineage,status,target_score
+KMT2D_damaging_to_KMT2C,Avana,ACH-000004,Myeloid,matrix_intact,0.2900308399477529
+KMT2D_damaging_to_KMT2C,Avana,ACH-000005,Myeloid,matrix_intact,0.06603862869929075
+KMT2D_damaging_to_KMT2C,Avana,ACH-000007,Bowel,matrix_intact,-0.2107464875140921
+KMT2D_damaging_to_KMT2C,Avana,ACH-000009,Bowel,matrix_intact,-0.24157397220436685
+KMT2D_damaging_to_KMT2C,Avana,ACH-000011,Bladder/Urinary Tract,matrix_intact,-0.9855650350401931
+KMT2D_damaging_to_KMT2C,Avana,ACH-000012,Lung,matrix_intact,-0.3247717459732217
+KMT2D_damaging_to_KMT2C,Avana,ACH-000013,Ovary/Fallopian Tube,matrix_intact,0.02004474388237029
+KMT2D_damaging_to_KMT2C,Avana,ACH-000015,Lung,matrix_intact,-0.2945930540191548
+KMT2D_damaging_to_KMT2C,Avana,ACH-000017,Breast,matrix_intact,-0.6336295166772875
+KMT2D_damaging_to_KMT2C,Avana,ACH-000018,Bladder/Urinary Tract,matrix_intact,0.25336427126374605
+KMT2D_damaging_to_KMT2C,Avana,ACH-000019,Breast,matrix_intact,0.008568816071898366
+KMT2D_damaging_to_KMT2C,Avana,ACH-000021,Lung,matrix_intact,0.1298472355637914
+KMT2D_damaging_to_KMT2C,Avana,ACH-000022,Pancreas,matrix_intact,-0.34106729245775913
+KMT2D_damaging_to_KMT2C,Avana,ACH-000024,Lymphoid,damaging,-0.7678157573847684
+KMT2D_damaging_to_KMT2C,Avana,ACH-000025,CNS/Brain,matrix_intact,0.44621464413108824
+KMT2D_damaging_to_KMT2C,Avana,ACH-000028,Breast,matrix_intact,-0.3576022438613744
+KMT2D_damaging_to_KMT2C,Avana,ACH-000029,Lung,matrix_intact,0.10677351472931652
+KMT2D_damaging_to_KMT2C,Avana,ACH-000030,Lung,matrix_intact,-0.027733767094171517
+KMT2D_damaging_to_KMT2C,Avana,ACH-000035,Lung,matrix_intact,-0.3422592166182108
+KMT2D_damaging_to_KMT2C,Avana,ACH-000036,CNS/Brain,matrix_intact,-0.6720486596148487
+KMT2D_damaging_to_KMT2C,Avana,ACH-000037,Soft Tissue,matrix_intact,0.021133720422581447
+KMT2D_damaging_to_KMT2C,Avana,ACH-000039,Bone,matrix_intact,-0.1888356238592321
+KMT2D_damaging_to_KMT2C,Avana,ACH-000040,CNS/Brain,matrix_intact,-0.23971399242097705
+KMT2D_damaging_to_KMT2C,Avana,ACH-000041,Bone,matrix_intact,-0.06487966110588454
+KMT2D_damaging_to_KMT2C,Avana,ACH-000042,Pancreas,matrix_intact,-0.02681233181706188
+KMT2D_damaging_to_KMT2C,Avana,ACH-000045,Myeloid,matrix_intact,0.688093900534303
+KMT2D_damaging_to_KMT2C,Avana,ACH-000047,Esophagus/Stomach,damaging,-0.10570581538046443
+KMT2D_damaging_to_KMT2C,Avana,ACH-000048,Ovary/Fallopian Tube,matrix_intact,0.17678044227319215
+KMT2D_damaging_to_KMT2C,Avana,ACH-000052,Bone,matrix_intact,-0.21050115326870733
+KMT2D_damaging_to_KMT2C,Avana,ACH-000053,Lymphoid,matrix_intact,-0.613791181527253
+KMT2D_damaging_to_KMT2C,Avana,ACH-000054,Soft Tissue,matrix_intact,0.1261078125844795
+KMT2D_damaging_to_KMT2C,Avana,ACH-000055,CNS/Brain,matrix_intact,0.18926351507035716
+KMT2D_damaging_to_KMT2C,Avana,ACH-000060,Pancreas,matrix_intact,0.34997352923974917
+KMT2D_damaging_to_KMT2C,Avana,ACH-000067,CNS/Brain,matrix_intact,-0.42638666185578694
+KMT2D_damaging_to_KMT2C,Avana,ACH-000070,Lymphoid,damaging,0.02702813899667286
+KMT2D_damaging_to_KMT2C,Avana,ACH-000074,Myeloid,matrix_intact,0.5155213154014269
+KMT2D_damaging_to_KMT2C,Avana,ACH-000075,CNS/Brain,matrix_intact,-0.06604338203310114
+KMT2D_damaging_to_KMT2C,Avana,ACH-000076,Myeloid,matrix_intact,1.5219049809522516
+KMT2D_damaging_to_KMT2C,Avana,ACH-000077,Lymphoid,matrix_intact,-0.3228506125619458
+KMT2D_damaging_to_KMT2C,Avana,ACH-000078,Peripheral Nervous System,matrix_intact,-0.22015367536964742
+KMT2D_damaging_to_KMT2C,Avana,ACH-000082,Bone,matrix_intact,0.05578154049204228
+KMT2D_damaging_to_KMT2C,Avana,ACH-000085,Pancreas,matrix_intact,0.08748399789441297
+KMT2D_damaging_to_KMT2C,Avana,ACH-000086,Pleura,matrix_intact,0.06376709262000138
+KMT2D_damaging_to_KMT2C,Avana,ACH-000090,Prostate,matrix_intact,-0.03949130741104295
+KMT2D_damaging_to_KMT2C,Avana,ACH-000092,Pleura,matrix_intact,0.2730939208396621
+KMT2D_damaging_to_KMT2C,Avana,ACH-000093,Pancreas,matrix_intact,1.1659159809485693
+KMT2D_damaging_to_KMT2C,Avana,ACH-000095,CNS/Brain,matrix_intact,-0.761514152967866
+KMT2D_damaging_to_KMT2C,Avana,ACH-000097,Breast,matrix_intact,1.143102661926973
+KMT2D_damaging_to_KMT2C,Avana,ACH-000098,CNS/Brain,matrix_intact,-0.06944207879902903
+KMT2D_damaging_to_KMT2C,Avana,ACH-000099,Peripheral Nervous System,matrix_intact,-0.6770643806568701
+KMT2D_damaging_to_KMT2C,Avana,ACH-000101,Lymphoid,matrix_intact,-0.3255212471221457
+KMT2D_damaging_to_KMT2C,Avana,ACH-000108,Pancreas,matrix_intact,-0.11644135663272258
+KMT2D_damaging_to_KMT2C,Avana,ACH-000111,Breast,matrix_intact,0.5328766390575885
+KMT2D_damaging_to_KMT2C,Avana,ACH-000113,Myeloid,matrix_intact,0.5288454673116334
+KMT2D_damaging_to_KMT2C,Avana,ACH-000114,Pancreas,matrix_intact,-0.19778312637154988
+KMT2D_damaging_to_KMT2C,Avana,ACH-000115,Prostate,matrix_intact,-0.246749965000042
+KMT2D_damaging_to_KMT2C,Avana,ACH-000118,Pancreas,matrix_intact,0.4942960191672266
+KMT2D_damaging_to_KMT2C,Avana,ACH-000120,Peripheral Nervous System,matrix_intact,-0.03615547515247611
+KMT2D_damaging_to_KMT2C,Avana,ACH-000123,Ovary/Fallopian Tube,matrix_intact,-0.22302043353240783
+KMT2D_damaging_to_KMT2C,Avana,ACH-000127,Bladder/Urinary Tract,matrix_intact,-0.17856871361784346
+KMT2D_damaging_to_KMT2C,Avana,ACH-000128,CNS/Brain,matrix_intact,0.5612269232175007
+KMT2D_damaging_to_KMT2C,Avana,ACH-000132,Ovary/Fallopian Tube,matrix_intact,0.32311208837478567
+KMT2D_damaging_to_KMT2C,Avana,ACH-000133,Soft Tissue,matrix_intact,0.007744790463994122
+KMT2D_damaging_to_KMT2C,Avana,ACH-000137,CNS/Brain,matrix_intact,0.3143167469813241
+KMT2D_damaging_to_KMT2C,Avana,ACH-000138,Pancreas,matrix_intact,0.06945415914247827
+KMT2D_damaging_to_KMT2C,Avana,ACH-000141,Biliary Tract,matrix_intact,0.029936133072188696
+KMT2D_damaging_to_KMT2C,Avana,ACH-000142,Bladder/Urinary Tract,matrix_intact,-0.5518035049213391
+KMT2D_damaging_to_KMT2C,Avana,ACH-000143,Lung,matrix_intact,0.0713498642758946
+KMT2D_damaging_to_KMT2C,Avana,ACH-000145,Soft Tissue,matrix_intact,0.0012205453317959865
+KMT2D_damaging_to_KMT2C,Avana,ACH-000146,Myeloid,matrix_intact,-0.2353046940569126
+KMT2D_damaging_to_KMT2C,Avana,ACH-000147,Breast,matrix_intact,-0.19489251245933745
+KMT2D_damaging_to_KMT2C,Avana,ACH-000148,Breast,matrix_intact,-0.1871071047196059
+KMT2D_damaging_to_KMT2C,Avana,ACH-000151,Lymphoid,damaging,-0.259902774564702
+KMT2D_damaging_to_KMT2C,Avana,ACH-000152,CNS/Brain,matrix_intact,-0.11522976793764046
+KMT2D_damaging_to_KMT2C,Avana,ACH-000153,Pleura,matrix_intact,0.012963466506637752
+KMT2D_damaging_to_KMT2C,Avana,ACH-000159,Kidney,matrix_intact,0.20297758917721298
+KMT2D_damaging_to_KMT2C,Avana,ACH-000160,CNS/Brain,matrix_intact,0.17629866860572335
+KMT2D_damaging_to_KMT2C,Avana,ACH-000161,Lung,damaging,-1.0105005028528131
+KMT2D_damaging_to_KMT2C,Avana,ACH-000163,Head and Neck,matrix_intact,0.3557255074782794
+KMT2D_damaging_to_KMT2C,Avana,ACH-000164,Pancreas,matrix_intact,0.8923443623927318
+KMT2D_damaging_to_KMT2C,Avana,ACH-000168,Myeloid,matrix_intact,0.2860579511572791
+KMT2D_damaging_to_KMT2C,Avana,ACH-000169,Soft Tissue,matrix_intact,0.07927490360082909
+KMT2D_damaging_to_KMT2C,Avana,ACH-000174,Thyroid,matrix_intact,0.07368587603112484
+KMT2D_damaging_to_KMT2C,Avana,ACH-000178,Pancreas,matrix_intact,0.3753037102851815
+KMT2D_damaging_to_KMT2C,Avana,ACH-000182,Ampulla of Vater,matrix_intact,0.16744172793628115
+KMT2D_damaging_to_KMT2C,Avana,ACH-000183,Lymphoid,matrix_intact,-0.3014053294758926
+KMT2D_damaging_to_KMT2C,Avana,ACH-000187,Lung,matrix_intact,0.33908022277455896
+KMT2D_damaging_to_KMT2C,Avana,ACH-000188,Head and Neck,damaging,0.6281727382025819
+KMT2D_damaging_to_KMT2C,Avana,ACH-000189,Kidney,matrix_intact,-0.04459622316700604
+KMT2D_damaging_to_KMT2C,Avana,ACH-000190,Myeloid,matrix_intact,-0.2304749087862214
+KMT2D_damaging_to_KMT2C,Avana,ACH-000191,Thyroid,matrix_intact,0.11829774344035116
+KMT2D_damaging_to_KMT2C,Avana,ACH-000195,Myeloid,matrix_intact,0.3646607754140957
+KMT2D_damaging_to_KMT2C,Avana,ACH-000198,Myeloid,matrix_intact,0.2523163684180086
+KMT2D_damaging_to_KMT2C,Avana,ACH-000200,CNS/Brain,matrix_intact,-0.1858516892698665
+KMT2D_damaging_to_KMT2C,Avana,ACH-000202,Bowel,matrix_intact,0.06460183573442684
+KMT2D_damaging_to_KMT2C,Avana,ACH-000204,Lymphoid,matrix_intact,-0.1294325506519059
+KMT2D_damaging_to_KMT2C,Avana,ACH-000206,Lymphoid,matrix_intact,-0.10637359231449661
+KMT2D_damaging_to_KMT2C,Avana,ACH-000207,Head and Neck,matrix_intact,0.11010296294532058
+KMT2D_damaging_to_KMT2C,Avana,ACH-000209,Biliary Tract,matrix_intact,0.09783575284312676
+KMT2D_damaging_to_KMT2C,Avana,ACH-000211,CNS/Brain,matrix_intact,0.3185935348120971
+KMT2D_damaging_to_KMT2C,Avana,ACH-000212,Breast,matrix_intact,0.2970105434901642
+KMT2D_damaging_to_KMT2C,Avana,ACH-000215,CNS/Brain,matrix_intact,-0.15851553933562554
+KMT2D_damaging_to_KMT2C,Avana,ACH-000216,Esophagus/Stomach,matrix_intact,0.3917519132221226
+KMT2D_damaging_to_KMT2C,Avana,ACH-000217,Liver,matrix_intact,-0.0032321729602839133
+KMT2D_damaging_to_KMT2C,Avana,ACH-000219,Skin,matrix_intact,-0.022840148548912267
+KMT2D_damaging_to_KMT2C,Avana,ACH-000221,Liver,matrix_intact,0.058888516099857104
+KMT2D_damaging_to_KMT2C,Avana,ACH-000222,Pancreas,matrix_intact,0.12802993308832086
+KMT2D_damaging_to_KMT2C,Avana,ACH-000223,Breast,matrix_intact,-0.08458530823808413
+KMT2D_damaging_to_KMT2C,Avana,ACH-000226,Lymphoid,matrix_intact,-0.776510268808073
+KMT2D_damaging_to_KMT2C,Avana,ACH-000227,Peripheral Nervous System,matrix_intact,-0.11999831907193044
+KMT2D_damaging_to_KMT2C,Avana,ACH-000228,Head and Neck,matrix_intact,0.8845446445241145
+KMT2D_damaging_to_KMT2C,Avana,ACH-000231,CNS/Brain,matrix_intact,0.3433469866523695
+KMT2D_damaging_to_KMT2C,Avana,ACH-000232,CNS/Brain,matrix_intact,-1.1952403504016966
+KMT2D_damaging_to_KMT2C,Avana,ACH-000233,Lymphoid,matrix_intact,-0.6161105958000221
+KMT2D_damaging_to_KMT2C,Avana,ACH-000234,Kidney,matrix_intact,0.06476732922199444
+KMT2D_damaging_to_KMT2C,Avana,ACH-000235,Pancreas,matrix_intact,0.37129263853962713
+KMT2D_damaging_to_KMT2C,Avana,ACH-000237,Ovary/Fallopian Tube,matrix_intact,-0.08860636129245517
+KMT2D_damaging_to_KMT2C,Avana,ACH-000238,Head and Neck,matrix_intact,-0.1587947154812207
+KMT2D_damaging_to_KMT2C,Avana,ACH-000243,Pancreas,matrix_intact,0.12496830380703944
+KMT2D_damaging_to_KMT2C,Avana,ACH-000244,CNS/Brain,matrix_intact,-0.23286307765931413
+KMT2D_damaging_to_KMT2C,Avana,ACH-000246,Kidney,matrix_intact,0.027848842263486107
+KMT2D_damaging_to_KMT2C,Avana,ACH-000247,Esophagus/Stomach,matrix_intact,-1.5287186142685267
+KMT2D_damaging_to_KMT2C,Avana,ACH-000248,Breast,matrix_intact,-0.45651660096837043
+KMT2D_damaging_to_KMT2C,Avana,ACH-000250,Kidney,matrix_intact,0.004126290846504975
+KMT2D_damaging_to_KMT2C,Avana,ACH-000251,Lung,matrix_intact,-0.10208318486260023
+KMT2D_damaging_to_KMT2C,Avana,ACH-000252,Bowel,matrix_intact,-0.31568887746751395
+KMT2D_damaging_to_KMT2C,Avana,ACH-000253,Bowel,matrix_intact,0.13117302054829993
+KMT2D_damaging_to_KMT2C,Avana,ACH-000255,Esophagus/Stomach,matrix_intact,0.3112325475249115
+KMT2D_damaging_to_KMT2C,Avana,ACH-000256,Ovary/Fallopian Tube,matrix_intact,0.07021696734461455
+KMT2D_damaging_to_KMT2C,Avana,ACH-000257,Lung,matrix_intact,-1.5681457204343308
+KMT2D_damaging_to_KMT2C,Avana,ACH-000258,Breast,matrix_intact,-0.0702765266046593
+KMT2D_damaging_to_KMT2C,Avana,ACH-000259,Peripheral Nervous System,matrix_intact,-0.24130636485408802
+KMT2D_damaging_to_KMT2C,Avana,ACH-000260,Peripheral Nervous System,matrix_intact,0.013138004496206224
+KMT2D_damaging_to_KMT2C,Avana,ACH-000261,Lung,matrix_intact,0.24690996640638999
+KMT2D_damaging_to_KMT2C,Avana,ACH-000262,Kidney,matrix_intact,0.05218686123380757
+KMT2D_damaging_to_KMT2C,Avana,ACH-000263,Myeloid,matrix_intact,0.04864948979150435
+KMT2D_damaging_to_KMT2C,Avana,ACH-000264,Lung,matrix_intact,-0.011976538914310338
+KMT2D_damaging_to_KMT2C,Avana,ACH-000265,Pancreas,matrix_intact,0.271536789811353
+KMT2D_damaging_to_KMT2C,Avana,ACH-000266,Pancreas,matrix_intact,0.1462946039724004
+KMT2D_damaging_to_KMT2C,Avana,ACH-000272,Kidney,matrix_intact,-0.17350064773899482
+KMT2D_damaging_to_KMT2C,Avana,ACH-000273,CNS/Brain,matrix_intact,-0.1892523544446862
+KMT2D_damaging_to_KMT2C,Avana,ACH-000274,Skin,matrix_intact,-0.07731806600497258
+KMT2D_damaging_to_KMT2C,Avana,ACH-000276,Breast,matrix_intact,-0.6028546080645709
+KMT2D_damaging_to_KMT2C,Avana,ACH-000277,Breast,matrix_intact,-0.1915645095022046
+KMT2D_damaging_to_KMT2C,Avana,ACH-000278,Ovary/Fallopian Tube,matrix_intact,-0.0815566747961162
+KMT2D_damaging_to_KMT2C,Avana,ACH-000279,Bone,matrix_intact,-0.49902301475019006
+KMT2D_damaging_to_KMT2C,Avana,ACH-000280,Ovary/Fallopian Tube,matrix_intact,-0.07066533896718118
+KMT2D_damaging_to_KMT2C,Avana,ACH-000281,Pancreas,matrix_intact,-0.21865835909386974
+KMT2D_damaging_to_KMT2C,Avana,ACH-000286,Bowel,matrix_intact,0.07483384866667253
+KMT2D_damaging_to_KMT2C,Avana,ACH-000288,Breast,matrix_intact,-0.47541837171203044
+KMT2D_damaging_to_KMT2C,Avana,ACH-000290,Lung,damaging,-0.04211510163085877
+KMT2D_damaging_to_KMT2C,Avana,ACH-000291,Ovary/Fallopian Tube,matrix_intact,-0.08477505194775514
+KMT2D_damaging_to_KMT2C,Avana,ACH-000292,Lung,matrix_intact,-0.1894063694366875
+KMT2D_damaging_to_KMT2C,Avana,ACH-000293,Uterus,matrix_intact,0.007505590614068414
+KMT2D_damaging_to_KMT2C,Avana,ACH-000294,Myeloid,matrix_intact,0.4520079471103402
+KMT2D_damaging_to_KMT2C,Avana,ACH-000295,Myeloid,matrix_intact,0.03355146142199135
+KMT2D_damaging_to_KMT2C,Avana,ACH-000296,Bowel,matrix_intact,-0.5300705443670702
+KMT2D_damaging_to_KMT2C,Avana,ACH-000302,Uterus,matrix_intact,-0.24263315033953076
+KMT2D_damaging_to_KMT2C,Avana,ACH-000303,Esophagus/Stomach,matrix_intact,0.5259320936481152
+KMT2D_damaging_to_KMT2C,Avana,ACH-000304,Skin,matrix_intact,0.26304580701850844
+KMT2D_damaging_to_KMT2C,Avana,ACH-000305,Esophagus/Stomach,matrix_intact,0.2357448441096577
+KMT2D_damaging_to_KMT2C,Avana,ACH-000307,Pancreas,matrix_intact,0.26264875837738755
+KMT2D_damaging_to_KMT2C,Avana,ACH-000308,Ovary/Fallopian Tube,matrix_intact,-0.4522239970167441
+KMT2D_damaging_to_KMT2C,Avana,ACH-000310,Peripheral Nervous System,matrix_intact,-0.009976517113962871
+KMT2D_damaging_to_KMT2C,Avana,ACH-000311,Lung,matrix_intact,-0.073383774901639
+KMT2D_damaging_to_KMT2C,Avana,ACH-000312,Peripheral Nervous System,matrix_intact,-0.16342986575599255
+KMT2D_damaging_to_KMT2C,Avana,ACH-000313,Kidney,matrix_intact,-0.2429296883525338
+KMT2D_damaging_to_KMT2C,Avana,ACH-000315,Lymphoid,damaging,0.5029347539833662
+KMT2D_damaging_to_KMT2C,Avana,ACH-000316,Liver,matrix_intact,-0.01825174193086815
+KMT2D_damaging_to_KMT2C,Avana,ACH-000317,Kidney,matrix_intact,0.06368574311538483
+KMT2D_damaging_to_KMT2C,Avana,ACH-000318,Esophagus/Stomach,matrix_intact,-0.03201961242494584
+KMT2D_damaging_to_KMT2C,Avana,ACH-000319,Pleura,matrix_intact,-0.03988994607958363
+KMT2D_damaging_to_KMT2C,Avana,ACH-000320,Pancreas,matrix_intact,-0.1359014710101043
+KMT2D_damaging_to_KMT2C,Avana,ACH-000322,Skin,matrix_intact,0.06454314411063049
+KMT2D_damaging_to_KMT2C,Avana,ACH-000323,CNS/Brain,matrix_intact,-0.05050776434454733
+KMT2D_damaging_to_KMT2C,Avana,ACH-000324,Ovary/Fallopian Tube,matrix_intact,-0.18171435804045513
+KMT2D_damaging_to_KMT2C,Avana,ACH-000325,Esophagus/Stomach,matrix_intact,-0.11312729886287352
+KMT2D_damaging_to_KMT2C,Avana,ACH-000326,Myeloid,damaging,-1.3116788623731725
+KMT2D_damaging_to_KMT2C,Avana,ACH-000329,CNS/Brain,matrix_intact,-0.16537148447735597
+KMT2D_damaging_to_KMT2C,Avana,ACH-000330,Breast,matrix_intact,-0.012591790549288717
+KMT2D_damaging_to_KMT2C,Avana,ACH-000331,Pleura,matrix_intact,-0.13742651435514472
+KMT2D_damaging_to_KMT2C,Avana,ACH-000332,Pancreas,matrix_intact,0.04762803556177592
+KMT2D_damaging_to_KMT2C,Avana,ACH-000334,Lymphoid,damaging,0.21392320382725047
+KMT2D_damaging_to_KMT2C,Avana,ACH-000335,Pleura,matrix_intact,0.27812487913752026
+KMT2D_damaging_to_KMT2C,Avana,ACH-000336,Myeloid,matrix_intact,-0.09893015101443618
+KMT2D_damaging_to_KMT2C,Avana,ACH-000337,Lung,matrix_intact,0.2516118052566693
+KMT2D_damaging_to_KMT2C,Avana,ACH-000339,Lung,matrix_intact,0.4555561880885618
+KMT2D_damaging_to_KMT2C,Avana,ACH-000341,Peripheral Nervous System,matrix_intact,0.1645464860364703
+KMT2D_damaging_to_KMT2C,Avana,ACH-000343,Lung,matrix_intact,-0.540945814408746
+KMT2D_damaging_to_KMT2C,Avana,ACH-000344,Esophagus/Stomach,matrix_intact,0.08457177530794623
+KMT2D_damaging_to_KMT2C,Avana,ACH-000346,Lymphoid,matrix_intact,0.5658313712501979
+KMT2D_damaging_to_KMT2C,Avana,ACH-000348,Skin,matrix_intact,0.043530457650954514
+KMT2D_damaging_to_KMT2C,Avana,ACH-000350,Bowel,matrix_intact,-0.19420021138115234
+KMT2D_damaging_to_KMT2C,Avana,ACH-000352,Breast,matrix_intact,-0.5212116825253553
+KMT2D_damaging_to_KMT2C,Avana,ACH-000355,Lung,matrix_intact,-0.6270570079588476
+KMT2D_damaging_to_KMT2C,Avana,ACH-000356,Esophagus/Stomach,matrix_intact,-1.0141642402341361e-05
+KMT2D_damaging_to_KMT2C,Avana,ACH-000359,Bone,matrix_intact,0.237054607282091
+KMT2D_damaging_to_KMT2C,Avana,ACH-000361,Liver,matrix_intact,0.18099569961259243
+KMT2D_damaging_to_KMT2C,Avana,ACH-000362,Myeloid,matrix_intact,0.46460633825286196
+KMT2D_damaging_to_KMT2C,Avana,ACH-000363,Lymphoid,matrix_intact,0.1847523220383205
+KMT2D_damaging_to_KMT2C,Avana,ACH-000364,Bone,matrix_intact,0.13869524412483308
+KMT2D_damaging_to_KMT2C,Avana,ACH-000365,Lymphoid,matrix_intact,0.3049281536062369
+KMT2D_damaging_to_KMT2C,Avana,ACH-000366,Peripheral Nervous System,matrix_intact,0.35016102565180557
+KMT2D_damaging_to_KMT2C,Avana,ACH-000368,CNS/Brain,matrix_intact,-0.18269567097200262
+KMT2D_damaging_to_KMT2C,Avana,ACH-000370,CNS/Brain,matrix_intact,-0.1618905772918077
+KMT2D_damaging_to_KMT2C,Avana,ACH-000371,Lymphoid,matrix_intact,-0.18023082594378298
+KMT2D_damaging_to_KMT2C,Avana,ACH-000374,Breast,matrix_intact,0.12940431833204608
+KMT2D_damaging_to_KMT2C,Avana,ACH-000375,Kidney,matrix_intact,-0.0882941953404557
+KMT2D_damaging_to_KMT2C,Avana,ACH-000376,CNS/Brain,matrix_intact,-0.009111444458989953
+KMT2D_damaging_to_KMT2C,Avana,ACH-000377,Ampulla of Vater,matrix_intact,0.28941449889792903
+KMT2D_damaging_to_KMT2C,Avana,ACH-000378,Lung,matrix_intact,0.12339476784428391
+KMT2D_damaging_to_KMT2C,Avana,ACH-000381,Bowel,matrix_intact,-0.059434564094761506
+KMT2D_damaging_to_KMT2C,Avana,ACH-000383,Esophagus/Stomach,matrix_intact,0.27306111632924773
+KMT2D_damaging_to_KMT2C,Avana,ACH-000385,Kidney,matrix_intact,-0.28552598799793527
+KMT2D_damaging_to_KMT2C,Avana,ACH-000387,Myeloid,matrix_intact,-0.033252878801532354
+KMT2D_damaging_to_KMT2C,Avana,ACH-000389,CNS/Brain,matrix_intact,-0.07450248902621892
+KMT2D_damaging_to_KMT2C,Avana,ACH-000390,Lung,damaging,-0.14495093633147693
+KMT2D_damaging_to_KMT2C,Avana,ACH-000391,Bone,matrix_intact,0.0054880677972871245
+KMT2D_damaging_to_KMT2C,Avana,ACH-000393,Liver,matrix_intact,0.445870429167039
+KMT2D_damaging_to_KMT2C,Avana,ACH-000395,Lung,matrix_intact,-0.057753626425727844
+KMT2D_damaging_to_KMT2C,Avana,ACH-000396,Bladder/Urinary Tract,matrix_intact,-0.10362594797765197
+KMT2D_damaging_to_KMT2C,Avana,ACH-000397,Uterus,matrix_intact,-0.1109373997814598
+KMT2D_damaging_to_KMT2C,Avana,ACH-000398,Lymphoid,matrix_intact,-0.052971491286621375
+KMT2D_damaging_to_KMT2C,Avana,ACH-000401,Skin,matrix_intact,-0.210264172231506
+KMT2D_damaging_to_KMT2C,Avana,ACH-000402,Lymphoid,damaging,-0.5156045033926437
+KMT2D_damaging_to_KMT2C,Avana,ACH-000403,Bowel,matrix_intact,0.10339977718449883
+KMT2D_damaging_to_KMT2C,Avana,ACH-000404,Skin,matrix_intact,-0.01556279926011589
+KMT2D_damaging_to_KMT2C,Avana,ACH-000405,Lymphoid,matrix_intact,0.30540626688949635
+KMT2D_damaging_to_KMT2C,Avana,ACH-000406,Myeloid,matrix_intact,-0.11134087297672601
+KMT2D_damaging_to_KMT2C,Avana,ACH-000407,Uterus,matrix_intact,0.01679205382986513
+KMT2D_damaging_to_KMT2C,Avana,ACH-000408,Esophagus/Stomach,matrix_intact,0.1834039277455219
+KMT2D_damaging_to_KMT2C,Avana,ACH-000410,Bone,matrix_intact,-0.1278118808825744
+KMT2D_damaging_to_KMT2C,Avana,ACH-000411,Kidney,matrix_intact,-0.27376068826567485
+KMT2D_damaging_to_KMT2C,Avana,ACH-000414,Lung,matrix_intact,-0.03169918866301667
+KMT2D_damaging_to_KMT2C,Avana,ACH-000415,Head and Neck,matrix_intact,0.06955841672398662
+KMT2D_damaging_to_KMT2C,Avana,ACH-000416,Lung,matrix_intact,-0.1773305134927817
+KMT2D_damaging_to_KMT2C,Avana,ACH-000417,Pancreas,matrix_intact,0.1695273830359887
+KMT2D_damaging_to_KMT2C,Avana,ACH-000420,Liver,matrix_intact,-0.1286729025467963
+KMT2D_damaging_to_KMT2C,Avana,ACH-000421,Bowel,matrix_intact,0.26262044779616645
+KMT2D_damaging_to_KMT2C,Avana,ACH-000422,Liver,matrix_intact,-0.05224163606096578
+KMT2D_damaging_to_KMT2C,Avana,ACH-000424,Bone,matrix_intact,-0.1445124872989662
+KMT2D_damaging_to_KMT2C,Avana,ACH-000425,Skin,matrix_intact,-0.018282043965510458
+KMT2D_damaging_to_KMT2C,Avana,ACH-000426,Lymphoid,matrix_intact,-0.2538588979856642
+KMT2D_damaging_to_KMT2C,Avana,ACH-000427,Esophagus/Stomach,matrix_intact,0.05495026871070203
+KMT2D_damaging_to_KMT2C,Avana,ACH-000431,Lung,matrix_intact,-0.1596198182231827
+KMT2D_damaging_to_KMT2C,Avana,ACH-000433,Kidney,matrix_intact,-0.6457588918956437
+KMT2D_damaging_to_KMT2C,Avana,ACH-000434,Lung,matrix_intact,-0.39216705499792914
+KMT2D_damaging_to_KMT2C,Avana,ACH-000435,Uterus,matrix_intact,-0.001068217607833195
+KMT2D_damaging_to_KMT2C,Avana,ACH-000436,Lymphoid,matrix_intact,-1.0852324392457473
+KMT2D_damaging_to_KMT2C,Avana,ACH-000437,CNS/Brain,matrix_intact,-0.5622131438909276
+KMT2D_damaging_to_KMT2C,Avana,ACH-000438,Lung,matrix_intact,0.18020715486977584
+KMT2D_damaging_to_KMT2C,Avana,ACH-000441,Skin,matrix_intact,0.7555278657430966
+KMT2D_damaging_to_KMT2C,Avana,ACH-000444,Lung,matrix_intact,0.016267315921458317
+KMT2D_damaging_to_KMT2C,Avana,ACH-000445,CNS/Brain,matrix_intact,-0.07612152111507872
+KMT2D_damaging_to_KMT2C,Avana,ACH-000448,Lung,matrix_intact,-0.1715000887292466
+KMT2D_damaging_to_KMT2C,Avana,ACH-000450,Skin,matrix_intact,-0.1535857891646289
+KMT2D_damaging_to_KMT2C,Avana,ACH-000452,Esophagus/Stomach,matrix_intact,0.09603193400073
+KMT2D_damaging_to_KMT2C,Avana,ACH-000454,Lung,matrix_intact,-0.3705360130717703
+KMT2D_damaging_to_KMT2C,Avana,ACH-000455,CNS/Brain,matrix_intact,0.39584347659902663
+KMT2D_damaging_to_KMT2C,Avana,ACH-000456,Thyroid,matrix_intact,0.1146225418748421
+KMT2D_damaging_to_KMT2C,Avana,ACH-000458,Skin,matrix_intact,0.09484776640011766
+KMT2D_damaging_to_KMT2C,Avana,ACH-000459,Kidney,matrix_intact,0.14527463322785383
+KMT2D_damaging_to_KMT2C,Avana,ACH-000460,Ovary/Fallopian Tube,matrix_intact,0.026913765483668903
+KMT2D_damaging_to_KMT2C,Avana,ACH-000461,Biliary Tract,matrix_intact,-0.19261157480920763
+KMT2D_damaging_to_KMT2C,Avana,ACH-000463,Lung,matrix_intact,-0.3801327656395168
+KMT2D_damaging_to_KMT2C,Avana,ACH-000464,CNS/Brain,matrix_intact,-0.20122542309838568
+KMT2D_damaging_to_KMT2C,Avana,ACH-000466,Esophagus/Stomach,matrix_intact,0.1175417874507643
+KMT2D_damaging_to_KMT2C,Avana,ACH-000467,Bowel,matrix_intact,-0.45420904669384243
+KMT2D_damaging_to_KMT2C,Avana,ACH-000468,Pancreas,matrix_intact,-0.011170076122944836
+KMT2D_damaging_to_KMT2C,Avana,ACH-000469,CNS/Brain,matrix_intact,-0.1294812525795682
+KMT2D_damaging_to_KMT2C,Avana,ACH-000470,Bowel,matrix_intact,0.7131729360741801
+KMT2D_damaging_to_KMT2C,Avana,ACH-000471,Liver,matrix_intact,0.3844644865815696
+KMT2D_damaging_to_KMT2C,Avana,ACH-000472,Head and Neck,matrix_intact,0.09082103400685654
+KMT2D_damaging_to_KMT2C,Avana,ACH-000473,Bladder/Urinary Tract,matrix_intact,-0.05579139696773532
+KMT2D_damaging_to_KMT2C,Avana,ACH-000475,Liver,matrix_intact,-0.060121379365154534
+KMT2D_damaging_to_KMT2C,Avana,ACH-000476,Liver,matrix_intact,0.01761006268792535
+KMT2D_damaging_to_KMT2C,Avana,ACH-000477,Skin,matrix_intact,-0.7921817769063919
+KMT2D_damaging_to_KMT2C,Avana,ACH-000478,Liver,matrix_intact,-0.1270958352927725
+KMT2D_damaging_to_KMT2C,Avana,ACH-000479,CNS/Brain,matrix_intact,-0.7530573519500039
+KMT2D_damaging_to_KMT2C,Avana,ACH-000480,Liver,matrix_intact,-0.24721516160366572
+KMT2D_damaging_to_KMT2C,Avana,ACH-000481,Lung,matrix_intact,-0.013021952781381955
+KMT2D_damaging_to_KMT2C,Avana,ACH-000483,Liver,matrix_intact,-0.15183083753338883
+KMT2D_damaging_to_KMT2C,Avana,ACH-000484,Kidney,matrix_intact,0.032037285298172485
+KMT2D_damaging_to_KMT2C,Avana,ACH-000485,Esophagus/Stomach,matrix_intact,0.04254089814041116
+KMT2D_damaging_to_KMT2C,Avana,ACH-000486,Bladder/Urinary Tract,damaging,-0.9340249060424886
+KMT2D_damaging_to_KMT2C,Avana,ACH-000487,Myeloid,matrix_intact,0.98824187935325
+KMT2D_damaging_to_KMT2C,Avana,ACH-000488,Esophagus/Stomach,matrix_intact,0.17699007411881185
+KMT2D_damaging_to_KMT2C,Avana,ACH-000489,Bowel,matrix_intact,0.6806631363274622
+KMT2D_damaging_to_KMT2C,Avana,ACH-000490,Cervix,damaging,0.586211472486013
+KMT2D_damaging_to_KMT2C,Avana,ACH-000491,Bowel,matrix_intact,-0.6479479893034361
+KMT2D_damaging_to_KMT2C,Avana,ACH-000493,Liver,matrix_intact,-0.0030489548584329007
+KMT2D_damaging_to_KMT2C,Avana,ACH-000495,Kidney,matrix_intact,-0.19925420097814692
+KMT2D_damaging_to_KMT2C,Avana,ACH-000496,Lung,matrix_intact,0.572233146038662
+KMT2D_damaging_to_KMT2C,Avana,ACH-000499,Bone,matrix_intact,-0.0022865444763958825
+KMT2D_damaging_to_KMT2C,Avana,ACH-000500,Head and Neck,damaging,-0.410824754920304
+KMT2D_damaging_to_KMT2C,Avana,ACH-000502,Pancreas,matrix_intact,0.08633560616683916
+KMT2D_damaging_to_KMT2C,Avana,ACH-000503,Head and Neck,matrix_intact,-0.2838628466554067
+KMT2D_damaging_to_KMT2C,Avana,ACH-000504,CNS/Brain,matrix_intact,0.09505277376757476
+KMT2D_damaging_to_KMT2C,Avana,ACH-000505,Soft Tissue,matrix_intact,-0.11050685878822268
+KMT2D_damaging_to_KMT2C,Avana,ACH-000507,Esophagus/Stomach,damaging,-0.4738798592207196
+KMT2D_damaging_to_KMT2C,Avana,ACH-000510,Lung,matrix_intact,0.24261171227874057
+KMT2D_damaging_to_KMT2C,Avana,ACH-000511,Lung,matrix_intact,0.33263557599919125
+KMT2D_damaging_to_KMT2C,Avana,ACH-000512,Lymphoid,matrix_intact,0.11605535447433729
+KMT2D_damaging_to_KMT2C,Avana,ACH-000514,Lung,matrix_intact,-0.12690918858649122
+KMT2D_damaging_to_KMT2C,Avana,ACH-000516,Bone,matrix_intact,-0.34024202984869156
+KMT2D_damaging_to_KMT2C,Avana,ACH-000517,Pancreas,matrix_intact,-0.09962577484892338
+KMT2D_damaging_to_KMT2C,Avana,ACH-000518,Head and Neck,matrix_intact,0.09333161700440275
+KMT2D_damaging_to_KMT2C,Avana,ACH-000520,Ovary/Fallopian Tube,matrix_intact,-1.0693484859947393
+KMT2D_damaging_to_KMT2C,Avana,ACH-000521,Lung,matrix_intact,-0.11697922296355381
+KMT2D_damaging_to_KMT2C,Avana,ACH-000522,Bladder/Urinary Tract,matrix_intact,-0.08269300185081283
+KMT2D_damaging_to_KMT2C,Avana,ACH-000524,Ovary/Fallopian Tube,matrix_intact,-0.4199135747493312
+KMT2D_damaging_to_KMT2C,Avana,ACH-000525,Lung,matrix_intact,0.02641601570114102
+KMT2D_damaging_to_KMT2C,Avana,ACH-000527,Ovary/Fallopian Tube,matrix_intact,-0.5568847936918042
+KMT2D_damaging_to_KMT2C,Avana,ACH-000528,Lung,matrix_intact,0.02062254375590223
+KMT2D_damaging_to_KMT2C,Avana,ACH-000532,Bowel,matrix_intact,0.0680694201129372
+KMT2D_damaging_to_KMT2C,Avana,ACH-000533,Kidney,matrix_intact,-0.2287191845939467
+KMT2D_damaging_to_KMT2C,Avana,ACH-000535,Pancreas,matrix_intact,0.15569364620141096
+KMT2D_damaging_to_KMT2C,Avana,ACH-000537,Liver,matrix_intact,0.31849106250575426
+KMT2D_damaging_to_KMT2C,Avana,ACH-000541,Lymphoid,matrix_intact,-0.35143920950713525
+KMT2D_damaging_to_KMT2C,Avana,ACH-000542,Ovary/Fallopian Tube,matrix_intact,0.6557268857309071
+KMT2D_damaging_to_KMT2C,Avana,ACH-000544,Esophagus/Stomach,matrix_intact,0.1444003035703573
+KMT2D_damaging_to_KMT2C,Avana,ACH-000545,Bladder/Urinary Tract,damaging,0.0865129681094454
+KMT2D_damaging_to_KMT2C,Avana,ACH-000547,Bladder/Urinary Tract,matrix_intact,-0.3862798857625744
+KMT2D_damaging_to_KMT2C,Avana,ACH-000548,Head and Neck,matrix_intact,0.2981778336361386
+KMT2D_damaging_to_KMT2C,Avana,ACH-000549,Head and Neck,matrix_intact,0.13362117300170823
+KMT2D_damaging_to_KMT2C,Avana,ACH-000550,Skin,matrix_intact,0.11641405097257612
+KMT2D_damaging_to_KMT2C,Avana,ACH-000551,Myeloid,matrix_intact,-0.314683150783822
+KMT2D_damaging_to_KMT2C,Avana,ACH-000552,Bowel,matrix_intact,-0.217080820084461
+KMT2D_damaging_to_KMT2C,Avana,ACH-000556,Cervix,matrix_intact,-0.044394598424426446
+KMT2D_damaging_to_KMT2C,Avana,ACH-000557,Myeloid,matrix_intact,0.3232349445867313
+KMT2D_damaging_to_KMT2C,Avana,ACH-000559,Lung,matrix_intact,0.153919683809022
+KMT2D_damaging_to_KMT2C,Avana,ACH-000563,Lung,matrix_intact,-0.0037402159630857343
+KMT2D_damaging_to_KMT2C,Avana,ACH-000567,Lymphoid,matrix_intact,-0.38397694015246453
+KMT2D_damaging_to_KMT2C,Avana,ACH-000570,CNS/Brain,matrix_intact,-0.01867730828824856
+KMT2D_damaging_to_KMT2C,Avana,ACH-000571,CNS/Brain,matrix_intact,-0.1146296944299183
+KMT2D_damaging_to_KMT2C,Avana,ACH-000573,Breast,matrix_intact,-0.11533213963093183
+KMT2D_damaging_to_KMT2C,Avana,ACH-000576,Lymphoid,matrix_intact,-0.2339208485612612
+KMT2D_damaging_to_KMT2C,Avana,ACH-000577,Liver,matrix_intact,-0.2071038792340625
+KMT2D_damaging_to_KMT2C,Avana,ACH-000579,Skin,matrix_intact,0.17775225056350585
+KMT2D_damaging_to_KMT2C,Avana,ACH-000580,Skin,matrix_intact,-0.598008578504948
+KMT2D_damaging_to_KMT2C,Avana,ACH-000581,Esophagus/Stomach,matrix_intact,0.09143112173712625
+KMT2D_damaging_to_KMT2C,Avana,ACH-000584,Ovary/Fallopian Tube,matrix_intact,-0.11472569072903452
+KMT2D_damaging_to_KMT2C,Avana,ACH-000585,Lung,damaging,-0.36998119388965434
+KMT2D_damaging_to_KMT2C,Avana,ACH-000587,Lung,matrix_intact,-0.2800671973669303
+KMT2D_damaging_to_KMT2C,Avana,ACH-000588,Lymphoid,matrix_intact,-0.3334378592637726
+KMT2D_damaging_to_KMT2C,Avana,ACH-000589,Lung,matrix_intact,0.1663310389800972
+KMT2D_damaging_to_KMT2C,Avana,ACH-000591,CNS/Brain,matrix_intact,0.1233786145245617
+KMT2D_damaging_to_KMT2C,Avana,ACH-000592,CNS/Brain,matrix_intact,0.18553259840889375
+KMT2D_damaging_to_KMT2C,Avana,ACH-000593,Bladder/Urinary Tract,matrix_intact,0.5490936561626647
+KMT2D_damaging_to_KMT2C,Avana,ACH-000595,CNS/Brain,matrix_intact,0.26408482684091616
+KMT2D_damaging_to_KMT2C,Avana,ACH-000596,Lung,matrix_intact,0.3629028174641036
+KMT2D_damaging_to_KMT2C,Avana,ACH-000597,Kidney,matrix_intact,-0.0700233914368934
+KMT2D_damaging_to_KMT2C,Avana,ACH-000599,Pancreas,matrix_intact,0.508800555471626
+KMT2D_damaging_to_KMT2C,Avana,ACH-000601,Pancreas,matrix_intact,-1.1874824206020198
+KMT2D_damaging_to_KMT2C,Avana,ACH-000602,Myeloid,matrix_intact,0.5811033698148746
+KMT2D_damaging_to_KMT2C,Avana,ACH-000604,Myeloid,matrix_intact,-0.5285921143296513
+KMT2D_damaging_to_KMT2C,Avana,ACH-000605,Esophagus/Stomach,matrix_intact,-0.05287442981885117
+KMT2D_damaging_to_KMT2C,Avana,ACH-000606,Head and Neck,matrix_intact,0.2687101696578861
+KMT2D_damaging_to_KMT2C,Avana,ACH-000607,Soft Tissue,matrix_intact,0.010052554099091948
+KMT2D_damaging_to_KMT2C,Avana,ACH-000608,Ovary/Fallopian Tube,matrix_intact,-0.016269737334995156
+KMT2D_damaging_to_KMT2C,Avana,ACH-000609,CNS/Brain,matrix_intact,0.0826538588669967
+KMT2D_damaging_to_KMT2C,Avana,ACH-000614,Skin,matrix_intact,-0.12441060016578027
+KMT2D_damaging_to_KMT2C,Avana,ACH-000616,Esophagus/Stomach,matrix_intact,-0.03966463649420734
+KMT2D_damaging_to_KMT2C,Avana,ACH-000618,Head and Neck,matrix_intact,0.059041871850972
+KMT2D_damaging_to_KMT2C,Avana,ACH-000619,Head and Neck,matrix_intact,0.03123035856726468
+KMT2D_damaging_to_KMT2C,Avana,ACH-000620,Liver,matrix_intact,-0.7574545607100592
+KMT2D_damaging_to_KMT2C,Avana,ACH-000621,Breast,matrix_intact,-0.5894319695798715
+KMT2D_damaging_to_KMT2C,Avana,ACH-000622,CNS/Brain,matrix_intact,-0.10800798901411526
+KMT2D_damaging_to_KMT2C,Avana,ACH-000623,CNS/Brain,matrix_intact,-0.2493307333859098
+KMT2D_damaging_to_KMT2C,Avana,ACH-000624,Breast,matrix_intact,0.09932937328684287
+KMT2D_damaging_to_KMT2C,Avana,ACH-000627,Lung,matrix_intact,-0.4031619365008985
+KMT2D_damaging_to_KMT2C,Avana,ACH-000630,Head and Neck,matrix_intact,0.21387623668944133
+KMT2D_damaging_to_KMT2C,Avana,ACH-000632,Skin,matrix_intact,-0.5576929660891591
+KMT2D_damaging_to_KMT2C,Avana,ACH-000633,Esophagus/Stomach,matrix_intact,-1.1779003995069166
+KMT2D_damaging_to_KMT2C,Avana,ACH-000634,CNS/Brain,matrix_intact,-0.2114082327572425
+KMT2D_damaging_to_KMT2C,Avana,ACH-000637,Esophagus/Stomach,matrix_intact,0.31563937550195387
+KMT2D_damaging_to_KMT2C,Avana,ACH-000638,Lung,matrix_intact,0.1649968309102074
+KMT2D_damaging_to_KMT2C,Avana,ACH-000639,Lung,damaging,-1.3322575695212224
+KMT2D_damaging_to_KMT2C,Avana,ACH-000645,Pleura,matrix_intact,-0.017766987668014857
+KMT2D_damaging_to_KMT2C,Avana,ACH-000646,Ovary/Fallopian Tube,matrix_intact,0.12543025075444258
+KMT2D_damaging_to_KMT2C,Avana,ACH-000647,Esophagus/Stomach,matrix_intact,0.011927985258528548
+KMT2D_damaging_to_KMT2C,Avana,ACH-000648,Pleura,matrix_intact,-0.0924151446984438
+KMT2D_damaging_to_KMT2C,Avana,ACH-000649,Kidney,matrix_intact,-0.11095816629469286
+KMT2D_damaging_to_KMT2C,Avana,ACH-000651,Bowel,matrix_intact,-0.013057013262718492
+KMT2D_damaging_to_KMT2C,Avana,ACH-000652,Pancreas,matrix_intact,-0.04057813570049805
+KMT2D_damaging_to_KMT2C,Avana,ACH-000653,Lymphoid,matrix_intact,-0.4689992288346479
+KMT2D_damaging_to_KMT2C,Avana,ACH-000654,Lymphoid,matrix_intact,-0.8303708060350727
+KMT2D_damaging_to_KMT2C,Avana,ACH-000655,CNS/Brain,matrix_intact,0.542095737240941
+KMT2D_damaging_to_KMT2C,Avana,ACH-000657,Ovary/Fallopian Tube,matrix_intact,-0.37149925187904387
+KMT2D_damaging_to_KMT2C,Avana,ACH-000661,Skin,matrix_intact,-0.32953420533606165
+KMT2D_damaging_to_KMT2C,Avana,ACH-000662,Lung,matrix_intact,0.15940444517549854
+KMT2D_damaging_to_KMT2C,Avana,ACH-000663,Ovary/Fallopian Tube,matrix_intact,-0.016197484583434264
+KMT2D_damaging_to_KMT2C,Avana,ACH-000664,Lymphoid,damaging,-0.28709650721346813
+KMT2D_damaging_to_KMT2C,Avana,ACH-000665,Lung,matrix_intact,0.1387516237700255
+KMT2D_damaging_to_KMT2C,Avana,ACH-000667,Lung,matrix_intact,-0.3829862226258265
+KMT2D_damaging_to_KMT2C,Avana,ACH-000671,Liver,matrix_intact,-0.3384490986001349
+KMT2D_damaging_to_KMT2C,Avana,ACH-000673,CNS/Brain,matrix_intact,0.10626914392748951
+KMT2D_damaging_to_KMT2C,Avana,ACH-000676,CNS/Brain,matrix_intact,0.21719872804902568
+KMT2D_damaging_to_KMT2C,Avana,ACH-000677,Lung,matrix_intact,0.2216815044072704
+KMT2D_damaging_to_KMT2C,Avana,ACH-000680,Bowel,matrix_intact,-0.7814432754356373
+KMT2D_damaging_to_KMT2C,Avana,ACH-000681,Lung,matrix_intact,-0.3499919357217996
+KMT2D_damaging_to_KMT2C,Avana,ACH-000682,Head and Neck,matrix_intact,0.35340119720789565
+KMT2D_damaging_to_KMT2C,Avana,ACH-000683,Bowel,matrix_intact,0.047773420350358926
+KMT2D_damaging_to_KMT2C,Avana,ACH-000684,Kidney,matrix_intact,-0.8490815501358661
+KMT2D_damaging_to_KMT2C,Avana,ACH-000685,Pancreas,matrix_intact,0.03923729288699291
+KMT2D_damaging_to_KMT2C,Avana,ACH-000688,Ovary/Fallopian Tube,matrix_intact,0.0785430393810507
+KMT2D_damaging_to_KMT2C,Avana,ACH-000693,Esophagus/Stomach,matrix_intact,0.0922784080667215
+KMT2D_damaging_to_KMT2C,Avana,ACH-000694,Esophagus/Stomach,damaging,0.5730702911206992
+KMT2D_damaging_to_KMT2C,Avana,ACH-000695,Lung,matrix_intact,-0.3332113795953971
+KMT2D_damaging_to_KMT2C,Avana,ACH-000696,Ovary/Fallopian Tube,matrix_intact,-0.2297262519596902
+KMT2D_damaging_to_KMT2C,Avana,ACH-000697,Lymphoid,matrix_intact,0.1229930371474931
+KMT2D_damaging_to_KMT2C,Avana,ACH-000698,Lung,matrix_intact,0.038267199992432124
+KMT2D_damaging_to_KMT2C,Avana,ACH-000699,Breast,matrix_intact,-0.13815551838895285
+KMT2D_damaging_to_KMT2C,Avana,ACH-000700,Lung,matrix_intact,0.07819967122260076
+KMT2D_damaging_to_KMT2C,Avana,ACH-000701,Ovary/Fallopian Tube,matrix_intact,-0.06829379106322088
+KMT2D_damaging_to_KMT2C,Avana,ACH-000702,Lymphoid,matrix_intact,0.22507468329339664
+KMT2D_damaging_to_KMT2C,Avana,ACH-000706,Lung,matrix_intact,0.45494945154888095
+KMT2D_damaging_to_KMT2C,Avana,ACH-000709,Kidney,matrix_intact,-0.9041498983724506
+KMT2D_damaging_to_KMT2C,Avana,ACH-000711,Breast,matrix_intact,-0.0820327587004102
+KMT2D_damaging_to_KMT2C,Avana,ACH-000713,Ovary/Fallopian Tube,matrix_intact,0.18863646547094096
+KMT2D_damaging_to_KMT2C,Avana,ACH-000714,Lymphoid,matrix_intact,-0.09809656729341235
+KMT2D_damaging_to_KMT2C,Avana,ACH-000716,Thyroid,matrix_intact,0.34871776830611095
+KMT2D_damaging_to_KMT2C,Avana,ACH-000718,Lung,matrix_intact,-0.14706820948428706
+KMT2D_damaging_to_KMT2C,Avana,ACH-000719,Ovary/Fallopian Tube,matrix_intact,-0.509862348345822
+KMT2D_damaging_to_KMT2C,Avana,ACH-000720,Bladder/Urinary Tract,matrix_intact,0.2761909319181449
+KMT2D_damaging_to_KMT2C,Avana,ACH-000721,Breast,damaging,0.42458376116931573
+KMT2D_damaging_to_KMT2C,Avana,ACH-000724,Bladder/Urinary Tract,matrix_intact,-0.04553547785837071
+KMT2D_damaging_to_KMT2C,Avana,ACH-000725,Breast,matrix_intact,-0.11831168933566304
+KMT2D_damaging_to_KMT2C,Avana,ACH-000732,Head and Neck,matrix_intact,0.27651145903999874
+KMT2D_damaging_to_KMT2C,Avana,ACH-000734,Liver,matrix_intact,0.30177504520625054
+KMT2D_damaging_to_KMT2C,Avana,ACH-000735,Head and Neck,damaging,0.7023814349252322
+KMT2D_damaging_to_KMT2C,Avana,ACH-000736,Esophagus/Stomach,matrix_intact,-0.08341954173257843
+KMT2D_damaging_to_KMT2C,Avana,ACH-000738,CNS/Brain,matrix_intact,0.1567609791051558
+KMT2D_damaging_to_KMT2C,Avana,ACH-000739,Liver,matrix_intact,-0.03131385826057898
+KMT2D_damaging_to_KMT2C,Avana,ACH-000740,Head and Neck,damaging,0.11283151966483594
+KMT2D_damaging_to_KMT2C,Avana,ACH-000741,Bladder/Urinary Tract,matrix_intact,-0.5073184520551561
+KMT2D_damaging_to_KMT2C,Avana,ACH-000746,Esophagus/Stomach,matrix_intact,0.14641938777279945
+KMT2D_damaging_to_KMT2C,Avana,ACH-000747,Lung,matrix_intact,0.14044164452710062
+KMT2D_damaging_to_KMT2C,Avana,ACH-000748,Bone,damaging,0.2327035747075516
+KMT2D_damaging_to_KMT2C,Avana,ACH-000753,Bladder/Urinary Tract,matrix_intact,-0.38478812437346605
+KMT2D_damaging_to_KMT2C,Avana,ACH-000754,Lymphoid,matrix_intact,-0.3611638893832375
+KMT2D_damaging_to_KMT2C,Avana,ACH-000756,CNS/Brain,matrix_intact,0.9449657852016067
+KMT2D_damaging_to_KMT2C,Avana,ACH-000757,Lung,matrix_intact,-0.034933418613740386
+KMT2D_damaging_to_KMT2C,Avana,ACH-000758,Esophagus/Stomach,matrix_intact,0.07006728709845954
+KMT2D_damaging_to_KMT2C,Avana,ACH-000760,CNS/Brain,matrix_intact,-0.2111686105393638
+KMT2D_damaging_to_KMT2C,Avana,ACH-000762,Head and Neck,matrix_intact,-0.2614120662365235
+KMT2D_damaging_to_KMT2C,Avana,ACH-000763,Lymphoid,matrix_intact,-0.10016644191543454
+KMT2D_damaging_to_KMT2C,Avana,ACH-000764,Esophagus/Stomach,matrix_intact,-0.2644711914418143
+KMT2D_damaging_to_KMT2C,Avana,ACH-000765,Skin,damaging,-0.3995094044446894
+KMT2D_damaging_to_KMT2C,Avana,ACH-000766,Lung,matrix_intact,0.32269741425455045
+KMT2D_damaging_to_KMT2C,Avana,ACH-000767,Lung,matrix_intact,-0.30365186565594543
+KMT2D_damaging_to_KMT2C,Avana,ACH-000768,Breast,matrix_intact,0.4339185752961927
+KMT2D_damaging_to_KMT2C,Avana,ACH-000769,Lung,damaging,0.18620551955840364
+KMT2D_damaging_to_KMT2C,Avana,ACH-000770,Myeloid,matrix_intact,-0.32305972554880386
+KMT2D_damaging_to_KMT2C,Avana,ACH-000771,Head and Neck,matrix_intact,0.4876761169638426
+KMT2D_damaging_to_KMT2C,Avana,ACH-000773,Lymphoid,matrix_intact,-0.5025212385941851
+KMT2D_damaging_to_KMT2C,Avana,ACH-000774,Lung,matrix_intact,0.6085016311329379
+KMT2D_damaging_to_KMT2C,Avana,ACH-000775,Lung,matrix_intact,-0.3316720625875207
+KMT2D_damaging_to_KMT2C,Avana,ACH-000776,CNS/Brain,matrix_intact,0.16598198489275612
+KMT2D_damaging_to_KMT2C,Avana,ACH-000777,Esophagus/Stomach,matrix_intact,0.02166444897958371
+KMT2D_damaging_to_KMT2C,Avana,ACH-000778,Head and Neck,matrix_intact,0.1289918919605251
+KMT2D_damaging_to_KMT2C,Avana,ACH-000781,Lung,matrix_intact,-0.5663585072672499
+KMT2D_damaging_to_KMT2C,Avana,ACH-000782,Lymphoid,matrix_intact,0.24318932979424485
+KMT2D_damaging_to_KMT2C,Avana,ACH-000783,Breast,matrix_intact,0.5111379029159213
+KMT2D_damaging_to_KMT2C,Avana,ACH-000784,Esophagus/Stomach,matrix_intact,0.13096197473462606
+KMT2D_damaging_to_KMT2C,Avana,ACH-000785,Lung,matrix_intact,-0.035518281934494585
+KMT2D_damaging_to_KMT2C,Avana,ACH-000787,Lung,matrix_intact,0.2853666307033391
+KMT2D_damaging_to_KMT2C,Avana,ACH-000788,Skin,matrix_intact,-0.1283224980134162
+KMT2D_damaging_to_KMT2C,Avana,ACH-000790,Lung,matrix_intact,0.07995676976538496
+KMT2D_damaging_to_KMT2C,Avana,ACH-000791,Lung,matrix_intact,-0.02745394220284767
+KMT2D_damaging_to_KMT2C,Avana,ACH-000792,Kidney,matrix_intact,0.4536351407162487
+KMT2D_damaging_to_KMT2C,Avana,ACH-000793,Esophagus/Stomach,damaging,0.1891462487014745
+KMT2D_damaging_to_KMT2C,Avana,ACH-000794,Head and Neck,matrix_intact,0.3263546630791381
+KMT2D_damaging_to_KMT2C,Avana,ACH-000796,Ovary/Fallopian Tube,matrix_intact,0.9827552584367742
+KMT2D_damaging_to_KMT2C,Avana,ACH-000799,Skin,matrix_intact,-0.27902428563855475
+KMT2D_damaging_to_KMT2C,Avana,ACH-000800,Lung,damaging,0.014737244661450377
+KMT2D_damaging_to_KMT2C,Avana,ACH-000801,Skin,matrix_intact,-0.15027663383828893
+KMT2D_damaging_to_KMT2C,Avana,ACH-000802,Bladder/Urinary Tract,matrix_intact,0.11432597365392867
+KMT2D_damaging_to_KMT2C,Avana,ACH-000804,Peripheral Nervous System,matrix_intact,-0.3445511173337739
+KMT2D_damaging_to_KMT2C,Avana,ACH-000805,Skin,matrix_intact,-0.11163407607905376
+KMT2D_damaging_to_KMT2C,Avana,ACH-000807,CNS/Brain,matrix_intact,-0.13366950721325743
+KMT2D_damaging_to_KMT2C,Avana,ACH-000809,Esophagus/Stomach,matrix_intact,-0.05484800724274743
+KMT2D_damaging_to_KMT2C,Avana,ACH-000810,Skin,matrix_intact,-0.058589851672344755
+KMT2D_damaging_to_KMT2C,Avana,ACH-000811,Ovary/Fallopian Tube,matrix_intact,-0.007788784879586889
+KMT2D_damaging_to_KMT2C,Avana,ACH-000817,Lymphoid,matrix_intact,-0.8867995167486922
+KMT2D_damaging_to_KMT2C,Avana,ACH-000819,CNS/Brain,matrix_intact,0.08052118341490021
+KMT2D_damaging_to_KMT2C,Avana,ACH-000820,Bowel,matrix_intact,-0.020762452148003922
+KMT2D_damaging_to_KMT2C,Avana,ACH-000821,Lymphoid,matrix_intact,-0.41409656175383247
+KMT2D_damaging_to_KMT2C,Avana,ACH-000822,Skin,damaging,-0.8673003013411065
+KMT2D_damaging_to_KMT2C,Avana,ACH-000823,Esophagus/Stomach,matrix_intact,0.28027708347880426
+KMT2D_damaging_to_KMT2C,Avana,ACH-000824,Esophagus/Stomach,matrix_intact,0.26979104244893426
+KMT2D_damaging_to_KMT2C,Avana,ACH-000827,Skin,matrix_intact,-0.4651532984152579
+KMT2D_damaging_to_KMT2C,Avana,ACH-000829,Lymphoid,damaging,0.22638752241795546
+KMT2D_damaging_to_KMT2C,Avana,ACH-000831,Uterus,matrix_intact,0.4467089043783922
+KMT2D_damaging_to_KMT2C,Avana,ACH-000832,Head and Neck,matrix_intact,0.3704098512868558
+KMT2D_damaging_to_KMT2C,Avana,ACH-000833,Soft Tissue,matrix_intact,-0.23721431107062813
+KMT2D_damaging_to_KMT2C,Avana,ACH-000834,Bladder/Urinary Tract,matrix_intact,0.07205391527701488
+KMT2D_damaging_to_KMT2C,Avana,ACH-000835,Soft Tissue,matrix_intact,0.2165846282729168
+KMT2D_damaging_to_KMT2C,Avana,ACH-000836,Head and Neck,matrix_intact,0.27312287366265686
+KMT2D_damaging_to_KMT2C,Avana,ACH-000837,Lung,matrix_intact,0.12669016819857284
+KMT2D_damaging_to_KMT2C,Avana,ACH-000838,Lymphoid,matrix_intact,-0.05376870312713249
+KMT2D_damaging_to_KMT2C,Avana,ACH-000839,Bladder/Urinary Tract,matrix_intact,-0.06985645323133263
+KMT2D_damaging_to_KMT2C,Avana,ACH-000840,Lung,matrix_intact,0.1859191253869389
+KMT2D_damaging_to_KMT2C,Avana,ACH-000841,Lung,matrix_intact,-0.052892654175681515
+KMT2D_damaging_to_KMT2C,Avana,ACH-000843,Lung,matrix_intact,0.05729466945105927
+KMT2D_damaging_to_KMT2C,Avana,ACH-000845,Lung,matrix_intact,0.04193285511449574
+KMT2D_damaging_to_KMT2C,Avana,ACH-000846,Head and Neck,matrix_intact,0.3211606454652639
+KMT2D_damaging_to_KMT2C,Avana,ACH-000847,Esophagus/Stomach,matrix_intact,-0.013006491339051116
+KMT2D_damaging_to_KMT2C,Avana,ACH-000848,Liver,matrix_intact,-0.0819949344947979
+KMT2D_damaging_to_KMT2C,Avana,ACH-000849,Breast,matrix_intact,-0.2555933621336487
+KMT2D_damaging_to_KMT2C,Avana,ACH-000851,Lung,matrix_intact,-0.5443174389775303
+KMT2D_damaging_to_KMT2C,Avana,ACH-000853,Lung,matrix_intact,0.1611653298974373
+KMT2D_damaging_to_KMT2C,Avana,ACH-000855,Esophagus/Stomach,matrix_intact,0.4694831788702539
+KMT2D_damaging_to_KMT2C,Avana,ACH-000856,Breast,matrix_intact,-0.5929568544806756
+KMT2D_damaging_to_KMT2C,Avana,ACH-000858,Lung,matrix_intact,0.1601228385899306
+KMT2D_damaging_to_KMT2C,Avana,ACH-000859,Breast,matrix_intact,0.32340544044326514
+KMT2D_damaging_to_KMT2C,Avana,ACH-000860,Lung,matrix_intact,0.0832954580359643
+KMT2D_damaging_to_KMT2C,Avana,ACH-000861,Lung,matrix_intact,-0.001366284132351226
+KMT2D_damaging_to_KMT2C,Avana,ACH-000862,Bladder/Urinary Tract,matrix_intact,0.042087378095599697
+KMT2D_damaging_to_KMT2C,Avana,ACH-000865,Esophagus/Stomach,damaging,0.5560862335159267
+KMT2D_damaging_to_KMT2C,Avana,ACH-000866,Lung,damaging,-0.8075974957289516
+KMT2D_damaging_to_KMT2C,Avana,ACH-000867,Lung,matrix_intact,0.037074729163818695
+KMT2D_damaging_to_KMT2C,Avana,ACH-000869,Lung,damaging,-0.4013472249967931
+KMT2D_damaging_to_KMT2C,Avana,ACH-000871,Lung,matrix_intact,0.15269777144254043
+KMT2D_damaging_to_KMT2C,Avana,ACH-000872,Lung,matrix_intact,-0.312932515750324
+KMT2D_damaging_to_KMT2C,Avana,ACH-000873,Esophagus/Stomach,matrix_intact,-0.38703657147066073
+KMT2D_damaging_to_KMT2C,Avana,ACH-000876,Breast,matrix_intact,0.2485192754018814
+KMT2D_damaging_to_KMT2C,Avana,ACH-000878,Lung,matrix_intact,-0.1106078756687291
+KMT2D_damaging_to_KMT2C,Avana,ACH-000880,Esophagus/Stomach,matrix_intact,-0.08368932362181963
+KMT2D_damaging_to_KMT2C,Avana,ACH-000881,Skin,damaging,0.02766731889737535
+KMT2D_damaging_to_KMT2C,Avana,ACH-000882,Skin,matrix_intact,-0.2167521202883514
+KMT2D_damaging_to_KMT2C,Avana,ACH-000884,Skin,matrix_intact,0.2956346901947717
+KMT2D_damaging_to_KMT2C,Avana,ACH-000885,Ovary/Fallopian Tube,damaging,-0.21610858733866511
+KMT2D_damaging_to_KMT2C,Avana,ACH-000886,Lung,matrix_intact,-0.18919161200129503
+KMT2D_damaging_to_KMT2C,Avana,ACH-000887,CNS/Brain,matrix_intact,-0.005867097465839632
+KMT2D_damaging_to_KMT2C,Avana,ACH-000888,Lung,matrix_intact,0.31100137879829015
+KMT2D_damaging_to_KMT2C,Avana,ACH-000889,Lymphoid,damaging,-0.522048435575464
+KMT2D_damaging_to_KMT2C,Avana,ACH-000890,Lung,matrix_intact,-0.09103664381681037
+KMT2D_damaging_to_KMT2C,Avana,ACH-000896,Bladder/Urinary Tract,matrix_intact,0.04148024350168407
+KMT2D_damaging_to_KMT2C,Avana,ACH-000898,Esophagus/Stomach,matrix_intact,-0.3715086486616453
+KMT2D_damaging_to_KMT2C,Avana,ACH-000899,Skin,matrix_intact,-0.2636906630978597
+KMT2D_damaging_to_KMT2C,Avana,ACH-000900,Lung,matrix_intact,-0.0724258994997597
+KMT2D_damaging_to_KMT2C,Avana,ACH-000901,Lung,matrix_intact,-0.21888540196499873
+KMT2D_damaging_to_KMT2C,Avana,ACH-000903,Thyroid,matrix_intact,-0.286458824285206
+KMT2D_damaging_to_KMT2C,Avana,ACH-000905,Bladder/Urinary Tract,damaging,0.2025620901518064
+KMT2D_damaging_to_KMT2C,Avana,ACH-000906,Ovary/Fallopian Tube,matrix_intact,-0.02992312037001594
+KMT2D_damaging_to_KMT2C,Avana,ACH-000907,Kidney,damaging,-0.2758247850686102
+KMT2D_damaging_to_KMT2C,Avana,ACH-000910,Breast,matrix_intact,-0.8011184765585655
+KMT2D_damaging_to_KMT2C,Avana,ACH-000911,Esophagus/Stomach,matrix_intact,0.12472990314773424
+KMT2D_damaging_to_KMT2C,Avana,ACH-000912,Lung,matrix_intact,-0.2852893068049344
+KMT2D_damaging_to_KMT2C,Avana,ACH-000913,Uterus,matrix_intact,0.24392989852124458
+KMT2D_damaging_to_KMT2C,Avana,ACH-000914,Lymphoid,matrix_intact,0.3792749921564337
+KMT2D_damaging_to_KMT2C,Avana,ACH-000915,Skin,matrix_intact,0.12505804849411278
+KMT2D_damaging_to_KMT2C,Avana,ACH-000916,Lung,matrix_intact,-0.20165066217654287
+KMT2D_damaging_to_KMT2C,Avana,ACH-000917,Esophagus/Stomach,matrix_intact,0.22555351841007404
+KMT2D_damaging_to_KMT2C,Avana,ACH-000920,Myeloid,damaging,-0.03659575535993919
+KMT2D_damaging_to_KMT2C,Avana,ACH-000921,Lung,matrix_intact,-0.222140711967024
+KMT2D_damaging_to_KMT2C,Avana,ACH-000922,Lymphoid,matrix_intact,0.32924513125765287
+KMT2D_damaging_to_KMT2C,Avana,ACH-000924,Lung,matrix_intact,-0.7444460731121381
+KMT2D_damaging_to_KMT2C,Avana,ACH-000926,Bowel,matrix_intact,-0.30859188313892516
+KMT2D_damaging_to_KMT2C,Avana,ACH-000928,Uterus,damaging,-0.3088196701823085
+KMT2D_damaging_to_KMT2C,Avana,ACH-000929,Lung,matrix_intact,0.1490189821338324
+KMT2D_damaging_to_KMT2C,Avana,ACH-000932,Esophagus/Stomach,damaging,-0.7043651528841641
+KMT2D_damaging_to_KMT2C,Avana,ACH-000935,Bowel,matrix_intact,-0.03178449057480549
+KMT2D_damaging_to_KMT2C,Avana,ACH-000936,Ovary/Fallopian Tube,damaging,-0.19317365444002238
+KMT2D_damaging_to_KMT2C,Avana,ACH-000937,Lymphoid,matrix_intact,-0.15870015870203688
+KMT2D_damaging_to_KMT2C,Avana,ACH-000938,Lymphoid,matrix_intact,0.12247800438765746
+KMT2D_damaging_to_KMT2C,Avana,ACH-000939,Uterus,damaging,-0.5115651569277003
+KMT2D_damaging_to_KMT2C,Avana,ACH-000941,Uterus,damaging,0.2401221318355357
+KMT2D_damaging_to_KMT2C,Avana,ACH-000943,Bowel,damaging,-0.07368542322708979
+KMT2D_damaging_to_KMT2C,Avana,ACH-000944,Lymphoid,matrix_intact,-0.03161903321832241
+KMT2D_damaging_to_KMT2C,Avana,ACH-000946,Uterus,damaging,-0.01537840469793135
+KMT2D_damaging_to_KMT2C,Avana,ACH-000947,Ovary/Fallopian Tube,matrix_intact,-0.12423764080060803
+KMT2D_damaging_to_KMT2C,Avana,ACH-000948,Esophagus/Stomach,matrix_intact,-0.3296210084513475
+KMT2D_damaging_to_KMT2C,Avana,ACH-000950,Bowel,damaging,-0.10319754847531912
+KMT2D_damaging_to_KMT2C,Avana,ACH-000953,Lymphoid,matrix_intact,0.04379911252163954
+KMT2D_damaging_to_KMT2C,Avana,ACH-000957,Bowel,matrix_intact,-0.04976470929757905
+KMT2D_damaging_to_KMT2C,Avana,ACH-000958,Bowel,damaging,-0.6138549491765786
+KMT2D_damaging_to_KMT2C,Avana,ACH-000959,Bowel,damaging,-0.011297165516583468
+KMT2D_damaging_to_KMT2C,Avana,ACH-000960,Lymphoid,damaging,-0.007628277898500631
+KMT2D_damaging_to_KMT2C,Avana,ACH-000961,Uterus,damaging,-0.1463107167167439
+KMT2D_damaging_to_KMT2C,Avana,ACH-000963,Bowel,damaging,-0.0188384379309927
+KMT2D_damaging_to_KMT2C,Avana,ACH-000965,Uterus,damaging,0.22581812677180044
+KMT2D_damaging_to_KMT2C,Avana,ACH-000968,Skin,matrix_intact,0.051736869942309235
+KMT2D_damaging_to_KMT2C,Avana,ACH-000969,Bowel,damaging,-0.09438508542137122
+KMT2D_damaging_to_KMT2C,Avana,ACH-000973,Bladder/Urinary Tract,damaging,-0.16224820787236374
+KMT2D_damaging_to_KMT2C,Avana,ACH-000974,Uterus,matrix_intact,-0.1342496071887579
+KMT2D_damaging_to_KMT2C,Avana,ACH-000975,Lung,matrix_intact,0.1032247256972783
+KMT2D_damaging_to_KMT2C,Avana,ACH-000976,Biliary Tract,damaging,0.535518535128066
+KMT2D_damaging_to_KMT2C,Avana,ACH-000977,Prostate,matrix_intact,0.13365864415402517
+KMT2D_damaging_to_KMT2C,Avana,ACH-000978,Uterus,damaging,-0.3154785046602941
+KMT2D_damaging_to_KMT2C,Avana,ACH-000980,Lung,matrix_intact,0.005211436190235938
+KMT2D_damaging_to_KMT2C,Avana,ACH-000983,Myeloid,matrix_intact,0.4191525311778484
+KMT2D_damaging_to_KMT2C,Avana,ACH-000984,Uterus,damaging,-0.2212607198149716
+KMT2D_damaging_to_KMT2C,Avana,ACH-000986,Bowel,matrix_intact,-0.0671658660800209
+KMT2D_damaging_to_KMT2C,Avana,ACH-000988,Uterus,damaging,0.17807357660792406
+KMT2D_damaging_to_KMT2C,Avana,ACH-000993,Uterus,matrix_intact,-0.2414927009650744
+KMT2D_damaging_to_KMT2C,Avana,ACH-000994,Uterus,damaging,-1.082041748590529
+KMT2D_damaging_to_KMT2C,Avana,ACH-000995,Lymphoid,damaging,-0.11160194519241574
+KMT2D_damaging_to_KMT2C,Avana,ACH-000996,Uterus,matrix_intact,-0.555496524191168
+KMT2D_damaging_to_KMT2C,Avana,ACH-001001,Bone,matrix_intact,0.25230914291078144
+KMT2D_damaging_to_KMT2C,Avana,ACH-001020,CNS/Brain,matrix_intact,-0.19226481834111203
+KMT2D_damaging_to_KMT2C,Avana,ACH-001028,CNS/Brain,matrix_intact,0.6930109898287022
+KMT2D_damaging_to_KMT2C,Avana,ACH-001029,Bone,matrix_intact,-0.1594287307939743
+KMT2D_damaging_to_KMT2C,Avana,ACH-001031,CNS/Brain,matrix_intact,-0.9430174687988737
+KMT2D_damaging_to_KMT2C,Avana,ACH-001033,CNS/Brain,matrix_intact,-0.29757662448482414
+KMT2D_damaging_to_KMT2C,Avana,ACH-001036,Myeloid,matrix_intact,-0.26147402749439663
+KMT2D_damaging_to_KMT2C,Avana,ACH-001038,Bone,matrix_intact,-0.45326533148225145
+KMT2D_damaging_to_KMT2C,Avana,ACH-001041,Skin,matrix_intact,0.653321055864736
+KMT2D_damaging_to_KMT2C,Avana,ACH-001048,Ovary/Fallopian Tube,matrix_intact,0.1674238761248273
+KMT2D_damaging_to_KMT2C,Avana,ACH-001050,Soft Tissue,matrix_intact,0.7931623376597664
+KMT2D_damaging_to_KMT2C,Avana,ACH-001053,CNS/Brain,matrix_intact,-0.2414713479278003
+KMT2D_damaging_to_KMT2C,Avana,ACH-001054,CNS/Brain,matrix_intact,0.08218489680419931
+KMT2D_damaging_to_KMT2C,Avana,ACH-001061,Bowel,matrix_intact,-0.11176105986824454
+KMT2D_damaging_to_KMT2C,Avana,ACH-001067,CNS/Brain,matrix_intact,-0.5930578636415686
+KMT2D_damaging_to_KMT2C,Avana,ACH-001075,Lung,matrix_intact,0.28026488830835194
+KMT2D_damaging_to_KMT2C,Avana,ACH-001096,Soft Tissue,matrix_intact,0.10746395259416233
+KMT2D_damaging_to_KMT2C,Avana,ACH-001098,Pancreas,matrix_intact,0.16726981039998
+KMT2D_damaging_to_KMT2C,Avana,ACH-001099,Kidney,matrix_intact,-0.27132416950385346
+KMT2D_damaging_to_KMT2C,Avana,ACH-001119,Lymphoid,matrix_intact,-0.3727285195618819
+KMT2D_damaging_to_KMT2C,Avana,ACH-001128,Kidney,matrix_intact,0.03302949752191042
+KMT2D_damaging_to_KMT2C,Avana,ACH-001129,Myeloid,matrix_intact,-0.028008431114767612
+KMT2D_damaging_to_KMT2C,Avana,ACH-001134,Lymphoid,matrix_intact,-0.18186443962925003
+KMT2D_damaging_to_KMT2C,Avana,ACH-001145,Ovary/Fallopian Tube,damaging,-0.11657397095533642
+KMT2D_damaging_to_KMT2C,Avana,ACH-001151,Ovary/Fallopian Tube,matrix_intact,0.24494557204005132
+KMT2D_damaging_to_KMT2C,Avana,ACH-001163,Kidney,matrix_intact,-0.22836365471507042
+KMT2D_damaging_to_KMT2C,Avana,ACH-001164,Soft Tissue,matrix_intact,-0.2757336230110202
+KMT2D_damaging_to_KMT2C,Avana,ACH-001172,CNS/Brain,matrix_intact,0.19708289553919361
+KMT2D_damaging_to_KMT2C,Avana,ACH-001183,Bladder/Urinary Tract,matrix_intact,0.09278997238494392
+KMT2D_damaging_to_KMT2C,Avana,ACH-001184,Soft Tissue,matrix_intact,-0.281292773806531
+KMT2D_damaging_to_KMT2C,Avana,ACH-001188,Peripheral Nervous System,matrix_intact,-0.24160812476179536
+KMT2D_damaging_to_KMT2C,Avana,ACH-001190,Skin,matrix_intact,0.15566691148790962
+KMT2D_damaging_to_KMT2C,Avana,ACH-001192,Bone,matrix_intact,-0.2363022637721257
+KMT2D_damaging_to_KMT2C,Avana,ACH-001193,Bone,matrix_intact,-0.24168570651530666
+KMT2D_damaging_to_KMT2C,Avana,ACH-001194,Kidney,matrix_intact,0.35975169089889736
+KMT2D_damaging_to_KMT2C,Avana,ACH-001196,Soft Tissue,matrix_intact,-0.1185952293637942
+KMT2D_damaging_to_KMT2C,Avana,ACH-001197,Lymphoid,matrix_intact,0.682538359421716
+KMT2D_damaging_to_KMT2C,Avana,ACH-001205,Bone,matrix_intact,-0.07487185582743226
+KMT2D_damaging_to_KMT2C,Avana,ACH-001211,Kidney,matrix_intact,-0.10822303912337906
+KMT2D_damaging_to_KMT2C,Avana,ACH-001212,Kidney,matrix_intact,-0.22928970322281916
+KMT2D_damaging_to_KMT2C,Avana,ACH-001228,Head and Neck,matrix_intact,-0.09403000384613594
+KMT2D_damaging_to_KMT2C,Avana,ACH-001229,Head and Neck,matrix_intact,0.28148631672299984
+KMT2D_damaging_to_KMT2C,Avana,ACH-001232,CNS/Brain,matrix_intact,-0.47207817553738723
+KMT2D_damaging_to_KMT2C,Avana,ACH-001239,Skin,matrix_intact,0.47867318161645256
+KMT2D_damaging_to_KMT2C,Avana,ACH-001270,Soft Tissue,matrix_intact,-0.04087599800945309
+KMT2D_damaging_to_KMT2C,Avana,ACH-001274,Soft Tissue,matrix_intact,0.23233436399452317
+KMT2D_damaging_to_KMT2C,Avana,ACH-001275,Soft Tissue,matrix_intact,-0.17036035059460675
+KMT2D_damaging_to_KMT2C,Avana,ACH-001277,Soft Tissue,matrix_intact,-0.04828401549535541
+KMT2D_damaging_to_KMT2C,Avana,ACH-001278,Ovary/Fallopian Tube,matrix_intact,-0.517908170092976
+KMT2D_damaging_to_KMT2C,Avana,ACH-001279,Ovary/Fallopian Tube,matrix_intact,-0.5832034493782609
+KMT2D_damaging_to_KMT2C,Avana,ACH-001280,Soft Tissue,matrix_intact,-0.052910337920770344
+KMT2D_damaging_to_KMT2C,Avana,ACH-001283,Bone,matrix_intact,-0.044186670206332046
+KMT2D_damaging_to_KMT2C,Avana,ACH-001289,CNS/Brain,matrix_intact,-1.073175132934915
+KMT2D_damaging_to_KMT2C,Avana,ACH-001295,Eye,matrix_intact,-0.12199526427500154
+KMT2D_damaging_to_KMT2C,Avana,ACH-001300,Peripheral Nervous System,matrix_intact,0.007641684354741371
+KMT2D_damaging_to_KMT2C,Avana,ACH-001301,Peripheral Nervous System,matrix_intact,-0.15482893713273468
+KMT2D_damaging_to_KMT2C,Avana,ACH-001302,Peripheral Nervous System,matrix_intact,-0.2256038248394634
+KMT2D_damaging_to_KMT2C,Avana,ACH-001303,Peripheral Nervous System,matrix_intact,-0.058107422070460435
+KMT2D_damaging_to_KMT2C,Avana,ACH-001306,Thyroid,matrix_intact,0.045963675049490046
+KMT2D_damaging_to_KMT2C,Avana,ACH-001307,Thyroid,matrix_intact,0.4411117494645209
+KMT2D_damaging_to_KMT2C,Avana,ACH-001310,Kidney,matrix_intact,0.24447639817772027
+KMT2D_damaging_to_KMT2C,Avana,ACH-001318,Liver,matrix_intact,-0.215537055422244
+KMT2D_damaging_to_KMT2C,Avana,ACH-001322,Soft Tissue,matrix_intact,-0.018042237224215663
+KMT2D_damaging_to_KMT2C,Avana,ACH-001328,Skin,matrix_intact,-0.3863597875905508
+KMT2D_damaging_to_KMT2C,Avana,ACH-001329,CNS/Brain,matrix_intact,-0.09524075618466823
+KMT2D_damaging_to_KMT2C,Avana,ACH-001333,Cervix,damaging,-0.5746183839088843
+KMT2D_damaging_to_KMT2C,Avana,ACH-001334,Cervix,matrix_intact,0.23395035799412298
+KMT2D_damaging_to_KMT2C,Avana,ACH-001335,Cervix,matrix_intact,0.17948086171970384
+KMT2D_damaging_to_KMT2C,Avana,ACH-001336,Cervix,damaging,0.13525466527671165
+KMT2D_damaging_to_KMT2C,Avana,ACH-001338,Peripheral Nervous System,matrix_intact,0.029729896827909
+KMT2D_damaging_to_KMT2C,Avana,ACH-001340,Ovary/Fallopian Tube,matrix_intact,-0.00779926255523794
+KMT2D_damaging_to_KMT2C,Avana,ACH-001341,Cervix,matrix_intact,0.03807875757227435
+KMT2D_damaging_to_KMT2C,Avana,ACH-001344,Peripheral Nervous System,matrix_intact,-0.33441727320313847
+KMT2D_damaging_to_KMT2C,Avana,ACH-001345,Bowel,damaging,0.0407393545871182
+KMT2D_damaging_to_KMT2C,Avana,ACH-001346,Head and Neck,matrix_intact,0.010951497394620896
+KMT2D_damaging_to_KMT2C,Avana,ACH-001347,Head and Neck,matrix_intact,-0.9602430839986273
+KMT2D_damaging_to_KMT2C,Avana,ACH-001353,Pancreas,matrix_intact,1.0218266155772282
+KMT2D_damaging_to_KMT2C,Avana,ACH-001354,Peripheral Nervous System,matrix_intact,-0.5486434332905381
+KMT2D_damaging_to_KMT2C,Avana,ACH-001356,Thyroid,matrix_intact,-0.04020362220086578
+KMT2D_damaging_to_KMT2C,Avana,ACH-001360,Cervix,matrix_intact,0.15039615671478004
+KMT2D_damaging_to_KMT2C,Avana,ACH-001366,Peripheral Nervous System,matrix_intact,-0.11791283796025633
+KMT2D_damaging_to_KMT2C,Avana,ACH-001367,Peripheral Nervous System,matrix_intact,-0.23140069058666768
+KMT2D_damaging_to_KMT2C,Avana,ACH-001368,Esophagus/Stomach,matrix_intact,0.030278468712278322
+KMT2D_damaging_to_KMT2C,Avana,ACH-001370,Ovary/Fallopian Tube,matrix_intact,-0.10628809334233107
+KMT2D_damaging_to_KMT2C,Avana,ACH-001374,Ovary/Fallopian Tube,matrix_intact,-0.28614483060411633
+KMT2D_damaging_to_KMT2C,Avana,ACH-001375,Pancreas,matrix_intact,0.5473812102678388
+KMT2D_damaging_to_KMT2C,Avana,ACH-001377,Pancreas,damaging,0.08842824723084292
+KMT2D_damaging_to_KMT2C,Avana,ACH-001379,Pancreas,matrix_intact,-0.21606315431646328
+KMT2D_damaging_to_KMT2C,Avana,ACH-001380,Pancreas,matrix_intact,-0.21915721611581324
+KMT2D_damaging_to_KMT2C,Avana,ACH-001382,Pancreas,matrix_intact,0.03413703445621144
+KMT2D_damaging_to_KMT2C,Avana,ACH-001385,Head and Neck,matrix_intact,-0.2197549507931962
+KMT2D_damaging_to_KMT2C,Avana,ACH-001386,Lung,matrix_intact,0.08910982546088676
+KMT2D_damaging_to_KMT2C,Avana,ACH-001388,Breast,matrix_intact,0.18916398916048344
+KMT2D_damaging_to_KMT2C,Avana,ACH-001389,Breast,matrix_intact,-0.5305457773552478
+KMT2D_damaging_to_KMT2C,Avana,ACH-001390,Breast,matrix_intact,-0.24380825373565335
+KMT2D_damaging_to_KMT2C,Avana,ACH-001391,Breast,matrix_intact,-0.06911173182433403
+KMT2D_damaging_to_KMT2C,Avana,ACH-001392,Breast,matrix_intact,0.16014509436771637
+KMT2D_damaging_to_KMT2C,Avana,ACH-001393,Breast,matrix_intact,0.09068728814185906
+KMT2D_damaging_to_KMT2C,Avana,ACH-001394,Breast,matrix_intact,0.7732943628395569
+KMT2D_damaging_to_KMT2C,Avana,ACH-001396,Breast,matrix_intact,-0.0604025180290471
+KMT2D_damaging_to_KMT2C,Avana,ACH-001398,Kidney,matrix_intact,0.029624937629097153
+KMT2D_damaging_to_KMT2C,Avana,ACH-001400,Vulva/Vagina,matrix_intact,0.16145891839782034
+KMT2D_damaging_to_KMT2C,Avana,ACH-001402,Cervix,matrix_intact,-0.26278366778203216
+KMT2D_damaging_to_KMT2C,Avana,ACH-001403,Ovary/Fallopian Tube,matrix_intact,-0.07479770863884964
+KMT2D_damaging_to_KMT2C,Avana,ACH-001407,Bladder/Urinary Tract,damaging,0.6033365256401013
+KMT2D_damaging_to_KMT2C,Avana,ACH-001408,Bladder/Urinary Tract,damaging,-0.2718122861660172
+KMT2D_damaging_to_KMT2C,Avana,ACH-001409,Bladder/Urinary Tract,matrix_intact,0.20191709190147134
+KMT2D_damaging_to_KMT2C,Avana,ACH-001411,Bladder/Urinary Tract,matrix_intact,0.00976135649410457
+KMT2D_damaging_to_KMT2C,Avana,ACH-001412,Bladder/Urinary Tract,matrix_intact,0.22910921706799314
+KMT2D_damaging_to_KMT2C,Avana,ACH-001413,Bladder/Urinary Tract,matrix_intact,-0.2608283400049895
+KMT2D_damaging_to_KMT2C,Avana,ACH-001414,Bladder/Urinary Tract,damaging,-0.851725504625511
+KMT2D_damaging_to_KMT2C,Avana,ACH-001415,Bladder/Urinary Tract,matrix_intact,-0.044685133291832733
+KMT2D_damaging_to_KMT2C,Avana,ACH-001416,Bladder/Urinary Tract,matrix_intact,-0.5162285467449985
+KMT2D_damaging_to_KMT2C,Avana,ACH-001418,Ovary/Fallopian Tube,matrix_intact,0.2767972989624736
+KMT2D_damaging_to_KMT2C,Avana,ACH-001419,Breast,matrix_intact,0.06208537493696918
+KMT2D_damaging_to_KMT2C,Avana,ACH-001421,Eye,matrix_intact,0.07108369605097216
+KMT2D_damaging_to_KMT2C,Avana,ACH-001422,Prostate,matrix_intact,0.17512318547716213
+KMT2D_damaging_to_KMT2C,Avana,ACH-001430,Bone,matrix_intact,-0.20041680138044665
+KMT2D_damaging_to_KMT2C,Avana,ACH-001431,Bone,matrix_intact,-0.39271660566499145
+KMT2D_damaging_to_KMT2C,Avana,ACH-001433,Soft Tissue,matrix_intact,-0.7825098506688857
+KMT2D_damaging_to_KMT2C,Avana,ACH-001442,Skin,matrix_intact,0.46444574265452987
+KMT2D_damaging_to_KMT2C,Avana,ACH-001443,Thyroid,matrix_intact,-0.7061116882803314
+KMT2D_damaging_to_KMT2C,Avana,ACH-001450,Lymphoid,matrix_intact,-0.2412715484598129
+KMT2D_damaging_to_KMT2C,Avana,ACH-001451,Cervix,matrix_intact,-0.1866804734898358
+KMT2D_damaging_to_KMT2C,Avana,ACH-001453,Prostate,matrix_intact,-0.5585024067904087
+KMT2D_damaging_to_KMT2C,Avana,ACH-001454,Bowel,matrix_intact,0.06453789554888935
+KMT2D_damaging_to_KMT2C,Avana,ACH-001458,Bowel,matrix_intact,-0.21249880806640503
+KMT2D_damaging_to_KMT2C,Avana,ACH-001459,Bowel,matrix_intact,-0.01247258528864223
+KMT2D_damaging_to_KMT2C,Avana,ACH-001460,Bowel,matrix_intact,0.04852448750198142
+KMT2D_damaging_to_KMT2C,Avana,ACH-001461,Bowel,matrix_intact,-0.1179888627982164
+KMT2D_damaging_to_KMT2C,Avana,ACH-001481,Peripheral Nervous System,matrix_intact,0.08149890738382135
+KMT2D_damaging_to_KMT2C,Avana,ACH-001494,Biliary Tract,matrix_intact,0.25487936284292717
+KMT2D_damaging_to_KMT2C,Avana,ACH-001495,Uterus,matrix_intact,0.1880929513699181
+KMT2D_damaging_to_KMT2C,Avana,ACH-001496,Esophagus/Stomach,matrix_intact,-0.8110185804175563
+KMT2D_damaging_to_KMT2C,Avana,ACH-001497,Esophagus/Stomach,matrix_intact,0.29478230983933434
+KMT2D_damaging_to_KMT2C,Avana,ACH-001498,Lymphoid,matrix_intact,-0.5581379886331845
+KMT2D_damaging_to_KMT2C,Avana,ACH-001500,Esophagus/Stomach,matrix_intact,-0.04986991240124373
+KMT2D_damaging_to_KMT2C,Avana,ACH-001509,Head and Neck,matrix_intact,0.022357404868558146
+KMT2D_damaging_to_KMT2C,Avana,ACH-001510,Head and Neck,matrix_intact,0.04304861649362611
+KMT2D_damaging_to_KMT2C,Avana,ACH-001511,Head and Neck,matrix_intact,0.0002753679413914356
+KMT2D_damaging_to_KMT2C,Avana,ACH-001513,Cervix,matrix_intact,-0.33302772993648067
+KMT2D_damaging_to_KMT2C,Avana,ACH-001515,Cervix,matrix_intact,-1.0827956958882616
+KMT2D_damaging_to_KMT2C,Avana,ACH-001517,Uterus,matrix_intact,0.14971784806532232
+KMT2D_damaging_to_KMT2C,Avana,ACH-001518,Uterus,damaging,0.06789163114732402
+KMT2D_damaging_to_KMT2C,Avana,ACH-001520,Lymphoid,matrix_intact,0.13572115293206763
+KMT2D_damaging_to_KMT2C,Avana,ACH-001521,Skin,damaging,-0.01689689486033244
+KMT2D_damaging_to_KMT2C,Avana,ACH-001522,Skin,matrix_intact,0.030882604744080718
+KMT2D_damaging_to_KMT2C,Avana,ACH-001523,Skin,matrix_intact,-0.18216511761093152
+KMT2D_damaging_to_KMT2C,Avana,ACH-001524,Skin,damaging,0.1952318755624596
+KMT2D_damaging_to_KMT2C,Avana,ACH-001525,Cervix,matrix_intact,-0.19587599474595332
+KMT2D_damaging_to_KMT2C,Avana,ACH-001526,Bone,matrix_intact,0.08214262494564657
+KMT2D_damaging_to_KMT2C,Avana,ACH-001528,Thyroid,matrix_intact,-0.24934410223871284
+KMT2D_damaging_to_KMT2C,Avana,ACH-001529,Uterus,matrix_intact,-2.2986749124158665
+KMT2D_damaging_to_KMT2C,Avana,ACH-001530,Uterus,matrix_intact,-1.9075479492633778
+KMT2D_damaging_to_KMT2C,Avana,ACH-001532,Kidney,matrix_intact,-1.1512039970287868
+KMT2D_damaging_to_KMT2C,Avana,ACH-001533,Lymphoid,matrix_intact,-0.2344812157324637
+KMT2D_damaging_to_KMT2C,Avana,ACH-001536,Biliary Tract,matrix_intact,-0.17510720056294954
+KMT2D_damaging_to_KMT2C,Avana,ACH-001538,Biliary Tract,matrix_intact,0.00573566935307563
+KMT2D_damaging_to_KMT2C,Avana,ACH-001539,Lymphoid,matrix_intact,0.01133534643583732
+KMT2D_damaging_to_KMT2C,Avana,ACH-001542,Head and Neck,matrix_intact,0.40352959198674376
+KMT2D_damaging_to_KMT2C,Avana,ACH-001543,Head and Neck,matrix_intact,-0.7065980602847547
+KMT2D_damaging_to_KMT2C,Avana,ACH-001547,Pleura,matrix_intact,0.013106280398244685
+KMT2D_damaging_to_KMT2C,Avana,ACH-001548,Peripheral Nervous System,matrix_intact,-0.30334102791156736
+KMT2D_damaging_to_KMT2C,Avana,ACH-001549,Lung,matrix_intact,-1.0138406929785995
+KMT2D_damaging_to_KMT2C,Avana,ACH-001550,Skin,matrix_intact,0.07423716402251401
+KMT2D_damaging_to_KMT2C,Avana,ACH-001551,Skin,matrix_intact,0.007844848851227493
+KMT2D_damaging_to_KMT2C,Avana,ACH-001552,Skin,damaging,-0.1793412633228203
+KMT2D_damaging_to_KMT2C,Avana,ACH-001554,Eye,matrix_intact,0.2982991391544614
+KMT2D_damaging_to_KMT2C,Avana,ACH-001555,Pleura,matrix_intact,-1.5550321288239353
+KMT2D_damaging_to_KMT2C,Avana,ACH-001556,Pleura,matrix_intact,0.32552886465354935
+KMT2D_damaging_to_KMT2C,Avana,ACH-001557,Pleura,matrix_intact,-0.5878082995389536
+KMT2D_damaging_to_KMT2C,Avana,ACH-001558,Pleura,matrix_intact,-0.34936599549376446
+KMT2D_damaging_to_KMT2C,Avana,ACH-001559,Pleura,matrix_intact,0.040136490873470376
+KMT2D_damaging_to_KMT2C,Avana,ACH-001560,Pleura,matrix_intact,-0.38364301949526625
+KMT2D_damaging_to_KMT2C,Avana,ACH-001562,Pleura,matrix_intact,0.4943500797285684
+KMT2D_damaging_to_KMT2C,Avana,ACH-001563,Skin,matrix_intact,-0.3193616271886863
+KMT2D_damaging_to_KMT2C,Avana,ACH-001566,Skin,matrix_intact,-0.1415113708323759
+KMT2D_damaging_to_KMT2C,Avana,ACH-001567,Skin,matrix_intact,-0.007560460426046786
+KMT2D_damaging_to_KMT2C,Avana,ACH-001568,Skin,matrix_intact,0.035895900137097723
+KMT2D_damaging_to_KMT2C,Avana,ACH-001570,Skin,matrix_intact,0.24007272057135068
+KMT2D_damaging_to_KMT2C,Avana,ACH-001574,Myeloid,matrix_intact,1.167944783085288
+KMT2D_damaging_to_KMT2C,Avana,ACH-001577,Myeloid,matrix_intact,-0.35024057503370415
+KMT2D_damaging_to_KMT2C,Avana,ACH-001607,Biliary Tract,matrix_intact,0.42113039171062194
+KMT2D_damaging_to_KMT2C,Avana,ACH-001608,CNS/Brain,matrix_intact,0.03893424531785733
+KMT2D_damaging_to_KMT2C,Avana,ACH-001609,CNS/Brain,matrix_intact,0.3325428240621795
+KMT2D_damaging_to_KMT2C,Avana,ACH-001610,CNS/Brain,matrix_intact,-0.04322477152163323
+KMT2D_damaging_to_KMT2C,Avana,ACH-001611,CNS/Brain,matrix_intact,-0.527723724166024
+KMT2D_damaging_to_KMT2C,Avana,ACH-001616,Lymphoid,damaging,0.5368139489262844
+KMT2D_damaging_to_KMT2C,Avana,ACH-001618,Myeloid,matrix_intact,-0.201615858241476
+KMT2D_damaging_to_KMT2C,Avana,ACH-001619,Biliary Tract,matrix_intact,-0.0757916274957044
+KMT2D_damaging_to_KMT2C,Avana,ACH-001622,CNS/Brain,matrix_intact,-0.0550303663822769
+KMT2D_damaging_to_KMT2C,Avana,ACH-001623,CNS/Brain,matrix_intact,-0.3394306291460443
+KMT2D_damaging_to_KMT2C,Avana,ACH-001624,CNS/Brain,matrix_intact,-0.13764467377431977
+KMT2D_damaging_to_KMT2C,Avana,ACH-001627,Prostate,matrix_intact,0.3703521719726415
+KMT2D_damaging_to_KMT2C,Avana,ACH-001628,Ovary/Fallopian Tube,matrix_intact,0.2080408000200347
+KMT2D_damaging_to_KMT2C,Avana,ACH-001630,Ovary/Fallopian Tube,matrix_intact,0.041678887794647235
+KMT2D_damaging_to_KMT2C,Avana,ACH-001634,Lymphoid,matrix_intact,-0.5416265610861193
+KMT2D_damaging_to_KMT2C,Avana,ACH-001641,Head and Neck,matrix_intact,0.14538375388280356
+KMT2D_damaging_to_KMT2C,Avana,ACH-001645,Skin,matrix_intact,0.128292418295342
+KMT2D_damaging_to_KMT2C,Avana,ACH-001647,Myeloid,matrix_intact,-0.1464085267779693
+KMT2D_damaging_to_KMT2C,Avana,ACH-001648,Prostate,matrix_intact,0.4564430046320407
+KMT2D_damaging_to_KMT2C,Avana,ACH-001649,Prostate,matrix_intact,0.2510375477066411
+KMT2D_damaging_to_KMT2C,Avana,ACH-001650,Cervix,matrix_intact,0.1185234862741143
+KMT2D_damaging_to_KMT2C,Avana,ACH-001651,Cervix,matrix_intact,0.04782659597415017
+KMT2D_damaging_to_KMT2C,Avana,ACH-001652,Cervix,matrix_intact,0.18054546393381882
+KMT2D_damaging_to_KMT2C,Avana,ACH-001653,Esophagus/Stomach,matrix_intact,-0.07929699006642599
+KMT2D_damaging_to_KMT2C,Avana,ACH-001654,Esophagus/Stomach,matrix_intact,0.7294811690612168
+KMT2D_damaging_to_KMT2C,Avana,ACH-001655,Uterus,matrix_intact,0.16098758465714763
+KMT2D_damaging_to_KMT2C,Avana,ACH-001656,Myeloid,matrix_intact,0.18497807505899067
+KMT2D_damaging_to_KMT2C,Avana,ACH-001664,Esophagus/Stomach,damaging,-0.19396319357389347
+KMT2D_damaging_to_KMT2C,Avana,ACH-001668,Testis,matrix_intact,-0.14833363687004822
+KMT2D_damaging_to_KMT2C,Avana,ACH-001669,Lymphoid,damaging,-0.14790258745278617
+KMT2D_damaging_to_KMT2C,Avana,ACH-001670,CNS/Brain,matrix_intact,0.043290908308307466
+KMT2D_damaging_to_KMT2C,Avana,ACH-001673,Biliary Tract,matrix_intact,-0.30564607354016937
+KMT2D_damaging_to_KMT2C,Avana,ACH-001674,Peripheral Nervous System,matrix_intact,0.2322971801250876
+KMT2D_damaging_to_KMT2C,Avana,ACH-001675,Head and Neck,matrix_intact,0.22281929473981688
+KMT2D_damaging_to_KMT2C,Avana,ACH-001677,Lymphoid,damaging,-0.45925411419141987
+KMT2D_damaging_to_KMT2C,Avana,ACH-001685,Lymphoid,matrix_intact,-0.20582773872552268
+KMT2D_damaging_to_KMT2C,Avana,ACH-001687,Kidney,matrix_intact,-0.8486092573206094
+KMT2D_damaging_to_KMT2C,Avana,ACH-001688,Kidney,matrix_intact,-0.3344401408447037
+KMT2D_damaging_to_KMT2C,Avana,ACH-001690,Head and Neck,matrix_intact,0.08771150334815167
+KMT2D_damaging_to_KMT2C,Avana,ACH-001691,Head and Neck,matrix_intact,0.33294701278213973
+KMT2D_damaging_to_KMT2C,Avana,ACH-001692,Head and Neck,matrix_intact,0.22532346458036018
+KMT2D_damaging_to_KMT2C,Avana,ACH-001694,Head and Neck,matrix_intact,0.24174091209298837
+KMT2D_damaging_to_KMT2C,Avana,ACH-001696,Head and Neck,matrix_intact,0.12236330850576448
+KMT2D_damaging_to_KMT2C,Avana,ACH-001698,Head and Neck,matrix_intact,0.6836286267194938
+KMT2D_damaging_to_KMT2C,Avana,ACH-001699,Head and Neck,matrix_intact,0.10444796603238242
+KMT2D_damaging_to_KMT2C,Avana,ACH-001701,Head and Neck,matrix_intact,-0.027189486866174825
+KMT2D_damaging_to_KMT2C,Avana,ACH-001702,Soft Tissue,matrix_intact,-0.3965881063434855
+KMT2D_damaging_to_KMT2C,Avana,ACH-001707,Lymphoid,matrix_intact,0.4578998779461987
+KMT2D_damaging_to_KMT2C,Avana,ACH-001709,Lymphoid,damaging,-1.5747328263685714
+KMT2D_damaging_to_KMT2C,Avana,ACH-001711,CNS/Brain,matrix_intact,-0.6183799338255689
+KMT2D_damaging_to_KMT2C,Avana,ACH-001715,Bone,matrix_intact,-0.3444049011225778
+KMT2D_damaging_to_KMT2C,Avana,ACH-001719,Ovary/Fallopian Tube,matrix_intact,0.07291095225570653
+KMT2D_damaging_to_KMT2C,Avana,ACH-001735,Lymphoid,matrix_intact,0.001993124354344296
+KMT2D_damaging_to_KMT2C,Avana,ACH-001736,Lymphoid,matrix_intact,0.4163179234357766
+KMT2D_damaging_to_KMT2C,Avana,ACH-001737,Lymphoid,matrix_intact,0.02802337607869287
+KMT2D_damaging_to_KMT2C,Avana,ACH-001740,Soft Tissue,matrix_intact,0.02878553772135905
+KMT2D_damaging_to_KMT2C,Avana,ACH-001745,Soft Tissue,matrix_intact,0.11368918585435195
+KMT2D_damaging_to_KMT2C,Avana,ACH-001750,Soft Tissue,matrix_intact,0.21685995136285285
+KMT2D_damaging_to_KMT2C,Avana,ACH-001765,Soft Tissue,matrix_intact,-0.20540100483763885
+KMT2D_damaging_to_KMT2C,Avana,ACH-001786,Bowel,damaging,0.2091390171276491
+KMT2D_damaging_to_KMT2C,Avana,ACH-001791,Soft Tissue,matrix_intact,-0.09603546438635527
+KMT2D_damaging_to_KMT2C,Avana,ACH-001793,Soft Tissue,matrix_intact,0.35863963985080705
+KMT2D_damaging_to_KMT2C,Avana,ACH-001794,Soft Tissue,matrix_intact,0.12666616614120008
+KMT2D_damaging_to_KMT2C,Avana,ACH-001795,Soft Tissue,matrix_intact,-0.16394946835344543
+KMT2D_damaging_to_KMT2C,Avana,ACH-001796,Soft Tissue,matrix_intact,-0.053362022434841505
+KMT2D_damaging_to_KMT2C,Avana,ACH-001799,Soft Tissue,matrix_intact,0.6318701568794935
+KMT2D_damaging_to_KMT2C,Avana,ACH-001802,Soft Tissue,matrix_intact,0.12097082432937435
+KMT2D_damaging_to_KMT2C,Avana,ACH-001804,Soft Tissue,matrix_intact,0.29580071560544763
+KMT2D_damaging_to_KMT2C,Avana,ACH-001814,Bone,matrix_intact,-0.004631215256718474
+KMT2D_damaging_to_KMT2C,Avana,ACH-001819,Breast,matrix_intact,-0.9110236540610686
+KMT2D_damaging_to_KMT2C,Avana,ACH-001820,Breast,matrix_intact,0.5399843046538502
+KMT2D_damaging_to_KMT2C,Avana,ACH-001834,Biliary Tract,matrix_intact,-0.09468242029835992
+KMT2D_damaging_to_KMT2C,Avana,ACH-001835,Biliary Tract,matrix_intact,0.22056690307903054
+KMT2D_damaging_to_KMT2C,Avana,ACH-001836,Biliary Tract,matrix_intact,0.8484805619619489
+KMT2D_damaging_to_KMT2C,Avana,ACH-001838,Biliary Tract,matrix_intact,0.24912566975744568
+KMT2D_damaging_to_KMT2C,Avana,ACH-001839,Biliary Tract,matrix_intact,0.40622163240065134
+KMT2D_damaging_to_KMT2C,Avana,ACH-001841,Biliary Tract,matrix_intact,0.09607806524503863
+KMT2D_damaging_to_KMT2C,Avana,ACH-001842,Biliary Tract,matrix_intact,-0.1759602751211684
+KMT2D_damaging_to_KMT2C,Avana,ACH-001843,Biliary Tract,damaging,-0.17273075336252508
+KMT2D_damaging_to_KMT2C,Avana,ACH-001844,Biliary Tract,matrix_intact,0.15970035754391712
+KMT2D_damaging_to_KMT2C,Avana,ACH-001848,Biliary Tract,matrix_intact,0.4803207300786734
+KMT2D_damaging_to_KMT2C,Avana,ACH-001849,Biliary Tract,matrix_intact,-0.2600083186540516
+KMT2D_damaging_to_KMT2C,Avana,ACH-001850,Biliary Tract,matrix_intact,0.3940734389762203
+KMT2D_damaging_to_KMT2C,Avana,ACH-001852,Biliary Tract,matrix_intact,0.3816236523065694
+KMT2D_damaging_to_KMT2C,Avana,ACH-001853,Liver,matrix_intact,-0.2796290569718377
+KMT2D_damaging_to_KMT2C,Avana,ACH-001856,Biliary Tract,matrix_intact,-0.04744163594284517
+KMT2D_damaging_to_KMT2C,Avana,ACH-001857,Biliary Tract,matrix_intact,0.1533072266103766
+KMT2D_damaging_to_KMT2C,Avana,ACH-001858,Biliary Tract,matrix_intact,-0.0024502674406127467
+KMT2D_damaging_to_KMT2C,Avana,ACH-001861,Biliary Tract,matrix_intact,0.2755436184126631
+KMT2D_damaging_to_KMT2C,Avana,ACH-001862,Ampulla of Vater,matrix_intact,0.4173356063289643
+KMT2D_damaging_to_KMT2C,Avana,ACH-001863,Biliary Tract,matrix_intact,0.3768307614824247
+KMT2D_damaging_to_KMT2C,Avana,ACH-001864,Biliary Tract,matrix_intact,-0.40373606697594916
+KMT2D_damaging_to_KMT2C,Avana,ACH-001959,Biliary Tract,matrix_intact,0.27597481839683713
+KMT2D_damaging_to_KMT2C,Avana,ACH-001960,Biliary Tract,matrix_intact,0.33879507995655495
+KMT2D_damaging_to_KMT2C,Avana,ACH-001961,Biliary Tract,matrix_intact,0.2818571436323966
+KMT2D_damaging_to_KMT2C,Avana,ACH-001970,Skin,matrix_intact,-0.3631219531586991
+KMT2D_damaging_to_KMT2C,Avana,ACH-001973,Skin,matrix_intact,0.12662032323999384
+KMT2D_damaging_to_KMT2C,Avana,ACH-001977,Pleura,matrix_intact,0.03708087522671905
+KMT2D_damaging_to_KMT2C,Avana,ACH-001982,Skin,matrix_intact,0.5988403239915163
+KMT2D_damaging_to_KMT2C,Avana,ACH-001986,Skin,matrix_intact,0.34128462797185843
+KMT2D_damaging_to_KMT2C,Avana,ACH-001990,Skin,matrix_intact,0.6604239770768641
+KMT2D_damaging_to_KMT2C,Avana,ACH-001991,Ovary/Fallopian Tube,matrix_intact,-0.32726201549751555
+KMT2D_damaging_to_KMT2C,Avana,ACH-001992,Pleura,matrix_intact,0.5647638718505859
+KMT2D_damaging_to_KMT2C,Avana,ACH-001993,Lymphoid,matrix_intact,0.010039342196032811
+KMT2D_damaging_to_KMT2C,Avana,ACH-001997,Biliary Tract,matrix_intact,0.1610822982718098
+KMT2D_damaging_to_KMT2C,Avana,ACH-001999,Pancreas,matrix_intact,-0.27177700675453315
+KMT2D_damaging_to_KMT2C,Avana,ACH-002001,Skin,matrix_intact,-0.46456388274976546
+KMT2D_damaging_to_KMT2C,Avana,ACH-002002,Skin,matrix_intact,0.3936834857111147
+KMT2D_damaging_to_KMT2C,Avana,ACH-002003,Skin,matrix_intact,-1.147747895772674
+KMT2D_damaging_to_KMT2C,Avana,ACH-002005,Skin,matrix_intact,-0.03860581053714679
+KMT2D_damaging_to_KMT2C,Avana,ACH-002014,Eye,matrix_intact,-0.2463788177929071
+KMT2D_damaging_to_KMT2C,Avana,ACH-002015,Eye,matrix_intact,0.16797408926596627
+KMT2D_damaging_to_KMT2C,Avana,ACH-002016,Eye,matrix_intact,0.812848694253853
+KMT2D_damaging_to_KMT2C,Avana,ACH-002018,Eye,matrix_intact,-0.02752241195277834
+KMT2D_damaging_to_KMT2C,Avana,ACH-002019,Cervix,matrix_intact,0.28833745662148097
+KMT2D_damaging_to_KMT2C,Avana,ACH-002020,Cervix,matrix_intact,0.2876502502921251
+KMT2D_damaging_to_KMT2C,Avana,ACH-002021,Uterus,matrix_intact,-0.8543872964200191
+KMT2D_damaging_to_KMT2C,Avana,ACH-002023,Ampulla of Vater,damaging,0.613170149240736
+KMT2D_damaging_to_KMT2C,Avana,ACH-002024,Bowel,matrix_intact,0.011161847199170676
+KMT2D_damaging_to_KMT2C,Avana,ACH-002025,Bowel,matrix_intact,-0.29812458550681187
+KMT2D_damaging_to_KMT2C,Avana,ACH-002026,Uterus,matrix_intact,0.22223128232160316
+KMT2D_damaging_to_KMT2C,Avana,ACH-002027,Uterus,damaging,0.2211948335976474
+KMT2D_damaging_to_KMT2C,Avana,ACH-002029,Head and Neck,matrix_intact,0.17146310231853953
+KMT2D_damaging_to_KMT2C,Avana,ACH-002030,Head and Neck,matrix_intact,0.5030765651922291
+KMT2D_damaging_to_KMT2C,Avana,ACH-002035,Lung,matrix_intact,0.17763613355896885
+KMT2D_damaging_to_KMT2C,Avana,ACH-002039,Pancreas,matrix_intact,-0.18570411762870212
+KMT2D_damaging_to_KMT2C,Avana,ACH-002040,Vulva/Vagina,matrix_intact,0.2050028484212661
+KMT2D_damaging_to_KMT2C,Avana,ACH-002041,Thyroid,matrix_intact,0.18885558431845467
+KMT2D_damaging_to_KMT2C,Avana,ACH-002042,Head and Neck,matrix_intact,0.0442385021817424
+KMT2D_damaging_to_KMT2C,Avana,ACH-002043,Head and Neck,matrix_intact,0.05023229205779205
+KMT2D_damaging_to_KMT2C,Avana,ACH-002044,Head and Neck,matrix_intact,-0.11767124513139249
+KMT2D_damaging_to_KMT2C,Avana,ACH-002045,Head and Neck,matrix_intact,0.9248612404627075
+KMT2D_damaging_to_KMT2C,Avana,ACH-002046,Uterus,matrix_intact,0.5680087275108514
+KMT2D_damaging_to_KMT2C,Avana,ACH-002048,Soft Tissue,matrix_intact,0.0019268262813275094
+KMT2D_damaging_to_KMT2C,Avana,ACH-002051,Lung,matrix_intact,-0.28477948134567566
+KMT2D_damaging_to_KMT2C,Avana,ACH-002059,Lymphoid,damaging,-0.22831975350749006
+KMT2D_damaging_to_KMT2C,Avana,ACH-002061,Myeloid,damaging,0.23949854618985855
+KMT2D_damaging_to_KMT2C,Avana,ACH-002062,Lymphoid,matrix_intact,-0.1348855270204084
+KMT2D_damaging_to_KMT2C,Avana,ACH-002066,Peripheral Nervous System,matrix_intact,0.24418381626815544
+KMT2D_damaging_to_KMT2C,Avana,ACH-002067,Bone,matrix_intact,-0.31929777646263835
+KMT2D_damaging_to_KMT2C,Avana,ACH-002069,Bone,matrix_intact,0.1616493053395956
+KMT2D_damaging_to_KMT2C,Avana,ACH-002070,CNS/Brain,matrix_intact,0.524067543359933
+KMT2D_damaging_to_KMT2C,Avana,ACH-002077,Lung,matrix_intact,0.03876468781184438
+KMT2D_damaging_to_KMT2C,Avana,ACH-002080,Peripheral Nervous System,matrix_intact,-0.10537660480144284
+KMT2D_damaging_to_KMT2C,Avana,ACH-002084,Skin,matrix_intact,-0.09840583902974621
+KMT2D_damaging_to_KMT2C,Avana,ACH-002214,Lymphoid,damaging,-0.6505610056307813
+KMT2D_damaging_to_KMT2C,Avana,ACH-002215,Lymphoid,matrix_intact,-0.12155078984382406
+KMT2D_damaging_to_KMT2C,Avana,ACH-002291,Testis,matrix_intact,0.047945905747079964
+KMT2D_damaging_to_KMT2C,Avana,ACH-002399,Breast,matrix_intact,0.24930318912992977
+KMT2D_damaging_to_KMT2C,Avana,ACH-002446,Esophagus/Stomach,matrix_intact,-0.0192751951943993
+KMT2D_damaging_to_KMT2C,Avana,ACH-002458,Skin,matrix_intact,-0.19212564054822284
+KMT2D_damaging_to_KMT2C,Avana,ACH-002459,Skin,matrix_intact,-0.17085267635058093
+KMT2D_damaging_to_KMT2C,Avana,ACH-002460,Skin,matrix_intact,-0.26724236878053015
+KMT2D_damaging_to_KMT2C,Avana,ACH-002461,Skin,matrix_intact,-0.18966843561203023
+KMT2D_damaging_to_KMT2C,Avana,ACH-002462,Eye,matrix_intact,0.5558000570618843
+KMT2D_damaging_to_KMT2C,Avana,ACH-002463,Eye,matrix_intact,0.2716686036428091
+KMT2D_damaging_to_KMT2C,Avana,ACH-002464,Eye,matrix_intact,-0.04434586884504419
+KMT2D_damaging_to_KMT2C,Avana,ACH-002465,Eye,matrix_intact,0.32356850120985925
+KMT2D_damaging_to_KMT2C,Avana,ACH-002467,Eye,matrix_intact,-0.7435050848521892
+KMT2D_damaging_to_KMT2C,Avana,ACH-002471,Bone,matrix_intact,0.1728988890995966
+KMT2D_damaging_to_KMT2C,Avana,ACH-002478,Lymphoid,matrix_intact,-0.31779418363558076
+KMT2D_damaging_to_KMT2C,Avana,ACH-002485,Lymphoid,matrix_intact,-0.12740676264739306
+KMT2D_damaging_to_KMT2C,Avana,ACH-002486,Ovary/Fallopian Tube,matrix_intact,0.11231585792727661
+KMT2D_damaging_to_KMT2C,Avana,ACH-002508,Skin,matrix_intact,0.3513767286634232
+KMT2D_damaging_to_KMT2C,Avana,ACH-002510,Skin,matrix_intact,0.11668797879082987
+KMT2D_damaging_to_KMT2C,Avana,ACH-002511,Skin,matrix_intact,0.2104202246396426
+KMT2D_damaging_to_KMT2C,Avana,ACH-002512,Skin,matrix_intact,0.2120517905379792
+KMT2D_damaging_to_KMT2C,Avana,ACH-002522,Lung,matrix_intact,-0.1035389984665191
+KMT2D_damaging_to_KMT2C,Avana,ACH-002523,Liver,matrix_intact,-0.06757793487458393
+KMT2D_damaging_to_KMT2C,Avana,ACH-002524,Ovary/Fallopian Tube,matrix_intact,-0.08688912395586298
+KMT2D_damaging_to_KMT2C,Avana,ACH-002526,Lung,matrix_intact,-0.6133584818861686
+KMT2D_damaging_to_KMT2C,Avana,ACH-002531,Lung,matrix_intact,0.06587311552746924
+KMT2D_damaging_to_KMT2C,Avana,ACH-002533,Kidney,matrix_intact,0.32795688814202784
+KMT2D_damaging_to_KMT2C,Avana,ACH-002535,Bowel,matrix_intact,0.16124765056481166
+KMT2D_damaging_to_KMT2C,Avana,ACH-002647,Biliary Tract,matrix_intact,0.13055201618340118
+KMT2D_damaging_to_KMT2C,Avana,ACH-002650,Lung,matrix_intact,-0.35074567878835594
+KMT2D_damaging_to_KMT2C,Avana,ACH-002654,Bowel,matrix_intact,0.47288488767652387
+KMT2D_damaging_to_KMT2C,Avana,ACH-002659,Bowel,matrix_intact,0.462114066594546
+KMT2D_damaging_to_KMT2C,Avana,ACH-002664,Bowel,matrix_intact,0.07360676164792454
+KMT2D_damaging_to_KMT2C,Avana,ACH-002669,Bowel,matrix_intact,0.41456992452103636
+KMT2D_damaging_to_KMT2C,Avana,ACH-002672,Pancreas,matrix_intact,0.3269426293291708
+KMT2D_damaging_to_KMT2C,Avana,ACH-002680,CNS/Brain,matrix_intact,-0.6109320345249846
+KMT2D_damaging_to_KMT2C,Avana,ACH-002687,Eye,matrix_intact,-0.01500748396128948
+KMT2D_damaging_to_KMT2C,Avana,ACH-002693,Peripheral Nervous System,matrix_intact,-0.2275746393893411
+KMT2D_damaging_to_KMT2C,Avana,ACH-002710,Peripheral Nervous System,matrix_intact,0.16605067565688217
+KMT2D_damaging_to_KMT2C,Avana,ACH-002785,Soft Tissue,matrix_intact,0.18147272752134222
+KMT2D_damaging_to_KMT2C,Avana,ACH-002799,Peripheral Nervous System,matrix_intact,0.01810971552898176
+KMT2D_damaging_to_KMT2C,Avana,ACH-002800,Peripheral Nervous System,matrix_intact,0.6388349072911509
+KMT2D_damaging_to_KMT2C,Avana,ACH-002834,Bone,matrix_intact,0.015256059216699917
+KMT2D_damaging_to_KMT2C,Avana,ACH-002847,Skin,matrix_intact,0.3335187576599781
+KMT2D_damaging_to_KMT2C,Avana,ACH-002922,Peripheral Nervous System,matrix_intact,0.005322474279903011
+KMT2D_damaging_to_KMT2C,Avana,ACH-002925,Eye,matrix_intact,0.1340713604270514
+KMT2D_damaging_to_KMT2C,Avana,ACH-002926,Eye,matrix_intact,0.20592093635572484
+KMT2D_damaging_to_KMT2C,KY,ACH-000001,Ovary/Fallopian Tube,matrix_intact,-0.02925381497130436
+KMT2D_damaging_to_KMT2C,KY,ACH-000007,Bowel,matrix_intact,-0.6110256374559789
+KMT2D_damaging_to_KMT2C,KY,ACH-000009,Bowel,matrix_intact,0.10423038347715685
+KMT2D_damaging_to_KMT2C,KY,ACH-000019,Breast,matrix_intact,-1.2777501135777667
+KMT2D_damaging_to_KMT2C,KY,ACH-000023,Pancreas,matrix_intact,0.31714241848071184
+KMT2D_damaging_to_KMT2C,KY,ACH-000024,Lymphoid,damaging,0.3343257310919115
+KMT2D_damaging_to_KMT2C,KY,ACH-000030,Lung,matrix_intact,0.23760054975014225
+KMT2D_damaging_to_KMT2C,KY,ACH-000035,Lung,matrix_intact,-0.05023378267934688
+KMT2D_damaging_to_KMT2C,KY,ACH-000042,Pancreas,matrix_intact,0.15591145650962723
+KMT2D_damaging_to_KMT2C,KY,ACH-000048,Ovary/Fallopian Tube,matrix_intact,0.3175179754856377
+KMT2D_damaging_to_KMT2C,KY,ACH-000060,Pancreas,matrix_intact,0.06769540927125331
+KMT2D_damaging_to_KMT2C,KY,ACH-000067,CNS/Brain,matrix_intact,-0.053848031270263746
+KMT2D_damaging_to_KMT2C,KY,ACH-000075,CNS/Brain,matrix_intact,0.24441002083078103
+KMT2D_damaging_to_KMT2C,KY,ACH-000094,Pancreas,matrix_intact,0.5231261748567125
+KMT2D_damaging_to_KMT2C,KY,ACH-000098,CNS/Brain,matrix_intact,-0.1865695517655831
+KMT2D_damaging_to_KMT2C,KY,ACH-000103,Ovary/Fallopian Tube,matrix_intact,0.30591258274015043
+KMT2D_damaging_to_KMT2C,KY,ACH-000108,Pancreas,matrix_intact,-0.07531311604465601
+KMT2D_damaging_to_KMT2C,KY,ACH-000111,Breast,matrix_intact,-0.08235736923647814
+KMT2D_damaging_to_KMT2C,KY,ACH-000113,Myeloid,matrix_intact,0.3212011207793941
+KMT2D_damaging_to_KMT2C,KY,ACH-000114,Pancreas,matrix_intact,0.06060728036467078
+KMT2D_damaging_to_KMT2C,KY,ACH-000118,Pancreas,matrix_intact,0.22280621793503932
+KMT2D_damaging_to_KMT2C,KY,ACH-000120,Peripheral Nervous System,matrix_intact,-0.453258221818762
+KMT2D_damaging_to_KMT2C,KY,ACH-000124,Lymphoid,damaging,0.05267927695540461
+KMT2D_damaging_to_KMT2C,KY,ACH-000132,Ovary/Fallopian Tube,matrix_intact,0.15977181821224773
+KMT2D_damaging_to_KMT2C,KY,ACH-000137,CNS/Brain,matrix_intact,0.27342412760018575
+KMT2D_damaging_to_KMT2C,KY,ACH-000139,Pancreas,matrix_intact,0.4453049444375065
+KMT2D_damaging_to_KMT2C,KY,ACH-000144,Esophagus/Stomach,matrix_intact,-0.04411750686629657
+KMT2D_damaging_to_KMT2C,KY,ACH-000147,Breast,matrix_intact,0.157716912965305
+KMT2D_damaging_to_KMT2C,KY,ACH-000148,Breast,matrix_intact,-0.3644508518294303
+KMT2D_damaging_to_KMT2C,KY,ACH-000149,Peripheral Nervous System,matrix_intact,-0.016963756673862556
+KMT2D_damaging_to_KMT2C,KY,ACH-000155,Pancreas,matrix_intact,0.24272787582978944
+KMT2D_damaging_to_KMT2C,KY,ACH-000176,Lung,matrix_intact,0.1827384726761744
+KMT2D_damaging_to_KMT2C,KY,ACH-000181,Head and Neck,matrix_intact,-0.16105884528760514
+KMT2D_damaging_to_KMT2C,KY,ACH-000183,Lymphoid,matrix_intact,-1.4222121566680836
+KMT2D_damaging_to_KMT2C,KY,ACH-000192,Uterus,matrix_intact,-0.24615529686363766
+KMT2D_damaging_to_KMT2C,KY,ACH-000200,CNS/Brain,matrix_intact,-0.33724313807283457
+KMT2D_damaging_to_KMT2C,KY,ACH-000204,Lymphoid,matrix_intact,0.25256923077852267
+KMT2D_damaging_to_KMT2C,KY,ACH-000207,Head and Neck,matrix_intact,0.360227495009169
+KMT2D_damaging_to_KMT2C,KY,ACH-000213,Pancreas,damaging,0.92984523380766
+KMT2D_damaging_to_KMT2C,KY,ACH-000219,Skin,matrix_intact,0.02781116143714894
+KMT2D_damaging_to_KMT2C,KY,ACH-000222,Pancreas,matrix_intact,0.23964253756644796
+KMT2D_damaging_to_KMT2C,KY,ACH-000223,Breast,matrix_intact,0.182378349675975
+KMT2D_damaging_to_KMT2C,KY,ACH-000227,Peripheral Nervous System,matrix_intact,-0.6204732900637993
+KMT2D_damaging_to_KMT2C,KY,ACH-000232,CNS/Brain,matrix_intact,0.1573484136654623
+KMT2D_damaging_to_KMT2C,KY,ACH-000235,Pancreas,matrix_intact,0.21776644126298664
+KMT2D_damaging_to_KMT2C,KY,ACH-000238,Head and Neck,matrix_intact,0.3802900757212733
+KMT2D_damaging_to_KMT2C,KY,ACH-000243,Pancreas,matrix_intact,0.19855407230858435
+KMT2D_damaging_to_KMT2C,KY,ACH-000244,CNS/Brain,matrix_intact,0.012377951493496353
+KMT2D_damaging_to_KMT2C,KY,ACH-000248,Breast,matrix_intact,-0.293914203937751
+KMT2D_damaging_to_KMT2C,KY,ACH-000249,Bowel,matrix_intact,0.2575529178471671
+KMT2D_damaging_to_KMT2C,KY,ACH-000252,Bowel,matrix_intact,-0.14765776149774454
+KMT2D_damaging_to_KMT2C,KY,ACH-000260,Peripheral Nervous System,matrix_intact,0.34270107563680346
+KMT2D_damaging_to_KMT2C,KY,ACH-000265,Pancreas,matrix_intact,0.14523319591608944
+KMT2D_damaging_to_KMT2C,KY,ACH-000269,CNS/Brain,matrix_intact,0.4192658520132628
+KMT2D_damaging_to_KMT2C,KY,ACH-000271,Lymphoid,matrix_intact,0.38251204574772935
+KMT2D_damaging_to_KMT2C,KY,ACH-000273,CNS/Brain,matrix_intact,-0.03016864579439127
+KMT2D_damaging_to_KMT2C,KY,ACH-000276,Breast,matrix_intact,0.41619487778244396
+KMT2D_damaging_to_KMT2C,KY,ACH-000291,Ovary/Fallopian Tube,matrix_intact,-0.07183680254957041
+KMT2D_damaging_to_KMT2C,KY,ACH-000293,Uterus,matrix_intact,0.06058107978796137
+KMT2D_damaging_to_KMT2C,KY,ACH-000305,Esophagus/Stomach,matrix_intact,0.15922613382176048
+KMT2D_damaging_to_KMT2C,KY,ACH-000308,Ovary/Fallopian Tube,matrix_intact,0.05034160232067452
+KMT2D_damaging_to_KMT2C,KY,ACH-000318,Esophagus/Stomach,matrix_intact,-0.022548848056207733
+KMT2D_damaging_to_KMT2C,KY,ACH-000320,Pancreas,matrix_intact,-0.04476994642472043
+KMT2D_damaging_to_KMT2C,KY,ACH-000323,CNS/Brain,matrix_intact,0.15799065440145907
+KMT2D_damaging_to_KMT2C,KY,ACH-000336,Myeloid,matrix_intact,0.15806048411843865
+KMT2D_damaging_to_KMT2C,KY,ACH-000337,Lung,matrix_intact,-0.12732580360379162
+KMT2D_damaging_to_KMT2C,KY,ACH-000341,Peripheral Nervous System,matrix_intact,-0.06079740291623872
+KMT2D_damaging_to_KMT2C,KY,ACH-000350,Bowel,matrix_intact,0.11498922833140675
+KMT2D_damaging_to_KMT2C,KY,ACH-000354,Pancreas,matrix_intact,0.43315233827228283
+KMT2D_damaging_to_KMT2C,KY,ACH-000366,Peripheral Nervous System,matrix_intact,-0.33948914056258134
+KMT2D_damaging_to_KMT2C,KY,ACH-000367,Pleura,matrix_intact,-0.03566982352886263
+KMT2D_damaging_to_KMT2C,KY,ACH-000374,Breast,matrix_intact,0.5335751269086465
+KMT2D_damaging_to_KMT2C,KY,ACH-000376,CNS/Brain,matrix_intact,0.18047904706325452
+KMT2D_damaging_to_KMT2C,KY,ACH-000381,Bowel,matrix_intact,-0.032446191376104064
+KMT2D_damaging_to_KMT2C,KY,ACH-000383,Esophagus/Stomach,matrix_intact,-0.10345853756602051
+KMT2D_damaging_to_KMT2C,KY,ACH-000391,Bone,matrix_intact,-0.24836063811960038
+KMT2D_damaging_to_KMT2C,KY,ACH-000395,Lung,matrix_intact,0.046021853148689784
+KMT2D_damaging_to_KMT2C,KY,ACH-000408,Esophagus/Stomach,matrix_intact,0.17905005284948436
+KMT2D_damaging_to_KMT2C,KY,ACH-000411,Kidney,matrix_intact,0.2658996225917178
+KMT2D_damaging_to_KMT2C,KY,ACH-000414,Lung,matrix_intact,0.41835512432204486
+KMT2D_damaging_to_KMT2C,KY,ACH-000417,Pancreas,matrix_intact,0.4067033024164495
+KMT2D_damaging_to_KMT2C,KY,ACH-000421,Bowel,matrix_intact,0.22374264486505688
+KMT2D_damaging_to_KMT2C,KY,ACH-000424,Bone,matrix_intact,-0.147514425127128
+KMT2D_damaging_to_KMT2C,KY,ACH-000427,Esophagus/Stomach,matrix_intact,0.1647620087032493
+KMT2D_damaging_to_KMT2C,KY,ACH-000430,Ovary/Fallopian Tube,matrix_intact,-0.09154424108738844
+KMT2D_damaging_to_KMT2C,KY,ACH-000434,Lung,matrix_intact,-0.21524346037853156
+KMT2D_damaging_to_KMT2C,KY,ACH-000437,CNS/Brain,matrix_intact,0.11476850077614395
+KMT2D_damaging_to_KMT2C,KY,ACH-000438,Lung,matrix_intact,0.025581816558095938
+KMT2D_damaging_to_KMT2C,KY,ACH-000442,Lung,matrix_intact,0.2698775127819825
+KMT2D_damaging_to_KMT2C,KY,ACH-000452,Esophagus/Stomach,matrix_intact,-0.05304696539604431
+KMT2D_damaging_to_KMT2C,KY,ACH-000464,CNS/Brain,matrix_intact,0.08233364341510016
+KMT2D_damaging_to_KMT2C,KY,ACH-000469,CNS/Brain,matrix_intact,-0.6135745900117421
+KMT2D_damaging_to_KMT2C,KY,ACH-000481,Lung,matrix_intact,-0.25175620656533876
+KMT2D_damaging_to_KMT2C,KY,ACH-000501,Bowel,matrix_intact,-0.3354625403300659
+KMT2D_damaging_to_KMT2C,KY,ACH-000504,CNS/Brain,matrix_intact,0.25850574608131893
+KMT2D_damaging_to_KMT2C,KY,ACH-000505,Soft Tissue,matrix_intact,-0.06313960229841066
+KMT2D_damaging_to_KMT2C,KY,ACH-000510,Lung,matrix_intact,0.16168769581240125
+KMT2D_damaging_to_KMT2C,KY,ACH-000518,Head and Neck,matrix_intact,0.506117208659298
+KMT2D_damaging_to_KMT2C,KY,ACH-000524,Ovary/Fallopian Tube,matrix_intact,-0.1052224718277751
+KMT2D_damaging_to_KMT2C,KY,ACH-000527,Ovary/Fallopian Tube,matrix_intact,0.060509193307549475
+KMT2D_damaging_to_KMT2C,KY,ACH-000532,Bowel,matrix_intact,0.004898805426957198
+KMT2D_damaging_to_KMT2C,KY,ACH-000535,Pancreas,matrix_intact,0.2540483269109257
+KMT2D_damaging_to_KMT2C,KY,ACH-000544,Esophagus/Stomach,matrix_intact,0.07961807835809444
+KMT2D_damaging_to_KMT2C,KY,ACH-000546,Head and Neck,matrix_intact,0.3317894338463211
+KMT2D_damaging_to_KMT2C,KY,ACH-000548,Head and Neck,matrix_intact,0.181590538321996
+KMT2D_damaging_to_KMT2C,KY,ACH-000552,Bowel,matrix_intact,-0.09868680381393892
+KMT2D_damaging_to_KMT2C,KY,ACH-000554,Breast,matrix_intact,-0.08791439696850496
+KMT2D_damaging_to_KMT2C,KY,ACH-000558,CNS/Brain,matrix_intact,0.23598052835553493
+KMT2D_damaging_to_KMT2C,KY,ACH-000561,Esophagus/Stomach,matrix_intact,-0.13329804988105382
+KMT2D_damaging_to_KMT2C,KY,ACH-000562,Lung,matrix_intact,0.08437929343706783
+KMT2D_damaging_to_KMT2C,KY,ACH-000563,Lung,matrix_intact,0.3444367371609822
+KMT2D_damaging_to_KMT2C,KY,ACH-000565,Bowel,matrix_intact,-0.007448454693125124
+KMT2D_damaging_to_KMT2C,KY,ACH-000571,CNS/Brain,matrix_intact,-0.09415518350114202
+KMT2D_damaging_to_KMT2C,KY,ACH-000573,Breast,matrix_intact,0.34396556538352163
+KMT2D_damaging_to_KMT2C,KY,ACH-000581,Esophagus/Stomach,matrix_intact,-0.4626184692427569
+KMT2D_damaging_to_KMT2C,KY,ACH-000584,Ovary/Fallopian Tube,matrix_intact,0.13295033215023666
+KMT2D_damaging_to_KMT2C,KY,ACH-000585,Lung,damaging,-0.07406595721307066
+KMT2D_damaging_to_KMT2C,KY,ACH-000587,Lung,matrix_intact,0.14011502740146867
+KMT2D_damaging_to_KMT2C,KY,ACH-000595,CNS/Brain,matrix_intact,0.16913694264811593
+KMT2D_damaging_to_KMT2C,KY,ACH-000596,Lung,matrix_intact,-0.34931211598540196
+KMT2D_damaging_to_KMT2C,KY,ACH-000599,Pancreas,matrix_intact,0.307173979516174
+KMT2D_damaging_to_KMT2C,KY,ACH-000601,Pancreas,matrix_intact,0.2805348975613994
+KMT2D_damaging_to_KMT2C,KY,ACH-000609,CNS/Brain,matrix_intact,0.04326731749866112
+KMT2D_damaging_to_KMT2C,KY,ACH-000619,Head and Neck,matrix_intact,0.3711975692050511
+KMT2D_damaging_to_KMT2C,KY,ACH-000622,CNS/Brain,matrix_intact,-0.3690628325360795
+KMT2D_damaging_to_KMT2C,KY,ACH-000624,Breast,matrix_intact,0.3115866671175908
+KMT2D_damaging_to_KMT2C,KY,ACH-000637,Esophagus/Stomach,matrix_intact,0.39492255878882965
+KMT2D_damaging_to_KMT2C,KY,ACH-000651,Bowel,matrix_intact,0.16247530769807317
+KMT2D_damaging_to_KMT2C,KY,ACH-000652,Pancreas,matrix_intact,-0.01009243014673735
+KMT2D_damaging_to_KMT2C,KY,ACH-000656,Lymphoid,damaging,0.3377126328971841
+KMT2D_damaging_to_KMT2C,KY,ACH-000657,Ovary/Fallopian Tube,matrix_intact,-1.3870514283517381
+KMT2D_damaging_to_KMT2C,KY,ACH-000660,Lymphoid,matrix_intact,0.3051492599595534
+KMT2D_damaging_to_KMT2C,KY,ACH-000662,Lung,matrix_intact,0.15432382459524693
+KMT2D_damaging_to_KMT2C,KY,ACH-000665,Lung,matrix_intact,0.2706230794116416
+KMT2D_damaging_to_KMT2C,KY,ACH-000666,Lung,matrix_intact,0.09094725069890695
+KMT2D_damaging_to_KMT2C,KY,ACH-000668,Breast,matrix_intact,0.10495710860460157
+KMT2D_damaging_to_KMT2C,KY,ACH-000677,Lung,matrix_intact,0.16924833446693813
+KMT2D_damaging_to_KMT2C,KY,ACH-000681,Lung,matrix_intact,-0.5603122978916777
+KMT2D_damaging_to_KMT2C,KY,ACH-000694,Esophagus/Stomach,damaging,0.3104241366289871
+KMT2D_damaging_to_KMT2C,KY,ACH-000696,Ovary/Fallopian Tube,matrix_intact,0.2661736971550467
+KMT2D_damaging_to_KMT2C,KY,ACH-000699,Breast,matrix_intact,0.23329395032806474
+KMT2D_damaging_to_KMT2C,KY,ACH-000704,Ovary/Fallopian Tube,matrix_intact,-0.042771672557825303
+KMT2D_damaging_to_KMT2C,KY,ACH-000711,Breast,matrix_intact,0.17403970152218776
+KMT2D_damaging_to_KMT2C,KY,ACH-000714,Lymphoid,matrix_intact,-0.25638606695893823
+KMT2D_damaging_to_KMT2C,KY,ACH-000717,Esophagus/Stomach,matrix_intact,0.13856134765668907
+KMT2D_damaging_to_KMT2C,KY,ACH-000719,Ovary/Fallopian Tube,matrix_intact,-0.043419219741929665
+KMT2D_damaging_to_KMT2C,KY,ACH-000722,Bowel,matrix_intact,-0.4668876370566257
+KMT2D_damaging_to_KMT2C,KY,ACH-000738,CNS/Brain,matrix_intact,0.06299032731337109
+KMT2D_damaging_to_KMT2C,KY,ACH-000740,Head and Neck,damaging,0.058337637837402236
+KMT2D_damaging_to_KMT2C,KY,ACH-000748,Bone,damaging,0.40522025000970535
+KMT2D_damaging_to_KMT2C,KY,ACH-000756,CNS/Brain,matrix_intact,0.3114912317933081
+KMT2D_damaging_to_KMT2C,KY,ACH-000768,Breast,matrix_intact,0.5285247084560459
+KMT2D_damaging_to_KMT2C,KY,ACH-000769,Lung,damaging,0.29458938287611963
+KMT2D_damaging_to_KMT2C,KY,ACH-000778,Head and Neck,matrix_intact,0.2797291884377781
+KMT2D_damaging_to_KMT2C,KY,ACH-000781,Lung,matrix_intact,0.22018628204326576
+KMT2D_damaging_to_KMT2C,KY,ACH-000784,Esophagus/Stomach,matrix_intact,0.23629645032152755
+KMT2D_damaging_to_KMT2C,KY,ACH-000787,Lung,matrix_intact,0.002781341406415253
+KMT2D_damaging_to_KMT2C,KY,ACH-000788,Skin,matrix_intact,0.2346028638285775
+KMT2D_damaging_to_KMT2C,KY,ACH-000793,Esophagus/Stomach,damaging,0.0587512048301241
+KMT2D_damaging_to_KMT2C,KY,ACH-000794,Head and Neck,matrix_intact,0.3314825128941167
+KMT2D_damaging_to_KMT2C,KY,ACH-000796,Ovary/Fallopian Tube,matrix_intact,0.4060992135145894
+KMT2D_damaging_to_KMT2C,KY,ACH-000809,Esophagus/Stomach,matrix_intact,0.07444070871075388
+KMT2D_damaging_to_KMT2C,KY,ACH-000817,Lymphoid,matrix_intact,-0.6371028136432049
+KMT2D_damaging_to_KMT2C,KY,ACH-000823,Esophagus/Stomach,matrix_intact,0.08491957461915507
+KMT2D_damaging_to_KMT2C,KY,ACH-000824,Esophagus/Stomach,matrix_intact,-0.06003677784984288
+KMT2D_damaging_to_KMT2C,KY,ACH-000832,Head and Neck,matrix_intact,0.3829538575111168
+KMT2D_damaging_to_KMT2C,KY,ACH-000841,Lung,matrix_intact,0.061840466029360795
+KMT2D_damaging_to_KMT2C,KY,ACH-000843,Lung,matrix_intact,0.16627992741026648
+KMT2D_damaging_to_KMT2C,KY,ACH-000846,Head and Neck,matrix_intact,0.3919535114698811
+KMT2D_damaging_to_KMT2C,KY,ACH-000847,Esophagus/Stomach,matrix_intact,-0.15514542921659338
+KMT2D_damaging_to_KMT2C,KY,ACH-000849,Breast,matrix_intact,0.3483483896618422
+KMT2D_damaging_to_KMT2C,KY,ACH-000855,Esophagus/Stomach,matrix_intact,0.3562819665962423
+KMT2D_damaging_to_KMT2C,KY,ACH-000856,Breast,matrix_intact,-0.0705551989219578
+KMT2D_damaging_to_KMT2C,KY,ACH-000858,Lung,matrix_intact,0.18176123079563733
+KMT2D_damaging_to_KMT2C,KY,ACH-000859,Breast,matrix_intact,0.3407776696808367
+KMT2D_damaging_to_KMT2C,KY,ACH-000860,Lung,matrix_intact,0.39083090454367353
+KMT2D_damaging_to_KMT2C,KY,ACH-000861,Lung,matrix_intact,-0.20022543000946227
+KMT2D_damaging_to_KMT2C,KY,ACH-000863,CNS/Brain,matrix_intact,-0.45392151203226205
+KMT2D_damaging_to_KMT2C,KY,ACH-000864,Uterus,damaging,-0.046345125264590475
+KMT2D_damaging_to_KMT2C,KY,ACH-000865,Esophagus/Stomach,damaging,0.21572699329468023
+KMT2D_damaging_to_KMT2C,KY,ACH-000869,Lung,damaging,0.12350511767146095
+KMT2D_damaging_to_KMT2C,KY,ACH-000873,Esophagus/Stomach,matrix_intact,0.6019886542422341
+KMT2D_damaging_to_KMT2C,KY,ACH-000876,Breast,matrix_intact,-0.010662007515990371
+KMT2D_damaging_to_KMT2C,KY,ACH-000878,Lung,matrix_intact,0.24689457523941027
+KMT2D_damaging_to_KMT2C,KY,ACH-000879,Uterus,damaging,-0.5104422489821493
+KMT2D_damaging_to_KMT2C,KY,ACH-000880,Esophagus/Stomach,matrix_intact,0.12725039722218132
+KMT2D_damaging_to_KMT2C,KY,ACH-000885,Ovary/Fallopian Tube,damaging,0.1929988913176022
+KMT2D_damaging_to_KMT2C,KY,ACH-000894,Lung,matrix_intact,0.12352018479272542
+KMT2D_damaging_to_KMT2C,KY,ACH-000900,Lung,matrix_intact,0.5568127266074778
+KMT2D_damaging_to_KMT2C,KY,ACH-000906,Ovary/Fallopian Tube,matrix_intact,0.3130984125149561
+KMT2D_damaging_to_KMT2C,KY,ACH-000910,Breast,matrix_intact,-0.3910515595935033
+KMT2D_damaging_to_KMT2C,KY,ACH-000911,Esophagus/Stomach,matrix_intact,0.27393672920923534
+KMT2D_damaging_to_KMT2C,KY,ACH-000913,Uterus,matrix_intact,0.17931332495430571
+KMT2D_damaging_to_KMT2C,KY,ACH-000917,Esophagus/Stomach,matrix_intact,0.2853045772164121
+KMT2D_damaging_to_KMT2C,KY,ACH-000919,Esophagus/Stomach,damaging,-0.2547616377129281
+KMT2D_damaging_to_KMT2C,KY,ACH-000926,Bowel,matrix_intact,-0.28813887861815624
+KMT2D_damaging_to_KMT2C,KY,ACH-000932,Esophagus/Stomach,damaging,-0.4157056803960845
+KMT2D_damaging_to_KMT2C,KY,ACH-000934,Breast,matrix_intact,0.1406814625099944
+KMT2D_damaging_to_KMT2C,KY,ACH-000935,Bowel,matrix_intact,0.2741004831855597
+KMT2D_damaging_to_KMT2C,KY,ACH-000936,Ovary/Fallopian Tube,damaging,0.10658871810736896
+KMT2D_damaging_to_KMT2C,KY,ACH-000943,Bowel,damaging,0.18714909084133222
+KMT2D_damaging_to_KMT2C,KY,ACH-000945,Lung,matrix_intact,0.016911136875950875
+KMT2D_damaging_to_KMT2C,KY,ACH-000947,Ovary/Fallopian Tube,matrix_intact,0.2858820321333161
+KMT2D_damaging_to_KMT2C,KY,ACH-000948,Esophagus/Stomach,matrix_intact,0.1888296981240706
+KMT2D_damaging_to_KMT2C,KY,ACH-000950,Bowel,damaging,0.4410865856779009
+KMT2D_damaging_to_KMT2C,KY,ACH-000956,Prostate,damaging,-0.27377345842211903
+KMT2D_damaging_to_KMT2C,KY,ACH-000957,Bowel,matrix_intact,0.18682682540502507
+KMT2D_damaging_to_KMT2C,KY,ACH-000958,Bowel,damaging,-0.3685222709196621
+KMT2D_damaging_to_KMT2C,KY,ACH-000962,Ovary/Fallopian Tube,damaging,-0.5593071376277878
+KMT2D_damaging_to_KMT2C,KY,ACH-000965,Uterus,damaging,0.05879654828684078
+KMT2D_damaging_to_KMT2C,KY,ACH-000966,Ovary/Fallopian Tube,damaging,0.012307698993848685
+KMT2D_damaging_to_KMT2C,KY,ACH-000969,Bowel,damaging,0.28164376277837283
+KMT2D_damaging_to_KMT2C,KY,ACH-000970,Bowel,damaging,0.4309218123987555
+KMT2D_damaging_to_KMT2C,KY,ACH-000971,Bowel,damaging,0.07129065304845827
+KMT2D_damaging_to_KMT2C,KY,ACH-000974,Uterus,matrix_intact,0.1373990429926307
+KMT2D_damaging_to_KMT2C,KY,ACH-000977,Prostate,matrix_intact,0.09105928901571243
+KMT2D_damaging_to_KMT2C,KY,ACH-000979,Prostate,matrix_intact,0.13221677547348462
+KMT2D_damaging_to_KMT2C,KY,ACH-000980,Lung,matrix_intact,0.1773109949385614
+KMT2D_damaging_to_KMT2C,KY,ACH-000985,Bowel,damaging,0.5151987409415498
+KMT2D_damaging_to_KMT2C,KY,ACH-000991,Bowel,matrix_intact,-0.6502727080884064
+KMT2D_damaging_to_KMT2C,KY,ACH-000997,Bowel,matrix_intact,0.17257014256515443
+KMT2D_damaging_to_KMT2C,KY,ACH-001016,CNS/Brain,matrix_intact,0.16388571257859563
+KMT2D_damaging_to_KMT2C,KY,ACH-001039,Bowel,matrix_intact,-0.08992191714789444
+KMT2D_damaging_to_KMT2C,KY,ACH-001063,Ovary/Fallopian Tube,matrix_intact,0.006820078819050307
+KMT2D_damaging_to_KMT2C,KY,ACH-001065,Breast,matrix_intact,0.33304618938103153
+KMT2D_damaging_to_KMT2C,KY,ACH-001081,Bowel,matrix_intact,0.07168935035317837
+KMT2D_damaging_to_KMT2C,KY,ACH-001107,Pancreas,matrix_intact,0.15617203928024312
+KMT2D_damaging_to_KMT2C,KY,ACH-001126,CNS/Brain,matrix_intact,0.040471908964084626
+KMT2D_damaging_to_KMT2C,KY,ACH-001137,Lung,matrix_intact,0.2676515529818097
+KMT2D_damaging_to_KMT2C,KY,ACH-001151,Ovary/Fallopian Tube,matrix_intact,0.15139469684095982
+KMT2D_damaging_to_KMT2C,KY,ACH-001190,Skin,matrix_intact,-0.16278057768317974
+KMT2D_damaging_to_KMT2C,KY,ACH-001193,Bone,matrix_intact,-0.32988845632832675
+KMT2D_damaging_to_KMT2C,KY,ACH-001233,Lung,matrix_intact,0.08460483588401323
+KMT2D_damaging_to_KMT2C,KY,ACH-001331,Head and Neck,matrix_intact,-0.07551348415892983
+KMT2D_damaging_to_KMT2C,KY,ACH-001332,Head and Neck,matrix_intact,0.3642132654141088
+KMT2D_damaging_to_KMT2C,KY,ACH-001345,Bowel,damaging,-0.19861284818179556
+KMT2D_damaging_to_KMT2C,KY,ACH-001368,Esophagus/Stomach,matrix_intact,0.013637761632363521
+KMT2D_damaging_to_KMT2C,KY,ACH-001399,Bowel,matrix_intact,0.21634799491996404
+KMT2D_damaging_to_KMT2C,KY,ACH-001418,Ovary/Fallopian Tube,matrix_intact,0.19100661370142116
+KMT2D_damaging_to_KMT2C,KY,ACH-001494,Biliary Tract,matrix_intact,0.406990393891237
+KMT2D_damaging_to_KMT2C,KY,ACH-001496,Esophagus/Stomach,matrix_intact,-0.14097858193720417
+KMT2D_damaging_to_KMT2C,KY,ACH-001497,Esophagus/Stomach,matrix_intact,-0.4564895934972615
+KMT2D_damaging_to_KMT2C,KY,ACH-001500,Esophagus/Stomach,matrix_intact,0.22419257732924847
+KMT2D_damaging_to_KMT2C,KY,ACH-001517,Uterus,matrix_intact,0.3049285031909317
+KMT2D_damaging_to_KMT2C,KY,ACH-001542,Head and Neck,matrix_intact,0.6387849057754046
+KMT2D_damaging_to_KMT2C,KY,ACH-001544,Esophagus/Stomach,matrix_intact,-0.05999826006878046
+KMT2D_damaging_to_KMT2C,KY,ACH-001603,Peripheral Nervous System,matrix_intact,-0.49746736529748786
+KMT2D_damaging_to_KMT2C,KY,ACH-001605,CNS/Brain,matrix_intact,0.02580215427593035
+KMT2D_damaging_to_KMT2C,KY,ACH-001606,CNS/Brain,damaging,-0.2885453070940938
+KMT2D_damaging_to_KMT2C,KY,ACH-001625,Head and Neck,matrix_intact,0.2148393331294134
+KMT2D_damaging_to_KMT2C,KY,ACH-001626,Head and Neck,matrix_intact,0.3283315630097002
+KMT2D_damaging_to_KMT2C,KY,ACH-001630,Ovary/Fallopian Tube,matrix_intact,-0.05872706515712708
+KMT2D_damaging_to_KMT2C,KY,ACH-001632,Ovary/Fallopian Tube,matrix_intact,-0.003987160515244185
+KMT2D_damaging_to_KMT2C,KY,ACH-001639,Lymphoid,matrix_intact,0.39216353885782773
+KMT2D_damaging_to_KMT2C,KY,ACH-001654,Esophagus/Stomach,matrix_intact,0.5568821631776094
+KMT2D_damaging_to_KMT2C,KY,ACH-001674,Peripheral Nervous System,matrix_intact,-0.1352501509116704
+KMT2D_damaging_to_KMT2C,KY,ACH-001715,Bone,matrix_intact,0.11991358876112097
+KMT2D_damaging_to_KMT2C,KY,ACH-001819,Breast,matrix_intact,-0.3533034250849325
+KMT2D_damaging_to_KMT2C,KY,ACH-001820,Breast,matrix_intact,0.20506914515245245
+KMT2D_damaging_to_KMT2C,KY,ACH-002029,Head and Neck,matrix_intact,0.07154885969216512
+KMT2D_damaging_to_KMT2C,KY,ACH-002043,Head and Neck,matrix_intact,0.23955569501166257
+KMT2D_damaging_to_KMT2C,KY,ACH-002045,Head and Neck,matrix_intact,-0.24146817073578222
+KMT2D_damaging_to_KMT2C,KY,ACH-002083,Peripheral Nervous System,matrix_intact,0.6063109002939768
+KMT2D_damaging_to_KMT2C,KY,ACH-002105,Bone,matrix_intact,-0.3348878697528512
+KMT2D_damaging_to_KMT2C,KY,ACH-002106,Bone,matrix_intact,0.15464974029072978
+KMT2D_damaging_to_KMT2C,KY,ACH-002109,Bone,matrix_intact,0.2746331045960003
+KMT2D_damaging_to_KMT2C,KY,ACH-002110,Bone,matrix_intact,0.013777780198123507
+KMT2D_damaging_to_KMT2C,KY,ACH-002114,Bone,matrix_intact,-0.5187919924216313
+KMT2D_damaging_to_KMT2C,KY,ACH-002116,Bone,matrix_intact,0.20471459273781525
+KMT2D_damaging_to_KMT2C,KY,ACH-002119,Bone,matrix_intact,-0.19051532446819977
+KMT2D_damaging_to_KMT2C,KY,ACH-002140,Ovary/Fallopian Tube,matrix_intact,0.42228518482574456
+KMT2D_damaging_to_KMT2C,KY,ACH-002141,Esophagus/Stomach,matrix_intact,-0.36335924531062513
+KMT2D_damaging_to_KMT2C,KY,ACH-002143,Skin,matrix_intact,-0.012439746162521881
+KMT2D_damaging_to_KMT2C,KY,ACH-002150,Kidney,matrix_intact,-0.04078124518768685
+KMT2D_damaging_to_KMT2C,KY,ACH-002156,Lung,matrix_intact,-0.2577151763708577
+KMT2D_damaging_to_KMT2C,KY,ACH-002160,Bone,matrix_intact,0.3621766837200184
+KMT2D_damaging_to_KMT2C,KY,ACH-002161,Esophagus/Stomach,matrix_intact,-0.09892771736908955
+KMT2D_damaging_to_KMT2C,KY,ACH-002179,Breast,matrix_intact,0.2997694528103537
+KMT2D_damaging_to_KMT2C,KY,ACH-002181,Ovary/Fallopian Tube,matrix_intact,0.3060052599339405
+KMT2D_damaging_to_KMT2C,KY,ACH-002183,Ovary/Fallopian Tube,matrix_intact,-0.20831770804991578
+KMT2D_damaging_to_KMT2C,KY,ACH-002186,Pancreas,matrix_intact,0.1389142584966917
+KMT2D_damaging_to_KMT2C,KY,ACH-002189,Kidney,matrix_intact,0.07629167927696891
+KMT2D_damaging_to_KMT2C,KY,ACH-002198,Other,matrix_intact,-0.4283076555698419
+KMT2D_damaging_to_KMT2C,KY,ACH-002202,Esophagus/Stomach,matrix_intact,0.09151287610683835
+KMT2D_damaging_to_KMT2C,KY,ACH-002210,Myeloid,matrix_intact,0.31889678585297143
+KMT2D_damaging_to_KMT2C,KY,ACH-002212,Head and Neck,matrix_intact,0.33930762052294305
+KMT2D_damaging_to_KMT2C,KY,ACH-002228,CNS/Brain,matrix_intact,-0.004920229733672108
+KMT2D_damaging_to_KMT2C,KY,ACH-002229,CNS/Brain,matrix_intact,-0.06272456373056476
+KMT2D_damaging_to_KMT2C,KY,ACH-002230,CNS/Brain,matrix_intact,-0.029897629003838397
+KMT2D_damaging_to_KMT2C,KY,ACH-002233,Bowel,matrix_intact,-0.48748783829562287
+KMT2D_damaging_to_KMT2C,KY,ACH-002234,Head and Neck,matrix_intact,0.0432769580570452
+KMT2D_damaging_to_KMT2C,KY,ACH-002239,Head and Neck,matrix_intact,0.6097841207302773
+KMT2D_damaging_to_KMT2C,KY,ACH-002243,Esophagus/Stomach,matrix_intact,-0.37076589616460015
+KMT2D_damaging_to_KMT2C,KY,ACH-002247,Myeloid,matrix_intact,-1.0012997639202696
+KMT2D_damaging_to_KMT2C,KY,ACH-002249,Head and Neck,matrix_intact,0.2799380399423052
+KMT2D_damaging_to_KMT2C,KY,ACH-002250,Head and Neck,matrix_intact,0.25592497177057294
+KMT2D_damaging_to_KMT2C,KY,ACH-002251,Head and Neck,damaging,0.73178678990247
+KMT2D_damaging_to_KMT2C,KY,ACH-002257,CNS/Brain,matrix_intact,0.37149158231207374
+KMT2D_damaging_to_KMT2C,KY,ACH-002261,Peripheral Nervous System,matrix_intact,0.12335448154236832
+KMT2D_damaging_to_KMT2C,KY,ACH-002263,Esophagus/Stomach,matrix_intact,0.016320140156614878
+KMT2D_damaging_to_KMT2C,KY,ACH-002265,Head and Neck,matrix_intact,0.07365717673505819
+KMT2D_damaging_to_KMT2C,KY,ACH-002269,CNS/Brain,matrix_intact,0.024197358270703764
+KMT2D_damaging_to_KMT2C,KY,ACH-002278,Peripheral Nervous System,matrix_intact,0.18063477998320646
+KMT2D_damaging_to_KMT2C,KY,ACH-002280,Peripheral Nervous System,matrix_intact,0.025908945183192738
+KMT2D_damaging_to_KMT2C,KY,ACH-002282,Peripheral Nervous System,matrix_intact,0.22146505001774722
+KMT2D_damaging_to_KMT2C,KY,ACH-002283,Peripheral Nervous System,matrix_intact,0.08308868313604122
+KMT2D_damaging_to_KMT2C,KY,ACH-002284,Peripheral Nervous System,matrix_intact,-0.355534739898212
+KMT2D_damaging_to_KMT2C,KY,ACH-002285,Peripheral Nervous System,matrix_intact,0.31148996051903804
+KMT2D_damaging_to_KMT2C,KY,ACH-002294,Head and Neck,matrix_intact,0.14899706950795752
+KMT2D_damaging_to_KMT2C,KY,ACH-002295,Head and Neck,matrix_intact,-0.0072510667147979895
+KMT2D_damaging_to_KMT2C,KY,ACH-002296,Head and Neck,matrix_intact,0.4751774080702618
+KMT2D_damaging_to_KMT2C,KY,ACH-002297,Head and Neck,matrix_intact,0.6104542446785347
+KMT2D_damaging_to_KMT2C,KY,ACH-002298,Head and Neck,matrix_intact,0.7276904542384006
+KMT2D_damaging_to_KMT2C,KY,ACH-002304,CNS/Brain,damaging,0.12203786661745213
+KMT2D_damaging_to_KMT2C,KY,ACH-002305,Head and Neck,matrix_intact,-0.18232007986707124
