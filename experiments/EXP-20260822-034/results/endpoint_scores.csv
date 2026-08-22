@@ -1,0 +1,1291 @@
+pair_id,source,model_id,lineage,status,target_score
+TP53_damaging_to_TDG,Avana,ACH-000004,Myeloid,damaging,-0.16666308121442897
+TP53_damaging_to_TDG,Avana,ACH-000005,Myeloid,damaging,-0.130340116560662
+TP53_damaging_to_TDG,Avana,ACH-000007,Bowel,matrix_intact,0.11175953687828735
+TP53_damaging_to_TDG,Avana,ACH-000009,Bowel,damaging,-0.21797207779838618
+TP53_damaging_to_TDG,Avana,ACH-000011,Bladder/Urinary Tract,matrix_intact,-0.3741552452117479
+TP53_damaging_to_TDG,Avana,ACH-000012,Lung,matrix_intact,-0.11941558900883525
+TP53_damaging_to_TDG,Avana,ACH-000013,Ovary/Fallopian Tube,damaging,-0.4359319885027057
+TP53_damaging_to_TDG,Avana,ACH-000015,Lung,damaging,-0.23294925316329668
+TP53_damaging_to_TDG,Avana,ACH-000017,Breast,damaging,-0.10192864701364279
+TP53_damaging_to_TDG,Avana,ACH-000018,Bladder/Urinary Tract,damaging,-0.08015482988906258
+TP53_damaging_to_TDG,Avana,ACH-000019,Breast,matrix_intact,-0.30525204278122153
+TP53_damaging_to_TDG,Avana,ACH-000021,Lung,damaging,-0.4271895234710932
+TP53_damaging_to_TDG,Avana,ACH-000022,Pancreas,damaging,-0.09322931398733622
+TP53_damaging_to_TDG,Avana,ACH-000024,Lymphoid,damaging,-0.505024665692001
+TP53_damaging_to_TDG,Avana,ACH-000025,CNS/Brain,matrix_intact,-0.1765189425571579
+TP53_damaging_to_TDG,Avana,ACH-000028,Breast,matrix_intact,-0.14135162575688037
+TP53_damaging_to_TDG,Avana,ACH-000029,Lung,matrix_intact,-0.1536914279594259
+TP53_damaging_to_TDG,Avana,ACH-000030,Lung,damaging,0.02615492255667911
+TP53_damaging_to_TDG,Avana,ACH-000035,Lung,damaging,-0.1657353310928961
+TP53_damaging_to_TDG,Avana,ACH-000036,CNS/Brain,matrix_intact,-0.3923425564860469
+TP53_damaging_to_TDG,Avana,ACH-000037,Soft Tissue,damaging,-0.06971678627651645
+TP53_damaging_to_TDG,Avana,ACH-000039,Bone,matrix_intact,-0.15630732336961564
+TP53_damaging_to_TDG,Avana,ACH-000040,CNS/Brain,damaging,-0.0812603409398008
+TP53_damaging_to_TDG,Avana,ACH-000041,Bone,damaging,-0.5237213827201194
+TP53_damaging_to_TDG,Avana,ACH-000042,Pancreas,damaging,-0.40178216830079816
+TP53_damaging_to_TDG,Avana,ACH-000045,Myeloid,matrix_intact,-0.1649479679651611
+TP53_damaging_to_TDG,Avana,ACH-000047,Esophagus/Stomach,damaging,-0.2730447493405924
+TP53_damaging_to_TDG,Avana,ACH-000048,Ovary/Fallopian Tube,damaging,-0.3793890318202347
+TP53_damaging_to_TDG,Avana,ACH-000052,Bone,damaging,-0.019593054734201122
+TP53_damaging_to_TDG,Avana,ACH-000053,Lymphoid,damaging,-0.1317461874785423
+TP53_damaging_to_TDG,Avana,ACH-000054,Soft Tissue,matrix_intact,-0.22167932921996147
+TP53_damaging_to_TDG,Avana,ACH-000055,CNS/Brain,damaging,-0.5480349667005981
+TP53_damaging_to_TDG,Avana,ACH-000060,Pancreas,damaging,-0.36110855342069315
+TP53_damaging_to_TDG,Avana,ACH-000067,CNS/Brain,damaging,-0.4646680355714651
+TP53_damaging_to_TDG,Avana,ACH-000070,Lymphoid,matrix_intact,-0.230401212748106
+TP53_damaging_to_TDG,Avana,ACH-000074,Myeloid,damaging,-0.10663582908842657
+TP53_damaging_to_TDG,Avana,ACH-000075,CNS/Brain,matrix_intact,-0.038243421107173214
+TP53_damaging_to_TDG,Avana,ACH-000076,Myeloid,damaging,-0.4193484251610965
+TP53_damaging_to_TDG,Avana,ACH-000077,Lymphoid,matrix_intact,-0.1653145990524334
+TP53_damaging_to_TDG,Avana,ACH-000078,Peripheral Nervous System,matrix_intact,-0.32120296092155654
+TP53_damaging_to_TDG,Avana,ACH-000082,Bone,matrix_intact,-0.08749568376423078
+TP53_damaging_to_TDG,Avana,ACH-000085,Pancreas,damaging,-0.19210120780797185
+TP53_damaging_to_TDG,Avana,ACH-000086,Pleura,matrix_intact,-0.2837419036000828
+TP53_damaging_to_TDG,Avana,ACH-000090,Prostate,damaging,-0.2866234982259459
+TP53_damaging_to_TDG,Avana,ACH-000092,Pleura,matrix_intact,0.023449219833685704
+TP53_damaging_to_TDG,Avana,ACH-000093,Pancreas,matrix_intact,-0.0024920407309219073
+TP53_damaging_to_TDG,Avana,ACH-000095,CNS/Brain,matrix_intact,-0.5579442992471593
+TP53_damaging_to_TDG,Avana,ACH-000097,Breast,matrix_intact,-0.076574028693642
+TP53_damaging_to_TDG,Avana,ACH-000098,CNS/Brain,damaging,-0.024831549743026142
+TP53_damaging_to_TDG,Avana,ACH-000099,Peripheral Nervous System,matrix_intact,-0.44854431470147194
+TP53_damaging_to_TDG,Avana,ACH-000101,Lymphoid,damaging,-1.35775126274368
+TP53_damaging_to_TDG,Avana,ACH-000108,Pancreas,damaging,-0.24671487558320995
+TP53_damaging_to_TDG,Avana,ACH-000111,Breast,matrix_intact,0.4036578464953702
+TP53_damaging_to_TDG,Avana,ACH-000113,Myeloid,matrix_intact,-0.21677757439339962
+TP53_damaging_to_TDG,Avana,ACH-000114,Pancreas,damaging,-1.2581823763105877
+TP53_damaging_to_TDG,Avana,ACH-000115,Prostate,damaging,0.03731394227907921
+TP53_damaging_to_TDG,Avana,ACH-000118,Pancreas,damaging,-0.18278506841548325
+TP53_damaging_to_TDG,Avana,ACH-000120,Peripheral Nervous System,matrix_intact,-0.41533356649104297
+TP53_damaging_to_TDG,Avana,ACH-000123,Ovary/Fallopian Tube,matrix_intact,-0.09569154827395743
+TP53_damaging_to_TDG,Avana,ACH-000127,Bladder/Urinary Tract,damaging,-0.33583157550586684
+TP53_damaging_to_TDG,Avana,ACH-000128,CNS/Brain,damaging,-0.15726449281916294
+TP53_damaging_to_TDG,Avana,ACH-000132,Ovary/Fallopian Tube,damaging,-0.3689024843463651
+TP53_damaging_to_TDG,Avana,ACH-000133,Soft Tissue,damaging,-0.41405609684771744
+TP53_damaging_to_TDG,Avana,ACH-000137,CNS/Brain,damaging,-0.13809880102919625
+TP53_damaging_to_TDG,Avana,ACH-000138,Pancreas,damaging,-0.8959642356154789
+TP53_damaging_to_TDG,Avana,ACH-000141,Biliary Tract,damaging,-0.09009504883313711
+TP53_damaging_to_TDG,Avana,ACH-000142,Bladder/Urinary Tract,damaging,-0.04844508686883757
+TP53_damaging_to_TDG,Avana,ACH-000143,Lung,damaging,-0.06627235610740065
+TP53_damaging_to_TDG,Avana,ACH-000145,Soft Tissue,damaging,-0.11040821287655593
+TP53_damaging_to_TDG,Avana,ACH-000146,Myeloid,damaging,-0.13174161057084383
+TP53_damaging_to_TDG,Avana,ACH-000147,Breast,damaging,-0.14886327132761237
+TP53_damaging_to_TDG,Avana,ACH-000148,Breast,damaging,0.038590566712650896
+TP53_damaging_to_TDG,Avana,ACH-000151,Lymphoid,matrix_intact,0.09944148980847117
+TP53_damaging_to_TDG,Avana,ACH-000152,CNS/Brain,damaging,-0.3782421875612677
+TP53_damaging_to_TDG,Avana,ACH-000153,Pleura,matrix_intact,-0.17377089909719784
+TP53_damaging_to_TDG,Avana,ACH-000159,Kidney,matrix_intact,-0.13226845022942646
+TP53_damaging_to_TDG,Avana,ACH-000160,CNS/Brain,matrix_intact,-0.17068643398793565
+TP53_damaging_to_TDG,Avana,ACH-000161,Lung,matrix_intact,-0.14920293140373359
+TP53_damaging_to_TDG,Avana,ACH-000163,Head and Neck,damaging,-0.1951204935292968
+TP53_damaging_to_TDG,Avana,ACH-000164,Pancreas,damaging,-0.7417002871060583
+TP53_damaging_to_TDG,Avana,ACH-000168,Myeloid,damaging,-0.1869429286278352
+TP53_damaging_to_TDG,Avana,ACH-000169,Soft Tissue,damaging,-0.2631215258746481
+TP53_damaging_to_TDG,Avana,ACH-000174,Thyroid,damaging,-0.5279717099445076
+TP53_damaging_to_TDG,Avana,ACH-000178,Pancreas,matrix_intact,-0.2915067263307495
+TP53_damaging_to_TDG,Avana,ACH-000182,Ampulla of Vater,matrix_intact,-0.6027457492155026
+TP53_damaging_to_TDG,Avana,ACH-000183,Lymphoid,damaging,-0.7572710039077322
+TP53_damaging_to_TDG,Avana,ACH-000187,Lung,damaging,-0.12836766487538495
+TP53_damaging_to_TDG,Avana,ACH-000188,Head and Neck,damaging,-0.1370327755629739
+TP53_damaging_to_TDG,Avana,ACH-000189,Kidney,matrix_intact,-0.1857822705693938
+TP53_damaging_to_TDG,Avana,ACH-000190,Myeloid,damaging,-0.35074129451614994
+TP53_damaging_to_TDG,Avana,ACH-000191,Thyroid,damaging,-0.24242097883762878
+TP53_damaging_to_TDG,Avana,ACH-000195,Myeloid,damaging,-0.0714584961858726
+TP53_damaging_to_TDG,Avana,ACH-000198,Myeloid,matrix_intact,-0.10200493553522039
+TP53_damaging_to_TDG,Avana,ACH-000200,CNS/Brain,matrix_intact,-0.22992278546738734
+TP53_damaging_to_TDG,Avana,ACH-000202,Bowel,damaging,-0.13554469026596777
+TP53_damaging_to_TDG,Avana,ACH-000204,Lymphoid,damaging,-0.07384003519592808
+TP53_damaging_to_TDG,Avana,ACH-000206,Lymphoid,matrix_intact,-0.22614428715328586
+TP53_damaging_to_TDG,Avana,ACH-000207,Head and Neck,damaging,-0.060412497640394594
+TP53_damaging_to_TDG,Avana,ACH-000209,Biliary Tract,matrix_intact,-0.3226041171174324
+TP53_damaging_to_TDG,Avana,ACH-000211,CNS/Brain,damaging,-0.1858067815321669
+TP53_damaging_to_TDG,Avana,ACH-000212,Breast,damaging,-0.390494188352557
+TP53_damaging_to_TDG,Avana,ACH-000215,CNS/Brain,damaging,-0.34830254930395865
+TP53_damaging_to_TDG,Avana,ACH-000216,Esophagus/Stomach,damaging,-0.15803322347478402
+TP53_damaging_to_TDG,Avana,ACH-000217,Liver,damaging,-0.15670047298329817
+TP53_damaging_to_TDG,Avana,ACH-000219,Skin,matrix_intact,-0.22026052450408679
+TP53_damaging_to_TDG,Avana,ACH-000221,Liver,damaging,-0.1054610135799395
+TP53_damaging_to_TDG,Avana,ACH-000222,Pancreas,damaging,-0.25441759691101257
+TP53_damaging_to_TDG,Avana,ACH-000223,Breast,damaging,-0.4018838650688675
+TP53_damaging_to_TDG,Avana,ACH-000226,Lymphoid,matrix_intact,-0.30095260205731755
+TP53_damaging_to_TDG,Avana,ACH-000227,Peripheral Nervous System,matrix_intact,-0.12856063296699316
+TP53_damaging_to_TDG,Avana,ACH-000228,Head and Neck,matrix_intact,0.02606335349464487
+TP53_damaging_to_TDG,Avana,ACH-000231,CNS/Brain,damaging,-0.35013748707074793
+TP53_damaging_to_TDG,Avana,ACH-000232,CNS/Brain,damaging,-0.842325930922172
+TP53_damaging_to_TDG,Avana,ACH-000233,Lymphoid,damaging,-0.31341941879300844
+TP53_damaging_to_TDG,Avana,ACH-000234,Kidney,matrix_intact,-0.0039018617264887576
+TP53_damaging_to_TDG,Avana,ACH-000235,Pancreas,damaging,-0.12157945799217475
+TP53_damaging_to_TDG,Avana,ACH-000237,Ovary/Fallopian Tube,damaging,-0.03089727343188445
+TP53_damaging_to_TDG,Avana,ACH-000238,Head and Neck,damaging,-0.29381913054710984
+TP53_damaging_to_TDG,Avana,ACH-000243,Pancreas,damaging,-0.33241672689097046
+TP53_damaging_to_TDG,Avana,ACH-000244,CNS/Brain,matrix_intact,-0.0750133701706127
+TP53_damaging_to_TDG,Avana,ACH-000246,Kidney,matrix_intact,-0.08841610218970747
+TP53_damaging_to_TDG,Avana,ACH-000247,Esophagus/Stomach,matrix_intact,-1.7123271304900682
+TP53_damaging_to_TDG,Avana,ACH-000248,Breast,damaging,-0.14419344221897662
+TP53_damaging_to_TDG,Avana,ACH-000250,Kidney,damaging,-0.473596141803341
+TP53_damaging_to_TDG,Avana,ACH-000251,Lung,damaging,0.038827315720463454
+TP53_damaging_to_TDG,Avana,ACH-000252,Bowel,damaging,-0.1508105915739968
+TP53_damaging_to_TDG,Avana,ACH-000253,Bowel,damaging,-0.09792839299304486
+TP53_damaging_to_TDG,Avana,ACH-000255,Esophagus/Stomach,damaging,0.016916312071574038
+TP53_damaging_to_TDG,Avana,ACH-000256,Ovary/Fallopian Tube,damaging,-0.11479688954205311
+TP53_damaging_to_TDG,Avana,ACH-000257,Lung,damaging,-0.72354775737213
+TP53_damaging_to_TDG,Avana,ACH-000258,Breast,matrix_intact,-0.3035490678369808
+TP53_damaging_to_TDG,Avana,ACH-000259,Peripheral Nervous System,damaging,-0.03205931633341462
+TP53_damaging_to_TDG,Avana,ACH-000260,Peripheral Nervous System,matrix_intact,-0.16771199148748395
+TP53_damaging_to_TDG,Avana,ACH-000261,Lung,damaging,-0.17075522634410112
+TP53_damaging_to_TDG,Avana,ACH-000262,Kidney,matrix_intact,-0.2814776697470883
+TP53_damaging_to_TDG,Avana,ACH-000263,Myeloid,damaging,-0.09354736437352623
+TP53_damaging_to_TDG,Avana,ACH-000264,Lung,damaging,-0.4443264928523237
+TP53_damaging_to_TDG,Avana,ACH-000265,Pancreas,matrix_intact,-0.6734446615415706
+TP53_damaging_to_TDG,Avana,ACH-000266,Pancreas,damaging,-0.27344688548460105
+TP53_damaging_to_TDG,Avana,ACH-000272,Kidney,matrix_intact,-0.31176167142230987
+TP53_damaging_to_TDG,Avana,ACH-000273,CNS/Brain,damaging,-0.21604906803737622
+TP53_damaging_to_TDG,Avana,ACH-000274,Skin,matrix_intact,-0.16048432460946538
+TP53_damaging_to_TDG,Avana,ACH-000276,Breast,damaging,-0.397204137243275
+TP53_damaging_to_TDG,Avana,ACH-000277,Breast,damaging,-0.1512263080423528
+TP53_damaging_to_TDG,Avana,ACH-000278,Ovary/Fallopian Tube,damaging,0.06279941011275945
+TP53_damaging_to_TDG,Avana,ACH-000279,Bone,damaging,-0.49249609955381296
+TP53_damaging_to_TDG,Avana,ACH-000280,Ovary/Fallopian Tube,matrix_intact,-0.07204478125261081
+TP53_damaging_to_TDG,Avana,ACH-000281,Pancreas,damaging,-0.8636313380451113
+TP53_damaging_to_TDG,Avana,ACH-000286,Bowel,damaging,-0.047861765306932286
+TP53_damaging_to_TDG,Avana,ACH-000288,Breast,damaging,-0.4830220325634394
+TP53_damaging_to_TDG,Avana,ACH-000290,Lung,damaging,-0.2985419596496493
+TP53_damaging_to_TDG,Avana,ACH-000291,Ovary/Fallopian Tube,damaging,-0.16575264627864084
+TP53_damaging_to_TDG,Avana,ACH-000292,Lung,damaging,-0.0731776804740335
+TP53_damaging_to_TDG,Avana,ACH-000293,Uterus,damaging,-0.12830351903823553
+TP53_damaging_to_TDG,Avana,ACH-000294,Myeloid,damaging,-0.2951132158561834
+TP53_damaging_to_TDG,Avana,ACH-000295,Myeloid,damaging,-0.030052513133202098
+TP53_damaging_to_TDG,Avana,ACH-000296,Bowel,damaging,-0.4366163738737005
+TP53_damaging_to_TDG,Avana,ACH-000302,Uterus,damaging,-0.18939593565019053
+TP53_damaging_to_TDG,Avana,ACH-000303,Esophagus/Stomach,damaging,0.12279284570014333
+TP53_damaging_to_TDG,Avana,ACH-000304,Skin,matrix_intact,-0.10355859043418042
+TP53_damaging_to_TDG,Avana,ACH-000305,Esophagus/Stomach,damaging,-0.0808613929866464
+TP53_damaging_to_TDG,Avana,ACH-000307,Pancreas,damaging,-0.15169053728756327
+TP53_damaging_to_TDG,Avana,ACH-000308,Ovary/Fallopian Tube,damaging,-0.24293622093034625
+TP53_damaging_to_TDG,Avana,ACH-000310,Peripheral Nervous System,matrix_intact,-0.2969538022692309
+TP53_damaging_to_TDG,Avana,ACH-000311,Lung,damaging,-0.18597827239733125
+TP53_damaging_to_TDG,Avana,ACH-000312,Peripheral Nervous System,damaging,-0.29051316627590396
+TP53_damaging_to_TDG,Avana,ACH-000313,Kidney,matrix_intact,-0.45310861168716876
+TP53_damaging_to_TDG,Avana,ACH-000315,Lymphoid,damaging,0.004643386035787109
+TP53_damaging_to_TDG,Avana,ACH-000316,Liver,damaging,-0.3063694827296502
+TP53_damaging_to_TDG,Avana,ACH-000317,Kidney,matrix_intact,0.05017914847922217
+TP53_damaging_to_TDG,Avana,ACH-000318,Esophagus/Stomach,damaging,-0.13519296730850092
+TP53_damaging_to_TDG,Avana,ACH-000319,Pleura,matrix_intact,-0.12330479504080782
+TP53_damaging_to_TDG,Avana,ACH-000320,Pancreas,damaging,-0.3029945693341607
+TP53_damaging_to_TDG,Avana,ACH-000322,Skin,matrix_intact,-0.040519545521082834
+TP53_damaging_to_TDG,Avana,ACH-000323,CNS/Brain,damaging,-0.1483319404537692
+TP53_damaging_to_TDG,Avana,ACH-000324,Ovary/Fallopian Tube,matrix_intact,-0.17155262222893203
+TP53_damaging_to_TDG,Avana,ACH-000325,Esophagus/Stomach,damaging,-0.33968302801814326
+TP53_damaging_to_TDG,Avana,ACH-000326,Myeloid,damaging,-0.22639097308048695
+TP53_damaging_to_TDG,Avana,ACH-000329,CNS/Brain,matrix_intact,-0.4736602446281092
+TP53_damaging_to_TDG,Avana,ACH-000330,Breast,damaging,-0.26364446617793347
+TP53_damaging_to_TDG,Avana,ACH-000331,Pleura,damaging,-0.18552948954554915
+TP53_damaging_to_TDG,Avana,ACH-000332,Pancreas,damaging,-0.9597355189752651
+TP53_damaging_to_TDG,Avana,ACH-000334,Lymphoid,damaging,-0.22278993752579893
+TP53_damaging_to_TDG,Avana,ACH-000335,Pleura,matrix_intact,0.033751909010597436
+TP53_damaging_to_TDG,Avana,ACH-000336,Myeloid,matrix_intact,-0.04278945769604689
+TP53_damaging_to_TDG,Avana,ACH-000337,Lung,damaging,-0.04944852091479662
+TP53_damaging_to_TDG,Avana,ACH-000339,Lung,damaging,-1.0784654850105961
+TP53_damaging_to_TDG,Avana,ACH-000341,Peripheral Nervous System,damaging,-0.08403666369968531
+TP53_damaging_to_TDG,Avana,ACH-000343,Lung,damaging,-0.17913374004119437
+TP53_damaging_to_TDG,Avana,ACH-000344,Esophagus/Stomach,damaging,0.028072229614399275
+TP53_damaging_to_TDG,Avana,ACH-000346,Lymphoid,matrix_intact,-0.20144656022533877
+TP53_damaging_to_TDG,Avana,ACH-000348,Skin,damaging,-0.1967564818891648
+TP53_damaging_to_TDG,Avana,ACH-000350,Bowel,matrix_intact,-0.21208646166757428
+TP53_damaging_to_TDG,Avana,ACH-000352,Breast,matrix_intact,-0.15472115308295556
+TP53_damaging_to_TDG,Avana,ACH-000355,Lung,damaging,0.06619576031183033
+TP53_damaging_to_TDG,Avana,ACH-000356,Esophagus/Stomach,damaging,-0.24305094329083826
+TP53_damaging_to_TDG,Avana,ACH-000359,Bone,matrix_intact,-0.23129656426795897
+TP53_damaging_to_TDG,Avana,ACH-000361,Liver,matrix_intact,-0.15639761328744367
+TP53_damaging_to_TDG,Avana,ACH-000362,Myeloid,matrix_intact,-0.23881504188791552
+TP53_damaging_to_TDG,Avana,ACH-000363,Lymphoid,damaging,-0.14805238315719732
+TP53_damaging_to_TDG,Avana,ACH-000364,Bone,matrix_intact,-0.038751856320926766
+TP53_damaging_to_TDG,Avana,ACH-000365,Lymphoid,damaging,-0.3698703599649311
+TP53_damaging_to_TDG,Avana,ACH-000366,Peripheral Nervous System,damaging,-0.0367996128919437
+TP53_damaging_to_TDG,Avana,ACH-000368,CNS/Brain,damaging,-0.4036265800588713
+TP53_damaging_to_TDG,Avana,ACH-000370,CNS/Brain,damaging,-0.04270381933288453
+TP53_damaging_to_TDG,Avana,ACH-000371,Lymphoid,damaging,-0.05666153169833704
+TP53_damaging_to_TDG,Avana,ACH-000374,Breast,damaging,-0.13631038876392224
+TP53_damaging_to_TDG,Avana,ACH-000375,Kidney,matrix_intact,0.027143860628053754
+TP53_damaging_to_TDG,Avana,ACH-000376,CNS/Brain,damaging,-0.06482588635391515
+TP53_damaging_to_TDG,Avana,ACH-000377,Ampulla of Vater,damaging,-0.10785716223390457
+TP53_damaging_to_TDG,Avana,ACH-000378,Lung,damaging,0.010432780428916294
+TP53_damaging_to_TDG,Avana,ACH-000381,Bowel,damaging,-0.38221431418174845
+TP53_damaging_to_TDG,Avana,ACH-000383,Esophagus/Stomach,damaging,-0.11309186509217728
+TP53_damaging_to_TDG,Avana,ACH-000385,Kidney,matrix_intact,-0.09610288369680087
+TP53_damaging_to_TDG,Avana,ACH-000387,Myeloid,damaging,-0.265623070493638
+TP53_damaging_to_TDG,Avana,ACH-000389,CNS/Brain,matrix_intact,-0.3017961057949671
+TP53_damaging_to_TDG,Avana,ACH-000390,Lung,damaging,-0.1750246653425385
+TP53_damaging_to_TDG,Avana,ACH-000391,Bone,matrix_intact,-0.005013931581384776
+TP53_damaging_to_TDG,Avana,ACH-000393,Liver,damaging,-0.24034342087991167
+TP53_damaging_to_TDG,Avana,ACH-000395,Lung,damaging,-0.783525282166269
+TP53_damaging_to_TDG,Avana,ACH-000396,Bladder/Urinary Tract,damaging,0.09721811549238707
+TP53_damaging_to_TDG,Avana,ACH-000397,Uterus,damaging,-0.14063827987001487
+TP53_damaging_to_TDG,Avana,ACH-000398,Lymphoid,damaging,-0.7230202601796892
+TP53_damaging_to_TDG,Avana,ACH-000401,Skin,damaging,-0.2728694960415715
+TP53_damaging_to_TDG,Avana,ACH-000402,Lymphoid,damaging,-0.2635662112880476
+TP53_damaging_to_TDG,Avana,ACH-000403,Bowel,damaging,-0.04370875236623174
+TP53_damaging_to_TDG,Avana,ACH-000404,Skin,matrix_intact,0.04513212438464008
+TP53_damaging_to_TDG,Avana,ACH-000405,Lymphoid,damaging,-0.15395122852342835
+TP53_damaging_to_TDG,Avana,ACH-000406,Myeloid,damaging,-0.15884974926480222
+TP53_damaging_to_TDG,Avana,ACH-000407,Uterus,damaging,-0.35979800463889555
+TP53_damaging_to_TDG,Avana,ACH-000408,Esophagus/Stomach,matrix_intact,0.0884144278273653
+TP53_damaging_to_TDG,Avana,ACH-000410,Bone,matrix_intact,-0.3087384625193363
+TP53_damaging_to_TDG,Avana,ACH-000411,Kidney,matrix_intact,-0.3534930213095056
+TP53_damaging_to_TDG,Avana,ACH-000414,Lung,matrix_intact,-0.22294267334935425
+TP53_damaging_to_TDG,Avana,ACH-000415,Head and Neck,damaging,0.06685122163146667
+TP53_damaging_to_TDG,Avana,ACH-000416,Lung,damaging,-0.9706029260172122
+TP53_damaging_to_TDG,Avana,ACH-000417,Pancreas,matrix_intact,-0.19152352228655226
+TP53_damaging_to_TDG,Avana,ACH-000420,Liver,damaging,-0.1703894046392609
+TP53_damaging_to_TDG,Avana,ACH-000421,Bowel,damaging,-0.27322549814876235
+TP53_damaging_to_TDG,Avana,ACH-000422,Liver,damaging,-0.23025707460587802
+TP53_damaging_to_TDG,Avana,ACH-000424,Bone,damaging,0.025847191237322646
+TP53_damaging_to_TDG,Avana,ACH-000425,Skin,matrix_intact,-0.24686595807002304
+TP53_damaging_to_TDG,Avana,ACH-000426,Lymphoid,damaging,0.006782281163488689
+TP53_damaging_to_TDG,Avana,ACH-000427,Esophagus/Stomach,damaging,-0.08258021073005749
+TP53_damaging_to_TDG,Avana,ACH-000431,Lung,damaging,-0.18231932258915412
+TP53_damaging_to_TDG,Avana,ACH-000433,Kidney,matrix_intact,-0.034127392810089204
+TP53_damaging_to_TDG,Avana,ACH-000434,Lung,damaging,-0.4228016180185424
+TP53_damaging_to_TDG,Avana,ACH-000435,Uterus,damaging,0.181847292158058
+TP53_damaging_to_TDG,Avana,ACH-000436,Lymphoid,matrix_intact,-0.46853332265865044
+TP53_damaging_to_TDG,Avana,ACH-000437,CNS/Brain,damaging,-0.6589756536067122
+TP53_damaging_to_TDG,Avana,ACH-000438,Lung,damaging,-0.9449725203792603
+TP53_damaging_to_TDG,Avana,ACH-000441,Skin,matrix_intact,-0.3101257056532068
+TP53_damaging_to_TDG,Avana,ACH-000444,Lung,matrix_intact,-0.5235363581855
+TP53_damaging_to_TDG,Avana,ACH-000445,CNS/Brain,damaging,-0.28634813477143173
+TP53_damaging_to_TDG,Avana,ACH-000448,Lung,matrix_intact,-0.3469235025135828
+TP53_damaging_to_TDG,Avana,ACH-000450,Skin,matrix_intact,-0.1959885309984496
+TP53_damaging_to_TDG,Avana,ACH-000452,Esophagus/Stomach,damaging,-0.17578499123895025
+TP53_damaging_to_TDG,Avana,ACH-000454,Lung,damaging,0.0004583187892754498
+TP53_damaging_to_TDG,Avana,ACH-000455,CNS/Brain,damaging,-0.2960670273506616
+TP53_damaging_to_TDG,Avana,ACH-000456,Thyroid,damaging,-0.04076420899239124
+TP53_damaging_to_TDG,Avana,ACH-000458,Skin,damaging,-0.10247094306528927
+TP53_damaging_to_TDG,Avana,ACH-000459,Kidney,matrix_intact,-0.22711392297092026
+TP53_damaging_to_TDG,Avana,ACH-000460,Ovary/Fallopian Tube,damaging,-0.15277181573519752
+TP53_damaging_to_TDG,Avana,ACH-000461,Biliary Tract,damaging,-0.9587094489694074
+TP53_damaging_to_TDG,Avana,ACH-000463,Lung,matrix_intact,0.10846056490316724
+TP53_damaging_to_TDG,Avana,ACH-000464,CNS/Brain,damaging,-0.22189034050310646
+TP53_damaging_to_TDG,Avana,ACH-000466,Esophagus/Stomach,damaging,-0.1850352132165601
+TP53_damaging_to_TDG,Avana,ACH-000467,Bowel,damaging,-0.01631877582082221
+TP53_damaging_to_TDG,Avana,ACH-000468,Pancreas,matrix_intact,-0.4452085655456153
+TP53_damaging_to_TDG,Avana,ACH-000469,CNS/Brain,damaging,-0.08072179020191067
+TP53_damaging_to_TDG,Avana,ACH-000470,Bowel,damaging,-0.5641386800880539
+TP53_damaging_to_TDG,Avana,ACH-000471,Liver,matrix_intact,0.05297491423061983
+TP53_damaging_to_TDG,Avana,ACH-000472,Head and Neck,damaging,-0.37934462737916175
+TP53_damaging_to_TDG,Avana,ACH-000473,Bladder/Urinary Tract,damaging,0.001964034435318243
+TP53_damaging_to_TDG,Avana,ACH-000475,Liver,damaging,-0.14410306257319805
+TP53_damaging_to_TDG,Avana,ACH-000476,Liver,damaging,-0.09829967796882463
+TP53_damaging_to_TDG,Avana,ACH-000477,Skin,matrix_intact,-0.08801091686302799
+TP53_damaging_to_TDG,Avana,ACH-000478,Liver,damaging,-0.5114645552494601
+TP53_damaging_to_TDG,Avana,ACH-000479,CNS/Brain,matrix_intact,-0.27876247775555296
+TP53_damaging_to_TDG,Avana,ACH-000480,Liver,damaging,-0.03056313711940152
+TP53_damaging_to_TDG,Avana,ACH-000481,Lung,damaging,-0.06625070058446404
+TP53_damaging_to_TDG,Avana,ACH-000483,Liver,damaging,-0.2492574710004831
+TP53_damaging_to_TDG,Avana,ACH-000484,Kidney,damaging,-0.32706033767436876
+TP53_damaging_to_TDG,Avana,ACH-000485,Esophagus/Stomach,damaging,-0.32200276123724836
+TP53_damaging_to_TDG,Avana,ACH-000486,Bladder/Urinary Tract,matrix_intact,0.06253197928798168
+TP53_damaging_to_TDG,Avana,ACH-000487,Myeloid,damaging,-0.5364094960180688
+TP53_damaging_to_TDG,Avana,ACH-000488,Esophagus/Stomach,damaging,-0.5387691861459906
+TP53_damaging_to_TDG,Avana,ACH-000489,Bowel,matrix_intact,-0.18855900114710697
+TP53_damaging_to_TDG,Avana,ACH-000490,Cervix,matrix_intact,-0.6312885786936554
+TP53_damaging_to_TDG,Avana,ACH-000491,Bowel,damaging,-0.38593306986341563
+TP53_damaging_to_TDG,Avana,ACH-000493,Liver,damaging,-0.4331227560917414
+TP53_damaging_to_TDG,Avana,ACH-000495,Kidney,matrix_intact,-0.2538699726667995
+TP53_damaging_to_TDG,Avana,ACH-000496,Lung,damaging,-0.34776536642206457
+TP53_damaging_to_TDG,Avana,ACH-000499,Bone,damaging,-0.27132859500683104
+TP53_damaging_to_TDG,Avana,ACH-000500,Head and Neck,matrix_intact,0.09424950151184057
+TP53_damaging_to_TDG,Avana,ACH-000502,Pancreas,damaging,-1.1574806667977597
+TP53_damaging_to_TDG,Avana,ACH-000503,Head and Neck,damaging,-0.3559202028357446
+TP53_damaging_to_TDG,Avana,ACH-000504,CNS/Brain,damaging,-0.09050320115982657
+TP53_damaging_to_TDG,Avana,ACH-000505,Soft Tissue,damaging,-0.652402899347114
+TP53_damaging_to_TDG,Avana,ACH-000507,Esophagus/Stomach,matrix_intact,-0.19034026341070442
+TP53_damaging_to_TDG,Avana,ACH-000510,Lung,matrix_intact,-0.12878244932247013
+TP53_damaging_to_TDG,Avana,ACH-000511,Lung,matrix_intact,-0.41661914173543874
+TP53_damaging_to_TDG,Avana,ACH-000512,Lymphoid,damaging,-0.724041150343619
+TP53_damaging_to_TDG,Avana,ACH-000514,Lung,damaging,0.007296449491119903
+TP53_damaging_to_TDG,Avana,ACH-000516,Bone,matrix_intact,-0.15625813308310385
+TP53_damaging_to_TDG,Avana,ACH-000517,Pancreas,damaging,-0.4036944502063672
+TP53_damaging_to_TDG,Avana,ACH-000518,Head and Neck,damaging,-0.07969413853521612
+TP53_damaging_to_TDG,Avana,ACH-000520,Ovary/Fallopian Tube,damaging,-0.6651197119472158
+TP53_damaging_to_TDG,Avana,ACH-000521,Lung,damaging,0.03588138890308468
+TP53_damaging_to_TDG,Avana,ACH-000522,Bladder/Urinary Tract,damaging,-0.17844496866920917
+TP53_damaging_to_TDG,Avana,ACH-000524,Ovary/Fallopian Tube,damaging,-1.0850444083843191
+TP53_damaging_to_TDG,Avana,ACH-000525,Lung,damaging,-0.09217762735096485
+TP53_damaging_to_TDG,Avana,ACH-000527,Ovary/Fallopian Tube,matrix_intact,-0.10286668208827623
+TP53_damaging_to_TDG,Avana,ACH-000528,Lung,damaging,-0.09643014421112946
+TP53_damaging_to_TDG,Avana,ACH-000532,Bowel,damaging,-0.14537250751667233
+TP53_damaging_to_TDG,Avana,ACH-000533,Kidney,matrix_intact,-0.2282025010609235
+TP53_damaging_to_TDG,Avana,ACH-000535,Pancreas,damaging,0.02261559695928767
+TP53_damaging_to_TDG,Avana,ACH-000537,Liver,damaging,-0.17808181511532511
+TP53_damaging_to_TDG,Avana,ACH-000541,Lymphoid,damaging,-0.5319311012850856
+TP53_damaging_to_TDG,Avana,ACH-000542,Ovary/Fallopian Tube,matrix_intact,-0.5544385494852007
+TP53_damaging_to_TDG,Avana,ACH-000544,Esophagus/Stomach,damaging,0.0008288012593000056
+TP53_damaging_to_TDG,Avana,ACH-000545,Bladder/Urinary Tract,damaging,-0.19919793366181668
+TP53_damaging_to_TDG,Avana,ACH-000547,Bladder/Urinary Tract,matrix_intact,-0.1330533681224151
+TP53_damaging_to_TDG,Avana,ACH-000548,Head and Neck,damaging,-0.10615983601542445
+TP53_damaging_to_TDG,Avana,ACH-000549,Head and Neck,damaging,-0.527047604465567
+TP53_damaging_to_TDG,Avana,ACH-000550,Skin,damaging,-0.3070617875477285
+TP53_damaging_to_TDG,Avana,ACH-000551,Myeloid,damaging,-0.6358121851745177
+TP53_damaging_to_TDG,Avana,ACH-000552,Bowel,damaging,0.02116195722717249
+TP53_damaging_to_TDG,Avana,ACH-000556,Cervix,matrix_intact,-0.2848573672469073
+TP53_damaging_to_TDG,Avana,ACH-000557,Myeloid,damaging,-0.6130134683306074
+TP53_damaging_to_TDG,Avana,ACH-000559,Lung,damaging,-0.08224547236911843
+TP53_damaging_to_TDG,Avana,ACH-000563,Lung,damaging,-0.4697019992194207
+TP53_damaging_to_TDG,Avana,ACH-000567,Lymphoid,damaging,-0.35341216371328565
+TP53_damaging_to_TDG,Avana,ACH-000570,CNS/Brain,matrix_intact,-0.03926309043930991
+TP53_damaging_to_TDG,Avana,ACH-000571,CNS/Brain,damaging,-0.29381300155980994
+TP53_damaging_to_TDG,Avana,ACH-000573,Breast,damaging,0.17725928359676885
+TP53_damaging_to_TDG,Avana,ACH-000576,Lymphoid,damaging,-0.20889543039941308
+TP53_damaging_to_TDG,Avana,ACH-000577,Liver,damaging,0.002783978549832998
+TP53_damaging_to_TDG,Avana,ACH-000579,Skin,matrix_intact,-0.46709387106243205
+TP53_damaging_to_TDG,Avana,ACH-000580,Skin,matrix_intact,-0.07918475448940239
+TP53_damaging_to_TDG,Avana,ACH-000581,Esophagus/Stomach,damaging,-0.4535023748309842
+TP53_damaging_to_TDG,Avana,ACH-000584,Ovary/Fallopian Tube,damaging,-0.04155019963275771
+TP53_damaging_to_TDG,Avana,ACH-000585,Lung,damaging,0.006105987768889917
+TP53_damaging_to_TDG,Avana,ACH-000587,Lung,damaging,-0.2228197271184188
+TP53_damaging_to_TDG,Avana,ACH-000588,Lymphoid,damaging,-0.5933349173600955
+TP53_damaging_to_TDG,Avana,ACH-000589,Lung,matrix_intact,-0.10451223981576378
+TP53_damaging_to_TDG,Avana,ACH-000591,CNS/Brain,damaging,-0.573236463519585
+TP53_damaging_to_TDG,Avana,ACH-000592,CNS/Brain,damaging,-0.189156426952525
+TP53_damaging_to_TDG,Avana,ACH-000593,Bladder/Urinary Tract,damaging,-0.32888445382758486
+TP53_damaging_to_TDG,Avana,ACH-000595,CNS/Brain,matrix_intact,-0.09734276326269815
+TP53_damaging_to_TDG,Avana,ACH-000596,Lung,damaging,-0.16334815251132273
+TP53_damaging_to_TDG,Avana,ACH-000597,Kidney,matrix_intact,-0.04620786602253088
+TP53_damaging_to_TDG,Avana,ACH-000599,Pancreas,damaging,-0.6786275247864015
+TP53_damaging_to_TDG,Avana,ACH-000601,Pancreas,damaging,-0.4545131881588677
+TP53_damaging_to_TDG,Avana,ACH-000602,Myeloid,matrix_intact,-0.14304743961082966
+TP53_damaging_to_TDG,Avana,ACH-000604,Myeloid,damaging,0.17675408045994323
+TP53_damaging_to_TDG,Avana,ACH-000605,Esophagus/Stomach,damaging,0.09491345801960349
+TP53_damaging_to_TDG,Avana,ACH-000606,Head and Neck,damaging,-0.1280097484197093
+TP53_damaging_to_TDG,Avana,ACH-000607,Soft Tissue,matrix_intact,-0.07781935347359825
+TP53_damaging_to_TDG,Avana,ACH-000608,Ovary/Fallopian Tube,damaging,-0.014652622472134908
+TP53_damaging_to_TDG,Avana,ACH-000609,CNS/Brain,matrix_intact,-0.2374803848874568
+TP53_damaging_to_TDG,Avana,ACH-000614,Skin,matrix_intact,-0.33964435731446285
+TP53_damaging_to_TDG,Avana,ACH-000616,Esophagus/Stomach,damaging,-0.9135538967600622
+TP53_damaging_to_TDG,Avana,ACH-000618,Head and Neck,damaging,-0.25885576088359896
+TP53_damaging_to_TDG,Avana,ACH-000619,Head and Neck,damaging,-0.07200751100729764
+TP53_damaging_to_TDG,Avana,ACH-000620,Liver,matrix_intact,-0.2518142830659619
+TP53_damaging_to_TDG,Avana,ACH-000621,Breast,damaging,-0.45466778821115894
+TP53_damaging_to_TDG,Avana,ACH-000622,CNS/Brain,damaging,-0.16220305613965252
+TP53_damaging_to_TDG,Avana,ACH-000623,CNS/Brain,damaging,-0.10238449034765826
+TP53_damaging_to_TDG,Avana,ACH-000624,Breast,damaging,-0.20786687972587134
+TP53_damaging_to_TDG,Avana,ACH-000627,Lung,damaging,-0.009890148741623545
+TP53_damaging_to_TDG,Avana,ACH-000630,Head and Neck,damaging,0.007424250089752678
+TP53_damaging_to_TDG,Avana,ACH-000632,Skin,damaging,-0.2697435751238656
+TP53_damaging_to_TDG,Avana,ACH-000633,Esophagus/Stomach,damaging,-0.07908456763847847
+TP53_damaging_to_TDG,Avana,ACH-000634,CNS/Brain,damaging,-0.04326127306124487
+TP53_damaging_to_TDG,Avana,ACH-000637,Esophagus/Stomach,damaging,-0.1973029468238013
+TP53_damaging_to_TDG,Avana,ACH-000638,Lung,damaging,-0.040459068634552973
+TP53_damaging_to_TDG,Avana,ACH-000639,Lung,damaging,-0.26775247949688513
+TP53_damaging_to_TDG,Avana,ACH-000645,Pleura,matrix_intact,-0.05792676443089517
+TP53_damaging_to_TDG,Avana,ACH-000646,Ovary/Fallopian Tube,matrix_intact,0.20837109294737916
+TP53_damaging_to_TDG,Avana,ACH-000647,Esophagus/Stomach,damaging,-0.12047204812188513
+TP53_damaging_to_TDG,Avana,ACH-000648,Pleura,matrix_intact,0.013070762972718197
+TP53_damaging_to_TDG,Avana,ACH-000649,Kidney,damaging,-0.2415030082997059
+TP53_damaging_to_TDG,Avana,ACH-000651,Bowel,damaging,-0.6766867046098103
+TP53_damaging_to_TDG,Avana,ACH-000652,Pancreas,damaging,-0.33034553487608737
+TP53_damaging_to_TDG,Avana,ACH-000653,Lymphoid,matrix_intact,-0.1779476158401323
+TP53_damaging_to_TDG,Avana,ACH-000654,Lymphoid,damaging,-0.47809809299949946
+TP53_damaging_to_TDG,Avana,ACH-000655,CNS/Brain,damaging,0.1553014816191073
+TP53_damaging_to_TDG,Avana,ACH-000657,Ovary/Fallopian Tube,matrix_intact,-0.30871562281708087
+TP53_damaging_to_TDG,Avana,ACH-000661,Skin,matrix_intact,-0.09728473416966835
+TP53_damaging_to_TDG,Avana,ACH-000662,Lung,matrix_intact,-1.5093085213506614
+TP53_damaging_to_TDG,Avana,ACH-000663,Ovary/Fallopian Tube,matrix_intact,0.04214193526654361
+TP53_damaging_to_TDG,Avana,ACH-000664,Lymphoid,damaging,-0.32924366565455854
+TP53_damaging_to_TDG,Avana,ACH-000665,Lung,damaging,-0.3012569423086974
+TP53_damaging_to_TDG,Avana,ACH-000667,Lung,damaging,-0.7577471229037528
+TP53_damaging_to_TDG,Avana,ACH-000671,Liver,damaging,-0.2172817885149977
+TP53_damaging_to_TDG,Avana,ACH-000673,CNS/Brain,damaging,0.04872482941589487
+TP53_damaging_to_TDG,Avana,ACH-000676,CNS/Brain,damaging,-0.2744738273777521
+TP53_damaging_to_TDG,Avana,ACH-000677,Lung,matrix_intact,-0.13851672203305201
+TP53_damaging_to_TDG,Avana,ACH-000680,Bowel,damaging,-0.8964917335638483
+TP53_damaging_to_TDG,Avana,ACH-000681,Lung,matrix_intact,-0.41010345185494007
+TP53_damaging_to_TDG,Avana,ACH-000682,Head and Neck,damaging,-0.5800788452975711
+TP53_damaging_to_TDG,Avana,ACH-000683,Bowel,damaging,0.04552334060197112
+TP53_damaging_to_TDG,Avana,ACH-000684,Kidney,matrix_intact,-0.576251920286791
+TP53_damaging_to_TDG,Avana,ACH-000685,Pancreas,damaging,-0.026812589294550177
+TP53_damaging_to_TDG,Avana,ACH-000688,Ovary/Fallopian Tube,damaging,-0.12931112055040517
+TP53_damaging_to_TDG,Avana,ACH-000693,Esophagus/Stomach,damaging,-0.20422499101648223
+TP53_damaging_to_TDG,Avana,ACH-000694,Esophagus/Stomach,damaging,-0.46175511583914114
+TP53_damaging_to_TDG,Avana,ACH-000695,Lung,damaging,0.11841917092342225
+TP53_damaging_to_TDG,Avana,ACH-000696,Ovary/Fallopian Tube,damaging,-0.090758996009343
+TP53_damaging_to_TDG,Avana,ACH-000697,Lymphoid,matrix_intact,-0.45798870578118894
+TP53_damaging_to_TDG,Avana,ACH-000698,Lung,damaging,-1.199666031372423
+TP53_damaging_to_TDG,Avana,ACH-000699,Breast,damaging,-0.021013936298801442
+TP53_damaging_to_TDG,Avana,ACH-000700,Lung,damaging,-0.1372346487894746
+TP53_damaging_to_TDG,Avana,ACH-000701,Ovary/Fallopian Tube,damaging,-0.11711958848940938
+TP53_damaging_to_TDG,Avana,ACH-000702,Lymphoid,matrix_intact,0.2221150494079123
+TP53_damaging_to_TDG,Avana,ACH-000706,Lung,damaging,-0.0930178863060195
+TP53_damaging_to_TDG,Avana,ACH-000709,Kidney,matrix_intact,-0.053588388817121524
+TP53_damaging_to_TDG,Avana,ACH-000711,Breast,damaging,-0.012193615517267074
+TP53_damaging_to_TDG,Avana,ACH-000713,Ovary/Fallopian Tube,damaging,0.41148307441275317
+TP53_damaging_to_TDG,Avana,ACH-000714,Lymphoid,matrix_intact,-0.44505914934513413
+TP53_damaging_to_TDG,Avana,ACH-000716,Thyroid,damaging,-0.3551481930195425
+TP53_damaging_to_TDG,Avana,ACH-000718,Lung,damaging,-0.6935234782917796
+TP53_damaging_to_TDG,Avana,ACH-000719,Ovary/Fallopian Tube,matrix_intact,-0.04309967619043986
+TP53_damaging_to_TDG,Avana,ACH-000720,Bladder/Urinary Tract,damaging,-0.18189284751030022
+TP53_damaging_to_TDG,Avana,ACH-000721,Breast,damaging,-0.5811158098008109
+TP53_damaging_to_TDG,Avana,ACH-000724,Bladder/Urinary Tract,damaging,-0.1455781791686399
+TP53_damaging_to_TDG,Avana,ACH-000725,Breast,damaging,-0.2980439676245711
+TP53_damaging_to_TDG,Avana,ACH-000732,Head and Neck,damaging,-0.26027240710135585
+TP53_damaging_to_TDG,Avana,ACH-000734,Liver,matrix_intact,-0.215267336904874
+TP53_damaging_to_TDG,Avana,ACH-000735,Head and Neck,matrix_intact,-0.27382456306297925
+TP53_damaging_to_TDG,Avana,ACH-000736,Esophagus/Stomach,damaging,-0.4321588855001429
+TP53_damaging_to_TDG,Avana,ACH-000738,CNS/Brain,matrix_intact,-0.3270116110984672
+TP53_damaging_to_TDG,Avana,ACH-000739,Liver,matrix_intact,-0.010947227450403753
+TP53_damaging_to_TDG,Avana,ACH-000740,Head and Neck,damaging,-0.48550794422511884
+TP53_damaging_to_TDG,Avana,ACH-000741,Bladder/Urinary Tract,damaging,-0.4616644505202751
+TP53_damaging_to_TDG,Avana,ACH-000746,Esophagus/Stomach,damaging,0.10601160335723264
+TP53_damaging_to_TDG,Avana,ACH-000747,Lung,damaging,-0.3343778894375978
+TP53_damaging_to_TDG,Avana,ACH-000748,Bone,matrix_intact,-0.14720758026199654
+TP53_damaging_to_TDG,Avana,ACH-000753,Bladder/Urinary Tract,damaging,-0.49745509929125614
+TP53_damaging_to_TDG,Avana,ACH-000754,Lymphoid,matrix_intact,-0.9226632707118538
+TP53_damaging_to_TDG,Avana,ACH-000756,CNS/Brain,damaging,-0.2743720576122861
+TP53_damaging_to_TDG,Avana,ACH-000757,Lung,matrix_intact,-0.39656147368735567
+TP53_damaging_to_TDG,Avana,ACH-000758,Esophagus/Stomach,damaging,-0.11212232776760542
+TP53_damaging_to_TDG,Avana,ACH-000760,CNS/Brain,matrix_intact,-0.1985200629007507
+TP53_damaging_to_TDG,Avana,ACH-000762,Head and Neck,damaging,-0.538749231555781
+TP53_damaging_to_TDG,Avana,ACH-000763,Lymphoid,matrix_intact,-0.10980350837535638
+TP53_damaging_to_TDG,Avana,ACH-000764,Esophagus/Stomach,damaging,-0.0845366972231814
+TP53_damaging_to_TDG,Avana,ACH-000765,Skin,matrix_intact,-0.2881002893603092
+TP53_damaging_to_TDG,Avana,ACH-000766,Lung,damaging,-0.49190561155531315
+TP53_damaging_to_TDG,Avana,ACH-000767,Lung,damaging,-0.23976010373663872
+TP53_damaging_to_TDG,Avana,ACH-000768,Breast,damaging,-0.23490055729250123
+TP53_damaging_to_TDG,Avana,ACH-000769,Lung,damaging,-0.05977944362388207
+TP53_damaging_to_TDG,Avana,ACH-000770,Myeloid,damaging,-0.571138606798476
+TP53_damaging_to_TDG,Avana,ACH-000771,Head and Neck,damaging,0.0044512088654799255
+TP53_damaging_to_TDG,Avana,ACH-000773,Lymphoid,matrix_intact,-0.33111855409623175
+TP53_damaging_to_TDG,Avana,ACH-000774,Lung,damaging,-0.3991318620749924
+TP53_damaging_to_TDG,Avana,ACH-000775,Lung,matrix_intact,-0.2839021377817611
+TP53_damaging_to_TDG,Avana,ACH-000776,CNS/Brain,matrix_intact,-0.24344322873648724
+TP53_damaging_to_TDG,Avana,ACH-000777,Esophagus/Stomach,damaging,-0.19701148441314822
+TP53_damaging_to_TDG,Avana,ACH-000778,Head and Neck,damaging,0.12060503469309095
+TP53_damaging_to_TDG,Avana,ACH-000781,Lung,damaging,-0.23134263518408887
+TP53_damaging_to_TDG,Avana,ACH-000782,Lymphoid,damaging,-0.0435007621362571
+TP53_damaging_to_TDG,Avana,ACH-000783,Breast,damaging,-0.09487245403170258
+TP53_damaging_to_TDG,Avana,ACH-000784,Esophagus/Stomach,damaging,-0.2662710618912327
+TP53_damaging_to_TDG,Avana,ACH-000785,Lung,damaging,-0.35128040240117947
+TP53_damaging_to_TDG,Avana,ACH-000787,Lung,damaging,-0.3410749362747762
+TP53_damaging_to_TDG,Avana,ACH-000788,Skin,damaging,-0.1481811217850565
+TP53_damaging_to_TDG,Avana,ACH-000790,Lung,damaging,-0.11407520573474197
+TP53_damaging_to_TDG,Avana,ACH-000791,Lung,matrix_intact,-0.7034516884070748
+TP53_damaging_to_TDG,Avana,ACH-000792,Kidney,damaging,-0.2425023781117194
+TP53_damaging_to_TDG,Avana,ACH-000793,Esophagus/Stomach,matrix_intact,-0.5227767895417
+TP53_damaging_to_TDG,Avana,ACH-000794,Head and Neck,damaging,-0.2796969528424303
+TP53_damaging_to_TDG,Avana,ACH-000796,Ovary/Fallopian Tube,damaging,-0.391728383734639
+TP53_damaging_to_TDG,Avana,ACH-000799,Skin,matrix_intact,-0.14252328507825912
+TP53_damaging_to_TDG,Avana,ACH-000800,Lung,damaging,-0.30492828784928216
+TP53_damaging_to_TDG,Avana,ACH-000801,Skin,matrix_intact,0.07362503122183026
+TP53_damaging_to_TDG,Avana,ACH-000802,Bladder/Urinary Tract,damaging,-0.14200902430135243
+TP53_damaging_to_TDG,Avana,ACH-000804,Peripheral Nervous System,matrix_intact,-0.15232304009602285
+TP53_damaging_to_TDG,Avana,ACH-000805,Skin,matrix_intact,-0.19868720215474425
+TP53_damaging_to_TDG,Avana,ACH-000807,CNS/Brain,damaging,-0.48093354760712753
+TP53_damaging_to_TDG,Avana,ACH-000809,Esophagus/Stomach,damaging,-0.4143241442593088
+TP53_damaging_to_TDG,Avana,ACH-000810,Skin,damaging,-0.45551849298781666
+TP53_damaging_to_TDG,Avana,ACH-000811,Ovary/Fallopian Tube,damaging,-0.20673442962263117
+TP53_damaging_to_TDG,Avana,ACH-000817,Lymphoid,damaging,-0.5301525149598825
+TP53_damaging_to_TDG,Avana,ACH-000819,CNS/Brain,damaging,-0.13159348709865984
+TP53_damaging_to_TDG,Avana,ACH-000820,Bowel,damaging,-0.005706352666236654
+TP53_damaging_to_TDG,Avana,ACH-000821,Lymphoid,damaging,-0.9065346700871847
+TP53_damaging_to_TDG,Avana,ACH-000822,Skin,matrix_intact,-0.2302147074827895
+TP53_damaging_to_TDG,Avana,ACH-000823,Esophagus/Stomach,damaging,-0.27427072959746307
+TP53_damaging_to_TDG,Avana,ACH-000824,Esophagus/Stomach,damaging,-0.39837547952993324
+TP53_damaging_to_TDG,Avana,ACH-000827,Skin,matrix_intact,-0.041241563339470155
+TP53_damaging_to_TDG,Avana,ACH-000829,Lymphoid,matrix_intact,-0.35952018876203573
+TP53_damaging_to_TDG,Avana,ACH-000831,Uterus,damaging,-0.5601863723531615
+TP53_damaging_to_TDG,Avana,ACH-000832,Head and Neck,damaging,-0.44102214607848667
+TP53_damaging_to_TDG,Avana,ACH-000833,Soft Tissue,damaging,-0.12132083044885725
+TP53_damaging_to_TDG,Avana,ACH-000834,Bladder/Urinary Tract,damaging,-0.02818039555031872
+TP53_damaging_to_TDG,Avana,ACH-000835,Soft Tissue,damaging,-0.15556160367221236
+TP53_damaging_to_TDG,Avana,ACH-000836,Head and Neck,damaging,-0.24734205711471807
+TP53_damaging_to_TDG,Avana,ACH-000837,Lung,damaging,-0.1819973968369614
+TP53_damaging_to_TDG,Avana,ACH-000838,Lymphoid,matrix_intact,-0.3633229591251359
+TP53_damaging_to_TDG,Avana,ACH-000839,Bladder/Urinary Tract,damaging,-0.3590182297773664
+TP53_damaging_to_TDG,Avana,ACH-000840,Lung,damaging,-0.4435565863083922
+TP53_damaging_to_TDG,Avana,ACH-000841,Lung,damaging,-0.22066775681253
+TP53_damaging_to_TDG,Avana,ACH-000843,Lung,damaging,-0.0867385665313321
+TP53_damaging_to_TDG,Avana,ACH-000845,Lung,damaging,-0.3702522196422451
+TP53_damaging_to_TDG,Avana,ACH-000846,Head and Neck,damaging,-0.297263168515749
+TP53_damaging_to_TDG,Avana,ACH-000847,Esophagus/Stomach,damaging,-0.10719078297365903
+TP53_damaging_to_TDG,Avana,ACH-000848,Liver,matrix_intact,-0.20409367130762857
+TP53_damaging_to_TDG,Avana,ACH-000849,Breast,damaging,-0.3532479427325255
+TP53_damaging_to_TDG,Avana,ACH-000851,Lung,damaging,-0.04502955510134425
+TP53_damaging_to_TDG,Avana,ACH-000853,Lung,damaging,-0.25962007941892923
+TP53_damaging_to_TDG,Avana,ACH-000855,Esophagus/Stomach,damaging,-0.10552807616172069
+TP53_damaging_to_TDG,Avana,ACH-000856,Breast,matrix_intact,-0.013909186326611013
+TP53_damaging_to_TDG,Avana,ACH-000858,Lung,damaging,-0.17964428956699147
+TP53_damaging_to_TDG,Avana,ACH-000859,Breast,damaging,-0.20323302668435303
+TP53_damaging_to_TDG,Avana,ACH-000860,Lung,matrix_intact,-0.34617357672767385
+TP53_damaging_to_TDG,Avana,ACH-000861,Lung,damaging,-0.13276386361266485
+TP53_damaging_to_TDG,Avana,ACH-000862,Bladder/Urinary Tract,damaging,-0.17157763420434308
+TP53_damaging_to_TDG,Avana,ACH-000865,Esophagus/Stomach,damaging,-0.21648147557785943
+TP53_damaging_to_TDG,Avana,ACH-000866,Lung,damaging,-0.355239083395687
+TP53_damaging_to_TDG,Avana,ACH-000867,Lung,damaging,-0.31996198546647614
+TP53_damaging_to_TDG,Avana,ACH-000869,Lung,damaging,-0.10590685021187388
+TP53_damaging_to_TDG,Avana,ACH-000871,Lung,damaging,-0.05761961460092382
+TP53_damaging_to_TDG,Avana,ACH-000872,Lung,damaging,0.05352638631115751
+TP53_damaging_to_TDG,Avana,ACH-000873,Esophagus/Stomach,damaging,-0.3654892552164655
+TP53_damaging_to_TDG,Avana,ACH-000876,Breast,damaging,-0.06297335966505833
+TP53_damaging_to_TDG,Avana,ACH-000878,Lung,damaging,-0.7407330250982724
+TP53_damaging_to_TDG,Avana,ACH-000880,Esophagus/Stomach,matrix_intact,-0.04311657342764444
+TP53_damaging_to_TDG,Avana,ACH-000881,Skin,matrix_intact,-0.1284586867007249
+TP53_damaging_to_TDG,Avana,ACH-000882,Skin,matrix_intact,0.10017008483531231
+TP53_damaging_to_TDG,Avana,ACH-000884,Skin,damaging,-0.36984712073107195
+TP53_damaging_to_TDG,Avana,ACH-000885,Ovary/Fallopian Tube,matrix_intact,-0.20374739334805358
+TP53_damaging_to_TDG,Avana,ACH-000886,Lung,damaging,-0.3359290509375592
+TP53_damaging_to_TDG,Avana,ACH-000887,CNS/Brain,damaging,-0.22298358937952556
+TP53_damaging_to_TDG,Avana,ACH-000888,Lung,damaging,-0.2851688172111899
+TP53_damaging_to_TDG,Avana,ACH-000889,Lymphoid,damaging,-0.647710472906065
+TP53_damaging_to_TDG,Avana,ACH-000890,Lung,damaging,-0.09115608677063672
+TP53_damaging_to_TDG,Avana,ACH-000896,Bladder/Urinary Tract,damaging,-0.2915100131877266
+TP53_damaging_to_TDG,Avana,ACH-000898,Esophagus/Stomach,matrix_intact,-0.2672061279434709
+TP53_damaging_to_TDG,Avana,ACH-000899,Skin,matrix_intact,-0.008894824704068285
+TP53_damaging_to_TDG,Avana,ACH-000900,Lung,damaging,-0.15136320806351355
+TP53_damaging_to_TDG,Avana,ACH-000901,Lung,damaging,-0.26255603980193787
+TP53_damaging_to_TDG,Avana,ACH-000903,Thyroid,damaging,-0.16841541125593953
+TP53_damaging_to_TDG,Avana,ACH-000905,Bladder/Urinary Tract,damaging,-0.19333591245684684
+TP53_damaging_to_TDG,Avana,ACH-000906,Ovary/Fallopian Tube,damaging,-0.2758895625286607
+TP53_damaging_to_TDG,Avana,ACH-000907,Kidney,matrix_intact,-0.2215012389539553
+TP53_damaging_to_TDG,Avana,ACH-000910,Breast,matrix_intact,-0.09310787122565423
+TP53_damaging_to_TDG,Avana,ACH-000911,Esophagus/Stomach,damaging,-0.10544975925790512
+TP53_damaging_to_TDG,Avana,ACH-000912,Lung,damaging,-0.269209668109629
+TP53_damaging_to_TDG,Avana,ACH-000913,Uterus,damaging,-0.28128738352663313
+TP53_damaging_to_TDG,Avana,ACH-000914,Lymphoid,damaging,-0.03927738406118771
+TP53_damaging_to_TDG,Avana,ACH-000915,Skin,damaging,-0.07743241304568926
+TP53_damaging_to_TDG,Avana,ACH-000916,Lung,damaging,-0.28343522033872415
+TP53_damaging_to_TDG,Avana,ACH-000917,Esophagus/Stomach,matrix_intact,-0.16479431778355474
+TP53_damaging_to_TDG,Avana,ACH-000920,Myeloid,damaging,-0.0569501308709226
+TP53_damaging_to_TDG,Avana,ACH-000921,Lung,damaging,-0.2561712646895407
+TP53_damaging_to_TDG,Avana,ACH-000922,Lymphoid,matrix_intact,-0.17619887497517522
+TP53_damaging_to_TDG,Avana,ACH-000924,Lung,damaging,-0.20375748253952441
+TP53_damaging_to_TDG,Avana,ACH-000926,Bowel,matrix_intact,-0.2675551357849135
+TP53_damaging_to_TDG,Avana,ACH-000928,Uterus,matrix_intact,0.01748676450673152
+TP53_damaging_to_TDG,Avana,ACH-000929,Lung,damaging,-0.05468888890962115
+TP53_damaging_to_TDG,Avana,ACH-000932,Esophagus/Stomach,matrix_intact,-0.1033273669900488
+TP53_damaging_to_TDG,Avana,ACH-000935,Bowel,matrix_intact,-0.2995871930786442
+TP53_damaging_to_TDG,Avana,ACH-000936,Ovary/Fallopian Tube,damaging,0.03601535615356608
+TP53_damaging_to_TDG,Avana,ACH-000937,Lymphoid,damaging,-0.7409692352685826
+TP53_damaging_to_TDG,Avana,ACH-000938,Lymphoid,matrix_intact,-0.1613763397490975
+TP53_damaging_to_TDG,Avana,ACH-000939,Uterus,damaging,0.034245707718091066
+TP53_damaging_to_TDG,Avana,ACH-000941,Uterus,damaging,-0.06194751936790466
+TP53_damaging_to_TDG,Avana,ACH-000943,Bowel,matrix_intact,-0.19253834000276568
+TP53_damaging_to_TDG,Avana,ACH-000944,Lymphoid,damaging,-0.2641137635986138
+TP53_damaging_to_TDG,Avana,ACH-000946,Uterus,matrix_intact,-0.37637938947225635
+TP53_damaging_to_TDG,Avana,ACH-000947,Ovary/Fallopian Tube,damaging,0.18795139764693525
+TP53_damaging_to_TDG,Avana,ACH-000948,Esophagus/Stomach,matrix_intact,-0.08569064887639131
+TP53_damaging_to_TDG,Avana,ACH-000950,Bowel,matrix_intact,-0.08872005561476654
+TP53_damaging_to_TDG,Avana,ACH-000953,Lymphoid,damaging,-1.1063086352384817
+TP53_damaging_to_TDG,Avana,ACH-000957,Bowel,matrix_intact,-0.3440291864828154
+TP53_damaging_to_TDG,Avana,ACH-000958,Bowel,matrix_intact,0.07594761452670082
+TP53_damaging_to_TDG,Avana,ACH-000959,Bowel,damaging,-0.13338286976563352
+TP53_damaging_to_TDG,Avana,ACH-000960,Lymphoid,damaging,-0.15562880002072102
+TP53_damaging_to_TDG,Avana,ACH-000961,Uterus,damaging,-0.09474006808326069
+TP53_damaging_to_TDG,Avana,ACH-000963,Bowel,damaging,-0.03113971456228576
+TP53_damaging_to_TDG,Avana,ACH-000965,Uterus,matrix_intact,-0.31840886563638554
+TP53_damaging_to_TDG,Avana,ACH-000968,Skin,matrix_intact,-0.3963283092966545
+TP53_damaging_to_TDG,Avana,ACH-000969,Bowel,damaging,-0.355304561062576
+TP53_damaging_to_TDG,Avana,ACH-000973,Bladder/Urinary Tract,damaging,-0.125142883779488
+TP53_damaging_to_TDG,Avana,ACH-000974,Uterus,matrix_intact,-0.16806097427956435
+TP53_damaging_to_TDG,Avana,ACH-000975,Lung,damaging,-0.0676599794286005
+TP53_damaging_to_TDG,Avana,ACH-000976,Biliary Tract,damaging,-0.4395632680980188
+TP53_damaging_to_TDG,Avana,ACH-000977,Prostate,matrix_intact,-0.35246288996199526
+TP53_damaging_to_TDG,Avana,ACH-000978,Uterus,damaging,-0.047635914912702734
+TP53_damaging_to_TDG,Avana,ACH-000980,Lung,damaging,-0.27562849667512346
+TP53_damaging_to_TDG,Avana,ACH-000983,Myeloid,damaging,-0.5178914944858763
+TP53_damaging_to_TDG,Avana,ACH-000984,Uterus,damaging,-0.6311017688685068
+TP53_damaging_to_TDG,Avana,ACH-000986,Bowel,damaging,-0.2423075610767036
+TP53_damaging_to_TDG,Avana,ACH-000988,Uterus,damaging,-0.136099104705251
+TP53_damaging_to_TDG,Avana,ACH-000993,Uterus,damaging,-0.3091888844538473
+TP53_damaging_to_TDG,Avana,ACH-000994,Uterus,damaging,-0.09703343859779776
+TP53_damaging_to_TDG,Avana,ACH-000995,Lymphoid,damaging,-0.06872972072777955
+TP53_damaging_to_TDG,Avana,ACH-000996,Uterus,damaging,-0.1049190603124189
+TP53_damaging_to_TDG,Avana,ACH-001001,Bone,damaging,-0.34663531723349816
+TP53_damaging_to_TDG,Avana,ACH-001020,CNS/Brain,matrix_intact,0.054685897695963
+TP53_damaging_to_TDG,Avana,ACH-001028,CNS/Brain,damaging,-0.5139558032348411
+TP53_damaging_to_TDG,Avana,ACH-001029,Bone,damaging,-0.1187342147692827
+TP53_damaging_to_TDG,Avana,ACH-001031,CNS/Brain,matrix_intact,-0.23455961117756421
+TP53_damaging_to_TDG,Avana,ACH-001033,CNS/Brain,matrix_intact,-0.40113561431155853
+TP53_damaging_to_TDG,Avana,ACH-001036,Myeloid,matrix_intact,-0.06356237035864391
+TP53_damaging_to_TDG,Avana,ACH-001038,Bone,damaging,-0.4858430979856903
+TP53_damaging_to_TDG,Avana,ACH-001041,Skin,damaging,-0.1185676375752763
+TP53_damaging_to_TDG,Avana,ACH-001048,Ovary/Fallopian Tube,damaging,-0.12647740767338386
+TP53_damaging_to_TDG,Avana,ACH-001050,Soft Tissue,matrix_intact,-0.408365904773422
+TP53_damaging_to_TDG,Avana,ACH-001053,CNS/Brain,matrix_intact,0.11196538069448721
+TP53_damaging_to_TDG,Avana,ACH-001054,CNS/Brain,matrix_intact,0.09259529563505357
+TP53_damaging_to_TDG,Avana,ACH-001061,Bowel,damaging,-0.15036836225253764
+TP53_damaging_to_TDG,Avana,ACH-001067,CNS/Brain,matrix_intact,-0.69921034882673
+TP53_damaging_to_TDG,Avana,ACH-001075,Lung,matrix_intact,-0.014661190122268394
+TP53_damaging_to_TDG,Avana,ACH-001096,Soft Tissue,matrix_intact,-0.20436782745036075
+TP53_damaging_to_TDG,Avana,ACH-001098,Pancreas,damaging,-0.07794682379031678
+TP53_damaging_to_TDG,Avana,ACH-001099,Kidney,matrix_intact,-0.13055375353015422
+TP53_damaging_to_TDG,Avana,ACH-001119,Lymphoid,matrix_intact,-0.12432648654519612
+TP53_damaging_to_TDG,Avana,ACH-001128,Kidney,matrix_intact,0.06404303571706293
+TP53_damaging_to_TDG,Avana,ACH-001129,Myeloid,damaging,-0.04424315550940475
+TP53_damaging_to_TDG,Avana,ACH-001134,Lymphoid,matrix_intact,-0.07849332790587178
+TP53_damaging_to_TDG,Avana,ACH-001145,Ovary/Fallopian Tube,damaging,0.03199477070007089
+TP53_damaging_to_TDG,Avana,ACH-001151,Ovary/Fallopian Tube,matrix_intact,-0.1344462740159083
+TP53_damaging_to_TDG,Avana,ACH-001163,Kidney,damaging,-0.03039348104228342
+TP53_damaging_to_TDG,Avana,ACH-001164,Soft Tissue,matrix_intact,-0.12666628693099824
+TP53_damaging_to_TDG,Avana,ACH-001172,CNS/Brain,damaging,-0.21799745233260057
+TP53_damaging_to_TDG,Avana,ACH-001183,Bladder/Urinary Tract,damaging,-0.30539694695764524
+TP53_damaging_to_TDG,Avana,ACH-001184,Soft Tissue,matrix_intact,-0.16411494007886515
+TP53_damaging_to_TDG,Avana,ACH-001188,Peripheral Nervous System,matrix_intact,-0.04842583183297798
+TP53_damaging_to_TDG,Avana,ACH-001190,Skin,damaging,0.03576099251922296
+TP53_damaging_to_TDG,Avana,ACH-001192,Bone,damaging,-0.26315008832531206
+TP53_damaging_to_TDG,Avana,ACH-001193,Bone,damaging,-0.1522669924644734
+TP53_damaging_to_TDG,Avana,ACH-001194,Kidney,damaging,-0.3038418765886036
+TP53_damaging_to_TDG,Avana,ACH-001196,Soft Tissue,damaging,-0.22352943911568046
+TP53_damaging_to_TDG,Avana,ACH-001197,Lymphoid,damaging,-0.270248131125953
+TP53_damaging_to_TDG,Avana,ACH-001205,Bone,matrix_intact,-0.15337415777604235
+TP53_damaging_to_TDG,Avana,ACH-001211,Kidney,matrix_intact,-0.0016485467924746838
+TP53_damaging_to_TDG,Avana,ACH-001212,Kidney,matrix_intact,-0.06916113822970005
+TP53_damaging_to_TDG,Avana,ACH-001228,Head and Neck,matrix_intact,-0.1779485822126179
+TP53_damaging_to_TDG,Avana,ACH-001229,Head and Neck,matrix_intact,-0.01654891691374258
+TP53_damaging_to_TDG,Avana,ACH-001232,CNS/Brain,damaging,-0.24884989501436666
+TP53_damaging_to_TDG,Avana,ACH-001239,Skin,matrix_intact,-0.058600135474769444
+TP53_damaging_to_TDG,Avana,ACH-001270,Soft Tissue,matrix_intact,-0.09141470682933282
+TP53_damaging_to_TDG,Avana,ACH-001274,Soft Tissue,matrix_intact,-0.07134575580866465
+TP53_damaging_to_TDG,Avana,ACH-001275,Soft Tissue,matrix_intact,-0.33915518902999786
+TP53_damaging_to_TDG,Avana,ACH-001277,Soft Tissue,damaging,0.09617292360094958
+TP53_damaging_to_TDG,Avana,ACH-001278,Ovary/Fallopian Tube,matrix_intact,-0.14191382413017728
+TP53_damaging_to_TDG,Avana,ACH-001279,Ovary/Fallopian Tube,matrix_intact,-0.30544694408004525
+TP53_damaging_to_TDG,Avana,ACH-001280,Soft Tissue,damaging,-0.24990687453251692
+TP53_damaging_to_TDG,Avana,ACH-001283,Bone,damaging,-0.25178958709623217
+TP53_damaging_to_TDG,Avana,ACH-001289,CNS/Brain,matrix_intact,0.03702971196466259
+TP53_damaging_to_TDG,Avana,ACH-001295,Eye,matrix_intact,-0.34106613956212284
+TP53_damaging_to_TDG,Avana,ACH-001300,Peripheral Nervous System,matrix_intact,-0.2811473089374982
+TP53_damaging_to_TDG,Avana,ACH-001301,Peripheral Nervous System,matrix_intact,-0.1062687554278129
+TP53_damaging_to_TDG,Avana,ACH-001302,Peripheral Nervous System,matrix_intact,-0.22115278117724252
+TP53_damaging_to_TDG,Avana,ACH-001303,Peripheral Nervous System,matrix_intact,-0.17804653773044304
+TP53_damaging_to_TDG,Avana,ACH-001306,Thyroid,damaging,-0.029019997107087966
+TP53_damaging_to_TDG,Avana,ACH-001307,Thyroid,damaging,-0.2891103975873778
+TP53_damaging_to_TDG,Avana,ACH-001310,Kidney,matrix_intact,-0.10077751385978001
+TP53_damaging_to_TDG,Avana,ACH-001318,Liver,damaging,-0.14615613585950413
+TP53_damaging_to_TDG,Avana,ACH-001322,Soft Tissue,matrix_intact,-0.3793839799563942
+TP53_damaging_to_TDG,Avana,ACH-001328,Skin,damaging,-0.2671383651077793
+TP53_damaging_to_TDG,Avana,ACH-001329,CNS/Brain,matrix_intact,-0.23587526052889493
+TP53_damaging_to_TDG,Avana,ACH-001333,Cervix,damaging,0.116268785532088
+TP53_damaging_to_TDG,Avana,ACH-001334,Cervix,matrix_intact,-0.1788370279202471
+TP53_damaging_to_TDG,Avana,ACH-001335,Cervix,matrix_intact,-0.14746356711571865
+TP53_damaging_to_TDG,Avana,ACH-001336,Cervix,matrix_intact,-0.39549111319273
+TP53_damaging_to_TDG,Avana,ACH-001338,Peripheral Nervous System,matrix_intact,0.024360708635371008
+TP53_damaging_to_TDG,Avana,ACH-001340,Ovary/Fallopian Tube,damaging,-0.20940197846145464
+TP53_damaging_to_TDG,Avana,ACH-001341,Cervix,matrix_intact,0.03692062150378515
+TP53_damaging_to_TDG,Avana,ACH-001344,Peripheral Nervous System,matrix_intact,-0.01798203017620827
+TP53_damaging_to_TDG,Avana,ACH-001345,Bowel,matrix_intact,-0.02056295102256464
+TP53_damaging_to_TDG,Avana,ACH-001346,Head and Neck,damaging,-0.13824414940554466
+TP53_damaging_to_TDG,Avana,ACH-001347,Head and Neck,damaging,-0.7234764508182443
+TP53_damaging_to_TDG,Avana,ACH-001353,Pancreas,damaging,-0.4709625177449077
+TP53_damaging_to_TDG,Avana,ACH-001354,Peripheral Nervous System,damaging,-0.1831378229796785
+TP53_damaging_to_TDG,Avana,ACH-001356,Thyroid,damaging,0.024386113399008213
+TP53_damaging_to_TDG,Avana,ACH-001360,Cervix,matrix_intact,-0.20077296614265228
+TP53_damaging_to_TDG,Avana,ACH-001366,Peripheral Nervous System,damaging,-0.09149531086479629
+TP53_damaging_to_TDG,Avana,ACH-001367,Peripheral Nervous System,damaging,-0.3345723383016838
+TP53_damaging_to_TDG,Avana,ACH-001368,Esophagus/Stomach,damaging,-0.17399494467447377
+TP53_damaging_to_TDG,Avana,ACH-001370,Ovary/Fallopian Tube,damaging,-0.2254189296429453
+TP53_damaging_to_TDG,Avana,ACH-001374,Ovary/Fallopian Tube,matrix_intact,-0.01750384448039101
+TP53_damaging_to_TDG,Avana,ACH-001375,Pancreas,damaging,0.0018632792551248802
+TP53_damaging_to_TDG,Avana,ACH-001377,Pancreas,matrix_intact,0.07671785849957752
+TP53_damaging_to_TDG,Avana,ACH-001379,Pancreas,damaging,-0.3877271190317194
+TP53_damaging_to_TDG,Avana,ACH-001380,Pancreas,damaging,-0.012985245226468621
+TP53_damaging_to_TDG,Avana,ACH-001382,Pancreas,damaging,-0.2099842356381908
+TP53_damaging_to_TDG,Avana,ACH-001385,Head and Neck,matrix_intact,-0.20434811816833026
+TP53_damaging_to_TDG,Avana,ACH-001386,Lung,damaging,0.0006228768708429928
+TP53_damaging_to_TDG,Avana,ACH-001388,Breast,matrix_intact,-0.12581110419325106
+TP53_damaging_to_TDG,Avana,ACH-001389,Breast,damaging,-0.3761107647506766
+TP53_damaging_to_TDG,Avana,ACH-001390,Breast,damaging,-0.3851552214158964
+TP53_damaging_to_TDG,Avana,ACH-001391,Breast,matrix_intact,-0.18207703774351464
+TP53_damaging_to_TDG,Avana,ACH-001392,Breast,damaging,-0.04935158333512527
+TP53_damaging_to_TDG,Avana,ACH-001393,Breast,damaging,-0.025601010123558473
+TP53_damaging_to_TDG,Avana,ACH-001394,Breast,damaging,-0.8751343782027885
+TP53_damaging_to_TDG,Avana,ACH-001396,Breast,damaging,-0.08840627155135027
+TP53_damaging_to_TDG,Avana,ACH-001398,Kidney,matrix_intact,-0.008028411112921484
+TP53_damaging_to_TDG,Avana,ACH-001400,Vulva/Vagina,damaging,-0.17634777246350095
+TP53_damaging_to_TDG,Avana,ACH-001402,Cervix,matrix_intact,-1.3021331345306835
+TP53_damaging_to_TDG,Avana,ACH-001403,Ovary/Fallopian Tube,damaging,0.14665186352759502
+TP53_damaging_to_TDG,Avana,ACH-001407,Bladder/Urinary Tract,damaging,-0.25624669715367265
+TP53_damaging_to_TDG,Avana,ACH-001408,Bladder/Urinary Tract,damaging,-0.02995868638031325
+TP53_damaging_to_TDG,Avana,ACH-001409,Bladder/Urinary Tract,damaging,-0.16789621218288897
+TP53_damaging_to_TDG,Avana,ACH-001411,Bladder/Urinary Tract,damaging,-0.20370558856262064
+TP53_damaging_to_TDG,Avana,ACH-001412,Bladder/Urinary Tract,damaging,-0.07302514264716693
+TP53_damaging_to_TDG,Avana,ACH-001413,Bladder/Urinary Tract,matrix_intact,0.21570671946375014
+TP53_damaging_to_TDG,Avana,ACH-001414,Bladder/Urinary Tract,matrix_intact,-0.6445545131971944
+TP53_damaging_to_TDG,Avana,ACH-001415,Bladder/Urinary Tract,damaging,-0.14451731486309524
+TP53_damaging_to_TDG,Avana,ACH-001416,Bladder/Urinary Tract,damaging,-0.40361545136971444
+TP53_damaging_to_TDG,Avana,ACH-001418,Ovary/Fallopian Tube,damaging,-0.2027558727313426
+TP53_damaging_to_TDG,Avana,ACH-001419,Breast,damaging,-0.11049148266923486
+TP53_damaging_to_TDG,Avana,ACH-001421,Eye,matrix_intact,-0.24538142551924572
+TP53_damaging_to_TDG,Avana,ACH-001422,Prostate,matrix_intact,0.02442117140485151
+TP53_damaging_to_TDG,Avana,ACH-001430,Bone,matrix_intact,-0.10543330069091984
+TP53_damaging_to_TDG,Avana,ACH-001431,Bone,matrix_intact,-0.23873602305308517
+TP53_damaging_to_TDG,Avana,ACH-001433,Soft Tissue,damaging,-0.5302802877240544
+TP53_damaging_to_TDG,Avana,ACH-001442,Skin,damaging,-0.06326013372887244
+TP53_damaging_to_TDG,Avana,ACH-001443,Thyroid,damaging,-0.20980939769444187
+TP53_damaging_to_TDG,Avana,ACH-001450,Lymphoid,damaging,-0.05717379331706779
+TP53_damaging_to_TDG,Avana,ACH-001451,Cervix,matrix_intact,-0.21562362147952738
+TP53_damaging_to_TDG,Avana,ACH-001453,Prostate,matrix_intact,-0.3744376796735627
+TP53_damaging_to_TDG,Avana,ACH-001454,Bowel,matrix_intact,0.007183128538422135
+TP53_damaging_to_TDG,Avana,ACH-001458,Bowel,damaging,-0.36400825655274816
+TP53_damaging_to_TDG,Avana,ACH-001459,Bowel,damaging,-0.17533411837480045
+TP53_damaging_to_TDG,Avana,ACH-001460,Bowel,damaging,0.0887210371059162
+TP53_damaging_to_TDG,Avana,ACH-001461,Bowel,matrix_intact,-0.12457803335088402
+TP53_damaging_to_TDG,Avana,ACH-001481,Peripheral Nervous System,damaging,-0.10659121545843224
+TP53_damaging_to_TDG,Avana,ACH-001494,Biliary Tract,damaging,-0.6037743364901299
+TP53_damaging_to_TDG,Avana,ACH-001495,Uterus,damaging,-0.08522669446447137
+TP53_damaging_to_TDG,Avana,ACH-001496,Esophagus/Stomach,damaging,0.0170084843899238
+TP53_damaging_to_TDG,Avana,ACH-001497,Esophagus/Stomach,damaging,-0.19861069631718167
+TP53_damaging_to_TDG,Avana,ACH-001498,Lymphoid,damaging,-0.6341494244648276
+TP53_damaging_to_TDG,Avana,ACH-001500,Esophagus/Stomach,damaging,-0.07038101584710206
+TP53_damaging_to_TDG,Avana,ACH-001509,Head and Neck,damaging,-0.05973130676318926
+TP53_damaging_to_TDG,Avana,ACH-001510,Head and Neck,damaging,-0.2098964735745522
+TP53_damaging_to_TDG,Avana,ACH-001511,Head and Neck,damaging,-0.1341690846282432
+TP53_damaging_to_TDG,Avana,ACH-001513,Cervix,damaging,0.07821320868776208
+TP53_damaging_to_TDG,Avana,ACH-001515,Cervix,matrix_intact,-0.47403249415942694
+TP53_damaging_to_TDG,Avana,ACH-001517,Uterus,damaging,-0.6302307835536585
+TP53_damaging_to_TDG,Avana,ACH-001518,Uterus,damaging,0.10190950660850542
+TP53_damaging_to_TDG,Avana,ACH-001520,Lymphoid,matrix_intact,-0.46543443551246405
+TP53_damaging_to_TDG,Avana,ACH-001521,Skin,damaging,-0.24973807604759915
+TP53_damaging_to_TDG,Avana,ACH-001522,Skin,matrix_intact,0.24236314243584586
+TP53_damaging_to_TDG,Avana,ACH-001523,Skin,damaging,-0.3273494779043654
+TP53_damaging_to_TDG,Avana,ACH-001524,Skin,damaging,-0.08873695492250329
+TP53_damaging_to_TDG,Avana,ACH-001525,Cervix,damaging,-0.01562981171706583
+TP53_damaging_to_TDG,Avana,ACH-001526,Bone,matrix_intact,-0.08386751873135462
+TP53_damaging_to_TDG,Avana,ACH-001528,Thyroid,matrix_intact,-0.5603135510512156
+TP53_damaging_to_TDG,Avana,ACH-001529,Uterus,matrix_intact,-0.28834595241453354
+TP53_damaging_to_TDG,Avana,ACH-001530,Uterus,matrix_intact,-0.5489309298876004
+TP53_damaging_to_TDG,Avana,ACH-001532,Kidney,matrix_intact,-0.2788134278819766
+TP53_damaging_to_TDG,Avana,ACH-001533,Lymphoid,damaging,-0.03023122523398139
+TP53_damaging_to_TDG,Avana,ACH-001536,Biliary Tract,matrix_intact,-0.4610763343663888
+TP53_damaging_to_TDG,Avana,ACH-001538,Biliary Tract,matrix_intact,-0.38668752200017587
+TP53_damaging_to_TDG,Avana,ACH-001539,Lymphoid,damaging,-0.09317211999363864
+TP53_damaging_to_TDG,Avana,ACH-001542,Head and Neck,damaging,-0.3350629759578335
+TP53_damaging_to_TDG,Avana,ACH-001543,Head and Neck,damaging,-0.4369115117965254
+TP53_damaging_to_TDG,Avana,ACH-001547,Pleura,matrix_intact,-0.28098389582612976
+TP53_damaging_to_TDG,Avana,ACH-001548,Peripheral Nervous System,matrix_intact,-0.14878992742502284
+TP53_damaging_to_TDG,Avana,ACH-001549,Lung,damaging,-0.704947199996369
+TP53_damaging_to_TDG,Avana,ACH-001550,Skin,damaging,-0.012786965925950973
+TP53_damaging_to_TDG,Avana,ACH-001551,Skin,damaging,0.05476507116879905
+TP53_damaging_to_TDG,Avana,ACH-001552,Skin,damaging,0.021665804829105656
+TP53_damaging_to_TDG,Avana,ACH-001554,Eye,matrix_intact,-0.11876318397989617
+TP53_damaging_to_TDG,Avana,ACH-001555,Pleura,matrix_intact,-0.47070218705874706
+TP53_damaging_to_TDG,Avana,ACH-001556,Pleura,matrix_intact,-0.5681698518046594
+TP53_damaging_to_TDG,Avana,ACH-001557,Pleura,matrix_intact,-0.28978211685505967
+TP53_damaging_to_TDG,Avana,ACH-001558,Pleura,matrix_intact,-0.5454903681499867
+TP53_damaging_to_TDG,Avana,ACH-001559,Pleura,damaging,0.28469770287311136
+TP53_damaging_to_TDG,Avana,ACH-001560,Pleura,matrix_intact,-0.038605066129480156
+TP53_damaging_to_TDG,Avana,ACH-001562,Pleura,matrix_intact,-0.25566814621127554
+TP53_damaging_to_TDG,Avana,ACH-001563,Skin,matrix_intact,0.08869122792848785
+TP53_damaging_to_TDG,Avana,ACH-001566,Skin,matrix_intact,-0.1491041780588108
+TP53_damaging_to_TDG,Avana,ACH-001567,Skin,matrix_intact,-0.23150779086874632
+TP53_damaging_to_TDG,Avana,ACH-001568,Skin,matrix_intact,0.0765472501119335
+TP53_damaging_to_TDG,Avana,ACH-001570,Skin,matrix_intact,-0.13687981138785482
+TP53_damaging_to_TDG,Avana,ACH-001574,Myeloid,matrix_intact,-0.4933589081808001
+TP53_damaging_to_TDG,Avana,ACH-001577,Myeloid,matrix_intact,-0.031356104684230335
+TP53_damaging_to_TDG,Avana,ACH-001607,Biliary Tract,damaging,-4.10481963392313
+TP53_damaging_to_TDG,Avana,ACH-001608,CNS/Brain,damaging,-0.32982777745237096
+TP53_damaging_to_TDG,Avana,ACH-001609,CNS/Brain,damaging,-0.5068565506179016
+TP53_damaging_to_TDG,Avana,ACH-001610,CNS/Brain,damaging,-0.5124316193755047
+TP53_damaging_to_TDG,Avana,ACH-001611,CNS/Brain,matrix_intact,-0.0009484726436205619
+TP53_damaging_to_TDG,Avana,ACH-001616,Lymphoid,matrix_intact,-0.3453947710069278
+TP53_damaging_to_TDG,Avana,ACH-001618,Myeloid,damaging,-0.5721869606794043
+TP53_damaging_to_TDG,Avana,ACH-001619,Biliary Tract,damaging,-0.7891565059253126
+TP53_damaging_to_TDG,Avana,ACH-001622,CNS/Brain,matrix_intact,0.05372996698291739
+TP53_damaging_to_TDG,Avana,ACH-001623,CNS/Brain,damaging,-0.2803958876570718
+TP53_damaging_to_TDG,Avana,ACH-001624,CNS/Brain,matrix_intact,-0.2885627427468128
+TP53_damaging_to_TDG,Avana,ACH-001627,Prostate,matrix_intact,-0.002018353199071763
+TP53_damaging_to_TDG,Avana,ACH-001628,Ovary/Fallopian Tube,damaging,0.049194618879293966
+TP53_damaging_to_TDG,Avana,ACH-001630,Ovary/Fallopian Tube,damaging,-0.20604272496670728
+TP53_damaging_to_TDG,Avana,ACH-001634,Lymphoid,matrix_intact,-0.20531740892078376
+TP53_damaging_to_TDG,Avana,ACH-001641,Head and Neck,damaging,-0.4661847299322033
+TP53_damaging_to_TDG,Avana,ACH-001645,Skin,matrix_intact,-0.2843190463525342
+TP53_damaging_to_TDG,Avana,ACH-001647,Myeloid,damaging,0.0037017118960703654
+TP53_damaging_to_TDG,Avana,ACH-001648,Prostate,matrix_intact,-0.37917147871810686
+TP53_damaging_to_TDG,Avana,ACH-001649,Prostate,matrix_intact,0.032193738549921094
+TP53_damaging_to_TDG,Avana,ACH-001650,Cervix,matrix_intact,-0.2615455035214506
+TP53_damaging_to_TDG,Avana,ACH-001651,Cervix,matrix_intact,-0.08814834649255232
+TP53_damaging_to_TDG,Avana,ACH-001652,Cervix,matrix_intact,-0.10314367742748193
+TP53_damaging_to_TDG,Avana,ACH-001653,Esophagus/Stomach,damaging,-0.07834641415713653
+TP53_damaging_to_TDG,Avana,ACH-001654,Esophagus/Stomach,damaging,-0.26190774316450544
+TP53_damaging_to_TDG,Avana,ACH-001655,Uterus,damaging,-0.17599324509043873
+TP53_damaging_to_TDG,Avana,ACH-001656,Myeloid,damaging,-0.18962869682996558
+TP53_damaging_to_TDG,Avana,ACH-001664,Esophagus/Stomach,damaging,-0.1833263223362489
+TP53_damaging_to_TDG,Avana,ACH-001668,Testis,matrix_intact,-1.4646928652970823
+TP53_damaging_to_TDG,Avana,ACH-001669,Lymphoid,damaging,-0.5136799050927694
+TP53_damaging_to_TDG,Avana,ACH-001670,CNS/Brain,damaging,-0.4530886072990228
+TP53_damaging_to_TDG,Avana,ACH-001673,Biliary Tract,damaging,0.07594035283952666
+TP53_damaging_to_TDG,Avana,ACH-001674,Peripheral Nervous System,matrix_intact,-0.11160426056839864
+TP53_damaging_to_TDG,Avana,ACH-001675,Head and Neck,damaging,0.02927586098239487
+TP53_damaging_to_TDG,Avana,ACH-001677,Lymphoid,matrix_intact,-0.19184995977416275
+TP53_damaging_to_TDG,Avana,ACH-001685,Lymphoid,matrix_intact,-0.39202843100233953
+TP53_damaging_to_TDG,Avana,ACH-001687,Kidney,matrix_intact,-0.46290833104282486
+TP53_damaging_to_TDG,Avana,ACH-001688,Kidney,matrix_intact,-0.08342483397073636
+TP53_damaging_to_TDG,Avana,ACH-001690,Head and Neck,damaging,-0.2995996199148818
+TP53_damaging_to_TDG,Avana,ACH-001691,Head and Neck,damaging,-0.20214018133706704
+TP53_damaging_to_TDG,Avana,ACH-001692,Head and Neck,matrix_intact,-0.4007065617478567
+TP53_damaging_to_TDG,Avana,ACH-001694,Head and Neck,damaging,-0.07670324677050784
+TP53_damaging_to_TDG,Avana,ACH-001696,Head and Neck,damaging,0.14284592054758377
+TP53_damaging_to_TDG,Avana,ACH-001698,Head and Neck,damaging,-0.10037537765875731
+TP53_damaging_to_TDG,Avana,ACH-001699,Head and Neck,damaging,-0.6149753671312964
+TP53_damaging_to_TDG,Avana,ACH-001701,Head and Neck,damaging,0.04592310781090214
+TP53_damaging_to_TDG,Avana,ACH-001702,Soft Tissue,matrix_intact,-0.8838062767775751
+TP53_damaging_to_TDG,Avana,ACH-001707,Lymphoid,matrix_intact,-0.13566981505384096
+TP53_damaging_to_TDG,Avana,ACH-001709,Lymphoid,damaging,0.006469830300755347
+TP53_damaging_to_TDG,Avana,ACH-001711,CNS/Brain,damaging,-0.5342305479472476
+TP53_damaging_to_TDG,Avana,ACH-001715,Bone,matrix_intact,-0.1727899090263777
+TP53_damaging_to_TDG,Avana,ACH-001719,Ovary/Fallopian Tube,damaging,-0.2607066401076375
+TP53_damaging_to_TDG,Avana,ACH-001735,Lymphoid,damaging,-0.7311867535606664
+TP53_damaging_to_TDG,Avana,ACH-001736,Lymphoid,damaging,-0.4738336025545813
+TP53_damaging_to_TDG,Avana,ACH-001737,Lymphoid,matrix_intact,-0.020638369781732363
+TP53_damaging_to_TDG,Avana,ACH-001740,Soft Tissue,damaging,-0.34083324465330744
+TP53_damaging_to_TDG,Avana,ACH-001745,Soft Tissue,damaging,-0.19501673886271556
+TP53_damaging_to_TDG,Avana,ACH-001750,Soft Tissue,damaging,-0.2266960954491747
+TP53_damaging_to_TDG,Avana,ACH-001765,Soft Tissue,damaging,-0.3809904669255764
+TP53_damaging_to_TDG,Avana,ACH-001786,Bowel,matrix_intact,-0.13886071463799082
+TP53_damaging_to_TDG,Avana,ACH-001791,Soft Tissue,matrix_intact,-0.023157035379948693
+TP53_damaging_to_TDG,Avana,ACH-001793,Soft Tissue,matrix_intact,-0.500837750177721
+TP53_damaging_to_TDG,Avana,ACH-001794,Soft Tissue,matrix_intact,-0.2466861692469018
+TP53_damaging_to_TDG,Avana,ACH-001795,Soft Tissue,matrix_intact,-0.08112364164517064
+TP53_damaging_to_TDG,Avana,ACH-001796,Soft Tissue,matrix_intact,-0.1064636886063664
+TP53_damaging_to_TDG,Avana,ACH-001799,Soft Tissue,matrix_intact,-0.8206646347252118
+TP53_damaging_to_TDG,Avana,ACH-001802,Soft Tissue,matrix_intact,-0.6108097161398297
+TP53_damaging_to_TDG,Avana,ACH-001804,Soft Tissue,damaging,-0.3094038607257525
+TP53_damaging_to_TDG,Avana,ACH-001814,Bone,matrix_intact,-0.2355138754128876
+TP53_damaging_to_TDG,Avana,ACH-001819,Breast,damaging,-0.29762599440001436
+TP53_damaging_to_TDG,Avana,ACH-001820,Breast,damaging,-0.19460296237903701
+TP53_damaging_to_TDG,Avana,ACH-001834,Biliary Tract,damaging,-0.9389579224790001
+TP53_damaging_to_TDG,Avana,ACH-001835,Biliary Tract,damaging,-0.38507919036122074
+TP53_damaging_to_TDG,Avana,ACH-001836,Biliary Tract,damaging,-0.13199471949148803
+TP53_damaging_to_TDG,Avana,ACH-001838,Biliary Tract,damaging,-0.2371295372682028
+TP53_damaging_to_TDG,Avana,ACH-001839,Biliary Tract,matrix_intact,0.09703998712131999
+TP53_damaging_to_TDG,Avana,ACH-001841,Biliary Tract,damaging,-0.20130183571765375
+TP53_damaging_to_TDG,Avana,ACH-001842,Biliary Tract,damaging,-0.04285987569558858
+TP53_damaging_to_TDG,Avana,ACH-001843,Biliary Tract,matrix_intact,-1.4058570375797386
+TP53_damaging_to_TDG,Avana,ACH-001844,Biliary Tract,damaging,0.0016932868350607935
+TP53_damaging_to_TDG,Avana,ACH-001848,Biliary Tract,matrix_intact,0.007362882511683339
+TP53_damaging_to_TDG,Avana,ACH-001849,Biliary Tract,damaging,-0.13975628264535597
+TP53_damaging_to_TDG,Avana,ACH-001850,Biliary Tract,damaging,-0.3285510200040097
+TP53_damaging_to_TDG,Avana,ACH-001852,Biliary Tract,damaging,0.013836925391903822
+TP53_damaging_to_TDG,Avana,ACH-001853,Liver,matrix_intact,-0.40386111460885943
+TP53_damaging_to_TDG,Avana,ACH-001856,Biliary Tract,matrix_intact,-0.23252946469200353
+TP53_damaging_to_TDG,Avana,ACH-001857,Biliary Tract,damaging,0.2006081875938683
+TP53_damaging_to_TDG,Avana,ACH-001858,Biliary Tract,damaging,-0.42795992100007085
+TP53_damaging_to_TDG,Avana,ACH-001861,Biliary Tract,damaging,0.02526044393570978
+TP53_damaging_to_TDG,Avana,ACH-001862,Ampulla of Vater,matrix_intact,-0.35247994530608384
+TP53_damaging_to_TDG,Avana,ACH-001863,Biliary Tract,damaging,-0.08842357370994046
+TP53_damaging_to_TDG,Avana,ACH-001864,Biliary Tract,damaging,-0.1632918583714949
+TP53_damaging_to_TDG,Avana,ACH-001959,Biliary Tract,damaging,-0.17988369066270288
+TP53_damaging_to_TDG,Avana,ACH-001960,Biliary Tract,damaging,-0.10141059299367863
+TP53_damaging_to_TDG,Avana,ACH-001961,Biliary Tract,damaging,-0.1189998391869964
+TP53_damaging_to_TDG,Avana,ACH-001970,Skin,matrix_intact,-0.021084572877692574
+TP53_damaging_to_TDG,Avana,ACH-001973,Skin,damaging,-0.10809990145558551
+TP53_damaging_to_TDG,Avana,ACH-001977,Pleura,matrix_intact,-0.024942201621470955
+TP53_damaging_to_TDG,Avana,ACH-001982,Skin,matrix_intact,-0.07321697188443693
+TP53_damaging_to_TDG,Avana,ACH-001986,Skin,matrix_intact,-0.010837289561474688
+TP53_damaging_to_TDG,Avana,ACH-001990,Skin,damaging,-0.1550973793501034
+TP53_damaging_to_TDG,Avana,ACH-001991,Ovary/Fallopian Tube,matrix_intact,-0.09459300540420652
+TP53_damaging_to_TDG,Avana,ACH-001992,Pleura,damaging,-0.35386399155151527
+TP53_damaging_to_TDG,Avana,ACH-001993,Lymphoid,damaging,-0.19159094633252005
+TP53_damaging_to_TDG,Avana,ACH-001997,Biliary Tract,damaging,-0.07135434357113998
+TP53_damaging_to_TDG,Avana,ACH-001999,Pancreas,damaging,-0.3558201945904138
+TP53_damaging_to_TDG,Avana,ACH-002001,Skin,matrix_intact,-0.4088115185719579
+TP53_damaging_to_TDG,Avana,ACH-002002,Skin,matrix_intact,-0.8075095381261899
+TP53_damaging_to_TDG,Avana,ACH-002003,Skin,matrix_intact,-0.19117664775456036
+TP53_damaging_to_TDG,Avana,ACH-002005,Skin,damaging,-0.510307494533163
+TP53_damaging_to_TDG,Avana,ACH-002014,Eye,matrix_intact,-0.05409037711520609
+TP53_damaging_to_TDG,Avana,ACH-002015,Eye,matrix_intact,0.22346432547694492
+TP53_damaging_to_TDG,Avana,ACH-002016,Eye,matrix_intact,-0.00942667612231448
+TP53_damaging_to_TDG,Avana,ACH-002018,Eye,matrix_intact,-0.1276806091860228
+TP53_damaging_to_TDG,Avana,ACH-002019,Cervix,matrix_intact,0.028178386950348116
+TP53_damaging_to_TDG,Avana,ACH-002020,Cervix,damaging,0.053703863576498936
+TP53_damaging_to_TDG,Avana,ACH-002021,Uterus,matrix_intact,0.06815989999425283
+TP53_damaging_to_TDG,Avana,ACH-002023,Ampulla of Vater,damaging,-0.34602076304802515
+TP53_damaging_to_TDG,Avana,ACH-002024,Bowel,damaging,-0.0692037949710041
+TP53_damaging_to_TDG,Avana,ACH-002025,Bowel,damaging,-0.08345579437777449
+TP53_damaging_to_TDG,Avana,ACH-002026,Uterus,matrix_intact,-0.27242133288203346
+TP53_damaging_to_TDG,Avana,ACH-002027,Uterus,matrix_intact,-0.35169505619473757
+TP53_damaging_to_TDG,Avana,ACH-002029,Head and Neck,damaging,-0.6675634538080124
+TP53_damaging_to_TDG,Avana,ACH-002030,Head and Neck,damaging,0.05561549365258052
+TP53_damaging_to_TDG,Avana,ACH-002035,Lung,matrix_intact,-0.11587264521788657
+TP53_damaging_to_TDG,Avana,ACH-002039,Pancreas,damaging,-0.16103154117867655
+TP53_damaging_to_TDG,Avana,ACH-002040,Vulva/Vagina,damaging,0.013161484754166787
+TP53_damaging_to_TDG,Avana,ACH-002041,Thyroid,damaging,-0.2370707683074723
+TP53_damaging_to_TDG,Avana,ACH-002042,Head and Neck,damaging,-0.030223654881884183
+TP53_damaging_to_TDG,Avana,ACH-002043,Head and Neck,damaging,-0.19585341820957491
+TP53_damaging_to_TDG,Avana,ACH-002044,Head and Neck,damaging,0.04692740514344071
+TP53_damaging_to_TDG,Avana,ACH-002045,Head and Neck,damaging,-0.16996544066144104
+TP53_damaging_to_TDG,Avana,ACH-002046,Uterus,damaging,-0.3113187593337652
+TP53_damaging_to_TDG,Avana,ACH-002048,Soft Tissue,matrix_intact,-0.2928046048261813
+TP53_damaging_to_TDG,Avana,ACH-002051,Lung,damaging,-0.528709107527825
+TP53_damaging_to_TDG,Avana,ACH-002059,Lymphoid,matrix_intact,-0.009626697712113753
+TP53_damaging_to_TDG,Avana,ACH-002061,Myeloid,damaging,-0.5298011848427504
+TP53_damaging_to_TDG,Avana,ACH-002062,Lymphoid,matrix_intact,-0.6005441544848145
+TP53_damaging_to_TDG,Avana,ACH-002066,Peripheral Nervous System,damaging,-0.43591781912442995
+TP53_damaging_to_TDG,Avana,ACH-002067,Bone,damaging,-0.250674663691298
+TP53_damaging_to_TDG,Avana,ACH-002069,Bone,matrix_intact,-0.1574929949600334
+TP53_damaging_to_TDG,Avana,ACH-002070,CNS/Brain,damaging,-1.1370727818632607
+TP53_damaging_to_TDG,Avana,ACH-002077,Lung,damaging,0.03319741868626386
+TP53_damaging_to_TDG,Avana,ACH-002080,Peripheral Nervous System,matrix_intact,-0.09361736993042016
+TP53_damaging_to_TDG,Avana,ACH-002084,Skin,matrix_intact,0.14742406871469005
+TP53_damaging_to_TDG,Avana,ACH-002214,Lymphoid,matrix_intact,-0.6318013215579552
+TP53_damaging_to_TDG,Avana,ACH-002215,Lymphoid,matrix_intact,-0.08361425495083459
+TP53_damaging_to_TDG,Avana,ACH-002291,Testis,matrix_intact,-0.17790723625381138
+TP53_damaging_to_TDG,Avana,ACH-002399,Breast,damaging,-0.6625513896975807
+TP53_damaging_to_TDG,Avana,ACH-002446,Esophagus/Stomach,damaging,-0.4252303081637935
+TP53_damaging_to_TDG,Avana,ACH-002458,Skin,matrix_intact,-0.08293452439150925
+TP53_damaging_to_TDG,Avana,ACH-002459,Skin,matrix_intact,-0.24134691181380327
+TP53_damaging_to_TDG,Avana,ACH-002460,Skin,matrix_intact,0.15811016087643373
+TP53_damaging_to_TDG,Avana,ACH-002461,Skin,damaging,-0.3324465730959293
+TP53_damaging_to_TDG,Avana,ACH-002462,Eye,matrix_intact,0.18101948101014242
+TP53_damaging_to_TDG,Avana,ACH-002463,Eye,damaging,-0.07857105034319015
+TP53_damaging_to_TDG,Avana,ACH-002464,Eye,matrix_intact,0.1673117012738113
+TP53_damaging_to_TDG,Avana,ACH-002465,Eye,matrix_intact,-0.34716402254542433
+TP53_damaging_to_TDG,Avana,ACH-002467,Eye,matrix_intact,0.22675451327525847
+TP53_damaging_to_TDG,Avana,ACH-002471,Bone,matrix_intact,-0.2015765315002782
+TP53_damaging_to_TDG,Avana,ACH-002478,Lymphoid,matrix_intact,-0.1794143181038086
+TP53_damaging_to_TDG,Avana,ACH-002485,Lymphoid,matrix_intact,-0.3952513841903147
+TP53_damaging_to_TDG,Avana,ACH-002486,Ovary/Fallopian Tube,damaging,-0.19272571806920885
+TP53_damaging_to_TDG,Avana,ACH-002508,Skin,damaging,-0.13886008801302152
+TP53_damaging_to_TDG,Avana,ACH-002510,Skin,matrix_intact,-0.4096636183271959
+TP53_damaging_to_TDG,Avana,ACH-002511,Skin,matrix_intact,-0.41500810948174693
+TP53_damaging_to_TDG,Avana,ACH-002512,Skin,matrix_intact,-0.04255327310460005
+TP53_damaging_to_TDG,Avana,ACH-002522,Lung,damaging,-0.254381358527867
+TP53_damaging_to_TDG,Avana,ACH-002523,Liver,damaging,-0.14621035234594837
+TP53_damaging_to_TDG,Avana,ACH-002524,Ovary/Fallopian Tube,matrix_intact,-0.27685497349045196
+TP53_damaging_to_TDG,Avana,ACH-002526,Lung,damaging,-0.370557169929612
+TP53_damaging_to_TDG,Avana,ACH-002531,Lung,matrix_intact,-0.11831530020740066
+TP53_damaging_to_TDG,Avana,ACH-002533,Kidney,matrix_intact,-0.5333179742994254
+TP53_damaging_to_TDG,Avana,ACH-002535,Bowel,damaging,-0.22768999067662857
+TP53_damaging_to_TDG,Avana,ACH-002647,Biliary Tract,matrix_intact,-0.13705229523573026
+TP53_damaging_to_TDG,Avana,ACH-002650,Lung,damaging,-0.23434713132618504
+TP53_damaging_to_TDG,Avana,ACH-002654,Bowel,damaging,-0.04814537159162893
+TP53_damaging_to_TDG,Avana,ACH-002659,Bowel,damaging,-0.15594270866144194
+TP53_damaging_to_TDG,Avana,ACH-002664,Bowel,damaging,-0.18479105341573332
+TP53_damaging_to_TDG,Avana,ACH-002669,Bowel,damaging,-0.07882682974435837
+TP53_damaging_to_TDG,Avana,ACH-002672,Pancreas,matrix_intact,-0.08910883527026048
+TP53_damaging_to_TDG,Avana,ACH-002680,CNS/Brain,damaging,-0.08007062365333488
+TP53_damaging_to_TDG,Avana,ACH-002687,Eye,matrix_intact,0.10656326931576747
+TP53_damaging_to_TDG,Avana,ACH-002693,Peripheral Nervous System,damaging,-0.2212864393780074
+TP53_damaging_to_TDG,Avana,ACH-002710,Peripheral Nervous System,matrix_intact,-0.16538241532613668
+TP53_damaging_to_TDG,Avana,ACH-002785,Soft Tissue,matrix_intact,-0.23946305479382834
+TP53_damaging_to_TDG,Avana,ACH-002799,Peripheral Nervous System,matrix_intact,-0.5756003573939301
+TP53_damaging_to_TDG,Avana,ACH-002800,Peripheral Nervous System,matrix_intact,0.10586172446894306
+TP53_damaging_to_TDG,Avana,ACH-002834,Bone,matrix_intact,-0.21893166390769642
+TP53_damaging_to_TDG,Avana,ACH-002847,Skin,matrix_intact,-0.11690232948908952
+TP53_damaging_to_TDG,Avana,ACH-002922,Peripheral Nervous System,damaging,-0.35689408039340353
+TP53_damaging_to_TDG,Avana,ACH-002925,Eye,matrix_intact,-0.06037236809234074
+TP53_damaging_to_TDG,Avana,ACH-002926,Eye,matrix_intact,0.020129218715974496
+TP53_damaging_to_TDG,KY,ACH-000001,Ovary/Fallopian Tube,damaging,-0.40000857610220475
+TP53_damaging_to_TDG,KY,ACH-000007,Bowel,matrix_intact,-0.7219564282392893
+TP53_damaging_to_TDG,KY,ACH-000009,Bowel,damaging,-0.41794144485205525
+TP53_damaging_to_TDG,KY,ACH-000019,Breast,matrix_intact,-0.9656307255561986
+TP53_damaging_to_TDG,KY,ACH-000023,Pancreas,damaging,-0.6740731319338052
+TP53_damaging_to_TDG,KY,ACH-000024,Lymphoid,damaging,-1.0454886827472114
+TP53_damaging_to_TDG,KY,ACH-000030,Lung,damaging,-0.38696917748355086
+TP53_damaging_to_TDG,KY,ACH-000035,Lung,damaging,-0.13934451668120762
+TP53_damaging_to_TDG,KY,ACH-000042,Pancreas,damaging,-0.5395739755868041
+TP53_damaging_to_TDG,KY,ACH-000048,Ovary/Fallopian Tube,damaging,-0.6651360181241267
+TP53_damaging_to_TDG,KY,ACH-000060,Pancreas,damaging,-0.5608434199419907
+TP53_damaging_to_TDG,KY,ACH-000067,CNS/Brain,damaging,-0.2947847091588311
+TP53_damaging_to_TDG,KY,ACH-000075,CNS/Brain,matrix_intact,-0.5101104204522668
+TP53_damaging_to_TDG,KY,ACH-000094,Pancreas,damaging,-0.558650756331307
+TP53_damaging_to_TDG,KY,ACH-000098,CNS/Brain,damaging,-0.18672212397876284
+TP53_damaging_to_TDG,KY,ACH-000103,Ovary/Fallopian Tube,damaging,-0.9045641732101481
+TP53_damaging_to_TDG,KY,ACH-000108,Pancreas,damaging,-0.16218301142317998
+TP53_damaging_to_TDG,KY,ACH-000111,Breast,matrix_intact,-1.3261347017942156
+TP53_damaging_to_TDG,KY,ACH-000113,Myeloid,matrix_intact,-0.5285410056083383
+TP53_damaging_to_TDG,KY,ACH-000114,Pancreas,damaging,-0.5781086004825303
+TP53_damaging_to_TDG,KY,ACH-000118,Pancreas,damaging,-1.267361095159191
+TP53_damaging_to_TDG,KY,ACH-000120,Peripheral Nervous System,matrix_intact,-1.544136078261881
+TP53_damaging_to_TDG,KY,ACH-000124,Lymphoid,matrix_intact,-0.7883633560218263
+TP53_damaging_to_TDG,KY,ACH-000132,Ovary/Fallopian Tube,damaging,-0.5051415822514058
+TP53_damaging_to_TDG,KY,ACH-000137,CNS/Brain,damaging,-0.9901498068314583
+TP53_damaging_to_TDG,KY,ACH-000139,Pancreas,matrix_intact,-0.383757944068966
+TP53_damaging_to_TDG,KY,ACH-000144,Esophagus/Stomach,damaging,-0.40438472658146285
+TP53_damaging_to_TDG,KY,ACH-000147,Breast,damaging,-0.6832944169677075
+TP53_damaging_to_TDG,KY,ACH-000148,Breast,damaging,-0.3231424355187844
+TP53_damaging_to_TDG,KY,ACH-000149,Peripheral Nervous System,matrix_intact,-1.6499227402395087
+TP53_damaging_to_TDG,KY,ACH-000155,Pancreas,matrix_intact,-0.4425171463091164
+TP53_damaging_to_TDG,KY,ACH-000176,Lung,damaging,-0.3250647535267503
+TP53_damaging_to_TDG,KY,ACH-000181,Head and Neck,damaging,-1.4463745800747274
+TP53_damaging_to_TDG,KY,ACH-000183,Lymphoid,damaging,0.19015289790479703
+TP53_damaging_to_TDG,KY,ACH-000192,Uterus,damaging,-0.11463267770028386
+TP53_damaging_to_TDG,KY,ACH-000200,CNS/Brain,matrix_intact,-0.8363228248613153
+TP53_damaging_to_TDG,KY,ACH-000204,Lymphoid,damaging,-0.9875187543971276
+TP53_damaging_to_TDG,KY,ACH-000207,Head and Neck,damaging,-0.5653982321884249
+TP53_damaging_to_TDG,KY,ACH-000213,Pancreas,damaging,-1.358851467150016
+TP53_damaging_to_TDG,KY,ACH-000219,Skin,matrix_intact,-2.608335836415289
+TP53_damaging_to_TDG,KY,ACH-000222,Pancreas,damaging,-0.3483494974780233
+TP53_damaging_to_TDG,KY,ACH-000223,Breast,damaging,-0.27253639236750277
+TP53_damaging_to_TDG,KY,ACH-000227,Peripheral Nervous System,matrix_intact,-0.6029219823859666
+TP53_damaging_to_TDG,KY,ACH-000232,CNS/Brain,damaging,-0.8896735603309348
+TP53_damaging_to_TDG,KY,ACH-000235,Pancreas,damaging,-0.1846594221494797
+TP53_damaging_to_TDG,KY,ACH-000238,Head and Neck,damaging,-0.04150408072616155
+TP53_damaging_to_TDG,KY,ACH-000243,Pancreas,damaging,-0.8058846334132811
+TP53_damaging_to_TDG,KY,ACH-000244,CNS/Brain,matrix_intact,-0.5886345691986128
+TP53_damaging_to_TDG,KY,ACH-000248,Breast,damaging,-0.28850010247851693
+TP53_damaging_to_TDG,KY,ACH-000249,Bowel,damaging,-0.2995569949787017
+TP53_damaging_to_TDG,KY,ACH-000252,Bowel,damaging,-0.6576276153106239
+TP53_damaging_to_TDG,KY,ACH-000260,Peripheral Nervous System,matrix_intact,-0.27390703201159594
+TP53_damaging_to_TDG,KY,ACH-000265,Pancreas,matrix_intact,-0.9498320165371442
+TP53_damaging_to_TDG,KY,ACH-000269,CNS/Brain,matrix_intact,-0.7369183077971482
+TP53_damaging_to_TDG,KY,ACH-000271,Lymphoid,damaging,-0.6900028919843126
+TP53_damaging_to_TDG,KY,ACH-000273,CNS/Brain,damaging,-0.3161904579815299
+TP53_damaging_to_TDG,KY,ACH-000276,Breast,damaging,-1.034890691815252
+TP53_damaging_to_TDG,KY,ACH-000291,Ovary/Fallopian Tube,damaging,-0.7270764597762356
+TP53_damaging_to_TDG,KY,ACH-000293,Uterus,damaging,-0.5501198322988058
+TP53_damaging_to_TDG,KY,ACH-000305,Esophagus/Stomach,damaging,0.00891101991631472
+TP53_damaging_to_TDG,KY,ACH-000308,Ovary/Fallopian Tube,damaging,-0.1181992438990207
+TP53_damaging_to_TDG,KY,ACH-000318,Esophagus/Stomach,damaging,-0.3604824597452359
+TP53_damaging_to_TDG,KY,ACH-000320,Pancreas,damaging,-1.788392317306708
+TP53_damaging_to_TDG,KY,ACH-000323,CNS/Brain,damaging,-0.3079566828044717
+TP53_damaging_to_TDG,KY,ACH-000336,Myeloid,matrix_intact,-0.19990302294344223
+TP53_damaging_to_TDG,KY,ACH-000337,Lung,damaging,-0.33125543386187445
+TP53_damaging_to_TDG,KY,ACH-000341,Peripheral Nervous System,damaging,-0.2716401827037772
+TP53_damaging_to_TDG,KY,ACH-000350,Bowel,matrix_intact,-0.4471633646199152
+TP53_damaging_to_TDG,KY,ACH-000354,Pancreas,damaging,-0.40570807787600494
+TP53_damaging_to_TDG,KY,ACH-000366,Peripheral Nervous System,damaging,0.15185775953056013
+TP53_damaging_to_TDG,KY,ACH-000367,Pleura,matrix_intact,-0.10578017125565327
+TP53_damaging_to_TDG,KY,ACH-000374,Breast,damaging,-0.9398335419385607
+TP53_damaging_to_TDG,KY,ACH-000376,CNS/Brain,damaging,-0.25019087712089494
+TP53_damaging_to_TDG,KY,ACH-000381,Bowel,damaging,-0.6838157831747513
+TP53_damaging_to_TDG,KY,ACH-000383,Esophagus/Stomach,damaging,-0.5537836550857792
+TP53_damaging_to_TDG,KY,ACH-000391,Bone,matrix_intact,-0.6357111030569135
+TP53_damaging_to_TDG,KY,ACH-000395,Lung,damaging,-0.8883393390228953
+TP53_damaging_to_TDG,KY,ACH-000408,Esophagus/Stomach,matrix_intact,-0.8204942852585496
+TP53_damaging_to_TDG,KY,ACH-000411,Kidney,matrix_intact,-0.8786752053380642
+TP53_damaging_to_TDG,KY,ACH-000414,Lung,matrix_intact,-0.696761823874601
+TP53_damaging_to_TDG,KY,ACH-000417,Pancreas,matrix_intact,-0.8104920375512874
+TP53_damaging_to_TDG,KY,ACH-000421,Bowel,damaging,-0.10753069237715385
+TP53_damaging_to_TDG,KY,ACH-000424,Bone,damaging,-0.7772487257757598
+TP53_damaging_to_TDG,KY,ACH-000427,Esophagus/Stomach,damaging,-0.49690572677812606
+TP53_damaging_to_TDG,KY,ACH-000430,Ovary/Fallopian Tube,damaging,-0.5724445151189156
+TP53_damaging_to_TDG,KY,ACH-000434,Lung,damaging,-0.6846890759299634
+TP53_damaging_to_TDG,KY,ACH-000437,CNS/Brain,damaging,-0.4534469743394257
+TP53_damaging_to_TDG,KY,ACH-000438,Lung,damaging,-1.805317840185479
+TP53_damaging_to_TDG,KY,ACH-000442,Lung,damaging,-6.893875785910868e-05
+TP53_damaging_to_TDG,KY,ACH-000452,Esophagus/Stomach,damaging,-0.5860360851182245
+TP53_damaging_to_TDG,KY,ACH-000464,CNS/Brain,damaging,-0.2803279907559838
+TP53_damaging_to_TDG,KY,ACH-000469,CNS/Brain,damaging,-1.2662964076556844
+TP53_damaging_to_TDG,KY,ACH-000481,Lung,damaging,-0.3889533401928276
+TP53_damaging_to_TDG,KY,ACH-000501,Bowel,damaging,-0.14817468560537908
+TP53_damaging_to_TDG,KY,ACH-000504,CNS/Brain,damaging,-0.5111536233981083
+TP53_damaging_to_TDG,KY,ACH-000505,Soft Tissue,damaging,-0.35367024626099547
+TP53_damaging_to_TDG,KY,ACH-000510,Lung,matrix_intact,-0.6108659546171054
+TP53_damaging_to_TDG,KY,ACH-000518,Head and Neck,damaging,-0.1512074878408973
+TP53_damaging_to_TDG,KY,ACH-000524,Ovary/Fallopian Tube,damaging,-1.0935640442095744
+TP53_damaging_to_TDG,KY,ACH-000527,Ovary/Fallopian Tube,matrix_intact,-0.29728256379615037
+TP53_damaging_to_TDG,KY,ACH-000532,Bowel,damaging,-1.1511114769172182
+TP53_damaging_to_TDG,KY,ACH-000535,Pancreas,damaging,-0.5191052922647108
+TP53_damaging_to_TDG,KY,ACH-000544,Esophagus/Stomach,damaging,-0.6630943216481089
+TP53_damaging_to_TDG,KY,ACH-000546,Head and Neck,damaging,-0.6274543825193503
+TP53_damaging_to_TDG,KY,ACH-000548,Head and Neck,damaging,-0.31713864835419087
+TP53_damaging_to_TDG,KY,ACH-000552,Bowel,damaging,-0.16317547530287208
+TP53_damaging_to_TDG,KY,ACH-000554,Breast,damaging,-0.25924965370247044
+TP53_damaging_to_TDG,KY,ACH-000558,CNS/Brain,matrix_intact,-0.07446814391993957
+TP53_damaging_to_TDG,KY,ACH-000561,Esophagus/Stomach,damaging,-0.9012180805052955
+TP53_damaging_to_TDG,KY,ACH-000562,Lung,damaging,-0.9330389631044924
+TP53_damaging_to_TDG,KY,ACH-000563,Lung,damaging,-1.0841408415357578
+TP53_damaging_to_TDG,KY,ACH-000565,Bowel,damaging,-0.547544832733476
+TP53_damaging_to_TDG,KY,ACH-000571,CNS/Brain,damaging,-0.8708693233067224
+TP53_damaging_to_TDG,KY,ACH-000573,Breast,damaging,-0.6871598454232005
+TP53_damaging_to_TDG,KY,ACH-000581,Esophagus/Stomach,damaging,-0.7099518930915115
+TP53_damaging_to_TDG,KY,ACH-000584,Ovary/Fallopian Tube,damaging,-0.13252143450389645
+TP53_damaging_to_TDG,KY,ACH-000585,Lung,damaging,-0.46304848608460897
+TP53_damaging_to_TDG,KY,ACH-000587,Lung,damaging,-0.4330510418762448
+TP53_damaging_to_TDG,KY,ACH-000595,CNS/Brain,matrix_intact,-0.1542334505501826
+TP53_damaging_to_TDG,KY,ACH-000596,Lung,damaging,-0.10571778282900662
+TP53_damaging_to_TDG,KY,ACH-000599,Pancreas,damaging,-1.8953543395050856
+TP53_damaging_to_TDG,KY,ACH-000601,Pancreas,damaging,-1.03244005407787
+TP53_damaging_to_TDG,KY,ACH-000609,CNS/Brain,matrix_intact,-0.5756342882345417
+TP53_damaging_to_TDG,KY,ACH-000619,Head and Neck,damaging,-0.6958429154686038
+TP53_damaging_to_TDG,KY,ACH-000622,CNS/Brain,damaging,-0.1889689349031089
+TP53_damaging_to_TDG,KY,ACH-000624,Breast,damaging,-0.38743543167823274
+TP53_damaging_to_TDG,KY,ACH-000637,Esophagus/Stomach,damaging,-0.9644245351524345
+TP53_damaging_to_TDG,KY,ACH-000651,Bowel,damaging,-2.0649074284622198
+TP53_damaging_to_TDG,KY,ACH-000652,Pancreas,damaging,-0.9377089661349558
+TP53_damaging_to_TDG,KY,ACH-000656,Lymphoid,damaging,-0.29328245735352
+TP53_damaging_to_TDG,KY,ACH-000657,Ovary/Fallopian Tube,matrix_intact,-1.9687089065769197
+TP53_damaging_to_TDG,KY,ACH-000660,Lymphoid,matrix_intact,-1.8019613208022
+TP53_damaging_to_TDG,KY,ACH-000662,Lung,matrix_intact,-1.1525913917259196
+TP53_damaging_to_TDG,KY,ACH-000665,Lung,damaging,-0.30536299333247924
+TP53_damaging_to_TDG,KY,ACH-000666,Lung,damaging,0.21837505194113235
+TP53_damaging_to_TDG,KY,ACH-000668,Breast,damaging,-1.5996380386345201
+TP53_damaging_to_TDG,KY,ACH-000677,Lung,matrix_intact,-0.6810210697191376
+TP53_damaging_to_TDG,KY,ACH-000681,Lung,matrix_intact,-0.80129078502444
+TP53_damaging_to_TDG,KY,ACH-000694,Esophagus/Stomach,damaging,-0.7182205217125076
+TP53_damaging_to_TDG,KY,ACH-000696,Ovary/Fallopian Tube,damaging,-0.3071705284282297
+TP53_damaging_to_TDG,KY,ACH-000699,Breast,damaging,-0.750204054068293
+TP53_damaging_to_TDG,KY,ACH-000704,Ovary/Fallopian Tube,matrix_intact,-0.12692631901545928
+TP53_damaging_to_TDG,KY,ACH-000711,Breast,damaging,0.1941110310313295
+TP53_damaging_to_TDG,KY,ACH-000714,Lymphoid,matrix_intact,-0.3744199708005052
+TP53_damaging_to_TDG,KY,ACH-000717,Esophagus/Stomach,damaging,-0.3362748317353686
+TP53_damaging_to_TDG,KY,ACH-000719,Ovary/Fallopian Tube,matrix_intact,-0.12197892812261901
+TP53_damaging_to_TDG,KY,ACH-000722,Bowel,damaging,-0.4454352609089381
+TP53_damaging_to_TDG,KY,ACH-000738,CNS/Brain,matrix_intact,-0.8374121715627951
+TP53_damaging_to_TDG,KY,ACH-000740,Head and Neck,damaging,-0.7143897657076549
+TP53_damaging_to_TDG,KY,ACH-000748,Bone,matrix_intact,-0.6024478134357544
+TP53_damaging_to_TDG,KY,ACH-000756,CNS/Brain,damaging,-1.1858886414161205
+TP53_damaging_to_TDG,KY,ACH-000768,Breast,damaging,-0.7004492517758019
+TP53_damaging_to_TDG,KY,ACH-000769,Lung,damaging,-0.6623185432936253
+TP53_damaging_to_TDG,KY,ACH-000778,Head and Neck,damaging,-0.8056068896844387
+TP53_damaging_to_TDG,KY,ACH-000781,Lung,damaging,-0.3638449306687577
+TP53_damaging_to_TDG,KY,ACH-000784,Esophagus/Stomach,damaging,-0.40027452833733673
+TP53_damaging_to_TDG,KY,ACH-000787,Lung,damaging,-0.5048914677830023
+TP53_damaging_to_TDG,KY,ACH-000788,Skin,damaging,-0.5175538423525067
+TP53_damaging_to_TDG,KY,ACH-000793,Esophagus/Stomach,matrix_intact,-0.22043234507141682
+TP53_damaging_to_TDG,KY,ACH-000794,Head and Neck,damaging,-1.0284009471065585
+TP53_damaging_to_TDG,KY,ACH-000796,Ovary/Fallopian Tube,damaging,-0.7782625531391106
+TP53_damaging_to_TDG,KY,ACH-000809,Esophagus/Stomach,damaging,-0.6908667539364645
+TP53_damaging_to_TDG,KY,ACH-000817,Lymphoid,damaging,-1.136291556188332
+TP53_damaging_to_TDG,KY,ACH-000823,Esophagus/Stomach,damaging,-0.6941193149884964
+TP53_damaging_to_TDG,KY,ACH-000824,Esophagus/Stomach,damaging,-0.5663916663372798
+TP53_damaging_to_TDG,KY,ACH-000832,Head and Neck,damaging,-0.7227041735034391
+TP53_damaging_to_TDG,KY,ACH-000841,Lung,damaging,0.035491753189287344
+TP53_damaging_to_TDG,KY,ACH-000843,Lung,damaging,-0.17001359912112024
+TP53_damaging_to_TDG,KY,ACH-000846,Head and Neck,damaging,-0.15933918607769945
+TP53_damaging_to_TDG,KY,ACH-000847,Esophagus/Stomach,damaging,-0.9343369348658346
+TP53_damaging_to_TDG,KY,ACH-000849,Breast,damaging,-0.4270568189278113
+TP53_damaging_to_TDG,KY,ACH-000855,Esophagus/Stomach,damaging,-0.4268617542669231
+TP53_damaging_to_TDG,KY,ACH-000856,Breast,matrix_intact,-0.5347984665996719
+TP53_damaging_to_TDG,KY,ACH-000858,Lung,damaging,-0.33290264965735467
+TP53_damaging_to_TDG,KY,ACH-000859,Breast,damaging,-0.4747202683729655
+TP53_damaging_to_TDG,KY,ACH-000860,Lung,matrix_intact,-0.8129944242008508
+TP53_damaging_to_TDG,KY,ACH-000861,Lung,damaging,-0.6572928396277785
+TP53_damaging_to_TDG,KY,ACH-000863,CNS/Brain,matrix_intact,-1.1447945404447701
+TP53_damaging_to_TDG,KY,ACH-000864,Uterus,damaging,-0.34171706625562065
+TP53_damaging_to_TDG,KY,ACH-000865,Esophagus/Stomach,damaging,-0.754219574645358
+TP53_damaging_to_TDG,KY,ACH-000869,Lung,damaging,-0.47339736049213693
+TP53_damaging_to_TDG,KY,ACH-000873,Esophagus/Stomach,damaging,-0.8719921121913486
+TP53_damaging_to_TDG,KY,ACH-000876,Breast,damaging,-0.2312717363541286
+TP53_damaging_to_TDG,KY,ACH-000878,Lung,damaging,-1.5133925172275318
+TP53_damaging_to_TDG,KY,ACH-000879,Uterus,damaging,-0.5799138577873167
+TP53_damaging_to_TDG,KY,ACH-000880,Esophagus/Stomach,matrix_intact,-0.8511384594430622
+TP53_damaging_to_TDG,KY,ACH-000885,Ovary/Fallopian Tube,matrix_intact,-1.0015219373564197
+TP53_damaging_to_TDG,KY,ACH-000894,Lung,damaging,-0.14859362195410014
+TP53_damaging_to_TDG,KY,ACH-000900,Lung,damaging,-1.8661606388580296
+TP53_damaging_to_TDG,KY,ACH-000906,Ovary/Fallopian Tube,damaging,-0.27751702809811185
+TP53_damaging_to_TDG,KY,ACH-000910,Breast,matrix_intact,-0.7967022165154664
+TP53_damaging_to_TDG,KY,ACH-000911,Esophagus/Stomach,damaging,-1.1516018994013615
+TP53_damaging_to_TDG,KY,ACH-000913,Uterus,damaging,-1.1950136167274064
+TP53_damaging_to_TDG,KY,ACH-000917,Esophagus/Stomach,matrix_intact,-0.3983697000976765
+TP53_damaging_to_TDG,KY,ACH-000919,Esophagus/Stomach,matrix_intact,-0.7230879642786093
+TP53_damaging_to_TDG,KY,ACH-000926,Bowel,matrix_intact,-0.9308277016111562
+TP53_damaging_to_TDG,KY,ACH-000932,Esophagus/Stomach,matrix_intact,-0.7680235707739312
+TP53_damaging_to_TDG,KY,ACH-000934,Breast,damaging,-0.3755815293008538
+TP53_damaging_to_TDG,KY,ACH-000935,Bowel,matrix_intact,-0.28199924672767895
+TP53_damaging_to_TDG,KY,ACH-000936,Ovary/Fallopian Tube,damaging,-0.47285381018312234
+TP53_damaging_to_TDG,KY,ACH-000943,Bowel,matrix_intact,-0.630465794602744
+TP53_damaging_to_TDG,KY,ACH-000945,Lung,damaging,-0.2027167824734608
+TP53_damaging_to_TDG,KY,ACH-000947,Ovary/Fallopian Tube,damaging,-1.054750373499535
+TP53_damaging_to_TDG,KY,ACH-000948,Esophagus/Stomach,matrix_intact,-0.43757598250634544
+TP53_damaging_to_TDG,KY,ACH-000950,Bowel,matrix_intact,-1.325077859994564
+TP53_damaging_to_TDG,KY,ACH-000956,Prostate,damaging,-0.38987126284195983
+TP53_damaging_to_TDG,KY,ACH-000957,Bowel,matrix_intact,-1.0290365154435426
+TP53_damaging_to_TDG,KY,ACH-000958,Bowel,matrix_intact,-0.9145039859387273
+TP53_damaging_to_TDG,KY,ACH-000962,Ovary/Fallopian Tube,damaging,-2.1171002185587615
+TP53_damaging_to_TDG,KY,ACH-000965,Uterus,matrix_intact,-0.5364750226578056
+TP53_damaging_to_TDG,KY,ACH-000966,Ovary/Fallopian Tube,damaging,-0.37774526877461695
+TP53_damaging_to_TDG,KY,ACH-000969,Bowel,damaging,-0.12075334916075063
+TP53_damaging_to_TDG,KY,ACH-000970,Bowel,damaging,-0.9267859039409406
+TP53_damaging_to_TDG,KY,ACH-000971,Bowel,matrix_intact,-0.7111676998639064
+TP53_damaging_to_TDG,KY,ACH-000974,Uterus,matrix_intact,-0.4662361557694678
+TP53_damaging_to_TDG,KY,ACH-000977,Prostate,matrix_intact,-0.5651179819720696
+TP53_damaging_to_TDG,KY,ACH-000979,Prostate,damaging,-0.36160455928795515
+TP53_damaging_to_TDG,KY,ACH-000980,Lung,damaging,-0.7035409226107205
+TP53_damaging_to_TDG,KY,ACH-000985,Bowel,damaging,-1.647887809044735
+TP53_damaging_to_TDG,KY,ACH-000991,Bowel,damaging,-1.4154875878311561
+TP53_damaging_to_TDG,KY,ACH-000997,Bowel,damaging,-0.8965996146883951
+TP53_damaging_to_TDG,KY,ACH-001016,CNS/Brain,damaging,-0.4973496640922481
+TP53_damaging_to_TDG,KY,ACH-001039,Bowel,damaging,-0.3971362980763041
+TP53_damaging_to_TDG,KY,ACH-001063,Ovary/Fallopian Tube,damaging,-0.5931448362093553
+TP53_damaging_to_TDG,KY,ACH-001065,Breast,damaging,-1.1257943840300892
+TP53_damaging_to_TDG,KY,ACH-001081,Bowel,damaging,-0.6668848055887168
+TP53_damaging_to_TDG,KY,ACH-001107,Pancreas,damaging,-0.7642627427887753
+TP53_damaging_to_TDG,KY,ACH-001126,CNS/Brain,damaging,-0.42229491186977963
+TP53_damaging_to_TDG,KY,ACH-001137,Lung,damaging,-0.05906085311771347
+TP53_damaging_to_TDG,KY,ACH-001151,Ovary/Fallopian Tube,matrix_intact,-0.10244672513254059
+TP53_damaging_to_TDG,KY,ACH-001190,Skin,damaging,-0.5281853568308624
+TP53_damaging_to_TDG,KY,ACH-001193,Bone,damaging,-0.7566781830648228
+TP53_damaging_to_TDG,KY,ACH-001233,Lung,damaging,-0.5337129618357354
+TP53_damaging_to_TDG,KY,ACH-001331,Head and Neck,matrix_intact,-0.7295092597135162
+TP53_damaging_to_TDG,KY,ACH-001332,Head and Neck,damaging,-1.5004988828328782
+TP53_damaging_to_TDG,KY,ACH-001345,Bowel,matrix_intact,-0.7764072544713425
+TP53_damaging_to_TDG,KY,ACH-001368,Esophagus/Stomach,damaging,-0.07823668064826304
+TP53_damaging_to_TDG,KY,ACH-001399,Bowel,damaging,-0.2784124009530446
+TP53_damaging_to_TDG,KY,ACH-001418,Ovary/Fallopian Tube,damaging,-0.1258251531362451
+TP53_damaging_to_TDG,KY,ACH-001494,Biliary Tract,damaging,-0.9767361144276285
+TP53_damaging_to_TDG,KY,ACH-001496,Esophagus/Stomach,damaging,-0.3734189634016356
+TP53_damaging_to_TDG,KY,ACH-001497,Esophagus/Stomach,damaging,0.563353089008679
+TP53_damaging_to_TDG,KY,ACH-001500,Esophagus/Stomach,damaging,-0.46496126943896693
+TP53_damaging_to_TDG,KY,ACH-001517,Uterus,damaging,-1.5276221528353435
+TP53_damaging_to_TDG,KY,ACH-001542,Head and Neck,damaging,-0.9037544473792191
+TP53_damaging_to_TDG,KY,ACH-001544,Esophagus/Stomach,damaging,-0.13596377253720468
+TP53_damaging_to_TDG,KY,ACH-001603,Peripheral Nervous System,matrix_intact,-0.9974606998885517
+TP53_damaging_to_TDG,KY,ACH-001605,CNS/Brain,damaging,-0.2643514471834739
+TP53_damaging_to_TDG,KY,ACH-001606,CNS/Brain,damaging,-0.6509908007948667
+TP53_damaging_to_TDG,KY,ACH-001625,Head and Neck,damaging,-0.24162749308587916
+TP53_damaging_to_TDG,KY,ACH-001626,Head and Neck,damaging,-0.39468271801872973
+TP53_damaging_to_TDG,KY,ACH-001630,Ovary/Fallopian Tube,damaging,-0.34071799917792395
+TP53_damaging_to_TDG,KY,ACH-001632,Ovary/Fallopian Tube,damaging,-0.26849606524355535
+TP53_damaging_to_TDG,KY,ACH-001639,Lymphoid,damaging,-0.27263527205639426
+TP53_damaging_to_TDG,KY,ACH-001654,Esophagus/Stomach,damaging,-0.49712107202936
+TP53_damaging_to_TDG,KY,ACH-001674,Peripheral Nervous System,matrix_intact,-0.27542988562232257
+TP53_damaging_to_TDG,KY,ACH-001715,Bone,matrix_intact,-0.43348908981082107
+TP53_damaging_to_TDG,KY,ACH-001819,Breast,damaging,-0.30685067402619826
+TP53_damaging_to_TDG,KY,ACH-001820,Breast,damaging,-0.7604722174584624
+TP53_damaging_to_TDG,KY,ACH-002029,Head and Neck,damaging,-1.9739960012258029
+TP53_damaging_to_TDG,KY,ACH-002043,Head and Neck,damaging,-0.28259152281578187
+TP53_damaging_to_TDG,KY,ACH-002045,Head and Neck,damaging,-0.6261447840491255
+TP53_damaging_to_TDG,KY,ACH-002083,Peripheral Nervous System,matrix_intact,-0.9455498822837664
+TP53_damaging_to_TDG,KY,ACH-002105,Bone,matrix_intact,-0.5823974348470834
+TP53_damaging_to_TDG,KY,ACH-002106,Bone,damaging,-0.145027494064338
+TP53_damaging_to_TDG,KY,ACH-002109,Bone,damaging,-1.2758657690159652
+TP53_damaging_to_TDG,KY,ACH-002110,Bone,damaging,-0.5472648130050556
+TP53_damaging_to_TDG,KY,ACH-002114,Bone,damaging,-0.9856814061644172
+TP53_damaging_to_TDG,KY,ACH-002116,Bone,damaging,-0.7044848675920198
+TP53_damaging_to_TDG,KY,ACH-002119,Bone,matrix_intact,-0.6966489574227137
+TP53_damaging_to_TDG,KY,ACH-002140,Ovary/Fallopian Tube,matrix_intact,-0.5480600392777163
+TP53_damaging_to_TDG,KY,ACH-002141,Esophagus/Stomach,damaging,-0.5298804516838985
+TP53_damaging_to_TDG,KY,ACH-002143,Skin,matrix_intact,-0.18770686797074043
+TP53_damaging_to_TDG,KY,ACH-002150,Kidney,matrix_intact,-0.6386014682595927
+TP53_damaging_to_TDG,KY,ACH-002156,Lung,damaging,-0.17585372938283353
+TP53_damaging_to_TDG,KY,ACH-002160,Bone,matrix_intact,0.13086952731974383
+TP53_damaging_to_TDG,KY,ACH-002161,Esophagus/Stomach,damaging,-0.5157333777116951
+TP53_damaging_to_TDG,KY,ACH-002179,Breast,damaging,-1.0422162541840108
+TP53_damaging_to_TDG,KY,ACH-002181,Ovary/Fallopian Tube,damaging,-0.38952328071009507
+TP53_damaging_to_TDG,KY,ACH-002183,Ovary/Fallopian Tube,matrix_intact,-0.2067142699982948
+TP53_damaging_to_TDG,KY,ACH-002186,Pancreas,damaging,-0.4594515575624758
+TP53_damaging_to_TDG,KY,ACH-002189,Kidney,damaging,-0.17911622194383617
+TP53_damaging_to_TDG,KY,ACH-002198,Other,matrix_intact,-0.739152370017683
+TP53_damaging_to_TDG,KY,ACH-002202,Esophagus/Stomach,damaging,-0.10255370346128473
+TP53_damaging_to_TDG,KY,ACH-002210,Myeloid,damaging,-0.44796161234026727
+TP53_damaging_to_TDG,KY,ACH-002212,Head and Neck,damaging,-0.8388749689647729
+TP53_damaging_to_TDG,KY,ACH-002228,CNS/Brain,damaging,-0.7913380034752961
+TP53_damaging_to_TDG,KY,ACH-002229,CNS/Brain,matrix_intact,-1.2373882770891018
+TP53_damaging_to_TDG,KY,ACH-002230,CNS/Brain,damaging,-0.40901322386470135
+TP53_damaging_to_TDG,KY,ACH-002233,Bowel,damaging,-1.0259481622673035
+TP53_damaging_to_TDG,KY,ACH-002234,Head and Neck,matrix_intact,-0.6581326317328992
+TP53_damaging_to_TDG,KY,ACH-002239,Head and Neck,damaging,0.22783617930086975
+TP53_damaging_to_TDG,KY,ACH-002243,Esophagus/Stomach,damaging,-0.8607537474034688
+TP53_damaging_to_TDG,KY,ACH-002247,Myeloid,matrix_intact,-0.43621357832601737
+TP53_damaging_to_TDG,KY,ACH-002249,Head and Neck,damaging,-0.7816373478519015
+TP53_damaging_to_TDG,KY,ACH-002250,Head and Neck,damaging,-0.24802906323526938
+TP53_damaging_to_TDG,KY,ACH-002251,Head and Neck,damaging,-0.5375686392357881
+TP53_damaging_to_TDG,KY,ACH-002257,CNS/Brain,damaging,-0.6135819996335927
+TP53_damaging_to_TDG,KY,ACH-002261,Peripheral Nervous System,damaging,-0.2935866275740993
+TP53_damaging_to_TDG,KY,ACH-002263,Esophagus/Stomach,damaging,-0.5466471869584423
+TP53_damaging_to_TDG,KY,ACH-002265,Head and Neck,damaging,-0.18949750964118364
+TP53_damaging_to_TDG,KY,ACH-002269,CNS/Brain,damaging,-0.382448491046755
+TP53_damaging_to_TDG,KY,ACH-002278,Peripheral Nervous System,matrix_intact,-0.6899786848282683
+TP53_damaging_to_TDG,KY,ACH-002280,Peripheral Nervous System,damaging,0.09616999015569276
+TP53_damaging_to_TDG,KY,ACH-002282,Peripheral Nervous System,matrix_intact,-0.5187622732117146
+TP53_damaging_to_TDG,KY,ACH-002283,Peripheral Nervous System,matrix_intact,-0.46623684666396503
+TP53_damaging_to_TDG,KY,ACH-002284,Peripheral Nervous System,damaging,-0.8375071427217069
+TP53_damaging_to_TDG,KY,ACH-002285,Peripheral Nervous System,damaging,-0.8368757573811448
+TP53_damaging_to_TDG,KY,ACH-002294,Head and Neck,damaging,-1.4863462046007794
+TP53_damaging_to_TDG,KY,ACH-002295,Head and Neck,damaging,-0.3173207787799557
+TP53_damaging_to_TDG,KY,ACH-002296,Head and Neck,damaging,-0.5882809333506862
+TP53_damaging_to_TDG,KY,ACH-002297,Head and Neck,damaging,-0.7532558535051065
+TP53_damaging_to_TDG,KY,ACH-002298,Head and Neck,damaging,-0.25143598083731966
+TP53_damaging_to_TDG,KY,ACH-002304,CNS/Brain,damaging,-1.395992680152975
+TP53_damaging_to_TDG,KY,ACH-002305,Head and Neck,damaging,-0.5098651607048977
