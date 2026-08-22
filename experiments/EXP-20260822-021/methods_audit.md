@@ -39,6 +39,10 @@ preregistration.
 
 ## Execution receipt
 
-To be completed after the bound runner executes. The result bundle must remain
-source-separated and preserve any null, heterogeneity, or feasibility-only
-outcome without post hoc rescue.
+The bound runner completed with `1,292` eligible screens and `1,290`
+source/model units. The terminal result is
+`FEASIBILITY_ONLY_NOMINAL_GATE_FAILURE`, with `confirmatory_claim: false` and
+`overall_pass: false`. Avana was negative but failed lineage consistency;
+KY was near zero and failed every substantive gate. The complete
+source-separated result bundle, receipts, and audit are in this experiment
+directory.

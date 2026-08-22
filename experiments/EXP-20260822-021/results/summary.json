@@ -1,0 +1,171 @@
+{
+  "analysis_label": "FEASIBILITY_ONLY",
+  "analysis_type": "preregistered_source_specific_lineage_stratified_nf1_ptpn11_replication",
+  "artifact_receipt_sha256": {
+    "context_ledger.csv": "5523b2105d6313d82aa15db66f5ed784b0356bb67f8b3d64beb175614a2ae5f5",
+    "design_sensitivity.csv": "194e137c72c2b8190c37e552dcc05f5b190d1bac78e47d7b74ff518878ba1759",
+    "endpoint_scores.csv": "991c062f799e4c37d37dd4d9557583ff95dfafdae2965173605279fce1012c93",
+    "inference.csv": "eb19e60df392dcbff37992a176014a9f50a61649c35e06694c87f22ace26c408",
+    "summary.json": "b71b85bff9fec326e005f0f0885a0c648a780bce0f4a6e0409bd48df6c290f96"
+  },
+  "claim_boundary": "damaging-matrix NF1 status association with source-specific PTPN11 dependency in frozen 23Q4 screen cohorts; no functional-NF1, NF1-null, RAS-causal, inhibitor, treatment, clinical, or confirmatory claim",
+  "claim_eligibility": {
+    "design_sensitivity_label": "FEASIBILITY_ONLY",
+    "nominal_primary_gates_pass": false,
+    "primary_confirmatory": false
+  },
+  "confirmatory_claim": false,
+  "context_receipt": {
+    "canonical_roster_sha256": "8c3229c5925e533688a9efb8979700d1f2d379a760d0672544a61073a8bfc375",
+    "context_ledger_sha256": "5523b2105d6313d82aa15db66f5ed784b0356bb67f8b3d64beb175614a2ae5f5",
+    "damaging_sha256": "aea4d970c0876afb90d2dc0e2709ff28be5a84e4e246f3a5a31faaba0fbc47e3",
+    "eligible_screens": 1292,
+    "eligible_source_models": {
+      "Avana": 975,
+      "KY": 315
+    },
+    "mixed_lineages": {
+      "Avana": 15,
+      "KY": 9
+    },
+    "model_sha256": "6b77a73209ce3faaa7442dbd947d8e08ddcb08b538c36fe820163f9cff321341",
+    "screen_map_sha256": "1e2bf9075600cd049dafc385866991523c65806657f3c8bd71afde3fe00ee9ad",
+    "screen_qc_sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407",
+    "status_column": "NF1 (4763)",
+    "status_counts": {
+      "Avana": {
+        "damaging": 57,
+        "matrix_intact": 918
+      },
+      "KY": {
+        "damaging": 21,
+        "matrix_intact": 294
+      }
+    },
+    "status_threshold": 1,
+    "unique_model_ids": 1098
+  },
+  "design_sensitivity": {
+    "all_primary_sources_power_adequate": false,
+    "confirmatory_claim_enabled": false,
+    "design_sensitivity_sha256": "194e137c72c2b8190c37e552dcc05f5b190d1bac78e47d7b74ff518878ba1759",
+    "frozen_label": "FEASIBILITY_ONLY",
+    "minimum_confirmatory_power": 0.8
+  },
+  "endpoint_receipt": {
+    "eligible_screens_expected": 1292,
+    "eligible_screens_seen": 1292,
+    "median_collapse": true,
+    "model_values": 1290,
+    "sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721"
+  },
+  "experiment_id": "EXP-20260822-021",
+  "implementation_receipt": {
+    "engine_module": "src/candrel/tp53_mdm2_replication.py",
+    "implementation_commit": "a94698339585e39ff045fb26901ae4092543bdd1",
+    "implementation_module": "src/candrel/nf1_ptpn11_replication.py",
+    "manifest_path": "experiments/EXP-20260822-021/manifest.json",
+    "required_base_commit": "bd8eeae757dbc0221727202ed67b7b0936f1cdd9",
+    "uv_lock_sha256": "d09301a2eff28d69c3e0b504d4cdae5ed21c1e451efb92e60f360ebf047106dd"
+  },
+  "inference_receipt": {
+    "bootstrap_interval": "percentile_95_linear_quantile",
+    "bootstraps": 10000,
+    "cross_source_raw_score_comparison": false,
+    "design_seeds": {
+      "Avana": 20262100,
+      "KY": 20262200
+    },
+    "inference_seeds": {
+      "Avana": 20272100,
+      "KY": 20272200
+    },
+    "permutations": 100000,
+    "unit": "collapsed_source_model_id"
+  },
+  "overall_pass": false,
+  "pre_endpoint_receipt": {
+    "context_ledger_sha256": "5523b2105d6313d82aa15db66f5ed784b0356bb67f8b3d64beb175614a2ae5f5",
+    "design_sensitivity_sha256": "194e137c72c2b8190c37e552dcc05f5b190d1bac78e47d7b74ff518878ba1759",
+    "experiment_id": "EXP-20260822-021",
+    "receipt_sha256": "7e15546d92bf6e20f52890e1c393053220a0a91821b8469cbef11687234bdaac",
+    "sealed_before_endpoint": true
+  },
+  "primary": [
+    {
+      "bootstrap_ci_95_percentile": [
+        -0.3797051328722242,
+        -0.11321441572624681
+      ],
+      "bootstrap_repeats": 10000,
+      "delta": -0.24936294139060794,
+      "gates": {
+        "at_least_5_negative_lineages": true,
+        "bootstrap_upper_lt_0": true,
+        "delta_le_minus_0_20": true,
+        "delta_lt_0": true,
+        "no_lineage_delta_gt_plus_0_20": false,
+        "permutation_p_le_0_05": true
+      },
+      "lineage_deltas": {
+        "Bladder/Urinary Tract": 1.0,
+        "Bone": 0.07142857142857142,
+        "Bowel": 0.12195121951219512,
+        "Breast": 0.0641025641025641,
+        "CNS/Brain": -0.48253968253968255,
+        "Esophagus/Stomach": 0.5256410256410257,
+        "Liver": 0.13043478260869565,
+        "Lung": -0.5811373092926491,
+        "Myeloid": 0.0,
+        "Ovary/Fallopian Tube": -0.21481481481481482,
+        "Peripheral Nervous System": -0.26666666666666666,
+        "Skin": -0.3838383838383838,
+        "Soft Tissue": 0.09090909090909091,
+        "Thyroid": -0.5833333333333334,
+        "Uterus": 0.28
+      },
+      "pair_count": 2747,
+      "pair_id": "NF1_damaging_to_PTPN11",
+      "pass": false,
+      "permutation_extreme_count": 333,
+      "permutation_p_one_sided_lower": 0.0033399666003339967,
+      "permutation_repeats": 100000,
+      "source": "Avana"
+    },
+    {
+      "bootstrap_ci_95_percentile": [
+        -0.16153846153846155,
+        0.26153846153846155
+      ],
+      "bootstrap_repeats": 10000,
+      "delta": 0.046153846153846156,
+      "gates": {
+        "at_least_5_negative_lineages": false,
+        "bootstrap_upper_lt_0": false,
+        "delta_le_minus_0_20": false,
+        "delta_lt_0": false,
+        "no_lineage_delta_gt_plus_0_20": false,
+        "permutation_p_le_0_05": false
+      },
+      "lineage_deltas": {
+        "Bone": -1.0,
+        "Bowel": 0.2839506172839506,
+        "Breast": 0.3333333333333333,
+        "CNS/Brain": -0.25925925925925924,
+        "Esophagus/Stomach": 0.35135135135135137,
+        "Kidney": 1.0,
+        "Lung": 0.08333333333333333,
+        "Ovary/Fallopian Tube": 0.4444444444444444,
+        "Peripheral Nervous System": -0.28205128205128205
+      },
+      "pair_count": 520,
+      "pair_id": "NF1_damaging_to_PTPN11",
+      "pass": false,
+      "permutation_extreme_count": 63073,
+      "permutation_p_one_sided_lower": 0.6307336926630733,
+      "permutation_repeats": 100000,
+      "source": "KY"
+    }
+  ],
+  "status": "FEASIBILITY_ONLY_NOMINAL_GATE_FAILURE"
+}

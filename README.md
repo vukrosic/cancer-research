@@ -21,7 +21,7 @@ uncertainty and artifact controls?
 
 ## Current phase
 
-Twenty bounded experiments are complete:
+Twenty-one bounded experiments are complete:
 
 - `EXP-20260822-001` passed the API engineering gate: all eight frozen genes had 177
   paired Broad/Sanger models and positive source correlations.
@@ -133,6 +133,14 @@ Twenty bounded experiments are complete:
   gate with Peripheral Nervous System `+0.4333` and Prostate `+1.0`. KY planning
   power was `0.7564`, so no confirmatory, functional-TP53, KRAS-restricted,
   inhibitor, treatment, clinical, or pooled claim is permitted.
+- `EXP-20260822-021` is **T1 descriptive association only; not T2/confirmatory**
+  and is labeled **FEASIBILITY_ONLY_NOMINAL_GATE_FAILURE**. The frozen
+  damaging-matrix NF1-to-PTPN11 direction was negative in Avana (delta
+  `-0.2494`, p `0.00334`) but failed lineage consistency with Bladder/Urinary
+  Tract `+1.0` and Esophagus/Stomach `+0.5256`. KY was near zero (delta
+  `+0.0462`, p `0.6307`) and failed all substantive gates. KY planning power
+  was only `0.4028`; no functional-NF1, RAS-causal, inhibitor, treatment,
+  clinical, or confirmatory claim is permitted.
 
 A label-only provenance audit found that the CRC-only cohort has only 7 MSI Broad
 models, below the independently proposed minimum of 8. That CRC-only gate remains a
@@ -161,6 +169,7 @@ uv run candrel-tp53-mdm2-replication  # expected exit 2; T1 feasibility-only lin
 uv run candrel-cdkn2a-tyms-replication  # expected exit 2; T1 feasibility-only nominal-gate failure
 uv run candrel-pten-pik3cb-replication  # expected exit 2; T1 feasibility-only cross-source failure
 uv run python -m candrel.tp53_wee1_replication  # expected exit 2; T1 feasibility-only lineage-gate failure
+uv run python -m candrel.nf1_ptpn11_replication  # expected exit 2; T1 feasibility-only cross-source failure
 ```
 
 Raw API responses are cached under `data/raw/` and excluded from Git. Every run
