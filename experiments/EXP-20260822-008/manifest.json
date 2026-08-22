@@ -1,0 +1,52 @@
+{
+  "experiment_id": "EXP-20260822-008",
+  "parent_id": "EXP-20260822-005",
+  "frozen_at": "2026-08-22T12:16:00+02:00",
+  "analysis_type": "preregistered_derived_observational_analysis_after_endpoint_unsealing",
+  "seed": 20260828,
+  "permutation_repeats_per_panel": 100000,
+  "bootstrap_repeats_per_panel": 10000,
+  "inputs": {
+    "cohort": {
+      "file": "experiments/EXP-20260822-007/cohort.csv",
+      "sha256": "2bc84868962b35c55e456aeb953429206e97c9b25f648b5deabe5a1488e60b67"
+    },
+    "full_denominator_scores": {
+      "file": "experiments/EXP-20260822-003/results/model_scores.csv",
+      "sha256": "072dd2775d4e3bfaa480cd70639cc799c1e5914b2e9cc5213328383557680654"
+    },
+    "screen_naive_gene_score": {
+      "file": "data/raw/depmap/23q4/ScreenNaiveGeneScore.csv",
+      "sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721"
+    },
+    "common_essential_controls": {
+      "file": "data/raw/depmap/23q4/AchillesCommonEssentialControls.csv",
+      "sha256": "496c5ec9eaa2f4c13dc00fd15a8e24df253afcc5a969d3956b7dd3d987640084"
+    },
+    "nonessential_controls": {
+      "file": "data/raw/depmap/23q4/AchillesNonessentialControls.csv",
+      "sha256": "2aacca44b6a79e7240518e6adbd89c70d7d895da91cd4c8b4d380529bc5b8e5e"
+    }
+  },
+  "header_present_controls": {
+    "common_essential": 1244,
+    "nonessential": 730
+  },
+  "minimum_fully_eligible_controls": {
+    "common_essential": 996,
+    "nonessential": 584
+  },
+  "full_denominator_counts": {
+    "Avana|Large Intestine": 25,
+    "KY|Large Intestine": 30,
+    "Avana|Ovary": 22,
+    "KY|Ovary": 26
+  },
+  "paired_counts": {"Large Intestine": 17, "Ovary": 17},
+  "minimum_distinct_exposure_values_per_tissue": 10,
+  "primary_minimum_theta": 0.4,
+  "maximum_permutation_p": 0.05,
+  "minimum_bootstrap_lower": 0.1,
+  "minimum_any_tissue_rho": -0.2,
+  "code_commit_before_implementation": "e09f44aa1c2702964fc9c6389593681a62bd5ba9"
+}
