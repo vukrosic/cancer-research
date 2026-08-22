@@ -11,5 +11,6 @@
     "experiments/EXP-20260822-039/methods_audit.md"
   ],
   "seal_scope": "candidate identity, metadata-only cohort, canonical roster, composite status rule, design algorithm, seeds, thresholds, and claim contract; no PARP1 endpoint row or value",
+  "protocol_amendment": "Before endpoint access, attempt_001 exposed a two-character transcription error in the screen-map SHA-256 copied from the prior frozen contract. All five current input files were rehashed; the corrected screen-map digest matches the current file and no endpoint value was opened. The candidate identity, cohort, status rule, design, seeds, thresholds, and claim boundary are unchanged.",
   "next_allowed_action": "implementation and independent boundary audit before endpoint parsing"
 }

@@ -1,0 +1,13 @@
+{
+  "analysis_label": "FEASIBILITY_ONLY",
+  "confirmatory_claim": false,
+  "endpoint_opened": false,
+  "error": "CRISPRScreenMap.csv SHA-256 drift: 1e2bf9075600cd049dafc385866991523c65806657f3c8bd71afde3fe00ee9ad",
+  "error_type": "T0Stop",
+  "experiment_id": "EXP-20260822-039",
+  "overall_pass": false,
+  "preserved_path": null,
+  "results_written": false,
+  "status": "T0_INPUT_HASH",
+  "t0": true
+}

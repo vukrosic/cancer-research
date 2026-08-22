@@ -25,7 +25,7 @@ REQUIRED_BASE_COMMIT = "037c6d5872f24ef9a4e458fd6e8248b3aa046c57"
 EXPECTED_HASHES = {
     "endpoint": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721",
     "screen_qc": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407",
-    "screen_map": "1e2bf9075600cd049dafc385866991523c65806657c3f8bd71afde3fe00ee9ad",
+    "screen_map": "1e2bf9075600cd049dafc385866991523c65806657f3c8bd71afde3fe00ee9ad",
     "model": "6b77a73209ce3faaa7442dbd947d8e08ddcb08b538c36fe820163f9cff321341",
     "damaging": "aea4d970c0876afb90d2dc0e2709ff28be5a84e4e246f3a5a31faaba0fbc47e3",
 }
