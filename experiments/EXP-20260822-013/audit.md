@@ -54,10 +54,9 @@ The corrected numerical receipt is:
 
 The first corrected artifact review temporarily returned NO-GO only because the
 result directory and result card were untracked and `audit.md` did not yet
-exist. The release commit that adds those exact artifacts resolves that
-provenance issue. After that commit, `git ls-files` must show every EXP013
-result and documentation file, and the tracked files must reproduce the hashes
-in `result.md` and `summary.json`.
+exist. Release commit `da41e14` adds those exact artifacts. `git ls-files` now
+shows every EXP013 result and documentation file, and the tracked files reproduce
+the hashes in `result.md` and `summary.json`. This resolves the provenance issue.
 
 ## Audit claim boundary
 
