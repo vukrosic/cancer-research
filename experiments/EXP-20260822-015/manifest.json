@@ -66,8 +66,15 @@
     "max_lineage_delta": 0.2
   },
   "code_commit_before_implementation": "1c55d3e7877948d8d8a74a0564a7d7cd5ec04a5b",
+  "implementation_commit": "2135a60d89d10e9147c149c838543ebe7493e392",
+  "implementation_module": {
+    "path": "src/candrel/arid1a_replication.py",
+    "sha256": "99a77c47e53a0989c5b6928884839b64a4f9440dfb33513ff954bbaba90ff699"
+  },
   "uv_lock_sha256": "d09301a2eff28d69c3e0b504d4cdae5ed21c1e451efb92e60f360ebf047106dd",
   "outcome_loaded_only_after_context_adequacy": true,
   "outcome_loaded_only_after_pre_endpoint_receipt": true,
-  "expected_output": "experiments/EXP-20260822-015/results/summary.json"
+  "expected_output": "experiments/EXP-20260822-015/results/summary.json",
+  "pre_endpoint_receipt": "experiments/EXP-20260822-015/pre_endpoint_receipt.json",
+  "t0_provenance_directory": "experiments/EXP-20260822-015/t0_provenance"
 }

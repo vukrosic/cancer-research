@@ -43,3 +43,21 @@ claim boundary. Required amendments were:
   endpoint.
 
 The preregistration was amended with these requirements before execution.
+
+## Critic round 2 — implementation audit
+
+Independent Terra implementation critic: `01a029be-ea4b-7f51-a62a-b5963e1e1e5f`.
+
+Initial verdict: **NO-GO** for three release blockers: the implementation was
+not yet bound by commit/module digest, `inference.csv` still labeled nominal
+source rows `primary_confirmatory=True`, and a T0 stop would delete the staged
+context/design artifacts and in-memory pre-endpoint receipt. The critic also
+requested deeper artifact-schema tests.
+
+The runner was amended to bind final implementation commit
+`2135a60d89d10e9147c149c838543ebe7493e392`
+and module SHA-256 `99a77c47e53a0989c5b6928884839b64a4f9440dfb33513ff954bbaba90ff699`,
+write `pre_endpoint_receipt.json` before endpoint loading, preserve staged
+context/design files under `t0_provenance` on an endpoint T0 stop, force all
+nominal CSV flags to `False`, and validate these invariants. The focused suite
+now has 82 passing tests.
