@@ -45,7 +45,7 @@
   "uv_lock_sha256": "d09301a2eff28d69c3e0b504d4cdae5ed21c1e451efb92e60f360ebf047106dd",
   "implementation_boundary": {
     "required_base_commit": "2d425f0bba8575a8d7aab82490b4472d2dc72ee2",
-    "implementation_commit": "PENDING_IMPLEMENTATION_COMMIT",
+    "implementation_commit": "e7cef51d34752480ac92e86892118ebd49ba655a",
     "implementation_module": "src/candrel/pten_icmt_replication.py",
     "engine_module": "src/candrel/tp53_mdm2_replication.py",
     "project_file": "pyproject.toml",
