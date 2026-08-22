@@ -9,6 +9,7 @@ from candrel.pten_pik3cb_replication import (
     T0Stop,
     classify_context_stop,
     grouped_contexts,
+    verify_implementation_boundary,
     verify_endpoint_hash,
 )
 
@@ -34,3 +35,8 @@ def test_endpoint_hash_stop_is_pre_value(tmp_path: Path):
 
 def test_matrix_parse_stop_is_matrix_coverage():
     assert classify_context_stop(ValueError("non-numeric value for ('m1', 'PTEN (5728)')")) == "T0_MATRIX_COVERAGE"
+
+
+def test_manifest_binds_pre_endpoint_implementation_boundary():
+    manifest = verify_implementation_boundary(Path("experiments/EXP-20260822-019/manifest.json"))
+    assert manifest["claim_contract"] == {"analysis_label": "FEASIBILITY_ONLY", "confirmatory_claim": False, "overall_pass": False}
