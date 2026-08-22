@@ -59,6 +59,11 @@
     "minimum_tissue_rho": -0.2
   },
   "outcome_loaded_only_after_adequacy": true,
+  "amendment_before_execution": {
+    "date": "2026-08-22",
+    "reason": "The frozen parameter files are source-specific for 35 unpaired denominator records; requiring opposite-source cells for those records would make the preregistered run infeasible.",
+    "coverage_contract": "Require one finite own-source value for each of 103 denominator records and both source values for each of 34 paired models. Opposite-source values for unpaired records are not used."
+  },
   "code_commit_before_implementation": "b9f7b0436e316aeffa0d04fbcced74188bc87dfd",
   "expected_output": "experiments/EXP-20260822-013/results/summary.json"
 }

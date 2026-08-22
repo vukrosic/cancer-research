@@ -52,15 +52,18 @@ headers, unique ModelIDs, exact source columns, finite values, and domains:
 - efficacy: finite `0 < value <= 1`;
 - growth rate: finite `value > 0`.
 
-Require all 103 frozen denominator records to map exactly once to a finite value in
-both source columns. Require each tissue's paired efficacy exposure to be finite,
-nonconstant, have at least 10 distinct values, and have no tied exposure level
-containing more than 8 of 17 paired models. Stop without association or inference on
-any failure.
+Require all 103 frozen source-specific denominator records to map exactly once to a
+finite value in their own source column. The 34 paired models must have both source
+values; the 35 unpaired denominator records are not required to have an
+opposite-source value, and an opposite-source blank is expected and unused. Require
+each tissue's paired efficacy exposure to be finite, nonconstant, have at least 10
+distinct values, and have no tied exposure level containing more than 8 of 17 paired
+models. Stop without association or inference on any failure.
 
 Write the complete 103-row pre-outcome parameter ledger before loading the outcome,
-including ModelID, source, tissue, raw efficacy, raw growth rate, and each full-
-denominator within-source×tissue percentile.
+including ModelID, source, tissue, raw efficacy, raw growth rate, and each
+full-denominator within-source×tissue percentile. The ledger is source-specific for
+unpaired records and contains both source rows for each paired model.
 
 Only after all these gates pass may the implementation hash and load the EXP-005 gap
 file. Use its stored 34 WRN gaps as the sole outcome. Do not reconstruct or replace

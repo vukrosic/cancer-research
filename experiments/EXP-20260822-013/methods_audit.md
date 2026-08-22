@@ -13,9 +13,11 @@ narrow model-parameter association audit, not a novel biological cancer finding.
   ScreenID measurements.
 - Raw source units are never compared. Full source×tissue average-midranks produce
   the primary efficacy and descriptive growth exposures.
-- Both parameter files, all 103 denominator identities, domains, finite values,
+- Both parameter files, all 103 source-specific denominator identities, domains,
+  finite own-source values, both-source coverage for the 34 paired models,
   nonconstant exposures, distinct-level counts, and tied-level limits are checked
-  before the EXP-005 outcome file is opened or hashed.
+  before the EXP-005 outcome file is opened or hashed. Opposite-source blanks for
+  the 35 unpaired records are expected and unused.
 - The EXP-005 gap file is the sole hash-locked outcome; EXP-011/012 outputs are not
   reconstructed or substituted.
 - Inference uses one paired ModelID per observation, equal tissue weighting, fixed
