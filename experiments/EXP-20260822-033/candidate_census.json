@@ -1,0 +1,33 @@
+{
+  "census_id": "EXP033-candidate-shortlist-20260822",
+  "census_at": "2026-08-22T22:12:39+0200",
+  "purpose": "Outcome-free selection of a distinct ARID1A-proxy-to-ATR-dependency direction",
+  "endpoint_values_opened": false,
+  "endpoint_access": "ScreenNaiveGeneScore.csv header identity only; no ATR score row or target value parsed",
+  "eligibility_rule": "PassesQC == True, CanInclude == True, Library in {Avana, KY}, exact ScreenID-to-ModelID map, nonblank eligible OncotreeLineage",
+  "status_rule": "ARID1A damaging proxy is 1 when ARID1A (8289) matrix value is 1 or 2; reference is 0 when the matrix value is 0",
+  "selection_basis": "The selected direction tests whether a reported ARID1A-defect/ATR-inhibitor synthetic-lethal mechanism transports to genetic ATR dependency in frozen Avana and KY source families. It is a matrix proxy audit, not a functional ARID1A-loss, ATR-drug, DNA-damage, pharmacologic, clinical, or treatment claim. Both source contexts clear execution minimums, but KY planning power remains below 0.80 and permanently limits the result to feasibility-only.",
+  "distinctness_contract": {
+    "prior_experiments": ["EXP-20260822-014", "EXP-20260822-015", "EXP-20260822-016", "EXP-20260822-017", "EXP-20260822-018", "EXP-20260822-019", "EXP-20260822-020", "EXP-20260822-021", "EXP-20260822-022", "EXP-20260822-023", "EXP-20260822-024", "EXP-20260822-025", "EXP-20260822-026", "EXP-20260822-027", "EXP-20260822-028", "EXP-20260822-029", "EXP-20260822-030", "EXP-20260822-031", "EXP-20260822-032"],
+    "prior_pairs_excluded": ["STAG2_damaging_to_STAG1", "PDS5B_damaging_to_PDS5A", "ARID1A_damaging_to_ARID1B", "ARID1A_damaging_to_KEAP1", "TP53_matrix_intact_to_MDM2", "CDKN2A_damaging_to_TYMS", "PTEN_damaging_to_PIK3CB", "TP53_damaging_to_WEE1", "NF1_damaging_to_PTPN11", "EP300_damaging_to_CREBBP", "APC_damaging_to_TDO2", "KMT2D_damaging_to_KMT2C", "CDKN2A_damaging_to_PELO", "PTEN_damaging_to_PAPSS1", "ARID1A_damaging_to_EZH2", "TP53_damaging_to_TIPARP", "BRCA1_or_BRCA2_damaging_to_POLQ", "BRCA1_or_BRCA2_damaging_to_CIP2A", "SMAD4_damaging_to_BRD4", "SMAD4_damaging_to_AURKA"],
+    "current_pair": "ARID1A_damaging_to_ATR",
+    "endpoint_gene_changed": true,
+    "status_gene_changed": false,
+    "status_columns": ["ARID1A (8289)"]
+  },
+  "inputs": {
+    "screen_qc_sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407",
+    "screen_map_sha256": "1e2bf9075600cd049dafc385866991523c65806657f3c8bd71afde3fe00ee9ad",
+    "model_sha256": "6b77a73209ce3faaa7442dbd947d8e08ddcb08b538c36fe820163f9cff321341",
+    "damaging_matrix_sha256": "aea4d970c0876afb90d2dc0e2709ff28be5a84e4e246f3a5a31faaba0fbc47e3",
+    "endpoint_sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721",
+    "status_columns": ["ARID1A (8289)"],
+    "endpoint_target_column": "ATR (545)"
+  },
+  "candidate_shortlist": [
+    {"status_gene": "ARID1A", "status_column": "ARID1A (8289)", "target_gene": "ATR", "target_alias": "ataxia telangiectasia and Rad3-related", "target_column": "ATR (545)", "exposure_definition": "ARID1A damaging matrix value >= 1; reference value 0", "Avana": {"damaging": 101, "matrix_intact": 874, "mixed_lineages": 19, "planning_power": 0.8666}, "KY": {"damaging": 43, "matrix_intact": 272, "mixed_lineages": 11, "planning_power": 0.581}, "decision": "selected_distinct_arid1a_atr_genetic_transport_direction_with_permanent_feasibility_only_label", "primary_source": "https://www.nature.com/articles/ncomms13837"},
+    {"status_gene": "ARID1A", "status_column": "ARID1A (8289)", "target_gene": "TEAD1", "target_alias": "TEA domain transcription factor 1", "target_column": "TEAD1 (7003)", "exposure_definition": "same ARID1A damaging proxy", "Avana": {"damaging": 101, "matrix_intact": 874, "mixed_lineages": 19}, "KY": {"damaging": 43, "matrix_intact": 272, "mixed_lineages": 11}, "decision": "not_selected_alternative_arid1a_target_retained_for_future_metadata_only_comparison", "primary_source": "https://www.nature.com/articles/s41467-022-35378-z"}
+  ],
+  "design_model": {"normal_mean_shift": -0.358286909243, "null_permutations": 100000, "alternative_simulations": 10000, "planning_power_seeds": {"Avana": 20263300, "KY": 20263400}, "canonical_roster_sha256": "62f8bf69649eb375de12daed222a50a4bc3b3df39c40f0e614845fbab12ab9ed", "design_receipt_path": "experiments/EXP-20260822-033/design_census_receipt.json", "critical_quantile": "numpy_linear_05", "rejection_rule": "alternative_delta <= critical_delta", "confirmatory_power_threshold": 0.8, "frozen_label": "FEASIBILITY_ONLY"},
+  "literature_search": {"searched_at": "2026-08-22", "primary_sources": ["https://www.nature.com/articles/ncomms13837", "https://www.nature.com/articles/s41467-022-35378-z", "https://www.nature.com/articles/s41586-025-08815-4"], "selection_note": "The primary ARID1A study reports selective ATR-inhibitor sensitivity after ARID1A defects. EXP033 tests only an ARID1A damaging-matrix proxy against genetic ATR knockout dependency in frozen source-specific cohorts; no functional ARID1A, ATR-drug, DNA-damage, pharmacologic, treatment, clinical, or confirmatory claim is allowed."}
+}
