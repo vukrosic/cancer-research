@@ -1,0 +1,165 @@
+{
+  "analysis_label": "FEASIBILITY_ONLY",
+  "analysis_type": "preregistered_source_specific_lineage_stratified_smad4_aurka_transport_replication",
+  "artifact_receipt_sha256": {
+    "context_ledger.csv": "c1305ac91f5d1cd9064a3c00cb2980dac77b2fbf99990381ac34d25cf5d33b1e",
+    "design_sensitivity.csv": "36f1f123cba85cbccc6d673de64a80c40ad2024fc080f450c8459e8831ec24ad",
+    "endpoint_scores.csv": "18d0f2b12209e22c08f34998d13d0574bfae9b8dccad512aff3506715eafe6a5",
+    "inference.csv": "27101607c73a62ec8a92c7004516c06140efb1ee4248891c318bae63d4cd969f",
+    "summary.json": "8d66542d4c6c07529ffcaed68e1ebb93c3b9a09734bff4ec9b268665949488aa"
+  },
+  "claim_boundary": "SMAD4 damaging-matrix proxy association with source-specific AURKA dependency in frozen 23Q4 cell-line screen cohorts; no functional SMAD4-loss, AURKA-inhibitor, spindle-checkpoint, causal, pharmacologic, treatment, clinical, or confirmatory claim",
+  "claim_eligibility": {
+    "design_sensitivity_label": "FEASIBILITY_ONLY",
+    "nominal_primary_gates_pass": false,
+    "primary_confirmatory": false
+  },
+  "confirmatory_claim": false,
+  "context_receipt": {
+    "canonical_roster_sha256": "3532122677a66a5fedbd664cb452d7dcd7ea6d179556ca4df1d1dbe4a81cef62",
+    "context_ledger_sha256": "c1305ac91f5d1cd9064a3c00cb2980dac77b2fbf99990381ac34d25cf5d33b1e",
+    "damaging_sha256": "aea4d970c0876afb90d2dc0e2709ff28be5a84e4e246f3a5a31faaba0fbc47e3",
+    "eligible_screens": 1292,
+    "eligible_source_models": {
+      "Avana": 975,
+      "KY": 315
+    },
+    "mixed_lineages": {
+      "Avana": 12,
+      "KY": 6
+    },
+    "model_sha256": "6b77a73209ce3faaa7442dbd947d8e08ddcb08b538c36fe820163f9cff321341",
+    "screen_map_sha256": "1e2bf9075600cd049dafc385866991523c65806657f3c8bd71afde3fe00ee9ad",
+    "screen_qc_sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407",
+    "status_column": "SMAD4 (4089)",
+    "status_counts": {
+      "Avana": {
+        "damaging": 46,
+        "matrix_intact": 929
+      },
+      "KY": {
+        "damaging": 25,
+        "matrix_intact": 290
+      }
+    },
+    "status_threshold": 1,
+    "unique_model_ids": 1098
+  },
+  "design_sensitivity": {
+    "all_primary_sources_power_adequate": false,
+    "confirmatory_claim_enabled": false,
+    "design_sensitivity_sha256": "36f1f123cba85cbccc6d673de64a80c40ad2024fc080f450c8459e8831ec24ad",
+    "frozen_label": "FEASIBILITY_ONLY",
+    "minimum_confirmatory_power": 0.8
+  },
+  "endpoint_receipt": {
+    "eligible_screens_expected": 1292,
+    "eligible_screens_seen": 1292,
+    "median_collapse": true,
+    "model_values": 1290,
+    "sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721"
+  },
+  "experiment_id": "EXP-20260822-032",
+  "implementation_receipt": {
+    "engine_module": "src/candrel/tp53_mdm2_replication.py",
+    "implementation_commit": "8d3a697",
+    "implementation_module": "src/candrel/smad4_aurka_replication.py",
+    "manifest_path": "experiments/EXP-20260822-032/manifest.json",
+    "required_base_commit": "f248a25",
+    "uv_lock_sha256": "d09301a2eff28d69c3e0b504d4cdae5ed21c1e451efb92e60f360ebf047106dd"
+  },
+  "inference_receipt": {
+    "bootstrap_interval": "percentile_95_linear_quantile",
+    "bootstraps": 10000,
+    "cross_source_raw_score_comparison": false,
+    "design_seeds": {
+      "Avana": 20263200,
+      "KY": 20263300
+    },
+    "inference_seeds": {
+      "Avana": 20273200,
+      "KY": 20273300
+    },
+    "permutations": 100000,
+    "unit": "collapsed_source_model_id"
+  },
+  "overall_pass": false,
+  "pre_endpoint_receipt": {
+    "context_ledger_sha256": "c1305ac91f5d1cd9064a3c00cb2980dac77b2fbf99990381ac34d25cf5d33b1e",
+    "design_sensitivity_sha256": "36f1f123cba85cbccc6d673de64a80c40ad2024fc080f450c8459e8831ec24ad",
+    "experiment_id": "EXP-20260822-032",
+    "receipt_sha256": "3be8e09e1f6e5bcf6bb23c70067aa624f1ef666a0ed2fa436d08e2aeeff172e5",
+    "sealed_before_endpoint": true
+  },
+  "primary": [
+    {
+      "bootstrap_ci_95_percentile": [
+        -0.10388115631691647,
+        0.291220556745182
+      ],
+      "bootstrap_repeats": 10000,
+      "delta": 0.09528907922912205,
+      "gates": {
+        "at_least_5_negative_lineages": true,
+        "bootstrap_upper_lt_0": false,
+        "delta_le_minus_0_20": false,
+        "delta_lt_0": false,
+        "no_lineage_delta_gt_plus_0_20": false,
+        "permutation_p_le_0_05": false
+      },
+      "lineage_deltas": {
+        "Ampulla of Vater": -0.3333333333333333,
+        "Biliary Tract": 0.2,
+        "Bowel": 0.2673992673992674,
+        "Cervix": -0.8823529411764706,
+        "Esophagus/Stomach": -0.09042553191489362,
+        "Head and Neck": 0.45,
+        "Lung": -0.046296296296296294,
+        "Ovary/Fallopian Tube": -0.8043478260869565,
+        "Pancreas": 0.3931034482758621,
+        "Pleura": -0.7647058823529411,
+        "Skin": 0.0,
+        "Vulva/Vagina": 1.0
+      },
+      "pair_count": 1868,
+      "pair_id": "SMAD4_damaging_to_AURKA",
+      "pass": false,
+      "permutation_extreme_count": 82763,
+      "permutation_p_one_sided_lower": 0.8276317236827632,
+      "permutation_repeats": 100000,
+      "source": "Avana"
+    },
+    {
+      "bootstrap_ci_95_percentile": [
+        -0.12883435582822086,
+        0.3588957055214724
+      ],
+      "bootstrap_repeats": 10000,
+      "delta": 0.1196319018404908,
+      "gates": {
+        "at_least_5_negative_lineages": false,
+        "bootstrap_upper_lt_0": false,
+        "delta_le_minus_0_20": false,
+        "delta_lt_0": false,
+        "no_lineage_delta_gt_plus_0_20": false,
+        "permutation_p_le_0_05": false
+      },
+      "lineage_deltas": {
+        "Bowel": 0.552,
+        "Esophagus/Stomach": 0.16470588235294117,
+        "Head and Neck": -0.04285714285714286,
+        "Lung": -0.8378378378378378,
+        "Ovary/Fallopian Tube": -0.10256410256410256,
+        "Pancreas": 0.2549019607843137
+      },
+      "pair_count": 652,
+      "pair_id": "SMAD4_damaging_to_AURKA",
+      "pass": false,
+      "permutation_extreme_count": 82375,
+      "permutation_p_one_sided_lower": 0.8237517624823751,
+      "permutation_repeats": 100000,
+      "source": "KY"
+    }
+  ],
+  "status": "FEASIBILITY_ONLY_NOMINAL_GATE_FAILURE"
+}
