@@ -31,7 +31,6 @@ candrel-arid1a-keap1-replication = "candrel.arid1a_keap1_replication:main"
 candrel-tp53-mdm2-replication = "candrel.tp53_mdm2_replication:main"
 candrel-cdkn2a-tyms-replication = "candrel.cdkn2a_tyms_replication:main"
 candrel-pten-pik3cb-replication = "candrel.pten_pik3cb_replication:main"
-candrel-tp53-wee1-replication = "candrel.tp53_wee1_replication:main"
 
 [build-system]
 requires = ["hatchling"]

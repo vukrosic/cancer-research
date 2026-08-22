@@ -109,7 +109,7 @@ def git_blob_sha256(commit: str, path: str) -> str:
 def verify_implementation_boundary(manifest_path: Path) -> dict[str, object]:
     try:
         manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
-        if manifest["experiment_id"] != EXPERIMENT_ID or manifest["entrypoint"] != "uv run candrel-tp53-wee1-replication":
+        if manifest["experiment_id"] != EXPERIMENT_ID or manifest["entrypoint"] != ".venv/bin/python -m candrel.tp53_wee1_replication":
             raise ValueError("manifest identity/entrypoint drift")
         expected_inputs = {
             "endpoint": {"path": "data/raw/depmap/23q4/ScreenNaiveGeneScore.csv", "sha256": EXPECTED_HASHES["endpoint"], "target_column": TARGET_COLUMN},
