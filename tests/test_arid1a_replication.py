@@ -10,6 +10,7 @@ from candrel.arid1a_replication import (
     delta_from_scores,
     summary_digest,
     write_endpoint_rows,
+    write_inference,
 )
 
 
@@ -53,3 +54,23 @@ def test_endpoint_scores_remain_separate_for_same_model_in_each_source(tmp_path)
         ("Avana", "-1.0"),
         ("KY", "-2.0"),
     ]
+
+
+def test_nominal_source_receipts_are_not_confirmatory(tmp_path) -> None:
+    result = {
+        "pair_id": "ARID1A_to_ARID1B",
+        "source": "KY",
+        "delta": -0.2,
+        "pair_count": 1,
+        "permutation_extreme_count": 1,
+        "permutation_p_one_sided_lower": 0.1,
+        "bootstrap_ci_95_percentile": [-0.3, 0.1],
+        "pass": False,
+        "gates": {},
+        "lineage_deltas": {},
+    }
+    output = tmp_path / "inference.csv"
+    write_inference(output, [result])
+    with output.open(newline="", encoding="utf-8") as handle:
+        row = next(csv.DictReader(handle))
+    assert row["primary_confirmatory"] == "False"

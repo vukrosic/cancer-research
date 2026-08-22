@@ -500,7 +500,7 @@ def write_inference(path: Path, results: Sequence[dict[str, object]]) -> None:
                 {
                     "pair_id": result["pair_id"],
                     "source": result["source"],
-                    "primary_confirmatory": True,
+                    "primary_confirmatory": False,
                     "delta": result["delta"],
                     "pair_count": result["pair_count"],
                     "permutation_extreme_count": result["permutation_extreme_count"],
@@ -542,6 +542,7 @@ def run(args: argparse.Namespace, stage: Path) -> dict[str, object]:
     }
 
     pre_endpoint_payload = {
+        "experiment_id": EXPERIMENT_ID,
         "context_ledger_sha256": context_receipt["context_ledger_sha256"],
         "design_sensitivity_sha256": design_receipt["design_sensitivity_sha256"],
     }
@@ -552,6 +553,7 @@ def run(args: argparse.Namespace, stage: Path) -> dict[str, object]:
         ).hexdigest(),
         "sealed_before_endpoint": True,
     }
+    write_json_atomic(Path(args.pre_endpoint_receipt), pre_endpoint_receipt)
 
     scores, endpoint_receipt = load_endpoint(Path(args.endpoint_file), contexts)
     write_endpoint_rows(stage / "endpoint_scores.csv", contexts, scores)
@@ -595,7 +597,7 @@ def run(args: argparse.Namespace, stage: Path) -> dict[str, object]:
     return result
 
 
-def write_error(path: Path, payload: dict[str, object]) -> None:
+def write_json_atomic(path: Path, payload: dict[str, object]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     handle = tempfile.NamedTemporaryFile(mode="w", encoding="utf-8", dir=path.parent, delete=False)
     temporary = Path(handle.name)
@@ -606,6 +608,10 @@ def write_error(path: Path, payload: dict[str, object]) -> None:
     finally:
         if temporary.exists():
             temporary.unlink()
+
+
+def write_error(path: Path, payload: dict[str, object]) -> None:
+    write_json_atomic(path, payload)
 
 
 def validate_staged(stage: Path, result: dict[str, object]) -> None:
@@ -629,6 +635,8 @@ def validate_staged(stage: Path, result: dict[str, object]) -> None:
         inference_rows = list(csv.DictReader(handle))
     if len(inference_rows) != len(SOURCES) or {row["source"] for row in inference_rows} != set(SOURCES):
         raise IntegrityError("inference receipt drift")
+    if any(row["primary_confirmatory"] != "False" for row in inference_rows):
+        raise IntegrityError("feasibility-only confirmatory flag drift")
     expected_keys = {
         "experiment_id", "status", "analysis_type", "claim_eligibility", "context_receipt",
         "design_sensitivity", "pre_endpoint_receipt", "endpoint_receipt", "primary", "inference_receipt",
@@ -638,6 +646,10 @@ def validate_staged(stage: Path, result: dict[str, object]) -> None:
         raise IntegrityError("summary schema drift")
     if result["overall_pass"] != result["claim_eligibility"]["primary_confirmatory"]:
         raise IntegrityError("summary identity/pass drift")
+    if result["claim_eligibility"]["primary_confirmatory"] is not False:
+        raise IntegrityError("feasibility-only claim drift")
+    if result["pre_endpoint_receipt"]["sealed_before_endpoint"] is not True:
+        raise IntegrityError("pre-endpoint receipt seal drift")
     if set(result["artifact_receipt_sha256"]) != EXPECTED_RESULT_FILES:
         raise IntegrityError("artifact receipt key drift")
     for name in EXPECTED_RESULT_FILES - {"summary.json"}:
@@ -656,6 +668,7 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument("--damaging-file", default="data/raw/depmap/23q4/OmicsSomaticMutationsMatrixDamaging.csv")
     parser.add_argument("--results-dir", default="experiments/EXP-20260822-015/results")
     parser.add_argument("--error-receipt", default="experiments/EXP-20260822-015/error_receipt.json")
+    parser.add_argument("--pre-endpoint-receipt", default="experiments/EXP-20260822-015/pre_endpoint_receipt.json")
     return parser
 
 
@@ -669,24 +682,33 @@ def publish(args: argparse.Namespace) -> int:
     try:
         with tempfile.TemporaryDirectory(dir=target.parent, prefix=f".{target.name}.stage.") as temporary_name:
             stage = Path(temporary_name)
-            result = run(args, stage)
+            try:
+                result = run(args, stage)
+            except T0Stop as exc:
+                preserved_path = None
+                if any(stage.iterdir()):
+                    preserved = target.parent / "t0_provenance"
+                    if preserved.exists():
+                        raise IntegrityError(f"T0 provenance directory already exists: {preserved}")
+                    os.replace(stage, preserved)
+                    preserved_path = str(preserved)
+                write_error(error, {
+                    "experiment_id": EXPERIMENT_ID,
+                    "status": exc.status,
+                    "error": str(exc),
+                    "error_type": type(exc).__name__,
+                    "t0": True,
+                    "endpoint_opened": exc.endpoint_opened,
+                    "results_written": False,
+                    "preserved_path": preserved_path,
+                })
+                return 2
             result["artifact_receipt_sha256"]["summary.json"] = summary_digest(result)
             (stage / "summary.json").write_text(json.dumps(result, indent=2, sort_keys=True) + "\n", encoding="utf-8")
             validate_staged(stage, result)
             if json.loads((stage / "summary.json").read_text(encoding="utf-8")) != result:
                 raise IntegrityError("summary round-trip drift")
             os.replace(stage, target)
-    except T0Stop as exc:
-        write_error(error, {
-            "experiment_id": EXPERIMENT_ID,
-            "status": exc.status,
-            "error": str(exc),
-            "error_type": type(exc).__name__,
-            "t0": True,
-            "endpoint_opened": exc.endpoint_opened,
-            "results_written": False,
-        })
-        return 2
     except Exception as exc:
         write_error(error, {"experiment_id": EXPERIMENT_ID, "status": "ERROR_INTEGRITY", "error": str(exc), "error_type": type(exc).__name__, "results_written": False})
         return 1
