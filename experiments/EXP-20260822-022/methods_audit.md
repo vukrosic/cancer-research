@@ -28,5 +28,14 @@ remain alternative explanations.
 
 ## Execution receipt
 
-To be completed after the bound runner executes. Preserve any null,
-heterogeneous, or feasibility-only outcome without post hoc rescue.
+The bound runner completed in approximately `21.006` seconds with the required
+feasibility-only exit code `2`. Pre-endpoint boundary verification returned GO;
+the exact `CREBBP (1387)` header was verified before endpoint values were
+parsed. The terminal result is `FEASIBILITY_ONLY_NOMINAL_GATE_FAILURE`, with
+`confirmatory_claim: false` and `overall_pass: false`.
+
+Independent recomputation matched both source-specific deltas, pair counts,
+permutation p-values, bootstrap intervals, and lineage deltas. Both sources
+failed the no-positive-lineage gate. The full repository suite passed `116`
+tests. Preserve this heterogeneous feasibility-only outcome without post hoc
+rescue.

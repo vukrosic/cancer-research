@@ -21,7 +21,7 @@ uncertainty and artifact controls?
 
 ## Current phase
 
-Twenty-one bounded experiments are complete:
+Twenty-two bounded experiments are complete:
 
 - `EXP-20260822-001` passed the API engineering gate: all eight frozen genes had 177
   paired Broad/Sanger models and positive source correlations.
@@ -141,6 +141,14 @@ Twenty-one bounded experiments are complete:
   `+0.0462`, p `0.6307`) and failed all substantive gates. KY planning power
   was only `0.4028`; no functional-NF1, RAS-causal, inhibitor, treatment,
   clinical, or confirmatory claim is permitted.
+- `EXP-20260822-022` is **T1 descriptive association only; not T2/confirmatory**
+  and is labeled **FEASIBILITY_ONLY_NOMINAL_GATE_FAILURE**. The frozen
+  damaging-matrix EP300-to-CREBBP direction was strongly negative in Avana
+  (delta `-0.4172`) and KY (delta `-0.4768`), but both sources failed the
+  no-positive-lineage gate (Avana maximum `+0.4`; KY maximum `+1.0`). Both
+  source planning powers were below `0.80` (`0.7401` and `0.4984`), so no
+  functional-EP300, paralog-causal, inhibitor, treatment, clinical, or
+  confirmatory claim is permitted.
 
 A label-only provenance audit found that the CRC-only cohort has only 7 MSI Broad
 models, below the independently proposed minimum of 8. That CRC-only gate remains a
@@ -170,6 +178,7 @@ uv run candrel-cdkn2a-tyms-replication  # expected exit 2; T1 feasibility-only n
 uv run candrel-pten-pik3cb-replication  # expected exit 2; T1 feasibility-only cross-source failure
 uv run python -m candrel.tp53_wee1_replication  # expected exit 2; T1 feasibility-only lineage-gate failure
 uv run python -m candrel.nf1_ptpn11_replication  # expected exit 2; T1 feasibility-only cross-source failure
+uv run python -m candrel.ep300_crebbp_replication  # expected exit 2; T1 feasibility-only lineage-gate failure
 ```
 
 Raw API responses are cached under `data/raw/` and excluded from Git. Every run

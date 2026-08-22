@@ -1,0 +1,176 @@
+{
+  "analysis_label": "FEASIBILITY_ONLY",
+  "analysis_type": "preregistered_source_specific_lineage_stratified_ep300_crebbp_replication",
+  "artifact_receipt_sha256": {
+    "context_ledger.csv": "02e3845021772123b80c77b5317bbbffb484f88c74d2ba5c8bcbb74935563ea2",
+    "design_sensitivity.csv": "7ed684a32ae9b9c9d5290a14e236660f71187c8dc3acbba1d177eac5e32469b9",
+    "endpoint_scores.csv": "5c04bafb467a9dcbb91c2a30f29739a9ba9b0f5795a56dc74173cca320d86378",
+    "inference.csv": "8d75b782d0820d0fe7a85434356e401ad03ed7756825ab98006b007af42d0071",
+    "summary.json": "6847f52a8daab687a433c70c94e638ceee32212b1e439b65632d19b18db8dfda"
+  },
+  "claim_boundary": "damaging-matrix EP300 status association with source-specific CREBBP dependency in frozen 23Q4 screen cohorts; no functional-EP300, EP300-null, paralog-causal, inhibitor, treatment, clinical, or confirmatory claim",
+  "claim_eligibility": {
+    "design_sensitivity_label": "FEASIBILITY_ONLY",
+    "nominal_primary_gates_pass": false,
+    "primary_confirmatory": false
+  },
+  "confirmatory_claim": false,
+  "context_receipt": {
+    "canonical_roster_sha256": "9a49f37dbde7785df261c92abaf9cb9ec4ccef3c1a1f8fc524865426763407d1",
+    "context_ledger_sha256": "02e3845021772123b80c77b5317bbbffb484f88c74d2ba5c8bcbb74935563ea2",
+    "damaging_sha256": "aea4d970c0876afb90d2dc0e2709ff28be5a84e4e246f3a5a31faaba0fbc47e3",
+    "eligible_screens": 1292,
+    "eligible_source_models": {
+      "Avana": 975,
+      "KY": 315
+    },
+    "mixed_lineages": {
+      "Avana": 18,
+      "KY": 11
+    },
+    "model_sha256": "6b77a73209ce3faaa7442dbd947d8e08ddcb08b538c36fe820163f9cff321341",
+    "screen_map_sha256": "1e2bf9075600cd049dafc385866991523c65806657f3c8bd71afde3fe00ee9ad",
+    "screen_qc_sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407",
+    "status_column": "EP300 (2033)",
+    "status_counts": {
+      "Avana": {
+        "damaging": 61,
+        "matrix_intact": 914
+      },
+      "KY": {
+        "damaging": 34,
+        "matrix_intact": 281
+      }
+    },
+    "status_threshold": 1,
+    "unique_model_ids": 1098
+  },
+  "design_sensitivity": {
+    "all_primary_sources_power_adequate": false,
+    "confirmatory_claim_enabled": false,
+    "design_sensitivity_sha256": "7ed684a32ae9b9c9d5290a14e236660f71187c8dc3acbba1d177eac5e32469b9",
+    "frozen_label": "FEASIBILITY_ONLY",
+    "minimum_confirmatory_power": 0.8
+  },
+  "endpoint_receipt": {
+    "eligible_screens_expected": 1292,
+    "eligible_screens_seen": 1292,
+    "median_collapse": true,
+    "model_values": 1290,
+    "sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721"
+  },
+  "experiment_id": "EXP-20260822-022",
+  "implementation_receipt": {
+    "engine_module": "src/candrel/tp53_mdm2_replication.py",
+    "implementation_commit": "68b1771ce50b732f02130bff7b51cf9ce0693e73",
+    "implementation_module": "src/candrel/ep300_crebbp_replication.py",
+    "manifest_path": "experiments/EXP-20260822-022/manifest.json",
+    "required_base_commit": "fd8d9b52d3dc9251c841612cd7e08447fd4ab5cd",
+    "uv_lock_sha256": "d09301a2eff28d69c3e0b504d4cdae5ed21c1e451efb92e60f360ebf047106dd"
+  },
+  "inference_receipt": {
+    "bootstrap_interval": "percentile_95_linear_quantile",
+    "bootstraps": 10000,
+    "cross_source_raw_score_comparison": false,
+    "design_seeds": {
+      "Avana": 20262200,
+      "KY": 20262300
+    },
+    "inference_seeds": {
+      "Avana": 20272200,
+      "KY": 20272300
+    },
+    "permutations": 100000,
+    "unit": "collapsed_source_model_id"
+  },
+  "overall_pass": false,
+  "pre_endpoint_receipt": {
+    "context_ledger_sha256": "02e3845021772123b80c77b5317bbbffb484f88c74d2ba5c8bcbb74935563ea2",
+    "design_sensitivity_sha256": "7ed684a32ae9b9c9d5290a14e236660f71187c8dc3acbba1d177eac5e32469b9",
+    "experiment_id": "EXP-20260822-022",
+    "receipt_sha256": "daff66c8aa4509c5e8f8904db47445b1431c256dd1d3534363a39ba10ee293c8",
+    "sealed_before_endpoint": true
+  },
+  "primary": [
+    {
+      "bootstrap_ci_95_percentile": [
+        -0.5566860465116279,
+        -0.2609011627906977
+      ],
+      "bootstrap_repeats": 10000,
+      "delta": -0.4171511627906977,
+      "gates": {
+        "at_least_5_negative_lineages": true,
+        "bootstrap_upper_lt_0": true,
+        "delta_le_minus_0_20": true,
+        "delta_lt_0": true,
+        "no_lineage_delta_gt_plus_0_20": false,
+        "permutation_p_le_0_05": true
+      },
+      "lineage_deltas": {
+        "Bladder/Urinary Tract": -0.8518518518518519,
+        "Bowel": -0.45,
+        "CNS/Brain": 0.3333333333333333,
+        "Cervix": -0.5,
+        "Esophagus/Stomach": -0.8,
+        "Head and Neck": -1.0,
+        "Liver": -0.7391304347826086,
+        "Lung": -0.44871794871794873,
+        "Lymphoid": -0.4514285714285714,
+        "Myeloid": -0.17647058823529413,
+        "Ovary/Fallopian Tube": -0.2727272727272727,
+        "Pancreas": 0.4,
+        "Peripheral Nervous System": 0.2,
+        "Pleura": -0.6,
+        "Skin": -0.66875,
+        "Soft Tissue": -0.37142857142857144,
+        "Thyroid": -0.6666666666666666,
+        "Uterus": 0.18181818181818182
+      },
+      "pair_count": 2752,
+      "pair_id": "EP300_damaging_to_CREBBP",
+      "pass": false,
+      "permutation_extreme_count": 0,
+      "permutation_p_one_sided_lower": 9.99990000099999e-06,
+      "permutation_repeats": 100000,
+      "source": "Avana"
+    },
+    {
+      "bootstrap_ci_95_percentile": [
+        -0.6708860759493671,
+        -0.26863572433192684
+      ],
+      "bootstrap_repeats": 10000,
+      "delta": -0.4767932489451477,
+      "gates": {
+        "at_least_5_negative_lineages": true,
+        "bootstrap_upper_lt_0": true,
+        "delta_le_minus_0_20": true,
+        "delta_lt_0": true,
+        "no_lineage_delta_gt_plus_0_20": false,
+        "permutation_p_le_0_05": true
+      },
+      "lineage_deltas": {
+        "Bowel": -0.7799043062200957,
+        "Breast": -0.5833333333333334,
+        "CNS/Brain": -0.75,
+        "Esophagus/Stomach": -0.788235294117647,
+        "Lung": -0.42857142857142855,
+        "Lymphoid": 0.7777777777777778,
+        "Ovary/Fallopian Tube": 0.44,
+        "Pancreas": 0.047619047619047616,
+        "Prostate": 1.0,
+        "Skin": 0.3333333333333333,
+        "Uterus": -1.0
+      },
+      "pair_count": 711,
+      "pair_id": "EP300_damaging_to_CREBBP",
+      "pass": false,
+      "permutation_extreme_count": 4,
+      "permutation_p_one_sided_lower": 4.999950000499995e-05,
+      "permutation_repeats": 100000,
+      "source": "KY"
+    }
+  ],
+  "status": "FEASIBILITY_ONLY_NOMINAL_GATE_FAILURE"
+}

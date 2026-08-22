@@ -1,0 +1,1291 @@
+pair_id,source,model_id,lineage,status,target_score
+EP300_damaging_to_CREBBP,Avana,ACH-000004,Myeloid,matrix_intact,-0.624301884004502
+EP300_damaging_to_CREBBP,Avana,ACH-000005,Myeloid,matrix_intact,-0.09475806878769963
+EP300_damaging_to_CREBBP,Avana,ACH-000007,Bowel,matrix_intact,0.15507078258667206
+EP300_damaging_to_CREBBP,Avana,ACH-000009,Bowel,matrix_intact,-0.4172353836219662
+EP300_damaging_to_CREBBP,Avana,ACH-000011,Bladder/Urinary Tract,matrix_intact,-0.19327300696449776
+EP300_damaging_to_CREBBP,Avana,ACH-000012,Lung,matrix_intact,-0.503798059523335
+EP300_damaging_to_CREBBP,Avana,ACH-000013,Ovary/Fallopian Tube,matrix_intact,-0.024237003081993565
+EP300_damaging_to_CREBBP,Avana,ACH-000015,Lung,matrix_intact,-0.49805184302549455
+EP300_damaging_to_CREBBP,Avana,ACH-000017,Breast,matrix_intact,-0.2864749520438648
+EP300_damaging_to_CREBBP,Avana,ACH-000018,Bladder/Urinary Tract,matrix_intact,-0.5061404822241418
+EP300_damaging_to_CREBBP,Avana,ACH-000019,Breast,matrix_intact,-0.33429436847315896
+EP300_damaging_to_CREBBP,Avana,ACH-000021,Lung,matrix_intact,-0.22102258828549165
+EP300_damaging_to_CREBBP,Avana,ACH-000022,Pancreas,matrix_intact,-0.11041707299767055
+EP300_damaging_to_CREBBP,Avana,ACH-000024,Lymphoid,matrix_intact,-4.224735552173124
+EP300_damaging_to_CREBBP,Avana,ACH-000025,CNS/Brain,matrix_intact,1.065628224955653
+EP300_damaging_to_CREBBP,Avana,ACH-000028,Breast,matrix_intact,-0.9099248391797912
+EP300_damaging_to_CREBBP,Avana,ACH-000029,Lung,matrix_intact,0.11956550316431924
+EP300_damaging_to_CREBBP,Avana,ACH-000030,Lung,matrix_intact,0.18487071656167883
+EP300_damaging_to_CREBBP,Avana,ACH-000035,Lung,matrix_intact,-0.6765073335683808
+EP300_damaging_to_CREBBP,Avana,ACH-000036,CNS/Brain,matrix_intact,-0.20534627291938173
+EP300_damaging_to_CREBBP,Avana,ACH-000037,Soft Tissue,matrix_intact,0.0836578755601885
+EP300_damaging_to_CREBBP,Avana,ACH-000039,Bone,matrix_intact,0.46622946352671657
+EP300_damaging_to_CREBBP,Avana,ACH-000040,CNS/Brain,matrix_intact,-0.6093264134609933
+EP300_damaging_to_CREBBP,Avana,ACH-000041,Bone,matrix_intact,0.24339413950897582
+EP300_damaging_to_CREBBP,Avana,ACH-000042,Pancreas,matrix_intact,-0.8358551414949702
+EP300_damaging_to_CREBBP,Avana,ACH-000045,Myeloid,matrix_intact,-0.6701633625059604
+EP300_damaging_to_CREBBP,Avana,ACH-000047,Esophagus/Stomach,matrix_intact,-0.9007069737245437
+EP300_damaging_to_CREBBP,Avana,ACH-000048,Ovary/Fallopian Tube,matrix_intact,-0.5304588419184895
+EP300_damaging_to_CREBBP,Avana,ACH-000052,Bone,matrix_intact,0.06832389596502386
+EP300_damaging_to_CREBBP,Avana,ACH-000053,Lymphoid,matrix_intact,-0.5441572909023595
+EP300_damaging_to_CREBBP,Avana,ACH-000054,Soft Tissue,matrix_intact,0.1590755434389335
+EP300_damaging_to_CREBBP,Avana,ACH-000055,CNS/Brain,matrix_intact,-0.6184571276152157
+EP300_damaging_to_CREBBP,Avana,ACH-000060,Pancreas,damaging,-2.2240132275838924
+EP300_damaging_to_CREBBP,Avana,ACH-000067,CNS/Brain,matrix_intact,-0.3672954737790568
+EP300_damaging_to_CREBBP,Avana,ACH-000070,Lymphoid,matrix_intact,-0.253664344326749
+EP300_damaging_to_CREBBP,Avana,ACH-000074,Myeloid,matrix_intact,-0.944934082585688
+EP300_damaging_to_CREBBP,Avana,ACH-000075,CNS/Brain,matrix_intact,-0.1010352024664405
+EP300_damaging_to_CREBBP,Avana,ACH-000076,Myeloid,matrix_intact,-0.3879597908959673
+EP300_damaging_to_CREBBP,Avana,ACH-000077,Lymphoid,matrix_intact,0.026148722665482987
+EP300_damaging_to_CREBBP,Avana,ACH-000078,Peripheral Nervous System,matrix_intact,0.6058821522753625
+EP300_damaging_to_CREBBP,Avana,ACH-000082,Bone,matrix_intact,-0.19328953824053616
+EP300_damaging_to_CREBBP,Avana,ACH-000085,Pancreas,damaging,0.29586315029059584
+EP300_damaging_to_CREBBP,Avana,ACH-000086,Pleura,matrix_intact,-0.02235565352992358
+EP300_damaging_to_CREBBP,Avana,ACH-000090,Prostate,matrix_intact,0.013520955921282413
+EP300_damaging_to_CREBBP,Avana,ACH-000092,Pleura,matrix_intact,-0.2637397234850275
+EP300_damaging_to_CREBBP,Avana,ACH-000093,Pancreas,matrix_intact,-0.023583892234778372
+EP300_damaging_to_CREBBP,Avana,ACH-000095,CNS/Brain,matrix_intact,-0.21781267839137988
+EP300_damaging_to_CREBBP,Avana,ACH-000097,Breast,matrix_intact,-2.0779656846992873
+EP300_damaging_to_CREBBP,Avana,ACH-000098,CNS/Brain,matrix_intact,-1.0149944174000143
+EP300_damaging_to_CREBBP,Avana,ACH-000099,Peripheral Nervous System,matrix_intact,-1.3555705851041646
+EP300_damaging_to_CREBBP,Avana,ACH-000101,Lymphoid,matrix_intact,-0.43580655871741086
+EP300_damaging_to_CREBBP,Avana,ACH-000108,Pancreas,matrix_intact,-0.23998150691686873
+EP300_damaging_to_CREBBP,Avana,ACH-000111,Breast,matrix_intact,0.0446209394832206
+EP300_damaging_to_CREBBP,Avana,ACH-000113,Myeloid,matrix_intact,-1.0560966427657439
+EP300_damaging_to_CREBBP,Avana,ACH-000114,Pancreas,matrix_intact,0.05191657506752111
+EP300_damaging_to_CREBBP,Avana,ACH-000115,Prostate,matrix_intact,-0.1340269876902881
+EP300_damaging_to_CREBBP,Avana,ACH-000118,Pancreas,matrix_intact,-1.3579079916431251
+EP300_damaging_to_CREBBP,Avana,ACH-000120,Peripheral Nervous System,matrix_intact,-1.0010403219572326
+EP300_damaging_to_CREBBP,Avana,ACH-000123,Ovary/Fallopian Tube,matrix_intact,-0.31663272667284326
+EP300_damaging_to_CREBBP,Avana,ACH-000127,Bladder/Urinary Tract,matrix_intact,-3.4178499181349187
+EP300_damaging_to_CREBBP,Avana,ACH-000128,CNS/Brain,matrix_intact,0.6659346403685272
+EP300_damaging_to_CREBBP,Avana,ACH-000132,Ovary/Fallopian Tube,damaging,-0.691564662350058
+EP300_damaging_to_CREBBP,Avana,ACH-000133,Soft Tissue,matrix_intact,0.5084446639656806
+EP300_damaging_to_CREBBP,Avana,ACH-000137,CNS/Brain,matrix_intact,0.07713409248315803
+EP300_damaging_to_CREBBP,Avana,ACH-000138,Pancreas,matrix_intact,-0.16982545675671634
+EP300_damaging_to_CREBBP,Avana,ACH-000141,Biliary Tract,matrix_intact,0.04375810749946937
+EP300_damaging_to_CREBBP,Avana,ACH-000142,Bladder/Urinary Tract,matrix_intact,-0.6578114072936465
+EP300_damaging_to_CREBBP,Avana,ACH-000143,Lung,matrix_intact,-0.4696936509143707
+EP300_damaging_to_CREBBP,Avana,ACH-000145,Soft Tissue,matrix_intact,-0.018897513438551682
+EP300_damaging_to_CREBBP,Avana,ACH-000146,Myeloid,matrix_intact,-0.19630324960914708
+EP300_damaging_to_CREBBP,Avana,ACH-000147,Breast,matrix_intact,-0.5004307580095415
+EP300_damaging_to_CREBBP,Avana,ACH-000148,Breast,matrix_intact,-0.46330431729837507
+EP300_damaging_to_CREBBP,Avana,ACH-000151,Lymphoid,matrix_intact,-0.5174040518303169
+EP300_damaging_to_CREBBP,Avana,ACH-000152,CNS/Brain,matrix_intact,0.590423990363544
+EP300_damaging_to_CREBBP,Avana,ACH-000153,Pleura,matrix_intact,-0.3850191676614622
+EP300_damaging_to_CREBBP,Avana,ACH-000159,Kidney,matrix_intact,0.49360596953514124
+EP300_damaging_to_CREBBP,Avana,ACH-000160,CNS/Brain,matrix_intact,-0.8537920466868072
+EP300_damaging_to_CREBBP,Avana,ACH-000161,Lung,matrix_intact,-0.15905288403397927
+EP300_damaging_to_CREBBP,Avana,ACH-000163,Head and Neck,matrix_intact,-1.1692293791186374
+EP300_damaging_to_CREBBP,Avana,ACH-000164,Pancreas,matrix_intact,-0.8220159690586155
+EP300_damaging_to_CREBBP,Avana,ACH-000168,Myeloid,matrix_intact,-0.10005489844977067
+EP300_damaging_to_CREBBP,Avana,ACH-000169,Soft Tissue,matrix_intact,0.22940635142839663
+EP300_damaging_to_CREBBP,Avana,ACH-000174,Thyroid,damaging,-2.3110204244383574
+EP300_damaging_to_CREBBP,Avana,ACH-000178,Pancreas,matrix_intact,-1.2023079384956454
+EP300_damaging_to_CREBBP,Avana,ACH-000182,Ampulla of Vater,matrix_intact,-1.3886016488273425
+EP300_damaging_to_CREBBP,Avana,ACH-000183,Lymphoid,matrix_intact,0.04889432556997514
+EP300_damaging_to_CREBBP,Avana,ACH-000187,Lung,matrix_intact,-0.05990623162935804
+EP300_damaging_to_CREBBP,Avana,ACH-000188,Head and Neck,matrix_intact,0.6451486941017621
+EP300_damaging_to_CREBBP,Avana,ACH-000189,Kidney,matrix_intact,-0.03632963448873553
+EP300_damaging_to_CREBBP,Avana,ACH-000190,Myeloid,matrix_intact,-0.915237975618155
+EP300_damaging_to_CREBBP,Avana,ACH-000191,Thyroid,matrix_intact,-0.13929297268866353
+EP300_damaging_to_CREBBP,Avana,ACH-000195,Myeloid,matrix_intact,-0.13711467874390643
+EP300_damaging_to_CREBBP,Avana,ACH-000198,Myeloid,matrix_intact,0.1659300491710494
+EP300_damaging_to_CREBBP,Avana,ACH-000200,CNS/Brain,matrix_intact,-0.009793722316639553
+EP300_damaging_to_CREBBP,Avana,ACH-000202,Bowel,matrix_intact,0.20752454783314467
+EP300_damaging_to_CREBBP,Avana,ACH-000204,Lymphoid,matrix_intact,-0.9323363344158082
+EP300_damaging_to_CREBBP,Avana,ACH-000206,Lymphoid,matrix_intact,-0.6204378730889109
+EP300_damaging_to_CREBBP,Avana,ACH-000207,Head and Neck,matrix_intact,-0.3044039562389274
+EP300_damaging_to_CREBBP,Avana,ACH-000209,Biliary Tract,matrix_intact,-0.7409287371541446
+EP300_damaging_to_CREBBP,Avana,ACH-000211,CNS/Brain,matrix_intact,0.48453000477341
+EP300_damaging_to_CREBBP,Avana,ACH-000212,Breast,matrix_intact,-0.7304836606644307
+EP300_damaging_to_CREBBP,Avana,ACH-000215,CNS/Brain,matrix_intact,-0.053960468848194
+EP300_damaging_to_CREBBP,Avana,ACH-000216,Esophagus/Stomach,matrix_intact,-0.14382312133531538
+EP300_damaging_to_CREBBP,Avana,ACH-000217,Liver,matrix_intact,0.05776073426239628
+EP300_damaging_to_CREBBP,Avana,ACH-000219,Skin,damaging,-1.0292082990805997
+EP300_damaging_to_CREBBP,Avana,ACH-000221,Liver,matrix_intact,-0.34257854898849605
+EP300_damaging_to_CREBBP,Avana,ACH-000222,Pancreas,matrix_intact,0.09756311323514466
+EP300_damaging_to_CREBBP,Avana,ACH-000223,Breast,matrix_intact,0.34143537257580203
+EP300_damaging_to_CREBBP,Avana,ACH-000226,Lymphoid,matrix_intact,0.11283493212384446
+EP300_damaging_to_CREBBP,Avana,ACH-000227,Peripheral Nervous System,matrix_intact,-0.20408097789314594
+EP300_damaging_to_CREBBP,Avana,ACH-000228,Head and Neck,matrix_intact,-0.014831867216031414
+EP300_damaging_to_CREBBP,Avana,ACH-000231,CNS/Brain,matrix_intact,-0.4710037011472109
+EP300_damaging_to_CREBBP,Avana,ACH-000232,CNS/Brain,matrix_intact,0.2595748849240388
+EP300_damaging_to_CREBBP,Avana,ACH-000233,Lymphoid,matrix_intact,-0.5118535176159225
+EP300_damaging_to_CREBBP,Avana,ACH-000234,Kidney,matrix_intact,0.06460374089371426
+EP300_damaging_to_CREBBP,Avana,ACH-000235,Pancreas,matrix_intact,-0.033252835895948435
+EP300_damaging_to_CREBBP,Avana,ACH-000237,Ovary/Fallopian Tube,matrix_intact,0.1743602340926609
+EP300_damaging_to_CREBBP,Avana,ACH-000238,Head and Neck,matrix_intact,0.18883886266284128
+EP300_damaging_to_CREBBP,Avana,ACH-000243,Pancreas,matrix_intact,-1.1630827581721086
+EP300_damaging_to_CREBBP,Avana,ACH-000244,CNS/Brain,matrix_intact,0.08970787321389295
+EP300_damaging_to_CREBBP,Avana,ACH-000246,Kidney,matrix_intact,-0.7754109166571441
+EP300_damaging_to_CREBBP,Avana,ACH-000247,Esophagus/Stomach,matrix_intact,-3.45579986999955
+EP300_damaging_to_CREBBP,Avana,ACH-000248,Breast,matrix_intact,-0.016552277618907978
+EP300_damaging_to_CREBBP,Avana,ACH-000250,Kidney,matrix_intact,-0.506919756747704
+EP300_damaging_to_CREBBP,Avana,ACH-000251,Lung,matrix_intact,-0.1356952877136357
+EP300_damaging_to_CREBBP,Avana,ACH-000252,Bowel,matrix_intact,-0.3630734540435357
+EP300_damaging_to_CREBBP,Avana,ACH-000253,Bowel,matrix_intact,-0.44117700014795863
+EP300_damaging_to_CREBBP,Avana,ACH-000255,Esophagus/Stomach,matrix_intact,0.9158981044622938
+EP300_damaging_to_CREBBP,Avana,ACH-000256,Ovary/Fallopian Tube,matrix_intact,0.3169941350900718
+EP300_damaging_to_CREBBP,Avana,ACH-000257,Lung,matrix_intact,-0.41234172524962576
+EP300_damaging_to_CREBBP,Avana,ACH-000258,Breast,matrix_intact,-0.4577282923468573
+EP300_damaging_to_CREBBP,Avana,ACH-000259,Peripheral Nervous System,matrix_intact,0.13238588059600137
+EP300_damaging_to_CREBBP,Avana,ACH-000260,Peripheral Nervous System,matrix_intact,-0.4474615549580675
+EP300_damaging_to_CREBBP,Avana,ACH-000261,Lung,matrix_intact,-2.1685511436623957
+EP300_damaging_to_CREBBP,Avana,ACH-000262,Kidney,matrix_intact,-0.13233086330147928
+EP300_damaging_to_CREBBP,Avana,ACH-000263,Myeloid,matrix_intact,-0.09032044743623932
+EP300_damaging_to_CREBBP,Avana,ACH-000264,Lung,matrix_intact,-0.2340621802055693
+EP300_damaging_to_CREBBP,Avana,ACH-000265,Pancreas,matrix_intact,-0.48103695674369884
+EP300_damaging_to_CREBBP,Avana,ACH-000266,Pancreas,matrix_intact,0.6089274347421765
+EP300_damaging_to_CREBBP,Avana,ACH-000272,Kidney,matrix_intact,-0.37566484327732386
+EP300_damaging_to_CREBBP,Avana,ACH-000273,CNS/Brain,matrix_intact,0.08418389358546369
+EP300_damaging_to_CREBBP,Avana,ACH-000274,Skin,matrix_intact,0.06061098824354094
+EP300_damaging_to_CREBBP,Avana,ACH-000276,Breast,matrix_intact,-0.6186228627618274
+EP300_damaging_to_CREBBP,Avana,ACH-000277,Breast,matrix_intact,-0.3794673376265455
+EP300_damaging_to_CREBBP,Avana,ACH-000278,Ovary/Fallopian Tube,matrix_intact,0.6006134512507524
+EP300_damaging_to_CREBBP,Avana,ACH-000279,Bone,matrix_intact,-0.4711464718335061
+EP300_damaging_to_CREBBP,Avana,ACH-000280,Ovary/Fallopian Tube,matrix_intact,-0.43186607590181103
+EP300_damaging_to_CREBBP,Avana,ACH-000281,Pancreas,matrix_intact,0.4742193355747373
+EP300_damaging_to_CREBBP,Avana,ACH-000286,Bowel,matrix_intact,-0.4776200394536225
+EP300_damaging_to_CREBBP,Avana,ACH-000288,Breast,matrix_intact,0.051051564024810495
+EP300_damaging_to_CREBBP,Avana,ACH-000290,Lung,matrix_intact,0.03985143199391891
+EP300_damaging_to_CREBBP,Avana,ACH-000291,Ovary/Fallopian Tube,matrix_intact,-1.4177113557398888
+EP300_damaging_to_CREBBP,Avana,ACH-000292,Lung,matrix_intact,-0.1855597010371892
+EP300_damaging_to_CREBBP,Avana,ACH-000293,Uterus,matrix_intact,-0.06680957240862627
+EP300_damaging_to_CREBBP,Avana,ACH-000294,Myeloid,matrix_intact,0.16874587257157747
+EP300_damaging_to_CREBBP,Avana,ACH-000295,Myeloid,matrix_intact,-0.20623138520240317
+EP300_damaging_to_CREBBP,Avana,ACH-000296,Bowel,matrix_intact,-0.8823646894807116
+EP300_damaging_to_CREBBP,Avana,ACH-000302,Uterus,matrix_intact,0.6189705012626212
+EP300_damaging_to_CREBBP,Avana,ACH-000303,Esophagus/Stomach,matrix_intact,-1.1629768484802465
+EP300_damaging_to_CREBBP,Avana,ACH-000304,Skin,matrix_intact,-0.08851736400555629
+EP300_damaging_to_CREBBP,Avana,ACH-000305,Esophagus/Stomach,matrix_intact,-0.3499862044596549
+EP300_damaging_to_CREBBP,Avana,ACH-000307,Pancreas,matrix_intact,-0.7899269339573212
+EP300_damaging_to_CREBBP,Avana,ACH-000308,Ovary/Fallopian Tube,matrix_intact,-0.17324043562902522
+EP300_damaging_to_CREBBP,Avana,ACH-000310,Peripheral Nervous System,matrix_intact,0.18035940233014128
+EP300_damaging_to_CREBBP,Avana,ACH-000311,Lung,matrix_intact,0.39939885725745183
+EP300_damaging_to_CREBBP,Avana,ACH-000312,Peripheral Nervous System,matrix_intact,-0.02739314769983936
+EP300_damaging_to_CREBBP,Avana,ACH-000313,Kidney,matrix_intact,-0.46861879029396064
+EP300_damaging_to_CREBBP,Avana,ACH-000315,Lymphoid,damaging,-0.7012043730948839
+EP300_damaging_to_CREBBP,Avana,ACH-000316,Liver,matrix_intact,-0.1171471400370257
+EP300_damaging_to_CREBBP,Avana,ACH-000317,Kidney,matrix_intact,0.1275444793473457
+EP300_damaging_to_CREBBP,Avana,ACH-000318,Esophagus/Stomach,matrix_intact,-0.31716582512088687
+EP300_damaging_to_CREBBP,Avana,ACH-000319,Pleura,matrix_intact,-0.018275478069170063
+EP300_damaging_to_CREBBP,Avana,ACH-000320,Pancreas,matrix_intact,-0.05245100153982827
+EP300_damaging_to_CREBBP,Avana,ACH-000322,Skin,matrix_intact,-0.0725296298218735
+EP300_damaging_to_CREBBP,Avana,ACH-000323,CNS/Brain,matrix_intact,-0.9368580040808392
+EP300_damaging_to_CREBBP,Avana,ACH-000324,Ovary/Fallopian Tube,matrix_intact,-0.3570505898260482
+EP300_damaging_to_CREBBP,Avana,ACH-000325,Esophagus/Stomach,matrix_intact,-0.34088127348196184
+EP300_damaging_to_CREBBP,Avana,ACH-000326,Myeloid,matrix_intact,-0.5926131500346496
+EP300_damaging_to_CREBBP,Avana,ACH-000329,CNS/Brain,matrix_intact,-0.12980935648662356
+EP300_damaging_to_CREBBP,Avana,ACH-000330,Breast,matrix_intact,-0.3954724543600774
+EP300_damaging_to_CREBBP,Avana,ACH-000331,Pleura,matrix_intact,0.07540149598709134
+EP300_damaging_to_CREBBP,Avana,ACH-000332,Pancreas,matrix_intact,-1.3876588550800708
+EP300_damaging_to_CREBBP,Avana,ACH-000334,Lymphoid,matrix_intact,0.15159928835716757
+EP300_damaging_to_CREBBP,Avana,ACH-000335,Pleura,matrix_intact,-0.2544853511389644
+EP300_damaging_to_CREBBP,Avana,ACH-000336,Myeloid,matrix_intact,-0.06133096006949665
+EP300_damaging_to_CREBBP,Avana,ACH-000337,Lung,matrix_intact,0.6103506430715075
+EP300_damaging_to_CREBBP,Avana,ACH-000339,Lung,matrix_intact,-0.11841870821581499
+EP300_damaging_to_CREBBP,Avana,ACH-000341,Peripheral Nervous System,matrix_intact,0.11379181097094147
+EP300_damaging_to_CREBBP,Avana,ACH-000343,Lung,matrix_intact,-0.17344924017436947
+EP300_damaging_to_CREBBP,Avana,ACH-000344,Esophagus/Stomach,matrix_intact,0.5777317626719701
+EP300_damaging_to_CREBBP,Avana,ACH-000346,Lymphoid,matrix_intact,0.34638797448052644
+EP300_damaging_to_CREBBP,Avana,ACH-000348,Skin,matrix_intact,-0.2471426258412891
+EP300_damaging_to_CREBBP,Avana,ACH-000350,Bowel,matrix_intact,-0.9961120696300991
+EP300_damaging_to_CREBBP,Avana,ACH-000352,Breast,matrix_intact,-0.6153624697017945
+EP300_damaging_to_CREBBP,Avana,ACH-000355,Lung,matrix_intact,0.638975640992772
+EP300_damaging_to_CREBBP,Avana,ACH-000356,Esophagus/Stomach,matrix_intact,0.10913315923715002
+EP300_damaging_to_CREBBP,Avana,ACH-000359,Bone,matrix_intact,-0.5302887882423128
+EP300_damaging_to_CREBBP,Avana,ACH-000361,Liver,matrix_intact,-0.6715950541710771
+EP300_damaging_to_CREBBP,Avana,ACH-000362,Myeloid,matrix_intact,0.002487196051431509
+EP300_damaging_to_CREBBP,Avana,ACH-000363,Lymphoid,matrix_intact,-0.7149821937167102
+EP300_damaging_to_CREBBP,Avana,ACH-000364,Bone,matrix_intact,0.18633172572123688
+EP300_damaging_to_CREBBP,Avana,ACH-000365,Lymphoid,matrix_intact,0.6883870802921175
+EP300_damaging_to_CREBBP,Avana,ACH-000366,Peripheral Nervous System,matrix_intact,-0.3430723164138154
+EP300_damaging_to_CREBBP,Avana,ACH-000368,CNS/Brain,matrix_intact,-0.010976724306447583
+EP300_damaging_to_CREBBP,Avana,ACH-000370,CNS/Brain,matrix_intact,0.04335088432461116
+EP300_damaging_to_CREBBP,Avana,ACH-000371,Lymphoid,damaging,-1.0960179660414155
+EP300_damaging_to_CREBBP,Avana,ACH-000374,Breast,matrix_intact,0.36907798735538844
+EP300_damaging_to_CREBBP,Avana,ACH-000375,Kidney,matrix_intact,-0.5554019119612916
+EP300_damaging_to_CREBBP,Avana,ACH-000376,CNS/Brain,matrix_intact,-0.60052877868196
+EP300_damaging_to_CREBBP,Avana,ACH-000377,Ampulla of Vater,matrix_intact,-0.6492724357764603
+EP300_damaging_to_CREBBP,Avana,ACH-000378,Lung,matrix_intact,-0.1742523306677763
+EP300_damaging_to_CREBBP,Avana,ACH-000381,Bowel,matrix_intact,0.12986255030838773
+EP300_damaging_to_CREBBP,Avana,ACH-000383,Esophagus/Stomach,matrix_intact,-0.7108745667328151
+EP300_damaging_to_CREBBP,Avana,ACH-000385,Kidney,matrix_intact,0.054693413285096665
+EP300_damaging_to_CREBBP,Avana,ACH-000387,Myeloid,matrix_intact,-0.1504440523901031
+EP300_damaging_to_CREBBP,Avana,ACH-000389,CNS/Brain,matrix_intact,-1.4814713539409619
+EP300_damaging_to_CREBBP,Avana,ACH-000390,Lung,matrix_intact,0.035448702430357984
+EP300_damaging_to_CREBBP,Avana,ACH-000391,Bone,matrix_intact,0.23930579059667695
+EP300_damaging_to_CREBBP,Avana,ACH-000393,Liver,matrix_intact,-0.37258662764845546
+EP300_damaging_to_CREBBP,Avana,ACH-000395,Lung,matrix_intact,-0.01748386735064289
+EP300_damaging_to_CREBBP,Avana,ACH-000396,Bladder/Urinary Tract,matrix_intact,-0.02118313598810842
+EP300_damaging_to_CREBBP,Avana,ACH-000397,Uterus,matrix_intact,-0.42935236813801037
+EP300_damaging_to_CREBBP,Avana,ACH-000398,Lymphoid,matrix_intact,-0.921676115216849
+EP300_damaging_to_CREBBP,Avana,ACH-000401,Skin,matrix_intact,-0.09805457543105495
+EP300_damaging_to_CREBBP,Avana,ACH-000402,Lymphoid,matrix_intact,-0.07262436210944842
+EP300_damaging_to_CREBBP,Avana,ACH-000403,Bowel,matrix_intact,-0.3283074612252731
+EP300_damaging_to_CREBBP,Avana,ACH-000404,Skin,matrix_intact,0.572472552218442
+EP300_damaging_to_CREBBP,Avana,ACH-000405,Lymphoid,matrix_intact,-0.38950675910133326
+EP300_damaging_to_CREBBP,Avana,ACH-000406,Myeloid,matrix_intact,-0.12602597512946453
+EP300_damaging_to_CREBBP,Avana,ACH-000407,Uterus,matrix_intact,-0.1783804311548049
+EP300_damaging_to_CREBBP,Avana,ACH-000408,Esophagus/Stomach,matrix_intact,-0.11532566050174736
+EP300_damaging_to_CREBBP,Avana,ACH-000410,Bone,matrix_intact,0.10102914309069584
+EP300_damaging_to_CREBBP,Avana,ACH-000411,Kidney,matrix_intact,-0.8322856433006137
+EP300_damaging_to_CREBBP,Avana,ACH-000414,Lung,matrix_intact,-0.2003494970163961
+EP300_damaging_to_CREBBP,Avana,ACH-000415,Head and Neck,matrix_intact,-0.3676789890073823
+EP300_damaging_to_CREBBP,Avana,ACH-000416,Lung,matrix_intact,-0.27046610811263916
+EP300_damaging_to_CREBBP,Avana,ACH-000417,Pancreas,matrix_intact,-0.3452376063356892
+EP300_damaging_to_CREBBP,Avana,ACH-000420,Liver,matrix_intact,-0.03192928019315704
+EP300_damaging_to_CREBBP,Avana,ACH-000421,Bowel,matrix_intact,-0.39605521073861333
+EP300_damaging_to_CREBBP,Avana,ACH-000422,Liver,matrix_intact,0.010760730648711192
+EP300_damaging_to_CREBBP,Avana,ACH-000424,Bone,matrix_intact,0.14701292659858572
+EP300_damaging_to_CREBBP,Avana,ACH-000425,Skin,matrix_intact,0.03936211971739434
+EP300_damaging_to_CREBBP,Avana,ACH-000426,Lymphoid,matrix_intact,-0.8326403637321103
+EP300_damaging_to_CREBBP,Avana,ACH-000427,Esophagus/Stomach,matrix_intact,0.1446346863162486
+EP300_damaging_to_CREBBP,Avana,ACH-000431,Lung,matrix_intact,0.1696315502098829
+EP300_damaging_to_CREBBP,Avana,ACH-000433,Kidney,matrix_intact,-0.4960613782119313
+EP300_damaging_to_CREBBP,Avana,ACH-000434,Lung,matrix_intact,-0.25275681507691455
+EP300_damaging_to_CREBBP,Avana,ACH-000435,Uterus,matrix_intact,0.0569568779297249
+EP300_damaging_to_CREBBP,Avana,ACH-000436,Lymphoid,matrix_intact,-0.25549186125525786
+EP300_damaging_to_CREBBP,Avana,ACH-000437,CNS/Brain,matrix_intact,-0.35492217642818646
+EP300_damaging_to_CREBBP,Avana,ACH-000438,Lung,matrix_intact,-0.5989845084515255
+EP300_damaging_to_CREBBP,Avana,ACH-000441,Skin,matrix_intact,-0.2629521982568983
+EP300_damaging_to_CREBBP,Avana,ACH-000444,Lung,damaging,-1.5029213995318669
+EP300_damaging_to_CREBBP,Avana,ACH-000445,CNS/Brain,matrix_intact,-0.21395931859030076
+EP300_damaging_to_CREBBP,Avana,ACH-000448,Lung,matrix_intact,-0.768410668854663
+EP300_damaging_to_CREBBP,Avana,ACH-000450,Skin,matrix_intact,-0.18155040706312145
+EP300_damaging_to_CREBBP,Avana,ACH-000452,Esophagus/Stomach,matrix_intact,-1.8117223011297907
+EP300_damaging_to_CREBBP,Avana,ACH-000454,Lung,matrix_intact,0.15090819721014614
+EP300_damaging_to_CREBBP,Avana,ACH-000455,CNS/Brain,matrix_intact,-0.016564787355180327
+EP300_damaging_to_CREBBP,Avana,ACH-000456,Thyroid,matrix_intact,-0.1556435383109282
+EP300_damaging_to_CREBBP,Avana,ACH-000458,Skin,matrix_intact,-0.43854978575724246
+EP300_damaging_to_CREBBP,Avana,ACH-000459,Kidney,matrix_intact,-0.04077527475148662
+EP300_damaging_to_CREBBP,Avana,ACH-000460,Ovary/Fallopian Tube,matrix_intact,-0.42724215163583956
+EP300_damaging_to_CREBBP,Avana,ACH-000461,Biliary Tract,matrix_intact,-0.22509812647845964
+EP300_damaging_to_CREBBP,Avana,ACH-000463,Lung,matrix_intact,-0.5544216302844126
+EP300_damaging_to_CREBBP,Avana,ACH-000464,CNS/Brain,matrix_intact,-0.1607446609768756
+EP300_damaging_to_CREBBP,Avana,ACH-000466,Esophagus/Stomach,matrix_intact,-0.20629164470734815
+EP300_damaging_to_CREBBP,Avana,ACH-000467,Bowel,matrix_intact,-0.47972777759305646
+EP300_damaging_to_CREBBP,Avana,ACH-000468,Pancreas,matrix_intact,0.4047593707348861
+EP300_damaging_to_CREBBP,Avana,ACH-000469,CNS/Brain,matrix_intact,0.3927618917998497
+EP300_damaging_to_CREBBP,Avana,ACH-000470,Bowel,matrix_intact,0.07557156810643839
+EP300_damaging_to_CREBBP,Avana,ACH-000471,Liver,matrix_intact,-1.6077884366499318
+EP300_damaging_to_CREBBP,Avana,ACH-000472,Head and Neck,matrix_intact,-0.06826196789501082
+EP300_damaging_to_CREBBP,Avana,ACH-000473,Bladder/Urinary Tract,matrix_intact,-0.2831700832958157
+EP300_damaging_to_CREBBP,Avana,ACH-000475,Liver,matrix_intact,-0.2591956203938061
+EP300_damaging_to_CREBBP,Avana,ACH-000476,Liver,matrix_intact,0.227890815868769
+EP300_damaging_to_CREBBP,Avana,ACH-000477,Skin,matrix_intact,0.05364712580251804
+EP300_damaging_to_CREBBP,Avana,ACH-000478,Liver,matrix_intact,-0.20040549278222342
+EP300_damaging_to_CREBBP,Avana,ACH-000479,CNS/Brain,matrix_intact,0.5050766925079154
+EP300_damaging_to_CREBBP,Avana,ACH-000480,Liver,matrix_intact,-0.35393506585488144
+EP300_damaging_to_CREBBP,Avana,ACH-000481,Lung,matrix_intact,-0.04591269160439221
+EP300_damaging_to_CREBBP,Avana,ACH-000483,Liver,matrix_intact,-0.6797660501404827
+EP300_damaging_to_CREBBP,Avana,ACH-000484,Kidney,matrix_intact,-0.9237149617384339
+EP300_damaging_to_CREBBP,Avana,ACH-000485,Esophagus/Stomach,matrix_intact,0.6587437966421796
+EP300_damaging_to_CREBBP,Avana,ACH-000486,Bladder/Urinary Tract,damaging,-0.864242033616601
+EP300_damaging_to_CREBBP,Avana,ACH-000487,Myeloid,matrix_intact,1.8337836246576322
+EP300_damaging_to_CREBBP,Avana,ACH-000488,Esophagus/Stomach,matrix_intact,-0.8517091423202547
+EP300_damaging_to_CREBBP,Avana,ACH-000489,Bowel,matrix_intact,-0.5883059105953583
+EP300_damaging_to_CREBBP,Avana,ACH-000490,Cervix,matrix_intact,0.2869218087039486
+EP300_damaging_to_CREBBP,Avana,ACH-000491,Bowel,matrix_intact,-0.8512787154778628
+EP300_damaging_to_CREBBP,Avana,ACH-000493,Liver,matrix_intact,-0.03975738752157551
+EP300_damaging_to_CREBBP,Avana,ACH-000495,Kidney,matrix_intact,0.10843305311584484
+EP300_damaging_to_CREBBP,Avana,ACH-000496,Lung,matrix_intact,0.01051453076137153
+EP300_damaging_to_CREBBP,Avana,ACH-000499,Bone,matrix_intact,0.04241238319316975
+EP300_damaging_to_CREBBP,Avana,ACH-000500,Head and Neck,matrix_intact,0.002651963645701968
+EP300_damaging_to_CREBBP,Avana,ACH-000502,Pancreas,matrix_intact,-0.5893832973096261
+EP300_damaging_to_CREBBP,Avana,ACH-000503,Head and Neck,matrix_intact,0.17120197288536204
+EP300_damaging_to_CREBBP,Avana,ACH-000504,CNS/Brain,matrix_intact,-0.11688058904731677
+EP300_damaging_to_CREBBP,Avana,ACH-000505,Soft Tissue,matrix_intact,0.15087568293270162
+EP300_damaging_to_CREBBP,Avana,ACH-000507,Esophagus/Stomach,matrix_intact,-0.19307850326632575
+EP300_damaging_to_CREBBP,Avana,ACH-000510,Lung,matrix_intact,-0.17898849620465201
+EP300_damaging_to_CREBBP,Avana,ACH-000511,Lung,matrix_intact,0.35272693074707784
+EP300_damaging_to_CREBBP,Avana,ACH-000512,Lymphoid,matrix_intact,-0.9784880121529208
+EP300_damaging_to_CREBBP,Avana,ACH-000514,Lung,matrix_intact,-0.06577876845271789
+EP300_damaging_to_CREBBP,Avana,ACH-000516,Bone,matrix_intact,-0.8778262802739007
+EP300_damaging_to_CREBBP,Avana,ACH-000517,Pancreas,matrix_intact,1.3194084700871604
+EP300_damaging_to_CREBBP,Avana,ACH-000518,Head and Neck,matrix_intact,0.05272845308486886
+EP300_damaging_to_CREBBP,Avana,ACH-000520,Ovary/Fallopian Tube,matrix_intact,0.5546468999696685
+EP300_damaging_to_CREBBP,Avana,ACH-000521,Lung,matrix_intact,0.192948271376715
+EP300_damaging_to_CREBBP,Avana,ACH-000522,Bladder/Urinary Tract,matrix_intact,0.8566300863412502
+EP300_damaging_to_CREBBP,Avana,ACH-000524,Ovary/Fallopian Tube,matrix_intact,0.07110970352385561
+EP300_damaging_to_CREBBP,Avana,ACH-000525,Lung,matrix_intact,-0.07604184511548907
+EP300_damaging_to_CREBBP,Avana,ACH-000527,Ovary/Fallopian Tube,matrix_intact,-0.9290729506771405
+EP300_damaging_to_CREBBP,Avana,ACH-000528,Lung,matrix_intact,-0.13038968965551734
+EP300_damaging_to_CREBBP,Avana,ACH-000532,Bowel,matrix_intact,-0.3926261529584485
+EP300_damaging_to_CREBBP,Avana,ACH-000533,Kidney,matrix_intact,-0.3028904000428928
+EP300_damaging_to_CREBBP,Avana,ACH-000535,Pancreas,damaging,1.389581294804087
+EP300_damaging_to_CREBBP,Avana,ACH-000537,Liver,matrix_intact,0.1127303602172747
+EP300_damaging_to_CREBBP,Avana,ACH-000541,Lymphoid,matrix_intact,-0.5375651149737513
+EP300_damaging_to_CREBBP,Avana,ACH-000542,Ovary/Fallopian Tube,matrix_intact,-0.7108002886720521
+EP300_damaging_to_CREBBP,Avana,ACH-000544,Esophagus/Stomach,matrix_intact,-0.14045379932344415
+EP300_damaging_to_CREBBP,Avana,ACH-000545,Bladder/Urinary Tract,damaging,-0.3495429304368236
+EP300_damaging_to_CREBBP,Avana,ACH-000547,Bladder/Urinary Tract,matrix_intact,-0.17988449087490244
+EP300_damaging_to_CREBBP,Avana,ACH-000548,Head and Neck,matrix_intact,-0.5012374542325166
+EP300_damaging_to_CREBBP,Avana,ACH-000549,Head and Neck,matrix_intact,-0.09812503157285485
+EP300_damaging_to_CREBBP,Avana,ACH-000550,Skin,matrix_intact,-0.2913382340772266
+EP300_damaging_to_CREBBP,Avana,ACH-000551,Myeloid,matrix_intact,-0.47608525825410686
+EP300_damaging_to_CREBBP,Avana,ACH-000552,Bowel,matrix_intact,0.12153365069402339
+EP300_damaging_to_CREBBP,Avana,ACH-000556,Cervix,matrix_intact,-2.2149928520429922
+EP300_damaging_to_CREBBP,Avana,ACH-000557,Myeloid,matrix_intact,0.3956336738204125
+EP300_damaging_to_CREBBP,Avana,ACH-000559,Lung,matrix_intact,0.01980375012597163
+EP300_damaging_to_CREBBP,Avana,ACH-000563,Lung,matrix_intact,-0.030534420210627855
+EP300_damaging_to_CREBBP,Avana,ACH-000567,Lymphoid,matrix_intact,-0.6910779575786701
+EP300_damaging_to_CREBBP,Avana,ACH-000570,CNS/Brain,matrix_intact,-0.6696648176636875
+EP300_damaging_to_CREBBP,Avana,ACH-000571,CNS/Brain,matrix_intact,-0.08936338149691231
+EP300_damaging_to_CREBBP,Avana,ACH-000573,Breast,matrix_intact,-0.9093697803997121
+EP300_damaging_to_CREBBP,Avana,ACH-000576,Lymphoid,matrix_intact,-0.46519490341148323
+EP300_damaging_to_CREBBP,Avana,ACH-000577,Liver,matrix_intact,-0.202765242192692
+EP300_damaging_to_CREBBP,Avana,ACH-000579,Skin,matrix_intact,-0.23632907580601079
+EP300_damaging_to_CREBBP,Avana,ACH-000580,Skin,matrix_intact,-0.4624833280295353
+EP300_damaging_to_CREBBP,Avana,ACH-000581,Esophagus/Stomach,damaging,-0.5353872001394633
+EP300_damaging_to_CREBBP,Avana,ACH-000584,Ovary/Fallopian Tube,matrix_intact,-0.3158779931919785
+EP300_damaging_to_CREBBP,Avana,ACH-000585,Lung,matrix_intact,-0.59726559755282
+EP300_damaging_to_CREBBP,Avana,ACH-000587,Lung,matrix_intact,-1.380620153655219
+EP300_damaging_to_CREBBP,Avana,ACH-000588,Lymphoid,matrix_intact,-2.041486147802794
+EP300_damaging_to_CREBBP,Avana,ACH-000589,Lung,matrix_intact,-0.5495778539871321
+EP300_damaging_to_CREBBP,Avana,ACH-000591,CNS/Brain,matrix_intact,0.42088200935862885
+EP300_damaging_to_CREBBP,Avana,ACH-000592,CNS/Brain,matrix_intact,0.07932555049190845
+EP300_damaging_to_CREBBP,Avana,ACH-000593,Bladder/Urinary Tract,matrix_intact,0.20302791093636333
+EP300_damaging_to_CREBBP,Avana,ACH-000595,CNS/Brain,matrix_intact,0.050145397984015544
+EP300_damaging_to_CREBBP,Avana,ACH-000596,Lung,matrix_intact,-0.08246078846826824
+EP300_damaging_to_CREBBP,Avana,ACH-000597,Kidney,matrix_intact,0.1150200039264231
+EP300_damaging_to_CREBBP,Avana,ACH-000599,Pancreas,matrix_intact,-0.9062987797227069
+EP300_damaging_to_CREBBP,Avana,ACH-000601,Pancreas,matrix_intact,-0.8705504413223681
+EP300_damaging_to_CREBBP,Avana,ACH-000602,Myeloid,matrix_intact,0.1947571463597173
+EP300_damaging_to_CREBBP,Avana,ACH-000604,Myeloid,matrix_intact,-0.8167730859107392
+EP300_damaging_to_CREBBP,Avana,ACH-000605,Esophagus/Stomach,matrix_intact,0.1019483937898192
+EP300_damaging_to_CREBBP,Avana,ACH-000606,Head and Neck,matrix_intact,-0.2810443162518964
+EP300_damaging_to_CREBBP,Avana,ACH-000607,Soft Tissue,matrix_intact,0.44692865858998126
+EP300_damaging_to_CREBBP,Avana,ACH-000608,Ovary/Fallopian Tube,matrix_intact,-0.4645656961472717
+EP300_damaging_to_CREBBP,Avana,ACH-000609,CNS/Brain,matrix_intact,-0.031150542345839582
+EP300_damaging_to_CREBBP,Avana,ACH-000614,Skin,matrix_intact,0.8678101955199329
+EP300_damaging_to_CREBBP,Avana,ACH-000616,Esophagus/Stomach,matrix_intact,-0.15625353334961686
+EP300_damaging_to_CREBBP,Avana,ACH-000618,Head and Neck,matrix_intact,0.06517214517010181
+EP300_damaging_to_CREBBP,Avana,ACH-000619,Head and Neck,matrix_intact,-0.163514378683316
+EP300_damaging_to_CREBBP,Avana,ACH-000620,Liver,matrix_intact,-2.8461152759302637
+EP300_damaging_to_CREBBP,Avana,ACH-000621,Breast,matrix_intact,-0.9073914552540234
+EP300_damaging_to_CREBBP,Avana,ACH-000622,CNS/Brain,matrix_intact,-0.09038765922873526
+EP300_damaging_to_CREBBP,Avana,ACH-000623,CNS/Brain,matrix_intact,-0.44245468173367447
+EP300_damaging_to_CREBBP,Avana,ACH-000624,Breast,matrix_intact,-0.1031456748388566
+EP300_damaging_to_CREBBP,Avana,ACH-000627,Lung,matrix_intact,0.16855504075613395
+EP300_damaging_to_CREBBP,Avana,ACH-000630,Head and Neck,matrix_intact,-0.8616526359687566
+EP300_damaging_to_CREBBP,Avana,ACH-000632,Skin,matrix_intact,0.45899298558553703
+EP300_damaging_to_CREBBP,Avana,ACH-000633,Esophagus/Stomach,matrix_intact,-0.8549558907034656
+EP300_damaging_to_CREBBP,Avana,ACH-000634,CNS/Brain,matrix_intact,-0.17654720491953307
+EP300_damaging_to_CREBBP,Avana,ACH-000637,Esophagus/Stomach,matrix_intact,-1.2389379715704267
+EP300_damaging_to_CREBBP,Avana,ACH-000638,Lung,matrix_intact,-0.4887714392544449
+EP300_damaging_to_CREBBP,Avana,ACH-000639,Lung,matrix_intact,-0.5964512746143993
+EP300_damaging_to_CREBBP,Avana,ACH-000645,Pleura,matrix_intact,0.15880268249264828
+EP300_damaging_to_CREBBP,Avana,ACH-000646,Ovary/Fallopian Tube,matrix_intact,0.029497312021754818
+EP300_damaging_to_CREBBP,Avana,ACH-000647,Esophagus/Stomach,matrix_intact,-0.7612319047007547
+EP300_damaging_to_CREBBP,Avana,ACH-000648,Pleura,matrix_intact,-0.5271437780364132
+EP300_damaging_to_CREBBP,Avana,ACH-000649,Kidney,matrix_intact,-0.1381347915516248
+EP300_damaging_to_CREBBP,Avana,ACH-000651,Bowel,matrix_intact,-0.2224659986941889
+EP300_damaging_to_CREBBP,Avana,ACH-000652,Pancreas,matrix_intact,0.14871040373814826
+EP300_damaging_to_CREBBP,Avana,ACH-000653,Lymphoid,matrix_intact,-0.4430907055695953
+EP300_damaging_to_CREBBP,Avana,ACH-000654,Lymphoid,matrix_intact,0.010147603174361641
+EP300_damaging_to_CREBBP,Avana,ACH-000655,CNS/Brain,matrix_intact,-1.0623578947050683
+EP300_damaging_to_CREBBP,Avana,ACH-000657,Ovary/Fallopian Tube,matrix_intact,-0.6950088627090336
+EP300_damaging_to_CREBBP,Avana,ACH-000661,Skin,matrix_intact,0.49401451764295023
+EP300_damaging_to_CREBBP,Avana,ACH-000662,Lung,matrix_intact,-1.3936154214799341
+EP300_damaging_to_CREBBP,Avana,ACH-000663,Ovary/Fallopian Tube,matrix_intact,-0.15129946492488788
+EP300_damaging_to_CREBBP,Avana,ACH-000664,Lymphoid,matrix_intact,0.5604006264881041
+EP300_damaging_to_CREBBP,Avana,ACH-000665,Lung,matrix_intact,0.813554564424952
+EP300_damaging_to_CREBBP,Avana,ACH-000667,Lung,matrix_intact,0.9261027389996586
+EP300_damaging_to_CREBBP,Avana,ACH-000671,Liver,matrix_intact,0.14043738032777908
+EP300_damaging_to_CREBBP,Avana,ACH-000673,CNS/Brain,matrix_intact,-1.7957287191770417
+EP300_damaging_to_CREBBP,Avana,ACH-000676,CNS/Brain,matrix_intact,-0.1544071728608642
+EP300_damaging_to_CREBBP,Avana,ACH-000677,Lung,matrix_intact,0.40314919844115027
+EP300_damaging_to_CREBBP,Avana,ACH-000680,Bowel,damaging,-0.5271556881358819
+EP300_damaging_to_CREBBP,Avana,ACH-000681,Lung,matrix_intact,-0.04979699045053798
+EP300_damaging_to_CREBBP,Avana,ACH-000682,Head and Neck,matrix_intact,-0.6669276955928612
+EP300_damaging_to_CREBBP,Avana,ACH-000683,Bowel,matrix_intact,-0.18046131386464764
+EP300_damaging_to_CREBBP,Avana,ACH-000684,Kidney,matrix_intact,-0.4951662443288083
+EP300_damaging_to_CREBBP,Avana,ACH-000685,Pancreas,damaging,0.6796582096642229
+EP300_damaging_to_CREBBP,Avana,ACH-000688,Ovary/Fallopian Tube,matrix_intact,0.17767077070478565
+EP300_damaging_to_CREBBP,Avana,ACH-000693,Esophagus/Stomach,matrix_intact,-0.5336851774340698
+EP300_damaging_to_CREBBP,Avana,ACH-000694,Esophagus/Stomach,matrix_intact,-0.1293053682152375
+EP300_damaging_to_CREBBP,Avana,ACH-000695,Lung,matrix_intact,-0.17482201595703648
+EP300_damaging_to_CREBBP,Avana,ACH-000696,Ovary/Fallopian Tube,damaging,-0.39866283182410045
+EP300_damaging_to_CREBBP,Avana,ACH-000697,Lymphoid,matrix_intact,0.13935973909423582
+EP300_damaging_to_CREBBP,Avana,ACH-000698,Lung,matrix_intact,-0.3880763554449202
+EP300_damaging_to_CREBBP,Avana,ACH-000699,Breast,matrix_intact,-0.483658005533808
+EP300_damaging_to_CREBBP,Avana,ACH-000700,Lung,matrix_intact,0.041145859500944786
+EP300_damaging_to_CREBBP,Avana,ACH-000701,Ovary/Fallopian Tube,matrix_intact,-0.13634770017711967
+EP300_damaging_to_CREBBP,Avana,ACH-000702,Lymphoid,matrix_intact,-0.5926824272621428
+EP300_damaging_to_CREBBP,Avana,ACH-000706,Lung,matrix_intact,-0.026279887187766977
+EP300_damaging_to_CREBBP,Avana,ACH-000709,Kidney,matrix_intact,-0.32283962734182836
+EP300_damaging_to_CREBBP,Avana,ACH-000711,Breast,matrix_intact,-0.7777312461071251
+EP300_damaging_to_CREBBP,Avana,ACH-000713,Ovary/Fallopian Tube,matrix_intact,-1.6958593702538882
+EP300_damaging_to_CREBBP,Avana,ACH-000714,Lymphoid,matrix_intact,-1.2414917919684403
+EP300_damaging_to_CREBBP,Avana,ACH-000716,Thyroid,matrix_intact,0.09611635724239559
+EP300_damaging_to_CREBBP,Avana,ACH-000718,Lung,matrix_intact,-0.7165265905309415
+EP300_damaging_to_CREBBP,Avana,ACH-000719,Ovary/Fallopian Tube,matrix_intact,-0.5515467945810202
+EP300_damaging_to_CREBBP,Avana,ACH-000720,Bladder/Urinary Tract,matrix_intact,0.21195684287272692
+EP300_damaging_to_CREBBP,Avana,ACH-000721,Breast,matrix_intact,-0.47850316595501674
+EP300_damaging_to_CREBBP,Avana,ACH-000724,Bladder/Urinary Tract,matrix_intact,0.43651047353247396
+EP300_damaging_to_CREBBP,Avana,ACH-000725,Breast,matrix_intact,-0.5793539873959404
+EP300_damaging_to_CREBBP,Avana,ACH-000732,Head and Neck,matrix_intact,-0.1679202302207385
+EP300_damaging_to_CREBBP,Avana,ACH-000734,Liver,damaging,-0.7081976459233769
+EP300_damaging_to_CREBBP,Avana,ACH-000735,Head and Neck,matrix_intact,-0.8796823308966174
+EP300_damaging_to_CREBBP,Avana,ACH-000736,Esophagus/Stomach,matrix_intact,-0.11766005622663306
+EP300_damaging_to_CREBBP,Avana,ACH-000738,CNS/Brain,matrix_intact,-0.3556316675734914
+EP300_damaging_to_CREBBP,Avana,ACH-000739,Liver,matrix_intact,0.04931663548155868
+EP300_damaging_to_CREBBP,Avana,ACH-000740,Head and Neck,matrix_intact,-0.06810673810739795
+EP300_damaging_to_CREBBP,Avana,ACH-000741,Bladder/Urinary Tract,matrix_intact,0.1972332986331718
+EP300_damaging_to_CREBBP,Avana,ACH-000746,Esophagus/Stomach,matrix_intact,-0.6468656781032647
+EP300_damaging_to_CREBBP,Avana,ACH-000747,Lung,matrix_intact,-0.8827637323747184
+EP300_damaging_to_CREBBP,Avana,ACH-000748,Bone,matrix_intact,-0.05172052338896456
+EP300_damaging_to_CREBBP,Avana,ACH-000753,Bladder/Urinary Tract,matrix_intact,0.0576619578286511
+EP300_damaging_to_CREBBP,Avana,ACH-000754,Lymphoid,matrix_intact,-0.12445550964388635
+EP300_damaging_to_CREBBP,Avana,ACH-000756,CNS/Brain,matrix_intact,-2.0428010399156706
+EP300_damaging_to_CREBBP,Avana,ACH-000757,Lung,matrix_intact,0.20398288347217125
+EP300_damaging_to_CREBBP,Avana,ACH-000758,Esophagus/Stomach,damaging,-1.1695403778475262
+EP300_damaging_to_CREBBP,Avana,ACH-000760,CNS/Brain,matrix_intact,0.5423302068033236
+EP300_damaging_to_CREBBP,Avana,ACH-000762,Head and Neck,matrix_intact,0.0049993426906733696
+EP300_damaging_to_CREBBP,Avana,ACH-000763,Lymphoid,matrix_intact,-0.9684820046184428
+EP300_damaging_to_CREBBP,Avana,ACH-000764,Esophagus/Stomach,matrix_intact,0.16700874080383654
+EP300_damaging_to_CREBBP,Avana,ACH-000765,Skin,matrix_intact,-0.09907534396689154
+EP300_damaging_to_CREBBP,Avana,ACH-000766,Lung,matrix_intact,-1.7605777411283237
+EP300_damaging_to_CREBBP,Avana,ACH-000767,Lung,matrix_intact,-0.452036610083534
+EP300_damaging_to_CREBBP,Avana,ACH-000768,Breast,matrix_intact,-0.676853307921705
+EP300_damaging_to_CREBBP,Avana,ACH-000769,Lung,matrix_intact,-0.14437244456632112
+EP300_damaging_to_CREBBP,Avana,ACH-000770,Myeloid,damaging,-0.1879053228301369
+EP300_damaging_to_CREBBP,Avana,ACH-000771,Head and Neck,matrix_intact,-0.23756525056307426
+EP300_damaging_to_CREBBP,Avana,ACH-000773,Lymphoid,matrix_intact,-0.23712593999414236
+EP300_damaging_to_CREBBP,Avana,ACH-000774,Lung,matrix_intact,-0.6286371559190949
+EP300_damaging_to_CREBBP,Avana,ACH-000775,Lung,matrix_intact,-0.565379112908809
+EP300_damaging_to_CREBBP,Avana,ACH-000776,CNS/Brain,matrix_intact,-0.012380122496567322
+EP300_damaging_to_CREBBP,Avana,ACH-000777,Esophagus/Stomach,matrix_intact,-0.7113946440934623
+EP300_damaging_to_CREBBP,Avana,ACH-000778,Head and Neck,matrix_intact,0.002075541965104899
+EP300_damaging_to_CREBBP,Avana,ACH-000781,Lung,matrix_intact,-0.42234748961095425
+EP300_damaging_to_CREBBP,Avana,ACH-000782,Lymphoid,matrix_intact,-0.4672761649501593
+EP300_damaging_to_CREBBP,Avana,ACH-000783,Breast,matrix_intact,-1.283011130167624
+EP300_damaging_to_CREBBP,Avana,ACH-000784,Esophagus/Stomach,matrix_intact,-0.5697269961090048
+EP300_damaging_to_CREBBP,Avana,ACH-000785,Lung,matrix_intact,-0.08746478258394852
+EP300_damaging_to_CREBBP,Avana,ACH-000787,Lung,matrix_intact,0.680037155128171
+EP300_damaging_to_CREBBP,Avana,ACH-000788,Skin,matrix_intact,0.19643282073264925
+EP300_damaging_to_CREBBP,Avana,ACH-000790,Lung,matrix_intact,0.03779586465869807
+EP300_damaging_to_CREBBP,Avana,ACH-000791,Lung,matrix_intact,-0.4078792936216717
+EP300_damaging_to_CREBBP,Avana,ACH-000792,Kidney,matrix_intact,0.09954536293668476
+EP300_damaging_to_CREBBP,Avana,ACH-000793,Esophagus/Stomach,matrix_intact,-0.6577143487173451
+EP300_damaging_to_CREBBP,Avana,ACH-000794,Head and Neck,matrix_intact,0.011409944627648633
+EP300_damaging_to_CREBBP,Avana,ACH-000796,Ovary/Fallopian Tube,matrix_intact,-0.8982747756040599
+EP300_damaging_to_CREBBP,Avana,ACH-000799,Skin,matrix_intact,-0.08763674800030591
+EP300_damaging_to_CREBBP,Avana,ACH-000800,Lung,matrix_intact,0.04322006927622013
+EP300_damaging_to_CREBBP,Avana,ACH-000801,Skin,matrix_intact,-0.1778839898738074
+EP300_damaging_to_CREBBP,Avana,ACH-000802,Bladder/Urinary Tract,matrix_intact,0.0835638603222723
+EP300_damaging_to_CREBBP,Avana,ACH-000804,Peripheral Nervous System,matrix_intact,-0.21678982681779865
+EP300_damaging_to_CREBBP,Avana,ACH-000805,Skin,matrix_intact,-0.00530970991287822
+EP300_damaging_to_CREBBP,Avana,ACH-000807,CNS/Brain,matrix_intact,-1.5272078471854074
+EP300_damaging_to_CREBBP,Avana,ACH-000809,Esophagus/Stomach,matrix_intact,0.11198922963392208
+EP300_damaging_to_CREBBP,Avana,ACH-000810,Skin,matrix_intact,0.45633744460328607
+EP300_damaging_to_CREBBP,Avana,ACH-000811,Ovary/Fallopian Tube,damaging,-0.27625740000020654
+EP300_damaging_to_CREBBP,Avana,ACH-000817,Lymphoid,matrix_intact,0.05002616020157989
+EP300_damaging_to_CREBBP,Avana,ACH-000819,CNS/Brain,matrix_intact,-0.30412873821732933
+EP300_damaging_to_CREBBP,Avana,ACH-000820,Bowel,matrix_intact,-0.5195386555473042
+EP300_damaging_to_CREBBP,Avana,ACH-000821,Lymphoid,matrix_intact,0.013581951451830117
+EP300_damaging_to_CREBBP,Avana,ACH-000822,Skin,matrix_intact,0.5642617461563094
+EP300_damaging_to_CREBBP,Avana,ACH-000823,Esophagus/Stomach,matrix_intact,-0.16924492686382525
+EP300_damaging_to_CREBBP,Avana,ACH-000824,Esophagus/Stomach,matrix_intact,-0.21938770280527853
+EP300_damaging_to_CREBBP,Avana,ACH-000827,Skin,matrix_intact,0.1518824271798836
+EP300_damaging_to_CREBBP,Avana,ACH-000829,Lymphoid,matrix_intact,-1.0460742436595576
+EP300_damaging_to_CREBBP,Avana,ACH-000831,Uterus,matrix_intact,-1.2124186240135248
+EP300_damaging_to_CREBBP,Avana,ACH-000832,Head and Neck,matrix_intact,0.222073756765866
+EP300_damaging_to_CREBBP,Avana,ACH-000833,Soft Tissue,matrix_intact,-0.1410048127129628
+EP300_damaging_to_CREBBP,Avana,ACH-000834,Bladder/Urinary Tract,matrix_intact,0.1663870183042468
+EP300_damaging_to_CREBBP,Avana,ACH-000835,Soft Tissue,matrix_intact,0.12698151057629264
+EP300_damaging_to_CREBBP,Avana,ACH-000836,Head and Neck,damaging,-1.2175738461548793
+EP300_damaging_to_CREBBP,Avana,ACH-000837,Lung,matrix_intact,-0.023942416554825624
+EP300_damaging_to_CREBBP,Avana,ACH-000838,Lymphoid,matrix_intact,0.39191799402089955
+EP300_damaging_to_CREBBP,Avana,ACH-000839,Bladder/Urinary Tract,matrix_intact,0.4874698565527269
+EP300_damaging_to_CREBBP,Avana,ACH-000840,Lung,matrix_intact,-1.267940259540123
+EP300_damaging_to_CREBBP,Avana,ACH-000841,Lung,matrix_intact,-0.4025174289742715
+EP300_damaging_to_CREBBP,Avana,ACH-000843,Lung,matrix_intact,0.10281520248395157
+EP300_damaging_to_CREBBP,Avana,ACH-000845,Lung,matrix_intact,-0.7668936926783969
+EP300_damaging_to_CREBBP,Avana,ACH-000846,Head and Neck,matrix_intact,-1.0021744540987556
+EP300_damaging_to_CREBBP,Avana,ACH-000847,Esophagus/Stomach,matrix_intact,0.1355190021656676
+EP300_damaging_to_CREBBP,Avana,ACH-000848,Liver,matrix_intact,-0.1997769140572347
+EP300_damaging_to_CREBBP,Avana,ACH-000849,Breast,matrix_intact,-0.44498066960179994
+EP300_damaging_to_CREBBP,Avana,ACH-000851,Lung,damaging,-0.38144830381654377
+EP300_damaging_to_CREBBP,Avana,ACH-000853,Lung,matrix_intact,-0.2436372593703311
+EP300_damaging_to_CREBBP,Avana,ACH-000855,Esophagus/Stomach,matrix_intact,0.2409607528397154
+EP300_damaging_to_CREBBP,Avana,ACH-000856,Breast,matrix_intact,-0.7282677445452432
+EP300_damaging_to_CREBBP,Avana,ACH-000858,Lung,matrix_intact,0.07394188002311093
+EP300_damaging_to_CREBBP,Avana,ACH-000859,Breast,matrix_intact,-0.12863433583390538
+EP300_damaging_to_CREBBP,Avana,ACH-000860,Lung,matrix_intact,-0.7256748077223012
+EP300_damaging_to_CREBBP,Avana,ACH-000861,Lung,matrix_intact,0.2783721294926466
+EP300_damaging_to_CREBBP,Avana,ACH-000862,Bladder/Urinary Tract,matrix_intact,-0.27391010675427946
+EP300_damaging_to_CREBBP,Avana,ACH-000865,Esophagus/Stomach,matrix_intact,0.18573281930315663
+EP300_damaging_to_CREBBP,Avana,ACH-000866,Lung,matrix_intact,-0.19473170723659855
+EP300_damaging_to_CREBBP,Avana,ACH-000867,Lung,matrix_intact,-0.46966006586584486
+EP300_damaging_to_CREBBP,Avana,ACH-000869,Lung,matrix_intact,0.21566441160105798
+EP300_damaging_to_CREBBP,Avana,ACH-000871,Lung,matrix_intact,-0.5381529158007505
+EP300_damaging_to_CREBBP,Avana,ACH-000872,Lung,matrix_intact,-0.40191936096574454
+EP300_damaging_to_CREBBP,Avana,ACH-000873,Esophagus/Stomach,matrix_intact,-0.3259304057445264
+EP300_damaging_to_CREBBP,Avana,ACH-000876,Breast,matrix_intact,-0.10405027688507967
+EP300_damaging_to_CREBBP,Avana,ACH-000878,Lung,damaging,-0.6361607372482533
+EP300_damaging_to_CREBBP,Avana,ACH-000880,Esophagus/Stomach,damaging,-2.218721828975765
+EP300_damaging_to_CREBBP,Avana,ACH-000881,Skin,matrix_intact,0.08693145731161998
+EP300_damaging_to_CREBBP,Avana,ACH-000882,Skin,matrix_intact,0.1393379512962816
+EP300_damaging_to_CREBBP,Avana,ACH-000884,Skin,matrix_intact,0.12223624259905952
+EP300_damaging_to_CREBBP,Avana,ACH-000885,Ovary/Fallopian Tube,matrix_intact,-0.9040091815931902
+EP300_damaging_to_CREBBP,Avana,ACH-000886,Lung,matrix_intact,-0.052044281601814305
+EP300_damaging_to_CREBBP,Avana,ACH-000887,CNS/Brain,matrix_intact,-0.3860963190770853
+EP300_damaging_to_CREBBP,Avana,ACH-000888,Lung,matrix_intact,-0.5571620800153876
+EP300_damaging_to_CREBBP,Avana,ACH-000889,Lymphoid,matrix_intact,-0.7074147729859495
+EP300_damaging_to_CREBBP,Avana,ACH-000890,Lung,matrix_intact,-0.33146869296021114
+EP300_damaging_to_CREBBP,Avana,ACH-000896,Bladder/Urinary Tract,damaging,-1.8250975899985327
+EP300_damaging_to_CREBBP,Avana,ACH-000898,Esophagus/Stomach,matrix_intact,-0.23172301337811418
+EP300_damaging_to_CREBBP,Avana,ACH-000899,Skin,matrix_intact,-0.3263087042058199
+EP300_damaging_to_CREBBP,Avana,ACH-000900,Lung,matrix_intact,-0.9258622826104559
+EP300_damaging_to_CREBBP,Avana,ACH-000901,Lung,matrix_intact,0.10408588137856256
+EP300_damaging_to_CREBBP,Avana,ACH-000903,Thyroid,matrix_intact,0.41631093824937704
+EP300_damaging_to_CREBBP,Avana,ACH-000905,Bladder/Urinary Tract,matrix_intact,0.46461823881360287
+EP300_damaging_to_CREBBP,Avana,ACH-000906,Ovary/Fallopian Tube,matrix_intact,0.60211880971268
+EP300_damaging_to_CREBBP,Avana,ACH-000907,Kidney,matrix_intact,-0.33167591662847423
+EP300_damaging_to_CREBBP,Avana,ACH-000910,Breast,matrix_intact,-0.7647035214333938
+EP300_damaging_to_CREBBP,Avana,ACH-000911,Esophagus/Stomach,damaging,-1.1199079474393256
+EP300_damaging_to_CREBBP,Avana,ACH-000912,Lung,matrix_intact,-0.7858629155285718
+EP300_damaging_to_CREBBP,Avana,ACH-000913,Uterus,matrix_intact,-0.35775421230917326
+EP300_damaging_to_CREBBP,Avana,ACH-000914,Lymphoid,damaging,-0.6252679082819194
+EP300_damaging_to_CREBBP,Avana,ACH-000915,Skin,matrix_intact,-0.2690566171988155
+EP300_damaging_to_CREBBP,Avana,ACH-000916,Lung,matrix_intact,-0.6488290996813353
+EP300_damaging_to_CREBBP,Avana,ACH-000917,Esophagus/Stomach,matrix_intact,-0.13365505850712764
+EP300_damaging_to_CREBBP,Avana,ACH-000920,Myeloid,matrix_intact,-0.15778089232790554
+EP300_damaging_to_CREBBP,Avana,ACH-000921,Lung,damaging,0.06874684874950976
+EP300_damaging_to_CREBBP,Avana,ACH-000922,Lymphoid,matrix_intact,-0.7633930062352782
+EP300_damaging_to_CREBBP,Avana,ACH-000924,Lung,matrix_intact,-0.04301892315039568
+EP300_damaging_to_CREBBP,Avana,ACH-000926,Bowel,matrix_intact,-0.47929038467942287
+EP300_damaging_to_CREBBP,Avana,ACH-000928,Uterus,damaging,0.12242374621949112
+EP300_damaging_to_CREBBP,Avana,ACH-000929,Lung,matrix_intact,0.07573931290920168
+EP300_damaging_to_CREBBP,Avana,ACH-000932,Esophagus/Stomach,matrix_intact,-0.5705259544772038
+EP300_damaging_to_CREBBP,Avana,ACH-000935,Bowel,matrix_intact,0.5956766179341166
+EP300_damaging_to_CREBBP,Avana,ACH-000936,Ovary/Fallopian Tube,matrix_intact,-1.4184260402744697
+EP300_damaging_to_CREBBP,Avana,ACH-000937,Lymphoid,matrix_intact,-0.4745337443029552
+EP300_damaging_to_CREBBP,Avana,ACH-000938,Lymphoid,matrix_intact,-0.6521253341612241
+EP300_damaging_to_CREBBP,Avana,ACH-000939,Uterus,matrix_intact,-0.2210770230156318
+EP300_damaging_to_CREBBP,Avana,ACH-000941,Uterus,matrix_intact,-0.46911537843770995
+EP300_damaging_to_CREBBP,Avana,ACH-000943,Bowel,damaging,-1.4672866970555805
+EP300_damaging_to_CREBBP,Avana,ACH-000944,Lymphoid,matrix_intact,-0.7595343928404787
+EP300_damaging_to_CREBBP,Avana,ACH-000946,Uterus,matrix_intact,-0.5694751637624198
+EP300_damaging_to_CREBBP,Avana,ACH-000947,Ovary/Fallopian Tube,matrix_intact,-0.5381772503287553
+EP300_damaging_to_CREBBP,Avana,ACH-000948,Esophagus/Stomach,matrix_intact,-0.8623428972992964
+EP300_damaging_to_CREBBP,Avana,ACH-000950,Bowel,matrix_intact,0.12286842600362476
+EP300_damaging_to_CREBBP,Avana,ACH-000953,Lymphoid,matrix_intact,-0.3698135077505875
+EP300_damaging_to_CREBBP,Avana,ACH-000957,Bowel,matrix_intact,-0.7408926552745205
+EP300_damaging_to_CREBBP,Avana,ACH-000958,Bowel,damaging,-0.6380377474017792
+EP300_damaging_to_CREBBP,Avana,ACH-000959,Bowel,matrix_intact,0.0023888219459445234
+EP300_damaging_to_CREBBP,Avana,ACH-000960,Lymphoid,matrix_intact,-1.2022415434390292
+EP300_damaging_to_CREBBP,Avana,ACH-000961,Uterus,damaging,-0.17095098030131287
+EP300_damaging_to_CREBBP,Avana,ACH-000963,Bowel,matrix_intact,-0.07337673134110315
+EP300_damaging_to_CREBBP,Avana,ACH-000965,Uterus,damaging,0.006246003783360862
+EP300_damaging_to_CREBBP,Avana,ACH-000968,Skin,matrix_intact,0.028925282195967586
+EP300_damaging_to_CREBBP,Avana,ACH-000969,Bowel,damaging,-0.6053944488807546
+EP300_damaging_to_CREBBP,Avana,ACH-000973,Bladder/Urinary Tract,damaging,-3.2207953769233817
+EP300_damaging_to_CREBBP,Avana,ACH-000974,Uterus,matrix_intact,-0.24163235935866514
+EP300_damaging_to_CREBBP,Avana,ACH-000975,Lung,matrix_intact,0.018623736964481857
+EP300_damaging_to_CREBBP,Avana,ACH-000976,Biliary Tract,matrix_intact,-0.5215096666155765
+EP300_damaging_to_CREBBP,Avana,ACH-000977,Prostate,matrix_intact,-0.6529606983709919
+EP300_damaging_to_CREBBP,Avana,ACH-000978,Uterus,damaging,0.05136130210782943
+EP300_damaging_to_CREBBP,Avana,ACH-000980,Lung,damaging,-2.3541105540114744
+EP300_damaging_to_CREBBP,Avana,ACH-000983,Myeloid,matrix_intact,-0.5002634773251593
+EP300_damaging_to_CREBBP,Avana,ACH-000984,Uterus,damaging,-1.0053960451308557
+EP300_damaging_to_CREBBP,Avana,ACH-000986,Bowel,matrix_intact,-0.09677989379503324
+EP300_damaging_to_CREBBP,Avana,ACH-000988,Uterus,damaging,-0.41403065909176995
+EP300_damaging_to_CREBBP,Avana,ACH-000993,Uterus,damaging,-0.09071449056788561
+EP300_damaging_to_CREBBP,Avana,ACH-000994,Uterus,matrix_intact,-0.35264544153264865
+EP300_damaging_to_CREBBP,Avana,ACH-000995,Lymphoid,matrix_intact,0.06592136974982724
+EP300_damaging_to_CREBBP,Avana,ACH-000996,Uterus,matrix_intact,-0.3446686681373929
+EP300_damaging_to_CREBBP,Avana,ACH-001001,Bone,matrix_intact,-0.19376416280721723
+EP300_damaging_to_CREBBP,Avana,ACH-001020,CNS/Brain,matrix_intact,0.07252871663313425
+EP300_damaging_to_CREBBP,Avana,ACH-001028,CNS/Brain,matrix_intact,-0.3421881440107913
+EP300_damaging_to_CREBBP,Avana,ACH-001029,Bone,matrix_intact,0.48788580475744586
+EP300_damaging_to_CREBBP,Avana,ACH-001031,CNS/Brain,matrix_intact,-1.354420010010662
+EP300_damaging_to_CREBBP,Avana,ACH-001033,CNS/Brain,damaging,0.00982160670601226
+EP300_damaging_to_CREBBP,Avana,ACH-001036,Myeloid,matrix_intact,-0.6666497405548681
+EP300_damaging_to_CREBBP,Avana,ACH-001038,Bone,matrix_intact,0.051937896560987795
+EP300_damaging_to_CREBBP,Avana,ACH-001041,Skin,matrix_intact,-0.3131451846620741
+EP300_damaging_to_CREBBP,Avana,ACH-001048,Ovary/Fallopian Tube,matrix_intact,-1.122040241777409
+EP300_damaging_to_CREBBP,Avana,ACH-001050,Soft Tissue,matrix_intact,-0.10662491155626343
+EP300_damaging_to_CREBBP,Avana,ACH-001053,CNS/Brain,matrix_intact,-0.3839219087910282
+EP300_damaging_to_CREBBP,Avana,ACH-001054,CNS/Brain,matrix_intact,0.3900906289080714
+EP300_damaging_to_CREBBP,Avana,ACH-001061,Bowel,damaging,-0.6216837757551161
+EP300_damaging_to_CREBBP,Avana,ACH-001067,CNS/Brain,matrix_intact,-0.8232824851072222
+EP300_damaging_to_CREBBP,Avana,ACH-001075,Lung,matrix_intact,-0.3819755115549333
+EP300_damaging_to_CREBBP,Avana,ACH-001096,Soft Tissue,matrix_intact,-0.6783345418323234
+EP300_damaging_to_CREBBP,Avana,ACH-001098,Pancreas,matrix_intact,-0.10117219937750607
+EP300_damaging_to_CREBBP,Avana,ACH-001099,Kidney,matrix_intact,0.19533902506540768
+EP300_damaging_to_CREBBP,Avana,ACH-001119,Lymphoid,matrix_intact,-0.09167030069770553
+EP300_damaging_to_CREBBP,Avana,ACH-001128,Kidney,matrix_intact,0.7989813382689945
+EP300_damaging_to_CREBBP,Avana,ACH-001129,Myeloid,matrix_intact,0.34979890258420493
+EP300_damaging_to_CREBBP,Avana,ACH-001134,Lymphoid,matrix_intact,-0.13225943172604818
+EP300_damaging_to_CREBBP,Avana,ACH-001145,Ovary/Fallopian Tube,matrix_intact,-2.0527189169845244
+EP300_damaging_to_CREBBP,Avana,ACH-001151,Ovary/Fallopian Tube,damaging,-0.6788509531859597
+EP300_damaging_to_CREBBP,Avana,ACH-001163,Kidney,matrix_intact,0.13945708528223794
+EP300_damaging_to_CREBBP,Avana,ACH-001164,Soft Tissue,matrix_intact,-0.06759127622085652
+EP300_damaging_to_CREBBP,Avana,ACH-001172,CNS/Brain,matrix_intact,0.046552937152114476
+EP300_damaging_to_CREBBP,Avana,ACH-001183,Bladder/Urinary Tract,matrix_intact,0.5860519130441141
+EP300_damaging_to_CREBBP,Avana,ACH-001184,Soft Tissue,matrix_intact,-0.38961958480010506
+EP300_damaging_to_CREBBP,Avana,ACH-001188,Peripheral Nervous System,matrix_intact,0.46062031977350554
+EP300_damaging_to_CREBBP,Avana,ACH-001190,Skin,matrix_intact,-0.019616776379563827
+EP300_damaging_to_CREBBP,Avana,ACH-001192,Bone,matrix_intact,-0.1383887878141321
+EP300_damaging_to_CREBBP,Avana,ACH-001193,Bone,matrix_intact,0.1110261312988605
+EP300_damaging_to_CREBBP,Avana,ACH-001194,Kidney,matrix_intact,-0.4407260246802637
+EP300_damaging_to_CREBBP,Avana,ACH-001196,Soft Tissue,matrix_intact,-0.596711804307161
+EP300_damaging_to_CREBBP,Avana,ACH-001197,Lymphoid,matrix_intact,-0.15801314208832457
+EP300_damaging_to_CREBBP,Avana,ACH-001205,Bone,matrix_intact,0.09277553984763066
+EP300_damaging_to_CREBBP,Avana,ACH-001211,Kidney,matrix_intact,-0.07263370801806215
+EP300_damaging_to_CREBBP,Avana,ACH-001212,Kidney,matrix_intact,-0.12464245067996677
+EP300_damaging_to_CREBBP,Avana,ACH-001228,Head and Neck,matrix_intact,0.004627585909836014
+EP300_damaging_to_CREBBP,Avana,ACH-001229,Head and Neck,matrix_intact,-0.15324191521368744
+EP300_damaging_to_CREBBP,Avana,ACH-001232,CNS/Brain,matrix_intact,0.8265798376599127
+EP300_damaging_to_CREBBP,Avana,ACH-001239,Skin,matrix_intact,0.1995561472280773
+EP300_damaging_to_CREBBP,Avana,ACH-001270,Soft Tissue,matrix_intact,0.010011793621054699
+EP300_damaging_to_CREBBP,Avana,ACH-001274,Soft Tissue,matrix_intact,-0.11742132610565287
+EP300_damaging_to_CREBBP,Avana,ACH-001275,Soft Tissue,damaging,-0.2262953359635987
+EP300_damaging_to_CREBBP,Avana,ACH-001277,Soft Tissue,matrix_intact,-0.2799590034618471
+EP300_damaging_to_CREBBP,Avana,ACH-001278,Ovary/Fallopian Tube,matrix_intact,-0.15823234841612926
+EP300_damaging_to_CREBBP,Avana,ACH-001279,Ovary/Fallopian Tube,matrix_intact,-0.37770173222333364
+EP300_damaging_to_CREBBP,Avana,ACH-001280,Soft Tissue,matrix_intact,-0.6648369485726165
+EP300_damaging_to_CREBBP,Avana,ACH-001283,Bone,matrix_intact,0.2922912328584366
+EP300_damaging_to_CREBBP,Avana,ACH-001289,CNS/Brain,matrix_intact,0.05188485194927317
+EP300_damaging_to_CREBBP,Avana,ACH-001295,Eye,matrix_intact,0.025000355151297726
+EP300_damaging_to_CREBBP,Avana,ACH-001300,Peripheral Nervous System,matrix_intact,0.6790901568431513
+EP300_damaging_to_CREBBP,Avana,ACH-001301,Peripheral Nervous System,matrix_intact,0.059038152679010525
+EP300_damaging_to_CREBBP,Avana,ACH-001302,Peripheral Nervous System,matrix_intact,0.23520688424339783
+EP300_damaging_to_CREBBP,Avana,ACH-001303,Peripheral Nervous System,matrix_intact,0.4181262041535755
+EP300_damaging_to_CREBBP,Avana,ACH-001306,Thyroid,matrix_intact,-0.6086483717652622
+EP300_damaging_to_CREBBP,Avana,ACH-001307,Thyroid,matrix_intact,-0.5388790718943905
+EP300_damaging_to_CREBBP,Avana,ACH-001310,Kidney,matrix_intact,0.09881451356072496
+EP300_damaging_to_CREBBP,Avana,ACH-001318,Liver,matrix_intact,-0.4861214416176759
+EP300_damaging_to_CREBBP,Avana,ACH-001322,Soft Tissue,matrix_intact,-0.19351443059623682
+EP300_damaging_to_CREBBP,Avana,ACH-001328,Skin,damaging,0.2618006913725637
+EP300_damaging_to_CREBBP,Avana,ACH-001329,CNS/Brain,matrix_intact,0.15200458238206205
+EP300_damaging_to_CREBBP,Avana,ACH-001333,Cervix,matrix_intact,0.2482847125498662
+EP300_damaging_to_CREBBP,Avana,ACH-001334,Cervix,matrix_intact,0.21654242767893633
+EP300_damaging_to_CREBBP,Avana,ACH-001335,Cervix,matrix_intact,0.3112180401805587
+EP300_damaging_to_CREBBP,Avana,ACH-001336,Cervix,matrix_intact,-1.013212157466451
+EP300_damaging_to_CREBBP,Avana,ACH-001338,Peripheral Nervous System,damaging,0.04050582386026222
+EP300_damaging_to_CREBBP,Avana,ACH-001340,Ovary/Fallopian Tube,matrix_intact,-0.9189199043244849
+EP300_damaging_to_CREBBP,Avana,ACH-001341,Cervix,matrix_intact,0.18995683712370945
+EP300_damaging_to_CREBBP,Avana,ACH-001344,Peripheral Nervous System,matrix_intact,-0.22518207389038203
+EP300_damaging_to_CREBBP,Avana,ACH-001345,Bowel,damaging,-0.11785020094479703
+EP300_damaging_to_CREBBP,Avana,ACH-001346,Head and Neck,matrix_intact,0.5361754672655206
+EP300_damaging_to_CREBBP,Avana,ACH-001347,Head and Neck,matrix_intact,-0.045573899127000474
+EP300_damaging_to_CREBBP,Avana,ACH-001353,Pancreas,matrix_intact,0.5697323676451642
+EP300_damaging_to_CREBBP,Avana,ACH-001354,Peripheral Nervous System,matrix_intact,-0.0843157056997841
+EP300_damaging_to_CREBBP,Avana,ACH-001356,Thyroid,matrix_intact,-1.9490186227676949
+EP300_damaging_to_CREBBP,Avana,ACH-001360,Cervix,matrix_intact,0.08906162766727423
+EP300_damaging_to_CREBBP,Avana,ACH-001366,Peripheral Nervous System,matrix_intact,0.07573863397279013
+EP300_damaging_to_CREBBP,Avana,ACH-001367,Peripheral Nervous System,matrix_intact,-0.2524519779032204
+EP300_damaging_to_CREBBP,Avana,ACH-001368,Esophagus/Stomach,matrix_intact,-0.12607426520835835
+EP300_damaging_to_CREBBP,Avana,ACH-001370,Ovary/Fallopian Tube,matrix_intact,-0.13158711689269514
+EP300_damaging_to_CREBBP,Avana,ACH-001374,Ovary/Fallopian Tube,matrix_intact,-0.08833942134625031
+EP300_damaging_to_CREBBP,Avana,ACH-001375,Pancreas,matrix_intact,0.18820736504805066
+EP300_damaging_to_CREBBP,Avana,ACH-001377,Pancreas,matrix_intact,0.1686968885673213
+EP300_damaging_to_CREBBP,Avana,ACH-001379,Pancreas,matrix_intact,-0.06219571875612613
+EP300_damaging_to_CREBBP,Avana,ACH-001380,Pancreas,matrix_intact,-0.276056354301621
+EP300_damaging_to_CREBBP,Avana,ACH-001382,Pancreas,matrix_intact,-0.06535052148043341
+EP300_damaging_to_CREBBP,Avana,ACH-001385,Head and Neck,matrix_intact,-0.3037649087664507
+EP300_damaging_to_CREBBP,Avana,ACH-001386,Lung,matrix_intact,-0.29378929500625894
+EP300_damaging_to_CREBBP,Avana,ACH-001388,Breast,matrix_intact,0.24048508358101317
+EP300_damaging_to_CREBBP,Avana,ACH-001389,Breast,matrix_intact,-0.5924266143226407
+EP300_damaging_to_CREBBP,Avana,ACH-001390,Breast,matrix_intact,-0.5754675481757718
+EP300_damaging_to_CREBBP,Avana,ACH-001391,Breast,matrix_intact,-0.3033862464919084
+EP300_damaging_to_CREBBP,Avana,ACH-001392,Breast,matrix_intact,0.023866259529645877
+EP300_damaging_to_CREBBP,Avana,ACH-001393,Breast,matrix_intact,-0.29801237350812837
+EP300_damaging_to_CREBBP,Avana,ACH-001394,Breast,matrix_intact,-0.8099858621455667
+EP300_damaging_to_CREBBP,Avana,ACH-001396,Breast,matrix_intact,-0.27919683225455305
+EP300_damaging_to_CREBBP,Avana,ACH-001398,Kidney,matrix_intact,0.5215351910867967
+EP300_damaging_to_CREBBP,Avana,ACH-001400,Vulva/Vagina,matrix_intact,0.40769381537323657
+EP300_damaging_to_CREBBP,Avana,ACH-001402,Cervix,damaging,-3.002203990231071
+EP300_damaging_to_CREBBP,Avana,ACH-001403,Ovary/Fallopian Tube,matrix_intact,-0.6032889052495167
+EP300_damaging_to_CREBBP,Avana,ACH-001407,Bladder/Urinary Tract,matrix_intact,1.246468784713545
+EP300_damaging_to_CREBBP,Avana,ACH-001408,Bladder/Urinary Tract,matrix_intact,-0.2571048158507221
+EP300_damaging_to_CREBBP,Avana,ACH-001409,Bladder/Urinary Tract,matrix_intact,-0.5665946217844047
+EP300_damaging_to_CREBBP,Avana,ACH-001411,Bladder/Urinary Tract,matrix_intact,-0.07989981291758176
+EP300_damaging_to_CREBBP,Avana,ACH-001412,Bladder/Urinary Tract,matrix_intact,0.3545460242895624
+EP300_damaging_to_CREBBP,Avana,ACH-001413,Bladder/Urinary Tract,damaging,-1.0196747754400477
+EP300_damaging_to_CREBBP,Avana,ACH-001414,Bladder/Urinary Tract,matrix_intact,-0.19053457357322745
+EP300_damaging_to_CREBBP,Avana,ACH-001415,Bladder/Urinary Tract,matrix_intact,0.06569651343905572
+EP300_damaging_to_CREBBP,Avana,ACH-001416,Bladder/Urinary Tract,matrix_intact,-0.9129003046093005
+EP300_damaging_to_CREBBP,Avana,ACH-001418,Ovary/Fallopian Tube,matrix_intact,-0.012055594397927416
+EP300_damaging_to_CREBBP,Avana,ACH-001419,Breast,matrix_intact,-0.011799292864137681
+EP300_damaging_to_CREBBP,Avana,ACH-001421,Eye,matrix_intact,0.10579551925717028
+EP300_damaging_to_CREBBP,Avana,ACH-001422,Prostate,matrix_intact,0.9270904727972185
+EP300_damaging_to_CREBBP,Avana,ACH-001430,Bone,matrix_intact,-0.051454166566774706
+EP300_damaging_to_CREBBP,Avana,ACH-001431,Bone,matrix_intact,0.7300789861334268
+EP300_damaging_to_CREBBP,Avana,ACH-001433,Soft Tissue,matrix_intact,-0.45224685613040316
+EP300_damaging_to_CREBBP,Avana,ACH-001442,Skin,matrix_intact,0.027765406090904124
+EP300_damaging_to_CREBBP,Avana,ACH-001443,Thyroid,matrix_intact,0.41447708544340545
+EP300_damaging_to_CREBBP,Avana,ACH-001450,Lymphoid,matrix_intact,0.24875630182962077
+EP300_damaging_to_CREBBP,Avana,ACH-001451,Cervix,matrix_intact,-0.3269410104086207
+EP300_damaging_to_CREBBP,Avana,ACH-001453,Prostate,matrix_intact,-0.99996235472707
+EP300_damaging_to_CREBBP,Avana,ACH-001454,Bowel,matrix_intact,-0.22922304456054687
+EP300_damaging_to_CREBBP,Avana,ACH-001458,Bowel,matrix_intact,-0.7568843397705622
+EP300_damaging_to_CREBBP,Avana,ACH-001459,Bowel,matrix_intact,0.19062138588045446
+EP300_damaging_to_CREBBP,Avana,ACH-001460,Bowel,matrix_intact,0.017070105730510016
+EP300_damaging_to_CREBBP,Avana,ACH-001461,Bowel,matrix_intact,-0.12959803341591097
+EP300_damaging_to_CREBBP,Avana,ACH-001481,Peripheral Nervous System,matrix_intact,0.03627125180690355
+EP300_damaging_to_CREBBP,Avana,ACH-001494,Biliary Tract,matrix_intact,-0.27284555835508106
+EP300_damaging_to_CREBBP,Avana,ACH-001495,Uterus,matrix_intact,-1.6442696547082472
+EP300_damaging_to_CREBBP,Avana,ACH-001496,Esophagus/Stomach,matrix_intact,-1.0450050459925548
+EP300_damaging_to_CREBBP,Avana,ACH-001497,Esophagus/Stomach,matrix_intact,-0.35133155983891035
+EP300_damaging_to_CREBBP,Avana,ACH-001498,Lymphoid,damaging,-1.5078265353022804
+EP300_damaging_to_CREBBP,Avana,ACH-001500,Esophagus/Stomach,matrix_intact,0.17331808704540874
+EP300_damaging_to_CREBBP,Avana,ACH-001509,Head and Neck,matrix_intact,0.38056026945606464
+EP300_damaging_to_CREBBP,Avana,ACH-001510,Head and Neck,matrix_intact,-0.637955505340503
+EP300_damaging_to_CREBBP,Avana,ACH-001511,Head and Neck,matrix_intact,-0.5879399303618671
+EP300_damaging_to_CREBBP,Avana,ACH-001513,Cervix,matrix_intact,-0.24078775012982773
+EP300_damaging_to_CREBBP,Avana,ACH-001515,Cervix,matrix_intact,-0.4020369528659833
+EP300_damaging_to_CREBBP,Avana,ACH-001517,Uterus,damaging,-0.6941788523743013
+EP300_damaging_to_CREBBP,Avana,ACH-001518,Uterus,matrix_intact,-0.22562110286038806
+EP300_damaging_to_CREBBP,Avana,ACH-001520,Lymphoid,matrix_intact,-1.2181692959449384
+EP300_damaging_to_CREBBP,Avana,ACH-001521,Skin,matrix_intact,-0.2397878658643773
+EP300_damaging_to_CREBBP,Avana,ACH-001522,Skin,matrix_intact,-0.0724129992986842
+EP300_damaging_to_CREBBP,Avana,ACH-001523,Skin,matrix_intact,0.06384099171241792
+EP300_damaging_to_CREBBP,Avana,ACH-001524,Skin,matrix_intact,-0.3415425423380616
+EP300_damaging_to_CREBBP,Avana,ACH-001525,Cervix,matrix_intact,-0.2897556830710757
+EP300_damaging_to_CREBBP,Avana,ACH-001526,Bone,matrix_intact,0.14587463423937178
+EP300_damaging_to_CREBBP,Avana,ACH-001528,Thyroid,damaging,-0.20165249674849411
+EP300_damaging_to_CREBBP,Avana,ACH-001529,Uterus,matrix_intact,-0.08043768863873912
+EP300_damaging_to_CREBBP,Avana,ACH-001530,Uterus,matrix_intact,-0.8107720062760606
+EP300_damaging_to_CREBBP,Avana,ACH-001532,Kidney,matrix_intact,-2.350897219984394
+EP300_damaging_to_CREBBP,Avana,ACH-001533,Lymphoid,matrix_intact,-0.5415291186790245
+EP300_damaging_to_CREBBP,Avana,ACH-001536,Biliary Tract,matrix_intact,-0.17119057756890968
+EP300_damaging_to_CREBBP,Avana,ACH-001538,Biliary Tract,matrix_intact,0.18329839666690662
+EP300_damaging_to_CREBBP,Avana,ACH-001539,Lymphoid,matrix_intact,-0.18930488147878094
+EP300_damaging_to_CREBBP,Avana,ACH-001542,Head and Neck,matrix_intact,0.32358588935741756
+EP300_damaging_to_CREBBP,Avana,ACH-001543,Head and Neck,matrix_intact,0.7227618286436412
+EP300_damaging_to_CREBBP,Avana,ACH-001547,Pleura,matrix_intact,1.085345127483187
+EP300_damaging_to_CREBBP,Avana,ACH-001548,Peripheral Nervous System,matrix_intact,-0.12164939707947293
+EP300_damaging_to_CREBBP,Avana,ACH-001549,Lung,damaging,-0.415228442218348
+EP300_damaging_to_CREBBP,Avana,ACH-001550,Skin,matrix_intact,0.1768280199449652
+EP300_damaging_to_CREBBP,Avana,ACH-001551,Skin,matrix_intact,0.29899750262903396
+EP300_damaging_to_CREBBP,Avana,ACH-001552,Skin,matrix_intact,-0.07204451958455493
+EP300_damaging_to_CREBBP,Avana,ACH-001554,Eye,matrix_intact,0.06968129386213556
+EP300_damaging_to_CREBBP,Avana,ACH-001555,Pleura,damaging,-1.2991988062948767
+EP300_damaging_to_CREBBP,Avana,ACH-001556,Pleura,matrix_intact,-1.2532376528650966
+EP300_damaging_to_CREBBP,Avana,ACH-001557,Pleura,matrix_intact,0.5922460317327536
+EP300_damaging_to_CREBBP,Avana,ACH-001558,Pleura,matrix_intact,0.1412094682358021
+EP300_damaging_to_CREBBP,Avana,ACH-001559,Pleura,matrix_intact,-1.374233095811453
+EP300_damaging_to_CREBBP,Avana,ACH-001560,Pleura,matrix_intact,-2.4785949769407054
+EP300_damaging_to_CREBBP,Avana,ACH-001562,Pleura,matrix_intact,-0.6099511505732541
+EP300_damaging_to_CREBBP,Avana,ACH-001563,Skin,matrix_intact,-0.5474816181840625
+EP300_damaging_to_CREBBP,Avana,ACH-001566,Skin,matrix_intact,-0.609511037316425
+EP300_damaging_to_CREBBP,Avana,ACH-001567,Skin,matrix_intact,0.018843958896086532
+EP300_damaging_to_CREBBP,Avana,ACH-001568,Skin,matrix_intact,0.28284675962772887
+EP300_damaging_to_CREBBP,Avana,ACH-001570,Skin,matrix_intact,0.06346853808715607
+EP300_damaging_to_CREBBP,Avana,ACH-001574,Myeloid,matrix_intact,0.22409108002075184
+EP300_damaging_to_CREBBP,Avana,ACH-001577,Myeloid,matrix_intact,1.1591566026599578
+EP300_damaging_to_CREBBP,Avana,ACH-001607,Biliary Tract,matrix_intact,-1.302262490845104
+EP300_damaging_to_CREBBP,Avana,ACH-001608,CNS/Brain,matrix_intact,-1.219874527266009
+EP300_damaging_to_CREBBP,Avana,ACH-001609,CNS/Brain,matrix_intact,-0.5052409384090261
+EP300_damaging_to_CREBBP,Avana,ACH-001610,CNS/Brain,matrix_intact,-0.5508478474482463
+EP300_damaging_to_CREBBP,Avana,ACH-001611,CNS/Brain,matrix_intact,-1.144986499377314
+EP300_damaging_to_CREBBP,Avana,ACH-001616,Lymphoid,matrix_intact,-3.190202890202809
+EP300_damaging_to_CREBBP,Avana,ACH-001618,Myeloid,matrix_intact,-0.920465761142021
+EP300_damaging_to_CREBBP,Avana,ACH-001619,Biliary Tract,matrix_intact,1.0702445757689523
+EP300_damaging_to_CREBBP,Avana,ACH-001622,CNS/Brain,matrix_intact,-0.2033851416706085
+EP300_damaging_to_CREBBP,Avana,ACH-001623,CNS/Brain,matrix_intact,0.05998863857293647
+EP300_damaging_to_CREBBP,Avana,ACH-001624,CNS/Brain,matrix_intact,-0.18445695890800617
+EP300_damaging_to_CREBBP,Avana,ACH-001627,Prostate,matrix_intact,0.27136307025367445
+EP300_damaging_to_CREBBP,Avana,ACH-001628,Ovary/Fallopian Tube,matrix_intact,0.7554910962047363
+EP300_damaging_to_CREBBP,Avana,ACH-001630,Ovary/Fallopian Tube,matrix_intact,-0.25744083433922826
+EP300_damaging_to_CREBBP,Avana,ACH-001634,Lymphoid,matrix_intact,-0.20171780327786232
+EP300_damaging_to_CREBBP,Avana,ACH-001641,Head and Neck,matrix_intact,-0.2823258365654171
+EP300_damaging_to_CREBBP,Avana,ACH-001645,Skin,matrix_intact,-0.3399324863569504
+EP300_damaging_to_CREBBP,Avana,ACH-001647,Myeloid,matrix_intact,-0.12442295239178722
+EP300_damaging_to_CREBBP,Avana,ACH-001648,Prostate,matrix_intact,0.3498941315899851
+EP300_damaging_to_CREBBP,Avana,ACH-001649,Prostate,matrix_intact,-0.2222096670345262
+EP300_damaging_to_CREBBP,Avana,ACH-001650,Cervix,matrix_intact,-0.9704343187672952
+EP300_damaging_to_CREBBP,Avana,ACH-001651,Cervix,matrix_intact,-1.6111763177823164
+EP300_damaging_to_CREBBP,Avana,ACH-001652,Cervix,matrix_intact,0.023748846573589402
+EP300_damaging_to_CREBBP,Avana,ACH-001653,Esophagus/Stomach,matrix_intact,-0.272109913311263
+EP300_damaging_to_CREBBP,Avana,ACH-001654,Esophagus/Stomach,matrix_intact,-0.517571596197492
+EP300_damaging_to_CREBBP,Avana,ACH-001655,Uterus,matrix_intact,-0.317072032406994
+EP300_damaging_to_CREBBP,Avana,ACH-001656,Myeloid,matrix_intact,0.11304325923264577
+EP300_damaging_to_CREBBP,Avana,ACH-001664,Esophagus/Stomach,damaging,-5.772176407038716
+EP300_damaging_to_CREBBP,Avana,ACH-001668,Testis,matrix_intact,-0.2007322326430811
+EP300_damaging_to_CREBBP,Avana,ACH-001669,Lymphoid,matrix_intact,0.18372762178439478
+EP300_damaging_to_CREBBP,Avana,ACH-001670,CNS/Brain,matrix_intact,0.09920314393654953
+EP300_damaging_to_CREBBP,Avana,ACH-001673,Biliary Tract,matrix_intact,-0.1205486079634461
+EP300_damaging_to_CREBBP,Avana,ACH-001674,Peripheral Nervous System,matrix_intact,0.21435943725737513
+EP300_damaging_to_CREBBP,Avana,ACH-001675,Head and Neck,matrix_intact,0.14600695918307333
+EP300_damaging_to_CREBBP,Avana,ACH-001677,Lymphoid,matrix_intact,-0.35550353299591825
+EP300_damaging_to_CREBBP,Avana,ACH-001685,Lymphoid,matrix_intact,-0.08695618921720796
+EP300_damaging_to_CREBBP,Avana,ACH-001687,Kidney,matrix_intact,-0.47259560595523264
+EP300_damaging_to_CREBBP,Avana,ACH-001688,Kidney,matrix_intact,0.6658354681976633
+EP300_damaging_to_CREBBP,Avana,ACH-001690,Head and Neck,matrix_intact,0.7222117410863017
+EP300_damaging_to_CREBBP,Avana,ACH-001691,Head and Neck,matrix_intact,0.04080993689496809
+EP300_damaging_to_CREBBP,Avana,ACH-001692,Head and Neck,matrix_intact,0.14712354539974232
+EP300_damaging_to_CREBBP,Avana,ACH-001694,Head and Neck,matrix_intact,-0.4763429363602798
+EP300_damaging_to_CREBBP,Avana,ACH-001696,Head and Neck,matrix_intact,0.4298271296979262
+EP300_damaging_to_CREBBP,Avana,ACH-001698,Head and Neck,matrix_intact,0.39467910512593735
+EP300_damaging_to_CREBBP,Avana,ACH-001699,Head and Neck,matrix_intact,-0.31921448093257865
+EP300_damaging_to_CREBBP,Avana,ACH-001701,Head and Neck,matrix_intact,-0.9578610991678858
+EP300_damaging_to_CREBBP,Avana,ACH-001702,Soft Tissue,matrix_intact,-0.37485639572296764
+EP300_damaging_to_CREBBP,Avana,ACH-001707,Lymphoid,matrix_intact,-1.8440297293461745
+EP300_damaging_to_CREBBP,Avana,ACH-001709,Lymphoid,matrix_intact,-1.7147837642988906
+EP300_damaging_to_CREBBP,Avana,ACH-001711,CNS/Brain,matrix_intact,-0.7756387776145077
+EP300_damaging_to_CREBBP,Avana,ACH-001715,Bone,matrix_intact,0.042528531411038274
+EP300_damaging_to_CREBBP,Avana,ACH-001719,Ovary/Fallopian Tube,matrix_intact,0.33908133916050154
+EP300_damaging_to_CREBBP,Avana,ACH-001735,Lymphoid,matrix_intact,-0.7410089463074001
+EP300_damaging_to_CREBBP,Avana,ACH-001736,Lymphoid,matrix_intact,0.46438467033901454
+EP300_damaging_to_CREBBP,Avana,ACH-001737,Lymphoid,matrix_intact,-0.14402291118731453
+EP300_damaging_to_CREBBP,Avana,ACH-001740,Soft Tissue,matrix_intact,0.018271735843942958
+EP300_damaging_to_CREBBP,Avana,ACH-001745,Soft Tissue,matrix_intact,-0.08769590961771721
+EP300_damaging_to_CREBBP,Avana,ACH-001750,Soft Tissue,matrix_intact,-0.14818504230140703
+EP300_damaging_to_CREBBP,Avana,ACH-001765,Soft Tissue,matrix_intact,-1.4654109029694944
+EP300_damaging_to_CREBBP,Avana,ACH-001786,Bowel,matrix_intact,-0.9444428821941053
+EP300_damaging_to_CREBBP,Avana,ACH-001791,Soft Tissue,matrix_intact,0.8350657956814813
+EP300_damaging_to_CREBBP,Avana,ACH-001793,Soft Tissue,matrix_intact,0.8599985636949041
+EP300_damaging_to_CREBBP,Avana,ACH-001794,Soft Tissue,matrix_intact,0.48423199780834303
+EP300_damaging_to_CREBBP,Avana,ACH-001795,Soft Tissue,matrix_intact,0.8285218904777506
+EP300_damaging_to_CREBBP,Avana,ACH-001796,Soft Tissue,matrix_intact,0.13932378912121696
+EP300_damaging_to_CREBBP,Avana,ACH-001799,Soft Tissue,matrix_intact,0.9674331609788168
+EP300_damaging_to_CREBBP,Avana,ACH-001802,Soft Tissue,matrix_intact,1.438237346453541
+EP300_damaging_to_CREBBP,Avana,ACH-001804,Soft Tissue,matrix_intact,-0.38536459737646045
+EP300_damaging_to_CREBBP,Avana,ACH-001814,Bone,matrix_intact,0.04455871471011899
+EP300_damaging_to_CREBBP,Avana,ACH-001819,Breast,matrix_intact,-1.3293405722945595
+EP300_damaging_to_CREBBP,Avana,ACH-001820,Breast,matrix_intact,0.5596051277696463
+EP300_damaging_to_CREBBP,Avana,ACH-001834,Biliary Tract,matrix_intact,-0.3112215715886548
+EP300_damaging_to_CREBBP,Avana,ACH-001835,Biliary Tract,matrix_intact,-0.264929437729327
+EP300_damaging_to_CREBBP,Avana,ACH-001836,Biliary Tract,matrix_intact,-1.471247233458659
+EP300_damaging_to_CREBBP,Avana,ACH-001838,Biliary Tract,matrix_intact,-0.1467828584771515
+EP300_damaging_to_CREBBP,Avana,ACH-001839,Biliary Tract,matrix_intact,0.5435442363912651
+EP300_damaging_to_CREBBP,Avana,ACH-001841,Biliary Tract,matrix_intact,-0.27900233409178815
+EP300_damaging_to_CREBBP,Avana,ACH-001842,Biliary Tract,matrix_intact,0.1029059058242443
+EP300_damaging_to_CREBBP,Avana,ACH-001843,Biliary Tract,matrix_intact,-1.9813267089975959
+EP300_damaging_to_CREBBP,Avana,ACH-001844,Biliary Tract,matrix_intact,-0.30734715222249515
+EP300_damaging_to_CREBBP,Avana,ACH-001848,Biliary Tract,matrix_intact,-0.1527129391723965
+EP300_damaging_to_CREBBP,Avana,ACH-001849,Biliary Tract,matrix_intact,-2.404486359941675
+EP300_damaging_to_CREBBP,Avana,ACH-001850,Biliary Tract,matrix_intact,-0.26874464365466944
+EP300_damaging_to_CREBBP,Avana,ACH-001852,Biliary Tract,matrix_intact,0.23706880851608364
+EP300_damaging_to_CREBBP,Avana,ACH-001853,Liver,matrix_intact,-1.3267174446444527
+EP300_damaging_to_CREBBP,Avana,ACH-001856,Biliary Tract,matrix_intact,-0.16061405995492078
+EP300_damaging_to_CREBBP,Avana,ACH-001857,Biliary Tract,matrix_intact,-0.12312664600483907
+EP300_damaging_to_CREBBP,Avana,ACH-001858,Biliary Tract,matrix_intact,-0.5166108341043048
+EP300_damaging_to_CREBBP,Avana,ACH-001861,Biliary Tract,matrix_intact,-1.1590331013231943
+EP300_damaging_to_CREBBP,Avana,ACH-001862,Ampulla of Vater,matrix_intact,-0.42943944735148687
+EP300_damaging_to_CREBBP,Avana,ACH-001863,Biliary Tract,matrix_intact,-0.3043232317908726
+EP300_damaging_to_CREBBP,Avana,ACH-001864,Biliary Tract,matrix_intact,-0.23365381136463315
+EP300_damaging_to_CREBBP,Avana,ACH-001959,Biliary Tract,matrix_intact,-0.8031009869294148
+EP300_damaging_to_CREBBP,Avana,ACH-001960,Biliary Tract,matrix_intact,0.5546074358885615
+EP300_damaging_to_CREBBP,Avana,ACH-001961,Biliary Tract,matrix_intact,-0.7818552750521578
+EP300_damaging_to_CREBBP,Avana,ACH-001970,Skin,matrix_intact,0.19190348242802902
+EP300_damaging_to_CREBBP,Avana,ACH-001973,Skin,matrix_intact,0.17776742445383586
+EP300_damaging_to_CREBBP,Avana,ACH-001977,Pleura,damaging,-0.7512721042516493
+EP300_damaging_to_CREBBP,Avana,ACH-001982,Skin,matrix_intact,0.29546189268389483
+EP300_damaging_to_CREBBP,Avana,ACH-001986,Skin,matrix_intact,0.2571639859118683
+EP300_damaging_to_CREBBP,Avana,ACH-001990,Skin,matrix_intact,0.6504879987410539
+EP300_damaging_to_CREBBP,Avana,ACH-001991,Ovary/Fallopian Tube,matrix_intact,-0.03046266423903979
+EP300_damaging_to_CREBBP,Avana,ACH-001992,Pleura,damaging,-0.5691022415640168
+EP300_damaging_to_CREBBP,Avana,ACH-001993,Lymphoid,matrix_intact,0.06059773044912254
+EP300_damaging_to_CREBBP,Avana,ACH-001997,Biliary Tract,matrix_intact,-0.26512069741030464
+EP300_damaging_to_CREBBP,Avana,ACH-001999,Pancreas,matrix_intact,-1.5994495377918065
+EP300_damaging_to_CREBBP,Avana,ACH-002001,Skin,damaging,-2.0199295966995012
+EP300_damaging_to_CREBBP,Avana,ACH-002002,Skin,damaging,-0.9819746485203009
+EP300_damaging_to_CREBBP,Avana,ACH-002003,Skin,damaging,-3.6624068396021263
+EP300_damaging_to_CREBBP,Avana,ACH-002005,Skin,matrix_intact,-0.05340834094227717
+EP300_damaging_to_CREBBP,Avana,ACH-002014,Eye,matrix_intact,-0.08966891098100314
+EP300_damaging_to_CREBBP,Avana,ACH-002015,Eye,matrix_intact,-0.8518752675731145
+EP300_damaging_to_CREBBP,Avana,ACH-002016,Eye,matrix_intact,0.577052091870767
+EP300_damaging_to_CREBBP,Avana,ACH-002018,Eye,matrix_intact,-0.09165808395511787
+EP300_damaging_to_CREBBP,Avana,ACH-002019,Cervix,matrix_intact,0.19896363250207075
+EP300_damaging_to_CREBBP,Avana,ACH-002020,Cervix,damaging,-0.22831504891056253
+EP300_damaging_to_CREBBP,Avana,ACH-002021,Uterus,matrix_intact,-0.18541430258886582
+EP300_damaging_to_CREBBP,Avana,ACH-002023,Ampulla of Vater,matrix_intact,-1.085268727927604
+EP300_damaging_to_CREBBP,Avana,ACH-002024,Bowel,matrix_intact,0.18711362153503597
+EP300_damaging_to_CREBBP,Avana,ACH-002025,Bowel,matrix_intact,-1.740925963840639
+EP300_damaging_to_CREBBP,Avana,ACH-002026,Uterus,matrix_intact,0.012722846591587969
+EP300_damaging_to_CREBBP,Avana,ACH-002027,Uterus,matrix_intact,-0.5038426609329266
+EP300_damaging_to_CREBBP,Avana,ACH-002029,Head and Neck,matrix_intact,-0.38206608509039647
+EP300_damaging_to_CREBBP,Avana,ACH-002030,Head and Neck,matrix_intact,0.07314503679376655
+EP300_damaging_to_CREBBP,Avana,ACH-002035,Lung,matrix_intact,-0.10209816730961538
+EP300_damaging_to_CREBBP,Avana,ACH-002039,Pancreas,matrix_intact,0.6685904559058976
+EP300_damaging_to_CREBBP,Avana,ACH-002040,Vulva/Vagina,matrix_intact,0.4000693466965636
+EP300_damaging_to_CREBBP,Avana,ACH-002041,Thyroid,matrix_intact,0.30793586281530505
+EP300_damaging_to_CREBBP,Avana,ACH-002042,Head and Neck,matrix_intact,0.530137625407491
+EP300_damaging_to_CREBBP,Avana,ACH-002043,Head and Neck,matrix_intact,-1.0791610159619314
+EP300_damaging_to_CREBBP,Avana,ACH-002044,Head and Neck,matrix_intact,-0.5840530550147149
+EP300_damaging_to_CREBBP,Avana,ACH-002045,Head and Neck,matrix_intact,-0.9194884557003533
+EP300_damaging_to_CREBBP,Avana,ACH-002046,Uterus,matrix_intact,-0.0405568887710088
+EP300_damaging_to_CREBBP,Avana,ACH-002048,Soft Tissue,matrix_intact,-0.5182458228966444
+EP300_damaging_to_CREBBP,Avana,ACH-002051,Lung,matrix_intact,-0.66662418660718
+EP300_damaging_to_CREBBP,Avana,ACH-002059,Lymphoid,damaging,-0.37670157614048794
+EP300_damaging_to_CREBBP,Avana,ACH-002061,Myeloid,matrix_intact,0.23362698813176808
+EP300_damaging_to_CREBBP,Avana,ACH-002062,Lymphoid,matrix_intact,-0.870096108251567
+EP300_damaging_to_CREBBP,Avana,ACH-002066,Peripheral Nervous System,matrix_intact,0.20149543685796437
+EP300_damaging_to_CREBBP,Avana,ACH-002067,Bone,matrix_intact,-0.11754415708406317
+EP300_damaging_to_CREBBP,Avana,ACH-002069,Bone,matrix_intact,-0.06232026465756354
+EP300_damaging_to_CREBBP,Avana,ACH-002070,CNS/Brain,matrix_intact,0.7864955552779764
+EP300_damaging_to_CREBBP,Avana,ACH-002077,Lung,matrix_intact,-0.05322763698870323
+EP300_damaging_to_CREBBP,Avana,ACH-002080,Peripheral Nervous System,matrix_intact,-0.06358420501518539
+EP300_damaging_to_CREBBP,Avana,ACH-002084,Skin,matrix_intact,-0.9996173664334748
+EP300_damaging_to_CREBBP,Avana,ACH-002214,Lymphoid,matrix_intact,-0.917823699767216
+EP300_damaging_to_CREBBP,Avana,ACH-002215,Lymphoid,matrix_intact,-0.6810453199724336
+EP300_damaging_to_CREBBP,Avana,ACH-002291,Testis,matrix_intact,0.12641241049136387
+EP300_damaging_to_CREBBP,Avana,ACH-002399,Breast,matrix_intact,0.47645789936850413
+EP300_damaging_to_CREBBP,Avana,ACH-002446,Esophagus/Stomach,matrix_intact,-1.0612823315701125
+EP300_damaging_to_CREBBP,Avana,ACH-002458,Skin,matrix_intact,-0.4966293930334542
+EP300_damaging_to_CREBBP,Avana,ACH-002459,Skin,matrix_intact,-0.4288790555155236
+EP300_damaging_to_CREBBP,Avana,ACH-002460,Skin,matrix_intact,-0.7075150714256804
+EP300_damaging_to_CREBBP,Avana,ACH-002461,Skin,matrix_intact,-0.6207392148011031
+EP300_damaging_to_CREBBP,Avana,ACH-002462,Eye,matrix_intact,0.8963716837011066
+EP300_damaging_to_CREBBP,Avana,ACH-002463,Eye,matrix_intact,0.20704128994048476
+EP300_damaging_to_CREBBP,Avana,ACH-002464,Eye,matrix_intact,-0.6648032120707845
+EP300_damaging_to_CREBBP,Avana,ACH-002465,Eye,matrix_intact,0.9279594218087883
+EP300_damaging_to_CREBBP,Avana,ACH-002467,Eye,matrix_intact,0.06416033898841089
+EP300_damaging_to_CREBBP,Avana,ACH-002471,Bone,matrix_intact,0.15375261678586624
+EP300_damaging_to_CREBBP,Avana,ACH-002478,Lymphoid,matrix_intact,-0.001630011094944095
+EP300_damaging_to_CREBBP,Avana,ACH-002485,Lymphoid,matrix_intact,-0.5758608776394802
+EP300_damaging_to_CREBBP,Avana,ACH-002486,Ovary/Fallopian Tube,matrix_intact,0.0342624070786139
+EP300_damaging_to_CREBBP,Avana,ACH-002508,Skin,matrix_intact,-0.6469649598141869
+EP300_damaging_to_CREBBP,Avana,ACH-002510,Skin,matrix_intact,0.41721585148250945
+EP300_damaging_to_CREBBP,Avana,ACH-002511,Skin,matrix_intact,-0.1453856024097427
+EP300_damaging_to_CREBBP,Avana,ACH-002512,Skin,matrix_intact,0.1986943798554059
+EP300_damaging_to_CREBBP,Avana,ACH-002522,Lung,matrix_intact,0.5314141706115939
+EP300_damaging_to_CREBBP,Avana,ACH-002523,Liver,matrix_intact,-0.5310778983202544
+EP300_damaging_to_CREBBP,Avana,ACH-002524,Ovary/Fallopian Tube,matrix_intact,-0.5688713253248986
+EP300_damaging_to_CREBBP,Avana,ACH-002526,Lung,matrix_intact,-0.6072317791698167
+EP300_damaging_to_CREBBP,Avana,ACH-002531,Lung,matrix_intact,-0.21692624782673425
+EP300_damaging_to_CREBBP,Avana,ACH-002533,Kidney,matrix_intact,-0.9856949071816024
+EP300_damaging_to_CREBBP,Avana,ACH-002535,Bowel,matrix_intact,-0.3565747535051904
+EP300_damaging_to_CREBBP,Avana,ACH-002647,Biliary Tract,matrix_intact,0.23854102666273388
+EP300_damaging_to_CREBBP,Avana,ACH-002650,Lung,matrix_intact,-1.4880564769597282
+EP300_damaging_to_CREBBP,Avana,ACH-002654,Bowel,matrix_intact,-1.085616677765604
+EP300_damaging_to_CREBBP,Avana,ACH-002659,Bowel,matrix_intact,-0.5487795265598687
+EP300_damaging_to_CREBBP,Avana,ACH-002664,Bowel,matrix_intact,0.221579209108385
+EP300_damaging_to_CREBBP,Avana,ACH-002669,Bowel,matrix_intact,-3.446322203140214
+EP300_damaging_to_CREBBP,Avana,ACH-002672,Pancreas,matrix_intact,-0.18495520890854333
+EP300_damaging_to_CREBBP,Avana,ACH-002680,CNS/Brain,matrix_intact,-0.30561717398894667
+EP300_damaging_to_CREBBP,Avana,ACH-002687,Eye,matrix_intact,1.044145650208307
+EP300_damaging_to_CREBBP,Avana,ACH-002693,Peripheral Nervous System,matrix_intact,-0.3066371172655416
+EP300_damaging_to_CREBBP,Avana,ACH-002710,Peripheral Nervous System,matrix_intact,-0.06332770295287021
+EP300_damaging_to_CREBBP,Avana,ACH-002785,Soft Tissue,matrix_intact,-0.7819505690682234
+EP300_damaging_to_CREBBP,Avana,ACH-002799,Peripheral Nervous System,matrix_intact,-0.9383570726586301
+EP300_damaging_to_CREBBP,Avana,ACH-002800,Peripheral Nervous System,matrix_intact,-0.7568201012927553
+EP300_damaging_to_CREBBP,Avana,ACH-002834,Bone,matrix_intact,-0.05003314800403699
+EP300_damaging_to_CREBBP,Avana,ACH-002847,Skin,matrix_intact,0.7453319875881039
+EP300_damaging_to_CREBBP,Avana,ACH-002922,Peripheral Nervous System,matrix_intact,-0.23296565624980484
+EP300_damaging_to_CREBBP,Avana,ACH-002925,Eye,matrix_intact,-0.056328137899413745
+EP300_damaging_to_CREBBP,Avana,ACH-002926,Eye,matrix_intact,0.5417282733560342
+EP300_damaging_to_CREBBP,KY,ACH-000001,Ovary/Fallopian Tube,matrix_intact,0.22772443959285832
+EP300_damaging_to_CREBBP,KY,ACH-000007,Bowel,matrix_intact,0.7561468801591501
+EP300_damaging_to_CREBBP,KY,ACH-000009,Bowel,matrix_intact,0.07942421896283135
+EP300_damaging_to_CREBBP,KY,ACH-000019,Breast,matrix_intact,-0.8121698902206888
+EP300_damaging_to_CREBBP,KY,ACH-000023,Pancreas,matrix_intact,-1.5611957807672094
+EP300_damaging_to_CREBBP,KY,ACH-000024,Lymphoid,matrix_intact,-1.1120976403271026
+EP300_damaging_to_CREBBP,KY,ACH-000030,Lung,matrix_intact,0.4718639899869934
+EP300_damaging_to_CREBBP,KY,ACH-000035,Lung,matrix_intact,0.04712675420033763
+EP300_damaging_to_CREBBP,KY,ACH-000042,Pancreas,matrix_intact,-0.06607552068061559
+EP300_damaging_to_CREBBP,KY,ACH-000048,Ovary/Fallopian Tube,matrix_intact,-0.43823951881929685
+EP300_damaging_to_CREBBP,KY,ACH-000060,Pancreas,damaging,-1.1497369619156268
+EP300_damaging_to_CREBBP,KY,ACH-000067,CNS/Brain,matrix_intact,0.4685432232301927
+EP300_damaging_to_CREBBP,KY,ACH-000075,CNS/Brain,matrix_intact,0.2303349306352978
+EP300_damaging_to_CREBBP,KY,ACH-000094,Pancreas,matrix_intact,0.2564142659216662
+EP300_damaging_to_CREBBP,KY,ACH-000098,CNS/Brain,matrix_intact,-0.20323882900540452
+EP300_damaging_to_CREBBP,KY,ACH-000103,Ovary/Fallopian Tube,matrix_intact,0.22896247492328983
+EP300_damaging_to_CREBBP,KY,ACH-000108,Pancreas,matrix_intact,0.14916574434431754
+EP300_damaging_to_CREBBP,KY,ACH-000111,Breast,matrix_intact,0.11098751937238942
+EP300_damaging_to_CREBBP,KY,ACH-000113,Myeloid,matrix_intact,-0.64452301840303
+EP300_damaging_to_CREBBP,KY,ACH-000114,Pancreas,matrix_intact,0.36967908091294427
+EP300_damaging_to_CREBBP,KY,ACH-000118,Pancreas,matrix_intact,-0.16117374011439564
+EP300_damaging_to_CREBBP,KY,ACH-000120,Peripheral Nervous System,matrix_intact,-0.0449999750783254
+EP300_damaging_to_CREBBP,KY,ACH-000124,Lymphoid,matrix_intact,-0.12318050547957203
+EP300_damaging_to_CREBBP,KY,ACH-000132,Ovary/Fallopian Tube,damaging,0.39686121293861015
+EP300_damaging_to_CREBBP,KY,ACH-000137,CNS/Brain,matrix_intact,0.29915808212108225
+EP300_damaging_to_CREBBP,KY,ACH-000139,Pancreas,matrix_intact,-0.21644712922767498
+EP300_damaging_to_CREBBP,KY,ACH-000144,Esophagus/Stomach,matrix_intact,-0.4683562524032255
+EP300_damaging_to_CREBBP,KY,ACH-000147,Breast,matrix_intact,0.1972687135164528
+EP300_damaging_to_CREBBP,KY,ACH-000148,Breast,matrix_intact,-0.008421899969034101
+EP300_damaging_to_CREBBP,KY,ACH-000149,Peripheral Nervous System,matrix_intact,0.41739454874750465
+EP300_damaging_to_CREBBP,KY,ACH-000155,Pancreas,matrix_intact,0.026257985543551746
+EP300_damaging_to_CREBBP,KY,ACH-000176,Lung,damaging,-1.1920381971809464
+EP300_damaging_to_CREBBP,KY,ACH-000181,Head and Neck,matrix_intact,-1.0470243975832156
+EP300_damaging_to_CREBBP,KY,ACH-000183,Lymphoid,matrix_intact,0.2613722131160595
+EP300_damaging_to_CREBBP,KY,ACH-000192,Uterus,matrix_intact,-0.06490769914151724
+EP300_damaging_to_CREBBP,KY,ACH-000200,CNS/Brain,matrix_intact,-0.02476660710862523
+EP300_damaging_to_CREBBP,KY,ACH-000204,Lymphoid,matrix_intact,-0.9608927743540159
+EP300_damaging_to_CREBBP,KY,ACH-000207,Head and Neck,matrix_intact,0.40946468437664213
+EP300_damaging_to_CREBBP,KY,ACH-000213,Pancreas,matrix_intact,0.6570452390295239
+EP300_damaging_to_CREBBP,KY,ACH-000219,Skin,damaging,0.28280394826104877
+EP300_damaging_to_CREBBP,KY,ACH-000222,Pancreas,matrix_intact,0.22385388202119225
+EP300_damaging_to_CREBBP,KY,ACH-000223,Breast,matrix_intact,0.34930069949403425
+EP300_damaging_to_CREBBP,KY,ACH-000227,Peripheral Nervous System,matrix_intact,-0.30227753550742226
+EP300_damaging_to_CREBBP,KY,ACH-000232,CNS/Brain,matrix_intact,0.39670105600689354
+EP300_damaging_to_CREBBP,KY,ACH-000235,Pancreas,matrix_intact,0.5400879679628537
+EP300_damaging_to_CREBBP,KY,ACH-000238,Head and Neck,matrix_intact,-0.27014196486181713
+EP300_damaging_to_CREBBP,KY,ACH-000243,Pancreas,matrix_intact,-0.5885788307772487
+EP300_damaging_to_CREBBP,KY,ACH-000244,CNS/Brain,matrix_intact,0.39844596271325555
+EP300_damaging_to_CREBBP,KY,ACH-000248,Breast,matrix_intact,0.10831597117066383
+EP300_damaging_to_CREBBP,KY,ACH-000249,Bowel,matrix_intact,-0.7244824335622183
+EP300_damaging_to_CREBBP,KY,ACH-000252,Bowel,matrix_intact,0.33678461552115374
+EP300_damaging_to_CREBBP,KY,ACH-000260,Peripheral Nervous System,matrix_intact,0.19622272536633875
+EP300_damaging_to_CREBBP,KY,ACH-000265,Pancreas,matrix_intact,-0.054228606439138995
+EP300_damaging_to_CREBBP,KY,ACH-000269,CNS/Brain,matrix_intact,0.5952877153368936
+EP300_damaging_to_CREBBP,KY,ACH-000271,Lymphoid,damaging,0.2685821149233856
+EP300_damaging_to_CREBBP,KY,ACH-000273,CNS/Brain,matrix_intact,0.1712570273812943
+EP300_damaging_to_CREBBP,KY,ACH-000276,Breast,matrix_intact,-0.04274509295835755
+EP300_damaging_to_CREBBP,KY,ACH-000291,Ovary/Fallopian Tube,matrix_intact,0.11200355181661277
+EP300_damaging_to_CREBBP,KY,ACH-000293,Uterus,matrix_intact,-0.05032940808827216
+EP300_damaging_to_CREBBP,KY,ACH-000305,Esophagus/Stomach,matrix_intact,-0.1651387786763093
+EP300_damaging_to_CREBBP,KY,ACH-000308,Ovary/Fallopian Tube,matrix_intact,0.01434929677189814
+EP300_damaging_to_CREBBP,KY,ACH-000318,Esophagus/Stomach,matrix_intact,-0.06269910604847875
+EP300_damaging_to_CREBBP,KY,ACH-000320,Pancreas,matrix_intact,-0.1547166925304034
+EP300_damaging_to_CREBBP,KY,ACH-000323,CNS/Brain,matrix_intact,-0.7022920664886368
+EP300_damaging_to_CREBBP,KY,ACH-000336,Myeloid,matrix_intact,-0.354123585206215
+EP300_damaging_to_CREBBP,KY,ACH-000337,Lung,matrix_intact,0.05390361983122497
+EP300_damaging_to_CREBBP,KY,ACH-000341,Peripheral Nervous System,matrix_intact,-0.01631569366157672
+EP300_damaging_to_CREBBP,KY,ACH-000350,Bowel,matrix_intact,0.2615124381905911
+EP300_damaging_to_CREBBP,KY,ACH-000354,Pancreas,matrix_intact,0.4905692494791331
+EP300_damaging_to_CREBBP,KY,ACH-000366,Peripheral Nervous System,matrix_intact,-0.4277372397608108
+EP300_damaging_to_CREBBP,KY,ACH-000367,Pleura,matrix_intact,0.06730207111859139
+EP300_damaging_to_CREBBP,KY,ACH-000374,Breast,matrix_intact,0.6089707961366411
+EP300_damaging_to_CREBBP,KY,ACH-000376,CNS/Brain,matrix_intact,0.6068979355464101
+EP300_damaging_to_CREBBP,KY,ACH-000381,Bowel,matrix_intact,0.2708784722111107
+EP300_damaging_to_CREBBP,KY,ACH-000383,Esophagus/Stomach,matrix_intact,-0.2745759185016439
+EP300_damaging_to_CREBBP,KY,ACH-000391,Bone,matrix_intact,-0.1615777222082161
+EP300_damaging_to_CREBBP,KY,ACH-000395,Lung,matrix_intact,-0.15902099479641482
+EP300_damaging_to_CREBBP,KY,ACH-000408,Esophagus/Stomach,matrix_intact,-0.307240281900701
+EP300_damaging_to_CREBBP,KY,ACH-000411,Kidney,matrix_intact,0.18494612794179285
+EP300_damaging_to_CREBBP,KY,ACH-000414,Lung,matrix_intact,0.11550284757210301
+EP300_damaging_to_CREBBP,KY,ACH-000417,Pancreas,matrix_intact,0.12498255398758618
+EP300_damaging_to_CREBBP,KY,ACH-000421,Bowel,matrix_intact,0.45090152988669036
+EP300_damaging_to_CREBBP,KY,ACH-000424,Bone,matrix_intact,0.13133665968623354
+EP300_damaging_to_CREBBP,KY,ACH-000427,Esophagus/Stomach,matrix_intact,0.12485607176655299
+EP300_damaging_to_CREBBP,KY,ACH-000430,Ovary/Fallopian Tube,matrix_intact,-1.082063656566973
+EP300_damaging_to_CREBBP,KY,ACH-000434,Lung,matrix_intact,0.04741533741305017
+EP300_damaging_to_CREBBP,KY,ACH-000437,CNS/Brain,matrix_intact,-0.0207144959340066
+EP300_damaging_to_CREBBP,KY,ACH-000438,Lung,matrix_intact,0.25761235256883086
+EP300_damaging_to_CREBBP,KY,ACH-000442,Lung,matrix_intact,0.5291127302051363
+EP300_damaging_to_CREBBP,KY,ACH-000452,Esophagus/Stomach,matrix_intact,0.4519449230852109
+EP300_damaging_to_CREBBP,KY,ACH-000464,CNS/Brain,matrix_intact,0.21539920954584266
+EP300_damaging_to_CREBBP,KY,ACH-000469,CNS/Brain,matrix_intact,-1.5801248431126678
+EP300_damaging_to_CREBBP,KY,ACH-000481,Lung,matrix_intact,0.24419780904890895
+EP300_damaging_to_CREBBP,KY,ACH-000501,Bowel,matrix_intact,0.009886041683765417
+EP300_damaging_to_CREBBP,KY,ACH-000504,CNS/Brain,matrix_intact,-0.71483182265679
+EP300_damaging_to_CREBBP,KY,ACH-000505,Soft Tissue,matrix_intact,-0.0795520776476308
+EP300_damaging_to_CREBBP,KY,ACH-000510,Lung,matrix_intact,-0.16120397852123844
+EP300_damaging_to_CREBBP,KY,ACH-000518,Head and Neck,matrix_intact,0.06896532769680691
+EP300_damaging_to_CREBBP,KY,ACH-000524,Ovary/Fallopian Tube,matrix_intact,0.19926442901293184
+EP300_damaging_to_CREBBP,KY,ACH-000527,Ovary/Fallopian Tube,matrix_intact,0.49527977524789696
+EP300_damaging_to_CREBBP,KY,ACH-000532,Bowel,matrix_intact,-0.5629743986578476
+EP300_damaging_to_CREBBP,KY,ACH-000535,Pancreas,damaging,0.8658619970234814
+EP300_damaging_to_CREBBP,KY,ACH-000544,Esophagus/Stomach,matrix_intact,0.0958960401972367
+EP300_damaging_to_CREBBP,KY,ACH-000546,Head and Neck,matrix_intact,0.22881712671284235
+EP300_damaging_to_CREBBP,KY,ACH-000548,Head and Neck,matrix_intact,-0.0009591692327389952
+EP300_damaging_to_CREBBP,KY,ACH-000552,Bowel,matrix_intact,0.1216660418523915
+EP300_damaging_to_CREBBP,KY,ACH-000554,Breast,matrix_intact,0.029943714105323482
+EP300_damaging_to_CREBBP,KY,ACH-000558,CNS/Brain,matrix_intact,0.45391340321384976
+EP300_damaging_to_CREBBP,KY,ACH-000561,Esophagus/Stomach,damaging,-0.03206207356187483
+EP300_damaging_to_CREBBP,KY,ACH-000562,Lung,matrix_intact,-0.16879549354562987
+EP300_damaging_to_CREBBP,KY,ACH-000563,Lung,matrix_intact,0.06434810240277264
+EP300_damaging_to_CREBBP,KY,ACH-000565,Bowel,damaging,-0.17315257577917906
+EP300_damaging_to_CREBBP,KY,ACH-000571,CNS/Brain,matrix_intact,0.15084804841981636
+EP300_damaging_to_CREBBP,KY,ACH-000573,Breast,matrix_intact,-0.24015312310497205
+EP300_damaging_to_CREBBP,KY,ACH-000581,Esophagus/Stomach,damaging,-0.19326846555640798
+EP300_damaging_to_CREBBP,KY,ACH-000584,Ovary/Fallopian Tube,matrix_intact,-0.1630483375720644
+EP300_damaging_to_CREBBP,KY,ACH-000585,Lung,matrix_intact,0.1871267334326324
+EP300_damaging_to_CREBBP,KY,ACH-000587,Lung,matrix_intact,0.08961344164076246
+EP300_damaging_to_CREBBP,KY,ACH-000595,CNS/Brain,matrix_intact,-0.2722238130383783
+EP300_damaging_to_CREBBP,KY,ACH-000596,Lung,matrix_intact,-0.38812621120676294
+EP300_damaging_to_CREBBP,KY,ACH-000599,Pancreas,matrix_intact,0.2835046928217129
+EP300_damaging_to_CREBBP,KY,ACH-000601,Pancreas,matrix_intact,0.4478184568176313
+EP300_damaging_to_CREBBP,KY,ACH-000609,CNS/Brain,matrix_intact,-0.09051298272978182
+EP300_damaging_to_CREBBP,KY,ACH-000619,Head and Neck,matrix_intact,0.26479350424115516
+EP300_damaging_to_CREBBP,KY,ACH-000622,CNS/Brain,matrix_intact,0.09262881306442919
+EP300_damaging_to_CREBBP,KY,ACH-000624,Breast,matrix_intact,0.271442744262581
+EP300_damaging_to_CREBBP,KY,ACH-000637,Esophagus/Stomach,matrix_intact,0.1385283902623327
+EP300_damaging_to_CREBBP,KY,ACH-000651,Bowel,matrix_intact,0.35490569613474
+EP300_damaging_to_CREBBP,KY,ACH-000652,Pancreas,matrix_intact,0.3957802271522936
+EP300_damaging_to_CREBBP,KY,ACH-000656,Lymphoid,matrix_intact,0.017914312995979342
+EP300_damaging_to_CREBBP,KY,ACH-000657,Ovary/Fallopian Tube,matrix_intact,0.24925391873393815
+EP300_damaging_to_CREBBP,KY,ACH-000660,Lymphoid,matrix_intact,0.47745332332691004
+EP300_damaging_to_CREBBP,KY,ACH-000662,Lung,matrix_intact,0.07420936578714254
+EP300_damaging_to_CREBBP,KY,ACH-000665,Lung,matrix_intact,0.6006571045484346
+EP300_damaging_to_CREBBP,KY,ACH-000666,Lung,matrix_intact,0.22823610365893993
+EP300_damaging_to_CREBBP,KY,ACH-000668,Breast,matrix_intact,0.37096834022502456
+EP300_damaging_to_CREBBP,KY,ACH-000677,Lung,matrix_intact,0.3227780044845551
+EP300_damaging_to_CREBBP,KY,ACH-000681,Lung,matrix_intact,0.04688641044704337
+EP300_damaging_to_CREBBP,KY,ACH-000694,Esophagus/Stomach,matrix_intact,0.23940476151141032
+EP300_damaging_to_CREBBP,KY,ACH-000696,Ovary/Fallopian Tube,damaging,-0.11435187672328705
+EP300_damaging_to_CREBBP,KY,ACH-000699,Breast,matrix_intact,-0.26383980017726044
+EP300_damaging_to_CREBBP,KY,ACH-000704,Ovary/Fallopian Tube,matrix_intact,-0.32621258562051914
+EP300_damaging_to_CREBBP,KY,ACH-000711,Breast,matrix_intact,0.051720874846677534
+EP300_damaging_to_CREBBP,KY,ACH-000714,Lymphoid,matrix_intact,-1.6511846789130311
+EP300_damaging_to_CREBBP,KY,ACH-000717,Esophagus/Stomach,matrix_intact,0.17328603409514942
+EP300_damaging_to_CREBBP,KY,ACH-000719,Ovary/Fallopian Tube,matrix_intact,-0.042291675763231784
+EP300_damaging_to_CREBBP,KY,ACH-000722,Bowel,matrix_intact,0.33577199011433007
+EP300_damaging_to_CREBBP,KY,ACH-000738,CNS/Brain,matrix_intact,0.3494096187862353
+EP300_damaging_to_CREBBP,KY,ACH-000740,Head and Neck,matrix_intact,0.17396083625734693
+EP300_damaging_to_CREBBP,KY,ACH-000748,Bone,matrix_intact,0.06172979112755004
+EP300_damaging_to_CREBBP,KY,ACH-000756,CNS/Brain,matrix_intact,-0.46718968065306926
+EP300_damaging_to_CREBBP,KY,ACH-000768,Breast,matrix_intact,0.2889400310611221
+EP300_damaging_to_CREBBP,KY,ACH-000769,Lung,matrix_intact,0.410229310459858
+EP300_damaging_to_CREBBP,KY,ACH-000778,Head and Neck,matrix_intact,-0.013382159846402966
+EP300_damaging_to_CREBBP,KY,ACH-000781,Lung,matrix_intact,0.23304136002476514
+EP300_damaging_to_CREBBP,KY,ACH-000784,Esophagus/Stomach,matrix_intact,0.15265441074596223
+EP300_damaging_to_CREBBP,KY,ACH-000787,Lung,matrix_intact,-0.010488432256955171
+EP300_damaging_to_CREBBP,KY,ACH-000788,Skin,matrix_intact,0.8944587222190825
+EP300_damaging_to_CREBBP,KY,ACH-000793,Esophagus/Stomach,matrix_intact,0.037315571495719485
+EP300_damaging_to_CREBBP,KY,ACH-000794,Head and Neck,matrix_intact,0.5516373281775983
+EP300_damaging_to_CREBBP,KY,ACH-000796,Ovary/Fallopian Tube,matrix_intact,0.07749781332865695
+EP300_damaging_to_CREBBP,KY,ACH-000809,Esophagus/Stomach,matrix_intact,0.08301620889590389
+EP300_damaging_to_CREBBP,KY,ACH-000817,Lymphoid,matrix_intact,-1.04701639904024
+EP300_damaging_to_CREBBP,KY,ACH-000823,Esophagus/Stomach,matrix_intact,0.21711736048669694
+EP300_damaging_to_CREBBP,KY,ACH-000824,Esophagus/Stomach,matrix_intact,0.028185436803427683
+EP300_damaging_to_CREBBP,KY,ACH-000832,Head and Neck,matrix_intact,0.2729029604149074
+EP300_damaging_to_CREBBP,KY,ACH-000841,Lung,matrix_intact,0.05355996678753635
+EP300_damaging_to_CREBBP,KY,ACH-000843,Lung,matrix_intact,0.11687272635936685
+EP300_damaging_to_CREBBP,KY,ACH-000846,Head and Neck,matrix_intact,-0.06283797885773156
+EP300_damaging_to_CREBBP,KY,ACH-000847,Esophagus/Stomach,matrix_intact,0.1445472930279739
+EP300_damaging_to_CREBBP,KY,ACH-000849,Breast,matrix_intact,0.10466584791763907
+EP300_damaging_to_CREBBP,KY,ACH-000855,Esophagus/Stomach,matrix_intact,0.2838565260449784
+EP300_damaging_to_CREBBP,KY,ACH-000856,Breast,matrix_intact,-0.14175322921685052
+EP300_damaging_to_CREBBP,KY,ACH-000858,Lung,matrix_intact,0.17731239362437945
+EP300_damaging_to_CREBBP,KY,ACH-000859,Breast,matrix_intact,0.555595597117362
+EP300_damaging_to_CREBBP,KY,ACH-000860,Lung,matrix_intact,0.43753008517674097
+EP300_damaging_to_CREBBP,KY,ACH-000861,Lung,matrix_intact,0.29797935272770865
+EP300_damaging_to_CREBBP,KY,ACH-000863,CNS/Brain,matrix_intact,0.9101498185209183
+EP300_damaging_to_CREBBP,KY,ACH-000864,Uterus,damaging,-1.720457179793092
+EP300_damaging_to_CREBBP,KY,ACH-000865,Esophagus/Stomach,matrix_intact,-0.02237958438902689
+EP300_damaging_to_CREBBP,KY,ACH-000869,Lung,matrix_intact,0.24241365335289145
+EP300_damaging_to_CREBBP,KY,ACH-000873,Esophagus/Stomach,matrix_intact,0.2297491084125699
+EP300_damaging_to_CREBBP,KY,ACH-000876,Breast,matrix_intact,0.34417211637607764
+EP300_damaging_to_CREBBP,KY,ACH-000878,Lung,damaging,0.33703258894959803
+EP300_damaging_to_CREBBP,KY,ACH-000879,Uterus,matrix_intact,0.09820624210333521
+EP300_damaging_to_CREBBP,KY,ACH-000880,Esophagus/Stomach,damaging,-1.4981235145970997
+EP300_damaging_to_CREBBP,KY,ACH-000885,Ovary/Fallopian Tube,matrix_intact,0.0032786068044678798
+EP300_damaging_to_CREBBP,KY,ACH-000894,Lung,matrix_intact,-0.4684288280152327
+EP300_damaging_to_CREBBP,KY,ACH-000900,Lung,matrix_intact,0.28213233101060214
+EP300_damaging_to_CREBBP,KY,ACH-000906,Ovary/Fallopian Tube,matrix_intact,0.2163193203206445
+EP300_damaging_to_CREBBP,KY,ACH-000910,Breast,matrix_intact,-0.5783384282826045
+EP300_damaging_to_CREBBP,KY,ACH-000911,Esophagus/Stomach,damaging,-1.1176785195443892
+EP300_damaging_to_CREBBP,KY,ACH-000913,Uterus,matrix_intact,0.45871868093118007
+EP300_damaging_to_CREBBP,KY,ACH-000917,Esophagus/Stomach,matrix_intact,-0.06045079036238371
+EP300_damaging_to_CREBBP,KY,ACH-000919,Esophagus/Stomach,matrix_intact,0.47057433628165224
+EP300_damaging_to_CREBBP,KY,ACH-000926,Bowel,matrix_intact,0.08373634577122789
+EP300_damaging_to_CREBBP,KY,ACH-000932,Esophagus/Stomach,matrix_intact,0.10853485912586142
+EP300_damaging_to_CREBBP,KY,ACH-000934,Breast,damaging,-0.15829235591233476
+EP300_damaging_to_CREBBP,KY,ACH-000935,Bowel,matrix_intact,0.7445799287226684
+EP300_damaging_to_CREBBP,KY,ACH-000936,Ovary/Fallopian Tube,matrix_intact,-0.7695332927876795
+EP300_damaging_to_CREBBP,KY,ACH-000943,Bowel,damaging,-2.546659870923111
+EP300_damaging_to_CREBBP,KY,ACH-000945,Lung,matrix_intact,0.022968213350923257
+EP300_damaging_to_CREBBP,KY,ACH-000947,Ovary/Fallopian Tube,matrix_intact,0.11823216791208614
+EP300_damaging_to_CREBBP,KY,ACH-000948,Esophagus/Stomach,matrix_intact,-0.10165921976514153
+EP300_damaging_to_CREBBP,KY,ACH-000950,Bowel,matrix_intact,0.36148469142401574
+EP300_damaging_to_CREBBP,KY,ACH-000956,Prostate,damaging,0.3844204632913791
+EP300_damaging_to_CREBBP,KY,ACH-000957,Bowel,matrix_intact,0.16328047968127743
+EP300_damaging_to_CREBBP,KY,ACH-000958,Bowel,damaging,0.28261139467873164
+EP300_damaging_to_CREBBP,KY,ACH-000962,Ovary/Fallopian Tube,matrix_intact,-1.1715525894129335
+EP300_damaging_to_CREBBP,KY,ACH-000965,Uterus,damaging,-0.31094123351716235
+EP300_damaging_to_CREBBP,KY,ACH-000966,Ovary/Fallopian Tube,damaging,0.31414390128368186
+EP300_damaging_to_CREBBP,KY,ACH-000969,Bowel,damaging,-0.001142853955267679
+EP300_damaging_to_CREBBP,KY,ACH-000970,Bowel,damaging,-0.4334727546869062
+EP300_damaging_to_CREBBP,KY,ACH-000971,Bowel,damaging,-0.5811592178873634
+EP300_damaging_to_CREBBP,KY,ACH-000974,Uterus,matrix_intact,-0.02316833933595197
+EP300_damaging_to_CREBBP,KY,ACH-000977,Prostate,matrix_intact,0.062128271892880955
+EP300_damaging_to_CREBBP,KY,ACH-000979,Prostate,matrix_intact,-0.13558660766234046
+EP300_damaging_to_CREBBP,KY,ACH-000980,Lung,damaging,-1.1176248926988903
+EP300_damaging_to_CREBBP,KY,ACH-000985,Bowel,damaging,-0.29703522962259427
+EP300_damaging_to_CREBBP,KY,ACH-000991,Bowel,damaging,-1.145308686850787
+EP300_damaging_to_CREBBP,KY,ACH-000997,Bowel,damaging,-1.423056532788242
+EP300_damaging_to_CREBBP,KY,ACH-001016,CNS/Brain,matrix_intact,-0.7275992921331161
+EP300_damaging_to_CREBBP,KY,ACH-001039,Bowel,matrix_intact,0.7764074867677188
+EP300_damaging_to_CREBBP,KY,ACH-001063,Ovary/Fallopian Tube,matrix_intact,1.0803677180956601
+EP300_damaging_to_CREBBP,KY,ACH-001065,Breast,matrix_intact,0.17297966083873648
+EP300_damaging_to_CREBBP,KY,ACH-001081,Bowel,damaging,-0.31848623084632033
+EP300_damaging_to_CREBBP,KY,ACH-001107,Pancreas,matrix_intact,0.26923152368528547
+EP300_damaging_to_CREBBP,KY,ACH-001126,CNS/Brain,matrix_intact,0.2925591096058753
+EP300_damaging_to_CREBBP,KY,ACH-001137,Lung,matrix_intact,-0.06878327426946336
+EP300_damaging_to_CREBBP,KY,ACH-001151,Ovary/Fallopian Tube,damaging,0.3208257048151559
+EP300_damaging_to_CREBBP,KY,ACH-001190,Skin,matrix_intact,-0.1835365885766933
+EP300_damaging_to_CREBBP,KY,ACH-001193,Bone,matrix_intact,-0.001493039415376804
+EP300_damaging_to_CREBBP,KY,ACH-001233,Lung,matrix_intact,-0.6089872287062394
+EP300_damaging_to_CREBBP,KY,ACH-001331,Head and Neck,matrix_intact,0.4137417992074048
+EP300_damaging_to_CREBBP,KY,ACH-001332,Head and Neck,matrix_intact,0.3702768100714013
+EP300_damaging_to_CREBBP,KY,ACH-001345,Bowel,damaging,-0.11266028400656818
+EP300_damaging_to_CREBBP,KY,ACH-001368,Esophagus/Stomach,matrix_intact,-0.07907108846953306
+EP300_damaging_to_CREBBP,KY,ACH-001399,Bowel,matrix_intact,0.6624824431108886
+EP300_damaging_to_CREBBP,KY,ACH-001418,Ovary/Fallopian Tube,matrix_intact,0.1821355065004214
+EP300_damaging_to_CREBBP,KY,ACH-001494,Biliary Tract,matrix_intact,0.37956737777244287
+EP300_damaging_to_CREBBP,KY,ACH-001496,Esophagus/Stomach,matrix_intact,-0.21421690002631522
+EP300_damaging_to_CREBBP,KY,ACH-001497,Esophagus/Stomach,matrix_intact,-0.9133734958917343
+EP300_damaging_to_CREBBP,KY,ACH-001500,Esophagus/Stomach,matrix_intact,0.010010545277065722
+EP300_damaging_to_CREBBP,KY,ACH-001517,Uterus,damaging,-0.199536436982746
+EP300_damaging_to_CREBBP,KY,ACH-001542,Head and Neck,matrix_intact,0.15581568142770227
+EP300_damaging_to_CREBBP,KY,ACH-001544,Esophagus/Stomach,matrix_intact,-0.2919944997982333
+EP300_damaging_to_CREBBP,KY,ACH-001603,Peripheral Nervous System,matrix_intact,0.25492432541871385
+EP300_damaging_to_CREBBP,KY,ACH-001605,CNS/Brain,matrix_intact,0.6307071946412631
+EP300_damaging_to_CREBBP,KY,ACH-001606,CNS/Brain,damaging,-0.6883367900014292
+EP300_damaging_to_CREBBP,KY,ACH-001625,Head and Neck,matrix_intact,0.3630714089492938
+EP300_damaging_to_CREBBP,KY,ACH-001626,Head and Neck,matrix_intact,0.1446063147603275
+EP300_damaging_to_CREBBP,KY,ACH-001630,Ovary/Fallopian Tube,matrix_intact,0.1404702823897021
+EP300_damaging_to_CREBBP,KY,ACH-001632,Ovary/Fallopian Tube,matrix_intact,0.09787757528604675
+EP300_damaging_to_CREBBP,KY,ACH-001639,Lymphoid,matrix_intact,0.2092211560716701
+EP300_damaging_to_CREBBP,KY,ACH-001654,Esophagus/Stomach,matrix_intact,0.13394616866241496
+EP300_damaging_to_CREBBP,KY,ACH-001674,Peripheral Nervous System,matrix_intact,0.1292680835026414
+EP300_damaging_to_CREBBP,KY,ACH-001715,Bone,matrix_intact,-0.03755965102252939
+EP300_damaging_to_CREBBP,KY,ACH-001819,Breast,matrix_intact,-0.4771961829935836
+EP300_damaging_to_CREBBP,KY,ACH-001820,Breast,matrix_intact,0.5379955645886009
+EP300_damaging_to_CREBBP,KY,ACH-002029,Head and Neck,matrix_intact,-0.18663634350865088
+EP300_damaging_to_CREBBP,KY,ACH-002043,Head and Neck,matrix_intact,0.3052361166720745
+EP300_damaging_to_CREBBP,KY,ACH-002045,Head and Neck,matrix_intact,-0.22696907792666332
+EP300_damaging_to_CREBBP,KY,ACH-002083,Peripheral Nervous System,matrix_intact,-0.5030053254542521
+EP300_damaging_to_CREBBP,KY,ACH-002105,Bone,matrix_intact,0.5991919429740603
+EP300_damaging_to_CREBBP,KY,ACH-002106,Bone,matrix_intact,0.08105039498825185
+EP300_damaging_to_CREBBP,KY,ACH-002109,Bone,matrix_intact,0.32943691992392493
+EP300_damaging_to_CREBBP,KY,ACH-002110,Bone,matrix_intact,0.6120513724776058
+EP300_damaging_to_CREBBP,KY,ACH-002114,Bone,matrix_intact,-0.07353809381098664
+EP300_damaging_to_CREBBP,KY,ACH-002116,Bone,matrix_intact,-0.49844618910689736
+EP300_damaging_to_CREBBP,KY,ACH-002119,Bone,matrix_intact,1.4024189178713673
+EP300_damaging_to_CREBBP,KY,ACH-002140,Ovary/Fallopian Tube,matrix_intact,0.977541211901266
+EP300_damaging_to_CREBBP,KY,ACH-002141,Esophagus/Stomach,matrix_intact,0.8193080350006122
+EP300_damaging_to_CREBBP,KY,ACH-002143,Skin,matrix_intact,-0.012146729401309128
+EP300_damaging_to_CREBBP,KY,ACH-002150,Kidney,matrix_intact,1.0302382775940788
+EP300_damaging_to_CREBBP,KY,ACH-002156,Lung,matrix_intact,0.23848360969755691
+EP300_damaging_to_CREBBP,KY,ACH-002160,Bone,matrix_intact,0.17072471552644605
+EP300_damaging_to_CREBBP,KY,ACH-002161,Esophagus/Stomach,damaging,-0.7631796501290319
+EP300_damaging_to_CREBBP,KY,ACH-002179,Breast,matrix_intact,-0.1451279501385538
+EP300_damaging_to_CREBBP,KY,ACH-002181,Ovary/Fallopian Tube,matrix_intact,-0.03677687987227602
+EP300_damaging_to_CREBBP,KY,ACH-002183,Ovary/Fallopian Tube,matrix_intact,-0.07429272848719573
+EP300_damaging_to_CREBBP,KY,ACH-002186,Pancreas,matrix_intact,-0.1751481106589141
+EP300_damaging_to_CREBBP,KY,ACH-002189,Kidney,matrix_intact,0.0452710102862219
+EP300_damaging_to_CREBBP,KY,ACH-002198,Other,damaging,-0.3330405293379944
+EP300_damaging_to_CREBBP,KY,ACH-002202,Esophagus/Stomach,matrix_intact,0.4316459261611018
+EP300_damaging_to_CREBBP,KY,ACH-002210,Myeloid,matrix_intact,0.02459661698036783
+EP300_damaging_to_CREBBP,KY,ACH-002212,Head and Neck,matrix_intact,0.08022108908001141
+EP300_damaging_to_CREBBP,KY,ACH-002228,CNS/Brain,matrix_intact,0.06066370048161394
+EP300_damaging_to_CREBBP,KY,ACH-002229,CNS/Brain,matrix_intact,1.0278160205533178
+EP300_damaging_to_CREBBP,KY,ACH-002230,CNS/Brain,matrix_intact,0.19002081345480443
+EP300_damaging_to_CREBBP,KY,ACH-002233,Bowel,matrix_intact,0.017327998414243484
+EP300_damaging_to_CREBBP,KY,ACH-002234,Head and Neck,matrix_intact,-0.0030919960167015447
+EP300_damaging_to_CREBBP,KY,ACH-002239,Head and Neck,matrix_intact,0.5445476009756085
+EP300_damaging_to_CREBBP,KY,ACH-002243,Esophagus/Stomach,matrix_intact,-0.015672009643608265
+EP300_damaging_to_CREBBP,KY,ACH-002247,Myeloid,matrix_intact,-0.12548812649544766
+EP300_damaging_to_CREBBP,KY,ACH-002249,Head and Neck,matrix_intact,0.14362032940039285
+EP300_damaging_to_CREBBP,KY,ACH-002250,Head and Neck,matrix_intact,0.3607715686575339
+EP300_damaging_to_CREBBP,KY,ACH-002251,Head and Neck,matrix_intact,0.5259368885274842
+EP300_damaging_to_CREBBP,KY,ACH-002257,CNS/Brain,matrix_intact,0.5289879458894511
+EP300_damaging_to_CREBBP,KY,ACH-002261,Peripheral Nervous System,matrix_intact,0.100618381899661
+EP300_damaging_to_CREBBP,KY,ACH-002263,Esophagus/Stomach,matrix_intact,0.013565488150263177
+EP300_damaging_to_CREBBP,KY,ACH-002265,Head and Neck,matrix_intact,-0.7924377141170759
+EP300_damaging_to_CREBBP,KY,ACH-002269,CNS/Brain,matrix_intact,0.17508302228707048
+EP300_damaging_to_CREBBP,KY,ACH-002278,Peripheral Nervous System,matrix_intact,0.2850497547593162
+EP300_damaging_to_CREBBP,KY,ACH-002280,Peripheral Nervous System,matrix_intact,-0.009457425112867688
+EP300_damaging_to_CREBBP,KY,ACH-002282,Peripheral Nervous System,matrix_intact,0.12059593295010688
+EP300_damaging_to_CREBBP,KY,ACH-002283,Peripheral Nervous System,matrix_intact,0.013555464996489464
+EP300_damaging_to_CREBBP,KY,ACH-002284,Peripheral Nervous System,matrix_intact,0.3859763967185625
+EP300_damaging_to_CREBBP,KY,ACH-002285,Peripheral Nervous System,matrix_intact,-0.4009567317707597
+EP300_damaging_to_CREBBP,KY,ACH-002294,Head and Neck,matrix_intact,0.09123842002169742
+EP300_damaging_to_CREBBP,KY,ACH-002295,Head and Neck,matrix_intact,0.03995832012918823
+EP300_damaging_to_CREBBP,KY,ACH-002296,Head and Neck,matrix_intact,-0.3642262522766746
+EP300_damaging_to_CREBBP,KY,ACH-002297,Head and Neck,matrix_intact,0.005676249337370191
+EP300_damaging_to_CREBBP,KY,ACH-002298,Head and Neck,matrix_intact,-0.29658083302456184
+EP300_damaging_to_CREBBP,KY,ACH-002304,CNS/Brain,matrix_intact,0.32089175845698215
+EP300_damaging_to_CREBBP,KY,ACH-002305,Head and Neck,matrix_intact,0.18067637574901116
