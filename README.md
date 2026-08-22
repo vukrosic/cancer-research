@@ -21,7 +21,7 @@ uncertainty and artifact controls?
 
 ## Current phase
 
-Thirty-two bounded experiments are complete:
+Thirty-three bounded experiments are complete:
 
 - `EXP-20260822-001` passed the API engineering gate: all eight frozen genes had 177
   paired Broad/Sanger models and positive source correlations.
@@ -230,6 +230,13 @@ Thirty-two bounded experiments are complete:
   p `0.8238`). Planning powers were `0.6502` and `0.4713`; no functional-SMAD4,
   AURKA-inhibitor, spindle-checkpoint, treatment, clinical, or confirmatory
   claim is permitted.
+- `EXP-20260822-033` is **T1 descriptive association only; not T2/confirmatory**
+  and is labeled **FEASIBILITY_ONLY_NOMINAL_GATE_FAILURE**. The ARID1A
+  damaging-matrix proxy was weakly negative but heterogeneous in Avana (delta
+  `-0.0893`, p `0.1151`) and near-null in KY (delta `-0.0152`, p `0.4469`).
+  Planning powers were `0.8666` and `0.5810`; no functional-ARID1A,
+  ATR-inhibitor, DNA-damage, treatment, clinical, or confirmatory claim is
+  permitted.
 
 A label-only provenance audit found that the CRC-only cohort has only 7 MSI Broad
 models, below the independently proposed minimum of 8. That CRC-only gate remains a
@@ -270,6 +277,7 @@ uv run python -m candrel.brca12_cip2a_replication  # expected exit 2; T1 feasibi
 uv run python -m candrel.brca12_polq_replication  # expected exit 2; T1 feasibility-only composite-proxy/source-discordance failure
 uv run python -m candrel.smad4_brd4_replication  # expected exit 2; T1 feasibility-only SMAD4/BRD4 transport failure
 uv run python -m candrel.smad4_aurka_replication  # expected exit 2; T1 feasibility-only SMAD4/AURKA transport failure
+uv run python -m candrel.arid1a_atr_replication  # expected exit 2; T1 feasibility-only ARID1A/ATR transport failure
 ```
 
 Raw API responses are cached under `data/raw/` and excluded from Git. Every run

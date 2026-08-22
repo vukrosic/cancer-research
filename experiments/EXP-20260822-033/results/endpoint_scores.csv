@@ -1,0 +1,1291 @@
+pair_id,source,model_id,lineage,status,target_score
+ARID1A_damaging_to_ATR,Avana,ACH-000004,Myeloid,matrix_intact,-0.60859007308773
+ARID1A_damaging_to_ATR,Avana,ACH-000005,Myeloid,matrix_intact,-0.2134730321334123
+ARID1A_damaging_to_ATR,Avana,ACH-000007,Bowel,matrix_intact,-1.0067872124127724
+ARID1A_damaging_to_ATR,Avana,ACH-000009,Bowel,matrix_intact,-0.6377700000938997
+ARID1A_damaging_to_ATR,Avana,ACH-000011,Bladder/Urinary Tract,matrix_intact,-2.219341692259748
+ARID1A_damaging_to_ATR,Avana,ACH-000012,Lung,matrix_intact,-1.607424963960459
+ARID1A_damaging_to_ATR,Avana,ACH-000013,Ovary/Fallopian Tube,matrix_intact,-1.0076969373724012
+ARID1A_damaging_to_ATR,Avana,ACH-000015,Lung,matrix_intact,-0.5857621599052165
+ARID1A_damaging_to_ATR,Avana,ACH-000017,Breast,matrix_intact,-0.8525527053433852
+ARID1A_damaging_to_ATR,Avana,ACH-000018,Bladder/Urinary Tract,matrix_intact,-0.31200357429015835
+ARID1A_damaging_to_ATR,Avana,ACH-000019,Breast,matrix_intact,-0.4225562205057474
+ARID1A_damaging_to_ATR,Avana,ACH-000021,Lung,matrix_intact,-1.510302325097845
+ARID1A_damaging_to_ATR,Avana,ACH-000022,Pancreas,matrix_intact,-1.3293062122464385
+ARID1A_damaging_to_ATR,Avana,ACH-000024,Lymphoid,matrix_intact,-2.052098552832763
+ARID1A_damaging_to_ATR,Avana,ACH-000025,CNS/Brain,matrix_intact,-0.9190956533808337
+ARID1A_damaging_to_ATR,Avana,ACH-000028,Breast,matrix_intact,-0.8962304069935385
+ARID1A_damaging_to_ATR,Avana,ACH-000029,Lung,matrix_intact,-1.690108071468912
+ARID1A_damaging_to_ATR,Avana,ACH-000030,Lung,matrix_intact,-1.3424993351014982
+ARID1A_damaging_to_ATR,Avana,ACH-000035,Lung,matrix_intact,-1.2317563155793398
+ARID1A_damaging_to_ATR,Avana,ACH-000036,CNS/Brain,matrix_intact,-1.3479291128075181
+ARID1A_damaging_to_ATR,Avana,ACH-000037,Soft Tissue,matrix_intact,0.08967945985020136
+ARID1A_damaging_to_ATR,Avana,ACH-000039,Bone,matrix_intact,-0.33700428936900434
+ARID1A_damaging_to_ATR,Avana,ACH-000040,CNS/Brain,matrix_intact,-0.5299852756916699
+ARID1A_damaging_to_ATR,Avana,ACH-000041,Bone,matrix_intact,-0.8804106103326815
+ARID1A_damaging_to_ATR,Avana,ACH-000042,Pancreas,matrix_intact,-0.9249307939203061
+ARID1A_damaging_to_ATR,Avana,ACH-000045,Myeloid,matrix_intact,-0.5731686241144853
+ARID1A_damaging_to_ATR,Avana,ACH-000047,Esophagus/Stomach,matrix_intact,-1.5961795846719595
+ARID1A_damaging_to_ATR,Avana,ACH-000048,Ovary/Fallopian Tube,matrix_intact,-0.46457265267268844
+ARID1A_damaging_to_ATR,Avana,ACH-000052,Bone,matrix_intact,-0.29567261013339596
+ARID1A_damaging_to_ATR,Avana,ACH-000053,Lymphoid,matrix_intact,-0.8584417006064635
+ARID1A_damaging_to_ATR,Avana,ACH-000054,Soft Tissue,matrix_intact,-1.0453009090518144
+ARID1A_damaging_to_ATR,Avana,ACH-000055,CNS/Brain,matrix_intact,-2.5459390218833162
+ARID1A_damaging_to_ATR,Avana,ACH-000060,Pancreas,matrix_intact,-1.9565848011577391
+ARID1A_damaging_to_ATR,Avana,ACH-000067,CNS/Brain,matrix_intact,-1.2619809644084543
+ARID1A_damaging_to_ATR,Avana,ACH-000070,Lymphoid,matrix_intact,-0.3319613724994542
+ARID1A_damaging_to_ATR,Avana,ACH-000074,Myeloid,matrix_intact,-1.277847890688085
+ARID1A_damaging_to_ATR,Avana,ACH-000075,CNS/Brain,matrix_intact,-0.30083072429592583
+ARID1A_damaging_to_ATR,Avana,ACH-000076,Myeloid,matrix_intact,-0.8031606372820282
+ARID1A_damaging_to_ATR,Avana,ACH-000077,Lymphoid,matrix_intact,-0.21570929190727384
+ARID1A_damaging_to_ATR,Avana,ACH-000078,Peripheral Nervous System,matrix_intact,-0.2401878219336609
+ARID1A_damaging_to_ATR,Avana,ACH-000082,Bone,matrix_intact,-1.8867742734178252
+ARID1A_damaging_to_ATR,Avana,ACH-000085,Pancreas,matrix_intact,-0.4050573117539181
+ARID1A_damaging_to_ATR,Avana,ACH-000086,Pleura,matrix_intact,-1.603623298616018
+ARID1A_damaging_to_ATR,Avana,ACH-000090,Prostate,matrix_intact,-0.38407567792442066
+ARID1A_damaging_to_ATR,Avana,ACH-000092,Pleura,matrix_intact,-1.4045950908245293
+ARID1A_damaging_to_ATR,Avana,ACH-000093,Pancreas,matrix_intact,-0.2725854884722231
+ARID1A_damaging_to_ATR,Avana,ACH-000095,CNS/Brain,matrix_intact,-2.096082793151766
+ARID1A_damaging_to_ATR,Avana,ACH-000097,Breast,matrix_intact,-1.9696779324345681
+ARID1A_damaging_to_ATR,Avana,ACH-000098,CNS/Brain,matrix_intact,-1.2969992805555663
+ARID1A_damaging_to_ATR,Avana,ACH-000099,Peripheral Nervous System,matrix_intact,-1.214083116246612
+ARID1A_damaging_to_ATR,Avana,ACH-000101,Lymphoid,matrix_intact,-1.5945541132348406
+ARID1A_damaging_to_ATR,Avana,ACH-000108,Pancreas,damaging,-0.6675106410061036
+ARID1A_damaging_to_ATR,Avana,ACH-000111,Breast,matrix_intact,-6.01391858797072
+ARID1A_damaging_to_ATR,Avana,ACH-000113,Myeloid,matrix_intact,-1.1653789312782825
+ARID1A_damaging_to_ATR,Avana,ACH-000114,Pancreas,matrix_intact,-1.726032239938788
+ARID1A_damaging_to_ATR,Avana,ACH-000115,Prostate,matrix_intact,-0.2435163184588935
+ARID1A_damaging_to_ATR,Avana,ACH-000118,Pancreas,matrix_intact,-1.1127926945899582
+ARID1A_damaging_to_ATR,Avana,ACH-000120,Peripheral Nervous System,matrix_intact,-0.9923259665163696
+ARID1A_damaging_to_ATR,Avana,ACH-000123,Ovary/Fallopian Tube,matrix_intact,-0.6592848250147485
+ARID1A_damaging_to_ATR,Avana,ACH-000127,Bladder/Urinary Tract,matrix_intact,-1.9210111816545101
+ARID1A_damaging_to_ATR,Avana,ACH-000128,CNS/Brain,matrix_intact,-1.0605894952873096
+ARID1A_damaging_to_ATR,Avana,ACH-000132,Ovary/Fallopian Tube,matrix_intact,-3.2976772894823276
+ARID1A_damaging_to_ATR,Avana,ACH-000133,Soft Tissue,matrix_intact,-1.0909788812874002
+ARID1A_damaging_to_ATR,Avana,ACH-000137,CNS/Brain,matrix_intact,-0.49599315771921715
+ARID1A_damaging_to_ATR,Avana,ACH-000138,Pancreas,matrix_intact,-1.2255375452687076
+ARID1A_damaging_to_ATR,Avana,ACH-000141,Biliary Tract,matrix_intact,-0.7072827793685726
+ARID1A_damaging_to_ATR,Avana,ACH-000142,Bladder/Urinary Tract,matrix_intact,-0.9718046307364557
+ARID1A_damaging_to_ATR,Avana,ACH-000143,Lung,matrix_intact,-0.7277177492174044
+ARID1A_damaging_to_ATR,Avana,ACH-000145,Soft Tissue,matrix_intact,-0.6365815466285412
+ARID1A_damaging_to_ATR,Avana,ACH-000146,Myeloid,matrix_intact,-0.7471640546906013
+ARID1A_damaging_to_ATR,Avana,ACH-000147,Breast,damaging,-0.409196277237835
+ARID1A_damaging_to_ATR,Avana,ACH-000148,Breast,matrix_intact,-0.6610359546107099
+ARID1A_damaging_to_ATR,Avana,ACH-000151,Lymphoid,matrix_intact,-0.4435145803613699
+ARID1A_damaging_to_ATR,Avana,ACH-000152,CNS/Brain,matrix_intact,-1.023309934754217
+ARID1A_damaging_to_ATR,Avana,ACH-000153,Pleura,matrix_intact,-0.45626472239626625
+ARID1A_damaging_to_ATR,Avana,ACH-000159,Kidney,matrix_intact,-1.3337309941463977
+ARID1A_damaging_to_ATR,Avana,ACH-000160,CNS/Brain,matrix_intact,-1.2187186692496161
+ARID1A_damaging_to_ATR,Avana,ACH-000161,Lung,matrix_intact,-0.6036198707782888
+ARID1A_damaging_to_ATR,Avana,ACH-000163,Head and Neck,matrix_intact,-0.9343943399990504
+ARID1A_damaging_to_ATR,Avana,ACH-000164,Pancreas,matrix_intact,-1.3570488994426393
+ARID1A_damaging_to_ATR,Avana,ACH-000168,Myeloid,matrix_intact,-0.20258999579741088
+ARID1A_damaging_to_ATR,Avana,ACH-000169,Soft Tissue,matrix_intact,-0.9092211306563981
+ARID1A_damaging_to_ATR,Avana,ACH-000174,Thyroid,matrix_intact,-1.7437834843860296
+ARID1A_damaging_to_ATR,Avana,ACH-000178,Pancreas,damaging,-1.6914619990964392
+ARID1A_damaging_to_ATR,Avana,ACH-000182,Ampulla of Vater,matrix_intact,-2.977930520168533
+ARID1A_damaging_to_ATR,Avana,ACH-000183,Lymphoid,matrix_intact,-0.8824555945372254
+ARID1A_damaging_to_ATR,Avana,ACH-000187,Lung,matrix_intact,-0.8865369193110312
+ARID1A_damaging_to_ATR,Avana,ACH-000188,Head and Neck,matrix_intact,-1.4021618766372521
+ARID1A_damaging_to_ATR,Avana,ACH-000189,Kidney,matrix_intact,-0.11980822725328297
+ARID1A_damaging_to_ATR,Avana,ACH-000190,Myeloid,matrix_intact,-1.0715674994013973
+ARID1A_damaging_to_ATR,Avana,ACH-000191,Thyroid,matrix_intact,-1.4143508296619944
+ARID1A_damaging_to_ATR,Avana,ACH-000195,Myeloid,matrix_intact,-0.13434079084156325
+ARID1A_damaging_to_ATR,Avana,ACH-000198,Myeloid,matrix_intact,-2.4132795494143346
+ARID1A_damaging_to_ATR,Avana,ACH-000200,CNS/Brain,matrix_intact,-0.3877799687451583
+ARID1A_damaging_to_ATR,Avana,ACH-000202,Bowel,matrix_intact,-0.05426431555195723
+ARID1A_damaging_to_ATR,Avana,ACH-000204,Lymphoid,matrix_intact,-0.24687882668073505
+ARID1A_damaging_to_ATR,Avana,ACH-000206,Lymphoid,matrix_intact,-0.238979705967655
+ARID1A_damaging_to_ATR,Avana,ACH-000207,Head and Neck,matrix_intact,-0.09312452660822682
+ARID1A_damaging_to_ATR,Avana,ACH-000209,Biliary Tract,matrix_intact,-0.5623433889582299
+ARID1A_damaging_to_ATR,Avana,ACH-000211,CNS/Brain,matrix_intact,-1.7129547145983106
+ARID1A_damaging_to_ATR,Avana,ACH-000212,Breast,matrix_intact,-3.0867727790650825
+ARID1A_damaging_to_ATR,Avana,ACH-000215,CNS/Brain,matrix_intact,-2.1229744360115435
+ARID1A_damaging_to_ATR,Avana,ACH-000216,Esophagus/Stomach,matrix_intact,-3.038963686593685
+ARID1A_damaging_to_ATR,Avana,ACH-000217,Liver,matrix_intact,-0.4731544445306626
+ARID1A_damaging_to_ATR,Avana,ACH-000219,Skin,matrix_intact,-1.3381542763183518
+ARID1A_damaging_to_ATR,Avana,ACH-000221,Liver,matrix_intact,-1.176692392091926
+ARID1A_damaging_to_ATR,Avana,ACH-000222,Pancreas,matrix_intact,-0.2262338053549053
+ARID1A_damaging_to_ATR,Avana,ACH-000223,Breast,matrix_intact,-2.8010320728769007
+ARID1A_damaging_to_ATR,Avana,ACH-000226,Lymphoid,matrix_intact,-0.9464581157339693
+ARID1A_damaging_to_ATR,Avana,ACH-000227,Peripheral Nervous System,matrix_intact,-0.16619185717328924
+ARID1A_damaging_to_ATR,Avana,ACH-000228,Head and Neck,matrix_intact,-1.3319030763302764
+ARID1A_damaging_to_ATR,Avana,ACH-000231,CNS/Brain,matrix_intact,-2.1534952747097185
+ARID1A_damaging_to_ATR,Avana,ACH-000232,CNS/Brain,matrix_intact,-1.7924509904230734
+ARID1A_damaging_to_ATR,Avana,ACH-000233,Lymphoid,matrix_intact,-1.07663000505522
+ARID1A_damaging_to_ATR,Avana,ACH-000234,Kidney,matrix_intact,-0.2655992725975652
+ARID1A_damaging_to_ATR,Avana,ACH-000235,Pancreas,matrix_intact,-2.5453217628364464
+ARID1A_damaging_to_ATR,Avana,ACH-000237,Ovary/Fallopian Tube,matrix_intact,-0.8305402024936768
+ARID1A_damaging_to_ATR,Avana,ACH-000238,Head and Neck,matrix_intact,-0.4051955466552655
+ARID1A_damaging_to_ATR,Avana,ACH-000243,Pancreas,matrix_intact,-0.5837237962712777
+ARID1A_damaging_to_ATR,Avana,ACH-000244,CNS/Brain,matrix_intact,-0.10958863227574603
+ARID1A_damaging_to_ATR,Avana,ACH-000246,Kidney,matrix_intact,-2.009144627538312
+ARID1A_damaging_to_ATR,Avana,ACH-000247,Esophagus/Stomach,damaging,-3.9976751411831417
+ARID1A_damaging_to_ATR,Avana,ACH-000248,Breast,matrix_intact,-0.4776009507989153
+ARID1A_damaging_to_ATR,Avana,ACH-000250,Kidney,matrix_intact,-1.5975019828617754
+ARID1A_damaging_to_ATR,Avana,ACH-000251,Lung,matrix_intact,-0.047255158642058974
+ARID1A_damaging_to_ATR,Avana,ACH-000252,Bowel,matrix_intact,-0.24294025873517144
+ARID1A_damaging_to_ATR,Avana,ACH-000253,Bowel,matrix_intact,-1.077787929941774
+ARID1A_damaging_to_ATR,Avana,ACH-000255,Esophagus/Stomach,matrix_intact,-1.2204483892613696
+ARID1A_damaging_to_ATR,Avana,ACH-000256,Ovary/Fallopian Tube,matrix_intact,-1.0389057093646938
+ARID1A_damaging_to_ATR,Avana,ACH-000257,Lung,matrix_intact,-1.2086371924583674
+ARID1A_damaging_to_ATR,Avana,ACH-000258,Breast,matrix_intact,-0.2084739311154093
+ARID1A_damaging_to_ATR,Avana,ACH-000259,Peripheral Nervous System,matrix_intact,-0.5272094399972618
+ARID1A_damaging_to_ATR,Avana,ACH-000260,Peripheral Nervous System,matrix_intact,-1.340477163185834
+ARID1A_damaging_to_ATR,Avana,ACH-000261,Lung,matrix_intact,-1.4303594904346197
+ARID1A_damaging_to_ATR,Avana,ACH-000262,Kidney,matrix_intact,-0.465835814051452
+ARID1A_damaging_to_ATR,Avana,ACH-000263,Myeloid,matrix_intact,-0.09791433051794171
+ARID1A_damaging_to_ATR,Avana,ACH-000264,Lung,matrix_intact,-1.7584848064416185
+ARID1A_damaging_to_ATR,Avana,ACH-000265,Pancreas,matrix_intact,-1.1496470477874183
+ARID1A_damaging_to_ATR,Avana,ACH-000266,Pancreas,matrix_intact,-1.1823553757425442
+ARID1A_damaging_to_ATR,Avana,ACH-000272,Kidney,matrix_intact,-1.561267623435337
+ARID1A_damaging_to_ATR,Avana,ACH-000273,CNS/Brain,matrix_intact,-0.9769596337051379
+ARID1A_damaging_to_ATR,Avana,ACH-000274,Skin,matrix_intact,-1.2851457197010268
+ARID1A_damaging_to_ATR,Avana,ACH-000276,Breast,matrix_intact,-3.188998909546181
+ARID1A_damaging_to_ATR,Avana,ACH-000277,Breast,matrix_intact,-0.127552229120639
+ARID1A_damaging_to_ATR,Avana,ACH-000278,Ovary/Fallopian Tube,matrix_intact,-0.47646744346650516
+ARID1A_damaging_to_ATR,Avana,ACH-000279,Bone,matrix_intact,-1.8972153043860147
+ARID1A_damaging_to_ATR,Avana,ACH-000280,Ovary/Fallopian Tube,matrix_intact,-0.06628585950582683
+ARID1A_damaging_to_ATR,Avana,ACH-000281,Pancreas,matrix_intact,-0.6490667349766004
+ARID1A_damaging_to_ATR,Avana,ACH-000286,Bowel,matrix_intact,-0.40941574492802285
+ARID1A_damaging_to_ATR,Avana,ACH-000288,Breast,matrix_intact,-1.8640218012069454
+ARID1A_damaging_to_ATR,Avana,ACH-000290,Lung,matrix_intact,-1.795253186057686
+ARID1A_damaging_to_ATR,Avana,ACH-000291,Ovary/Fallopian Tube,matrix_intact,-2.2463012223743353
+ARID1A_damaging_to_ATR,Avana,ACH-000292,Lung,matrix_intact,-0.5469145200380754
+ARID1A_damaging_to_ATR,Avana,ACH-000293,Uterus,matrix_intact,-0.4429966213822806
+ARID1A_damaging_to_ATR,Avana,ACH-000294,Myeloid,matrix_intact,-0.34279321563071297
+ARID1A_damaging_to_ATR,Avana,ACH-000295,Myeloid,matrix_intact,-0.3138100850841029
+ARID1A_damaging_to_ATR,Avana,ACH-000296,Bowel,matrix_intact,-0.5319623702136898
+ARID1A_damaging_to_ATR,Avana,ACH-000302,Uterus,matrix_intact,-1.1540445145395304
+ARID1A_damaging_to_ATR,Avana,ACH-000303,Esophagus/Stomach,matrix_intact,-1.3746591641279595
+ARID1A_damaging_to_ATR,Avana,ACH-000304,Skin,matrix_intact,-0.5621825026664079
+ARID1A_damaging_to_ATR,Avana,ACH-000305,Esophagus/Stomach,matrix_intact,-0.9884319702889188
+ARID1A_damaging_to_ATR,Avana,ACH-000307,Pancreas,matrix_intact,-1.066942472950927
+ARID1A_damaging_to_ATR,Avana,ACH-000308,Ovary/Fallopian Tube,matrix_intact,-1.8101520627593124
+ARID1A_damaging_to_ATR,Avana,ACH-000310,Peripheral Nervous System,matrix_intact,-0.2527141407006982
+ARID1A_damaging_to_ATR,Avana,ACH-000311,Lung,matrix_intact,-0.5675169198242259
+ARID1A_damaging_to_ATR,Avana,ACH-000312,Peripheral Nervous System,matrix_intact,-0.32825111282128056
+ARID1A_damaging_to_ATR,Avana,ACH-000313,Kidney,matrix_intact,-2.0266043463103713
+ARID1A_damaging_to_ATR,Avana,ACH-000315,Lymphoid,damaging,-0.0460057578124915
+ARID1A_damaging_to_ATR,Avana,ACH-000316,Liver,matrix_intact,-0.6979848936933912
+ARID1A_damaging_to_ATR,Avana,ACH-000317,Kidney,matrix_intact,-0.7456214094155631
+ARID1A_damaging_to_ATR,Avana,ACH-000318,Esophagus/Stomach,matrix_intact,-0.881137751381937
+ARID1A_damaging_to_ATR,Avana,ACH-000319,Pleura,matrix_intact,-0.47295392770886513
+ARID1A_damaging_to_ATR,Avana,ACH-000320,Pancreas,damaging,-0.14457904101036972
+ARID1A_damaging_to_ATR,Avana,ACH-000322,Skin,matrix_intact,-1.3543764403826701
+ARID1A_damaging_to_ATR,Avana,ACH-000323,CNS/Brain,matrix_intact,-1.3714100583170503
+ARID1A_damaging_to_ATR,Avana,ACH-000324,Ovary/Fallopian Tube,matrix_intact,-1.1055660987250318
+ARID1A_damaging_to_ATR,Avana,ACH-000325,Esophagus/Stomach,matrix_intact,-2.151587039757873
+ARID1A_damaging_to_ATR,Avana,ACH-000326,Myeloid,matrix_intact,-1.2241190522747472
+ARID1A_damaging_to_ATR,Avana,ACH-000329,CNS/Brain,matrix_intact,-1.5496559546241961
+ARID1A_damaging_to_ATR,Avana,ACH-000330,Breast,matrix_intact,-0.2548213980766475
+ARID1A_damaging_to_ATR,Avana,ACH-000331,Pleura,matrix_intact,-1.2433625716292145
+ARID1A_damaging_to_ATR,Avana,ACH-000332,Pancreas,matrix_intact,-1.233447762658397
+ARID1A_damaging_to_ATR,Avana,ACH-000334,Lymphoid,matrix_intact,-0.03719668252542836
+ARID1A_damaging_to_ATR,Avana,ACH-000335,Pleura,matrix_intact,-0.4205943687146395
+ARID1A_damaging_to_ATR,Avana,ACH-000336,Myeloid,matrix_intact,-0.10381200881680333
+ARID1A_damaging_to_ATR,Avana,ACH-000337,Lung,matrix_intact,-0.3591074615718025
+ARID1A_damaging_to_ATR,Avana,ACH-000339,Lung,matrix_intact,-2.595770469975993
+ARID1A_damaging_to_ATR,Avana,ACH-000341,Peripheral Nervous System,matrix_intact,-0.2729966861707752
+ARID1A_damaging_to_ATR,Avana,ACH-000343,Lung,matrix_intact,-0.4318258731153939
+ARID1A_damaging_to_ATR,Avana,ACH-000344,Esophagus/Stomach,matrix_intact,-0.4824750642527168
+ARID1A_damaging_to_ATR,Avana,ACH-000346,Lymphoid,matrix_intact,-0.36739478833723116
+ARID1A_damaging_to_ATR,Avana,ACH-000348,Skin,matrix_intact,-1.0246246499922682
+ARID1A_damaging_to_ATR,Avana,ACH-000350,Bowel,matrix_intact,-0.3768132604706079
+ARID1A_damaging_to_ATR,Avana,ACH-000352,Breast,matrix_intact,-1.0968730618387563
+ARID1A_damaging_to_ATR,Avana,ACH-000355,Lung,matrix_intact,-0.14587335502226523
+ARID1A_damaging_to_ATR,Avana,ACH-000356,Esophagus/Stomach,damaging,-0.39128141906538705
+ARID1A_damaging_to_ATR,Avana,ACH-000359,Bone,matrix_intact,-1.3550298491719834
+ARID1A_damaging_to_ATR,Avana,ACH-000361,Liver,matrix_intact,-0.804289700644674
+ARID1A_damaging_to_ATR,Avana,ACH-000362,Myeloid,matrix_intact,-0.5712533742375823
+ARID1A_damaging_to_ATR,Avana,ACH-000363,Lymphoid,matrix_intact,-1.9465188329411203
+ARID1A_damaging_to_ATR,Avana,ACH-000364,Bone,matrix_intact,-0.766514363060895
+ARID1A_damaging_to_ATR,Avana,ACH-000365,Lymphoid,matrix_intact,-0.8982420393445588
+ARID1A_damaging_to_ATR,Avana,ACH-000366,Peripheral Nervous System,matrix_intact,-1.7227242069712585
+ARID1A_damaging_to_ATR,Avana,ACH-000368,CNS/Brain,matrix_intact,-0.4159407507824672
+ARID1A_damaging_to_ATR,Avana,ACH-000370,CNS/Brain,matrix_intact,0.0756341728396917
+ARID1A_damaging_to_ATR,Avana,ACH-000371,Lymphoid,matrix_intact,-1.1119308614829744
+ARID1A_damaging_to_ATR,Avana,ACH-000374,Breast,matrix_intact,-1.877204794609297
+ARID1A_damaging_to_ATR,Avana,ACH-000375,Kidney,matrix_intact,-0.9616378564564977
+ARID1A_damaging_to_ATR,Avana,ACH-000376,CNS/Brain,matrix_intact,-1.923050285895488
+ARID1A_damaging_to_ATR,Avana,ACH-000377,Ampulla of Vater,matrix_intact,-1.627517658777239
+ARID1A_damaging_to_ATR,Avana,ACH-000378,Lung,matrix_intact,-0.8300749425139688
+ARID1A_damaging_to_ATR,Avana,ACH-000381,Bowel,matrix_intact,-0.18251924534513622
+ARID1A_damaging_to_ATR,Avana,ACH-000383,Esophagus/Stomach,matrix_intact,-1.2307972284191857
+ARID1A_damaging_to_ATR,Avana,ACH-000385,Kidney,matrix_intact,-0.043875617675036914
+ARID1A_damaging_to_ATR,Avana,ACH-000387,Myeloid,matrix_intact,-0.8495544375163231
+ARID1A_damaging_to_ATR,Avana,ACH-000389,CNS/Brain,matrix_intact,-0.6656996330312052
+ARID1A_damaging_to_ATR,Avana,ACH-000390,Lung,matrix_intact,-0.8010244792060295
+ARID1A_damaging_to_ATR,Avana,ACH-000391,Bone,matrix_intact,-0.36606659936189523
+ARID1A_damaging_to_ATR,Avana,ACH-000393,Liver,matrix_intact,-0.9552445452805748
+ARID1A_damaging_to_ATR,Avana,ACH-000395,Lung,matrix_intact,-0.7010448094262899
+ARID1A_damaging_to_ATR,Avana,ACH-000396,Bladder/Urinary Tract,matrix_intact,-0.16889951723188362
+ARID1A_damaging_to_ATR,Avana,ACH-000397,Uterus,matrix_intact,-0.8964262410276843
+ARID1A_damaging_to_ATR,Avana,ACH-000398,Lymphoid,damaging,-0.874389539146457
+ARID1A_damaging_to_ATR,Avana,ACH-000401,Skin,matrix_intact,-0.5337265659873025
+ARID1A_damaging_to_ATR,Avana,ACH-000402,Lymphoid,matrix_intact,-0.21341193227744085
+ARID1A_damaging_to_ATR,Avana,ACH-000403,Bowel,matrix_intact,-0.5009965046066508
+ARID1A_damaging_to_ATR,Avana,ACH-000404,Skin,matrix_intact,-0.5353306142734818
+ARID1A_damaging_to_ATR,Avana,ACH-000405,Lymphoid,matrix_intact,-0.46461594822869856
+ARID1A_damaging_to_ATR,Avana,ACH-000406,Myeloid,matrix_intact,-1.0297393479472385
+ARID1A_damaging_to_ATR,Avana,ACH-000407,Uterus,matrix_intact,-0.8558718503328379
+ARID1A_damaging_to_ATR,Avana,ACH-000408,Esophagus/Stomach,matrix_intact,0.09745085833377805
+ARID1A_damaging_to_ATR,Avana,ACH-000410,Bone,matrix_intact,-0.9981365739637486
+ARID1A_damaging_to_ATR,Avana,ACH-000411,Kidney,matrix_intact,-0.9564357779465374
+ARID1A_damaging_to_ATR,Avana,ACH-000414,Lung,matrix_intact,-0.6733557233364118
+ARID1A_damaging_to_ATR,Avana,ACH-000415,Head and Neck,matrix_intact,-1.0187564578491939
+ARID1A_damaging_to_ATR,Avana,ACH-000416,Lung,damaging,-1.2661433677924658
+ARID1A_damaging_to_ATR,Avana,ACH-000417,Pancreas,matrix_intact,-1.0549778823988643
+ARID1A_damaging_to_ATR,Avana,ACH-000420,Liver,damaging,-0.7528718471677905
+ARID1A_damaging_to_ATR,Avana,ACH-000421,Bowel,matrix_intact,-0.7313278306655133
+ARID1A_damaging_to_ATR,Avana,ACH-000422,Liver,matrix_intact,-0.8801284403420355
+ARID1A_damaging_to_ATR,Avana,ACH-000424,Bone,matrix_intact,-0.13639450544646836
+ARID1A_damaging_to_ATR,Avana,ACH-000425,Skin,matrix_intact,-1.0375422584923317
+ARID1A_damaging_to_ATR,Avana,ACH-000426,Lymphoid,matrix_intact,-0.16610989781202073
+ARID1A_damaging_to_ATR,Avana,ACH-000427,Esophagus/Stomach,matrix_intact,-0.1527059593381058
+ARID1A_damaging_to_ATR,Avana,ACH-000431,Lung,matrix_intact,-1.0249642324097694
+ARID1A_damaging_to_ATR,Avana,ACH-000433,Kidney,damaging,-0.2834719539280402
+ARID1A_damaging_to_ATR,Avana,ACH-000434,Lung,matrix_intact,-1.5918512821583046
+ARID1A_damaging_to_ATR,Avana,ACH-000435,Uterus,damaging,-0.0637563825708237
+ARID1A_damaging_to_ATR,Avana,ACH-000436,Lymphoid,matrix_intact,-0.6193714740408773
+ARID1A_damaging_to_ATR,Avana,ACH-000437,CNS/Brain,damaging,-2.094721357554098
+ARID1A_damaging_to_ATR,Avana,ACH-000438,Lung,matrix_intact,-0.7977720642214434
+ARID1A_damaging_to_ATR,Avana,ACH-000441,Skin,matrix_intact,-1.5052942986128133
+ARID1A_damaging_to_ATR,Avana,ACH-000444,Lung,matrix_intact,-1.6250349007068134
+ARID1A_damaging_to_ATR,Avana,ACH-000445,CNS/Brain,matrix_intact,-1.0361838494696993
+ARID1A_damaging_to_ATR,Avana,ACH-000448,Lung,matrix_intact,-2.258753013641394
+ARID1A_damaging_to_ATR,Avana,ACH-000450,Skin,matrix_intact,-0.619974272963954
+ARID1A_damaging_to_ATR,Avana,ACH-000452,Esophagus/Stomach,matrix_intact,-0.9982402377717968
+ARID1A_damaging_to_ATR,Avana,ACH-000454,Lung,matrix_intact,-0.5922055536547961
+ARID1A_damaging_to_ATR,Avana,ACH-000455,CNS/Brain,matrix_intact,-2.8235352605051953
+ARID1A_damaging_to_ATR,Avana,ACH-000456,Thyroid,matrix_intact,-2.6260079837207617
+ARID1A_damaging_to_ATR,Avana,ACH-000458,Skin,matrix_intact,-0.5938182601579074
+ARID1A_damaging_to_ATR,Avana,ACH-000459,Kidney,matrix_intact,-0.20626640747321895
+ARID1A_damaging_to_ATR,Avana,ACH-000460,Ovary/Fallopian Tube,matrix_intact,-0.7591979959696897
+ARID1A_damaging_to_ATR,Avana,ACH-000461,Biliary Tract,matrix_intact,-0.9315731802753262
+ARID1A_damaging_to_ATR,Avana,ACH-000463,Lung,matrix_intact,-0.9575100090362039
+ARID1A_damaging_to_ATR,Avana,ACH-000464,CNS/Brain,matrix_intact,-0.6788971427001864
+ARID1A_damaging_to_ATR,Avana,ACH-000466,Esophagus/Stomach,damaging,0.03123627175385519
+ARID1A_damaging_to_ATR,Avana,ACH-000467,Bowel,matrix_intact,-0.7680183655364727
+ARID1A_damaging_to_ATR,Avana,ACH-000468,Pancreas,matrix_intact,-1.1428063116274816
+ARID1A_damaging_to_ATR,Avana,ACH-000469,CNS/Brain,matrix_intact,-1.1101658559727303
+ARID1A_damaging_to_ATR,Avana,ACH-000470,Bowel,matrix_intact,-0.5033138274307364
+ARID1A_damaging_to_ATR,Avana,ACH-000471,Liver,matrix_intact,-2.4325548936458525
+ARID1A_damaging_to_ATR,Avana,ACH-000472,Head and Neck,matrix_intact,-1.2798767786219267
+ARID1A_damaging_to_ATR,Avana,ACH-000473,Bladder/Urinary Tract,matrix_intact,-0.3432316751581529
+ARID1A_damaging_to_ATR,Avana,ACH-000475,Liver,matrix_intact,-4.12205545065658
+ARID1A_damaging_to_ATR,Avana,ACH-000476,Liver,matrix_intact,-0.8834927174457148
+ARID1A_damaging_to_ATR,Avana,ACH-000477,Skin,matrix_intact,-0.25354166999993305
+ARID1A_damaging_to_ATR,Avana,ACH-000478,Liver,matrix_intact,-1.1445127719088335
+ARID1A_damaging_to_ATR,Avana,ACH-000479,CNS/Brain,matrix_intact,-0.0973331166908436
+ARID1A_damaging_to_ATR,Avana,ACH-000480,Liver,matrix_intact,-0.19781259182253041
+ARID1A_damaging_to_ATR,Avana,ACH-000481,Lung,matrix_intact,-0.9644742986604609
+ARID1A_damaging_to_ATR,Avana,ACH-000483,Liver,matrix_intact,-0.6287072389893796
+ARID1A_damaging_to_ATR,Avana,ACH-000484,Kidney,matrix_intact,-1.188489137185047
+ARID1A_damaging_to_ATR,Avana,ACH-000485,Esophagus/Stomach,matrix_intact,-1.5042076356863818
+ARID1A_damaging_to_ATR,Avana,ACH-000486,Bladder/Urinary Tract,damaging,-0.9400437179999183
+ARID1A_damaging_to_ATR,Avana,ACH-000487,Myeloid,matrix_intact,-2.4229765745594727
+ARID1A_damaging_to_ATR,Avana,ACH-000488,Esophagus/Stomach,matrix_intact,-2.041985599890584
+ARID1A_damaging_to_ATR,Avana,ACH-000489,Bowel,matrix_intact,-2.080587812036356
+ARID1A_damaging_to_ATR,Avana,ACH-000490,Cervix,matrix_intact,-1.7648716352802802
+ARID1A_damaging_to_ATR,Avana,ACH-000491,Bowel,matrix_intact,-0.47796497302185753
+ARID1A_damaging_to_ATR,Avana,ACH-000493,Liver,damaging,-1.2054091064012216
+ARID1A_damaging_to_ATR,Avana,ACH-000495,Kidney,matrix_intact,-1.3200547037804125
+ARID1A_damaging_to_ATR,Avana,ACH-000496,Lung,matrix_intact,-1.0827180394675144
+ARID1A_damaging_to_ATR,Avana,ACH-000499,Bone,matrix_intact,-0.485627778832613
+ARID1A_damaging_to_ATR,Avana,ACH-000500,Head and Neck,matrix_intact,-0.06726665274203814
+ARID1A_damaging_to_ATR,Avana,ACH-000502,Pancreas,matrix_intact,-1.2659022806749205
+ARID1A_damaging_to_ATR,Avana,ACH-000503,Head and Neck,matrix_intact,-0.21692371316494624
+ARID1A_damaging_to_ATR,Avana,ACH-000504,CNS/Brain,matrix_intact,-0.5857717129088433
+ARID1A_damaging_to_ATR,Avana,ACH-000505,Soft Tissue,matrix_intact,-0.8440897578797473
+ARID1A_damaging_to_ATR,Avana,ACH-000507,Esophagus/Stomach,matrix_intact,-0.8425654077207905
+ARID1A_damaging_to_ATR,Avana,ACH-000510,Lung,matrix_intact,-1.084382050682133
+ARID1A_damaging_to_ATR,Avana,ACH-000511,Lung,matrix_intact,-0.9760626511786686
+ARID1A_damaging_to_ATR,Avana,ACH-000512,Lymphoid,matrix_intact,-0.45581608606643437
+ARID1A_damaging_to_ATR,Avana,ACH-000514,Lung,matrix_intact,-0.1397565512516067
+ARID1A_damaging_to_ATR,Avana,ACH-000516,Bone,matrix_intact,-2.309046029134208
+ARID1A_damaging_to_ATR,Avana,ACH-000517,Pancreas,matrix_intact,-1.1134065350890503
+ARID1A_damaging_to_ATR,Avana,ACH-000518,Head and Neck,matrix_intact,-0.2464483197085178
+ARID1A_damaging_to_ATR,Avana,ACH-000520,Ovary/Fallopian Tube,matrix_intact,-2.057441415771071
+ARID1A_damaging_to_ATR,Avana,ACH-000521,Lung,matrix_intact,-0.9997983092681766
+ARID1A_damaging_to_ATR,Avana,ACH-000522,Bladder/Urinary Tract,matrix_intact,-1.9145308100399179
+ARID1A_damaging_to_ATR,Avana,ACH-000524,Ovary/Fallopian Tube,matrix_intact,-1.0078299040632086
+ARID1A_damaging_to_ATR,Avana,ACH-000525,Lung,matrix_intact,-2.4832258528766094
+ARID1A_damaging_to_ATR,Avana,ACH-000527,Ovary/Fallopian Tube,damaging,-0.9634357557283428
+ARID1A_damaging_to_ATR,Avana,ACH-000528,Lung,matrix_intact,-1.4240874206506338
+ARID1A_damaging_to_ATR,Avana,ACH-000532,Bowel,matrix_intact,-0.5149181481480642
+ARID1A_damaging_to_ATR,Avana,ACH-000533,Kidney,matrix_intact,-0.5103842110460364
+ARID1A_damaging_to_ATR,Avana,ACH-000535,Pancreas,matrix_intact,-0.9387175305451221
+ARID1A_damaging_to_ATR,Avana,ACH-000537,Liver,matrix_intact,-1.4964371771809795
+ARID1A_damaging_to_ATR,Avana,ACH-000541,Lymphoid,matrix_intact,-0.9948301374335519
+ARID1A_damaging_to_ATR,Avana,ACH-000542,Ovary/Fallopian Tube,matrix_intact,-1.0617626129934237
+ARID1A_damaging_to_ATR,Avana,ACH-000544,Esophagus/Stomach,matrix_intact,-2.3576607039659967
+ARID1A_damaging_to_ATR,Avana,ACH-000545,Bladder/Urinary Tract,damaging,-0.7678127862279784
+ARID1A_damaging_to_ATR,Avana,ACH-000547,Bladder/Urinary Tract,damaging,-0.41445321513224304
+ARID1A_damaging_to_ATR,Avana,ACH-000548,Head and Neck,matrix_intact,-1.2615803474434246
+ARID1A_damaging_to_ATR,Avana,ACH-000549,Head and Neck,matrix_intact,-0.5426163187841987
+ARID1A_damaging_to_ATR,Avana,ACH-000550,Skin,matrix_intact,-0.44170395067490376
+ARID1A_damaging_to_ATR,Avana,ACH-000551,Myeloid,matrix_intact,-2.0856759444027277
+ARID1A_damaging_to_ATR,Avana,ACH-000552,Bowel,matrix_intact,-0.7095681740240553
+ARID1A_damaging_to_ATR,Avana,ACH-000556,Cervix,matrix_intact,-0.8732900017147736
+ARID1A_damaging_to_ATR,Avana,ACH-000557,Myeloid,matrix_intact,-1.558521626776122
+ARID1A_damaging_to_ATR,Avana,ACH-000559,Lung,matrix_intact,-0.429396489746817
+ARID1A_damaging_to_ATR,Avana,ACH-000563,Lung,matrix_intact,-0.9734386908959722
+ARID1A_damaging_to_ATR,Avana,ACH-000567,Lymphoid,matrix_intact,-0.7768510789029226
+ARID1A_damaging_to_ATR,Avana,ACH-000570,CNS/Brain,matrix_intact,-0.920469484585313
+ARID1A_damaging_to_ATR,Avana,ACH-000571,CNS/Brain,matrix_intact,-1.2266594223865757
+ARID1A_damaging_to_ATR,Avana,ACH-000573,Breast,matrix_intact,-1.0511967167202243
+ARID1A_damaging_to_ATR,Avana,ACH-000576,Lymphoid,matrix_intact,-0.5307251263842736
+ARID1A_damaging_to_ATR,Avana,ACH-000577,Liver,matrix_intact,-0.7901854566070119
+ARID1A_damaging_to_ATR,Avana,ACH-000579,Skin,matrix_intact,-0.6941571881896033
+ARID1A_damaging_to_ATR,Avana,ACH-000580,Skin,matrix_intact,-0.9740045412850296
+ARID1A_damaging_to_ATR,Avana,ACH-000581,Esophagus/Stomach,damaging,-0.1979421529615094
+ARID1A_damaging_to_ATR,Avana,ACH-000584,Ovary/Fallopian Tube,matrix_intact,-2.078993941919434
+ARID1A_damaging_to_ATR,Avana,ACH-000585,Lung,matrix_intact,-1.0337886740287083
+ARID1A_damaging_to_ATR,Avana,ACH-000587,Lung,matrix_intact,-3.590946523234877
+ARID1A_damaging_to_ATR,Avana,ACH-000588,Lymphoid,matrix_intact,-0.38251288439138653
+ARID1A_damaging_to_ATR,Avana,ACH-000589,Lung,matrix_intact,-0.9927156926502516
+ARID1A_damaging_to_ATR,Avana,ACH-000591,CNS/Brain,matrix_intact,-0.6885135077083282
+ARID1A_damaging_to_ATR,Avana,ACH-000592,CNS/Brain,matrix_intact,-1.186159763300561
+ARID1A_damaging_to_ATR,Avana,ACH-000593,Bladder/Urinary Tract,matrix_intact,-2.1775170925828786
+ARID1A_damaging_to_ATR,Avana,ACH-000595,CNS/Brain,matrix_intact,-1.7853291066730228
+ARID1A_damaging_to_ATR,Avana,ACH-000596,Lung,matrix_intact,-0.4521053612707714
+ARID1A_damaging_to_ATR,Avana,ACH-000597,Kidney,matrix_intact,-0.14918171238586417
+ARID1A_damaging_to_ATR,Avana,ACH-000599,Pancreas,damaging,-1.7493449470242268
+ARID1A_damaging_to_ATR,Avana,ACH-000601,Pancreas,damaging,-1.7950224525468803
+ARID1A_damaging_to_ATR,Avana,ACH-000602,Myeloid,matrix_intact,-0.8022429223549491
+ARID1A_damaging_to_ATR,Avana,ACH-000604,Myeloid,matrix_intact,-0.3997253221510356
+ARID1A_damaging_to_ATR,Avana,ACH-000605,Esophagus/Stomach,matrix_intact,-0.3678442886343585
+ARID1A_damaging_to_ATR,Avana,ACH-000606,Head and Neck,matrix_intact,-0.648847434820994
+ARID1A_damaging_to_ATR,Avana,ACH-000607,Soft Tissue,matrix_intact,-0.7206304316994081
+ARID1A_damaging_to_ATR,Avana,ACH-000608,Ovary/Fallopian Tube,matrix_intact,-0.164863080126248
+ARID1A_damaging_to_ATR,Avana,ACH-000609,CNS/Brain,matrix_intact,-0.7886740393698072
+ARID1A_damaging_to_ATR,Avana,ACH-000614,Skin,damaging,-0.9604499588761228
+ARID1A_damaging_to_ATR,Avana,ACH-000616,Esophagus/Stomach,matrix_intact,-3.092563280777897
+ARID1A_damaging_to_ATR,Avana,ACH-000618,Head and Neck,matrix_intact,-0.22615099355072615
+ARID1A_damaging_to_ATR,Avana,ACH-000619,Head and Neck,matrix_intact,-0.4169842942572654
+ARID1A_damaging_to_ATR,Avana,ACH-000620,Liver,matrix_intact,-2.225989235124003
+ARID1A_damaging_to_ATR,Avana,ACH-000621,Breast,matrix_intact,-1.844684553790028
+ARID1A_damaging_to_ATR,Avana,ACH-000622,CNS/Brain,matrix_intact,-0.45747564418470377
+ARID1A_damaging_to_ATR,Avana,ACH-000623,CNS/Brain,matrix_intact,-0.597491168148288
+ARID1A_damaging_to_ATR,Avana,ACH-000624,Breast,matrix_intact,-1.9364470017767608
+ARID1A_damaging_to_ATR,Avana,ACH-000627,Lung,matrix_intact,-1.2128865176166834
+ARID1A_damaging_to_ATR,Avana,ACH-000630,Head and Neck,matrix_intact,-2.141620719492585
+ARID1A_damaging_to_ATR,Avana,ACH-000632,Skin,matrix_intact,-1.6471442732138812
+ARID1A_damaging_to_ATR,Avana,ACH-000633,Esophagus/Stomach,matrix_intact,-1.0870529876052313
+ARID1A_damaging_to_ATR,Avana,ACH-000634,CNS/Brain,matrix_intact,-1.4533579775208103
+ARID1A_damaging_to_ATR,Avana,ACH-000637,Esophagus/Stomach,matrix_intact,-0.9912848679740326
+ARID1A_damaging_to_ATR,Avana,ACH-000638,Lung,matrix_intact,-0.9458187359107937
+ARID1A_damaging_to_ATR,Avana,ACH-000639,Lung,matrix_intact,-2.1065322719802912
+ARID1A_damaging_to_ATR,Avana,ACH-000645,Pleura,matrix_intact,-1.0496347566019568
+ARID1A_damaging_to_ATR,Avana,ACH-000646,Ovary/Fallopian Tube,damaging,-0.3753520947665913
+ARID1A_damaging_to_ATR,Avana,ACH-000647,Esophagus/Stomach,matrix_intact,-2.3118555514669743
+ARID1A_damaging_to_ATR,Avana,ACH-000648,Pleura,matrix_intact,-0.20234585769497973
+ARID1A_damaging_to_ATR,Avana,ACH-000649,Kidney,matrix_intact,-1.3480133043875744
+ARID1A_damaging_to_ATR,Avana,ACH-000651,Bowel,matrix_intact,-0.7893516585742477
+ARID1A_damaging_to_ATR,Avana,ACH-000652,Pancreas,damaging,-0.6348612843774593
+ARID1A_damaging_to_ATR,Avana,ACH-000653,Lymphoid,matrix_intact,-0.696703611216586
+ARID1A_damaging_to_ATR,Avana,ACH-000654,Lymphoid,matrix_intact,-1.2660118882035865
+ARID1A_damaging_to_ATR,Avana,ACH-000655,CNS/Brain,matrix_intact,-2.318881820204818
+ARID1A_damaging_to_ATR,Avana,ACH-000657,Ovary/Fallopian Tube,damaging,-1.6486321727222015
+ARID1A_damaging_to_ATR,Avana,ACH-000661,Skin,matrix_intact,-1.2014574597956562
+ARID1A_damaging_to_ATR,Avana,ACH-000662,Lung,matrix_intact,-2.136205542868254
+ARID1A_damaging_to_ATR,Avana,ACH-000663,Ovary/Fallopian Tube,damaging,-0.5151927556060119
+ARID1A_damaging_to_ATR,Avana,ACH-000664,Lymphoid,matrix_intact,-2.34457593981021
+ARID1A_damaging_to_ATR,Avana,ACH-000665,Lung,matrix_intact,-1.4705464694299684
+ARID1A_damaging_to_ATR,Avana,ACH-000667,Lung,matrix_intact,-1.6913593953280395
+ARID1A_damaging_to_ATR,Avana,ACH-000671,Liver,matrix_intact,-0.6332710589130808
+ARID1A_damaging_to_ATR,Avana,ACH-000673,CNS/Brain,matrix_intact,-2.19261798426224
+ARID1A_damaging_to_ATR,Avana,ACH-000676,CNS/Brain,matrix_intact,-2.2638572164394466
+ARID1A_damaging_to_ATR,Avana,ACH-000677,Lung,matrix_intact,-0.9065797642376192
+ARID1A_damaging_to_ATR,Avana,ACH-000680,Bowel,matrix_intact,-0.7590807225759466
+ARID1A_damaging_to_ATR,Avana,ACH-000681,Lung,matrix_intact,-0.6636982158724452
+ARID1A_damaging_to_ATR,Avana,ACH-000682,Head and Neck,matrix_intact,-1.9673063542629383
+ARID1A_damaging_to_ATR,Avana,ACH-000683,Bowel,matrix_intact,-1.5655520877852025
+ARID1A_damaging_to_ATR,Avana,ACH-000684,Kidney,matrix_intact,-0.3157768205227886
+ARID1A_damaging_to_ATR,Avana,ACH-000685,Pancreas,matrix_intact,0.05122926709852824
+ARID1A_damaging_to_ATR,Avana,ACH-000688,Ovary/Fallopian Tube,matrix_intact,-0.0006102845882575147
+ARID1A_damaging_to_ATR,Avana,ACH-000693,Esophagus/Stomach,matrix_intact,-1.3106933799103864
+ARID1A_damaging_to_ATR,Avana,ACH-000694,Esophagus/Stomach,matrix_intact,-0.6402307585881539
+ARID1A_damaging_to_ATR,Avana,ACH-000695,Lung,matrix_intact,-0.23306283930570706
+ARID1A_damaging_to_ATR,Avana,ACH-000696,Ovary/Fallopian Tube,matrix_intact,-1.043230161302891
+ARID1A_damaging_to_ATR,Avana,ACH-000697,Lymphoid,matrix_intact,-0.7553321776437025
+ARID1A_damaging_to_ATR,Avana,ACH-000698,Lung,matrix_intact,-1.755826771906892
+ARID1A_damaging_to_ATR,Avana,ACH-000699,Breast,matrix_intact,-0.8726223736097525
+ARID1A_damaging_to_ATR,Avana,ACH-000700,Lung,matrix_intact,-0.23963172837454294
+ARID1A_damaging_to_ATR,Avana,ACH-000701,Ovary/Fallopian Tube,matrix_intact,0.07918361800002315
+ARID1A_damaging_to_ATR,Avana,ACH-000702,Lymphoid,damaging,-1.5977086522978385
+ARID1A_damaging_to_ATR,Avana,ACH-000706,Lung,matrix_intact,-0.8604337494560744
+ARID1A_damaging_to_ATR,Avana,ACH-000709,Kidney,matrix_intact,-1.6804531503581783
+ARID1A_damaging_to_ATR,Avana,ACH-000711,Breast,matrix_intact,-2.59420151756449
+ARID1A_damaging_to_ATR,Avana,ACH-000713,Ovary/Fallopian Tube,matrix_intact,-1.0433122122060583
+ARID1A_damaging_to_ATR,Avana,ACH-000714,Lymphoid,matrix_intact,-1.3531314741749212
+ARID1A_damaging_to_ATR,Avana,ACH-000716,Thyroid,matrix_intact,-0.9060438600948397
+ARID1A_damaging_to_ATR,Avana,ACH-000718,Lung,matrix_intact,-1.300893713066933
+ARID1A_damaging_to_ATR,Avana,ACH-000719,Ovary/Fallopian Tube,matrix_intact,-0.8216026390645896
+ARID1A_damaging_to_ATR,Avana,ACH-000720,Bladder/Urinary Tract,damaging,-1.9331909497495725
+ARID1A_damaging_to_ATR,Avana,ACH-000721,Breast,matrix_intact,-1.2075295626192073
+ARID1A_damaging_to_ATR,Avana,ACH-000724,Bladder/Urinary Tract,damaging,0.024043092430339544
+ARID1A_damaging_to_ATR,Avana,ACH-000725,Breast,matrix_intact,-0.9025365474615965
+ARID1A_damaging_to_ATR,Avana,ACH-000732,Head and Neck,matrix_intact,-0.8298825671077976
+ARID1A_damaging_to_ATR,Avana,ACH-000734,Liver,matrix_intact,-2.0903910532052903
+ARID1A_damaging_to_ATR,Avana,ACH-000735,Head and Neck,matrix_intact,-1.7887495963425386
+ARID1A_damaging_to_ATR,Avana,ACH-000736,Esophagus/Stomach,matrix_intact,-0.9832194223204792
+ARID1A_damaging_to_ATR,Avana,ACH-000738,CNS/Brain,matrix_intact,-1.8457588772109998
+ARID1A_damaging_to_ATR,Avana,ACH-000739,Liver,matrix_intact,-0.798769577297068
+ARID1A_damaging_to_ATR,Avana,ACH-000740,Head and Neck,matrix_intact,-0.7767200311475355
+ARID1A_damaging_to_ATR,Avana,ACH-000741,Bladder/Urinary Tract,matrix_intact,-2.643430261441739
+ARID1A_damaging_to_ATR,Avana,ACH-000746,Esophagus/Stomach,matrix_intact,-0.8554049049932592
+ARID1A_damaging_to_ATR,Avana,ACH-000747,Lung,matrix_intact,-0.9806491028139698
+ARID1A_damaging_to_ATR,Avana,ACH-000748,Bone,matrix_intact,-2.261577061564404
+ARID1A_damaging_to_ATR,Avana,ACH-000753,Bladder/Urinary Tract,damaging,-1.4736314784107862
+ARID1A_damaging_to_ATR,Avana,ACH-000754,Lymphoid,matrix_intact,-0.927697882973549
+ARID1A_damaging_to_ATR,Avana,ACH-000756,CNS/Brain,matrix_intact,-3.6480730617896064
+ARID1A_damaging_to_ATR,Avana,ACH-000757,Lung,matrix_intact,-0.6877981679231961
+ARID1A_damaging_to_ATR,Avana,ACH-000758,Esophagus/Stomach,matrix_intact,-1.1099173270459706
+ARID1A_damaging_to_ATR,Avana,ACH-000760,CNS/Brain,matrix_intact,-1.4885188069486501
+ARID1A_damaging_to_ATR,Avana,ACH-000762,Head and Neck,matrix_intact,-1.3079212258858406
+ARID1A_damaging_to_ATR,Avana,ACH-000763,Lymphoid,matrix_intact,-0.21521920257760507
+ARID1A_damaging_to_ATR,Avana,ACH-000764,Esophagus/Stomach,matrix_intact,-0.31208619474789406
+ARID1A_damaging_to_ATR,Avana,ACH-000765,Skin,matrix_intact,-1.2611332047706676
+ARID1A_damaging_to_ATR,Avana,ACH-000766,Lung,matrix_intact,-1.957664904431248
+ARID1A_damaging_to_ATR,Avana,ACH-000767,Lung,matrix_intact,-0.35864600521635126
+ARID1A_damaging_to_ATR,Avana,ACH-000768,Breast,matrix_intact,-1.6922472226210301
+ARID1A_damaging_to_ATR,Avana,ACH-000769,Lung,matrix_intact,-0.5416761563249154
+ARID1A_damaging_to_ATR,Avana,ACH-000770,Myeloid,damaging,-1.462409881379898
+ARID1A_damaging_to_ATR,Avana,ACH-000771,Head and Neck,matrix_intact,-1.1982136051064767
+ARID1A_damaging_to_ATR,Avana,ACH-000773,Lymphoid,matrix_intact,-0.8541253643532253
+ARID1A_damaging_to_ATR,Avana,ACH-000774,Lung,matrix_intact,-1.167043781744053
+ARID1A_damaging_to_ATR,Avana,ACH-000775,Lung,matrix_intact,-1.0499794724471765
+ARID1A_damaging_to_ATR,Avana,ACH-000776,CNS/Brain,matrix_intact,-0.20584410637348555
+ARID1A_damaging_to_ATR,Avana,ACH-000777,Esophagus/Stomach,matrix_intact,-1.5047154843647843
+ARID1A_damaging_to_ATR,Avana,ACH-000778,Head and Neck,matrix_intact,0.014814927099202096
+ARID1A_damaging_to_ATR,Avana,ACH-000781,Lung,matrix_intact,-1.274128958051529
+ARID1A_damaging_to_ATR,Avana,ACH-000782,Lymphoid,matrix_intact,-0.6593121038125359
+ARID1A_damaging_to_ATR,Avana,ACH-000783,Breast,matrix_intact,-0.7604082098638523
+ARID1A_damaging_to_ATR,Avana,ACH-000784,Esophagus/Stomach,damaging,-0.7824372043097193
+ARID1A_damaging_to_ATR,Avana,ACH-000785,Lung,matrix_intact,-1.4190823847878793
+ARID1A_damaging_to_ATR,Avana,ACH-000787,Lung,matrix_intact,-0.86896484264569
+ARID1A_damaging_to_ATR,Avana,ACH-000788,Skin,matrix_intact,-3.7383144552881684
+ARID1A_damaging_to_ATR,Avana,ACH-000790,Lung,matrix_intact,-0.6044472693332742
+ARID1A_damaging_to_ATR,Avana,ACH-000791,Lung,matrix_intact,-0.954874136947119
+ARID1A_damaging_to_ATR,Avana,ACH-000792,Kidney,matrix_intact,-0.9294726530596776
+ARID1A_damaging_to_ATR,Avana,ACH-000793,Esophagus/Stomach,matrix_intact,-2.747950172529528
+ARID1A_damaging_to_ATR,Avana,ACH-000794,Head and Neck,matrix_intact,-2.600976485514498
+ARID1A_damaging_to_ATR,Avana,ACH-000796,Ovary/Fallopian Tube,matrix_intact,-2.16482232577185
+ARID1A_damaging_to_ATR,Avana,ACH-000799,Skin,matrix_intact,-0.7290313267955962
+ARID1A_damaging_to_ATR,Avana,ACH-000800,Lung,matrix_intact,-0.2958679609391626
+ARID1A_damaging_to_ATR,Avana,ACH-000801,Skin,matrix_intact,-2.471399943722891
+ARID1A_damaging_to_ATR,Avana,ACH-000802,Bladder/Urinary Tract,matrix_intact,-0.5535540084299297
+ARID1A_damaging_to_ATR,Avana,ACH-000804,Peripheral Nervous System,matrix_intact,-0.3358189413165298
+ARID1A_damaging_to_ATR,Avana,ACH-000805,Skin,matrix_intact,-0.5714261080173988
+ARID1A_damaging_to_ATR,Avana,ACH-000807,CNS/Brain,matrix_intact,-1.3089874595550333
+ARID1A_damaging_to_ATR,Avana,ACH-000809,Esophagus/Stomach,matrix_intact,-0.9420925373854026
+ARID1A_damaging_to_ATR,Avana,ACH-000810,Skin,matrix_intact,-1.151131414330271
+ARID1A_damaging_to_ATR,Avana,ACH-000811,Ovary/Fallopian Tube,damaging,-1.1113429517396922
+ARID1A_damaging_to_ATR,Avana,ACH-000817,Lymphoid,matrix_intact,-0.5912654983224908
+ARID1A_damaging_to_ATR,Avana,ACH-000819,CNS/Brain,matrix_intact,-0.5702862110789443
+ARID1A_damaging_to_ATR,Avana,ACH-000820,Bowel,matrix_intact,-0.024594492137758557
+ARID1A_damaging_to_ATR,Avana,ACH-000821,Lymphoid,matrix_intact,-0.4222571952964955
+ARID1A_damaging_to_ATR,Avana,ACH-000822,Skin,matrix_intact,-1.4078360294705963
+ARID1A_damaging_to_ATR,Avana,ACH-000823,Esophagus/Stomach,matrix_intact,-1.124241101063837
+ARID1A_damaging_to_ATR,Avana,ACH-000824,Esophagus/Stomach,matrix_intact,-1.0516928883280219
+ARID1A_damaging_to_ATR,Avana,ACH-000827,Skin,matrix_intact,-1.024605077383677
+ARID1A_damaging_to_ATR,Avana,ACH-000829,Lymphoid,matrix_intact,-1.2736614409761735
+ARID1A_damaging_to_ATR,Avana,ACH-000831,Uterus,matrix_intact,-1.964185582438481
+ARID1A_damaging_to_ATR,Avana,ACH-000832,Head and Neck,matrix_intact,-1.2834874661684426
+ARID1A_damaging_to_ATR,Avana,ACH-000833,Soft Tissue,matrix_intact,-0.7298219156753913
+ARID1A_damaging_to_ATR,Avana,ACH-000834,Bladder/Urinary Tract,matrix_intact,-1.003613668612712
+ARID1A_damaging_to_ATR,Avana,ACH-000835,Soft Tissue,matrix_intact,-1.0081872584802445
+ARID1A_damaging_to_ATR,Avana,ACH-000836,Head and Neck,matrix_intact,-2.0887060028480393
+ARID1A_damaging_to_ATR,Avana,ACH-000837,Lung,matrix_intact,-0.875252667215511
+ARID1A_damaging_to_ATR,Avana,ACH-000838,Lymphoid,matrix_intact,-0.7905748038495481
+ARID1A_damaging_to_ATR,Avana,ACH-000839,Bladder/Urinary Tract,matrix_intact,-0.7481736802976315
+ARID1A_damaging_to_ATR,Avana,ACH-000840,Lung,matrix_intact,-0.8280405326521478
+ARID1A_damaging_to_ATR,Avana,ACH-000841,Lung,matrix_intact,-0.6709742601001917
+ARID1A_damaging_to_ATR,Avana,ACH-000843,Lung,matrix_intact,-0.6892618560783301
+ARID1A_damaging_to_ATR,Avana,ACH-000845,Lung,matrix_intact,-1.4900835487901554
+ARID1A_damaging_to_ATR,Avana,ACH-000846,Head and Neck,matrix_intact,-0.9892313766180942
+ARID1A_damaging_to_ATR,Avana,ACH-000847,Esophagus/Stomach,matrix_intact,-0.3272818938862501
+ARID1A_damaging_to_ATR,Avana,ACH-000848,Liver,matrix_intact,-0.9921577198237568
+ARID1A_damaging_to_ATR,Avana,ACH-000849,Breast,matrix_intact,-2.21723298169026
+ARID1A_damaging_to_ATR,Avana,ACH-000851,Lung,matrix_intact,-0.5473900991043525
+ARID1A_damaging_to_ATR,Avana,ACH-000853,Lung,matrix_intact,-1.0775067503185682
+ARID1A_damaging_to_ATR,Avana,ACH-000855,Esophagus/Stomach,matrix_intact,-1.0338864017585114
+ARID1A_damaging_to_ATR,Avana,ACH-000856,Breast,damaging,-1.0791924697266828
+ARID1A_damaging_to_ATR,Avana,ACH-000858,Lung,matrix_intact,-1.2071214554464218
+ARID1A_damaging_to_ATR,Avana,ACH-000859,Breast,matrix_intact,-0.1368149824812494
+ARID1A_damaging_to_ATR,Avana,ACH-000860,Lung,matrix_intact,-1.1578377690999573
+ARID1A_damaging_to_ATR,Avana,ACH-000861,Lung,matrix_intact,-0.320243304942335
+ARID1A_damaging_to_ATR,Avana,ACH-000862,Bladder/Urinary Tract,matrix_intact,-0.9609858647163914
+ARID1A_damaging_to_ATR,Avana,ACH-000865,Esophagus/Stomach,damaging,-0.7872979928930741
+ARID1A_damaging_to_ATR,Avana,ACH-000866,Lung,damaging,-2.396139967163401
+ARID1A_damaging_to_ATR,Avana,ACH-000867,Lung,damaging,-1.8038593908902656
+ARID1A_damaging_to_ATR,Avana,ACH-000869,Lung,matrix_intact,-1.4858823383306763
+ARID1A_damaging_to_ATR,Avana,ACH-000871,Lung,matrix_intact,-0.3813347457570274
+ARID1A_damaging_to_ATR,Avana,ACH-000872,Lung,matrix_intact,-0.5459925187095122
+ARID1A_damaging_to_ATR,Avana,ACH-000873,Esophagus/Stomach,matrix_intact,-0.31953973084903525
+ARID1A_damaging_to_ATR,Avana,ACH-000876,Breast,matrix_intact,-0.5143941762727859
+ARID1A_damaging_to_ATR,Avana,ACH-000878,Lung,matrix_intact,-0.4454884633008166
+ARID1A_damaging_to_ATR,Avana,ACH-000880,Esophagus/Stomach,matrix_intact,-0.9600327598285311
+ARID1A_damaging_to_ATR,Avana,ACH-000881,Skin,matrix_intact,-0.4270704173934622
+ARID1A_damaging_to_ATR,Avana,ACH-000882,Skin,matrix_intact,-1.799874717467015
+ARID1A_damaging_to_ATR,Avana,ACH-000884,Skin,matrix_intact,-1.0714538693850524
+ARID1A_damaging_to_ATR,Avana,ACH-000885,Ovary/Fallopian Tube,damaging,-1.5206062530416382
+ARID1A_damaging_to_ATR,Avana,ACH-000886,Lung,matrix_intact,-2.375112721760653
+ARID1A_damaging_to_ATR,Avana,ACH-000887,CNS/Brain,matrix_intact,-2.0664826690123532
+ARID1A_damaging_to_ATR,Avana,ACH-000888,Lung,damaging,-1.532146439787745
+ARID1A_damaging_to_ATR,Avana,ACH-000889,Lymphoid,matrix_intact,-1.1908941999953675
+ARID1A_damaging_to_ATR,Avana,ACH-000890,Lung,matrix_intact,-1.4849230029252527
+ARID1A_damaging_to_ATR,Avana,ACH-000896,Bladder/Urinary Tract,matrix_intact,-1.057254258440258
+ARID1A_damaging_to_ATR,Avana,ACH-000898,Esophagus/Stomach,matrix_intact,-1.1652080719054505
+ARID1A_damaging_to_ATR,Avana,ACH-000899,Skin,matrix_intact,-2.7889407984438197
+ARID1A_damaging_to_ATR,Avana,ACH-000900,Lung,matrix_intact,-0.9471750338959847
+ARID1A_damaging_to_ATR,Avana,ACH-000901,Lung,matrix_intact,-1.5939755573317604
+ARID1A_damaging_to_ATR,Avana,ACH-000903,Thyroid,matrix_intact,-1.0129616588094938
+ARID1A_damaging_to_ATR,Avana,ACH-000905,Bladder/Urinary Tract,matrix_intact,-1.833235746803164
+ARID1A_damaging_to_ATR,Avana,ACH-000906,Ovary/Fallopian Tube,matrix_intact,-1.7013209259795055
+ARID1A_damaging_to_ATR,Avana,ACH-000907,Kidney,damaging,-1.2170566877804565
+ARID1A_damaging_to_ATR,Avana,ACH-000910,Breast,matrix_intact,-0.7921160651260253
+ARID1A_damaging_to_ATR,Avana,ACH-000911,Esophagus/Stomach,damaging,-0.9824239000004465
+ARID1A_damaging_to_ATR,Avana,ACH-000912,Lung,damaging,-2.083242429591587
+ARID1A_damaging_to_ATR,Avana,ACH-000913,Uterus,matrix_intact,-0.7237053855990353
+ARID1A_damaging_to_ATR,Avana,ACH-000914,Lymphoid,matrix_intact,-1.586493744043326
+ARID1A_damaging_to_ATR,Avana,ACH-000915,Skin,matrix_intact,-2.773636506555194
+ARID1A_damaging_to_ATR,Avana,ACH-000916,Lung,matrix_intact,-0.4287244773574614
+ARID1A_damaging_to_ATR,Avana,ACH-000917,Esophagus/Stomach,matrix_intact,-0.901313844735613
+ARID1A_damaging_to_ATR,Avana,ACH-000920,Myeloid,matrix_intact,-0.0540312583176963
+ARID1A_damaging_to_ATR,Avana,ACH-000921,Lung,matrix_intact,-1.4494577962625268
+ARID1A_damaging_to_ATR,Avana,ACH-000922,Lymphoid,matrix_intact,-0.9001999774820222
+ARID1A_damaging_to_ATR,Avana,ACH-000924,Lung,damaging,-1.697433216463927
+ARID1A_damaging_to_ATR,Avana,ACH-000926,Bowel,matrix_intact,-0.05784730864042979
+ARID1A_damaging_to_ATR,Avana,ACH-000928,Uterus,damaging,-0.1459720505847319
+ARID1A_damaging_to_ATR,Avana,ACH-000929,Lung,matrix_intact,-0.30693578200523586
+ARID1A_damaging_to_ATR,Avana,ACH-000932,Esophagus/Stomach,damaging,-1.6252173613713992
+ARID1A_damaging_to_ATR,Avana,ACH-000935,Bowel,matrix_intact,-0.8045739655714197
+ARID1A_damaging_to_ATR,Avana,ACH-000936,Ovary/Fallopian Tube,damaging,-1.508383640738149
+ARID1A_damaging_to_ATR,Avana,ACH-000937,Lymphoid,matrix_intact,-1.8865698801032011
+ARID1A_damaging_to_ATR,Avana,ACH-000938,Lymphoid,matrix_intact,-0.6813170606914061
+ARID1A_damaging_to_ATR,Avana,ACH-000939,Uterus,damaging,-0.5138066984965008
+ARID1A_damaging_to_ATR,Avana,ACH-000941,Uterus,damaging,-1.0942954163365504
+ARID1A_damaging_to_ATR,Avana,ACH-000943,Bowel,damaging,-0.5714426302998198
+ARID1A_damaging_to_ATR,Avana,ACH-000944,Lymphoid,matrix_intact,-1.0148164617352213
+ARID1A_damaging_to_ATR,Avana,ACH-000946,Uterus,damaging,-1.2824025033821003
+ARID1A_damaging_to_ATR,Avana,ACH-000947,Ovary/Fallopian Tube,damaging,-1.578716243174934
+ARID1A_damaging_to_ATR,Avana,ACH-000948,Esophagus/Stomach,damaging,-1.3126096704455956
+ARID1A_damaging_to_ATR,Avana,ACH-000950,Bowel,damaging,-0.06134600284001073
+ARID1A_damaging_to_ATR,Avana,ACH-000953,Lymphoid,matrix_intact,-1.8809608716898776
+ARID1A_damaging_to_ATR,Avana,ACH-000957,Bowel,damaging,-0.701786754551105
+ARID1A_damaging_to_ATR,Avana,ACH-000958,Bowel,damaging,-0.27678615267753015
+ARID1A_damaging_to_ATR,Avana,ACH-000959,Bowel,matrix_intact,-1.035872597306967
+ARID1A_damaging_to_ATR,Avana,ACH-000960,Lymphoid,matrix_intact,-1.0592160196574558
+ARID1A_damaging_to_ATR,Avana,ACH-000961,Uterus,damaging,-0.4932431197185609
+ARID1A_damaging_to_ATR,Avana,ACH-000963,Bowel,matrix_intact,0.03373464724861999
+ARID1A_damaging_to_ATR,Avana,ACH-000965,Uterus,damaging,-2.145644861389231
+ARID1A_damaging_to_ATR,Avana,ACH-000968,Skin,matrix_intact,-0.7761786790771525
+ARID1A_damaging_to_ATR,Avana,ACH-000969,Bowel,damaging,-0.5020636874585769
+ARID1A_damaging_to_ATR,Avana,ACH-000973,Bladder/Urinary Tract,matrix_intact,-1.9401615577993807
+ARID1A_damaging_to_ATR,Avana,ACH-000974,Uterus,damaging,-2.0272632266992145
+ARID1A_damaging_to_ATR,Avana,ACH-000975,Lung,damaging,-2.1348698614696255
+ARID1A_damaging_to_ATR,Avana,ACH-000976,Biliary Tract,matrix_intact,-1.6900099484391968
+ARID1A_damaging_to_ATR,Avana,ACH-000977,Prostate,damaging,-1.4137583530010578
+ARID1A_damaging_to_ATR,Avana,ACH-000978,Uterus,damaging,-0.12601936785262613
+ARID1A_damaging_to_ATR,Avana,ACH-000980,Lung,matrix_intact,-1.8663581928274937
+ARID1A_damaging_to_ATR,Avana,ACH-000983,Myeloid,matrix_intact,-1.6383134773289938
+ARID1A_damaging_to_ATR,Avana,ACH-000984,Uterus,damaging,-2.422458486408396
+ARID1A_damaging_to_ATR,Avana,ACH-000986,Bowel,matrix_intact,-0.5855449548215665
+ARID1A_damaging_to_ATR,Avana,ACH-000988,Uterus,damaging,-0.6440138246348406
+ARID1A_damaging_to_ATR,Avana,ACH-000993,Uterus,damaging,-0.7463185469112011
+ARID1A_damaging_to_ATR,Avana,ACH-000994,Uterus,damaging,-1.0220772352943208
+ARID1A_damaging_to_ATR,Avana,ACH-000995,Lymphoid,damaging,-0.10022231414572816
+ARID1A_damaging_to_ATR,Avana,ACH-000996,Uterus,damaging,-0.5699277298685108
+ARID1A_damaging_to_ATR,Avana,ACH-001001,Bone,matrix_intact,-1.9284842471033228
+ARID1A_damaging_to_ATR,Avana,ACH-001020,CNS/Brain,matrix_intact,-0.11233851464348762
+ARID1A_damaging_to_ATR,Avana,ACH-001028,CNS/Brain,matrix_intact,-3.2124659413557026
+ARID1A_damaging_to_ATR,Avana,ACH-001029,Bone,matrix_intact,-1.9569185102460804
+ARID1A_damaging_to_ATR,Avana,ACH-001031,CNS/Brain,matrix_intact,-0.45458127249340247
+ARID1A_damaging_to_ATR,Avana,ACH-001033,CNS/Brain,matrix_intact,-0.3102515064967858
+ARID1A_damaging_to_ATR,Avana,ACH-001036,Myeloid,matrix_intact,-0.16017468382213101
+ARID1A_damaging_to_ATR,Avana,ACH-001038,Bone,matrix_intact,-2.1121552791147487
+ARID1A_damaging_to_ATR,Avana,ACH-001041,Skin,matrix_intact,-0.9934455438473555
+ARID1A_damaging_to_ATR,Avana,ACH-001048,Ovary/Fallopian Tube,matrix_intact,-2.1127419626409947
+ARID1A_damaging_to_ATR,Avana,ACH-001050,Soft Tissue,matrix_intact,-0.7715001491162495
+ARID1A_damaging_to_ATR,Avana,ACH-001053,CNS/Brain,matrix_intact,-0.6111811562068222
+ARID1A_damaging_to_ATR,Avana,ACH-001054,CNS/Brain,matrix_intact,-0.8386534616896841
+ARID1A_damaging_to_ATR,Avana,ACH-001061,Bowel,matrix_intact,-0.7960312393114364
+ARID1A_damaging_to_ATR,Avana,ACH-001067,CNS/Brain,matrix_intact,-1.734529614752848
+ARID1A_damaging_to_ATR,Avana,ACH-001075,Lung,matrix_intact,-0.5419110743345695
+ARID1A_damaging_to_ATR,Avana,ACH-001096,Soft Tissue,matrix_intact,-0.43308225899216873
+ARID1A_damaging_to_ATR,Avana,ACH-001098,Pancreas,damaging,-0.47376647263224436
+ARID1A_damaging_to_ATR,Avana,ACH-001099,Kidney,matrix_intact,-0.15234017993952514
+ARID1A_damaging_to_ATR,Avana,ACH-001119,Lymphoid,matrix_intact,-0.09424671130098587
+ARID1A_damaging_to_ATR,Avana,ACH-001128,Kidney,matrix_intact,-0.47892043508341947
+ARID1A_damaging_to_ATR,Avana,ACH-001129,Myeloid,matrix_intact,-0.11977064494549108
+ARID1A_damaging_to_ATR,Avana,ACH-001134,Lymphoid,matrix_intact,-1.9140478159234577
+ARID1A_damaging_to_ATR,Avana,ACH-001145,Ovary/Fallopian Tube,damaging,-1.8990767025914526
+ARID1A_damaging_to_ATR,Avana,ACH-001151,Ovary/Fallopian Tube,matrix_intact,-2.1738899865340304
+ARID1A_damaging_to_ATR,Avana,ACH-001163,Kidney,matrix_intact,-0.6905199177597603
+ARID1A_damaging_to_ATR,Avana,ACH-001164,Soft Tissue,damaging,-0.36326689231645026
+ARID1A_damaging_to_ATR,Avana,ACH-001172,CNS/Brain,matrix_intact,-1.2609021838122654
+ARID1A_damaging_to_ATR,Avana,ACH-001183,Bladder/Urinary Tract,matrix_intact,-0.36770113591377884
+ARID1A_damaging_to_ATR,Avana,ACH-001184,Soft Tissue,matrix_intact,-0.9116845589579223
+ARID1A_damaging_to_ATR,Avana,ACH-001188,Peripheral Nervous System,matrix_intact,-0.2915295564845896
+ARID1A_damaging_to_ATR,Avana,ACH-001190,Skin,matrix_intact,-1.0134733835352456
+ARID1A_damaging_to_ATR,Avana,ACH-001192,Bone,matrix_intact,-0.5845767532378744
+ARID1A_damaging_to_ATR,Avana,ACH-001193,Bone,matrix_intact,-0.510568439723659
+ARID1A_damaging_to_ATR,Avana,ACH-001194,Kidney,matrix_intact,-2.369367704350635
+ARID1A_damaging_to_ATR,Avana,ACH-001196,Soft Tissue,matrix_intact,-0.3795387634841205
+ARID1A_damaging_to_ATR,Avana,ACH-001197,Lymphoid,matrix_intact,-0.8476466695800782
+ARID1A_damaging_to_ATR,Avana,ACH-001205,Bone,matrix_intact,-0.25091322059056953
+ARID1A_damaging_to_ATR,Avana,ACH-001211,Kidney,matrix_intact,-0.34066825482586394
+ARID1A_damaging_to_ATR,Avana,ACH-001212,Kidney,matrix_intact,-0.1251144434316416
+ARID1A_damaging_to_ATR,Avana,ACH-001228,Head and Neck,matrix_intact,-0.6601399955035857
+ARID1A_damaging_to_ATR,Avana,ACH-001229,Head and Neck,matrix_intact,-1.4815073665930307
+ARID1A_damaging_to_ATR,Avana,ACH-001232,CNS/Brain,matrix_intact,-1.0383943090750911
+ARID1A_damaging_to_ATR,Avana,ACH-001239,Skin,matrix_intact,-0.8882237886576299
+ARID1A_damaging_to_ATR,Avana,ACH-001270,Soft Tissue,matrix_intact,-0.19118236447756348
+ARID1A_damaging_to_ATR,Avana,ACH-001274,Soft Tissue,matrix_intact,-0.2510230844293709
+ARID1A_damaging_to_ATR,Avana,ACH-001275,Soft Tissue,matrix_intact,-0.5587090536944246
+ARID1A_damaging_to_ATR,Avana,ACH-001277,Soft Tissue,matrix_intact,-0.7305344804838868
+ARID1A_damaging_to_ATR,Avana,ACH-001278,Ovary/Fallopian Tube,matrix_intact,-0.3179042625892344
+ARID1A_damaging_to_ATR,Avana,ACH-001279,Ovary/Fallopian Tube,matrix_intact,-2.2041828314633705
+ARID1A_damaging_to_ATR,Avana,ACH-001280,Soft Tissue,matrix_intact,-0.19317722901675694
+ARID1A_damaging_to_ATR,Avana,ACH-001283,Bone,matrix_intact,-1.2447763694158036
+ARID1A_damaging_to_ATR,Avana,ACH-001289,CNS/Brain,matrix_intact,-0.8911207928162489
+ARID1A_damaging_to_ATR,Avana,ACH-001295,Eye,matrix_intact,-2.332018568386378
+ARID1A_damaging_to_ATR,Avana,ACH-001300,Peripheral Nervous System,matrix_intact,-0.4918289856338153
+ARID1A_damaging_to_ATR,Avana,ACH-001301,Peripheral Nervous System,damaging,-0.8370339647246849
+ARID1A_damaging_to_ATR,Avana,ACH-001302,Peripheral Nervous System,damaging,-0.29776189927452146
+ARID1A_damaging_to_ATR,Avana,ACH-001303,Peripheral Nervous System,matrix_intact,-0.22785181605185018
+ARID1A_damaging_to_ATR,Avana,ACH-001306,Thyroid,matrix_intact,-1.075466471275679
+ARID1A_damaging_to_ATR,Avana,ACH-001307,Thyroid,matrix_intact,-0.9361153334466819
+ARID1A_damaging_to_ATR,Avana,ACH-001310,Kidney,matrix_intact,-0.6591842828080215
+ARID1A_damaging_to_ATR,Avana,ACH-001318,Liver,matrix_intact,-0.931998239792879
+ARID1A_damaging_to_ATR,Avana,ACH-001322,Soft Tissue,matrix_intact,-0.6148168203046782
+ARID1A_damaging_to_ATR,Avana,ACH-001328,Skin,matrix_intact,-1.4846892430833218
+ARID1A_damaging_to_ATR,Avana,ACH-001329,CNS/Brain,matrix_intact,-1.2404531049308103
+ARID1A_damaging_to_ATR,Avana,ACH-001333,Cervix,damaging,-0.6686677250951969
+ARID1A_damaging_to_ATR,Avana,ACH-001334,Cervix,matrix_intact,-2.1336534966714984
+ARID1A_damaging_to_ATR,Avana,ACH-001335,Cervix,matrix_intact,-0.714007667412512
+ARID1A_damaging_to_ATR,Avana,ACH-001336,Cervix,matrix_intact,-1.1485167680815642
+ARID1A_damaging_to_ATR,Avana,ACH-001338,Peripheral Nervous System,matrix_intact,-0.4820963010603548
+ARID1A_damaging_to_ATR,Avana,ACH-001340,Ovary/Fallopian Tube,matrix_intact,-1.8990040901602523
+ARID1A_damaging_to_ATR,Avana,ACH-001341,Cervix,matrix_intact,-1.7642748583171448
+ARID1A_damaging_to_ATR,Avana,ACH-001344,Peripheral Nervous System,matrix_intact,-0.13601268904063962
+ARID1A_damaging_to_ATR,Avana,ACH-001345,Bowel,damaging,-0.09795965053021133
+ARID1A_damaging_to_ATR,Avana,ACH-001346,Head and Neck,matrix_intact,-0.8789255178076729
+ARID1A_damaging_to_ATR,Avana,ACH-001347,Head and Neck,matrix_intact,-1.646656436238238
+ARID1A_damaging_to_ATR,Avana,ACH-001353,Pancreas,damaging,-2.180825048310874
+ARID1A_damaging_to_ATR,Avana,ACH-001354,Peripheral Nervous System,matrix_intact,-0.12878223128280994
+ARID1A_damaging_to_ATR,Avana,ACH-001356,Thyroid,matrix_intact,-1.6627610962583264
+ARID1A_damaging_to_ATR,Avana,ACH-001360,Cervix,matrix_intact,-0.9144575289574473
+ARID1A_damaging_to_ATR,Avana,ACH-001366,Peripheral Nervous System,matrix_intact,-0.7803651375414082
+ARID1A_damaging_to_ATR,Avana,ACH-001367,Peripheral Nervous System,matrix_intact,-0.582971444602387
+ARID1A_damaging_to_ATR,Avana,ACH-001368,Esophagus/Stomach,matrix_intact,-1.8872685999311392
+ARID1A_damaging_to_ATR,Avana,ACH-001370,Ovary/Fallopian Tube,matrix_intact,-0.5866475435306455
+ARID1A_damaging_to_ATR,Avana,ACH-001374,Ovary/Fallopian Tube,matrix_intact,-0.040361244319521816
+ARID1A_damaging_to_ATR,Avana,ACH-001375,Pancreas,matrix_intact,-0.7633750668403889
+ARID1A_damaging_to_ATR,Avana,ACH-001377,Pancreas,damaging,-1.0157720067179377
+ARID1A_damaging_to_ATR,Avana,ACH-001379,Pancreas,damaging,-1.0292535486302885
+ARID1A_damaging_to_ATR,Avana,ACH-001380,Pancreas,damaging,-3.48576065664709
+ARID1A_damaging_to_ATR,Avana,ACH-001382,Pancreas,matrix_intact,-0.1950717204017306
+ARID1A_damaging_to_ATR,Avana,ACH-001385,Head and Neck,matrix_intact,-1.1454724027180294
+ARID1A_damaging_to_ATR,Avana,ACH-001386,Lung,matrix_intact,-0.5229923181537761
+ARID1A_damaging_to_ATR,Avana,ACH-001388,Breast,matrix_intact,-1.4482394804214178
+ARID1A_damaging_to_ATR,Avana,ACH-001389,Breast,matrix_intact,-2.82959316567414
+ARID1A_damaging_to_ATR,Avana,ACH-001390,Breast,matrix_intact,-1.8463431540253588
+ARID1A_damaging_to_ATR,Avana,ACH-001391,Breast,matrix_intact,-1.5985851960153505
+ARID1A_damaging_to_ATR,Avana,ACH-001392,Breast,matrix_intact,-0.06644096431337625
+ARID1A_damaging_to_ATR,Avana,ACH-001393,Breast,matrix_intact,-0.6982027393203176
+ARID1A_damaging_to_ATR,Avana,ACH-001394,Breast,matrix_intact,-1.2480155205471455
+ARID1A_damaging_to_ATR,Avana,ACH-001396,Breast,damaging,-0.4780679050608327
+ARID1A_damaging_to_ATR,Avana,ACH-001398,Kidney,matrix_intact,-0.22360007947726185
+ARID1A_damaging_to_ATR,Avana,ACH-001400,Vulva/Vagina,matrix_intact,-0.47170533656998337
+ARID1A_damaging_to_ATR,Avana,ACH-001402,Cervix,matrix_intact,-0.9858045184205989
+ARID1A_damaging_to_ATR,Avana,ACH-001403,Ovary/Fallopian Tube,matrix_intact,-1.3101250787493812
+ARID1A_damaging_to_ATR,Avana,ACH-001407,Bladder/Urinary Tract,matrix_intact,-0.6595023907815141
+ARID1A_damaging_to_ATR,Avana,ACH-001408,Bladder/Urinary Tract,matrix_intact,-0.6480359959215861
+ARID1A_damaging_to_ATR,Avana,ACH-001409,Bladder/Urinary Tract,matrix_intact,-0.06978787413852133
+ARID1A_damaging_to_ATR,Avana,ACH-001411,Bladder/Urinary Tract,matrix_intact,-0.4192760215483101
+ARID1A_damaging_to_ATR,Avana,ACH-001412,Bladder/Urinary Tract,damaging,-1.8914668538037303
+ARID1A_damaging_to_ATR,Avana,ACH-001413,Bladder/Urinary Tract,matrix_intact,-2.2700221489679113
+ARID1A_damaging_to_ATR,Avana,ACH-001414,Bladder/Urinary Tract,damaging,-1.2778991269555382
+ARID1A_damaging_to_ATR,Avana,ACH-001415,Bladder/Urinary Tract,matrix_intact,-0.30404714389361526
+ARID1A_damaging_to_ATR,Avana,ACH-001416,Bladder/Urinary Tract,matrix_intact,-0.45679555463444055
+ARID1A_damaging_to_ATR,Avana,ACH-001418,Ovary/Fallopian Tube,matrix_intact,-2.6690347404787347
+ARID1A_damaging_to_ATR,Avana,ACH-001419,Breast,matrix_intact,-0.7810572270737146
+ARID1A_damaging_to_ATR,Avana,ACH-001421,Eye,matrix_intact,-0.6871535306487262
+ARID1A_damaging_to_ATR,Avana,ACH-001422,Prostate,matrix_intact,-0.6467273831788316
+ARID1A_damaging_to_ATR,Avana,ACH-001430,Bone,matrix_intact,-0.024216501874056905
+ARID1A_damaging_to_ATR,Avana,ACH-001431,Bone,matrix_intact,-0.4430510255010382
+ARID1A_damaging_to_ATR,Avana,ACH-001433,Soft Tissue,matrix_intact,-1.5618118201472524
+ARID1A_damaging_to_ATR,Avana,ACH-001442,Skin,matrix_intact,-1.0317986231454848
+ARID1A_damaging_to_ATR,Avana,ACH-001443,Thyroid,matrix_intact,-3.0679615074735427
+ARID1A_damaging_to_ATR,Avana,ACH-001450,Lymphoid,matrix_intact,-0.7269989215336108
+ARID1A_damaging_to_ATR,Avana,ACH-001451,Cervix,matrix_intact,-0.9290083817795485
+ARID1A_damaging_to_ATR,Avana,ACH-001453,Prostate,matrix_intact,-0.6938741963237757
+ARID1A_damaging_to_ATR,Avana,ACH-001454,Bowel,matrix_intact,-0.9225723175222135
+ARID1A_damaging_to_ATR,Avana,ACH-001458,Bowel,matrix_intact,-0.02670490186683458
+ARID1A_damaging_to_ATR,Avana,ACH-001459,Bowel,matrix_intact,-0.03199234352956856
+ARID1A_damaging_to_ATR,Avana,ACH-001460,Bowel,matrix_intact,-2.049962536648763
+ARID1A_damaging_to_ATR,Avana,ACH-001461,Bowel,matrix_intact,-0.05728656711212643
+ARID1A_damaging_to_ATR,Avana,ACH-001481,Peripheral Nervous System,matrix_intact,-0.5243972828087005
+ARID1A_damaging_to_ATR,Avana,ACH-001494,Biliary Tract,matrix_intact,-2.1908864391550846
+ARID1A_damaging_to_ATR,Avana,ACH-001495,Uterus,matrix_intact,-1.1160169101822373
+ARID1A_damaging_to_ATR,Avana,ACH-001496,Esophagus/Stomach,matrix_intact,-1.8756666514414637
+ARID1A_damaging_to_ATR,Avana,ACH-001497,Esophagus/Stomach,matrix_intact,-0.8649445302130115
+ARID1A_damaging_to_ATR,Avana,ACH-001498,Lymphoid,matrix_intact,-2.11626055128428
+ARID1A_damaging_to_ATR,Avana,ACH-001500,Esophagus/Stomach,matrix_intact,-0.6262166044211122
+ARID1A_damaging_to_ATR,Avana,ACH-001509,Head and Neck,matrix_intact,-0.7024184159562162
+ARID1A_damaging_to_ATR,Avana,ACH-001510,Head and Neck,matrix_intact,-1.8206350843932237
+ARID1A_damaging_to_ATR,Avana,ACH-001511,Head and Neck,matrix_intact,-1.2448930843889823
+ARID1A_damaging_to_ATR,Avana,ACH-001513,Cervix,matrix_intact,-2.287603693178826
+ARID1A_damaging_to_ATR,Avana,ACH-001515,Cervix,matrix_intact,-1.1164952173972233
+ARID1A_damaging_to_ATR,Avana,ACH-001517,Uterus,damaging,-2.067009222214449
+ARID1A_damaging_to_ATR,Avana,ACH-001518,Uterus,damaging,-0.9177339406661753
+ARID1A_damaging_to_ATR,Avana,ACH-001520,Lymphoid,matrix_intact,-1.4029855469225345
+ARID1A_damaging_to_ATR,Avana,ACH-001521,Skin,matrix_intact,-0.9327309801163447
+ARID1A_damaging_to_ATR,Avana,ACH-001522,Skin,matrix_intact,-1.765561786864985
+ARID1A_damaging_to_ATR,Avana,ACH-001523,Skin,matrix_intact,-1.1418262144397118
+ARID1A_damaging_to_ATR,Avana,ACH-001524,Skin,matrix_intact,-0.8892111681052701
+ARID1A_damaging_to_ATR,Avana,ACH-001525,Cervix,matrix_intact,-1.049267519570198
+ARID1A_damaging_to_ATR,Avana,ACH-001526,Bone,matrix_intact,-0.8931077284806164
+ARID1A_damaging_to_ATR,Avana,ACH-001528,Thyroid,matrix_intact,-1.1156465181453568
+ARID1A_damaging_to_ATR,Avana,ACH-001529,Uterus,matrix_intact,-1.976126153125342
+ARID1A_damaging_to_ATR,Avana,ACH-001530,Uterus,matrix_intact,-3.1580582335038834
+ARID1A_damaging_to_ATR,Avana,ACH-001532,Kidney,matrix_intact,-2.3126930724831065
+ARID1A_damaging_to_ATR,Avana,ACH-001533,Lymphoid,matrix_intact,-0.8519683437712064
+ARID1A_damaging_to_ATR,Avana,ACH-001536,Biliary Tract,matrix_intact,-0.5874354269730189
+ARID1A_damaging_to_ATR,Avana,ACH-001538,Biliary Tract,matrix_intact,-0.7620160162842078
+ARID1A_damaging_to_ATR,Avana,ACH-001539,Lymphoid,matrix_intact,-0.8207842558580576
+ARID1A_damaging_to_ATR,Avana,ACH-001542,Head and Neck,matrix_intact,-1.7381267516970516
+ARID1A_damaging_to_ATR,Avana,ACH-001543,Head and Neck,matrix_intact,-1.741673358698292
+ARID1A_damaging_to_ATR,Avana,ACH-001547,Pleura,matrix_intact,-1.5243069852583195
+ARID1A_damaging_to_ATR,Avana,ACH-001548,Peripheral Nervous System,matrix_intact,-0.5126380412767206
+ARID1A_damaging_to_ATR,Avana,ACH-001549,Lung,matrix_intact,-2.8963043480006605
+ARID1A_damaging_to_ATR,Avana,ACH-001550,Skin,matrix_intact,-0.3211702960873306
+ARID1A_damaging_to_ATR,Avana,ACH-001551,Skin,matrix_intact,-1.6573392244774858
+ARID1A_damaging_to_ATR,Avana,ACH-001552,Skin,matrix_intact,-0.30411057435786837
+ARID1A_damaging_to_ATR,Avana,ACH-001554,Eye,matrix_intact,-0.8594115156467113
+ARID1A_damaging_to_ATR,Avana,ACH-001555,Pleura,matrix_intact,-1.4888662228600218
+ARID1A_damaging_to_ATR,Avana,ACH-001556,Pleura,matrix_intact,-2.0358926705827822
+ARID1A_damaging_to_ATR,Avana,ACH-001557,Pleura,matrix_intact,-1.2984371392652125
+ARID1A_damaging_to_ATR,Avana,ACH-001558,Pleura,matrix_intact,-0.7965318292306085
+ARID1A_damaging_to_ATR,Avana,ACH-001559,Pleura,matrix_intact,-1.305009125042985
+ARID1A_damaging_to_ATR,Avana,ACH-001560,Pleura,matrix_intact,-2.4636943743474893
+ARID1A_damaging_to_ATR,Avana,ACH-001562,Pleura,matrix_intact,-1.065478696472256
+ARID1A_damaging_to_ATR,Avana,ACH-001563,Skin,matrix_intact,-1.8156691265589715
+ARID1A_damaging_to_ATR,Avana,ACH-001566,Skin,matrix_intact,-1.5328572988658076
+ARID1A_damaging_to_ATR,Avana,ACH-001567,Skin,matrix_intact,-2.1766038682788826
+ARID1A_damaging_to_ATR,Avana,ACH-001568,Skin,matrix_intact,-0.7561675429206565
+ARID1A_damaging_to_ATR,Avana,ACH-001570,Skin,matrix_intact,-0.8454122438506535
+ARID1A_damaging_to_ATR,Avana,ACH-001574,Myeloid,matrix_intact,-1.385769120247264
+ARID1A_damaging_to_ATR,Avana,ACH-001577,Myeloid,matrix_intact,-1.0033218933060564
+ARID1A_damaging_to_ATR,Avana,ACH-001607,Biliary Tract,matrix_intact,-2.273892060611554
+ARID1A_damaging_to_ATR,Avana,ACH-001608,CNS/Brain,matrix_intact,-1.1696713095311884
+ARID1A_damaging_to_ATR,Avana,ACH-001609,CNS/Brain,matrix_intact,-0.865390224844843
+ARID1A_damaging_to_ATR,Avana,ACH-001610,CNS/Brain,matrix_intact,-0.6232434760831741
+ARID1A_damaging_to_ATR,Avana,ACH-001611,CNS/Brain,matrix_intact,-0.9710306846405592
+ARID1A_damaging_to_ATR,Avana,ACH-001616,Lymphoid,matrix_intact,-2.1279491036261926
+ARID1A_damaging_to_ATR,Avana,ACH-001618,Myeloid,matrix_intact,-2.473999353035749
+ARID1A_damaging_to_ATR,Avana,ACH-001619,Biliary Tract,matrix_intact,-0.7585372685796257
+ARID1A_damaging_to_ATR,Avana,ACH-001622,CNS/Brain,matrix_intact,-2.556831313618958
+ARID1A_damaging_to_ATR,Avana,ACH-001623,CNS/Brain,matrix_intact,-0.5462989036007886
+ARID1A_damaging_to_ATR,Avana,ACH-001624,CNS/Brain,matrix_intact,-0.29804810226972384
+ARID1A_damaging_to_ATR,Avana,ACH-001627,Prostate,matrix_intact,-2.714871488756377
+ARID1A_damaging_to_ATR,Avana,ACH-001628,Ovary/Fallopian Tube,matrix_intact,-0.2995885025839941
+ARID1A_damaging_to_ATR,Avana,ACH-001630,Ovary/Fallopian Tube,matrix_intact,-1.7199402154819827
+ARID1A_damaging_to_ATR,Avana,ACH-001634,Lymphoid,matrix_intact,-1.9069023376707968
+ARID1A_damaging_to_ATR,Avana,ACH-001641,Head and Neck,matrix_intact,-0.9809789697300717
+ARID1A_damaging_to_ATR,Avana,ACH-001645,Skin,matrix_intact,-1.9131903085991335
+ARID1A_damaging_to_ATR,Avana,ACH-001647,Myeloid,matrix_intact,-1.0795776094585672
+ARID1A_damaging_to_ATR,Avana,ACH-001648,Prostate,matrix_intact,-1.3913445609360275
+ARID1A_damaging_to_ATR,Avana,ACH-001649,Prostate,matrix_intact,-0.9314803620104599
+ARID1A_damaging_to_ATR,Avana,ACH-001650,Cervix,matrix_intact,-1.4477509013485874
+ARID1A_damaging_to_ATR,Avana,ACH-001651,Cervix,matrix_intact,-1.2075423462619899
+ARID1A_damaging_to_ATR,Avana,ACH-001652,Cervix,matrix_intact,-1.8230710486905473
+ARID1A_damaging_to_ATR,Avana,ACH-001653,Esophagus/Stomach,matrix_intact,-1.2522386186166838
+ARID1A_damaging_to_ATR,Avana,ACH-001654,Esophagus/Stomach,matrix_intact,-1.8268390727276476
+ARID1A_damaging_to_ATR,Avana,ACH-001655,Uterus,matrix_intact,-0.3731784830531478
+ARID1A_damaging_to_ATR,Avana,ACH-001656,Myeloid,matrix_intact,-0.5471002819012343
+ARID1A_damaging_to_ATR,Avana,ACH-001664,Esophagus/Stomach,damaging,-4.365982246987317
+ARID1A_damaging_to_ATR,Avana,ACH-001668,Testis,matrix_intact,-0.6131540202595974
+ARID1A_damaging_to_ATR,Avana,ACH-001669,Lymphoid,matrix_intact,-0.971718460069328
+ARID1A_damaging_to_ATR,Avana,ACH-001670,CNS/Brain,matrix_intact,-0.42460069836853037
+ARID1A_damaging_to_ATR,Avana,ACH-001673,Biliary Tract,matrix_intact,-2.124299561022122
+ARID1A_damaging_to_ATR,Avana,ACH-001674,Peripheral Nervous System,matrix_intact,-1.0259961911571498
+ARID1A_damaging_to_ATR,Avana,ACH-001675,Head and Neck,matrix_intact,-0.41040510451272727
+ARID1A_damaging_to_ATR,Avana,ACH-001677,Lymphoid,matrix_intact,-0.10380813104691723
+ARID1A_damaging_to_ATR,Avana,ACH-001685,Lymphoid,matrix_intact,-1.211143737461322
+ARID1A_damaging_to_ATR,Avana,ACH-001687,Kidney,matrix_intact,-1.7066547999003312
+ARID1A_damaging_to_ATR,Avana,ACH-001688,Kidney,matrix_intact,-0.3223853752138295
+ARID1A_damaging_to_ATR,Avana,ACH-001690,Head and Neck,matrix_intact,-1.691867201673388
+ARID1A_damaging_to_ATR,Avana,ACH-001691,Head and Neck,matrix_intact,-1.3484434447260294
+ARID1A_damaging_to_ATR,Avana,ACH-001692,Head and Neck,matrix_intact,-2.092323618598519
+ARID1A_damaging_to_ATR,Avana,ACH-001694,Head and Neck,matrix_intact,-1.4910943197550992
+ARID1A_damaging_to_ATR,Avana,ACH-001696,Head and Neck,matrix_intact,-1.7478333915663558
+ARID1A_damaging_to_ATR,Avana,ACH-001698,Head and Neck,matrix_intact,-0.9365444720132997
+ARID1A_damaging_to_ATR,Avana,ACH-001699,Head and Neck,matrix_intact,-1.7781106734111791
+ARID1A_damaging_to_ATR,Avana,ACH-001701,Head and Neck,matrix_intact,-1.3809567826804932
+ARID1A_damaging_to_ATR,Avana,ACH-001702,Soft Tissue,matrix_intact,-1.6060904843805082
+ARID1A_damaging_to_ATR,Avana,ACH-001707,Lymphoid,matrix_intact,-0.6347816629268141
+ARID1A_damaging_to_ATR,Avana,ACH-001709,Lymphoid,matrix_intact,-2.0779075450072777
+ARID1A_damaging_to_ATR,Avana,ACH-001711,CNS/Brain,matrix_intact,-1.3296754392774028
+ARID1A_damaging_to_ATR,Avana,ACH-001715,Bone,matrix_intact,-0.39352222498592077
+ARID1A_damaging_to_ATR,Avana,ACH-001719,Ovary/Fallopian Tube,matrix_intact,-1.5222159836286835
+ARID1A_damaging_to_ATR,Avana,ACH-001735,Lymphoid,matrix_intact,-1.0572575410939826
+ARID1A_damaging_to_ATR,Avana,ACH-001736,Lymphoid,matrix_intact,-1.016451694575966
+ARID1A_damaging_to_ATR,Avana,ACH-001737,Lymphoid,matrix_intact,-0.13945244917131522
+ARID1A_damaging_to_ATR,Avana,ACH-001740,Soft Tissue,matrix_intact,-0.7565708378416511
+ARID1A_damaging_to_ATR,Avana,ACH-001745,Soft Tissue,matrix_intact,-1.4197992464470235
+ARID1A_damaging_to_ATR,Avana,ACH-001750,Soft Tissue,matrix_intact,-1.3130487677945109
+ARID1A_damaging_to_ATR,Avana,ACH-001765,Soft Tissue,matrix_intact,-1.8833752833084962
+ARID1A_damaging_to_ATR,Avana,ACH-001786,Bowel,damaging,-0.15906685553751693
+ARID1A_damaging_to_ATR,Avana,ACH-001791,Soft Tissue,matrix_intact,-0.37230379849723494
+ARID1A_damaging_to_ATR,Avana,ACH-001793,Soft Tissue,matrix_intact,-2.2066839955603976
+ARID1A_damaging_to_ATR,Avana,ACH-001794,Soft Tissue,matrix_intact,-2.1414750859589806
+ARID1A_damaging_to_ATR,Avana,ACH-001795,Soft Tissue,matrix_intact,-3.094555459502261
+ARID1A_damaging_to_ATR,Avana,ACH-001796,Soft Tissue,matrix_intact,-1.4583434476644759
+ARID1A_damaging_to_ATR,Avana,ACH-001799,Soft Tissue,matrix_intact,-1.7188586049650159
+ARID1A_damaging_to_ATR,Avana,ACH-001802,Soft Tissue,matrix_intact,-3.5280216055459035
+ARID1A_damaging_to_ATR,Avana,ACH-001804,Soft Tissue,matrix_intact,-0.6462838589332857
+ARID1A_damaging_to_ATR,Avana,ACH-001814,Bone,matrix_intact,-0.17923644362483998
+ARID1A_damaging_to_ATR,Avana,ACH-001819,Breast,damaging,-2.414467363437089
+ARID1A_damaging_to_ATR,Avana,ACH-001820,Breast,matrix_intact,-0.3585641042578115
+ARID1A_damaging_to_ATR,Avana,ACH-001834,Biliary Tract,matrix_intact,-2.4252512664960104
+ARID1A_damaging_to_ATR,Avana,ACH-001835,Biliary Tract,matrix_intact,-2.5175151125259028
+ARID1A_damaging_to_ATR,Avana,ACH-001836,Biliary Tract,matrix_intact,-3.024012421773259
+ARID1A_damaging_to_ATR,Avana,ACH-001838,Biliary Tract,matrix_intact,-1.622508177794491
+ARID1A_damaging_to_ATR,Avana,ACH-001839,Biliary Tract,matrix_intact,-2.2007694142442817
+ARID1A_damaging_to_ATR,Avana,ACH-001841,Biliary Tract,matrix_intact,-1.5882828619367428
+ARID1A_damaging_to_ATR,Avana,ACH-001842,Biliary Tract,matrix_intact,-0.29686088174094655
+ARID1A_damaging_to_ATR,Avana,ACH-001843,Biliary Tract,damaging,-2.8852647523224118
+ARID1A_damaging_to_ATR,Avana,ACH-001844,Biliary Tract,damaging,-1.00264703169859
+ARID1A_damaging_to_ATR,Avana,ACH-001848,Biliary Tract,matrix_intact,-2.1296427644158844
+ARID1A_damaging_to_ATR,Avana,ACH-001849,Biliary Tract,matrix_intact,-1.8749116391438614
+ARID1A_damaging_to_ATR,Avana,ACH-001850,Biliary Tract,matrix_intact,-1.2234509326728227
+ARID1A_damaging_to_ATR,Avana,ACH-001852,Biliary Tract,matrix_intact,-2.1290349089376077
+ARID1A_damaging_to_ATR,Avana,ACH-001853,Liver,damaging,-0.30700200543979944
+ARID1A_damaging_to_ATR,Avana,ACH-001856,Biliary Tract,matrix_intact,-1.4702078907637688
+ARID1A_damaging_to_ATR,Avana,ACH-001857,Biliary Tract,matrix_intact,-1.1297277439178322
+ARID1A_damaging_to_ATR,Avana,ACH-001858,Biliary Tract,matrix_intact,-2.345443135151034
+ARID1A_damaging_to_ATR,Avana,ACH-001861,Biliary Tract,matrix_intact,-0.8015957588102773
+ARID1A_damaging_to_ATR,Avana,ACH-001862,Ampulla of Vater,matrix_intact,-1.7637264963002304
+ARID1A_damaging_to_ATR,Avana,ACH-001863,Biliary Tract,matrix_intact,-0.5207285031665849
+ARID1A_damaging_to_ATR,Avana,ACH-001864,Biliary Tract,matrix_intact,-1.0749868554318942
+ARID1A_damaging_to_ATR,Avana,ACH-001959,Biliary Tract,matrix_intact,-1.8013016438424048
+ARID1A_damaging_to_ATR,Avana,ACH-001960,Biliary Tract,matrix_intact,-1.879497442020059
+ARID1A_damaging_to_ATR,Avana,ACH-001961,Biliary Tract,damaging,-1.6326758445447584
+ARID1A_damaging_to_ATR,Avana,ACH-001970,Skin,matrix_intact,-0.39956149364680194
+ARID1A_damaging_to_ATR,Avana,ACH-001973,Skin,matrix_intact,-0.235734008384974
+ARID1A_damaging_to_ATR,Avana,ACH-001977,Pleura,matrix_intact,-0.5662303910404559
+ARID1A_damaging_to_ATR,Avana,ACH-001982,Skin,matrix_intact,-1.299205432764266
+ARID1A_damaging_to_ATR,Avana,ACH-001986,Skin,matrix_intact,-0.9033481646813518
+ARID1A_damaging_to_ATR,Avana,ACH-001990,Skin,matrix_intact,-1.2830786766008937
+ARID1A_damaging_to_ATR,Avana,ACH-001991,Ovary/Fallopian Tube,damaging,-0.6823133091691357
+ARID1A_damaging_to_ATR,Avana,ACH-001992,Pleura,matrix_intact,-1.9725045387481908
+ARID1A_damaging_to_ATR,Avana,ACH-001993,Lymphoid,matrix_intact,-0.3295939217269983
+ARID1A_damaging_to_ATR,Avana,ACH-001997,Biliary Tract,matrix_intact,-1.278407768216959
+ARID1A_damaging_to_ATR,Avana,ACH-001999,Pancreas,matrix_intact,-2.0570991122804303
+ARID1A_damaging_to_ATR,Avana,ACH-002001,Skin,matrix_intact,-1.6106351402175743
+ARID1A_damaging_to_ATR,Avana,ACH-002002,Skin,matrix_intact,-2.531114956122779
+ARID1A_damaging_to_ATR,Avana,ACH-002003,Skin,matrix_intact,-2.2775666192804542
+ARID1A_damaging_to_ATR,Avana,ACH-002005,Skin,matrix_intact,-1.0150751496020418
+ARID1A_damaging_to_ATR,Avana,ACH-002014,Eye,matrix_intact,-0.18712247157466455
+ARID1A_damaging_to_ATR,Avana,ACH-002015,Eye,matrix_intact,-1.6904024750697175
+ARID1A_damaging_to_ATR,Avana,ACH-002016,Eye,matrix_intact,-1.3405589914158047
+ARID1A_damaging_to_ATR,Avana,ACH-002018,Eye,matrix_intact,-2.2143460758498854
+ARID1A_damaging_to_ATR,Avana,ACH-002019,Cervix,matrix_intact,-1.3796528904348362
+ARID1A_damaging_to_ATR,Avana,ACH-002020,Cervix,matrix_intact,-1.4352337965573283
+ARID1A_damaging_to_ATR,Avana,ACH-002021,Uterus,matrix_intact,-0.4373056721003179
+ARID1A_damaging_to_ATR,Avana,ACH-002023,Ampulla of Vater,matrix_intact,-2.056680080717813
+ARID1A_damaging_to_ATR,Avana,ACH-002024,Bowel,matrix_intact,0.024166452068985544
+ARID1A_damaging_to_ATR,Avana,ACH-002025,Bowel,matrix_intact,-0.5586982826236109
+ARID1A_damaging_to_ATR,Avana,ACH-002026,Uterus,damaging,-2.0380737832696774
+ARID1A_damaging_to_ATR,Avana,ACH-002027,Uterus,damaging,-1.7336677970633163
+ARID1A_damaging_to_ATR,Avana,ACH-002029,Head and Neck,matrix_intact,-0.979292353396501
+ARID1A_damaging_to_ATR,Avana,ACH-002030,Head and Neck,matrix_intact,-1.4927774631283524
+ARID1A_damaging_to_ATR,Avana,ACH-002035,Lung,matrix_intact,-0.5119650931510145
+ARID1A_damaging_to_ATR,Avana,ACH-002039,Pancreas,matrix_intact,-0.5245645489898108
+ARID1A_damaging_to_ATR,Avana,ACH-002040,Vulva/Vagina,matrix_intact,-0.6709469236234158
+ARID1A_damaging_to_ATR,Avana,ACH-002041,Thyroid,matrix_intact,-1.6120615983536024
+ARID1A_damaging_to_ATR,Avana,ACH-002042,Head and Neck,matrix_intact,-0.5164043137567838
+ARID1A_damaging_to_ATR,Avana,ACH-002043,Head and Neck,matrix_intact,-3.160046590072972
+ARID1A_damaging_to_ATR,Avana,ACH-002044,Head and Neck,matrix_intact,-0.8886903446509447
+ARID1A_damaging_to_ATR,Avana,ACH-002045,Head and Neck,matrix_intact,-0.9960648518842303
+ARID1A_damaging_to_ATR,Avana,ACH-002046,Uterus,damaging,-2.3187194171366197
+ARID1A_damaging_to_ATR,Avana,ACH-002048,Soft Tissue,matrix_intact,-0.827264157347122
+ARID1A_damaging_to_ATR,Avana,ACH-002051,Lung,matrix_intact,-1.2191822523139881
+ARID1A_damaging_to_ATR,Avana,ACH-002059,Lymphoid,matrix_intact,-0.9218265568751525
+ARID1A_damaging_to_ATR,Avana,ACH-002061,Myeloid,matrix_intact,-1.0305826517349348
+ARID1A_damaging_to_ATR,Avana,ACH-002062,Lymphoid,matrix_intact,-0.6173348102545813
+ARID1A_damaging_to_ATR,Avana,ACH-002066,Peripheral Nervous System,matrix_intact,-2.044761355207854
+ARID1A_damaging_to_ATR,Avana,ACH-002067,Bone,matrix_intact,-0.413823946777153
+ARID1A_damaging_to_ATR,Avana,ACH-002069,Bone,matrix_intact,-1.0358500508537198
+ARID1A_damaging_to_ATR,Avana,ACH-002070,CNS/Brain,matrix_intact,-2.1229053036002425
+ARID1A_damaging_to_ATR,Avana,ACH-002077,Lung,matrix_intact,-0.08210564261969482
+ARID1A_damaging_to_ATR,Avana,ACH-002080,Peripheral Nervous System,matrix_intact,-1.2283488416681871
+ARID1A_damaging_to_ATR,Avana,ACH-002084,Skin,matrix_intact,-1.046674021007258
+ARID1A_damaging_to_ATR,Avana,ACH-002214,Lymphoid,matrix_intact,-3.2806366978295083
+ARID1A_damaging_to_ATR,Avana,ACH-002215,Lymphoid,matrix_intact,-0.5994577051726717
+ARID1A_damaging_to_ATR,Avana,ACH-002291,Testis,matrix_intact,-0.07844516562544877
+ARID1A_damaging_to_ATR,Avana,ACH-002399,Breast,matrix_intact,-2.6118233238565294
+ARID1A_damaging_to_ATR,Avana,ACH-002446,Esophagus/Stomach,matrix_intact,-1.9958956336821947
+ARID1A_damaging_to_ATR,Avana,ACH-002458,Skin,matrix_intact,-0.5386494850082082
+ARID1A_damaging_to_ATR,Avana,ACH-002459,Skin,matrix_intact,-1.4434007382351914
+ARID1A_damaging_to_ATR,Avana,ACH-002460,Skin,matrix_intact,-1.8535117529372656
+ARID1A_damaging_to_ATR,Avana,ACH-002461,Skin,damaging,-1.9039285441142768
+ARID1A_damaging_to_ATR,Avana,ACH-002462,Eye,matrix_intact,-3.014904487091825
+ARID1A_damaging_to_ATR,Avana,ACH-002463,Eye,matrix_intact,-1.7741097619741488
+ARID1A_damaging_to_ATR,Avana,ACH-002464,Eye,matrix_intact,-1.0259580511142183
+ARID1A_damaging_to_ATR,Avana,ACH-002465,Eye,matrix_intact,-0.7463242428437931
+ARID1A_damaging_to_ATR,Avana,ACH-002467,Eye,matrix_intact,-1.229592415068712
+ARID1A_damaging_to_ATR,Avana,ACH-002471,Bone,matrix_intact,-0.13160234281893013
+ARID1A_damaging_to_ATR,Avana,ACH-002478,Lymphoid,damaging,-0.8219491102198391
+ARID1A_damaging_to_ATR,Avana,ACH-002485,Lymphoid,matrix_intact,-0.3171955532931437
+ARID1A_damaging_to_ATR,Avana,ACH-002486,Ovary/Fallopian Tube,matrix_intact,-0.9688122717836256
+ARID1A_damaging_to_ATR,Avana,ACH-002508,Skin,damaging,-0.896083876375112
+ARID1A_damaging_to_ATR,Avana,ACH-002510,Skin,matrix_intact,-1.4157109475068526
+ARID1A_damaging_to_ATR,Avana,ACH-002511,Skin,matrix_intact,-1.7209165616981945
+ARID1A_damaging_to_ATR,Avana,ACH-002512,Skin,matrix_intact,-0.11455824404550657
+ARID1A_damaging_to_ATR,Avana,ACH-002522,Lung,matrix_intact,-0.9105655900589285
+ARID1A_damaging_to_ATR,Avana,ACH-002523,Liver,matrix_intact,-1.752438148162407
+ARID1A_damaging_to_ATR,Avana,ACH-002524,Ovary/Fallopian Tube,matrix_intact,-0.9850807747006662
+ARID1A_damaging_to_ATR,Avana,ACH-002526,Lung,matrix_intact,-2.072325228051661
+ARID1A_damaging_to_ATR,Avana,ACH-002531,Lung,matrix_intact,-0.8524011830630824
+ARID1A_damaging_to_ATR,Avana,ACH-002533,Kidney,matrix_intact,-1.9740350042935577
+ARID1A_damaging_to_ATR,Avana,ACH-002535,Bowel,damaging,-0.8845076173125488
+ARID1A_damaging_to_ATR,Avana,ACH-002647,Biliary Tract,damaging,-0.1591718211284503
+ARID1A_damaging_to_ATR,Avana,ACH-002650,Lung,matrix_intact,-0.784886967872239
+ARID1A_damaging_to_ATR,Avana,ACH-002654,Bowel,matrix_intact,-0.5027801567706588
+ARID1A_damaging_to_ATR,Avana,ACH-002659,Bowel,matrix_intact,-1.1269844592440252
+ARID1A_damaging_to_ATR,Avana,ACH-002664,Bowel,matrix_intact,-0.7679487267514493
+ARID1A_damaging_to_ATR,Avana,ACH-002669,Bowel,matrix_intact,-1.7403786895506017
+ARID1A_damaging_to_ATR,Avana,ACH-002672,Pancreas,matrix_intact,-1.1767151426046119
+ARID1A_damaging_to_ATR,Avana,ACH-002680,CNS/Brain,matrix_intact,-2.2968394055885493
+ARID1A_damaging_to_ATR,Avana,ACH-002687,Eye,matrix_intact,-1.3258207951622465
+ARID1A_damaging_to_ATR,Avana,ACH-002693,Peripheral Nervous System,matrix_intact,-0.7804302832824273
+ARID1A_damaging_to_ATR,Avana,ACH-002710,Peripheral Nervous System,matrix_intact,-2.6809398660587704
+ARID1A_damaging_to_ATR,Avana,ACH-002785,Soft Tissue,matrix_intact,-2.365657388248067
+ARID1A_damaging_to_ATR,Avana,ACH-002799,Peripheral Nervous System,matrix_intact,-3.2042183727403817
+ARID1A_damaging_to_ATR,Avana,ACH-002800,Peripheral Nervous System,matrix_intact,-2.7675458768401544
+ARID1A_damaging_to_ATR,Avana,ACH-002834,Bone,matrix_intact,-0.991936541023378
+ARID1A_damaging_to_ATR,Avana,ACH-002847,Skin,matrix_intact,-3.1536164677615783
+ARID1A_damaging_to_ATR,Avana,ACH-002922,Peripheral Nervous System,matrix_intact,-1.7702692614118485
+ARID1A_damaging_to_ATR,Avana,ACH-002925,Eye,matrix_intact,-0.7770768571843072
+ARID1A_damaging_to_ATR,Avana,ACH-002926,Eye,matrix_intact,-0.9883756662589079
+ARID1A_damaging_to_ATR,KY,ACH-000001,Ovary/Fallopian Tube,matrix_intact,-0.2848171393254727
+ARID1A_damaging_to_ATR,KY,ACH-000007,Bowel,matrix_intact,-1.7992816837966572
+ARID1A_damaging_to_ATR,KY,ACH-000009,Bowel,matrix_intact,-2.1597203925970656
+ARID1A_damaging_to_ATR,KY,ACH-000019,Breast,matrix_intact,-1.5466338137069569
+ARID1A_damaging_to_ATR,KY,ACH-000023,Pancreas,matrix_intact,-1.6511573586955282
+ARID1A_damaging_to_ATR,KY,ACH-000024,Lymphoid,matrix_intact,-2.290014163648194
+ARID1A_damaging_to_ATR,KY,ACH-000030,Lung,matrix_intact,-2.882102601259266
+ARID1A_damaging_to_ATR,KY,ACH-000035,Lung,matrix_intact,-1.8578301989698083
+ARID1A_damaging_to_ATR,KY,ACH-000042,Pancreas,matrix_intact,-0.7462070892788047
+ARID1A_damaging_to_ATR,KY,ACH-000048,Ovary/Fallopian Tube,matrix_intact,-2.1769691077452342
+ARID1A_damaging_to_ATR,KY,ACH-000060,Pancreas,matrix_intact,-1.2078224094130308
+ARID1A_damaging_to_ATR,KY,ACH-000067,CNS/Brain,matrix_intact,-2.214350806316255
+ARID1A_damaging_to_ATR,KY,ACH-000075,CNS/Brain,matrix_intact,-1.4286688637676068
+ARID1A_damaging_to_ATR,KY,ACH-000094,Pancreas,matrix_intact,-1.5196531271003506
+ARID1A_damaging_to_ATR,KY,ACH-000098,CNS/Brain,matrix_intact,-1.3950009147908542
+ARID1A_damaging_to_ATR,KY,ACH-000103,Ovary/Fallopian Tube,matrix_intact,-1.9194423697748373
+ARID1A_damaging_to_ATR,KY,ACH-000108,Pancreas,damaging,-0.9515157308527584
+ARID1A_damaging_to_ATR,KY,ACH-000111,Breast,matrix_intact,-2.0985416814052047
+ARID1A_damaging_to_ATR,KY,ACH-000113,Myeloid,matrix_intact,-3.4855010223218224
+ARID1A_damaging_to_ATR,KY,ACH-000114,Pancreas,matrix_intact,-1.8782999613827476
+ARID1A_damaging_to_ATR,KY,ACH-000118,Pancreas,matrix_intact,-1.769266510047755
+ARID1A_damaging_to_ATR,KY,ACH-000120,Peripheral Nervous System,matrix_intact,-5.109424762177657
+ARID1A_damaging_to_ATR,KY,ACH-000124,Lymphoid,damaging,-1.1991709371486907
+ARID1A_damaging_to_ATR,KY,ACH-000132,Ovary/Fallopian Tube,matrix_intact,-2.4600287170378237
+ARID1A_damaging_to_ATR,KY,ACH-000137,CNS/Brain,matrix_intact,-2.2467199492207857
+ARID1A_damaging_to_ATR,KY,ACH-000139,Pancreas,matrix_intact,-2.950787014903019
+ARID1A_damaging_to_ATR,KY,ACH-000144,Esophagus/Stomach,matrix_intact,-0.34158009349182367
+ARID1A_damaging_to_ATR,KY,ACH-000147,Breast,damaging,-0.4308176057771024
+ARID1A_damaging_to_ATR,KY,ACH-000148,Breast,matrix_intact,-2.978844827656946
+ARID1A_damaging_to_ATR,KY,ACH-000149,Peripheral Nervous System,matrix_intact,-3.3194573879962554
+ARID1A_damaging_to_ATR,KY,ACH-000155,Pancreas,matrix_intact,-2.4658982993267045
+ARID1A_damaging_to_ATR,KY,ACH-000176,Lung,matrix_intact,-1.3130933320139677
+ARID1A_damaging_to_ATR,KY,ACH-000181,Head and Neck,matrix_intact,-3.1471583510093812
+ARID1A_damaging_to_ATR,KY,ACH-000183,Lymphoid,matrix_intact,-4.774319754144053
+ARID1A_damaging_to_ATR,KY,ACH-000192,Uterus,matrix_intact,-0.03936662016728362
+ARID1A_damaging_to_ATR,KY,ACH-000200,CNS/Brain,matrix_intact,-1.6371312879425588
+ARID1A_damaging_to_ATR,KY,ACH-000204,Lymphoid,matrix_intact,-1.8148821112004068
+ARID1A_damaging_to_ATR,KY,ACH-000207,Head and Neck,matrix_intact,-3.632959266773186
+ARID1A_damaging_to_ATR,KY,ACH-000213,Pancreas,matrix_intact,-1.1303777223663938
+ARID1A_damaging_to_ATR,KY,ACH-000219,Skin,matrix_intact,-4.427923045965137
+ARID1A_damaging_to_ATR,KY,ACH-000222,Pancreas,matrix_intact,-1.6220521108273775
+ARID1A_damaging_to_ATR,KY,ACH-000223,Breast,matrix_intact,-3.1912011447201976
+ARID1A_damaging_to_ATR,KY,ACH-000227,Peripheral Nervous System,matrix_intact,-4.283085896130873
+ARID1A_damaging_to_ATR,KY,ACH-000232,CNS/Brain,matrix_intact,-2.739044112810543
+ARID1A_damaging_to_ATR,KY,ACH-000235,Pancreas,matrix_intact,-1.2566736289028138
+ARID1A_damaging_to_ATR,KY,ACH-000238,Head and Neck,matrix_intact,-2.8906027349773367
+ARID1A_damaging_to_ATR,KY,ACH-000243,Pancreas,matrix_intact,-2.3863366570054674
+ARID1A_damaging_to_ATR,KY,ACH-000244,CNS/Brain,matrix_intact,-0.491136735886669
+ARID1A_damaging_to_ATR,KY,ACH-000248,Breast,matrix_intact,-1.019974348615021
+ARID1A_damaging_to_ATR,KY,ACH-000249,Bowel,matrix_intact,-2.9258257567887043
+ARID1A_damaging_to_ATR,KY,ACH-000252,Bowel,matrix_intact,-4.953779636988986
+ARID1A_damaging_to_ATR,KY,ACH-000260,Peripheral Nervous System,matrix_intact,-2.9559230617924164
+ARID1A_damaging_to_ATR,KY,ACH-000265,Pancreas,matrix_intact,-1.768591394002535
+ARID1A_damaging_to_ATR,KY,ACH-000269,CNS/Brain,matrix_intact,-1.4408366345699117
+ARID1A_damaging_to_ATR,KY,ACH-000271,Lymphoid,matrix_intact,-1.18891074268441
+ARID1A_damaging_to_ATR,KY,ACH-000273,CNS/Brain,matrix_intact,-2.7370425116537813
+ARID1A_damaging_to_ATR,KY,ACH-000276,Breast,matrix_intact,-2.743756509498798
+ARID1A_damaging_to_ATR,KY,ACH-000291,Ovary/Fallopian Tube,matrix_intact,-2.467294754920561
+ARID1A_damaging_to_ATR,KY,ACH-000293,Uterus,matrix_intact,-0.4104312563182675
+ARID1A_damaging_to_ATR,KY,ACH-000305,Esophagus/Stomach,matrix_intact,-2.0636633511490365
+ARID1A_damaging_to_ATR,KY,ACH-000308,Ovary/Fallopian Tube,matrix_intact,-0.4914275689875495
+ARID1A_damaging_to_ATR,KY,ACH-000318,Esophagus/Stomach,matrix_intact,-2.757874211831927
+ARID1A_damaging_to_ATR,KY,ACH-000320,Pancreas,damaging,-2.689998398071714
+ARID1A_damaging_to_ATR,KY,ACH-000323,CNS/Brain,matrix_intact,-0.8785835657644235
+ARID1A_damaging_to_ATR,KY,ACH-000336,Myeloid,matrix_intact,-0.9517510533755335
+ARID1A_damaging_to_ATR,KY,ACH-000337,Lung,matrix_intact,-0.5880528213704664
+ARID1A_damaging_to_ATR,KY,ACH-000341,Peripheral Nervous System,matrix_intact,-3.263730817199564
+ARID1A_damaging_to_ATR,KY,ACH-000350,Bowel,matrix_intact,0.5490088651017336
+ARID1A_damaging_to_ATR,KY,ACH-000354,Pancreas,matrix_intact,-3.08167420743442
+ARID1A_damaging_to_ATR,KY,ACH-000366,Peripheral Nervous System,matrix_intact,-0.7848020486619545
+ARID1A_damaging_to_ATR,KY,ACH-000367,Pleura,matrix_intact,0.1517014047237968
+ARID1A_damaging_to_ATR,KY,ACH-000374,Breast,matrix_intact,-2.8533585641090724
+ARID1A_damaging_to_ATR,KY,ACH-000376,CNS/Brain,matrix_intact,-3.1613262556793376
+ARID1A_damaging_to_ATR,KY,ACH-000381,Bowel,matrix_intact,-2.6626820194676926
+ARID1A_damaging_to_ATR,KY,ACH-000383,Esophagus/Stomach,matrix_intact,-3.660511729961311
+ARID1A_damaging_to_ATR,KY,ACH-000391,Bone,matrix_intact,-2.4908290104140978
+ARID1A_damaging_to_ATR,KY,ACH-000395,Lung,matrix_intact,-1.3189768236391533
+ARID1A_damaging_to_ATR,KY,ACH-000408,Esophagus/Stomach,matrix_intact,-1.504651364080286
+ARID1A_damaging_to_ATR,KY,ACH-000411,Kidney,matrix_intact,-2.2000043421176603
+ARID1A_damaging_to_ATR,KY,ACH-000414,Lung,matrix_intact,-2.128159414529706
+ARID1A_damaging_to_ATR,KY,ACH-000417,Pancreas,matrix_intact,-1.958366667966132
+ARID1A_damaging_to_ATR,KY,ACH-000421,Bowel,matrix_intact,-1.797993573720871
+ARID1A_damaging_to_ATR,KY,ACH-000424,Bone,matrix_intact,-3.4162270164993465
+ARID1A_damaging_to_ATR,KY,ACH-000427,Esophagus/Stomach,matrix_intact,-2.9968333405354657
+ARID1A_damaging_to_ATR,KY,ACH-000430,Ovary/Fallopian Tube,matrix_intact,-2.750194437174762
+ARID1A_damaging_to_ATR,KY,ACH-000434,Lung,matrix_intact,-0.4174642741723557
+ARID1A_damaging_to_ATR,KY,ACH-000437,CNS/Brain,damaging,-1.6478447825609144
+ARID1A_damaging_to_ATR,KY,ACH-000438,Lung,matrix_intact,-1.6132896394106415
+ARID1A_damaging_to_ATR,KY,ACH-000442,Lung,matrix_intact,-1.5821676792911001
+ARID1A_damaging_to_ATR,KY,ACH-000452,Esophagus/Stomach,matrix_intact,-2.404353757776707
+ARID1A_damaging_to_ATR,KY,ACH-000464,CNS/Brain,matrix_intact,-1.692852307657648
+ARID1A_damaging_to_ATR,KY,ACH-000469,CNS/Brain,matrix_intact,-1.8690708948408585
+ARID1A_damaging_to_ATR,KY,ACH-000481,Lung,matrix_intact,-2.3277301919237807
+ARID1A_damaging_to_ATR,KY,ACH-000501,Bowel,matrix_intact,0.25983619777073214
+ARID1A_damaging_to_ATR,KY,ACH-000504,CNS/Brain,matrix_intact,-1.3397851536628242
+ARID1A_damaging_to_ATR,KY,ACH-000505,Soft Tissue,matrix_intact,-0.9982031695624767
+ARID1A_damaging_to_ATR,KY,ACH-000510,Lung,matrix_intact,-3.449331993639086
+ARID1A_damaging_to_ATR,KY,ACH-000518,Head and Neck,matrix_intact,-3.1256095153705314
+ARID1A_damaging_to_ATR,KY,ACH-000524,Ovary/Fallopian Tube,matrix_intact,-1.3955563031572584
+ARID1A_damaging_to_ATR,KY,ACH-000527,Ovary/Fallopian Tube,damaging,-3.2033423618276977
+ARID1A_damaging_to_ATR,KY,ACH-000532,Bowel,matrix_intact,-1.6356375423919787
+ARID1A_damaging_to_ATR,KY,ACH-000535,Pancreas,matrix_intact,-1.153981450474484
+ARID1A_damaging_to_ATR,KY,ACH-000544,Esophagus/Stomach,matrix_intact,-2.593182627199759
+ARID1A_damaging_to_ATR,KY,ACH-000546,Head and Neck,matrix_intact,-3.05019633946332
+ARID1A_damaging_to_ATR,KY,ACH-000548,Head and Neck,matrix_intact,-1.5860430061521573
+ARID1A_damaging_to_ATR,KY,ACH-000552,Bowel,matrix_intact,-2.7380936350995113
+ARID1A_damaging_to_ATR,KY,ACH-000554,Breast,matrix_intact,-1.9275058475837954
+ARID1A_damaging_to_ATR,KY,ACH-000558,CNS/Brain,matrix_intact,-1.6565581570992491
+ARID1A_damaging_to_ATR,KY,ACH-000561,Esophagus/Stomach,matrix_intact,-1.0214002692239488
+ARID1A_damaging_to_ATR,KY,ACH-000562,Lung,matrix_intact,-1.5839577189306722
+ARID1A_damaging_to_ATR,KY,ACH-000563,Lung,matrix_intact,-1.4571155500289492
+ARID1A_damaging_to_ATR,KY,ACH-000565,Bowel,matrix_intact,-1.3468261555506877
+ARID1A_damaging_to_ATR,KY,ACH-000571,CNS/Brain,matrix_intact,-2.0125386999289114
+ARID1A_damaging_to_ATR,KY,ACH-000573,Breast,matrix_intact,-1.197351190500238
+ARID1A_damaging_to_ATR,KY,ACH-000581,Esophagus/Stomach,damaging,-0.9884980425356007
+ARID1A_damaging_to_ATR,KY,ACH-000584,Ovary/Fallopian Tube,matrix_intact,-4.542168598706786
+ARID1A_damaging_to_ATR,KY,ACH-000585,Lung,matrix_intact,-1.5691254965913537
+ARID1A_damaging_to_ATR,KY,ACH-000587,Lung,matrix_intact,-1.1703061701225952
+ARID1A_damaging_to_ATR,KY,ACH-000595,CNS/Brain,matrix_intact,-2.1829894773008607
+ARID1A_damaging_to_ATR,KY,ACH-000596,Lung,matrix_intact,-0.761051725287864
+ARID1A_damaging_to_ATR,KY,ACH-000599,Pancreas,damaging,-0.28167060797340626
+ARID1A_damaging_to_ATR,KY,ACH-000601,Pancreas,damaging,-1.565241255164992
+ARID1A_damaging_to_ATR,KY,ACH-000609,CNS/Brain,matrix_intact,-3.2255427811646533
+ARID1A_damaging_to_ATR,KY,ACH-000619,Head and Neck,matrix_intact,-2.5152066540808384
+ARID1A_damaging_to_ATR,KY,ACH-000622,CNS/Brain,matrix_intact,-0.04210317429307678
+ARID1A_damaging_to_ATR,KY,ACH-000624,Breast,matrix_intact,-2.7114535423307338
+ARID1A_damaging_to_ATR,KY,ACH-000637,Esophagus/Stomach,matrix_intact,-2.3017410817970596
+ARID1A_damaging_to_ATR,KY,ACH-000651,Bowel,matrix_intact,-2.20853519669007
+ARID1A_damaging_to_ATR,KY,ACH-000652,Pancreas,damaging,-2.1052861537331515
+ARID1A_damaging_to_ATR,KY,ACH-000656,Lymphoid,matrix_intact,-4.013069674681988
+ARID1A_damaging_to_ATR,KY,ACH-000657,Ovary/Fallopian Tube,damaging,-5.568403250220421
+ARID1A_damaging_to_ATR,KY,ACH-000660,Lymphoid,matrix_intact,-6.190746031353478
+ARID1A_damaging_to_ATR,KY,ACH-000662,Lung,matrix_intact,-4.205036299207063
+ARID1A_damaging_to_ATR,KY,ACH-000665,Lung,matrix_intact,-1.2528653868093722
+ARID1A_damaging_to_ATR,KY,ACH-000666,Lung,matrix_intact,-1.3913122973926517
+ARID1A_damaging_to_ATR,KY,ACH-000668,Breast,matrix_intact,-2.3928019488489296
+ARID1A_damaging_to_ATR,KY,ACH-000677,Lung,matrix_intact,-1.6613550656243128
+ARID1A_damaging_to_ATR,KY,ACH-000681,Lung,matrix_intact,-2.5682423985822265
+ARID1A_damaging_to_ATR,KY,ACH-000694,Esophagus/Stomach,matrix_intact,-1.476745972858876
+ARID1A_damaging_to_ATR,KY,ACH-000696,Ovary/Fallopian Tube,matrix_intact,-3.1399502299959168
+ARID1A_damaging_to_ATR,KY,ACH-000699,Breast,matrix_intact,-1.5984462196704676
+ARID1A_damaging_to_ATR,KY,ACH-000704,Ovary/Fallopian Tube,damaging,-0.13144253357766536
+ARID1A_damaging_to_ATR,KY,ACH-000711,Breast,matrix_intact,-0.9134506530443093
+ARID1A_damaging_to_ATR,KY,ACH-000714,Lymphoid,matrix_intact,-2.0931589123946055
+ARID1A_damaging_to_ATR,KY,ACH-000717,Esophagus/Stomach,matrix_intact,-2.3215356724275202
+ARID1A_damaging_to_ATR,KY,ACH-000719,Ovary/Fallopian Tube,matrix_intact,-0.8433882711330885
+ARID1A_damaging_to_ATR,KY,ACH-000722,Bowel,matrix_intact,-0.9791227637865457
+ARID1A_damaging_to_ATR,KY,ACH-000738,CNS/Brain,matrix_intact,-1.6840123549107404
+ARID1A_damaging_to_ATR,KY,ACH-000740,Head and Neck,matrix_intact,-2.1897729688297023
+ARID1A_damaging_to_ATR,KY,ACH-000748,Bone,matrix_intact,-3.310371236280727
+ARID1A_damaging_to_ATR,KY,ACH-000756,CNS/Brain,matrix_intact,-4.2502245702449075
+ARID1A_damaging_to_ATR,KY,ACH-000768,Breast,matrix_intact,-2.346224767675397
+ARID1A_damaging_to_ATR,KY,ACH-000769,Lung,matrix_intact,-2.4221631506060564
+ARID1A_damaging_to_ATR,KY,ACH-000778,Head and Neck,matrix_intact,-2.6165666219316472
+ARID1A_damaging_to_ATR,KY,ACH-000781,Lung,matrix_intact,-4.550830590777232
+ARID1A_damaging_to_ATR,KY,ACH-000784,Esophagus/Stomach,damaging,-1.1836449273216296
+ARID1A_damaging_to_ATR,KY,ACH-000787,Lung,matrix_intact,-2.007253695354644
+ARID1A_damaging_to_ATR,KY,ACH-000788,Skin,matrix_intact,-3.4235708719844276
+ARID1A_damaging_to_ATR,KY,ACH-000793,Esophagus/Stomach,matrix_intact,-0.37959762197143326
+ARID1A_damaging_to_ATR,KY,ACH-000794,Head and Neck,matrix_intact,-3.6267534395994097
+ARID1A_damaging_to_ATR,KY,ACH-000796,Ovary/Fallopian Tube,matrix_intact,-1.0891856246349925
+ARID1A_damaging_to_ATR,KY,ACH-000809,Esophagus/Stomach,matrix_intact,-1.9523165149799515
+ARID1A_damaging_to_ATR,KY,ACH-000817,Lymphoid,matrix_intact,-2.312238790826419
+ARID1A_damaging_to_ATR,KY,ACH-000823,Esophagus/Stomach,matrix_intact,-3.6010991912375787
+ARID1A_damaging_to_ATR,KY,ACH-000824,Esophagus/Stomach,matrix_intact,-2.0430604235114687
+ARID1A_damaging_to_ATR,KY,ACH-000832,Head and Neck,matrix_intact,-2.895471799756591
+ARID1A_damaging_to_ATR,KY,ACH-000841,Lung,matrix_intact,-2.0795373327482536
+ARID1A_damaging_to_ATR,KY,ACH-000843,Lung,matrix_intact,-2.620576827200921
+ARID1A_damaging_to_ATR,KY,ACH-000846,Head and Neck,matrix_intact,-3.704926838794733
+ARID1A_damaging_to_ATR,KY,ACH-000847,Esophagus/Stomach,matrix_intact,-3.1742919314404667
+ARID1A_damaging_to_ATR,KY,ACH-000849,Breast,matrix_intact,-1.4786663045218775
+ARID1A_damaging_to_ATR,KY,ACH-000855,Esophagus/Stomach,matrix_intact,-1.940188737201895
+ARID1A_damaging_to_ATR,KY,ACH-000856,Breast,damaging,-1.2505420628818698
+ARID1A_damaging_to_ATR,KY,ACH-000858,Lung,matrix_intact,-2.243520048325401
+ARID1A_damaging_to_ATR,KY,ACH-000859,Breast,matrix_intact,-0.853739346688832
+ARID1A_damaging_to_ATR,KY,ACH-000860,Lung,matrix_intact,-0.8450262189241439
+ARID1A_damaging_to_ATR,KY,ACH-000861,Lung,matrix_intact,-1.7432242211998712
+ARID1A_damaging_to_ATR,KY,ACH-000863,CNS/Brain,matrix_intact,-1.5180158052798571
+ARID1A_damaging_to_ATR,KY,ACH-000864,Uterus,matrix_intact,-0.946846520878961
+ARID1A_damaging_to_ATR,KY,ACH-000865,Esophagus/Stomach,damaging,-3.843112757278503
+ARID1A_damaging_to_ATR,KY,ACH-000869,Lung,matrix_intact,-1.56686116183327
+ARID1A_damaging_to_ATR,KY,ACH-000873,Esophagus/Stomach,matrix_intact,-3.8495662663339245
+ARID1A_damaging_to_ATR,KY,ACH-000876,Breast,matrix_intact,-0.1792316818369736
+ARID1A_damaging_to_ATR,KY,ACH-000878,Lung,matrix_intact,-0.5652588241710094
+ARID1A_damaging_to_ATR,KY,ACH-000879,Uterus,damaging,-1.9682268270126857
+ARID1A_damaging_to_ATR,KY,ACH-000880,Esophagus/Stomach,matrix_intact,-4.59060754939497
+ARID1A_damaging_to_ATR,KY,ACH-000885,Ovary/Fallopian Tube,damaging,-3.063719885895402
+ARID1A_damaging_to_ATR,KY,ACH-000894,Lung,damaging,-1.969266678005888
+ARID1A_damaging_to_ATR,KY,ACH-000900,Lung,matrix_intact,-2.565347520036052
+ARID1A_damaging_to_ATR,KY,ACH-000906,Ovary/Fallopian Tube,matrix_intact,-4.47689122414852
+ARID1A_damaging_to_ATR,KY,ACH-000910,Breast,matrix_intact,-0.7356687188499246
+ARID1A_damaging_to_ATR,KY,ACH-000911,Esophagus/Stomach,damaging,-1.8017673190270684
+ARID1A_damaging_to_ATR,KY,ACH-000913,Uterus,matrix_intact,-3.5981353760200756
+ARID1A_damaging_to_ATR,KY,ACH-000917,Esophagus/Stomach,matrix_intact,-2.7246076799023817
+ARID1A_damaging_to_ATR,KY,ACH-000919,Esophagus/Stomach,damaging,-1.6238210858752617
+ARID1A_damaging_to_ATR,KY,ACH-000926,Bowel,matrix_intact,-0.5487733751001392
+ARID1A_damaging_to_ATR,KY,ACH-000932,Esophagus/Stomach,damaging,-1.3199067459013643
+ARID1A_damaging_to_ATR,KY,ACH-000934,Breast,matrix_intact,-0.8441103367688028
+ARID1A_damaging_to_ATR,KY,ACH-000935,Bowel,matrix_intact,-2.310657539462703
+ARID1A_damaging_to_ATR,KY,ACH-000936,Ovary/Fallopian Tube,damaging,-1.2224434968184636
+ARID1A_damaging_to_ATR,KY,ACH-000943,Bowel,damaging,-3.068040387876522
+ARID1A_damaging_to_ATR,KY,ACH-000945,Lung,matrix_intact,-0.6716791038456105
+ARID1A_damaging_to_ATR,KY,ACH-000947,Ovary/Fallopian Tube,damaging,-2.333034070546731
+ARID1A_damaging_to_ATR,KY,ACH-000948,Esophagus/Stomach,damaging,-2.462681830603484
+ARID1A_damaging_to_ATR,KY,ACH-000950,Bowel,damaging,-2.3806430697856693
+ARID1A_damaging_to_ATR,KY,ACH-000956,Prostate,damaging,-1.1305921112357462
+ARID1A_damaging_to_ATR,KY,ACH-000957,Bowel,damaging,-2.980920302831161
+ARID1A_damaging_to_ATR,KY,ACH-000958,Bowel,damaging,-2.4304530573593977
+ARID1A_damaging_to_ATR,KY,ACH-000962,Ovary/Fallopian Tube,damaging,-4.916835541401143
+ARID1A_damaging_to_ATR,KY,ACH-000965,Uterus,damaging,-2.28243408370455
+ARID1A_damaging_to_ATR,KY,ACH-000966,Ovary/Fallopian Tube,damaging,-0.8768466609925999
+ARID1A_damaging_to_ATR,KY,ACH-000969,Bowel,damaging,-1.20418119544452
+ARID1A_damaging_to_ATR,KY,ACH-000970,Bowel,damaging,-2.491275623936463
+ARID1A_damaging_to_ATR,KY,ACH-000971,Bowel,matrix_intact,-2.5262244239351843
+ARID1A_damaging_to_ATR,KY,ACH-000974,Uterus,damaging,-2.5987586103611444
+ARID1A_damaging_to_ATR,KY,ACH-000977,Prostate,damaging,-2.978623639782111
+ARID1A_damaging_to_ATR,KY,ACH-000979,Prostate,matrix_intact,-1.6113133686070649
+ARID1A_damaging_to_ATR,KY,ACH-000980,Lung,matrix_intact,-2.1925511590573987
+ARID1A_damaging_to_ATR,KY,ACH-000985,Bowel,damaging,-2.7665736682458597
+ARID1A_damaging_to_ATR,KY,ACH-000991,Bowel,matrix_intact,-2.917265824757892
+ARID1A_damaging_to_ATR,KY,ACH-000997,Bowel,matrix_intact,-1.2359076891800944
+ARID1A_damaging_to_ATR,KY,ACH-001016,CNS/Brain,matrix_intact,-1.5482765776535112
+ARID1A_damaging_to_ATR,KY,ACH-001039,Bowel,matrix_intact,-1.414152348673482
+ARID1A_damaging_to_ATR,KY,ACH-001063,Ovary/Fallopian Tube,matrix_intact,-1.6354985881607949
+ARID1A_damaging_to_ATR,KY,ACH-001065,Breast,matrix_intact,-1.308269274503331
+ARID1A_damaging_to_ATR,KY,ACH-001081,Bowel,damaging,-3.2186443266318023
+ARID1A_damaging_to_ATR,KY,ACH-001107,Pancreas,matrix_intact,-1.297049674486496
+ARID1A_damaging_to_ATR,KY,ACH-001126,CNS/Brain,matrix_intact,-2.923024658357911
+ARID1A_damaging_to_ATR,KY,ACH-001137,Lung,matrix_intact,-1.2548668803400804
+ARID1A_damaging_to_ATR,KY,ACH-001151,Ovary/Fallopian Tube,matrix_intact,-2.8874600847881156
+ARID1A_damaging_to_ATR,KY,ACH-001190,Skin,matrix_intact,-4.081832894023367
+ARID1A_damaging_to_ATR,KY,ACH-001193,Bone,matrix_intact,-1.586203211651708
+ARID1A_damaging_to_ATR,KY,ACH-001233,Lung,matrix_intact,-2.3718373484001183
+ARID1A_damaging_to_ATR,KY,ACH-001331,Head and Neck,matrix_intact,-2.941907977101519
+ARID1A_damaging_to_ATR,KY,ACH-001332,Head and Neck,matrix_intact,-2.2553651511873163
+ARID1A_damaging_to_ATR,KY,ACH-001345,Bowel,damaging,-2.1789923963585656
+ARID1A_damaging_to_ATR,KY,ACH-001368,Esophagus/Stomach,matrix_intact,-0.9894725019909215
+ARID1A_damaging_to_ATR,KY,ACH-001399,Bowel,matrix_intact,-1.465073523189914
+ARID1A_damaging_to_ATR,KY,ACH-001418,Ovary/Fallopian Tube,matrix_intact,-1.598132505836057
+ARID1A_damaging_to_ATR,KY,ACH-001494,Biliary Tract,matrix_intact,-4.803965847219295
+ARID1A_damaging_to_ATR,KY,ACH-001496,Esophagus/Stomach,matrix_intact,-2.2429905305301014
+ARID1A_damaging_to_ATR,KY,ACH-001497,Esophagus/Stomach,matrix_intact,-1.9406790099320315
+ARID1A_damaging_to_ATR,KY,ACH-001500,Esophagus/Stomach,matrix_intact,-1.7734277568007932
+ARID1A_damaging_to_ATR,KY,ACH-001517,Uterus,damaging,-1.504768207175226
+ARID1A_damaging_to_ATR,KY,ACH-001542,Head and Neck,matrix_intact,-4.616749208791292
+ARID1A_damaging_to_ATR,KY,ACH-001544,Esophagus/Stomach,matrix_intact,-1.4617146319830614
+ARID1A_damaging_to_ATR,KY,ACH-001603,Peripheral Nervous System,matrix_intact,-1.8875435342274252
+ARID1A_damaging_to_ATR,KY,ACH-001605,CNS/Brain,matrix_intact,-1.014809775033008
+ARID1A_damaging_to_ATR,KY,ACH-001606,CNS/Brain,matrix_intact,-0.7261426667492441
+ARID1A_damaging_to_ATR,KY,ACH-001625,Head and Neck,matrix_intact,-1.4701322753741595
+ARID1A_damaging_to_ATR,KY,ACH-001626,Head and Neck,matrix_intact,-1.6491560582627474
+ARID1A_damaging_to_ATR,KY,ACH-001630,Ovary/Fallopian Tube,matrix_intact,-1.8473217622940015
+ARID1A_damaging_to_ATR,KY,ACH-001632,Ovary/Fallopian Tube,matrix_intact,-1.0350988347154948
+ARID1A_damaging_to_ATR,KY,ACH-001639,Lymphoid,matrix_intact,-1.0063694530789102
+ARID1A_damaging_to_ATR,KY,ACH-001654,Esophagus/Stomach,matrix_intact,-2.5303318100897
+ARID1A_damaging_to_ATR,KY,ACH-001674,Peripheral Nervous System,matrix_intact,-2.6975004608576056
+ARID1A_damaging_to_ATR,KY,ACH-001715,Bone,matrix_intact,-1.7507573438696975
+ARID1A_damaging_to_ATR,KY,ACH-001819,Breast,damaging,-5.003573270850331
+ARID1A_damaging_to_ATR,KY,ACH-001820,Breast,matrix_intact,-1.1466705257199028
+ARID1A_damaging_to_ATR,KY,ACH-002029,Head and Neck,matrix_intact,-4.162379770245991
+ARID1A_damaging_to_ATR,KY,ACH-002043,Head and Neck,matrix_intact,-2.156426061274091
+ARID1A_damaging_to_ATR,KY,ACH-002045,Head and Neck,matrix_intact,-1.860901121904967
+ARID1A_damaging_to_ATR,KY,ACH-002083,Peripheral Nervous System,matrix_intact,-2.701124649936119
+ARID1A_damaging_to_ATR,KY,ACH-002105,Bone,damaging,-2.4591782245030323
+ARID1A_damaging_to_ATR,KY,ACH-002106,Bone,matrix_intact,-2.0787121265630204
+ARID1A_damaging_to_ATR,KY,ACH-002109,Bone,matrix_intact,-3.044906086481076
+ARID1A_damaging_to_ATR,KY,ACH-002110,Bone,matrix_intact,-5.294244634828288
+ARID1A_damaging_to_ATR,KY,ACH-002114,Bone,matrix_intact,-2.859137537555918
+ARID1A_damaging_to_ATR,KY,ACH-002116,Bone,matrix_intact,-3.421894470360662
+ARID1A_damaging_to_ATR,KY,ACH-002119,Bone,matrix_intact,-5.220507052062551
+ARID1A_damaging_to_ATR,KY,ACH-002140,Ovary/Fallopian Tube,matrix_intact,-3.3156030259872193
+ARID1A_damaging_to_ATR,KY,ACH-002141,Esophagus/Stomach,matrix_intact,-1.8592416007011547
+ARID1A_damaging_to_ATR,KY,ACH-002143,Skin,matrix_intact,-0.9908371230977296
+ARID1A_damaging_to_ATR,KY,ACH-002150,Kidney,matrix_intact,-3.463774330694772
+ARID1A_damaging_to_ATR,KY,ACH-002156,Lung,matrix_intact,-1.5652457464944174
+ARID1A_damaging_to_ATR,KY,ACH-002160,Bone,matrix_intact,-5.308060652931921
+ARID1A_damaging_to_ATR,KY,ACH-002161,Esophagus/Stomach,matrix_intact,-2.519850434979815
+ARID1A_damaging_to_ATR,KY,ACH-002179,Breast,matrix_intact,-0.16026644848322388
+ARID1A_damaging_to_ATR,KY,ACH-002181,Ovary/Fallopian Tube,matrix_intact,-1.6052566572930622
+ARID1A_damaging_to_ATR,KY,ACH-002183,Ovary/Fallopian Tube,damaging,-0.3441108108921895
+ARID1A_damaging_to_ATR,KY,ACH-002186,Pancreas,matrix_intact,-2.336753333657908
+ARID1A_damaging_to_ATR,KY,ACH-002189,Kidney,matrix_intact,-2.1391196555206986
+ARID1A_damaging_to_ATR,KY,ACH-002198,Other,matrix_intact,-1.1096902510814233
+ARID1A_damaging_to_ATR,KY,ACH-002202,Esophagus/Stomach,matrix_intact,-2.4665073687551233
+ARID1A_damaging_to_ATR,KY,ACH-002210,Myeloid,matrix_intact,-3.037017779180657
+ARID1A_damaging_to_ATR,KY,ACH-002212,Head and Neck,matrix_intact,-4.740961016945955
+ARID1A_damaging_to_ATR,KY,ACH-002228,CNS/Brain,matrix_intact,-2.3208756154696824
+ARID1A_damaging_to_ATR,KY,ACH-002229,CNS/Brain,matrix_intact,-0.9338568639848623
+ARID1A_damaging_to_ATR,KY,ACH-002230,CNS/Brain,matrix_intact,-0.9423578752147224
+ARID1A_damaging_to_ATR,KY,ACH-002233,Bowel,matrix_intact,-1.7382760934198764
+ARID1A_damaging_to_ATR,KY,ACH-002234,Head and Neck,matrix_intact,-1.5692878166206723
+ARID1A_damaging_to_ATR,KY,ACH-002239,Head and Neck,matrix_intact,-3.0775571249351814
+ARID1A_damaging_to_ATR,KY,ACH-002243,Esophagus/Stomach,matrix_intact,-1.4620536598100047
+ARID1A_damaging_to_ATR,KY,ACH-002247,Myeloid,matrix_intact,-4.2888208519653785
+ARID1A_damaging_to_ATR,KY,ACH-002249,Head and Neck,matrix_intact,-3.3069191724624294
+ARID1A_damaging_to_ATR,KY,ACH-002250,Head and Neck,matrix_intact,-2.418718088646197
+ARID1A_damaging_to_ATR,KY,ACH-002251,Head and Neck,matrix_intact,-3.852181356983901
+ARID1A_damaging_to_ATR,KY,ACH-002257,CNS/Brain,matrix_intact,-1.590684607516574
+ARID1A_damaging_to_ATR,KY,ACH-002261,Peripheral Nervous System,matrix_intact,-2.1373913793174313
+ARID1A_damaging_to_ATR,KY,ACH-002263,Esophagus/Stomach,matrix_intact,-3.4335040465979745
+ARID1A_damaging_to_ATR,KY,ACH-002265,Head and Neck,matrix_intact,-1.957025573878057
+ARID1A_damaging_to_ATR,KY,ACH-002269,CNS/Brain,matrix_intact,-2.439818783620739
+ARID1A_damaging_to_ATR,KY,ACH-002278,Peripheral Nervous System,matrix_intact,-1.4805273525141267
+ARID1A_damaging_to_ATR,KY,ACH-002280,Peripheral Nervous System,matrix_intact,-0.27299434912468573
+ARID1A_damaging_to_ATR,KY,ACH-002282,Peripheral Nervous System,matrix_intact,-1.701717334623771
+ARID1A_damaging_to_ATR,KY,ACH-002283,Peripheral Nervous System,matrix_intact,-2.9211651964093543
+ARID1A_damaging_to_ATR,KY,ACH-002284,Peripheral Nervous System,matrix_intact,-1.4869987261039184
+ARID1A_damaging_to_ATR,KY,ACH-002285,Peripheral Nervous System,matrix_intact,-4.682767609538341
+ARID1A_damaging_to_ATR,KY,ACH-002294,Head and Neck,matrix_intact,-3.9544087643501897
+ARID1A_damaging_to_ATR,KY,ACH-002295,Head and Neck,matrix_intact,-3.178702647150297
+ARID1A_damaging_to_ATR,KY,ACH-002296,Head and Neck,matrix_intact,-2.7275752511673215
+ARID1A_damaging_to_ATR,KY,ACH-002297,Head and Neck,matrix_intact,-3.0293240248562086
+ARID1A_damaging_to_ATR,KY,ACH-002298,Head and Neck,matrix_intact,-5.1716205707537295
+ARID1A_damaging_to_ATR,KY,ACH-002304,CNS/Brain,matrix_intact,-1.9866276064628376
+ARID1A_damaging_to_ATR,KY,ACH-002305,Head and Neck,matrix_intact,-1.4011946532352095

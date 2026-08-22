@@ -1,0 +1,177 @@
+{
+  "analysis_label": "FEASIBILITY_ONLY",
+  "analysis_type": "preregistered_source_specific_lineage_stratified_arid1a_atr_transport_replication",
+  "artifact_receipt_sha256": {
+    "context_ledger.csv": "d808bd50211f644697a2606504e94e8a0cf588c212c8f4e651114821f36b2aad",
+    "design_sensitivity.csv": "e3d31f068ddeecb4a6aafa182800c50b3ac938c9fddb157a7fb1263dcac3d271",
+    "endpoint_scores.csv": "866ff59581feb9c8a8da54482a492c7647a54a65e449c4024b1999b993f28052",
+    "inference.csv": "dd10f50542d67f98f45d368d905b6ce2de195fbc0671c817aa29e417d9b52502",
+    "summary.json": "ce2347a2ce01e2135fc93c353d352353a71bbb07c889a9a39d0d9ea6d4ffb8f7"
+  },
+  "claim_boundary": "ARID1A damaging-matrix proxy association with source-specific ATR dependency in frozen 23Q4 cell-line screen cohorts; no functional ARID1A-loss, ATR-inhibitor, DNA-damage, replication-stress, causal, pharmacologic, treatment, clinical, or confirmatory claim",
+  "claim_eligibility": {
+    "design_sensitivity_label": "FEASIBILITY_ONLY",
+    "nominal_primary_gates_pass": false,
+    "primary_confirmatory": false
+  },
+  "confirmatory_claim": false,
+  "context_receipt": {
+    "canonical_roster_sha256": "62f8bf69649eb375de12daed222a50a4bc3b3df39c40f0e614845fbab12ab9ed",
+    "context_ledger_sha256": "d808bd50211f644697a2606504e94e8a0cf588c212c8f4e651114821f36b2aad",
+    "damaging_sha256": "aea4d970c0876afb90d2dc0e2709ff28be5a84e4e246f3a5a31faaba0fbc47e3",
+    "eligible_screens": 1292,
+    "eligible_source_models": {
+      "Avana": 975,
+      "KY": 315
+    },
+    "mixed_lineages": {
+      "Avana": 19,
+      "KY": 11
+    },
+    "model_sha256": "6b77a73209ce3faaa7442dbd947d8e08ddcb08b538c36fe820163f9cff321341",
+    "screen_map_sha256": "1e2bf9075600cd049dafc385866991523c65806657f3c8bd71afde3fe00ee9ad",
+    "screen_qc_sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407",
+    "status_column": "ARID1A (8289)",
+    "status_counts": {
+      "Avana": {
+        "damaging": 101,
+        "matrix_intact": 874
+      },
+      "KY": {
+        "damaging": 43,
+        "matrix_intact": 272
+      }
+    },
+    "status_threshold": 1,
+    "unique_model_ids": 1098
+  },
+  "design_sensitivity": {
+    "all_primary_sources_power_adequate": false,
+    "confirmatory_claim_enabled": false,
+    "design_sensitivity_sha256": "e3d31f068ddeecb4a6aafa182800c50b3ac938c9fddb157a7fb1263dcac3d271",
+    "frozen_label": "FEASIBILITY_ONLY",
+    "minimum_confirmatory_power": 0.8
+  },
+  "endpoint_receipt": {
+    "eligible_screens_expected": 1292,
+    "eligible_screens_seen": 1292,
+    "median_collapse": true,
+    "model_values": 1290,
+    "sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721"
+  },
+  "experiment_id": "EXP-20260822-033",
+  "implementation_receipt": {
+    "engine_module": "src/candrel/tp53_mdm2_replication.py",
+    "implementation_commit": "693a71c",
+    "implementation_module": "src/candrel/arid1a_atr_replication.py",
+    "manifest_path": "experiments/EXP-20260822-033/manifest.json",
+    "required_base_commit": "c274c91",
+    "uv_lock_sha256": "d09301a2eff28d69c3e0b504d4cdae5ed21c1e451efb92e60f360ebf047106dd"
+  },
+  "inference_receipt": {
+    "bootstrap_interval": "percentile_95_linear_quantile",
+    "bootstraps": 10000,
+    "cross_source_raw_score_comparison": false,
+    "design_seeds": {
+      "Avana": 20263300,
+      "KY": 20263400
+    },
+    "inference_seeds": {
+      "Avana": 20273300,
+      "KY": 20273400
+    },
+    "permutations": 100000,
+    "unit": "collapsed_source_model_id"
+  },
+  "overall_pass": false,
+  "pre_endpoint_receipt": {
+    "context_ledger_sha256": "d808bd50211f644697a2606504e94e8a0cf588c212c8f4e651114821f36b2aad",
+    "design_sensitivity_sha256": "e3d31f068ddeecb4a6aafa182800c50b3ac938c9fddb157a7fb1263dcac3d271",
+    "experiment_id": "EXP-20260822-033",
+    "receipt_sha256": "3eb99863b1e5d07deef863b336758529bb0cf3e4c9c758373b705ee4284c3170",
+    "sealed_before_endpoint": true
+  },
+  "primary": [
+    {
+      "bootstrap_ci_95_percentile": [
+        -0.206951871657754,
+        0.029411764705882353
+      ],
+      "bootstrap_repeats": 10000,
+      "delta": -0.0893048128342246,
+      "gates": {
+        "at_least_5_negative_lineages": true,
+        "bootstrap_upper_lt_0": false,
+        "delta_le_minus_0_20": false,
+        "delta_lt_0": true,
+        "no_lineage_delta_gt_plus_0_20": false,
+        "permutation_p_le_0_05": false
+      },
+      "lineage_deltas": {
+        "Biliary Tract": 0.1,
+        "Bladder/Urinary Tract": -0.020833333333333332,
+        "Bowel": 0.23026315789473684,
+        "Breast": 0.16666666666666666,
+        "CNS/Brain": -0.6388888888888888,
+        "Cervix": 1.0,
+        "Esophagus/Stomach": 0.12444444444444444,
+        "Kidney": 0.12121212121212122,
+        "Liver": 0.3333333333333333,
+        "Lung": -0.7337031900138696,
+        "Lymphoid": 0.24571428571428572,
+        "Myeloid": -0.6470588235294118,
+        "Ovary/Fallopian Tube": -0.005263157894736842,
+        "Pancreas": -0.11688311688311688,
+        "Peripheral Nervous System": 0.10344827586206896,
+        "Prostate": -0.7142857142857143,
+        "Skin": -0.04040404040404041,
+        "Soft Tissue": 0.7714285714285715,
+        "Uterus": -0.05263157894736842
+      },
+      "pair_count": 3740,
+      "pair_id": "ARID1A_damaging_to_ATR",
+      "pass": false,
+      "permutation_extreme_count": 11505,
+      "permutation_p_one_sided_lower": 0.11505884941150589,
+      "permutation_repeats": 100000,
+      "source": "Avana"
+    },
+    {
+      "bootstrap_ci_95_percentile": [
+        -0.22987164527421236,
+        0.1971995332555426
+      ],
+      "bootstrap_repeats": 10000,
+      "delta": -0.015169194865810968,
+      "gates": {
+        "at_least_5_negative_lineages": false,
+        "bootstrap_upper_lt_0": false,
+        "delta_le_minus_0_20": false,
+        "delta_lt_0": true,
+        "no_lineage_delta_gt_plus_0_20": false,
+        "permutation_p_le_0_05": false
+      },
+      "lineage_deltas": {
+        "Bone": 0.5,
+        "Bowel": -0.48148148148148145,
+        "Breast": 0.0,
+        "CNS/Brain": 0.0625,
+        "Esophagus/Stomach": 0.32142857142857145,
+        "Lung": -0.1891891891891892,
+        "Lymphoid": 0.5555555555555556,
+        "Ovary/Fallopian Tube": -0.044444444444444446,
+        "Pancreas": 0.17777777777777778,
+        "Prostate": 0.0,
+        "Uterus": -0.5
+      },
+      "pair_count": 857,
+      "pair_id": "ARID1A_damaging_to_ATR",
+      "pass": false,
+      "permutation_extreme_count": 44694,
+      "permutation_p_one_sided_lower": 0.44694553054469455,
+      "permutation_repeats": 100000,
+      "source": "KY"
+    }
+  ],
+  "status": "FEASIBILITY_ONLY_NOMINAL_GATE_FAILURE"
+}
