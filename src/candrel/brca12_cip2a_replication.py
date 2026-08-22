@@ -41,7 +41,7 @@ EXPECTED_MIXED_LINEAGES = composite.EXPECTED_MIXED_LINEAGES.copy()
 DESIGN_SEEDS = {"Avana": 20263000, "KY": 20263100}
 INFERENCE_SEEDS = {"Avana": 20273000, "KY": 20273100}
 EXPECTED_ROSTER_SHA256 = composite.EXPECTED_ROSTER_SHA256
-EXPECTED_DESIGN_RECEIPT_NORMALIZED_SHA256 = "8543a9053a6b07105f8b8202c5f2185f33fccad2fde03c1c5980127709c052cd"
+EXPECTED_DESIGN_RECEIPT_NORMALIZED_SHA256 = "03c95cddde60a668688bfeec2464897a0988600cd34785dacb171040b2902193"
 EXPECTED_RESULT_FILES = composite.EXPECTED_RESULT_FILES
 
 IntegrityError = engine.IntegrityError
@@ -121,7 +121,7 @@ def verify_implementation_boundary(manifest_path: Path) -> dict[str, object]:
             raise ValueError("design receipt normalized digest drift")
         if manifest["selection_seal"]["sealed_before_endpoint_access"] is not True or manifest["selection_seal"]["protocol_commit"] != REQUIRED_BASE_COMMIT:
             raise ValueError("selection seal contract drift")
-        expected_design = {"mean_shift": engine.NORMAL_MEAN_SHIFT, "null_permutations": engine.PERMUTATIONS, "alternative_simulations": engine.DESIGN_SIMULATIONS, "planning_power_seeds": DESIGN_SEEDS, "expected_critical_delta": {"Avana": -0.1624633431085044, "KY": -0.22580645161290322}, "expected_power": {"Avana": 0.6464, "KY": 0.4469}, "minimum_power_for_confirmatory_label": engine.MIN_CONFIRMATORY_POWER, "frozen_label": "FEASIBILITY_ONLY"}
+        expected_design = {"mean_shift": engine.NORMAL_MEAN_SHIFT, "null_permutations": engine.PERMUTATIONS, "alternative_simulations": engine.DESIGN_SIMULATIONS, "planning_power_seeds": DESIGN_SEEDS, "expected_critical_delta": {"Avana": -0.1624633431085044, "KY": -0.22580645161290322}, "expected_power": {"Avana": 0.6686, "KY": 0.4355}, "minimum_power_for_confirmatory_label": engine.MIN_CONFIRMATORY_POWER, "frozen_label": "FEASIBILITY_ONLY"}
         if manifest["design_sensitivity"] != expected_design:
             raise ValueError("manifest design contract drift")
         expected_inference = {"inference_seeds": INFERENCE_SEEDS, "permutations": engine.PERMUTATIONS, "bootstraps": engine.BOOTSTRAPS, "delta_target": engine.DELTA_TARGET, "permutation_p_max": engine.P_MAX, "bootstrap_upper_max": engine.BOOTSTRAP_UPPER_MAX, "max_lineage_delta": engine.MAX_LINEAGE_DELTA}

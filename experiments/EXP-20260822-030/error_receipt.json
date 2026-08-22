@@ -1,0 +1,13 @@
+{
+  "analysis_label": "FEASIBILITY_ONLY",
+  "confirmatory_claim": false,
+  "endpoint_opened": false,
+  "error": "design power drift: Avana",
+  "error_type": "T0Stop",
+  "experiment_id": "EXP-20260822-030",
+  "overall_pass": false,
+  "preserved_path": "experiments/EXP-20260822-030/t0_provenance",
+  "results_written": false,
+  "status": "T0_CONTEXT_ADEQUACY",
+  "t0": true
+}

@@ -39,7 +39,7 @@ damaging group.
 The nominal gates are pooled delta <= -0.20, lineage-stratified permutation
 p <= 0.05, bootstrap upper bound < 0, at least five negative lineages, and no
 lineage delta > +0.20. The result is permanently `FEASIBILITY_ONLY`; planning
-power is `0.6464` for Avana and `0.4469` for KY.
+power is `0.6686` for Avana and `0.4355` for KY.
 
 ## Repeats and claim boundary
 

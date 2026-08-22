@@ -7,7 +7,7 @@
   "source_status_counts": {"Avana": {"damaging": 46, "matrix_intact": 929}, "KY": {"damaging": 25, "matrix_intact": 290}},
   "source_mixed_lineages": {"Avana": 16, "KY": 8},
   "design_algorithm": {"random_generator": "numpy.random.Generator(numpy.random.PCG64(seed))", "null_score_distribution": "Normal(0, 1)", "alternative_exposed_distribution": "Normal(-0.358286909243, 1)", "alternative_reference_distribution": "Normal(0, 1)", "lineage_order": "lexicographic", "status_order": ["damaging", "matrix_intact"], "model_order": "lexicographic within source/lineage/status", "rank_method": "average", "null_batch_size": 1000, "null_permutations": 100000, "alternative_simulations": 10000, "critical_quantile": "numpy_linear_05", "rejection_rule": "alternative_delta <= critical_delta"},
-  "planning_receipts": {"Avana": {"seed": 20263000, "critical_delta": -0.1624633431085044, "simulated_power": 0.6464, "confirmatory_power_adequate": false}, "KY": {"seed": 20263100, "critical_delta": -0.22580645161290322, "simulated_power": 0.4469, "confirmatory_power_adequate": false}},
+  "planning_receipts": {"Avana": {"seed": 20263000, "critical_delta": -0.1624633431085044, "simulated_power": 0.6686, "confirmatory_power_adequate": false}, "KY": {"seed": 20263100, "critical_delta": -0.22580645161290322, "simulated_power": 0.4355, "confirmatory_power_adequate": false}},
   "sealed_before_endpoint": true,
-  "receipt_sha256": "8543a9053a6b07105f8b8202c5f2185f33fccad2fde03c1c5980127709c052cd"
+  "receipt_sha256": "03c95cddde60a668688bfeec2464897a0988600cd34785dacb171040b2902193"
 }

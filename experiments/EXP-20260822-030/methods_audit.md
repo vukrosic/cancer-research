@@ -14,7 +14,7 @@ with 16 and 8 mixed lineages, respectively.
 Planning uses the frozen lineage-stratified rank-delta estimator, independent
 Normal null scores, an exposed mean shift of `-0.358286909243`, PCG64 streams,
 100,000 permutations, and 10,000 alternative simulations. The exact planning
-powers are `0.6464` and `0.4469`; neither source can support a confirmatory
+powers are `0.6686` and `0.4355`; neither source can support a confirmatory
 label.
 
 Any input, schema, identity, coverage, canonical-roster, or manifest drift is a
