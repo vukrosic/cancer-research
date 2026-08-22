@@ -27,3 +27,12 @@ permitted.
   artifact hashes, and normalized summary digest;
 - require terminal `analysis_label: FEASIBILITY_ONLY`,
   `confirmatory_claim: false`, and `overall_pass: false`.
+
+## Execution receipt
+
+The bound runner completed in approximately `21.71` seconds with the required
+feasibility-only exit code `2`. Pre-endpoint verification returned GO; the
+exact `PAPSS1 (9061)` header was verified before endpoint values were parsed.
+Independent recomputation matched both source-specific results, all four
+non-summary artifact hashes, the normalized summary digest, and the sealed
+receipt. Preserve the proxy-only feasibility label without post hoc rescue.

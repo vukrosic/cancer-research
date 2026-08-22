@@ -21,7 +21,7 @@ uncertainty and artifact controls?
 
 ## Current phase
 
-Twenty-five bounded experiments are complete:
+Twenty-six bounded experiments are complete:
 
 - `EXP-20260822-001` passed the API engineering gate: all eight frozen genes had 177
   paired Broad/Sanger models and positive source correlations.
@@ -175,6 +175,15 @@ Twenty-five bounded experiments are complete:
   KY planning power was only `0.5265`. This does not test or establish 9p21.3
   deletion, FOCAD loss, MSI-H biology, mechanistic CDKN2A/PELO causality,
   inhibitor response, treatment, clinical utility, or a confirmatory claim.
+- `EXP-20260822-026` is **T1 descriptive association only; not T2/confirmatory**
+  and is labeled **FEASIBILITY_ONLY_NOMINAL_GATE_FAILURE**. The frozen
+  damaging-matrix PTEN proxy-to-PAPSS1 direction was near-null in Avana
+  (delta `-0.0321`, p `0.3365`) and positive in KY (delta `+0.2074`, p
+  `0.9621`), failing the source and lineage gates. KY planning power was only
+  `0.5377`. This is compatible with, but does not prove, the reported
+  patient-versus-cell-line transport gap; no PTEN deletion, PAPSS2 co-deletion,
+  patient, causal, inhibitor, treatment, clinical, or confirmatory claim is
+  permitted.
 
 A label-only provenance audit found that the CRC-only cohort has only 7 MSI Broad
 models, below the independently proposed minimum of 8. That CRC-only gate remains a
@@ -208,6 +217,7 @@ uv run python -m candrel.ep300_crebbp_replication  # expected exit 2; T1 feasibi
 uv run python -m candrel.apc_tdo2_replication  # expected exit 2; T1 feasibility-only source-discordance failure
 uv run python -m candrel.kmt2d_kmt2c_replication  # expected exit 2; T1 feasibility-only lineage-gate failure
 uv run python -m candrel.cdkn2a_pelo_replication  # expected exit 2; T1 feasibility-only proxy/lineage-gate failure
+uv run python -m candrel.pten_papss1_replication  # expected exit 2; T1 feasibility-only transport/lineage-gate failure
 ```
 
 Raw API responses are cached under `data/raw/` and excluded from Git. Every run
