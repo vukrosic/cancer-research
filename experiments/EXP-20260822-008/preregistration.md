@@ -79,7 +79,9 @@ with at least 10 distinct values in each tissue for each panel.
 
 ## Frozen outcome and estimand
 
-Outcome is EXP-005's frozen absolute WRN dependency-percentile gap `D(i)`.
+Outcome is EXP-005's frozen absolute WRN dependency-percentile gap `D(i)` from
+`model_percentile_gaps.csv`, SHA-256
+`f2dc22d9c26f937413b612ae4924f1965c837e480a805c1ff0b7b0c5d8b3cd4a`.
 
 Within each tissue and panel, compute average midranks of `E` and `D` once. Spearman
 rho is Pearson correlation of those frozen ranks. Define:

@@ -11,6 +11,10 @@
       "file": "experiments/EXP-20260822-007/cohort.csv",
       "sha256": "2bc84868962b35c55e456aeb953429206e97c9b25f648b5deabe5a1488e60b67"
     },
+    "wrn_gap_outcome": {
+      "file": "experiments/EXP-20260822-005/results/model_percentile_gaps.csv",
+      "sha256": "f2dc22d9c26f937413b612ae4924f1965c837e480a805c1ff0b7b0c5d8b3cd4a"
+    },
     "full_denominator_scores": {
       "file": "experiments/EXP-20260822-003/results/model_scores.csv",
       "sha256": "072dd2775d4e3bfaa480cd70639cc799c1e5914b2e9cc5213328383557680654"
@@ -48,5 +52,5 @@
   "maximum_permutation_p": 0.05,
   "minimum_bootstrap_lower": 0.1,
   "minimum_any_tissue_rho": -0.2,
-  "code_commit_before_implementation": "e09f44aa1c2702964fc9c6389593681a62bd5ba9"
+  "code_commit_before_implementation": "f49eec8"
 }
