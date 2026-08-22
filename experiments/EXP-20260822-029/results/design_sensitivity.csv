@@ -1,0 +1,3 @@
+pair_id,source,exposed_models,reference_models,contributing_lineages,expected_delta,normal_mean_shift,null_permutations,alternative_simulations,critical_delta,simulated_power,confirmatory_power_adequate
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,46,929,16,-0.2,-0.358286909243,100000,10000,-0.1624633431085044,0.6464,False
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,25,290,8,-0.2,-0.358286909243,100000,10000,-0.22580645161290322,0.4469,False

@@ -1,0 +1,1291 @@
+pair_id,source,model_id,lineage,status,target_score
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000004,Myeloid,matrix_intact,-1.072416878640467
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000005,Myeloid,matrix_intact,0.05450967304479752
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000007,Bowel,matrix_intact,-0.5869728414417325
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000009,Bowel,matrix_intact,-0.5746268472094339
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000011,Bladder/Urinary Tract,matrix_intact,-0.5684600583637743
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000012,Lung,matrix_intact,-0.4835853080186082
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000013,Ovary/Fallopian Tube,matrix_intact,-0.3410175433668612
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000015,Lung,matrix_intact,-0.31812020111600825
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000017,Breast,matrix_intact,-0.2670097832169235
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000018,Bladder/Urinary Tract,matrix_intact,-0.15791591775475539
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000019,Breast,matrix_intact,-0.70606492626814
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000021,Lung,matrix_intact,-0.5592269204878204
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000022,Pancreas,matrix_intact,-0.2006030718004625
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000024,Lymphoid,matrix_intact,-0.7060541419962844
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000025,CNS/Brain,matrix_intact,-0.8792481546070493
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000028,Breast,matrix_intact,-0.5891015795574099
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000029,Lung,matrix_intact,-0.3656678309331816
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000030,Lung,matrix_intact,-0.2842698753684896
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000035,Lung,matrix_intact,-0.9060251939886346
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000036,CNS/Brain,matrix_intact,-1.1519036834232899
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000037,Soft Tissue,matrix_intact,0.028607215911791217
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000039,Bone,matrix_intact,-0.2637455297379988
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000040,CNS/Brain,matrix_intact,-0.10839320506764026
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000041,Bone,matrix_intact,-0.09262607771774733
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000042,Pancreas,matrix_intact,-0.19267454224850583
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000045,Myeloid,matrix_intact,-0.6172328008476891
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000047,Esophagus/Stomach,matrix_intact,-0.7811923215973485
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000048,Ovary/Fallopian Tube,matrix_intact,-0.2968876081223489
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000052,Bone,matrix_intact,-0.026263061946708757
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000053,Lymphoid,matrix_intact,-0.443817590193728
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000054,Soft Tissue,matrix_intact,-0.8101217548285122
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000055,CNS/Brain,matrix_intact,-0.5961451609597239
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000060,Pancreas,matrix_intact,-0.15860569945479736
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000067,CNS/Brain,matrix_intact,-0.8725847544149401
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000070,Lymphoid,matrix_intact,-0.20137952976720802
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000074,Myeloid,matrix_intact,0.035212951578332055
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000075,CNS/Brain,matrix_intact,-0.18784103071964653
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000076,Myeloid,matrix_intact,-0.5483509823028379
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000077,Lymphoid,matrix_intact,-0.37074839360357487
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000078,Peripheral Nervous System,matrix_intact,-0.34124221930005544
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000082,Bone,matrix_intact,-0.1992991250278573
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000085,Pancreas,matrix_intact,0.18376052080308797
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000086,Pleura,matrix_intact,-0.9709480120256324
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000090,Prostate,matrix_intact,-0.3429392655362201
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000092,Pleura,matrix_intact,-0.31977106696050234
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000093,Pancreas,matrix_intact,-0.7097785895007206
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000095,CNS/Brain,matrix_intact,-0.6470440347349853
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000097,Breast,matrix_intact,-1.0095839425659885
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000098,CNS/Brain,matrix_intact,-0.5345736210051606
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000099,Peripheral Nervous System,matrix_intact,-0.8479081307581051
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000101,Lymphoid,matrix_intact,-0.48768054355880414
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000108,Pancreas,matrix_intact,-0.39086800090374757
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000111,Breast,matrix_intact,0.842439566675039
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000113,Myeloid,matrix_intact,-0.7031252428737895
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000114,Pancreas,matrix_intact,-0.15246156354814655
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000115,Prostate,matrix_intact,-0.24418673136693547
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000118,Pancreas,matrix_intact,-0.39292796893199605
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000120,Peripheral Nervous System,matrix_intact,-0.515483673450924
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000123,Ovary/Fallopian Tube,matrix_intact,-0.476937568596238
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000127,Bladder/Urinary Tract,matrix_intact,0.014892186068193466
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000128,CNS/Brain,matrix_intact,-0.7659755536977753
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000132,Ovary/Fallopian Tube,damaging,-0.5964768379827623
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000133,Soft Tissue,matrix_intact,-0.36082493562063794
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000137,CNS/Brain,matrix_intact,-0.35086981130775874
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000138,Pancreas,matrix_intact,-0.35070051659816515
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000141,Biliary Tract,matrix_intact,-0.41584375363110776
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000142,Bladder/Urinary Tract,matrix_intact,-0.1592882035777414
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000143,Lung,matrix_intact,-0.5013970807266608
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000145,Soft Tissue,matrix_intact,-0.3922555463607552
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000146,Myeloid,matrix_intact,-0.16851096350842748
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000147,Breast,matrix_intact,-0.4091203477149906
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000148,Breast,matrix_intact,-0.4715021316901563
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000151,Lymphoid,matrix_intact,-0.2966581238174437
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000152,CNS/Brain,matrix_intact,-0.5045541472893774
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000153,Pleura,matrix_intact,-0.4205915311350896
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000159,Kidney,matrix_intact,-0.31810558547494816
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000160,CNS/Brain,matrix_intact,-0.7180911454169376
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000161,Lung,matrix_intact,-0.4831939818745194
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000163,Head and Neck,matrix_intact,-0.6157056914127406
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000164,Pancreas,matrix_intact,-0.5977778652429424
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000168,Myeloid,matrix_intact,-0.4214244963771856
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000169,Soft Tissue,matrix_intact,-0.18955233878679056
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000174,Thyroid,matrix_intact,-0.8631957488331641
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000178,Pancreas,matrix_intact,-0.06919101080944623
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000182,Ampulla of Vater,matrix_intact,-0.15943534090726066
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000183,Lymphoid,matrix_intact,-1.3889591576020592
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000187,Lung,matrix_intact,-0.16292936494179688
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000188,Head and Neck,matrix_intact,-0.2738799022711152
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000189,Kidney,matrix_intact,-0.2153092377942554
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000190,Myeloid,matrix_intact,-0.4995830424091135
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000191,Thyroid,matrix_intact,-0.697493574535315
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000195,Myeloid,matrix_intact,-0.3061467095560294
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000198,Myeloid,matrix_intact,-0.4093299888572468
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000200,CNS/Brain,matrix_intact,-0.261270050471182
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000202,Bowel,damaging,-0.15688611937923158
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000204,Lymphoid,matrix_intact,-0.4553718606896059
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000206,Lymphoid,matrix_intact,-0.6135169875270465
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000207,Head and Neck,matrix_intact,-0.47436577976634065
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000209,Biliary Tract,matrix_intact,-0.4454050921749979
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000211,CNS/Brain,matrix_intact,-0.9105159639236754
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000212,Breast,matrix_intact,-1.0081497425129076
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000215,CNS/Brain,damaging,-0.3370341381924522
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000216,Esophagus/Stomach,matrix_intact,-0.49212613890473544
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000217,Liver,matrix_intact,-0.22627738509520295
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000219,Skin,matrix_intact,-0.7532161403621394
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000221,Liver,matrix_intact,-0.41293938432661614
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000222,Pancreas,damaging,-0.19557115062298708
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000223,Breast,damaging,-2.568837466178845
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000226,Lymphoid,matrix_intact,-0.9053181722755472
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000227,Peripheral Nervous System,matrix_intact,-0.12076284966103076
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000228,Head and Neck,matrix_intact,-0.8308375866482387
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000231,CNS/Brain,matrix_intact,-0.5677547134028407
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000232,CNS/Brain,matrix_intact,-0.7934284300314131
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000233,Lymphoid,matrix_intact,-0.44226569642970726
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000234,Kidney,matrix_intact,-0.053041189739321516
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000235,Pancreas,matrix_intact,-0.25003011308658296
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000237,Ovary/Fallopian Tube,matrix_intact,-0.36648559747652654
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000238,Head and Neck,matrix_intact,-0.30163483493036036
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000243,Pancreas,matrix_intact,-0.6175516862119086
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000244,CNS/Brain,matrix_intact,-0.08507453058067606
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000246,Kidney,matrix_intact,-0.7264214634136814
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000247,Esophagus/Stomach,matrix_intact,-0.17754097567934973
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000248,Breast,matrix_intact,-0.36019515749903697
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000250,Kidney,matrix_intact,-0.12351611466237959
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000251,Lung,matrix_intact,-0.5497648668306874
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000252,Bowel,matrix_intact,-0.17652561628755814
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000253,Bowel,matrix_intact,-0.19256501414523322
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000255,Esophagus/Stomach,matrix_intact,-0.4971481052280872
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000256,Ovary/Fallopian Tube,matrix_intact,0.08506490139868106
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000257,Lung,matrix_intact,-0.5622835061757914
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000258,Breast,matrix_intact,-0.7595705748635124
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000259,Peripheral Nervous System,matrix_intact,-0.0733082740868992
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000260,Peripheral Nervous System,matrix_intact,-0.24722697998474974
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000261,Lung,matrix_intact,-0.3921995395417075
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000262,Kidney,matrix_intact,-0.4187333849440972
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000263,Myeloid,matrix_intact,-0.2511032611679505
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000264,Lung,matrix_intact,-0.538685522864311
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000265,Pancreas,matrix_intact,-0.542015844535962
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000266,Pancreas,matrix_intact,-0.44881074371927593
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000272,Kidney,matrix_intact,-0.32770650115521827
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000273,CNS/Brain,matrix_intact,-0.5033321459739537
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000274,Skin,matrix_intact,-0.5931194739060004
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000276,Breast,matrix_intact,-1.0950898314792132
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000277,Breast,matrix_intact,-0.20909634813341912
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000278,Ovary/Fallopian Tube,damaging,-0.23784596884413178
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000279,Bone,matrix_intact,-0.37457563844649544
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000280,Ovary/Fallopian Tube,matrix_intact,-0.900150850207535
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000281,Pancreas,matrix_intact,-0.43497006551048734
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000286,Bowel,matrix_intact,-0.23753921475238554
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000288,Breast,matrix_intact,-0.45267819982951296
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000290,Lung,matrix_intact,-0.38583606462990744
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000291,Ovary/Fallopian Tube,matrix_intact,-0.1471259083412412
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000292,Lung,matrix_intact,-0.22522620598659454
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000293,Uterus,matrix_intact,-0.23878213842969537
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000294,Myeloid,matrix_intact,-0.33970995572435103
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000295,Myeloid,matrix_intact,0.03812778440551676
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000296,Bowel,matrix_intact,-0.8985922236489737
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000302,Uterus,matrix_intact,-0.5497116205233001
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000303,Esophagus/Stomach,matrix_intact,-0.518946949050912
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000304,Skin,matrix_intact,-0.2913796882941177
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000305,Esophagus/Stomach,matrix_intact,-0.37619682694781964
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000307,Pancreas,matrix_intact,-0.23960024616687287
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000308,Ovary/Fallopian Tube,matrix_intact,-0.006078671068346527
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000310,Peripheral Nervous System,matrix_intact,-0.2338069468298445
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000311,Lung,matrix_intact,-0.28551413363246625
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000312,Peripheral Nervous System,matrix_intact,-0.12361974589751618
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000313,Kidney,matrix_intact,-0.2887064989515017
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000315,Lymphoid,matrix_intact,-0.24564871334561694
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000316,Liver,matrix_intact,-0.20754456308235708
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000317,Kidney,matrix_intact,-0.5686341728947428
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000318,Esophagus/Stomach,matrix_intact,-0.3517082219516876
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000319,Pleura,matrix_intact,-0.1177186391747296
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000320,Pancreas,matrix_intact,-0.04611068516018867
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000322,Skin,matrix_intact,-1.5336848618782515
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000323,CNS/Brain,matrix_intact,-0.5845819784360851
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000324,Ovary/Fallopian Tube,matrix_intact,-0.9556320290828404
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000325,Esophagus/Stomach,matrix_intact,0.1161831901393722
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000326,Myeloid,matrix_intact,-0.18080985480220516
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000329,CNS/Brain,matrix_intact,-0.18527374197263796
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000330,Breast,matrix_intact,-0.22077738771702154
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000331,Pleura,matrix_intact,-0.506735127518589
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000332,Pancreas,matrix_intact,-0.4094783785107357
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000334,Lymphoid,matrix_intact,-0.5954734380677906
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000335,Pleura,matrix_intact,-0.23970600582602855
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000336,Myeloid,matrix_intact,-0.21403972306428232
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000337,Lung,matrix_intact,-0.49361565944906044
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000339,Lung,matrix_intact,-0.48014450726147057
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000341,Peripheral Nervous System,matrix_intact,-0.1474796926244859
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000343,Lung,matrix_intact,-0.2778813511083257
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000344,Esophagus/Stomach,damaging,-0.19598034204526898
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000346,Lymphoid,matrix_intact,-0.3441736979192917
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000348,Skin,matrix_intact,-0.07651618575818639
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000350,Bowel,matrix_intact,-0.094290033448544
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000352,Breast,matrix_intact,-0.336521230135299
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000355,Lung,matrix_intact,-0.25027008401878925
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000356,Esophagus/Stomach,matrix_intact,-0.33348800526049294
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000359,Bone,matrix_intact,0.19557530709935914
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000361,Liver,matrix_intact,-0.4844402309162334
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000362,Myeloid,matrix_intact,-0.31286609477430033
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000363,Lymphoid,matrix_intact,-0.16370183495983254
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000364,Bone,matrix_intact,-0.6634183699149792
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000365,Lymphoid,matrix_intact,-0.796952364492356
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000366,Peripheral Nervous System,matrix_intact,-0.11729790745947002
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000368,CNS/Brain,matrix_intact,-0.4058760842277458
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000370,CNS/Brain,matrix_intact,-0.5605963265450109
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000371,Lymphoid,matrix_intact,-0.42210203497568255
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000374,Breast,matrix_intact,-0.6609526250485707
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000375,Kidney,matrix_intact,-1.0706908449326442
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000376,CNS/Brain,matrix_intact,-0.22815950985466807
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000377,Ampulla of Vater,matrix_intact,-0.03429458850161461
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000378,Lung,matrix_intact,-0.07937521997951394
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000381,Bowel,matrix_intact,-0.3059365535377113
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000383,Esophagus/Stomach,matrix_intact,-0.2940288325593311
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000385,Kidney,matrix_intact,-0.32368166380081353
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000387,Myeloid,matrix_intact,-0.2824206751311798
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000389,CNS/Brain,matrix_intact,-0.9690507743019334
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000390,Lung,matrix_intact,-0.00023577598153595378
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000391,Bone,matrix_intact,-0.2061512954938842
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000393,Liver,matrix_intact,-0.4481687829956532
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000395,Lung,matrix_intact,-0.6728533315007539
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000396,Bladder/Urinary Tract,matrix_intact,0.05170933622131989
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000397,Uterus,matrix_intact,-0.4812798277139993
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000398,Lymphoid,matrix_intact,-0.7370292279008162
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000401,Skin,matrix_intact,-0.11125052294245025
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000402,Lymphoid,matrix_intact,-0.051604642391850995
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000403,Bowel,matrix_intact,-0.7025265453896596
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000404,Skin,matrix_intact,-0.13999148440738726
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000405,Lymphoid,matrix_intact,-1.68499815558524
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000406,Myeloid,matrix_intact,-0.48271055652266154
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000407,Uterus,matrix_intact,-0.2855728480647247
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000408,Esophagus/Stomach,matrix_intact,-0.26928413839675
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000410,Bone,matrix_intact,-0.10878047027888946
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000411,Kidney,matrix_intact,-0.616704308643755
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000414,Lung,matrix_intact,-0.4795346427163827
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000415,Head and Neck,matrix_intact,-0.38498224801618797
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000416,Lung,matrix_intact,-0.6457081371695748
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000417,Pancreas,matrix_intact,-0.6470774700090871
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000420,Liver,matrix_intact,-0.41354339071226986
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000421,Bowel,matrix_intact,-0.2382254976148882
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000422,Liver,matrix_intact,-0.8074343570036597
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000424,Bone,matrix_intact,-0.1855759851649661
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000425,Skin,matrix_intact,-0.9395259685354724
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000426,Lymphoid,matrix_intact,-0.22457427541232755
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000427,Esophagus/Stomach,matrix_intact,0.028199952975122962
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000431,Lung,matrix_intact,-0.04275944778259844
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000433,Kidney,matrix_intact,-0.26662896138965847
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000434,Lung,matrix_intact,0.07124187149609414
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000435,Uterus,matrix_intact,0.08044350397515473
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000436,Lymphoid,matrix_intact,-0.3798238606112614
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000437,CNS/Brain,matrix_intact,-0.09064831152700399
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000438,Lung,matrix_intact,-0.26629616297757025
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000441,Skin,matrix_intact,-0.6877637532846561
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000444,Lung,matrix_intact,-0.6461549958910395
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000445,CNS/Brain,matrix_intact,-0.310705367935947
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000448,Lung,matrix_intact,-0.3270259073777999
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000450,Skin,matrix_intact,-0.10276330372705814
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000452,Esophagus/Stomach,matrix_intact,-0.7584585338158165
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000454,Lung,matrix_intact,-0.3417792604344663
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000455,CNS/Brain,matrix_intact,-0.41704303152699124
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000456,Thyroid,matrix_intact,-0.45893153264245695
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000458,Skin,matrix_intact,-0.3620066440884515
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000459,Kidney,matrix_intact,0.3526813029514005
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000460,Ovary/Fallopian Tube,matrix_intact,-0.4381879260791382
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000461,Biliary Tract,matrix_intact,-0.8266218899173179
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000463,Lung,matrix_intact,-0.5441479812485811
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000464,CNS/Brain,matrix_intact,-0.2520305614426342
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000466,Esophagus/Stomach,matrix_intact,-0.5562946239502589
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000467,Bowel,matrix_intact,-0.3557546214586319
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000468,Pancreas,matrix_intact,-0.196235181872343
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000469,CNS/Brain,matrix_intact,-0.28140431802862986
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000470,Bowel,matrix_intact,-2.936702646549862
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000471,Liver,matrix_intact,-0.07948808326236151
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000472,Head and Neck,matrix_intact,-0.5727806304718741
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000473,Bladder/Urinary Tract,matrix_intact,-0.18443499363239277
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000475,Liver,matrix_intact,-0.443303479163494
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000476,Liver,matrix_intact,-0.3204255042532993
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000477,Skin,matrix_intact,-0.22632242992120633
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000478,Liver,matrix_intact,-0.49013859016721284
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000479,CNS/Brain,matrix_intact,-0.7241093718007292
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000480,Liver,matrix_intact,-0.4686321695486852
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000481,Lung,matrix_intact,-0.2931805979785844
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000483,Liver,matrix_intact,-0.27615637481728683
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000484,Kidney,matrix_intact,-0.35582032068940705
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000485,Esophagus/Stomach,matrix_intact,-1.4640377414418468
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000486,Bladder/Urinary Tract,matrix_intact,-0.6919137658792603
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000487,Myeloid,matrix_intact,-0.1168010591560148
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000488,Esophagus/Stomach,matrix_intact,-1.3228243306592988
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000489,Bowel,matrix_intact,-0.1442759039123158
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000490,Cervix,matrix_intact,-0.49647229150298694
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000491,Bowel,matrix_intact,-0.2093955284150102
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000493,Liver,matrix_intact,-0.1465973839684231
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000495,Kidney,matrix_intact,-0.5569092713703414
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000496,Lung,matrix_intact,-0.2962046059520717
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000499,Bone,matrix_intact,-0.5432865151157453
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000500,Head and Neck,matrix_intact,-0.04141831961556254
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000502,Pancreas,matrix_intact,-0.16352041598834635
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000503,Head and Neck,matrix_intact,-0.8118866589626627
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000504,CNS/Brain,matrix_intact,-0.18853779287320419
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000505,Soft Tissue,matrix_intact,-0.4920631381923916
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000507,Esophagus/Stomach,damaging,0.009634621244172133
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000510,Lung,matrix_intact,-0.20596678432994558
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000511,Lung,matrix_intact,-0.34516508149844816
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000512,Lymphoid,matrix_intact,-1.3714614276448707
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000514,Lung,matrix_intact,0.12702935886729
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000516,Bone,matrix_intact,-0.6461530468363264
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000517,Pancreas,matrix_intact,-0.5195661759773553
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000518,Head and Neck,matrix_intact,-0.16651317149663258
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000520,Ovary/Fallopian Tube,matrix_intact,-1.0801007536550635
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000521,Lung,matrix_intact,-0.37050740210898836
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000522,Bladder/Urinary Tract,matrix_intact,-0.24833566680183516
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000524,Ovary/Fallopian Tube,damaging,-0.44869475508953216
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000525,Lung,matrix_intact,-0.10600010707674502
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000527,Ovary/Fallopian Tube,matrix_intact,-0.6472283647542871
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000528,Lung,matrix_intact,-0.5634389811533049
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000532,Bowel,matrix_intact,-0.45754698126127546
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000533,Kidney,matrix_intact,-0.9892600622134695
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000535,Pancreas,matrix_intact,-0.40216044563688635
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000537,Liver,matrix_intact,-0.24068444788349896
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000541,Lymphoid,matrix_intact,-1.4146827369044388
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000542,Ovary/Fallopian Tube,matrix_intact,-1.4364405528092958
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000544,Esophagus/Stomach,matrix_intact,-0.8818895403487037
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000545,Bladder/Urinary Tract,matrix_intact,-0.20478555810906945
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000547,Bladder/Urinary Tract,matrix_intact,-0.4335317281190938
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000548,Head and Neck,matrix_intact,-0.4762458345160608
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000549,Head and Neck,matrix_intact,-0.28849614450552025
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000550,Skin,matrix_intact,-0.25132475861960313
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000551,Myeloid,matrix_intact,-0.4938243204886455
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000552,Bowel,matrix_intact,-0.26383817225840295
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000556,Cervix,matrix_intact,-0.14878909680323682
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000557,Myeloid,matrix_intact,-0.017969249134214875
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000559,Lung,matrix_intact,-0.10796212914979182
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000563,Lung,matrix_intact,-0.32125003316225825
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000567,Lymphoid,matrix_intact,-0.13275311811142962
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000570,CNS/Brain,matrix_intact,-0.884933605517694
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000571,CNS/Brain,matrix_intact,-0.3626322042390044
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000573,Breast,damaging,-1.45292446759049
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000576,Lymphoid,matrix_intact,-0.3108668760235632
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000577,Liver,matrix_intact,-0.08526803516726747
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000579,Skin,matrix_intact,0.06628610407718848
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000580,Skin,matrix_intact,-0.18023530107979457
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000581,Esophagus/Stomach,matrix_intact,-0.3954182922224038
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000584,Ovary/Fallopian Tube,damaging,-1.3706175725434027
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000585,Lung,matrix_intact,-0.3419494539887329
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000587,Lung,matrix_intact,-0.4894485935151942
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000588,Lymphoid,matrix_intact,-0.1441672016982002
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000589,Lung,matrix_intact,-0.08712582239231258
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000591,CNS/Brain,matrix_intact,-0.06320422820253274
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000592,CNS/Brain,matrix_intact,-0.1475430116730827
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000593,Bladder/Urinary Tract,matrix_intact,-0.29323036969293487
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000595,CNS/Brain,matrix_intact,-1.0419266103156866
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000596,Lung,matrix_intact,-0.27129350678284014
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000597,Kidney,matrix_intact,-0.26738137144237584
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000599,Pancreas,matrix_intact,-0.4179590504080544
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000601,Pancreas,matrix_intact,-0.12391627045388365
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000602,Myeloid,matrix_intact,-0.12114033028116816
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000604,Myeloid,matrix_intact,0.034528691186166416
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000605,Esophagus/Stomach,matrix_intact,-0.3240764865474386
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000606,Head and Neck,matrix_intact,-0.03362952903570453
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000607,Soft Tissue,matrix_intact,-0.1440073676587565
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000608,Ovary/Fallopian Tube,matrix_intact,-0.26098694223047736
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000609,CNS/Brain,matrix_intact,0.06846720022094206
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000614,Skin,matrix_intact,-0.6216730894177924
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000616,Esophagus/Stomach,matrix_intact,-0.20605700518890438
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000618,Head and Neck,matrix_intact,-0.3232410594879398
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000619,Head and Neck,matrix_intact,-0.28036356149021074
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000620,Liver,matrix_intact,-0.17044004466565485
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000621,Breast,matrix_intact,-0.5453888226981198
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000622,CNS/Brain,matrix_intact,-0.1912587249144027
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000623,CNS/Brain,matrix_intact,-0.40898315975364596
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000624,Breast,matrix_intact,-0.41551455573386065
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000627,Lung,matrix_intact,-0.5668072657538228
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000630,Head and Neck,matrix_intact,-0.9955021134543366
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000632,Skin,matrix_intact,-0.2441975253294149
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000633,Esophagus/Stomach,matrix_intact,-0.3381546354429875
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000634,CNS/Brain,matrix_intact,-0.11962931217455534
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000637,Esophagus/Stomach,matrix_intact,-0.0630177234523801
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000638,Lung,matrix_intact,-0.4743296986975528
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000639,Lung,matrix_intact,-0.8061966171354067
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000645,Pleura,matrix_intact,-0.6040354376661864
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000646,Ovary/Fallopian Tube,matrix_intact,-0.2860993407420316
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000647,Esophagus/Stomach,matrix_intact,-0.361149992812282
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000648,Pleura,matrix_intact,-0.21099428656901767
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000649,Kidney,matrix_intact,-0.6343696705180394
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000651,Bowel,matrix_intact,-0.49456868683643557
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000652,Pancreas,matrix_intact,-0.044982360317782744
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000653,Lymphoid,matrix_intact,-0.8377750463156285
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000654,Lymphoid,matrix_intact,-0.9490546014642423
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000655,CNS/Brain,matrix_intact,-0.07851898339502575
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000657,Ovary/Fallopian Tube,matrix_intact,-0.7313568735106637
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000661,Skin,matrix_intact,-0.12175956959719639
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000662,Lung,matrix_intact,-1.1651794820447003
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000663,Ovary/Fallopian Tube,matrix_intact,-0.5569096379554552
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000664,Lymphoid,matrix_intact,-0.662943702475852
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000665,Lung,matrix_intact,-0.4192120460781562
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000667,Lung,matrix_intact,-0.6132996142828274
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000671,Liver,matrix_intact,-0.516944409199223
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000673,CNS/Brain,matrix_intact,-1.245186998744761
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000676,CNS/Brain,matrix_intact,-0.6412400820021324
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000677,Lung,matrix_intact,-0.03979612552078698
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000680,Bowel,matrix_intact,0.5257093121577663
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000681,Lung,matrix_intact,-0.8168539635994696
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000682,Head and Neck,matrix_intact,-0.6737959428240186
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000683,Bowel,matrix_intact,-0.256717094285676
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000684,Kidney,matrix_intact,-0.27275994269470405
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000685,Pancreas,matrix_intact,-0.16384013908343625
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000688,Ovary/Fallopian Tube,matrix_intact,-0.2785783363645864
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000693,Esophagus/Stomach,matrix_intact,-0.8454857627909442
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000694,Esophagus/Stomach,matrix_intact,-1.036575794092475
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000695,Lung,matrix_intact,-0.3844935272826815
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000696,Ovary/Fallopian Tube,matrix_intact,-1.042504143436592
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000697,Lymphoid,matrix_intact,-0.3524434485514817
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000698,Lung,matrix_intact,0.21719848491616034
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000699,Breast,damaging,-0.4609831581537097
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000700,Lung,matrix_intact,-0.16163776080208112
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000701,Ovary/Fallopian Tube,matrix_intact,-0.5553389087719713
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000702,Lymphoid,matrix_intact,-0.5137254271194774
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000706,Lung,matrix_intact,-0.4043465902615977
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000709,Kidney,matrix_intact,-0.49181938902544786
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000711,Breast,matrix_intact,-0.4235846881585582
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000713,Ovary/Fallopian Tube,matrix_intact,-0.8963357328581537
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000714,Lymphoid,matrix_intact,-0.8715701231082218
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000716,Thyroid,matrix_intact,-0.22613740883751537
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000718,Lung,matrix_intact,-1.463363122416065
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000719,Ovary/Fallopian Tube,matrix_intact,-0.6393627418952317
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000720,Bladder/Urinary Tract,matrix_intact,-0.3416638763345566
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000721,Breast,matrix_intact,-0.9266765654437572
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000724,Bladder/Urinary Tract,matrix_intact,-0.20403540062281816
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000725,Breast,matrix_intact,-0.14739091960225847
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000732,Head and Neck,matrix_intact,-0.28810671112050945
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000734,Liver,matrix_intact,-0.32544908295563835
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000735,Head and Neck,matrix_intact,-1.2722218805843624
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000736,Esophagus/Stomach,matrix_intact,-1.525536021204088
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000738,CNS/Brain,matrix_intact,-0.0753434737411784
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000739,Liver,matrix_intact,-0.17270609926885963
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000740,Head and Neck,matrix_intact,-0.31228520340856825
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000741,Bladder/Urinary Tract,matrix_intact,-1.009654240669048
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000746,Esophagus/Stomach,matrix_intact,-0.3842343956886989
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000747,Lung,matrix_intact,-0.11112146354869662
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000748,Bone,matrix_intact,-0.20627912807338591
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000753,Bladder/Urinary Tract,matrix_intact,-0.7882255860028153
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000754,Lymphoid,matrix_intact,-1.126930037263779
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000756,CNS/Brain,matrix_intact,-0.5007163209262924
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000757,Lung,matrix_intact,-0.9354774556061798
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000758,Esophagus/Stomach,matrix_intact,-0.21832764175304448
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000760,CNS/Brain,matrix_intact,-0.24961416957180563
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000762,Head and Neck,matrix_intact,-0.07019075377018512
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000763,Lymphoid,matrix_intact,-1.0224704296077114
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000764,Esophagus/Stomach,matrix_intact,-0.21476033200840536
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000765,Skin,matrix_intact,-0.09964446670750017
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000766,Lung,matrix_intact,-0.5801390692336894
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000767,Lung,matrix_intact,-0.4854861771572861
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000768,Breast,matrix_intact,-0.05796739351846198
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000769,Lung,matrix_intact,-0.3262591780180655
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000770,Myeloid,matrix_intact,-0.1489576780685645
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000771,Head and Neck,damaging,-0.4278583957753824
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000773,Lymphoid,matrix_intact,-0.8748384189042723
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000774,Lung,matrix_intact,-0.09444510355759342
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000775,Lung,matrix_intact,-0.2535532011552234
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000776,CNS/Brain,matrix_intact,-0.27571115786005007
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000777,Esophagus/Stomach,matrix_intact,-0.1445534706652599
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000778,Head and Neck,matrix_intact,-0.3695680256757687
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000781,Lung,matrix_intact,-0.5719396278907238
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000782,Lymphoid,matrix_intact,-0.1368647445461621
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000783,Breast,matrix_intact,-0.42889360016179456
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000784,Esophagus/Stomach,matrix_intact,-0.16905863401323057
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000785,Lung,matrix_intact,-0.5918911191861741
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000787,Lung,matrix_intact,-0.4580830953009283
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000788,Skin,matrix_intact,-0.4333595507961956
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000790,Lung,matrix_intact,-0.2498879434568111
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000791,Lung,matrix_intact,-0.37073594761089007
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000792,Kidney,matrix_intact,-0.7974436898916468
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000793,Esophagus/Stomach,matrix_intact,-0.8277711408715538
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000794,Head and Neck,matrix_intact,-0.6324251629732567
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000796,Ovary/Fallopian Tube,matrix_intact,-1.0751288246499753
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000799,Skin,matrix_intact,-1.3284146381317488
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000800,Lung,matrix_intact,-0.40443494243430766
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000801,Skin,matrix_intact,-0.022682122980677878
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000802,Bladder/Urinary Tract,matrix_intact,-0.5103607778981906
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000804,Peripheral Nervous System,matrix_intact,-0.31502012649511146
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000805,Skin,matrix_intact,-0.22411715643099406
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000807,CNS/Brain,matrix_intact,-0.616622681062728
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000809,Esophagus/Stomach,matrix_intact,-0.47715820111081125
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000810,Skin,matrix_intact,-0.11151635474741992
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000811,Ovary/Fallopian Tube,matrix_intact,-0.2678582141075303
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000817,Lymphoid,matrix_intact,-0.5156320990219747
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000819,CNS/Brain,matrix_intact,-0.17887670734728325
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000820,Bowel,matrix_intact,-0.29188772508662353
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000821,Lymphoid,matrix_intact,-0.632287439604819
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000822,Skin,matrix_intact,-0.1938070845509361
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000823,Esophagus/Stomach,matrix_intact,-0.26240356618049987
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000824,Esophagus/Stomach,matrix_intact,-0.17103153135780141
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000827,Skin,matrix_intact,-0.35518044105678553
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000829,Lymphoid,matrix_intact,-1.2826954709449618
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000831,Uterus,matrix_intact,-0.49537821390525894
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000832,Head and Neck,matrix_intact,-0.26692853762443924
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000833,Soft Tissue,matrix_intact,-0.4741024613955358
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000834,Bladder/Urinary Tract,matrix_intact,-0.14986293503701198
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000835,Soft Tissue,matrix_intact,-0.8472886981708263
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000836,Head and Neck,matrix_intact,-1.332132441297765
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000837,Lung,matrix_intact,-0.3004314411495438
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000838,Lymphoid,matrix_intact,-0.10594961407195416
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000839,Bladder/Urinary Tract,matrix_intact,-0.47903174983402064
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000840,Lung,matrix_intact,-0.15588830525385244
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000841,Lung,matrix_intact,-0.22785282354339126
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000843,Lung,matrix_intact,-0.21889560076557973
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000845,Lung,matrix_intact,-0.6305533939026504
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000846,Head and Neck,matrix_intact,-0.5599765333197219
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000847,Esophagus/Stomach,matrix_intact,-0.1867408060121947
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000848,Liver,matrix_intact,-0.24897304867592623
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000849,Breast,matrix_intact,-1.2036214065039594
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000851,Lung,matrix_intact,-0.6035045591929682
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000853,Lung,matrix_intact,-0.5549783165002897
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000855,Esophagus/Stomach,matrix_intact,-0.49458826507829284
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000856,Breast,matrix_intact,-0.5814789707934764
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000858,Lung,matrix_intact,-0.13765157886225152
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000859,Breast,matrix_intact,-0.37687970712411245
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000860,Lung,matrix_intact,-0.2709373403479351
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000861,Lung,matrix_intact,-0.793510888687307
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000862,Bladder/Urinary Tract,matrix_intact,-0.7695949817399974
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000865,Esophagus/Stomach,matrix_intact,-0.7898133206130517
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000866,Lung,matrix_intact,-0.6253725761832274
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000867,Lung,matrix_intact,-0.32675859130228346
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000869,Lung,matrix_intact,-0.5011305002205617
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000871,Lung,matrix_intact,-0.1301356854805742
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000872,Lung,matrix_intact,-0.38342638364114767
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000873,Esophagus/Stomach,matrix_intact,-0.743630297709446
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000876,Breast,matrix_intact,0.09619168393358152
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000878,Lung,matrix_intact,0.1297504314103807
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000880,Esophagus/Stomach,matrix_intact,-0.28384839374339166
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000881,Skin,matrix_intact,-0.3860608923629192
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000882,Skin,matrix_intact,-0.5503922516024335
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000884,Skin,matrix_intact,-0.535959244662381
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000885,Ovary/Fallopian Tube,matrix_intact,-1.0087184651682044
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000886,Lung,matrix_intact,-1.0989612585798243
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000887,CNS/Brain,matrix_intact,-0.03356449912257717
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000888,Lung,matrix_intact,-0.3653157172892532
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000889,Lymphoid,matrix_intact,-0.27536430055890543
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000890,Lung,matrix_intact,-0.8013631087814934
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000896,Bladder/Urinary Tract,matrix_intact,-0.49442274260863023
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000898,Esophagus/Stomach,matrix_intact,-0.20496861322312435
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000899,Skin,matrix_intact,-1.1418559619435078
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000900,Lung,matrix_intact,-1.1217243527095744
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000901,Lung,matrix_intact,-0.41636919110123016
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000903,Thyroid,matrix_intact,-0.619687116239136
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000905,Bladder/Urinary Tract,matrix_intact,-0.8586172326301975
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000906,Ovary/Fallopian Tube,matrix_intact,-0.5189253055973048
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000907,Kidney,matrix_intact,-0.5502098838596123
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000910,Breast,matrix_intact,-0.28863588714470034
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000911,Esophagus/Stomach,matrix_intact,-0.5110291797311827
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000912,Lung,matrix_intact,-0.36567747340324086
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000913,Uterus,matrix_intact,-0.6146763382243936
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000914,Lymphoid,matrix_intact,-1.2752291954631714
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000915,Skin,matrix_intact,0.0022617743357624676
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000916,Lung,matrix_intact,-0.33006344488422845
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000917,Esophagus/Stomach,matrix_intact,-0.23240442128842714
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000920,Myeloid,matrix_intact,0.005226364274729847
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000921,Lung,matrix_intact,-0.6935677912201328
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000922,Lymphoid,matrix_intact,-0.3589998911483558
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000924,Lung,matrix_intact,-0.5359050286970781
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000926,Bowel,matrix_intact,-0.39041315954806577
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000928,Uterus,matrix_intact,-1.6577775299342314
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000929,Lung,matrix_intact,0.04408733364629435
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000932,Esophagus/Stomach,damaging,-0.5976012362818509
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000935,Bowel,matrix_intact,-0.46881569284008184
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000936,Ovary/Fallopian Tube,matrix_intact,-0.23306133069504711
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000937,Lymphoid,matrix_intact,0.0736467424806948
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000938,Lymphoid,matrix_intact,-0.09777185504840424
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000939,Uterus,matrix_intact,-0.3596632971172026
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000941,Uterus,matrix_intact,-0.5318595425273678
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000943,Bowel,damaging,-0.7082787716586746
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000944,Lymphoid,matrix_intact,-0.35235783989403435
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000946,Uterus,matrix_intact,-1.99970672989339
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000947,Ovary/Fallopian Tube,matrix_intact,-0.959093483083282
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000948,Esophagus/Stomach,matrix_intact,-1.6949435292417894
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000950,Bowel,matrix_intact,-0.41322297510524675
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000953,Lymphoid,matrix_intact,-0.13036842876966892
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000957,Bowel,damaging,-0.3064939868490978
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000958,Bowel,damaging,-0.5563539570261451
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000959,Bowel,damaging,-0.5762629120723126
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000960,Lymphoid,matrix_intact,-0.5145276123966976
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000961,Uterus,damaging,-0.47397266858206333
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000963,Bowel,damaging,-0.31852474769646955
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000965,Uterus,damaging,-1.2661817807766944
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000968,Skin,matrix_intact,-0.49706191247300124
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000969,Bowel,damaging,-0.30021559234291106
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000973,Bladder/Urinary Tract,matrix_intact,-0.8201220587699087
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000974,Uterus,matrix_intact,-1.9466348702987109
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000975,Lung,matrix_intact,-0.06926983069779881
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000976,Biliary Tract,matrix_intact,-0.9418613592760643
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000977,Prostate,matrix_intact,-1.0953500609431592
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000978,Uterus,damaging,-0.10482310772107427
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000980,Lung,matrix_intact,0.1409958864920098
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000983,Myeloid,damaging,-0.00845862364288271
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000984,Uterus,matrix_intact,-0.6119076889232771
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000986,Bowel,damaging,-0.2696935061050265
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000988,Uterus,matrix_intact,-0.4395270709305988
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000993,Uterus,damaging,-0.8065737304908719
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000994,Uterus,damaging,-0.5726678919175101
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000995,Lymphoid,matrix_intact,-0.11865553744834434
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-000996,Uterus,damaging,-0.6757020260373922
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001001,Bone,matrix_intact,-0.0937264870763128
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001020,CNS/Brain,matrix_intact,-0.33786303841734355
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001028,CNS/Brain,matrix_intact,-0.6739605407699263
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001029,Bone,matrix_intact,-0.3842257313059453
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001031,CNS/Brain,matrix_intact,-0.74476452719761
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001033,CNS/Brain,matrix_intact,-0.5108235345169576
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001036,Myeloid,damaging,-0.515409643973435
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001038,Bone,matrix_intact,-0.32368055675204627
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001041,Skin,matrix_intact,-0.45954627097354883
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001048,Ovary/Fallopian Tube,matrix_intact,-0.31298775573510307
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001050,Soft Tissue,matrix_intact,-0.6283204153111126
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001053,CNS/Brain,matrix_intact,-0.29973485459426763
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001054,CNS/Brain,matrix_intact,-1.4263661451931808
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001061,Bowel,damaging,-0.3889953174041407
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001067,CNS/Brain,matrix_intact,-0.6913434775073903
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001075,Lung,matrix_intact,-1.0857307526109476
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001096,Soft Tissue,matrix_intact,-0.43934705161773735
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001098,Pancreas,matrix_intact,-0.2979872293662068
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001099,Kidney,matrix_intact,-0.3921839773957218
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001119,Lymphoid,matrix_intact,-0.21439488811103635
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001128,Kidney,matrix_intact,-0.46036976792681145
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001129,Myeloid,matrix_intact,-0.08483846477959521
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001134,Lymphoid,matrix_intact,-0.7171335153993539
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001145,Ovary/Fallopian Tube,damaging,-0.6942789571611452
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001151,Ovary/Fallopian Tube,matrix_intact,-0.34022385688107415
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001163,Kidney,matrix_intact,-0.23958980081071424
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001164,Soft Tissue,matrix_intact,-0.28117464735939895
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001172,CNS/Brain,matrix_intact,-0.38946104016878297
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001183,Bladder/Urinary Tract,matrix_intact,-0.5126407469608942
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001184,Soft Tissue,matrix_intact,-1.0336141246157036
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001188,Peripheral Nervous System,matrix_intact,-0.44661099481134553
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001190,Skin,matrix_intact,-0.3652232841304165
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001192,Bone,matrix_intact,-0.3816183403764165
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001193,Bone,matrix_intact,-0.12392235330859436
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001194,Kidney,matrix_intact,-0.556132726549494
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001196,Soft Tissue,matrix_intact,-0.8310866324483785
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001197,Lymphoid,matrix_intact,-0.7590834205347892
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001205,Bone,matrix_intact,-0.3150461937722335
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001211,Kidney,matrix_intact,-0.2927925012715695
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001212,Kidney,matrix_intact,-0.53754007049552
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001228,Head and Neck,matrix_intact,0.014665146857231515
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001229,Head and Neck,matrix_intact,-0.7536297151151321
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001232,CNS/Brain,matrix_intact,-0.2368658436218904
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001239,Skin,matrix_intact,-0.4508543989097877
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001270,Soft Tissue,matrix_intact,-0.08999919981246912
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001274,Soft Tissue,matrix_intact,-0.574335471561743
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001275,Soft Tissue,matrix_intact,-0.30913763657919135
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001277,Soft Tissue,matrix_intact,-0.39110574430938794
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001278,Ovary/Fallopian Tube,matrix_intact,-0.6208227501663792
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001279,Ovary/Fallopian Tube,matrix_intact,-1.3321067995013869
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001280,Soft Tissue,matrix_intact,-0.32601223394275713
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001283,Bone,matrix_intact,-0.28521721904310565
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001289,CNS/Brain,matrix_intact,-0.4402920636711798
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001295,Eye,matrix_intact,-0.7044156934293544
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001300,Peripheral Nervous System,matrix_intact,-0.3446168722760419
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001301,Peripheral Nervous System,matrix_intact,-0.41537756780877144
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001302,Peripheral Nervous System,matrix_intact,-0.5022387062130944
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001303,Peripheral Nervous System,matrix_intact,-0.010451098086635982
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001306,Thyroid,matrix_intact,-0.4417010307284794
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001307,Thyroid,matrix_intact,-0.5081965457463022
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001310,Kidney,matrix_intact,-0.6400623179432986
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001318,Liver,matrix_intact,-0.38534705216617926
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001322,Soft Tissue,matrix_intact,-0.522840882933139
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001328,Skin,matrix_intact,-0.4655926126299681
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001329,CNS/Brain,matrix_intact,-0.5292399915824837
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001333,Cervix,matrix_intact,-0.46270877092146445
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001334,Cervix,matrix_intact,-0.23206095241180724
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001335,Cervix,matrix_intact,-0.33632649194154146
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001336,Cervix,matrix_intact,-0.432397506961712
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001338,Peripheral Nervous System,matrix_intact,-0.2608534072140344
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001340,Ovary/Fallopian Tube,matrix_intact,-0.408503966071037
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001341,Cervix,damaging,-2.2351013261432167
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001344,Peripheral Nervous System,matrix_intact,-0.579935644407791
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001345,Bowel,matrix_intact,-0.20587641516812427
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001346,Head and Neck,matrix_intact,-0.3350798083003271
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001347,Head and Neck,matrix_intact,-0.7229184161933331
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001353,Pancreas,matrix_intact,-0.09339501263444391
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001354,Peripheral Nervous System,matrix_intact,-0.5258124461396766
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001356,Thyroid,matrix_intact,-0.48806658394236363
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001360,Cervix,matrix_intact,0.08678543693329568
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001366,Peripheral Nervous System,matrix_intact,-0.443457135022693
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001367,Peripheral Nervous System,matrix_intact,-0.3466776571770138
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001368,Esophagus/Stomach,matrix_intact,-0.4694062101850802
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001370,Ovary/Fallopian Tube,matrix_intact,-0.605407116099709
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001374,Ovary/Fallopian Tube,matrix_intact,-0.0964318679618992
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001375,Pancreas,matrix_intact,-0.16989772808772227
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001377,Pancreas,matrix_intact,-1.0259908325036409
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001379,Pancreas,matrix_intact,-0.5162514993860712
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001380,Pancreas,matrix_intact,-0.8074024418350066
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001382,Pancreas,matrix_intact,-0.05687718454576143
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001385,Head and Neck,matrix_intact,-0.5573578517662211
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001386,Lung,damaging,-0.2406372970150139
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001388,Breast,matrix_intact,-0.713643926053394
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001389,Breast,damaging,-0.7705742377655849
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001390,Breast,damaging,-0.03267150420641951
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001391,Breast,matrix_intact,0.09585289332559904
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001392,Breast,matrix_intact,-0.16099630797524653
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001393,Breast,matrix_intact,-0.36428542553067
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001394,Breast,matrix_intact,-0.08622188390744513
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001396,Breast,matrix_intact,-0.13359854701476861
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001398,Kidney,matrix_intact,-0.21026283418112157
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001400,Vulva/Vagina,matrix_intact,-0.012533652337975112
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001402,Cervix,matrix_intact,-0.2530184051143697
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001403,Ovary/Fallopian Tube,matrix_intact,-0.2859826088901409
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001407,Bladder/Urinary Tract,matrix_intact,-0.4464994572929637
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001408,Bladder/Urinary Tract,matrix_intact,-0.5157103554353566
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001409,Bladder/Urinary Tract,matrix_intact,-0.2867896532331323
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001411,Bladder/Urinary Tract,matrix_intact,-0.25670623633614387
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001412,Bladder/Urinary Tract,matrix_intact,-0.24392902581925513
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001413,Bladder/Urinary Tract,matrix_intact,-1.6080558705990788
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001414,Bladder/Urinary Tract,matrix_intact,-1.0518340329922928
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001415,Bladder/Urinary Tract,matrix_intact,-0.1325816135271252
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001416,Bladder/Urinary Tract,matrix_intact,-0.4571546794028626
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001418,Ovary/Fallopian Tube,damaging,-0.3944159938918279
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001419,Breast,matrix_intact,-0.2326768512733953
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001421,Eye,matrix_intact,-0.32294010665340295
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001422,Prostate,matrix_intact,-0.417069979255424
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001430,Bone,matrix_intact,-0.41720100212281197
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001431,Bone,matrix_intact,-0.31188645410059745
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001433,Soft Tissue,matrix_intact,-0.35392007702024236
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001442,Skin,matrix_intact,-0.25694657218001676
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001443,Thyroid,matrix_intact,-0.30785168009434744
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001450,Lymphoid,matrix_intact,-0.09842318110537496
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001451,Cervix,matrix_intact,-0.48186471530276
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001453,Prostate,matrix_intact,-0.8963349043631557
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001454,Bowel,matrix_intact,0.09623503015034283
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001458,Bowel,matrix_intact,0.024457317708954283
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001459,Bowel,matrix_intact,-0.17657232948799748
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001460,Bowel,matrix_intact,-0.5851936836533334
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001461,Bowel,matrix_intact,-0.23435235341210922
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001481,Peripheral Nervous System,matrix_intact,-0.28575034956841217
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001494,Biliary Tract,matrix_intact,-0.3212219194141373
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001495,Uterus,matrix_intact,-0.006101602809732015
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001496,Esophagus/Stomach,matrix_intact,-0.06011864105629697
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001497,Esophagus/Stomach,matrix_intact,0.023740124773673717
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001498,Lymphoid,matrix_intact,-0.5735272356341632
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001500,Esophagus/Stomach,matrix_intact,-0.6566373395602225
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001509,Head and Neck,matrix_intact,-0.3931105001568631
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001510,Head and Neck,matrix_intact,-0.40329297994720203
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001511,Head and Neck,matrix_intact,-0.30767746873174995
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001513,Cervix,matrix_intact,0.02224443946514919
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001515,Cervix,matrix_intact,-0.31159482400902816
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001517,Uterus,damaging,-0.44998074011077804
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001518,Uterus,matrix_intact,-0.36465859033024917
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001520,Lymphoid,matrix_intact,-1.853137808356004
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001521,Skin,matrix_intact,0.01363779201662036
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001522,Skin,matrix_intact,-0.9640250110610546
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001523,Skin,matrix_intact,-0.15398333720344667
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001524,Skin,matrix_intact,-0.9300518002781848
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001525,Cervix,matrix_intact,-0.3654528507389988
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001526,Bone,matrix_intact,-0.2721662678689315
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001528,Thyroid,matrix_intact,-0.7554928367312219
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001529,Uterus,matrix_intact,-1.6230158888189896
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001530,Uterus,matrix_intact,-1.2414490109696121
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001532,Kidney,matrix_intact,-1.3607957170706757
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001533,Lymphoid,matrix_intact,-0.2024508630067275
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001536,Biliary Tract,matrix_intact,-1.0497384704949635
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001538,Biliary Tract,matrix_intact,-1.0473267993332702
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001539,Lymphoid,matrix_intact,-0.41827119782012145
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001542,Head and Neck,matrix_intact,-1.1104621672058261
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001543,Head and Neck,matrix_intact,-1.0511837250772613
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001547,Pleura,matrix_intact,-0.4719714202049273
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001548,Peripheral Nervous System,matrix_intact,-0.13458648078199875
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001549,Lung,matrix_intact,-0.2966970951287245
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001550,Skin,matrix_intact,-0.17290874994499145
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001551,Skin,matrix_intact,-1.205063932861603
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001552,Skin,matrix_intact,-0.08605052008356172
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001554,Eye,matrix_intact,-0.2752933865510593
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001555,Pleura,matrix_intact,-1.955358045784516
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001556,Pleura,matrix_intact,-0.5880610871578166
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001557,Pleura,matrix_intact,-1.268969852537122
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001558,Pleura,matrix_intact,-0.37779700986131937
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001559,Pleura,matrix_intact,-0.7047388869188101
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001560,Pleura,matrix_intact,-1.9605395055958867
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001562,Pleura,matrix_intact,-0.40474029465765304
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001563,Skin,matrix_intact,-0.9760046129924623
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001566,Skin,matrix_intact,-0.45730003972486705
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001567,Skin,matrix_intact,-1.4622795013368308
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001568,Skin,matrix_intact,-0.44907451908171714
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001570,Skin,matrix_intact,-0.041446783034609774
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001574,Myeloid,matrix_intact,-0.9283525221746367
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001577,Myeloid,matrix_intact,-0.6613061965762079
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001607,Biliary Tract,matrix_intact,-0.8135246846344222
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001608,CNS/Brain,matrix_intact,-1.3095519143723822
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001609,CNS/Brain,matrix_intact,-0.26021534139822344
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001610,CNS/Brain,matrix_intact,-0.3006302629887534
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001611,CNS/Brain,matrix_intact,-0.3423527197653541
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001616,Lymphoid,matrix_intact,-0.7126205021985672
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001618,Myeloid,matrix_intact,-1.2711133289777923
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001619,Biliary Tract,matrix_intact,-0.8506727904691012
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001622,CNS/Brain,matrix_intact,-0.48723773782008806
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001623,CNS/Brain,matrix_intact,-0.0656680689800595
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001624,CNS/Brain,matrix_intact,-0.5742391883763581
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001627,Prostate,matrix_intact,-1.0203477515589534
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001628,Ovary/Fallopian Tube,matrix_intact,-0.23145803908917975
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001630,Ovary/Fallopian Tube,damaging,-0.6468047000357067
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001634,Lymphoid,matrix_intact,-0.7550512596168594
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001641,Head and Neck,matrix_intact,-0.2749804470252276
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001645,Skin,matrix_intact,-0.5508008043495867
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001647,Myeloid,matrix_intact,0.05829569620748208
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001648,Prostate,matrix_intact,-0.536918283179896
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001649,Prostate,matrix_intact,-0.3837353773672376
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001650,Cervix,matrix_intact,-0.1367584257828651
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001651,Cervix,matrix_intact,0.22593857363595485
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001652,Cervix,matrix_intact,-1.0622570433846148
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001653,Esophagus/Stomach,matrix_intact,-0.17427891532634643
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001654,Esophagus/Stomach,matrix_intact,-0.5248859574616347
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001655,Uterus,matrix_intact,-0.274816374664423
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001656,Myeloid,matrix_intact,-0.19245655866796513
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001664,Esophagus/Stomach,damaging,-0.7915696968429073
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001668,Testis,matrix_intact,-1.5280642825865876
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001669,Lymphoid,matrix_intact,-0.48654649373234615
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001670,CNS/Brain,matrix_intact,-0.7524369992519162
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001673,Biliary Tract,matrix_intact,-0.16005536161253542
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001674,Peripheral Nervous System,matrix_intact,-0.4347135092873099
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001675,Head and Neck,matrix_intact,-0.43959535237701347
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001677,Lymphoid,matrix_intact,-0.5225872429359519
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001685,Lymphoid,matrix_intact,-0.29604044717883415
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001687,Kidney,matrix_intact,-0.5749420888855483
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001688,Kidney,matrix_intact,-0.2656219087814456
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001690,Head and Neck,matrix_intact,-0.8277413820179577
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001691,Head and Neck,matrix_intact,-0.41872170448027024
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001692,Head and Neck,matrix_intact,-0.7923630806563025
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001694,Head and Neck,matrix_intact,-0.8344392200514357
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001696,Head and Neck,matrix_intact,-1.0409287656614654
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001698,Head and Neck,matrix_intact,-0.9868522027249895
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001699,Head and Neck,matrix_intact,-0.9151845594105514
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001701,Head and Neck,matrix_intact,-1.2041979756111214
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001702,Soft Tissue,matrix_intact,-0.5652890503923621
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001707,Lymphoid,matrix_intact,-0.20922088330200328
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001709,Lymphoid,matrix_intact,-1.1433551237596755
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001711,CNS/Brain,matrix_intact,0.7292766741760609
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001715,Bone,matrix_intact,-0.398904994146283
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001719,Ovary/Fallopian Tube,matrix_intact,-0.7293147661891606
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001735,Lymphoid,matrix_intact,-0.5370233134200486
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001736,Lymphoid,matrix_intact,-0.5671333656691178
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001737,Lymphoid,matrix_intact,-0.33379056068293866
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001740,Soft Tissue,matrix_intact,-0.3768160457392427
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001745,Soft Tissue,matrix_intact,-0.285432735832735
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001750,Soft Tissue,matrix_intact,-0.1078417321712264
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001765,Soft Tissue,matrix_intact,-0.1875071032278095
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001786,Bowel,matrix_intact,-0.9706570671228985
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001791,Soft Tissue,matrix_intact,-0.4224365323670952
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001793,Soft Tissue,matrix_intact,-0.7744678958609126
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001794,Soft Tissue,matrix_intact,-0.6689248767314608
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001795,Soft Tissue,matrix_intact,-1.008916434983858
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001796,Soft Tissue,matrix_intact,-0.6007179889312821
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001799,Soft Tissue,matrix_intact,-0.8925234299800291
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001802,Soft Tissue,matrix_intact,-1.2697150916771895
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001804,Soft Tissue,matrix_intact,-0.39135751650102063
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001814,Bone,matrix_intact,-0.04230547551219827
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001819,Breast,matrix_intact,-0.32757842292682227
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001820,Breast,matrix_intact,-0.1673224659426768
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001834,Biliary Tract,matrix_intact,-0.7143477815915342
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001835,Biliary Tract,matrix_intact,-0.8207654954148929
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001836,Biliary Tract,matrix_intact,-0.9207236889739074
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001838,Biliary Tract,matrix_intact,-0.12843806435872723
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001839,Biliary Tract,matrix_intact,-0.14427954766692558
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001841,Biliary Tract,damaging,-2.0267474270219155
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001842,Biliary Tract,matrix_intact,-0.20320854859546206
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001843,Biliary Tract,matrix_intact,-3.3667842043238085
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001844,Biliary Tract,matrix_intact,-0.20606624149789524
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001848,Biliary Tract,matrix_intact,-0.9637752968765588
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001849,Biliary Tract,matrix_intact,-0.22845572848360568
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001850,Biliary Tract,matrix_intact,-0.4783123255479354
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001852,Biliary Tract,matrix_intact,-0.9645075168147983
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001853,Liver,matrix_intact,-0.1304513674362631
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001856,Biliary Tract,matrix_intact,-0.6228180616673935
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001857,Biliary Tract,matrix_intact,-0.32244745842307754
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001858,Biliary Tract,matrix_intact,-0.8099180411482779
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001861,Biliary Tract,matrix_intact,-0.4528135333135265
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001862,Ampulla of Vater,matrix_intact,-0.4524888451629775
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001863,Biliary Tract,matrix_intact,-0.12646815890799348
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001864,Biliary Tract,matrix_intact,-0.7901605536667912
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001959,Biliary Tract,matrix_intact,-0.8321290045641816
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001960,Biliary Tract,matrix_intact,-0.44592970984677244
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001961,Biliary Tract,matrix_intact,-0.18504788870195504
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001970,Skin,matrix_intact,-0.25313147843215716
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001973,Skin,matrix_intact,0.032463430759423595
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001977,Pleura,matrix_intact,-0.4212686041086315
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001982,Skin,matrix_intact,-0.2523003065943147
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001986,Skin,matrix_intact,-0.47193363844319824
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001990,Skin,matrix_intact,-0.1326842999391759
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001991,Ovary/Fallopian Tube,damaging,0.16140406534794416
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001992,Pleura,matrix_intact,-1.196751101308399
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001993,Lymphoid,matrix_intact,-0.40834893828225033
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001997,Biliary Tract,matrix_intact,-0.6339640603065142
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-001999,Pancreas,matrix_intact,0.30683715156763025
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002001,Skin,matrix_intact,-0.5308232924677685
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002002,Skin,matrix_intact,-1.4192062743413771
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002003,Skin,matrix_intact,-0.685041015847772
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002005,Skin,matrix_intact,-0.4372455192312149
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002014,Eye,matrix_intact,-0.48138612862706553
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002015,Eye,matrix_intact,-0.8837246700092622
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002016,Eye,damaging,-0.7922337519135234
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002018,Eye,matrix_intact,-0.557166500587196
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002019,Cervix,matrix_intact,-0.6091448632749819
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002020,Cervix,matrix_intact,-0.5209119714903009
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002021,Uterus,matrix_intact,-0.2108984032302848
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002023,Ampulla of Vater,matrix_intact,-0.46773163819911545
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002024,Bowel,matrix_intact,-0.07610375530960305
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002025,Bowel,matrix_intact,-0.28321032989343997
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002026,Uterus,matrix_intact,-1.0601738893033656
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002027,Uterus,matrix_intact,-0.3238108363759279
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002029,Head and Neck,matrix_intact,-0.5220213783985879
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002030,Head and Neck,matrix_intact,-0.9299915035380364
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002035,Lung,matrix_intact,-0.3684585367962145
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002039,Pancreas,matrix_intact,-0.69650138420315
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002040,Vulva/Vagina,matrix_intact,-0.6455506326990557
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002041,Thyroid,matrix_intact,-0.540737238650649
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002042,Head and Neck,matrix_intact,-0.2686015318469871
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002043,Head and Neck,matrix_intact,-0.4205510779491468
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002044,Head and Neck,matrix_intact,-0.15653104254982686
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002045,Head and Neck,matrix_intact,-0.36049608449476167
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002046,Uterus,matrix_intact,-0.24126582424227558
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002048,Soft Tissue,matrix_intact,-0.48216654488295063
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002051,Lung,matrix_intact,0.08044426622632543
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002059,Lymphoid,matrix_intact,-0.736691980807846
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002061,Myeloid,matrix_intact,-0.7562894611394508
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002062,Lymphoid,matrix_intact,-2.0374454014813557
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002066,Peripheral Nervous System,matrix_intact,-0.7921322800095719
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002067,Bone,matrix_intact,-0.3637026753070555
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002069,Bone,matrix_intact,-0.056693322201264336
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002070,CNS/Brain,matrix_intact,-0.9424732137496585
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002077,Lung,matrix_intact,0.05128735109685777
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002080,Peripheral Nervous System,matrix_intact,-0.2100281818007223
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002084,Skin,matrix_intact,-0.8393435260611133
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002214,Lymphoid,matrix_intact,-1.4042257317571227
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002215,Lymphoid,matrix_intact,-0.3712169931053742
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002291,Testis,damaging,-0.9262958133709418
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002399,Breast,matrix_intact,-0.4401197035341333
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002446,Esophagus/Stomach,matrix_intact,-0.28352448110468076
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002458,Skin,matrix_intact,-0.8948012482941716
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002459,Skin,matrix_intact,-1.2686093182768925
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002460,Skin,matrix_intact,-1.479618784532006
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002461,Skin,matrix_intact,-0.36051603225057816
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002462,Eye,matrix_intact,-0.8980995721084549
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002463,Eye,matrix_intact,-0.8659835009248846
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002464,Eye,matrix_intact,-0.28727239966048346
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002465,Eye,matrix_intact,-0.45612160200836316
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002467,Eye,matrix_intact,-1.2003016109862512
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002471,Bone,matrix_intact,-0.29077920672926094
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002478,Lymphoid,matrix_intact,-0.35155282633754353
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002485,Lymphoid,matrix_intact,-0.23225878229784583
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002486,Ovary/Fallopian Tube,matrix_intact,-0.676871742279189
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002508,Skin,matrix_intact,-0.9253557636541794
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002510,Skin,matrix_intact,-0.587098066472639
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002511,Skin,matrix_intact,-0.6057514603429934
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002512,Skin,matrix_intact,-0.2812287741546958
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002522,Lung,matrix_intact,-0.353652020400276
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002523,Liver,matrix_intact,-0.28159096139763656
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002524,Ovary/Fallopian Tube,damaging,-0.13248050526160476
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002526,Lung,matrix_intact,-0.6815813978045744
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002531,Lung,matrix_intact,-0.2100681027446426
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002533,Kidney,damaging,-3.2790110961568524
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002535,Bowel,matrix_intact,-0.6057352725058255
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002647,Biliary Tract,matrix_intact,-0.2828328790008742
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002650,Lung,matrix_intact,-1.1808661382619539
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002654,Bowel,matrix_intact,-1.0156185836606648
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002659,Bowel,matrix_intact,-0.30676617959816477
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002664,Bowel,matrix_intact,-0.24872753056482996
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002669,Bowel,matrix_intact,-4.25173549268284
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002672,Pancreas,matrix_intact,-0.18017442946724133
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002680,CNS/Brain,matrix_intact,-1.1087135476431405
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002687,Eye,matrix_intact,-0.6696395178044365
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002693,Peripheral Nervous System,matrix_intact,-0.6287331024219824
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002710,Peripheral Nervous System,matrix_intact,-0.682738662995312
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002785,Soft Tissue,matrix_intact,-0.28539763761189
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002799,Peripheral Nervous System,damaging,-0.6328043573014743
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002800,Peripheral Nervous System,matrix_intact,-0.6150119090430635
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002834,Bone,matrix_intact,-0.5640047135910748
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002847,Skin,matrix_intact,-0.9712914962769078
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002922,Peripheral Nervous System,matrix_intact,0.09250683621641001
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002925,Eye,matrix_intact,-0.6356545576913833
+BRCA1_or_BRCA2_damaging_to_POLQ,Avana,ACH-002926,Eye,matrix_intact,-0.5853932673864021
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000001,Ovary/Fallopian Tube,matrix_intact,-0.2511186005590833
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000007,Bowel,matrix_intact,-0.10399267459275836
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000009,Bowel,matrix_intact,-0.5878987317328731
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000019,Breast,matrix_intact,-0.11330982312321082
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000023,Pancreas,matrix_intact,-0.3371849469800475
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000024,Lymphoid,matrix_intact,-0.3413917961673612
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000030,Lung,matrix_intact,-0.2862979503918884
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000035,Lung,matrix_intact,-0.6520225103134044
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000042,Pancreas,matrix_intact,0.12195992859878141
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000048,Ovary/Fallopian Tube,matrix_intact,-0.10504518689235605
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000060,Pancreas,matrix_intact,-0.12958543969679823
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000067,CNS/Brain,matrix_intact,-0.44990824558510667
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000075,CNS/Brain,matrix_intact,-0.9484960276462777
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000094,Pancreas,matrix_intact,0.060610820244747315
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000098,CNS/Brain,matrix_intact,-0.40429719843848577
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000103,Ovary/Fallopian Tube,matrix_intact,-0.1898745878167738
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000108,Pancreas,matrix_intact,-0.2383357971352631
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000111,Breast,matrix_intact,-0.5168313149564882
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000113,Myeloid,matrix_intact,-0.8770644063474841
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000114,Pancreas,matrix_intact,-0.4522206437846741
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000118,Pancreas,matrix_intact,-0.01758294878476796
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000120,Peripheral Nervous System,matrix_intact,-0.9198410289978503
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000124,Lymphoid,matrix_intact,-0.17028850865611647
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000132,Ovary/Fallopian Tube,damaging,-0.3569398614651886
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000137,CNS/Brain,matrix_intact,-1.2277775443003272
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000139,Pancreas,matrix_intact,-0.3049825995756152
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000144,Esophagus/Stomach,matrix_intact,-0.44886946167404856
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000147,Breast,matrix_intact,-0.2910281119856064
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000148,Breast,matrix_intact,-0.13987997225393825
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000149,Peripheral Nervous System,matrix_intact,-1.3803832664114501
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000155,Pancreas,matrix_intact,-0.42153998780782226
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000176,Lung,matrix_intact,-0.5267957919663914
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000181,Head and Neck,matrix_intact,-0.6112187047235029
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000183,Lymphoid,matrix_intact,0.16300973440624075
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000192,Uterus,matrix_intact,-0.024300776265948204
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000200,CNS/Brain,matrix_intact,-1.0113076048812892
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000204,Lymphoid,matrix_intact,-1.3314082770160407
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000207,Head and Neck,matrix_intact,-0.5046736363537844
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000213,Pancreas,matrix_intact,-0.2532740073181389
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000219,Skin,matrix_intact,-0.6149477255554398
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000222,Pancreas,damaging,-0.1993936377251486
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000223,Breast,damaging,-0.5469996075035486
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000227,Peripheral Nervous System,matrix_intact,-0.8377645157930704
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000232,CNS/Brain,matrix_intact,-0.20360779288374606
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000235,Pancreas,matrix_intact,-0.4445649736485618
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000238,Head and Neck,matrix_intact,0.003507605665523809
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000243,Pancreas,matrix_intact,-0.19481975899456003
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000244,CNS/Brain,matrix_intact,-0.7827831881844398
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000248,Breast,matrix_intact,-0.2347580387497891
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000249,Bowel,matrix_intact,-0.16289264366031095
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000252,Bowel,matrix_intact,-0.6890429721044705
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000260,Peripheral Nervous System,matrix_intact,-0.1707504969800665
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000265,Pancreas,matrix_intact,-0.2960277529859554
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000269,CNS/Brain,matrix_intact,-0.12248178930187317
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000271,Lymphoid,matrix_intact,-0.6244187854436672
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000273,CNS/Brain,matrix_intact,-0.4307484463831529
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000276,Breast,matrix_intact,-0.5178519334176149
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000291,Ovary/Fallopian Tube,matrix_intact,-0.11565012204687386
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000293,Uterus,matrix_intact,-0.5693009452321595
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000305,Esophagus/Stomach,matrix_intact,-0.11244096821749257
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000308,Ovary/Fallopian Tube,matrix_intact,-0.12179100210878789
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000318,Esophagus/Stomach,matrix_intact,-1.449676679384601
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000320,Pancreas,matrix_intact,-0.2635629049580456
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000323,CNS/Brain,matrix_intact,-0.33552467310749823
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000336,Myeloid,matrix_intact,-0.5655374433209653
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000337,Lung,matrix_intact,-1.3704938961988569
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000341,Peripheral Nervous System,matrix_intact,-0.48398408102207263
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000350,Bowel,matrix_intact,-0.208282720104723
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000354,Pancreas,damaging,-0.9005078679188383
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000366,Peripheral Nervous System,matrix_intact,-0.377036458511302
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000367,Pleura,matrix_intact,-0.296143770982652
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000374,Breast,matrix_intact,-0.4735332016623441
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000376,CNS/Brain,matrix_intact,-0.25325891018433333
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000381,Bowel,matrix_intact,-0.6104880421044381
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000383,Esophagus/Stomach,matrix_intact,-0.6622460714983797
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000391,Bone,matrix_intact,-0.728023053520853
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000395,Lung,matrix_intact,-0.3194384131249886
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000408,Esophagus/Stomach,matrix_intact,-0.06836058681008576
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000411,Kidney,matrix_intact,-0.7698740968105658
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000414,Lung,matrix_intact,-0.4857154759605642
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000417,Pancreas,matrix_intact,-0.46196141199752044
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000421,Bowel,matrix_intact,-0.5177608732097934
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000424,Bone,matrix_intact,-0.6666342505659516
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000427,Esophagus/Stomach,matrix_intact,0.027992137761620257
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000430,Ovary/Fallopian Tube,matrix_intact,-0.7333982085136986
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000434,Lung,matrix_intact,-0.32115894134761075
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000437,CNS/Brain,matrix_intact,-0.4655067633709376
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000438,Lung,matrix_intact,0.25596546538079673
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000442,Lung,matrix_intact,-0.1658076781639621
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000452,Esophagus/Stomach,matrix_intact,-0.3778018211899988
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000464,CNS/Brain,matrix_intact,-0.6611631311843318
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000469,CNS/Brain,matrix_intact,-0.411119956239836
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000481,Lung,matrix_intact,-0.17619526284210296
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000501,Bowel,matrix_intact,-0.9384899649147433
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000504,CNS/Brain,matrix_intact,-0.23840828806730746
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000505,Soft Tissue,matrix_intact,-0.552542039968939
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000510,Lung,matrix_intact,-0.006505287819731457
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000518,Head and Neck,matrix_intact,-0.6187294015317213
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000524,Ovary/Fallopian Tube,damaging,-0.3508435097427849
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000527,Ovary/Fallopian Tube,matrix_intact,-0.603168429718168
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000532,Bowel,matrix_intact,-0.15454872262231636
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000535,Pancreas,matrix_intact,-0.33913571264584685
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000544,Esophagus/Stomach,matrix_intact,-0.700095849542623
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000546,Head and Neck,matrix_intact,-0.5923528614554806
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000548,Head and Neck,matrix_intact,-0.7106936409947737
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000552,Bowel,matrix_intact,-0.2506533588025774
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000554,Breast,matrix_intact,-0.6563307696612787
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000558,CNS/Brain,matrix_intact,-0.49542956393840465
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000561,Esophagus/Stomach,matrix_intact,-0.5633860109910022
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000562,Lung,matrix_intact,-0.624312043000787
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000563,Lung,matrix_intact,-0.12181126282830938
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000565,Bowel,matrix_intact,-0.1631472262069237
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000571,CNS/Brain,matrix_intact,-0.9206224371108935
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000573,Breast,damaging,-0.677489766503505
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000581,Esophagus/Stomach,matrix_intact,-0.32360535086719255
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000584,Ovary/Fallopian Tube,damaging,-1.0935748264421432
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000585,Lung,matrix_intact,-0.23054897970923474
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000587,Lung,matrix_intact,-0.2260517334944344
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000595,CNS/Brain,matrix_intact,-0.6174507463397325
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000596,Lung,matrix_intact,-0.754400596906994
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000599,Pancreas,matrix_intact,-0.04981136486724135
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000601,Pancreas,matrix_intact,0.019200180101401332
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000609,CNS/Brain,matrix_intact,-0.5080527608919979
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000619,Head and Neck,matrix_intact,-0.20787647443027937
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000622,CNS/Brain,matrix_intact,-0.03615032965657594
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000624,Breast,matrix_intact,-0.3291068234406621
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000637,Esophagus/Stomach,matrix_intact,-0.0752814929914093
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000651,Bowel,matrix_intact,-0.11723352029173206
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000652,Pancreas,matrix_intact,-0.14887654196799968
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000656,Lymphoid,matrix_intact,-0.9306473165707709
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000657,Ovary/Fallopian Tube,matrix_intact,-1.473619257187257
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000660,Lymphoid,matrix_intact,-1.1045620523141089
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000662,Lung,matrix_intact,-0.1144030865203886
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000665,Lung,matrix_intact,-0.5796517781997578
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000666,Lung,matrix_intact,-0.3027975457487262
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000668,Breast,matrix_intact,-0.12557559256873413
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000677,Lung,matrix_intact,-0.7231569193589937
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000681,Lung,matrix_intact,-0.9978113368087429
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000694,Esophagus/Stomach,matrix_intact,-0.47498241941877534
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000696,Ovary/Fallopian Tube,matrix_intact,-0.7740807456455617
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000699,Breast,damaging,-0.011278504526068212
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000704,Ovary/Fallopian Tube,matrix_intact,-0.41971235423383385
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000711,Breast,matrix_intact,-0.28633127864020014
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000714,Lymphoid,matrix_intact,-0.7850295005767517
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000717,Esophagus/Stomach,matrix_intact,-0.26337942326310687
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000719,Ovary/Fallopian Tube,matrix_intact,-0.27258924683163954
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000722,Bowel,damaging,0.13214068399181111
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000738,CNS/Brain,matrix_intact,-0.19908988440662384
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000740,Head and Neck,matrix_intact,-0.2826822622017919
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000748,Bone,matrix_intact,-0.19364787797042324
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000756,CNS/Brain,matrix_intact,-0.4511886674535043
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000768,Breast,matrix_intact,-0.7295340082411456
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000769,Lung,matrix_intact,-0.5145833280113133
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000778,Head and Neck,matrix_intact,-0.3058341553366528
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000781,Lung,matrix_intact,-0.6873881859874933
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000784,Esophagus/Stomach,matrix_intact,-0.55474242642105
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000787,Lung,matrix_intact,-0.15899133849577285
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000788,Skin,matrix_intact,-0.4869758055076836
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000793,Esophagus/Stomach,matrix_intact,-0.677071853470034
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000794,Head and Neck,matrix_intact,-0.8751363411048209
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000796,Ovary/Fallopian Tube,matrix_intact,-0.5795978564513946
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000809,Esophagus/Stomach,matrix_intact,-0.9075199369835815
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000817,Lymphoid,matrix_intact,-1.1338325610212179
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000823,Esophagus/Stomach,matrix_intact,-0.43067849070100966
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000824,Esophagus/Stomach,matrix_intact,-0.30473553457027697
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000832,Head and Neck,matrix_intact,-0.30822772479322097
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000841,Lung,matrix_intact,-0.48230728560681496
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000843,Lung,matrix_intact,-0.39583683416433474
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000846,Head and Neck,matrix_intact,-0.3396246786586321
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000847,Esophagus/Stomach,matrix_intact,-0.27074556663791216
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000849,Breast,matrix_intact,-0.5327234454172434
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000855,Esophagus/Stomach,matrix_intact,-0.26007815304118026
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000856,Breast,matrix_intact,-0.4414582741638141
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000858,Lung,matrix_intact,-0.3066670563750584
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000859,Breast,matrix_intact,-0.4334526476811848
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000860,Lung,matrix_intact,0.10415415911963656
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000861,Lung,matrix_intact,-1.3211155051999395
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000863,CNS/Brain,matrix_intact,-0.5772417288368832
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000864,Uterus,matrix_intact,-0.2872680643687279
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000865,Esophagus/Stomach,matrix_intact,-1.152052755562729
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000869,Lung,matrix_intact,-0.420820700475069
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000873,Esophagus/Stomach,matrix_intact,-1.4754006336787047
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000876,Breast,matrix_intact,-0.3855499891252254
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000878,Lung,matrix_intact,0.09356396095256103
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000879,Uterus,matrix_intact,-0.556270128905355
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000880,Esophagus/Stomach,matrix_intact,-1.26154133171159
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000885,Ovary/Fallopian Tube,matrix_intact,-1.2050644688938634
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000894,Lung,matrix_intact,-0.26855933792844056
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000900,Lung,matrix_intact,-0.8364921148951
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000906,Ovary/Fallopian Tube,matrix_intact,-0.7177684851999165
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000910,Breast,matrix_intact,-0.046323094879413766
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000911,Esophagus/Stomach,matrix_intact,-0.37259567209615035
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000913,Uterus,matrix_intact,-0.5579122453873282
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000917,Esophagus/Stomach,matrix_intact,-0.6557779152283586
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000919,Esophagus/Stomach,matrix_intact,-0.44648696790911824
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000926,Bowel,matrix_intact,-0.30633712905090016
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000932,Esophagus/Stomach,damaging,-0.7363881859751428
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000934,Breast,matrix_intact,-0.2559960448771662
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000935,Bowel,matrix_intact,-0.14651489061439538
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000936,Ovary/Fallopian Tube,matrix_intact,-0.4681399888490856
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000943,Bowel,damaging,-1.2778760291861115
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000945,Lung,damaging,-0.6794258759310927
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000947,Ovary/Fallopian Tube,matrix_intact,-0.8847042824908203
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000948,Esophagus/Stomach,matrix_intact,-1.780627811289716
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000950,Bowel,matrix_intact,-0.5149632149935659
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000956,Prostate,damaging,-0.34619434902162977
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000957,Bowel,damaging,-0.7757959255722634
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000958,Bowel,damaging,-0.7947576039190422
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000962,Ovary/Fallopian Tube,damaging,-0.6751671533823972
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000965,Uterus,damaging,-0.6658190373793923
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000966,Ovary/Fallopian Tube,damaging,-0.31901343195087933
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000969,Bowel,damaging,-0.6906284816687757
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000970,Bowel,matrix_intact,-0.395142742788338
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000971,Bowel,damaging,-0.6998132996710741
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000974,Uterus,matrix_intact,-0.9064887169613843
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000977,Prostate,matrix_intact,-1.4344501359688253
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000979,Prostate,matrix_intact,-0.19453657343094952
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000980,Lung,matrix_intact,0.08220741864387716
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000985,Bowel,matrix_intact,-0.2551915018673229
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000991,Bowel,damaging,-0.5845939229741663
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-000997,Bowel,damaging,-0.6538354597333225
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001016,CNS/Brain,matrix_intact,-0.5157455296222615
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001039,Bowel,matrix_intact,0.03938752048325541
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001063,Ovary/Fallopian Tube,matrix_intact,-0.5182849255425809
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001065,Breast,matrix_intact,-0.5649855063374284
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001081,Bowel,matrix_intact,-0.5521023196912372
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001107,Pancreas,matrix_intact,-0.2690458157290639
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001126,CNS/Brain,matrix_intact,-1.0276439904607209
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001137,Lung,matrix_intact,-0.22177600821833243
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001151,Ovary/Fallopian Tube,matrix_intact,-0.2153933144457358
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001190,Skin,matrix_intact,-1.0574751165199665
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001193,Bone,matrix_intact,-0.43729891825504863
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001233,Lung,matrix_intact,-0.3856907298749426
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001331,Head and Neck,matrix_intact,-0.8771712767343939
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001332,Head and Neck,matrix_intact,-0.4625066523625316
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001345,Bowel,matrix_intact,-0.49402654231985393
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001368,Esophagus/Stomach,matrix_intact,-0.6038263553942762
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001399,Bowel,matrix_intact,-0.12058449219307787
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001418,Ovary/Fallopian Tube,damaging,-0.5966023079303172
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001494,Biliary Tract,matrix_intact,-0.10353499633550277
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001496,Esophagus/Stomach,matrix_intact,-0.24490017144530155
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001497,Esophagus/Stomach,matrix_intact,-0.510182865863256
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001500,Esophagus/Stomach,matrix_intact,-0.6610350503846398
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001517,Uterus,damaging,-0.875810838442692
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001542,Head and Neck,matrix_intact,-0.18378526808577555
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001544,Esophagus/Stomach,matrix_intact,-0.7589490205890709
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001603,Peripheral Nervous System,matrix_intact,-0.369488797534072
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001605,CNS/Brain,matrix_intact,-0.44621405640882117
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001606,CNS/Brain,matrix_intact,-0.4191937839842783
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001625,Head and Neck,matrix_intact,-0.9032743773073441
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001626,Head and Neck,matrix_intact,-0.19682638916074535
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001630,Ovary/Fallopian Tube,damaging,-0.16246324617783256
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001632,Ovary/Fallopian Tube,matrix_intact,-0.28621364869253435
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001639,Lymphoid,matrix_intact,-0.1263185252050526
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001654,Esophagus/Stomach,matrix_intact,-0.37827627074824344
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001674,Peripheral Nervous System,matrix_intact,-0.43594035358379973
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001715,Bone,matrix_intact,-0.5580827449750886
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001819,Breast,matrix_intact,0.5072516871453997
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-001820,Breast,matrix_intact,-0.31506402135815803
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002029,Head and Neck,matrix_intact,-0.4060961665753758
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002043,Head and Neck,matrix_intact,-0.6364367839569346
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002045,Head and Neck,matrix_intact,-0.196106652703829
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002083,Peripheral Nervous System,matrix_intact,-1.0332229813926077
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002105,Bone,matrix_intact,-0.36052937244808464
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002106,Bone,matrix_intact,-0.37666642210189183
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002109,Bone,matrix_intact,-0.47147120687721267
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002110,Bone,matrix_intact,-0.45461414066043426
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002114,Bone,matrix_intact,-0.7275978367665082
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002116,Bone,matrix_intact,-0.45742901656119545
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002119,Bone,matrix_intact,-0.8459621279291717
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002140,Ovary/Fallopian Tube,matrix_intact,-0.7801436598003155
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002141,Esophagus/Stomach,matrix_intact,-0.33557149522379776
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002143,Skin,matrix_intact,-0.16910362349493377
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002150,Kidney,matrix_intact,-0.49328721283627525
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002156,Lung,matrix_intact,-0.4290153019932077
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002160,Bone,matrix_intact,-0.29002943906302153
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002161,Esophagus/Stomach,matrix_intact,-0.6506873108281445
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002179,Breast,matrix_intact,-0.11747462139572441
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002181,Ovary/Fallopian Tube,matrix_intact,-0.6271989425361426
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002183,Ovary/Fallopian Tube,matrix_intact,-0.44965772500591683
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002186,Pancreas,matrix_intact,-0.09673647301438391
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002189,Kidney,matrix_intact,-0.43064760503485816
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002198,Other,matrix_intact,-0.803166583408571
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002202,Esophagus/Stomach,matrix_intact,-0.40582082368917277
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002210,Myeloid,matrix_intact,-0.9766079897422323
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002212,Head and Neck,matrix_intact,-0.10945872174832931
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002228,CNS/Brain,matrix_intact,-0.17747926499230893
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002229,CNS/Brain,matrix_intact,-0.9594302197191635
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002230,CNS/Brain,matrix_intact,-0.5770606942368728
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002233,Bowel,matrix_intact,0.1313168493061098
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002234,Head and Neck,matrix_intact,-0.8821174080174526
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002239,Head and Neck,matrix_intact,-0.42107579226575814
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002243,Esophagus/Stomach,matrix_intact,-0.6521050389798037
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002247,Myeloid,matrix_intact,-1.8687316735972745
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002249,Head and Neck,matrix_intact,-0.5417788912107925
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002250,Head and Neck,matrix_intact,-0.7093790018821341
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002251,Head and Neck,matrix_intact,-0.6155361561607227
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002257,CNS/Brain,matrix_intact,-0.6624906676645328
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002261,Peripheral Nervous System,matrix_intact,-0.3699960082976934
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002263,Esophagus/Stomach,matrix_intact,-0.4458301131845168
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002265,Head and Neck,matrix_intact,-0.7268054083915114
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002269,CNS/Brain,matrix_intact,-0.3348394626345126
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002278,Peripheral Nervous System,matrix_intact,-0.7178645844281863
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002280,Peripheral Nervous System,matrix_intact,-0.24111054977811305
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002282,Peripheral Nervous System,matrix_intact,-0.5308894634676138
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002283,Peripheral Nervous System,matrix_intact,-0.17720138778238062
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002284,Peripheral Nervous System,matrix_intact,0.06616043964388348
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002285,Peripheral Nervous System,matrix_intact,-0.24099851236205336
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002294,Head and Neck,matrix_intact,-1.2778157099328336
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002295,Head and Neck,matrix_intact,-0.5321632869635798
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002296,Head and Neck,matrix_intact,-0.09112770544509441
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002297,Head and Neck,matrix_intact,-0.643132020580692
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002298,Head and Neck,matrix_intact,-0.1702130629502021
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002304,CNS/Brain,matrix_intact,-0.49620805313183697
+BRCA1_or_BRCA2_damaging_to_POLQ,KY,ACH-002305,Head and Neck,matrix_intact,-1.323593327839502
