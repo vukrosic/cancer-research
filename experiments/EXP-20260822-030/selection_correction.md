@@ -5,7 +5,7 @@ access. It detected that the planning receipt had reused EXP029's simulated
 power values (`0.6464` for Avana and `0.4469` for KY) while EXP030 had already
 sealed new planning seeds (`20263000` and `20263100`). The endpoint header was
 verified during selection, but no CIP2A score value was opened; the original
-`error_receipt.json` records `endpoint_opened: false`.
+`t0_error_receipt.json` records `endpoint_opened: false`.
 
 The outcome-free planning simulation was recomputed with the sealed EXP030
 seeds. The corrected values are `0.6686` for Avana and `0.4355` for KY. The

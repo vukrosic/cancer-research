@@ -1,0 +1,176 @@
+{
+  "analysis_label": "FEASIBILITY_ONLY",
+  "analysis_type": "preregistered_source_specific_lineage_stratified_brca12_cip2a_transport_replication",
+  "artifact_receipt_sha256": {
+    "context_ledger.csv": "34c142633cd4f9070a062ab6a501da5e575e555e9aa19f078120d0756153cb70",
+    "design_sensitivity.csv": "638c33df6c667698b771c4eea4f7b3d66868b80efd29fa936a9b221f511b33a2",
+    "endpoint_scores.csv": "f429f097a4211f5f852c00d75228b2652156d466ffd4aa4ec418456a06395702",
+    "inference.csv": "900e5acb2920ee0d8c0c93d1a5610fde4870f1dd16ec747161bc609612f23c0d",
+    "summary.json": "4dca3f078addb236a98dcda123073a41b5d4cbbd58e97649b2f207ce5a5fe2af"
+  },
+  "claim_boundary": "composite BRCA1-or-BRCA2 damaging-matrix proxy association with source-specific CIP2A dependency in frozen 23Q4 cell-line screen cohorts; no biallelic BRCA-loss, HRD, functional-status, causal, pharmacologic, treatment, clinical, or confirmatory claim",
+  "claim_eligibility": {
+    "design_sensitivity_label": "FEASIBILITY_ONLY",
+    "nominal_primary_gates_pass": false,
+    "primary_confirmatory": false
+  },
+  "confirmatory_claim": false,
+  "context_receipt": {
+    "canonical_roster_sha256": "058842fec2d6750661de8d3109950f7e6376456baa564b5bd3cb49697fa3d083",
+    "composite_rule": "damaging if either BRCA1 or BRCA2 matrix value is 1 or 2; matrix_intact if both values are 0",
+    "context_ledger_sha256": "34c142633cd4f9070a062ab6a501da5e575e555e9aa19f078120d0756153cb70",
+    "damaging_sha256": "aea4d970c0876afb90d2dc0e2709ff28be5a84e4e246f3a5a31faaba0fbc47e3",
+    "eligible_screens": 1292,
+    "eligible_source_models": {
+      "Avana": 975,
+      "KY": 315
+    },
+    "mixed_lineages": {
+      "Avana": 16,
+      "KY": 8
+    },
+    "model_sha256": "6b77a73209ce3faaa7442dbd947d8e08ddcb08b538c36fe820163f9cff321341",
+    "screen_map_sha256": "1e2bf9075600cd049dafc385866991523c65806657f3c8bd71afde3fe00ee9ad",
+    "screen_qc_sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407",
+    "status_column": "BRCA1_or_BRCA2_composite",
+    "status_columns": [
+      "BRCA1 (672)",
+      "BRCA2 (675)"
+    ],
+    "status_counts": {
+      "Avana": {
+        "damaging": 46,
+        "matrix_intact": 929
+      },
+      "KY": {
+        "damaging": 25,
+        "matrix_intact": 290
+      }
+    },
+    "status_threshold": 1,
+    "unique_model_ids": 1098
+  },
+  "design_sensitivity": {
+    "all_primary_sources_power_adequate": false,
+    "confirmatory_claim_enabled": false,
+    "design_sensitivity_sha256": "638c33df6c667698b771c4eea4f7b3d66868b80efd29fa936a9b221f511b33a2",
+    "frozen_label": "FEASIBILITY_ONLY",
+    "minimum_confirmatory_power": 0.8
+  },
+  "endpoint_receipt": {
+    "eligible_screens_expected": 1292,
+    "eligible_screens_seen": 1292,
+    "median_collapse": true,
+    "model_values": 1290,
+    "sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721"
+  },
+  "experiment_id": "EXP-20260822-030",
+  "implementation_receipt": {
+    "engine_module": "src/candrel/tp53_mdm2_replication.py",
+    "implementation_commit": "d29e368",
+    "implementation_module": "src/candrel/brca12_cip2a_replication.py",
+    "manifest_path": "experiments/EXP-20260822-030/manifest.json",
+    "required_base_commit": "bfebf4b",
+    "uv_lock_sha256": "d09301a2eff28d69c3e0b504d4cdae5ed21c1e451efb92e60f360ebf047106dd"
+  },
+  "inference_receipt": {
+    "bootstrap_interval": "percentile_95_linear_quantile",
+    "bootstraps": 10000,
+    "cross_source_raw_score_comparison": false,
+    "design_seeds": {
+      "Avana": 20263000,
+      "KY": 20263100
+    },
+    "inference_seeds": {
+      "Avana": 20273000,
+      "KY": 20273100
+    },
+    "permutations": 100000,
+    "unit": "collapsed_source_model_id"
+  },
+  "overall_pass": false,
+  "pre_endpoint_receipt": {
+    "context_ledger_sha256": "34c142633cd4f9070a062ab6a501da5e575e555e9aa19f078120d0756153cb70",
+    "design_sensitivity_sha256": "638c33df6c667698b771c4eea4f7b3d66868b80efd29fa936a9b221f511b33a2",
+    "experiment_id": "EXP-20260822-030",
+    "receipt_sha256": "c3e674ab7debc991c01ea3f8cf0c5b6ef9431b7aa902ea740b44434c8e9730e9",
+    "sealed_before_endpoint": true
+  },
+  "primary": [
+    {
+      "bootstrap_ci_95_percentile": [
+        -0.45102639296187685,
+        -0.18237536656891537
+      ],
+      "bootstrap_repeats": 10000,
+      "delta": -0.3196480938416422,
+      "gates": {
+        "at_least_5_negative_lineages": true,
+        "bootstrap_upper_lt_0": true,
+        "delta_le_minus_0_20": true,
+        "delta_lt_0": true,
+        "no_lineage_delta_gt_plus_0_20": false,
+        "permutation_p_le_0_05": true
+      },
+      "lineage_deltas": {
+        "Biliary Tract": -1.0,
+        "Bowel": -0.2132132132132132,
+        "Breast": -0.7789473684210526,
+        "CNS/Brain": -0.4444444444444444,
+        "Cervix": -1.0,
+        "Esophagus/Stomach": -0.38235294117647056,
+        "Eye": -0.14285714285714285,
+        "Head and Neck": 0.23076923076923078,
+        "Kidney": -1.0,
+        "Lung": 0.10091743119266056,
+        "Myeloid": 0.0,
+        "Ovary/Fallopian Tube": -0.3789173789173789,
+        "Pancreas": 0.21052631578947367,
+        "Peripheral Nervous System": -0.8666666666666667,
+        "Testis": 1.0,
+        "Uterus": -0.018633540372670808
+      },
+      "pair_count": 1705,
+      "pair_id": "BRCA1_or_BRCA2_damaging_to_CIP2A",
+      "pass": false,
+      "permutation_extreme_count": 58,
+      "permutation_p_one_sided_lower": 0.0005899941000589994,
+      "permutation_repeats": 100000,
+      "source": "Avana"
+    },
+    {
+      "bootstrap_ci_95_percentile": [
+        -0.46110056925996207,
+        0.03984819734345351
+      ],
+      "bootstrap_repeats": 10000,
+      "delta": -0.2144212523719165,
+      "gates": {
+        "at_least_5_negative_lineages": true,
+        "bootstrap_upper_lt_0": false,
+        "delta_le_minus_0_20": true,
+        "delta_lt_0": true,
+        "no_lineage_delta_gt_plus_0_20": false,
+        "permutation_p_le_0_05": false
+      },
+      "lineage_deltas": {
+        "Bowel": -0.2840909090909091,
+        "Breast": -0.18181818181818182,
+        "Esophagus/Stomach": -0.15789473684210525,
+        "Lung": 0.02702702702702703,
+        "Ovary/Fallopian Tube": -0.2987012987012987,
+        "Pancreas": -0.23809523809523808,
+        "Prostate": 1.0,
+        "Uterus": 0.6666666666666666
+      },
+      "pair_count": 527,
+      "pair_id": "BRCA1_or_BRCA2_damaging_to_CIP2A",
+      "pass": false,
+      "permutation_extreme_count": 6156,
+      "permutation_p_one_sided_lower": 0.06156938430615694,
+      "permutation_repeats": 100000,
+      "source": "KY"
+    }
+  ],
+  "status": "FEASIBILITY_ONLY_NOMINAL_GATE_FAILURE"
+}
