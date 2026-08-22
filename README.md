@@ -21,7 +21,7 @@ uncertainty and artifact controls?
 
 ## Current phase
 
-Eleven bounded experiments are complete:
+Twelve bounded experiments are complete:
 
 - `EXP-20260822-001` passed the API engineering gate: all eight frozen genes had 177
   paired Broad/Sanger models and positive source correlations.
@@ -75,6 +75,11 @@ Eleven bounded experiments are complete:
   `5.55e-17`) and resolved all three EXP-010 mismatch identities without introducing
   a new one. This establishes only the aggregation rule in the frozen subset; it
   does not retroactively repair EXP-010 or answer guide-omission robustness.
+- `EXP-20260822-012` failed its preregistered single-guide robustness criterion:
+  only 5/10 previously flagged cross-source WRN gaps stayed flagged under all nine
+  global omissions, versus the required 8/10. The complete audit includes 1,030
+  screen/configuration rows, 340 paired-model rows, and no inferential or causal
+  guide claim.
 
 A label-only provenance audit found that the CRC-only cohort has only 7 MSI Broad
 models, below the independently proposed minimum of 8. That CRC-only gate remains a
@@ -94,6 +99,7 @@ uv run candrel-control-discordance  # expected exit 2; primary control panel fai
 uv run candrel-sequence-inclusion-asymmetry  # expected exit 2; inclusion audit failed
 uv run candrel-wrn-guide-loo  # expected exit 1; frozen baseline reconstruction failed
 uv run candrel-wrn-sequence-semantics  # expected pass; 103-score semantics audit
+uv run candrel-wrn-guide-loo-passing  # expected exit 2; 5/10 robustness criterion failed
 ```
 
 Raw API responses are cached under `data/raw/` and excluded from Git. Every run

@@ -1,0 +1,136 @@
+{
+  "adequacy": {
+    "adequate": true,
+    "denominator_records": 103,
+    "eligible_guides": {
+      "Avana": [
+        "AGAAAACCTCAATAGTGGCA",
+        "CTAACATTGAGACTGAACTG",
+        "GTAGCAGTAAGTGCAACGAT",
+        "TCTTCCATCAGAGAAATAAG"
+      ],
+      "KY": [
+        "GCACGTACATAAGCATCAG",
+        "GTCTATCCGCTGTAGCAAT",
+        "TAGCAGTAAGTGCAACGAT",
+        "TAGCATGAGTCTATCAGAT",
+        "TGGAGTTACGTATACAATC"
+      ]
+    },
+    "exp005_baseline_gate": {
+      "absolute_tolerance": 1e-08,
+      "locked_flagged_models": 10,
+      "maximum_gap_discrepancy": 0.0,
+      "maximum_percentile_discrepancy": 0.0,
+      "maximum_score_discrepancy": 5.551115123125783e-17,
+      "paired_models": 34,
+      "passed": true
+    },
+    "official_baseline_gate": {
+      "absolute_tolerance": 1e-08,
+      "comparisons": 103,
+      "maximum_absolute_discrepancy": 5.551115123125783e-17,
+      "passed": true,
+      "passing_comparisons": 103,
+      "relative_tolerance": 0
+    },
+    "paired_models": 34,
+    "parent_ledger_gate": {
+      "maximum_official_score_drift": 0.0,
+      "maximum_reconstructed_score_drift": 0.0,
+      "passed": true,
+      "rows": 103
+    },
+    "retained_passing_sequence_columns": {
+      "Avana": 115,
+      "KY": 167
+    }
+  },
+  "analysis_type": "preregistered_deterministic_same_assay_single_guide_robustness_after_endpoint_unsealing",
+  "artifact_receipt_sha256": {
+    "configurations.csv": "6d0bd64fe602c9203775c0b17225278190ef43bcb28676df0ec3b07c604f2940",
+    "model_configuration_gaps.csv": "6e6c804fa69dc0458bc1e8dbf10eb6de85fb8645d546055c55631334109704be",
+    "model_robustness.csv": "5b9a41c7794b88694a4e95de44509085555cc90fa179a1b72051ade8427ba387",
+    "reconstructed_guide_means.csv": "6011fab5a99a56cda3c972e12da7f6faa6e52796aa90ad74ca8e7cc8e4cd0a73",
+    "screen_configuration_ledger.csv": "2c6463fc9758dc1b900321f3fd36bcab1bad52b61a409cfe4cb50db64ba60533",
+    "summary.json": "41ebd91b96542f90a3d39b55bd86e9095df38efcdb197c91f188465abb867710"
+  },
+  "claim_boundary": "frozen same-assay passing-sequence single-guide robustness only",
+  "configurations": {
+    "avana_omissions": 4,
+    "baseline_plus_omissions": 10,
+    "ky_omissions": 5,
+    "single_guide_omissions": 9
+  },
+  "experiment_id": "EXP-20260822-012",
+  "input_receipt": {
+    "avana_guide_map_sha256": "5580f89d2bbd26d25cf107c6441dcc30774a333385e104e83e1212ca16ec99a2",
+    "denominator_file_sha256": "072dd2775d4e3bfaa480cd70639cc799c1e5914b2e9cc5213328383557680654",
+    "gap_file_sha256_after_baseline_gates": "f2dc22d9c26f937413b612ae4924f1965c837e480a805c1ff0b7b0c5d8b3cd4a",
+    "ky_guide_map_sha256": "23bafc0d2f88b25727af8e2f5d0245495c39243163fb465ceffc9755c012c4b0",
+    "large_lfc": {
+      "Avana": {
+        "guide_rows": 4,
+        "md5": "58b1f479091a9f8b3e858d69d55413c4",
+        "retained_sequence_columns": 115,
+        "sha256": "f018d7ff6820af6d0bb095f1e2b405ec31d7a744a1e4c019cfd9f3509e63bdee",
+        "size": 3173505617
+      },
+      "KY": {
+        "guide_rows": 5,
+        "md5": "c711c9413b63fe7c55b734e43cdeca91",
+        "retained_sequence_columns": 167,
+        "sha256": "5b03df4b4affda1f0ed36f2bd564e1cbd53ec443b20e60295cad577677874767",
+        "size": 1585769082
+      }
+    },
+    "naive_file_sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721",
+    "naive_file_sha256_recomputed_during_extraction": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721",
+    "parent_audit_sha256": "d4be1b9d2d314db6de59bfb1805af98af9d9a033e8419b46bde6e49e622b7ee6",
+    "parent_implementation_sha256": "22538414d2cafa94215354e6af9087d47afbd38d6f897f34f13b68ea7f93b3e4",
+    "parent_ledger_sha256": "29eb728f0b05e1ff4838f1a4012a5bf76f577bee92986380c0f9c9d9f7b73354",
+    "parent_manifest_sha256": "54f5c13ed17de783275c46b7442d6bd41a199acc269134528d568210ebfe1042",
+    "parent_preregistration_sha256": "d95cdfda5cdad1e4f7a223dc9cd4e31da3cad90c38f7953d4f27609a6d381272",
+    "parent_result_sha256": "ccd1e33dc2c764b0f8cd229f63ed7cb63c4534b6831349b0ba9467834e599dd1",
+    "parent_summary_sha256": "f1df2711856ea08ba166c18436ea96c799c6494c5cf069f5cb71c1f6a0ed5b9a",
+    "qc_file_sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407",
+    "sequence_map_sha256": "e4b99b4a6cd48c3957c5ada2abeeed1e1de319fe26526e76de6088ec73704c0b"
+  },
+  "interpretation_receipt": {
+    "confidence_intervals_computed": 0,
+    "dependent_deterministic_perturbations": true,
+    "guide_quality_or_causal_claim_supported": false,
+    "multi_guide_robustness_tested": false,
+    "p_values_computed": 0
+  },
+  "ordering_sensitivity": {
+    "baseline_equal_tissue_theta": 0.5790913398452961,
+    "maximum_perturbed_theta": 0.6356495181766879,
+    "minimum_perturbed_theta": 0.45316986228026923
+  },
+  "overall_pass": false,
+  "primary": {
+    "avana_all_omissions_robust_models": 6,
+    "fully_robust_flagged_models": 5,
+    "ky_all_omissions_robust_models": 6,
+    "locked_baseline_flagged_models": 10,
+    "minimum_fully_robust_required": 8,
+    "possible_unflagged_configuration_transitions": 216,
+    "primary_pass": false,
+    "total_unflagged_to_flagged_transitions": 26,
+    "unique_baseline_unflagged_becoming_flagged": 10,
+    "unique_transition_model_ids": [
+      "ACH-000252",
+      "ACH-000291",
+      "ACH-000308",
+      "ACH-000421",
+      "ACH-000524",
+      "ACH-000584",
+      "ACH-000719",
+      "ACH-000906",
+      "ACH-000950",
+      "ACH-001630"
+    ]
+  },
+  "status": "FAIL_SINGLE_GUIDE_ROBUSTNESS"
+}
