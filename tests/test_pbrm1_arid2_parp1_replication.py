@@ -15,3 +15,4 @@ def test_experiment_contract() -> None:
 def test_composite_loader_is_bound_to_two_columns() -> None:
     assert module.base._load_composite_status_matrix is module._load_composite_status_matrix
     assert module.base.STATUS_LABEL == "PBRM1_or_ARID2_composite"
+    assert module.base.load_context is module._load_context

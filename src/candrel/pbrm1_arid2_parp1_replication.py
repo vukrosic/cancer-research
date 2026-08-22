@@ -164,10 +164,20 @@ def _run(args: argparse.Namespace, stage: Path) -> dict[str, object]:
     return result
 
 
+_ORIGINAL_LOAD_CONTEXT = base.load_context
+
+
+def _load_context(qc_path: Path, screen_map_path: Path, model_path: Path, damaging_path: Path):
+    contexts, receipt = _ORIGINAL_LOAD_CONTEXT(qc_path, screen_map_path, model_path, damaging_path)
+    receipt["composite_rule"] = "damaging if either PBRM1 or ARID2 matrix value is 1 or 2; matrix_intact if both values are 0"
+    return contexts, receipt
+
+
 _configure_base()
 base._load_composite_status_matrix = _load_composite_status_matrix
 base.verify_implementation_boundary = _verify_manifest
 base.write_context_ledger = _write_context_ledger
+base.load_context = _load_context
 base._ORIGINAL_RUN = base.run
 base.run = _run
 
