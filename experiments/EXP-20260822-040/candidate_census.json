@@ -1,0 +1,78 @@
+{
+  "census_id": "EXP040-candidate-shortlist-20260822",
+  "census_at": "2026-08-22T23:59:30+0200",
+  "purpose": "Outcome-free selection of a distinct NF1-proxy-to-LAMTOR1 dependency direction",
+  "endpoint_values_opened": false,
+  "endpoint_access": "ScreenNaiveGeneScore.csv header identity only; no LAMTOR1 score row or target value parsed",
+  "eligibility_rule": "PassesQC == True, CanInclude == True, Library in {Avana, KY}, exact ScreenID-to-ModelID map, nonblank eligible OncotreeLineage",
+  "status_rule": "NF1 damaging matrix value is 1 or 2 for exposure; NF1 matrix value 0 is the reference",
+  "selection_basis": "A primary CRISPR-coupled affinity-purification/mass-spectrometry study reports that NF1-deficient cells become dependent on LAMTOR1 and hyperactive mTOR signaling. The frozen experiment tests transport of this NF1-to-LAMTOR1 genetic dependency direction across two independent DepMap screen families. It cannot claim NF1 protein loss, RAS state, mTOR pharmacology, or clinical benefit.",
+  "distinctness_contract": {
+    "prior_experiments": ["EXP-20260822-001", "EXP-20260822-002", "EXP-20260822-003", "EXP-20260822-004", "EXP-20260822-005", "EXP-20260822-006", "EXP-20260822-007", "EXP-20260822-008", "EXP-20260822-009", "EXP-20260822-010", "EXP-20260822-011", "EXP-20260822-012", "EXP-20260822-013", "EXP-20260822-014", "EXP-20260822-015", "EXP-20260822-016", "EXP-20260822-017", "EXP-20260822-018", "EXP-20260822-019", "EXP-20260822-020", "EXP-20260822-021", "EXP-20260822-022", "EXP-20260822-023", "EXP-20260822-024", "EXP-20260822-025", "EXP-20260822-026", "EXP-20260822-027", "EXP-20260822-028", "EXP-20260822-029", "EXP-20260822-030", "EXP-20260822-031", "EXP-20260822-032", "EXP-20260822-033", "EXP-20260822-034", "EXP-20260822-035", "EXP-20260822-036", "EXP-20260822-037", "EXP-20260822-038", "EXP-20260822-039"],
+    "prior_pairs_excluded": ["STAG2_damaging_to_STAG1", "PDS5B_damaging_to_PDS5A", "ARID1A_damaging_to_ARID1B", "ARID1A_damaging_to_KEAP1", "TP53_matrix_intact_to_MDM2", "CDKN2A_damaging_to_TYMS", "PTEN_damaging_to_PIK3CB", "TP53_damaging_to_WEE1", "NF1_damaging_to_PTPN11", "EP300_damaging_to_CREBBP", "APC_damaging_to_TDO2", "KMT2D_damaging_to_KMT2C", "CDKN2A_damaging_to_PELO", "PTEN_damaging_to_PAPSS1", "ARID1A_damaging_to_EZH2", "TP53_damaging_to_TIPARP", "BRCA1_or_BRCA2_damaging_to_POLQ", "BRCA1_or_BRCA2_damaging_to_CIP2A", "SMAD4_damaging_to_BRD4", "SMAD4_damaging_to_AURKA", "ARID1A_damaging_to_ATR", "TP53_damaging_to_TDG", "TP53_damaging_to_ENDOD1", "RB1_damaging_to_SKP2", "CDKN2A_damaging_to_MAT2A", "PTEN_damaging_to_ICMT", "PBRM1_or_ARID2_damaging_to_PARP1"],
+    "current_pair": "NF1_damaging_to_LAMTOR1",
+    "endpoint_gene_changed": true,
+    "status_gene_changed": false
+  },
+  "inputs": {
+    "screen_qc_sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407",
+    "screen_map_sha256": "1e2bf9075600cd049dafc385866991523c65806657f3c8bd71afde3fe00ee9ad",
+    "model_sha256": "6b77a73209ce3faaa7442dbd947d8e08ddcb08b538c36fe820163f9cff321341",
+    "damaging_matrix_sha256": "aea4d970c0876afb90d2dc0e2709ff28be5a84e4e246f3a5a31faaba0fbc47e3",
+    "endpoint_sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721",
+    "status_column": "NF1 (4763)",
+    "endpoint_target_column": "LAMTOR1 (55004)"
+  },
+  "frozen_context": {
+    "eligible_screens": 1292,
+    "source_model_counts": {"Avana": 975, "KY": 315},
+    "status_counts": {"Avana": {"damaging": 57, "matrix_intact": 918}, "KY": {"damaging": 21, "matrix_intact": 294}},
+    "mixed_lineages": {"Avana": 15, "KY": 9},
+    "minimum_exposed_models_per_source": 20,
+    "minimum_reference_models_per_source": 50,
+    "minimum_mixed_lineages_per_source": 5,
+    "canonical_roster_sha256": "8c3229c5925e533688a9efb8979700d1f2d379a760d0672544a61073a8bfc375"
+  },
+  "candidate_shortlist": [
+    {
+      "status_gene": "NF1",
+      "status_column": "NF1 (4763)",
+      "target_gene": "LAMTOR1",
+      "target_alias": "late endosomal/lysosomal adaptor, mitogenic signaling 1",
+      "target_column": "LAMTOR1 (55004)",
+      "exposure_definition": "NF1 damaging matrix value >= 1; reference value 0",
+      "Avana": {"damaging": 57, "matrix_intact": 918, "mixed_lineages": 15, "planning_power": 0.7192},
+      "KY": {"damaging": 21, "matrix_intact": 294, "mixed_lineages": 9, "planning_power": 0.4014},
+      "decision": "selected_distinct_primary_NF1_LAMTOR1_mTOR_direction_with_executable_two_source_context_but_permanent_feasibility_only_label",
+      "primary_source": "https://pubmed.ncbi.nlm.nih.gov/28174230/"
+    },
+    {
+      "status_gene": "NF1",
+      "status_column": "NF1 (4763)",
+      "target_gene": "BRAF",
+      "target_column": "BRAF (673)",
+      "exposure_definition": "same NF1 damaging matrix proxy",
+      "Avana": {"damaging": 57, "matrix_intact": 918, "mixed_lineages": 15},
+      "KY": {"damaging": 21, "matrix_intact": 294, "mixed_lineages": 9},
+      "decision": "not_selected_resistance_literature_and_target_direction_reserved_without_endpoint_access",
+      "primary_source": "https://pubmed.ncbi.nlm.nih.gov/23288408/"
+    }
+  ],
+  "design_model": {
+    "normal_mean_shift": -0.358286909243,
+    "null_permutations": 100000,
+    "alternative_simulations": 10000,
+    "planning_power_seeds": {"Avana": 20264000, "KY": 20264100},
+    "inference_seeds": {"Avana": 20274000, "KY": 20274100},
+    "canonical_roster_sha256": "8c3229c5925e533688a9efb8979700d1f2d379a760d0672544a61073a8bfc375",
+    "critical_quantile": "numpy_linear_05",
+    "rejection_rule": "alternative_delta <= critical_delta",
+    "confirmatory_power_threshold": 0.8,
+    "frozen_label": "FEASIBILITY_ONLY"
+  },
+  "literature_search": {
+    "searched_at": "2026-08-22",
+    "primary_sources": ["https://pubmed.ncbi.nlm.nih.gov/28174230/", "https://pubmed.ncbi.nlm.nih.gov/23288408/"],
+    "selection_note": "The primary CRISPR-coupled affinity-purification/mass-spectrometry study reports that NF1-deficient cells become dependent on LAMTOR1 and hyperactive mTOR signaling. The BRAF alternative was reserved because its source focuses on resistance to RAF inhibition rather than a direct genetic dependency claim. The current NF1/LAMTOR1 direction is permanently feasibility-only because KY planning power is 0.4014."
+  }
+}
