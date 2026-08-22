@@ -6,7 +6,7 @@
   "inputs": {
     "endpoint": {"path": "data/raw/depmap/23q4/ScreenNaiveGeneScore.csv", "sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721", "target_column": "PARP1 (142)"},
     "screen_qc": {"path": "data/raw/depmap/23q4/AchillesScreenQCReport.csv", "sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407"},
-    "screen_map": {"path": "data/raw/depmap/23q4/CRISPRScreenMap.csv", "sha256": "1e2bf9075600cd049dafc385866991523c65806657c3f8bd71afde3fe00ee9ad"},
+    "screen_map": {"path": "data/raw/depmap/23q4/CRISPRScreenMap.csv", "sha256": "1e2bf9075600cd049dafc385866991523c65806657f3c8bd71afde3fe00ee9ad"},
     "model": {"path": "data/raw/depmap/23q4/Model.csv", "sha256": "6b77a73209ce3faaa7442dbd947d8e08ddcb08b538c36fe820163f9cff321341"},
     "damaging_matrix": {"path": "data/raw/depmap/23q4/OmicsSomaticMutationsMatrixDamaging.csv", "sha256": "aea4d970c0876afb90d2dc0e2709ff28be5a84e4e246f3a5a31faaba0fbc47e3", "status_columns": ["PBRM1 (55193)", "ARID2 (196528)"]}
   },
@@ -22,7 +22,7 @@
   },
   "candidate_census": {"path": "experiments/EXP-20260822-039/candidate_census.json", "sha256": "92516b61012e4062793f7fe0c902a9f3894c3a94aa2eb8326308673fec43d8d2", "canonical_roster_sha256": "6ab143e99b7d58d82a1b1e22b9948aacc5944ebe6daabe448505cd8735188af4"},
   "design_receipt": {"path": "experiments/EXP-20260822-039/design_census_receipt.json", "sha256": "3e3fc49dd87358ef979108501b74a9336c670c4e3fb01f3c5d4458fb5c123121", "canonical_roster_sha256": "6ab143e99b7d58d82a1b1e22b9948aacc5944ebe6daabe448505cd8735188af4"},
-  "selection_seal": {"path": "experiments/EXP-20260822-039/selection_seal.json", "sha256": "e45d924ae8c5c8f7f49faeb5410148996912398e7a7672b5ddf996137113c729", "sealed_before_endpoint_access": true, "protocol_commit": "1fd72544be7a09d6c9d21bee9a4cf6a04c864b5a"},
+  "selection_seal": {"path": "experiments/EXP-20260822-039/selection_seal.json", "sha256": "3c5d7602178c31981fcb64f927a4a2a978a4b822679219328369c2cbe6a2dd63", "sealed_before_endpoint_access": true, "protocol_commit": "1fd72544be7a09d6c9d21bee9a4cf6a04c864b5a"},
   "design_sensitivity": {
     "mean_shift": -0.358286909243,
     "null_permutations": 100000,
@@ -46,12 +46,12 @@
   "uv_lock_sha256": "d09301a2eff28d69c3e0b504d4cdae5ed21c1e451efb92e60f360ebf047106dd",
   "implementation_boundary": {
     "required_base_commit": "037c6d5872f24ef9a4e458fd6e8248b3aa046c57",
-    "implementation_commit": "3667d5054fa33e39532e9bc9d323cdc8fa380047",
+    "implementation_commit": "15dd90b402218c862086ddfa0aa66a7d543d25fd",
     "implementation_module": "src/candrel/pbrm1_arid2_parp1_replication.py",
     "engine_module": "src/candrel/tp53_mdm2_replication.py",
     "project_file": "pyproject.toml",
     "modules": [
-      {"path": "src/candrel/pbrm1_arid2_parp1_replication.py", "sha256": "e2a26f205530820eefe779feca878834a86680441cf2fde62a48556119899acc"},
+      {"path": "src/candrel/pbrm1_arid2_parp1_replication.py", "sha256": "a97313706e99534afd0c19f82cf6a79b552aa5b56b8c655c86e1bd1a881b7727"},
       {"path": "src/candrel/tp53_mdm2_replication.py", "sha256": "8c2bda37783d193bd0f948d4c4cfc4608dccba49d8d0c16aeba640cbac1c4164"},
       {"path": "pyproject.toml", "sha256": "3d941c33519bcfcdba4300c703cb9419ba199317387814a1dd4ede6007e3300c"}
     ]
