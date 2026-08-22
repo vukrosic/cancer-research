@@ -2,7 +2,7 @@
   "experiment_id": "EXP-20260822-020",
   "analysis_type": "preregistered_source_specific_lineage_stratified_tp53_wee1_replication",
   "primary_pair": "TP53_damaging_status_to_WEE1_dependency",
-  "entrypoint": "uv run candrel-tp53-wee1-replication",
+  "entrypoint": ".venv/bin/python -m candrel.tp53_wee1_replication",
   "inputs": {
     "endpoint": {
       "path": "data/raw/depmap/23q4/ScreenNaiveGeneScore.csv",
@@ -87,14 +87,14 @@
   "uv_lock_sha256": "d09301a2eff28d69c3e0b504d4cdae5ed21c1e451efb92e60f360ebf047106dd",
   "implementation_boundary": {
     "required_base_commit": "0e195ed66248082180d4e2791b8dbea506dfb110",
-    "implementation_commit": "a63129a5db70dfd96ed543e2fabbf6b9273b1400",
+    "implementation_commit": "af37220f5000bfb71d60a39232185511275ae02d",
     "implementation_module": "src/candrel/tp53_wee1_replication.py",
     "engine_module": "src/candrel/tp53_mdm2_replication.py",
     "project_file": "pyproject.toml",
     "modules": [
       {
         "path": "src/candrel/tp53_wee1_replication.py",
-        "sha256": "f0935db8b79d7b686d2bf20c83338ef8c64d0e0c2c19b8a809cc9148d0e082cc"
+        "sha256": "bb1f18796a4052478947123db0da11608eb6fec505bda2768870f6ffda1f3ecf"
       },
       {
         "path": "src/candrel/tp53_mdm2_replication.py",
@@ -102,7 +102,7 @@
       },
       {
         "path": "pyproject.toml",
-        "sha256": "8610b8c5c970f4d95dbaf908944f705ac50708c599319ac6fa335ed8e9772fab"
+        "sha256": "3d941c33519bcfcdba4300c703cb9419ba199317387814a1dd4ede6007e3300c"
       }
     ]
   }
