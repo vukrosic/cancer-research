@@ -21,7 +21,7 @@ uncertainty and artifact controls?
 
 ## Current phase
 
-Thirty-four bounded experiments are complete:
+Thirty-five bounded experiments are complete:
 
 - `EXP-20260822-001` passed the API engineering gate: all eight frozen genes had 177
   paired Broad/Sanger models and positive source correlations.
@@ -244,6 +244,13 @@ Thirty-four bounded experiments are complete:
   p `0.9806`). Planning powers were `0.9951` and `0.7617`; no functional-TP53,
   TDG-inhibitor, DNA-repair, treatment, clinical, or confirmatory claim is
   permitted.
+- `EXP-20260822-035` is **T1 descriptive association only; not T2/confirmatory**
+  and is labeled **FEASIBILITY_ONLY_NOMINAL_GATE_FAILURE**. The TP53
+  damaging-matrix proxy was positive and heterogeneous for genetic ENDOD1
+  dependency in Avana (delta `+0.0121`, p `0.6002`) and KY (delta `+0.0376`,
+  p `0.6680`). Planning powers were `0.9950` and `0.7417`; no functional-TP53,
+  TP53-hotspot, ENDOD1-inhibitor, DNA-repair, treatment, clinical, or
+  confirmatory claim is permitted.
 
 A label-only provenance audit found that the CRC-only cohort has only 7 MSI Broad
 models, below the independently proposed minimum of 8. That CRC-only gate remains a
@@ -286,6 +293,7 @@ uv run python -m candrel.smad4_brd4_replication  # expected exit 2; T1 feasibili
 uv run python -m candrel.smad4_aurka_replication  # expected exit 2; T1 feasibility-only SMAD4/AURKA transport failure
 uv run python -m candrel.arid1a_atr_replication  # expected exit 2; T1 feasibility-only ARID1A/ATR transport failure
 uv run python -m candrel.tp53_tdg_replication  # expected exit 2; T1 feasibility-only TP53/TDG transport failure
+uv run python -m candrel.tp53_endod1_replication  # expected exit 2; T1 feasibility-only TP53/ENDOD1 transport failure
 ```
 
 Raw API responses are cached under `data/raw/` and excluded from Git. Every run

@@ -1,0 +1,188 @@
+{
+  "analysis_label": "FEASIBILITY_ONLY",
+  "analysis_type": "preregistered_source_specific_lineage_stratified_tp53_endod1_transport_replication",
+  "artifact_receipt_sha256": {
+    "context_ledger.csv": "1e0c419228a07a06c56b141a1e4eb44a911ef624d3f476fb97705d9352c6967f",
+    "design_sensitivity.csv": "bbb2bbd5e4078f49631838d266f286e78a6a5bc0b61371d661e15ed33d915f7d",
+    "endpoint_scores.csv": "fc8c08f615ddc87f23ba0262e9637b6a45f399e3178f79162b7d69394b8daa88",
+    "inference.csv": "a048c0d2ec211f45520ae6656fadd24e0e719efa6f3ea879ca3046851daba4f6",
+    "summary.json": "cacbfb8e5df5032e7ab20aeb5e4310d66458ad20f7ce03da2da2acaa5f901c73"
+  },
+  "claim_boundary": "TP53 damaging-matrix proxy association with source-specific ENDOD1 dependency in frozen 23Q4 cell-line screen cohorts; no functional TP53-loss, TP53-mutation, ENDOD1-inhibitor, DNA-repair, causal, pharmacologic, treatment, clinical, or confirmatory claim",
+  "claim_eligibility": {
+    "design_sensitivity_label": "FEASIBILITY_ONLY",
+    "nominal_primary_gates_pass": false,
+    "primary_confirmatory": false
+  },
+  "confirmatory_claim": false,
+  "context_receipt": {
+    "canonical_roster_sha256": "61060e6ef0c24ad1bb3acc2fbe75e9ad5f8908df505d20290cbab2189557b376",
+    "context_ledger_sha256": "1e0c419228a07a06c56b141a1e4eb44a911ef624d3f476fb97705d9352c6967f",
+    "damaging_sha256": "aea4d970c0876afb90d2dc0e2709ff28be5a84e4e246f3a5a31faaba0fbc47e3",
+    "eligible_screens": 1292,
+    "eligible_source_models": {
+      "Avana": 975,
+      "KY": 315
+    },
+    "mixed_lineages": {
+      "Avana": 25,
+      "KY": 16
+    },
+    "model_sha256": "6b77a73209ce3faaa7442dbd947d8e08ddcb08b538c36fe820163f9cff321341",
+    "screen_map_sha256": "1e2bf9075600cd049dafc385866991523c65806657f3c8bd71afde3fe00ee9ad",
+    "screen_qc_sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407",
+    "status_column": "TP53 (7157)",
+    "status_counts": {
+      "Avana": {
+        "damaging": 610,
+        "matrix_intact": 365
+      },
+      "KY": {
+        "damaging": 233,
+        "matrix_intact": 82
+      }
+    },
+    "status_threshold": 1,
+    "unique_model_ids": 1098
+  },
+  "design_sensitivity": {
+    "all_primary_sources_power_adequate": false,
+    "confirmatory_claim_enabled": false,
+    "design_sensitivity_sha256": "bbb2bbd5e4078f49631838d266f286e78a6a5bc0b61371d661e15ed33d915f7d",
+    "frozen_label": "FEASIBILITY_ONLY",
+    "minimum_confirmatory_power": 0.8
+  },
+  "endpoint_receipt": {
+    "eligible_screens_expected": 1292,
+    "eligible_screens_seen": 1292,
+    "median_collapse": true,
+    "model_values": 1290,
+    "sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721"
+  },
+  "experiment_id": "EXP-20260822-035",
+  "implementation_receipt": {
+    "engine_module": "src/candrel/tp53_mdm2_replication.py",
+    "implementation_commit": "f9324f1",
+    "implementation_module": "src/candrel/tp53_endod1_replication.py",
+    "manifest_path": "experiments/EXP-20260822-035/manifest.json",
+    "required_base_commit": "3cffc90",
+    "uv_lock_sha256": "d09301a2eff28d69c3e0b504d4cdae5ed21c1e451efb92e60f360ebf047106dd"
+  },
+  "inference_receipt": {
+    "bootstrap_interval": "percentile_95_linear_quantile",
+    "bootstraps": 10000,
+    "cross_source_raw_score_comparison": false,
+    "design_seeds": {
+      "Avana": 20263500,
+      "KY": 20263600
+    },
+    "inference_seeds": {
+      "Avana": 20273500,
+      "KY": 20273600
+    },
+    "permutations": 100000,
+    "unit": "collapsed_source_model_id"
+  },
+  "overall_pass": false,
+  "pre_endpoint_receipt": {
+    "context_ledger_sha256": "1e0c419228a07a06c56b141a1e4eb44a911ef624d3f476fb97705d9352c6967f",
+    "design_sensitivity_sha256": "bbb2bbd5e4078f49631838d266f286e78a6a5bc0b61371d661e15ed33d915f7d",
+    "experiment_id": "EXP-20260822-035",
+    "receipt_sha256": "f2d72b93b6cfce9fb9ddce14d22d570286070b33507c5840a4567dae6deeb16b",
+    "sealed_before_endpoint": true
+  },
+  "primary": [
+    {
+      "bootstrap_ci_95_percentile": [
+        -0.08148301146338945,
+        0.10668181348755551
+      ],
+      "bootstrap_repeats": 10000,
+      "delta": 0.012083032118145202,
+      "gates": {
+        "at_least_5_negative_lineages": true,
+        "bootstrap_upper_lt_0": false,
+        "delta_le_minus_0_20": false,
+        "delta_lt_0": false,
+        "no_lineage_delta_gt_plus_0_20": false,
+        "permutation_p_le_0_05": false
+      },
+      "lineage_deltas": {
+        "Ampulla of Vater": 0.5,
+        "Biliary Tract": 0.08653846153846154,
+        "Bladder/Urinary Tract": -0.45185185185185184,
+        "Bone": -0.18627450980392157,
+        "Bowel": -0.38927738927738925,
+        "Breast": -0.15757575757575756,
+        "CNS/Brain": 0.1642512077294686,
+        "Cervix": 0.2857142857142857,
+        "Esophagus/Stomach": -0.13526570048309178,
+        "Eye": 0.5714285714285714,
+        "Head and Neck": -0.38509316770186336,
+        "Kidney": 0.12643678160919541,
+        "Liver": -0.42857142857142855,
+        "Lung": -0.04888888888888889,
+        "Lymphoid": 0.13564213564213565,
+        "Myeloid": 0.42735042735042733,
+        "Ovary/Fallopian Tube": -0.125,
+        "Pancreas": 0.026785714285714284,
+        "Peripheral Nervous System": 0.045454545454545456,
+        "Pleura": 0.15555555555555556,
+        "Prostate": 0.6666666666666666,
+        "Skin": 0.07962962962962963,
+        "Soft Tissue": 0.3125,
+        "Thyroid": 1.0,
+        "Uterus": 0.1746031746031746
+      },
+      "pair_count": 9683,
+      "pair_id": "TP53_damaging_to_ENDOD1",
+      "pass": false,
+      "permutation_extreme_count": 60020,
+      "permutation_p_one_sided_lower": 0.6002039979600204,
+      "permutation_repeats": 100000,
+      "source": "Avana"
+    },
+    {
+      "bootstrap_ci_95_percentile": [
+        -0.1287988422575977,
+        0.2040520984081042
+      ],
+      "bootstrap_repeats": 10000,
+      "delta": 0.03762662807525326,
+      "gates": {
+        "at_least_5_negative_lineages": true,
+        "bootstrap_upper_lt_0": false,
+        "delta_le_minus_0_20": false,
+        "delta_lt_0": false,
+        "no_lineage_delta_gt_plus_0_20": false,
+        "permutation_p_le_0_05": false
+      },
+      "lineage_deltas": {
+        "Bone": 0.38095238095238093,
+        "Bowel": 0.01,
+        "Breast": 0.8333333333333334,
+        "CNS/Brain": 0.0782608695652174,
+        "Esophagus/Stomach": -0.29464285714285715,
+        "Head and Neck": -0.06451612903225806,
+        "Kidney": -1.0,
+        "Lung": 0.4895833333333333,
+        "Lymphoid": -0.3333333333333333,
+        "Myeloid": 1.0,
+        "Ovary/Fallopian Tube": -0.35714285714285715,
+        "Pancreas": -0.2631578947368421,
+        "Peripheral Nervous System": -0.1,
+        "Prostate": 1.0,
+        "Skin": 0.5,
+        "Uterus": 0.8333333333333334
+      },
+      "pair_count": 1382,
+      "pair_id": "TP53_damaging_to_ENDOD1",
+      "pass": false,
+      "permutation_extreme_count": 66798,
+      "permutation_p_one_sided_lower": 0.6679833201667983,
+      "permutation_repeats": 100000,
+      "source": "KY"
+    }
+  ],
+  "status": "FEASIBILITY_ONLY_NOMINAL_GATE_FAILURE"
+}

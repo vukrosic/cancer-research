@@ -7,7 +7,7 @@
   "selected_pair": "TP53_damaging_to_ENDOD1",
   "selection_basis": "Distinct primary TP53/ENDOD1 mechanism with executable two-source context; KY planning power remains below the confirmatory threshold, so the experiment is permanently feasibility-only.",
   "sealed_artifacts": ["experiments/EXP-20260822-035/candidate_census.json", "experiments/EXP-20260822-035/design_census_receipt.json", "experiments/EXP-20260822-035/preregistration.md", "experiments/EXP-20260822-035/methods_audit.md"],
-  "candidate_census_sha256": "4cae9d4c7ad9392c406313475ba9e19a4ff198ef79737f86b8d732fa99e741e0",
+  "candidate_census_sha256": "524f613e3bb428934916b2e74ea249d702f849ea10984d1a72bc3a36fcbab625",
   "design_receipt_sha256": "0f78174f758f87c262710ece7dec76f8b4289e9f0b93d9ef4866f5b689435632",
   "canonical_roster_sha256": "61060e6ef0c24ad1bb3acc2fbe75e9ad5f8908df505d20290cbab2189557b376",
   "target_column": "ENDOD1 (23052)",
