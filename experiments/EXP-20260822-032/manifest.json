@@ -21,12 +21,12 @@
   "uv_lock_sha256": "d09301a2eff28d69c3e0b504d4cdae5ed21c1e451efb92e60f360ebf047106dd",
   "implementation_boundary": {
     "required_base_commit": "f248a25",
-    "implementation_commit": "8d3a697",
+    "implementation_commit": "cc9aa4a",
     "implementation_module": "src/candrel/smad4_aurka_replication.py",
     "engine_module": "src/candrel/tp53_mdm2_replication.py",
     "project_file": "pyproject.toml",
     "modules": [
-      {"path": "src/candrel/smad4_aurka_replication.py", "sha256": "1fa97df55a6adefae06dedb784b6b69d32bce5c63082c3dcf99d6f420a2f3e25"},
+      {"path": "src/candrel/smad4_aurka_replication.py", "sha256": "75010c808d5215afc9a6192e51bf93629e834b3021351f99797cbc78a4490c5a"},
       {"path": "src/candrel/smad4_brd4_replication.py", "sha256": "7e1d59ac523fef9d277d401ba42a2d489d6ce94a2b78fa6b9d07fd59c7a5a821"},
       {"path": "src/candrel/tp53_mdm2_replication.py", "sha256": "8c2bda37783d193bd0f948d4c4cfc4608dccba49d8d0c16aeba640cbac1c4164"},
       {"path": "pyproject.toml", "sha256": "3d941c33519bcfcdba4300c703cb9419ba199317387814a1dd4ede6007e3300c"}
