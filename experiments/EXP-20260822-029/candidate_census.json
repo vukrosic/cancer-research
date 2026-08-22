@@ -1,0 +1,95 @@
+{
+  "census_id": "EXP029-candidate-shortlist-20260822",
+  "census_at": "2026-08-22T21:04:07+0200",
+  "purpose": "Outcome-free selection of a distinct BRCA1/2-proxy-to-POLQ-dependency direction",
+  "endpoint_values_opened": false,
+  "endpoint_access": "ScreenNaiveGeneScore.csv header identity only; no POLQ score row or target value parsed",
+  "eligibility_rule": "PassesQC == True, CanInclude == True, Library in {Avana, KY}, exact ScreenID-to-ModelID map, nonblank eligible OncotreeLineage",
+  "status_rule": "Composite damaging proxy is 1 when BRCA1 (672) or BRCA2 (675) matrix value is 1 or 2; reference is 0 when both matrix values are 0",
+  "selection_basis": "The selected direction tests whether the BRCA1/2 synthetic-lethal POLQ dependency described in the recent SYLVER synthesis is transportable across the two frozen DepMap CRISPR source families. The composite status is an explicitly labeled matrix proxy, not a claim of biallelic loss, homologous-recombination deficiency, or functional BRCA status. Both sources clear the execution minimums, but both pre-outcome planning powers are below 0.80, so the paired experiment is permanently feasibility-only.",
+  "distinctness_contract": {
+    "prior_experiments": ["EXP-20260822-014", "EXP-20260822-015", "EXP-20260822-016", "EXP-20260822-017", "EXP-20260822-018", "EXP-20260822-019", "EXP-20260822-020", "EXP-20260822-021", "EXP-20260822-022", "EXP-20260822-023", "EXP-20260822-024", "EXP-20260822-025", "EXP-20260822-026", "EXP-20260822-027", "EXP-20260822-028"],
+    "prior_pairs_excluded": ["STAG2_damaging_to_STAG1", "PDS5B_damaging_to_PDS5A", "ARID1A_damaging_to_ARID1B", "ARID1A_damaging_to_KEAP1", "TP53_matrix_intact_to_MDM2", "CDKN2A_damaging_to_TYMS", "PTEN_damaging_to_PIK3CB", "TP53_damaging_to_WEE1", "NF1_damaging_to_PTPN11", "EP300_damaging_to_CREBBP", "APC_damaging_to_TDO2", "KMT2D_damaging_to_KMT2C", "CDKN2A_damaging_to_PELO", "PTEN_damaging_to_PAPSS1", "ARID1A_damaging_to_EZH2", "TP53_damaging_to_TIPARP"],
+    "current_pair": "BRCA1_or_BRCA2_damaging_to_POLQ",
+    "endpoint_gene_changed": true,
+    "status_gene_changed": true,
+    "status_columns": ["BRCA1 (672)", "BRCA2 (675)"]
+  },
+  "inputs": {
+    "screen_qc_sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407",
+    "screen_map_sha256": "1e2bf9075600cd049dafc385866991523c65806657f3c8bd71afde3fe00ee9ad",
+    "model_sha256": "6b77a73209ce3faaa7442dbd947d8e08ddcb08b538c36fe820163f9cff321341",
+    "damaging_matrix_sha256": "aea4d970c0876afb90d2dc0e2709ff28be5a84e4e246f3a5a31faaba0fbc47e3",
+    "endpoint_sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721",
+    "status_columns": ["BRCA1 (672)", "BRCA2 (675)"],
+    "endpoint_target_column": "POLQ (10721)"
+  },
+  "candidate_shortlist": [
+    {
+      "status_gene": "BRCA1_or_BRCA2",
+      "status_columns": ["BRCA1 (672)", "BRCA2 (675)"],
+      "target_gene": "POLQ",
+      "target_alias": "DNA polymerase theta",
+      "target_column": "POLQ (10721)",
+      "exposure_definition": "composite damaging when either BRCA1 or BRCA2 matrix value is >= 1; reference when both are 0",
+      "Avana": {"damaging": 46, "matrix_intact": 929, "mixed_lineages": 16, "planning_power": 0.6464},
+      "KY": {"damaging": 25, "matrix_intact": 290, "mixed_lineages": 8, "planning_power": 0.4469},
+      "decision": "selected_distinct_brca1_2_synthetic_lethal_polq_direction_with_executable_two_source_context_but_permanent_feasibility_only_label",
+      "primary_source": "https://www.nature.com/articles/s41588-025-02108-2"
+    },
+    {
+      "status_gene": "BRCA2",
+      "status_column": "BRCA2 (675)",
+      "target_gene": "POLQ",
+      "target_column": "POLQ (10721)",
+      "exposure_definition": "BRCA2 damaging matrix value >= 1",
+      "Avana": {"damaging": 29, "matrix_intact": 946, "mixed_lineages": 13},
+      "KY": {"damaging": 17, "matrix_intact": 298, "mixed_lineages": 8},
+      "decision": "not_selected_single_gene_KY_exposure_below_frozen_execution_minimum_of_20",
+      "primary_source": "https://www.nature.com/articles/s41588-025-02108-2"
+    },
+    {
+      "status_gene": "FOCAD",
+      "status_column": "FOCAD (54914)",
+      "target_gene": "HBS1L",
+      "target_column": "HBS1L (10767)",
+      "exposure_definition": "FOCAD damaging matrix value >= 1",
+      "Avana": {"damaging": 6, "matrix_intact": 969, "mixed_lineages": 5},
+      "KY": {"damaging": 4, "matrix_intact": 311, "mixed_lineages": 3},
+      "decision": "not_selected_matrix_proxy_exposure_inadequate_for_both_sources",
+      "primary_source": "https://www.sciencedirect.com/science/article/pii/S0167488925001752"
+    },
+    {
+      "status_gene": "CDS1",
+      "status_column": "CDS1 (1040)",
+      "target_gene": "CDS2",
+      "target_column": "CDS2 (8760)",
+      "exposure_definition": "CDS1 damaging matrix value >= 1",
+      "Avana": {"damaging": 4, "matrix_intact": 971, "mixed_lineages": 4},
+      "KY": {"damaging": 1, "matrix_intact": 314, "mixed_lineages": 1},
+      "decision": "not_selected_matrix_proxy_exposure_inadequate_and_primary_paper_anchors_low_expression_not_damaging_mutation",
+      "primary_source": "https://www.nature.com/articles/s41588-025-02221-2"
+    }
+  ],
+  "design_model": {
+    "normal_mean_shift": -0.358286909243,
+    "null_permutations": 100000,
+    "alternative_simulations": 10000,
+    "planning_power_seeds": {"Avana": 20262900, "KY": 20263000},
+    "canonical_roster_sha256": "058842fec2d6750661de8d3109950f7e6376456baa564b5bd3cb49697fa3d083",
+    "design_receipt_path": "experiments/EXP-20260822-029/design_census_receipt.json",
+    "critical_quantile": "numpy_linear_05",
+    "rejection_rule": "alternative_delta <= critical_delta",
+    "confirmatory_power_threshold": 0.8,
+    "frozen_label": "FEASIBILITY_ONLY"
+  },
+  "literature_search": {
+    "searched_at": "2026-08-22",
+    "primary_sources": [
+      "https://www.nature.com/articles/s41588-025-02108-2",
+      "https://www.nature.com/articles/s41588-025-02221-2",
+      "https://www.sciencedirect.com/science/article/pii/S0167488925001752"
+    ],
+    "selection_note": "The SYLVER study reports BRCA1/2 synthetic-lethal genes including POLQ and corroborates the direction with isogenic screens. EXP029 tests only a composite BRCA1-or-BRCA2 damaging matrix proxy against source-specific POLQ knockout dependency; it does not claim biallelic BRCA loss, HRD, functional status, pharmacologic POLQ inhibition, causal synthetic lethality, treatment benefit, or clinical utility."
+  }
+}
