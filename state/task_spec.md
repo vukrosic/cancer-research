@@ -8,8 +8,9 @@ orthogonal experimental validation.
 
 ## Current milestone
 
-Preserve and publish the audited EXP-006 negative QC-asymmetry result, then freeze a
-distinct test of a non-QC technical explanation for the largest WRN ranking gaps.
+Preserve and publish the audited EXP-007 guide-mutation adequacy failure, then freeze
+a distinct test of whether WRN discordance is model-general across control genes or
+WRN-specific.
 
 ## Program success
 

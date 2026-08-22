@@ -1,0 +1,130 @@
+{
+  "adequacy": {
+    "adequate_for_association": false,
+    "by_tissue": {
+      "Large Intestine": {
+        "mutated_any_avana": 0,
+        "mutated_any_either": 0,
+        "mutated_any_ky": 0,
+        "n": 17,
+        "nonconstant": false,
+        "unique_exposure_values": 1
+      },
+      "Ovary": {
+        "mutated_any_avana": 0,
+        "mutated_any_either": 0,
+        "mutated_any_ky": 0,
+        "n": 17,
+        "nonconstant": false,
+        "unique_exposure_values": 1
+      }
+    }
+  },
+  "analysis_type": "outcome_blind_data_availability_and_exposure_adequacy_audit",
+  "association_computed": false,
+  "claim_boundary": "guide-site mutation exposure adequacy only; no WRN-gap association",
+  "cohort_models": 34,
+  "experiment_id": "EXP-20260822-007",
+  "input_receipt": {
+    "avana_guide_map_md5": "b694af3982d70117fd6214fdd8ce2e2e",
+    "avana_guide_map_sha256": "5580f89d2bbd26d25cf107c6441dcc30774a333385e104e83e1212ca16ec99a2",
+    "avana_mutations_md5": "fa242f255113a00809019ed2e7be1ad1",
+    "avana_mutations_sha256": "6b5a4060936603642a4a2b7229e2b148728b8c8a0097f1ae0dd768588bfd6a02",
+    "cohort_file_sha256": "2bc84868962b35c55e456aeb953429206e97c9b25f648b5deabe5a1488e60b67",
+    "ky_guide_map_md5": "2ef1cb175dd2c3314edd86705a598fd5",
+    "ky_guide_map_sha256": "23bafc0d2f88b25727af8e2f5d0245495c39243163fb465ceffc9755c012c4b0",
+    "ky_mutations_md5": "7f070bb17014728216877650c8c2f088",
+    "ky_mutations_sha256": "71af643cd06b637afcae08112b02496197b2a59a4f689b07ed23f50a69accdad"
+  },
+  "overall_adequate": false,
+  "source_receipts": {
+    "Avana": {
+      "cohort_coverage": 34,
+      "eligible_wrn_guides": 4,
+      "guide_rows": [
+        {
+          "chrom": "chr8",
+          "end": 31087800,
+          "mutated_all_1750_models": 1,
+          "mutated_frozen_34_models": 0,
+          "sgRNA": "AGAAAACCTCAATAGTGGCA",
+          "start": 31087780
+        },
+        {
+          "chrom": "chr8",
+          "end": 31080954,
+          "mutated_all_1750_models": 0,
+          "mutated_frozen_34_models": 0,
+          "sgRNA": "CTAACATTGAGACTGAACTG",
+          "start": 31080934
+        },
+        {
+          "chrom": "chr8",
+          "end": 31111640,
+          "mutated_all_1750_models": 1,
+          "mutated_frozen_34_models": 0,
+          "sgRNA": "GTAGCAGTAAGTGCAACGAT",
+          "start": 31111620
+        },
+        {
+          "chrom": "chr8",
+          "end": 31090924,
+          "mutated_all_1750_models": 0,
+          "mutated_frozen_34_models": 0,
+          "sgRNA": "TCTTCCATCAGAGAAATAAG",
+          "start": 31090904
+        }
+      ],
+      "matrix_model_columns": 1750
+    },
+    "KY": {
+      "cohort_coverage": 34,
+      "eligible_wrn_guides": 5,
+      "guide_rows": [
+        {
+          "chrom": "chr8",
+          "end": 31067190,
+          "mutated_all_1750_models": 0,
+          "mutated_frozen_34_models": 0,
+          "sgRNA": "GCACGTACATAAGCATCAG",
+          "start": 31067171
+        },
+        {
+          "chrom": "chr8",
+          "end": 31067125,
+          "mutated_all_1750_models": 0,
+          "mutated_frozen_34_models": 0,
+          "sgRNA": "GTCTATCCGCTGTAGCAAT",
+          "start": 31067106
+        },
+        {
+          "chrom": "chr8",
+          "end": 31111639,
+          "mutated_all_1750_models": 1,
+          "mutated_frozen_34_models": 0,
+          "sgRNA": "TAGCAGTAAGTGCAACGAT",
+          "start": 31111620
+        },
+        {
+          "chrom": "chr8",
+          "end": 31064304,
+          "mutated_all_1750_models": 0,
+          "mutated_frozen_34_models": 0,
+          "sgRNA": "TAGCATGAGTCTATCAGAT",
+          "start": 31064285
+        },
+        {
+          "chrom": "chr8",
+          "end": 31096798,
+          "mutated_all_1750_models": 1,
+          "mutated_frozen_34_models": 0,
+          "sgRNA": "TGGAGTTACGTATACAATC",
+          "start": 31096779
+        }
+      ],
+      "matrix_model_columns": 1750
+    }
+  },
+  "status": "FAIL_T0_EXPOSURE_CONSTANCY",
+  "wrn_gap_values_parsed": false
+}

@@ -58,6 +58,21 @@
   `2aacca44b6a79e7240518e6adbd89c70d7d895da91cd4c8b4d380529bc5b8e5e`.
 - WRN (7486) is absent from both official control lists; EXP-006 uses this to rule out
   direct inclusion of WRN in the selected screen-control QC metrics.
+- EXP-007 guide-site-mutation adequacy inputs:
+  - `AvanaGuideMap.csv`: Figshare file 43346391, 15,972,635 bytes, official MD5
+    `b694af3982d70117fd6214fdd8ce2e2e`, observed SHA-256
+    `5580f89d2bbd26d25cf107c6441dcc30774a333385e104e83e1212ca16ec99a2`;
+  - `KYGuideMap.csv`: Figshare file 43346769, 5,940,107 bytes, official MD5
+    `2ef1cb175dd2c3314edd86705a598fd5`, observed SHA-256
+    `23bafc0d2f88b25727af8e2f5d0245495c39243163fb465ceffc9755c012c4b0`;
+  - `OmicsGuideMutationsBinaryAvana.csv`: Figshare file 43347378, 599,873,423
+    bytes, official MD5 `fa242f255113a00809019ed2e7be1ad1`, observed SHA-256
+    `6b5a4060936603642a4a2b7229e2b148728b8c8a0097f1ae0dd768588bfd6a02`;
+  - `OmicsGuideMutationsBinaryKY.csv`: Figshare file 43347465, 336,374,245 bytes,
+    official MD5 `7f070bb17014728216877650c8c2f088`, observed SHA-256
+    `71af643cd06b637afcae08112b02496197b2a59a4f689b07ed23f50a69accdad`.
+- Both mutation matrices contain 1,750 model columns. EXP-007 uses only ModelID and
+  tissue from the frozen 34-model EXP-005 cohort and does not parse WRN gap values.
 - Avana denotes Broad screens and KY denotes Sanger screens. EXP-003 uses ranks
   within source and tissue; raw score magnitudes are not compared across libraries.
 - Raw matrices remain gitignored. Hashes, derived model tables, code, and results

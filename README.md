@@ -21,7 +21,7 @@ uncertainty and artifact controls?
 
 ## Current phase
 
-Six bounded experiments are complete:
+Seven bounded experiments are complete:
 
 - `EXP-20260822-001` passed the API engineering gate: all eight frozen genes had 177
   paired Broad/Sanger models and positive source correlations.
@@ -48,6 +48,11 @@ Six bounded experiments are complete:
   rules out the proposed simple QC composite as a useful explanation in this set;
   it does not rule out guide design, assay duration, cell state, or other technical
   factors.
+- `EXP-20260822-007` stopped at T0 without reading WRN gaps: all 34 paired models had
+  zero annotated mutations across four eligible Avana and five eligible KY WRN guide
+  locations. The source-asymmetry exposure was constant in both tissues, so no
+  association was computed. This excludes only the specific annotated guide-site
+  mutation explanation, not other guide-design mechanisms.
 
 A label-only provenance audit found that the CRC-only cohort has only 7 MSI Broad
 models, below the independently proposed minimum of 8. That CRC-only gate remains a
@@ -62,6 +67,7 @@ uv run candrel-processing-sensitivity  # expected exit 2: frozen hypothesis fail
 uv run candrel-msi-wrn-replication  # source-separated discovery -> gated confirmation
 uv run candrel-wrn-ordering  # expected pass; two-tissue model-ordering reliability
 uv run candrel-wrn-qc-asymmetry  # expected exit 2; frozen QC-gap hypothesis failed
+uv run candrel-wrn-guide-mutation-adequacy  # expected exit 2; constant exposure
 ```
 
 Raw API responses are cached under `data/raw/` and excluded from Git. Every run

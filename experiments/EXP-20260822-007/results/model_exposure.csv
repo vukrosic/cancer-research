@@ -1,0 +1,35 @@
+model_id,tissue,avana_mutated_guides,avana_total_guides,avana_fraction,ky_mutated_guides,ky_total_guides,ky_fraction,absolute_fraction_difference
+ACH-000007,Large Intestine,0,4,0.0,0,5,0.0,0.0
+ACH-000009,Large Intestine,0,4,0.0,0,5,0.0,0.0
+ACH-000252,Large Intestine,0,4,0.0,0,5,0.0,0.0
+ACH-000350,Large Intestine,0,4,0.0,0,5,0.0,0.0
+ACH-000381,Large Intestine,0,4,0.0,0,5,0.0,0.0
+ACH-000421,Large Intestine,0,4,0.0,0,5,0.0,0.0
+ACH-000532,Large Intestine,0,4,0.0,0,5,0.0,0.0
+ACH-000552,Large Intestine,0,4,0.0,0,5,0.0,0.0
+ACH-000651,Large Intestine,0,4,0.0,0,5,0.0,0.0
+ACH-000926,Large Intestine,0,4,0.0,0,5,0.0,0.0
+ACH-000935,Large Intestine,0,4,0.0,0,5,0.0,0.0
+ACH-000943,Large Intestine,0,4,0.0,0,5,0.0,0.0
+ACH-000950,Large Intestine,0,4,0.0,0,5,0.0,0.0
+ACH-000957,Large Intestine,0,4,0.0,0,5,0.0,0.0
+ACH-000958,Large Intestine,0,4,0.0,0,5,0.0,0.0
+ACH-000969,Large Intestine,0,4,0.0,0,5,0.0,0.0
+ACH-001345,Large Intestine,0,4,0.0,0,5,0.0,0.0
+ACH-000048,Ovary,0,4,0.0,0,5,0.0,0.0
+ACH-000132,Ovary,0,4,0.0,0,5,0.0,0.0
+ACH-000291,Ovary,0,4,0.0,0,5,0.0,0.0
+ACH-000308,Ovary,0,4,0.0,0,5,0.0,0.0
+ACH-000524,Ovary,0,4,0.0,0,5,0.0,0.0
+ACH-000527,Ovary,0,4,0.0,0,5,0.0,0.0
+ACH-000584,Ovary,0,4,0.0,0,5,0.0,0.0
+ACH-000657,Ovary,0,4,0.0,0,5,0.0,0.0
+ACH-000696,Ovary,0,4,0.0,0,5,0.0,0.0
+ACH-000719,Ovary,0,4,0.0,0,5,0.0,0.0
+ACH-000885,Ovary,0,4,0.0,0,5,0.0,0.0
+ACH-000906,Ovary,0,4,0.0,0,5,0.0,0.0
+ACH-000936,Ovary,0,4,0.0,0,5,0.0,0.0
+ACH-000947,Ovary,0,4,0.0,0,5,0.0,0.0
+ACH-001151,Ovary,0,4,0.0,0,5,0.0,0.0
+ACH-001418,Ovary,0,4,0.0,0,5,0.0,0.0
+ACH-001630,Ovary,0,4,0.0,0,5,0.0,0.0

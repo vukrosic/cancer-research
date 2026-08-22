@@ -1,0 +1,39 @@
+{
+  "experiment_id": "EXP-20260822-007",
+  "parent_id": "EXP-20260822-005",
+  "analysis_type": "outcome_blind_data_availability_and_exposure_adequacy_audit",
+  "entrypoint": "uv run candrel-wrn-guide-mutation-adequacy",
+  "cohort_file": "experiments/EXP-20260822-007/cohort.csv",
+  "cohort_sha256": "2bc84868962b35c55e456aeb953429206e97c9b25f648b5deabe5a1488e60b67",
+  "cohort_identity_source": "model_id and tissue columns only from frozen EXP-005 overlap set",
+  "release": "DepMap Public 23Q4",
+  "figshare_article": 24667905,
+  "figshare_version": 2,
+  "inputs": {
+    "AvanaGuideMap.csv": {
+      "figshare_file_id": 43346391,
+      "size": 15972635,
+      "md5": "b694af3982d70117fd6214fdd8ce2e2e",
+      "sha256": "5580f89d2bbd26d25cf107c6441dcc30774a333385e104e83e1212ca16ec99a2"
+    },
+    "KYGuideMap.csv": {
+      "figshare_file_id": 43346769,
+      "size": 5940107,
+      "md5": "2ef1cb175dd2c3314edd86705a598fd5",
+      "sha256": "23bafc0d2f88b25727af8e2f5d0245495c39243163fb465ceffc9755c012c4b0"
+    },
+    "OmicsGuideMutationsBinaryAvana.csv": {
+      "figshare_file_id": 43347378,
+      "size": 599873423,
+      "md5": "fa242f255113a00809019ed2e7be1ad1",
+      "sha256": "6b5a4060936603642a4a2b7229e2b148728b8c8a0097f1ae0dd768588bfd6a02"
+    },
+    "OmicsGuideMutationsBinaryKY.csv": {
+      "figshare_file_id": 43347465,
+      "size": 336374245,
+      "md5": "7f070bb17014728216877650c8c2f088",
+      "sha256": "71af643cd06b637afcae08112b02496197b2a59a4f689b07ed23f50a69accdad"
+    }
+  },
+  "association_must_remain_uncomputed_on_adequacy_failure": true
+}
