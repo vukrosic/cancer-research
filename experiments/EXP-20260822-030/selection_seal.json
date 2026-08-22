@@ -1,0 +1,16 @@
+{
+  "experiment_id": "EXP-20260822-030",
+  "seal_type": "independent_pre_endpoint_selection_seal",
+  "sealed_at": "2026-08-22T21:18:00+0200",
+  "sealed_before_endpoint_access": true,
+  "endpoint_values_opened": false,
+  "selected_pair": "BRCA1_or_BRCA2_damaging_to_CIP2A",
+  "selection_basis": "Distinct BRCA–CIP2A/TOPBP1 mechanism with executable two-source context; planning powers remain below the confirmatory threshold, so the experiment is permanently feasibility-only.",
+  "sealed_artifacts": ["experiments/EXP-20260822-030/candidate_census.json", "experiments/EXP-20260822-030/design_census_receipt.json", "experiments/EXP-20260822-030/preregistration.md", "experiments/EXP-20260822-030/methods_audit.md"],
+  "candidate_census_sha256": "d21ecffe2b9fbc397ceb78694dd653d2cdcb8d0d3ac3f2afe7440f68c1323034",
+  "design_receipt_sha256": "fdcf5939f4df000a999b50e5068c673d229c1e1b56d07166a6b3957ad1ad7569",
+  "canonical_roster_sha256": "058842fec2d6750661de8d3109950f7e6376456baa564b5bd3cb49697fa3d083",
+  "target_column": "CIP2A (57650)",
+  "status_columns": ["BRCA1 (672)", "BRCA2 (675)"],
+  "prior_pairs_excluded": ["STAG2_damaging_to_STAG1", "PDS5B_damaging_to_PDS5A", "ARID1A_damaging_to_ARID1B", "ARID1A_damaging_to_KEAP1", "TP53_matrix_intact_to_MDM2", "CDKN2A_damaging_to_TYMS", "PTEN_damaging_to_PIK3CB", "TP53_damaging_to_WEE1", "NF1_damaging_to_PTPN11", "EP300_damaging_to_CREBBP", "APC_damaging_to_TDO2", "KMT2D_damaging_to_KMT2C", "CDKN2A_damaging_to_PELO", "PTEN_damaging_to_PAPSS1", "ARID1A_damaging_to_EZH2", "TP53_damaging_to_TIPARP", "BRCA1_or_BRCA2_damaging_to_POLQ"]
+}
