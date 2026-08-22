@@ -1,0 +1,74 @@
+{
+  "census_id": "EXP020-candidate-shortlist-20260822",
+  "census_at": "2026-08-22T18:21:01+0200",
+  "purpose": "Outcome-free selection of a distinct TP53-status-to-WEE1-dependency direction",
+  "endpoint_values_opened": false,
+  "endpoint_access": "ScreenNaiveGeneScore.csv header identity only; no WEE1 score row or target value parsed",
+  "eligibility_rule": "PassesQC == True, CanInclude == True, Library in {Avana, KY}, exact ScreenID-to-ModelID map, nonblank eligible OncotreeLineage",
+  "status_rule": "matrix values restricted to {0,1,2}; primary exposure is TP53 damaging value >= 1 and reference is TP53 matrix value == 0",
+  "selection_basis": "TP53-damaging-to-WEE1 is distinct from EXP017's TP53-matrix-intact-to-MDM2 direction, has the strongest eligible two-source metadata among the reviewed new candidates, and is biologically supported by primary genetic and pharmacologic evidence. KY planning power is below 0.80, so the experiment is permanently feasibility-only.",
+  "distinctness_contract": {
+    "prior_experiment": "EXP-20260822-017",
+    "prior_pair": "TP53_matrix_intact_to_MDM2",
+    "prior_exposure": "TP53 matrix value == 0",
+    "current_pair": "TP53_damaging_to_WEE1",
+    "current_exposure": "TP53 matrix value >= 1",
+    "endpoint_gene_changed": true,
+    "status_orientation_changed": true
+  },
+  "inputs": {
+    "screen_qc_sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407",
+    "screen_map_sha256": "1e2bf9075600cd049dafc385866991523c65806657f3c8bd71afde3fe00ee9ad",
+    "model_sha256": "6b77a73209ce3faaa7442dbd947d8e08ddcb08b538c36fe820163f9cff321341",
+    "damaging_matrix_sha256": "aea4d970c0876afb90d2dc0e2709ff28be5a84e4e246f3a5a31faaba0fbc47e3",
+    "endpoint_sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721",
+    "endpoint_target_column": "WEE1 (7465)"
+  },
+  "candidate_shortlist": [
+    {
+      "status_gene": "TP53",
+      "status_column": "TP53 (7157)",
+      "target_gene": "WEE1",
+      "target_column": "WEE1 (7465)",
+      "exposure_definition": "damaging matrix value >= 1",
+      "Avana": {"damaging": 610, "matrix_intact": 365, "mixed_lineages": 25, "planning_power": 0.9948},
+      "KY": {"damaging": 233, "matrix_intact": 82, "mixed_lineages": 16, "planning_power": 0.7564},
+      "decision": "selected_best_eligible_candidate_but_feasibility_only",
+    "primary_sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/38776912/",
+        "https://pubmed.ncbi.nlm.nih.gov/28978051/",
+        "https://pubmed.ncbi.nlm.nih.gov/24927813/"
+      ]
+    }
+  ],
+  "reviewed_new_candidate_set": [
+    "ARID1A_damaging_to_EZH2",
+    "CDKN2A_damaging_to_CDK2",
+    "PTEN_damaging_to_AKT1",
+    "KMT2D_damaging_to_KMT2C",
+    "APC_damaging_to_TANKYR1",
+    "TP53_damaging_to_WEE1"
+  ],
+  "design_model": {
+    "normal_mean_shift": -0.358286909243,
+    "null_permutations": 100000,
+    "alternative_simulations": 10000,
+    "planning_power_seeds": {"Avana": 20262000, "KY": 20262100},
+    "canonical_roster_sha256": "61060e6ef0c24ad1bb3acc2fbe75e9ad5f8908df505d20290cbab2189557b376",
+    "design_receipt_path": "experiments/EXP-20260822-020/design_census_receipt.json",
+    "design_receipt_normalized_sha256": "2e4f35e611521930017c299c684b3ab2e3ff56f522d1ef5dd80708216a0d598e",
+    "critical_quantile": "numpy_linear_05",
+    "rejection_rule": "alternative_delta <= critical_delta",
+    "confirmatory_power_threshold": 0.8,
+    "frozen_label": "FEASIBILITY_ONLY"
+  },
+  "literature_search": {
+    "searched_at": "2026-08-22",
+    "primary_sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/38776912/",
+      "https://pubmed.ncbi.nlm.nih.gov/28978051/",
+      "https://pubmed.ncbi.nlm.nih.gov/24927813/"
+    ],
+    "selection_note": "The cited studies support a TP53-associated WEE1 vulnerability in restricted KRAS-mutant NSCLC settings, including CRISPR/siRNA or inhibitor evidence. EXP020 tests only a matrix-defined TP53 proxy against source-specific WEE1 knockout dependency across frozen DepMap cohorts; it does not claim KRAS restriction, functional TP53 status, inhibitor response, treatment benefit, or clinical utility."
+  }
+}
