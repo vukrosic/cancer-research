@@ -1,0 +1,77 @@
+{
+  "census_id": "EXP037-candidate-shortlist-20260822",
+  "census_at": "2026-08-22T23:04:03+0200",
+  "purpose": "Outcome-free selection of a distinct CDKN2A-proxy-to-MAT2A dependency direction",
+  "endpoint_values_opened": false,
+  "endpoint_access": "ScreenNaiveGeneScore.csv header identity only; no MAT2A score row or target value parsed",
+  "eligibility_rule": "PassesQC == True, CanInclude == True, Library in {Avana, KY}, exact ScreenID-to-ModelID map, nonblank eligible OncotreeLineage",
+  "status_rule": "matrix values restricted to {0,1,2}; primary exposure is CDKN2A damaging value >= 1 and reference is CDKN2A matrix value == 0",
+  "selection_basis": "MAT2A is a clinically motivated, mechanistically proximal target for the MTAP-deletion metabolic vulnerability. CDKN2A deletion is used clinically as an imperfect surrogate for MTAP deletion, whereas this repository's damaging-mutation matrix is an even weaker proxy. The experiment therefore tests only transportability of a frozen mutation proxy, not MTAP deletion, MAT2A inhibitor response, or clinical benefit.",
+  "distinctness_contract": {
+    "prior_experiments": ["EXP-20260822-001", "EXP-20260822-002", "EXP-20260822-003", "EXP-20260822-004", "EXP-20260822-005", "EXP-20260822-006", "EXP-20260822-007", "EXP-20260822-008", "EXP-20260822-009", "EXP-20260822-010", "EXP-20260822-011", "EXP-20260822-012", "EXP-20260822-013", "EXP-20260822-014", "EXP-20260822-015", "EXP-20260822-016", "EXP-20260822-017", "EXP-20260822-018", "EXP-20260822-019", "EXP-20260822-020", "EXP-20260822-021", "EXP-20260822-022", "EXP-20260822-023", "EXP-20260822-024", "EXP-20260822-025", "EXP-20260822-026", "EXP-20260822-027", "EXP-20260822-028", "EXP-20260822-029", "EXP-20260822-030", "EXP-20260822-031", "EXP-20260822-032", "EXP-20260822-033", "EXP-20260822-034", "EXP-20260822-035", "EXP-20260822-036"],
+    "prior_pairs_excluded": ["STAG2_damaging_to_STAG1", "PDS5B_damaging_to_PDS5A", "ARID1A_damaging_to_ARID1B", "ARID1A_damaging_to_KEAP1", "TP53_matrix_intact_to_MDM2", "CDKN2A_damaging_to_TYMS", "PTEN_damaging_to_PIK3CB", "TP53_damaging_to_WEE1", "NF1_damaging_to_PTPN11", "EP300_damaging_to_CREBBP", "APC_damaging_to_TDO2", "KMT2D_damaging_to_KMT2C", "CDKN2A_damaging_to_PELO", "PTEN_damaging_to_PAPSS1", "SMAD4_damaging_to_BRD4", "SMAD4_damaging_to_AURKA", "ARID1A_damaging_to_ATR", "TP53_damaging_to_TDG", "TP53_damaging_to_ENDOD1", "RB1_damaging_to_SKP2"],
+    "current_pair": "CDKN2A_damaging_to_MAT2A",
+    "endpoint_gene_changed": true,
+    "status_gene_changed": false
+  },
+  "inputs": {
+    "screen_qc_sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407",
+    "screen_map_sha256": "1e2bf9075600cd049dafc385866991523c65806657f3c8bd71afde3fe00ee9ad",
+    "model_sha256": "6b77a73209ce3faaa7442dbd947d8e08ddcb08b538c36fe820163f9cff321341",
+    "damaging_matrix_sha256": "aea4d970c0876afb90d2dc0e2709ff28be5a84e4e246f3a5a31faaba0fbc47e3",
+    "endpoint_sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721",
+    "status_column": "CDKN2A (1029)",
+    "endpoint_target_column": "MAT2A (4144)"
+  },
+  "frozen_context": {
+    "eligible_screens": 1290,
+    "source_model_counts": {"Avana": 975, "KY": 315},
+    "status_counts": {"Avana": {"damaging": 110, "matrix_intact": 865}, "KY": {"damaging": 37, "matrix_intact": 278}},
+    "mixed_lineages": {"Avana": 19, "KY": 11},
+    "minimum_exposed_models_per_source": 20,
+    "minimum_reference_models_per_source": 50,
+    "minimum_mixed_lineages_per_source": 5,
+    "canonical_roster_sha256": "df50a72ac86b161e16ebc5a2eb2b2f5c8d35151d94da4046c375f5ab0f603bb5"
+  },
+  "candidate_shortlist": [
+    {
+      "status_gene": "CDKN2A",
+      "status_column": "CDKN2A (1029)",
+      "target_gene": "MAT2A",
+      "target_column": "MAT2A (4144)",
+      "exposure_definition": "damaging matrix value >= 1",
+      "Avana": {"damaging": 110, "matrix_intact": 865, "mixed_lineages": 19, "planning_power": 0.8906},
+      "KY": {"damaging": 37, "matrix_intact": 278, "mixed_lineages": 11, "planning_power": 0.5361},
+      "decision": "selected_clinically_motivated_target_but_feasibility_only",
+      "primary_source": "https://www.nature.com/articles/s41467-024-55316-5"
+    },
+    {
+      "status_gene": "CDKN2A",
+      "status_column": "CDKN2A (1029)",
+      "target_gene": "PRMT5",
+      "target_column": "PRMT5 (10419)",
+      "exposure_definition": "damaging matrix value >= 1",
+      "Avana": {"damaging": 110, "matrix_intact": 865, "mixed_lineages": 19},
+      "KY": {"damaging": 37, "matrix_intact": 278, "mixed_lineages": 11},
+      "decision": "not_selected_same_proxy_and_less_proximal_for_this_next_test",
+      "primary_source": "https://www.nature.com/articles/s41467-024-55316-5"
+    }
+  ],
+  "design_model": {
+    "normal_mean_shift": -0.358286909243,
+    "null_permutations": 100000,
+    "alternative_simulations": 10000,
+    "planning_power_seeds": {"Avana": 20263700, "KY": 20263800},
+    "inference_seeds": {"Avana": 20273700, "KY": 20273800},
+    "canonical_roster_sha256": "df50a72ac86b161e16ebc5a2eb2b2f5c8d35151d94da4046c375f5ab0f603bb5",
+    "critical_quantile": "numpy_linear_05",
+    "rejection_rule": "alternative_delta <= critical_delta",
+    "confirmatory_power_threshold": 0.8,
+    "frozen_label": "FEASIBILITY_ONLY"
+  },
+  "literature_search": {
+    "searched_at": "2026-08-22",
+    "primary_sources": ["https://www.nature.com/articles/s41467-024-55316-5"],
+    "selection_note": "The phase I report describes MAT2A inhibition as a strategy for homozygous MTAP-deleted cancers and reports that CDKN2A deletion was used as a clinical surrogate, but also documents imperfect agreement between CDKN2A-selected patients and MTAP protein loss. This repository uses only a CDKN2A damaging mutation proxy, so the claim boundary is strictly weaker."
+  }
+}
