@@ -37,3 +37,11 @@ This document is a pre-implementation audit checklist. It must be amended only
 with implementation-boundary and execution receipts after the runner is bound;
 the frozen question, candidate census, thresholds, and claim boundary must not be
 rewritten after endpoint access.
+
+## Execution receipt
+
+The bound runner completed the frozen protocol with `1292` eligible screens and
+`1290` source/model units. The complete result bundle is in `results/`; endpoint
+access occurred only after the sealed context and design receipts. The final
+interpretation remains feasibility-only because KY planning power was `0.7521`
+and Avana failed lineage consistency.

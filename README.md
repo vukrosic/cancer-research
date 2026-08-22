@@ -21,7 +21,7 @@ uncertainty and artifact controls?
 
 ## Current phase
 
-Sixteen bounded experiments are complete:
+Seventeen bounded experiments are complete:
 
 - `EXP-20260822-001` passed the API engineering gate: all eight frozen genes had 177
   paired Broad/Sanger models and positive source correlations.
@@ -104,6 +104,13 @@ Sixteen bounded experiments are complete:
   imprecise (delta `-0.0545`, CI `[-0.1791, 0.0695]`); KY was directionally
   negative (delta `-0.2275`, p `0.0207`) but failed lineage consistency in Bone,
   CNS/Brain, and Lymphoid. No source passed all nominal gates.
+- `EXP-20260822-017` is **T1 descriptive association only; not T2/confirmatory**
+  and is labeled **FEASIBILITY_ONLY_NOMINAL_GATE_FAILURE**. Matrix-intact TP53
+  models had stronger MDM2 dependency in both sources (Avana delta `-0.6241`,
+  KY delta `-0.5398`), but Avana failed the frozen lineage-consistency gate
+  because Cervix was `+0.3929` and Prostate `+0.3333`. KY passed all nominal
+  gates, while its pre-endpoint planning power was only `0.7521`; no
+  confirmatory, clinical, treatment, or clean replication claim is permitted.
 
 A label-only provenance audit found that the CRC-only cohort has only 7 MSI Broad
 models, below the independently proposed minimum of 8. That CRC-only gate remains a
@@ -128,6 +135,7 @@ uv run candrel-wrn-process-association  # expected exit 2; efficacy association 
 uv run candrel-paralog-replication  # expected exit 2; feasibility-only/non-confirmatory result
 uv run candrel-arid1a-replication  # expected exit 2; feasibility-only nominal gate failure
 uv run candrel-arid1a-keap1-replication  # expected exit 2; protocol-deviation/non-confirmatory result
+uv run candrel-tp53-mdm2-replication  # expected exit 2; T1 feasibility-only lineage-gate failure
 ```
 
 Raw API responses are cached under `data/raw/` and excluded from Git. Every run

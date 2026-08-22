@@ -8,13 +8,15 @@ orthogonal experimental validation.
 
 ## Current milestone
 
-Preserve EXP-015 as a feasibility-only, non-confirmatory ARID1A/ARID1B result
-and release EXP-016 only as a protocol-deviation/non-confirmatory
-ARID1A/KEAP1 record. The EXP-016 planning-power mismatch is documented and
-must not be relabeled as a clean preregistered or confirmatory result. Select
-the next distinct outcome-blind dependency direction after the release. Do not
-pool Avana and KY, rescue failed lineages with post hoc exclusions, or change
-thresholds to upgrade either experiment. Keep the EXP-014 boundary immutable.
+Preserve EXP-015 as a feasibility-only, non-confirmatory ARID1A/ARID1B result,
+EXP-016 as a protocol-deviation/non-confirmatory ARID1A/KEAP1 record, and
+EXP-017 as a **T1 descriptive association only; not T2/confirmatory**
+TP53-matrix-intact/MDM2 result. EXP-017's Avana lineage-consistency failure
+and KY planning power below 0.80 are permanent claim boundaries. Select the
+next distinct outcome-blind dependency direction after release. Do not pool
+Avana and KY, rescue failed lineages with post hoc exclusions, or change
+thresholds to upgrade any of these experiments. Keep the EXP-014 boundary
+immutable.
 
 ## Program success
 
