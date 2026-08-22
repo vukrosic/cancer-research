@@ -1,0 +1,25 @@
+{
+  "experiment_id": "EXP-20260822-004",
+  "parent_id": "EXP-20260822-003",
+  "frozen_at": "2026-08-22T11:18:03+02:00",
+  "status": "FAIL_T0_ADEQUACY",
+  "seed": 20260825,
+  "permutation_repeats_if_adequate": 100000,
+  "bootstrap_repeats_if_adequate": 10000,
+  "input": {
+    "file": "experiments/EXP-20260822-003/results/model_scores.csv",
+    "sha256": "072dd2775d4e3bfaa480cd70639cc799c1e5914b2e9cc5213328383557680654"
+  },
+  "tissues": ["Large Intestine", "Ovary", "Endometrium", "Stomach"],
+  "overlap_counts": {
+    "Endometrium": 5,
+    "Large Intestine": 17,
+    "Ovary": 17,
+    "Stomach": 8,
+    "total": 47
+  },
+  "minimum_total_overlap": 40,
+  "minimum_overlap_each_tissue": 8,
+  "failed_gate": "Endometrium overlap 5 < 8",
+  "code_commit_before_design": "21eccc9ef798a943e17c19a483f4af3f9f563476"
+}

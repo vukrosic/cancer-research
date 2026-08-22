@@ -33,6 +33,9 @@ Three bounded experiments are complete:
   Avana discovery and -0.931 in the sequentially gated Sanger KY confirmation
   contrast, with all four tissues negative in both sources and preregistered gates
   passed. A recorded implementation deviation forbids calling KY values fully unseen.
+- `EXP-20260822-004` stopped at T0: the four-tissue model-ordering design required
+  at least 8 overlapping models per tissue, but Endometrium has 5. No rank outcome
+  was computed and the gate was not weakened.
 
 A label-only provenance audit found that the CRC-only cohort has only 7 MSI Broad
 models, below the independently proposed minimum of 8. That CRC-only gate remains a
