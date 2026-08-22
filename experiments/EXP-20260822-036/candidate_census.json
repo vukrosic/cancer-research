@@ -1,0 +1,37 @@
+{
+  "census_id": "EXP036-adequacy-shortlist-20260822",
+  "census_at": "2026-08-22T22:57:23+0200",
+  "purpose": "Outcome-free adequacy audit of a distinct RB1-proxy-to-SKP2 dependency direction",
+  "endpoint_values_opened": false,
+  "endpoint_access": "ScreenNaiveGeneScore.csv header identity only; no SKP2 score row or target value parsed",
+  "eligibility_rule": "PassesQC == True, CanInclude == True, Library in {Avana, KY}, exact ScreenID-to-ModelID map, nonblank eligible OncotreeLineage",
+  "status_rule": "RB1 damaging proxy is 1 when RB1 (5925) matrix value is 1 or 2; reference is 0 when the matrix value is 0",
+  "primary_source": "https://www.nature.com/articles/s41588-025-02108-2",
+  "selection_basis": "Supplementary Table 3 of the primary Nature Genetics study lists SKP2 among RB1 synthetic-lethal genes reproduced in an isogenic screen. The frozen metadata audit tests whether the direction has enough damaging and matrix-intact models in both source families to justify execution.",
+  "inputs": {
+    "screen_qc_sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407",
+    "screen_map_sha256": "1e2bf9075600cd049dafc385866991523c65806657f3c8bd71afde3fe00ee9ad",
+    "model_sha256": "6b77a73209ce3faaa7442dbd947d8e08ddcb08b538c36fe820163f9cff321341",
+    "damaging_matrix_sha256": "aea4d970c0876afb90d2dc0e2709ff28be5a84e4e246f3a5a31faaba0fbc47e3",
+    "endpoint_sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721",
+    "status_column": "RB1 (5925)",
+    "endpoint_target_column": "SKP2 (6502)"
+  },
+  "frozen_context": {
+    "eligible_screens": 1292,
+    "source_model_counts": {"Avana": 975, "KY": 315},
+    "status_counts": {"Avana": {"damaging": 57, "matrix_intact": 918}, "KY": {"damaging": 18, "matrix_intact": 297}},
+    "mixed_lineages": {"Avana": 13, "KY": 9},
+    "minimum_exposed_models_per_source": 20,
+    "minimum_reference_models_per_source": 50,
+    "minimum_mixed_lineages_per_source": 5,
+    "canonical_roster_sha256": "not_constructed_because_T0_adequacy_failed_before_design"
+  },
+  "candidate_shortlist": [
+    {"status_gene": "RB1", "status_column": "RB1 (5925)", "target_gene": "SKP2", "target_column": "SKP2 (6502)", "Avana": {"damaging": 57, "matrix_intact": 918, "mixed_lineages": 13}, "KY": {"damaging": 18, "matrix_intact": 297, "mixed_lineages": 9}, "decision": "rejected_T0_context_adequacy_KY_exposed_below_20"},
+    {"status_gene": "RB1", "status_column": "RB1 (5925)", "target_gene": "E2F3", "target_column": "E2F3 (1871)", "Avana": {"damaging": 57, "matrix_intact": 918, "mixed_lineages": 13}, "KY": {"damaging": 18, "matrix_intact": 297, "mixed_lineages": 9}, "decision": "not_selected_same_status_adequacy_failure"}
+  ],
+  "decision": "REJECTED_BEFORE_ENDPOINT_T0_CONTEXT_ADEQUACY",
+  "rejection_reason": "KY has only 18 RB1-damaging models, below the frozen minimum of 20; no endpoint values or planning design were computed, and no threshold was weakened.",
+  "literature_note": "The Nature Genetics study reports RB1 synthetic-lethal genes from DepMap and an isogenic RB1 CRISPR screen; this audit does not claim SKP2 causality, druggability, treatment response, or clinical relevance."
+}
