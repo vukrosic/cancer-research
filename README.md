@@ -21,7 +21,7 @@ uncertainty and artifact controls?
 
 ## Current phase
 
-Fifteen bounded experiments are complete:
+Sixteen bounded experiments are complete:
 
 - `EXP-20260822-001` passed the API engineering gate: all eight frozen genes had 177
   paired Broad/Sanger models and positive source correlations.
@@ -96,6 +96,14 @@ Fifteen bounded experiments are complete:
   nominal gates (delta `-0.4583`), while KY failed the bootstrap upper-bound and
   lineage-consistency gates (Bone `+1.0`, Pancreas `+0.2667`). KY's frozen
   design power is below 0.80, so no confirmatory two-source claim is permitted.
+- `EXP-20260822-016` was released only as **PROTOCOL_DEVIATION_NONCONFIRMATORY**
+  for the distinct ARID1A-status/KEAP1-dependency direction. The executable
+  design receipt did not exactly reproduce the frozen candidate-census planning
+  draw (Avana `0.8652` vs `0.8622`; KY `0.5875` vs `0.5699`), so the clean
+  preregistered and confirmatory claims are prohibited. Avana was negative and
+  imprecise (delta `-0.0545`, CI `[-0.1791, 0.0695]`); KY was directionally
+  negative (delta `-0.2275`, p `0.0207`) but failed lineage consistency in Bone,
+  CNS/Brain, and Lymphoid. No source passed all nominal gates.
 
 A label-only provenance audit found that the CRC-only cohort has only 7 MSI Broad
 models, below the independently proposed minimum of 8. That CRC-only gate remains a
@@ -119,6 +127,7 @@ uv run candrel-wrn-guide-loo-passing  # expected exit 2; 5/10 robustness criteri
 uv run candrel-wrn-process-association  # expected exit 2; efficacy association gates failed
 uv run candrel-paralog-replication  # expected exit 2; feasibility-only/non-confirmatory result
 uv run candrel-arid1a-replication  # expected exit 2; feasibility-only nominal gate failure
+uv run candrel-arid1a-keap1-replication  # expected exit 2; protocol-deviation/non-confirmatory result
 ```
 
 Raw API responses are cached under `data/raw/` and excluded from Git. Every run

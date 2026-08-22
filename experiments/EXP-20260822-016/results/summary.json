@@ -1,0 +1,164 @@
+{
+  "analysis_label": "FEASIBILITY_ONLY",
+  "analysis_type": "preregistered_source_specific_lineage_stratified_arid1a_keap1_replication",
+  "artifact_receipt_sha256": {
+    "context_ledger.csv": "23369e7d1d43f738bb1bcf511512edc6cde0e770bde690c350d5d8d6025ad815",
+    "design_sensitivity.csv": "abda119a93c6cd0c2620f69d75bae53420121368f7f7eec703c44c866375eba2",
+    "endpoint_scores.csv": "0b112d68824ede9f2d4d4336a93ce8dac59b90a69768ffba5a5c709b0f7d84a8",
+    "inference.csv": "fd3d89e94d69d58af483a863c42e9186ef582698af5b12c61b1e9a58cac36e6c",
+    "summary.json": "e2a833fb237ab89f0d8dc3ef833f1642e594919c584f84e748b9b7d4152e5b1b"
+  },
+  "claim_boundary": "matrix-defined damaging ARID1A status association with source-specific KEAP1 dependency in frozen 23Q4 cell-line screen cohorts; no biological independence or clinical claim",
+  "claim_eligibility": {
+    "design_sensitivity_label": "FEASIBILITY_ONLY",
+    "nominal_primary_gates_pass": false,
+    "primary_confirmatory": false
+  },
+  "confirmatory_claim": false,
+  "context_receipt": {
+    "context_ledger_sha256": "23369e7d1d43f738bb1bcf511512edc6cde0e770bde690c350d5d8d6025ad815",
+    "damaging_sha256": "aea4d970c0876afb90d2dc0e2709ff28be5a84e4e246f3a5a31faaba0fbc47e3",
+    "eligible_screens": 1292,
+    "eligible_source_models": {
+      "Avana": 975,
+      "KY": 315
+    },
+    "model_sha256": "6b77a73209ce3faaa7442dbd947d8e08ddcb08b538c36fe820163f9cff321341",
+    "screen_map_sha256": "1e2bf9075600cd049dafc385866991523c65806657f3c8bd71afde3fe00ee9ad",
+    "screen_qc_sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407",
+    "status_column": "ARID1A (8289)",
+    "status_threshold": 1,
+    "unique_model_ids": 1098
+  },
+  "design_sensitivity": {
+    "all_primary_sources_power_adequate": false,
+    "confirmatory_claim_enabled": false,
+    "design_sensitivity_sha256": "abda119a93c6cd0c2620f69d75bae53420121368f7f7eec703c44c866375eba2",
+    "frozen_label": "FEASIBILITY_ONLY",
+    "minimum_confirmatory_power": 0.8
+  },
+  "endpoint_receipt": {
+    "eligible_screens_expected": 1292,
+    "eligible_screens_seen": 1292,
+    "median_collapse": true,
+    "model_values": 1290,
+    "sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721"
+  },
+  "experiment_id": "EXP-20260822-016",
+  "implementation_receipt": {
+    "implementation_commit": "58bc6dea37dd06eaabcacb145ba2cadaf310789d",
+    "implementation_module": {
+      "path": "src/candrel/arid1a_keap1_replication.py",
+      "sha256": "c5c70e6149e4a5cfd7dc9e0b26a43fb6cc315e8251632fde27ccf631a3193d10"
+    },
+    "manifest_path": "experiments/EXP-20260822-016/manifest.json",
+    "required_base_commit": "73240533116925d1b5dda74e483c224eafbccb8f",
+    "uv_lock_sha256": "d09301a2eff28d69c3e0b504d4cdae5ed21c1e451efb92e60f360ebf047106dd"
+  },
+  "inference_receipt": {
+    "bootstrap_interval": "percentile_95_linear_quantile",
+    "bootstraps": 10000,
+    "cross_source_raw_score_comparison": false,
+    "design_seeds": {
+      "Avana": 20261630,
+      "KY": 20261730
+    },
+    "inference_seeds": {
+      "Avana": 20271630,
+      "KY": 20271730
+    },
+    "permutations": 100000,
+    "unit": "collapsed_source_model_id"
+  },
+  "overall_pass": false,
+  "pre_endpoint_receipt": {
+    "context_ledger_sha256": "23369e7d1d43f738bb1bcf511512edc6cde0e770bde690c350d5d8d6025ad815",
+    "design_sensitivity_sha256": "abda119a93c6cd0c2620f69d75bae53420121368f7f7eec703c44c866375eba2",
+    "experiment_id": "EXP-20260822-016",
+    "receipt_sha256": "d68704a69551b036081bcb23450630e3ae04bf7cd4f40f42870ea8a551bb4d18",
+    "sealed_before_endpoint": true
+  },
+  "primary": [
+    {
+      "bootstrap_ci_95_percentile": [
+        -0.17914438502673796,
+        0.06951871657754011
+      ],
+      "bootstrap_repeats": 10000,
+      "delta": -0.05454545454545454,
+      "gates": {
+        "at_least_5_negative_lineages": true,
+        "bootstrap_upper_lt_0": false,
+        "delta_le_minus_0_20": false,
+        "delta_lt_0": true,
+        "no_lineage_delta_gt_plus_0_20": false,
+        "permutation_p_le_0_05": false
+      },
+      "lineage_deltas": {
+        "Biliary Tract": 0.2,
+        "Bladder/Urinary Tract": -0.125,
+        "Bowel": -0.3092105263157895,
+        "Breast": -0.24358974358974358,
+        "CNS/Brain": 0.3888888888888889,
+        "Cervix": 0.058823529411764705,
+        "Esophagus/Stomach": -0.14666666666666667,
+        "Kidney": 0.7575757575757576,
+        "Liver": 0.5238095238095238,
+        "Lung": -0.059639389736477116,
+        "Lymphoid": -0.09714285714285714,
+        "Myeloid": 0.23529411764705882,
+        "Ovary/Fallopian Tube": -0.14210526315789473,
+        "Pancreas": -0.14285714285714285,
+        "Peripheral Nervous System": 0.7241379310344828,
+        "Prostate": -0.14285714285714285,
+        "Skin": 0.47474747474747475,
+        "Soft Tissue": 0.2571428571428571,
+        "Uterus": -0.45454545454545453
+      },
+      "pair_count": 3740,
+      "pair_id": "ARID1A_to_KEAP1",
+      "pass": false,
+      "permutation_extreme_count": 23204,
+      "permutation_p_one_sided_lower": 0.23204767952320476,
+      "permutation_repeats": 100000,
+      "source": "Avana"
+    },
+    {
+      "bootstrap_ci_95_percentile": [
+        -0.40956826137689617,
+        -0.043173862310385065
+      ],
+      "bootstrap_repeats": 10000,
+      "delta": -0.22753792298716452,
+      "gates": {
+        "at_least_5_negative_lineages": true,
+        "bootstrap_upper_lt_0": true,
+        "delta_le_minus_0_20": true,
+        "delta_lt_0": true,
+        "no_lineage_delta_gt_plus_0_20": false,
+        "permutation_p_le_0_05": true
+      },
+      "lineage_deltas": {
+        "Bone": 1.0,
+        "Bowel": -0.4074074074074074,
+        "Breast": 0.06060606060606061,
+        "CNS/Brain": 0.75,
+        "Esophagus/Stomach": -0.2767857142857143,
+        "Lung": -0.4594594594594595,
+        "Lymphoid": 0.7777777777777778,
+        "Ovary/Fallopian Tube": -0.37777777777777777,
+        "Pancreas": -0.13333333333333333,
+        "Prostate": 0.0,
+        "Uterus": -0.375
+      },
+      "pair_count": 857,
+      "pair_id": "ARID1A_to_KEAP1",
+      "pass": false,
+      "permutation_extreme_count": 2070,
+      "permutation_p_one_sided_lower": 0.020709792902070978,
+      "permutation_repeats": 100000,
+      "source": "KY"
+    }
+  ],
+  "status": "FEASIBILITY_ONLY_NOMINAL_GATE_FAILURE"
+}

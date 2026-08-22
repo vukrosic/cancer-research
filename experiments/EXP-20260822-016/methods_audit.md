@@ -47,3 +47,11 @@ The implementation is now bound to commit
 `58bc6dea37dd06eaabcacb145ba2cadaf310789d` and module SHA-256
 `c5c70e6149e4a5cfd7dc9e0b26a43fb6cc315e8251632fde27ccf631a3193d10` in the
 manifest. The binding commit itself will be recorded before endpoint access.
+
+## Post-execution deviation record
+
+The completed run produced an executable design receipt of `0.8652` Avana and
+`0.5875` KY versus shortlist planning values `0.8622` and `0.5699`. Because the
+frozen preregistration required exact reproduction, this is recorded as a
+protocol deviation in `execution_log.md` and `audit.md`; the frozen protocol is
+not rewritten and no confirmatory claim is allowed.
