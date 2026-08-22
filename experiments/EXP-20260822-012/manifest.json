@@ -1,0 +1,81 @@
+{
+  "experiment_id": "EXP-20260822-012",
+  "parent_id": "EXP-20260822-011",
+  "frozen_at": "2026-08-22T13:47:44+02:00",
+  "analysis_type": "preregistered_deterministic_same_assay_single_guide_robustness_after_endpoint_unsealing",
+  "entrypoint": "uv run candrel-wrn-guide-loo-passing",
+  "parent_public_commit": "25aa51875f8dadec376b80dfa53b7b77e248f0d5",
+  "exp010_remains_immutable_fail_t0": true,
+  "exp011_artifacts": {
+    "preregistration_sha256": "d95cdfda5cdad1e4f7a223dc9cd4e31da3cad90c38f7953d4f27609a6d381272",
+    "manifest_sha256": "54f5c13ed17de783275c46b7442d6bd41a199acc269134528d568210ebfe1042",
+    "implementation_sha256": "22538414d2cafa94215354e6af9087d47afbd38d6f897f34f13b68ea7f93b3e4",
+    "implementation_commit": "3f6c73f",
+    "summary_sha256": "f1df2711856ea08ba166c18436ea96c799c6494c5cf069f5cb71c1f6a0ed5b9a",
+    "ledger_sha256": "29eb728f0b05e1ff4838f1a4012a5bf76f577bee92986380c0f9c9d9f7b73354",
+    "result_sha256": "ccd1e33dc2c764b0f8cd229f63ed7cb63c4534b6831349b0ba9467834e599dd1",
+    "audit_sha256": "d4be1b9d2d314db6de59bfb1805af98af9d9a033e8419b46bde6e49e622b7ee6"
+  },
+  "large_inputs": {
+    "AvanaLogfoldChange.csv": {
+      "size": 3173505617,
+      "md5": "58b1f479091a9f8b3e858d69d55413c4",
+      "sha256": "f018d7ff6820af6d0bb095f1e2b405ec31d7a744a1e4c019cfd9f3509e63bdee"
+    },
+    "KYLogfoldChange.csv": {
+      "size": 1585769082,
+      "md5": "c711c9413b63fe7c55b734e43cdeca91",
+      "sha256": "5b03df4b4affda1f0ed36f2bd564e1cbd53ec443b20e60295cad577677874767"
+    }
+  },
+  "inputs": {
+    "avana_guide_map_sha256": "5580f89d2bbd26d25cf107c6441dcc30774a333385e104e83e1212ca16ec99a2",
+    "ky_guide_map_sha256": "23bafc0d2f88b25727af8e2f5d0245495c39243163fb465ceffc9755c012c4b0",
+    "screen_sequence_map_sha256": "e4b99b4a6cd48c3957c5ada2abeeed1e1de319fe26526e76de6088ec73704c0b",
+    "screen_qc_sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407",
+    "naive_gene_scores_sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721",
+    "denominator_model_scores_sha256": "072dd2775d4e3bfaa480cd70639cc799c1e5914b2e9cc5213328383557680654",
+    "exp005_gap_file_sha256": "f2dc22d9c26f937413b612ae4924f1965c837e480a805c1ff0b7b0c5d8b3cd4a"
+  },
+  "retention_rule": {
+    "sequence_PassesQC": "True",
+    "ExcludeFromCRISPRCombined": "False",
+    "retained_count_must_equal": "nPassingSequences"
+  },
+  "eligible_guides": {
+    "Avana": [
+      "AGAAAACCTCAATAGTGGCA",
+      "CTAACATTGAGACTGAACTG",
+      "GTAGCAGTAAGTGCAACGAT",
+      "TCTTCCATCAGAGAAATAAG"
+    ],
+    "KY": [
+      "GCACGTACATAAGCATCAG",
+      "GTCTATCCGCTGTAGCAAT",
+      "TAGCAGTAAGTGCAACGAT",
+      "TAGCATGAGTCTATCAGAT",
+      "TGGAGTTACGTATACAATC"
+    ]
+  },
+  "full_denominator_counts": {
+    "Avana|Large Intestine": 25,
+    "KY|Large Intestine": 30,
+    "Avana|Ovary": 22,
+    "KY|Ovary": 26,
+    "total_source_screens": 103
+  },
+  "paired_counts": {
+    "Large Intestine": 17,
+    "Ovary": 17,
+    "total": 34,
+    "locked_baseline_flagged": 10,
+    "baseline_unflagged": 24
+  },
+  "baseline_absolute_tolerance": 1e-8,
+  "baseline_relative_tolerance": 0,
+  "global_single_guide_omissions": 9,
+  "minimum_fully_robust_flagged_models": 8,
+  "flag_threshold": 0.25,
+  "expected_output": "experiments/EXP-20260822-012/results/summary.json",
+  "code_commit_before_implementation": "25aa51875f8dadec376b80dfa53b7b77e248f0d5"
+}
