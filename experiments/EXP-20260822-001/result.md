@@ -29,6 +29,8 @@ type explicitly permitted by the frozen stop rule, so the retry is a **protocol
 deviation** even though an independent audit confirmed scientific invariance. The
 final machine-readable result is
 `results/summary.json`, including SHA-256 hashes for every cached response.
+The post-audit recomputation with corrected threshold terminology and full 2x2 counts
+is `results/audit_verification.json`.
 
 ## Interpretation
 
