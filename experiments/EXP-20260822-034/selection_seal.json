@@ -1,0 +1,16 @@
+{
+  "experiment_id": "EXP-20260822-034",
+  "seal_type": "independent_pre_endpoint_selection_seal",
+  "sealed_at": "2026-08-22T22:24:16+0200",
+  "sealed_before_endpoint_access": true,
+  "endpoint_values_opened": false,
+  "selected_pair": "TP53_damaging_to_TDG",
+  "selection_basis": "Distinct recent p53-deficient-cancer/TDG mechanism with executable two-source context; KY planning power remains below the confirmatory threshold, so the experiment is permanently feasibility-only.",
+  "sealed_artifacts": ["experiments/EXP-20260822-034/candidate_census.json", "experiments/EXP-20260822-034/design_census_receipt.json", "experiments/EXP-20260822-034/preregistration.md", "experiments/EXP-20260822-034/methods_audit.md"],
+  "candidate_census_sha256": "7d5a792892e63f291198e78a45528ca7cffb61836fe27bb9a6139a1c23f503bd",
+  "design_receipt_sha256": "e7936eff0fb3a3a77dae47bd6d985eccc1fe2b68d7d9df148934cc5c8d2456d0",
+  "canonical_roster_sha256": "61060e6ef0c24ad1bb3acc2fbe75e9ad5f8908df505d20290cbab2189557b376",
+  "target_column": "TDG (6996)",
+  "status_columns": ["TP53 (7157)"],
+  "prior_pairs_excluded": ["STAG2_damaging_to_STAG1", "PDS5B_damaging_to_PDS5A", "ARID1A_damaging_to_ARID1B", "ARID1A_damaging_to_KEAP1", "TP53_matrix_intact_to_MDM2", "CDKN2A_damaging_to_TYMS", "PTEN_damaging_to_PIK3CB", "TP53_damaging_to_WEE1", "NF1_damaging_to_PTPN11", "EP300_damaging_to_CREBBP", "APC_damaging_to_TDO2", "KMT2D_damaging_to_KMT2C", "CDKN2A_damaging_to_PELO", "PTEN_damaging_to_PAPSS1", "ARID1A_damaging_to_EZH2", "TP53_damaging_to_TIPARP", "BRCA1_or_BRCA2_damaging_to_POLQ", "BRCA1_or_BRCA2_damaging_to_CIP2A", "SMAD4_damaging_to_BRD4", "SMAD4_damaging_to_AURKA", "ARID1A_damaging_to_ATR"]
+}
