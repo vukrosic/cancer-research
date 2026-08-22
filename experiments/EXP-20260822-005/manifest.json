@@ -1,0 +1,27 @@
+{
+  "experiment_id": "EXP-20260822-005",
+  "parent_id": "EXP-20260822-004",
+  "frozen_at": "2026-08-22T11:21:26+02:00",
+  "analysis_type": "preregistered_derived_analysis_after_endpoint_unsealing",
+  "entrypoint": "uv run candrel-wrn-ordering",
+  "seed": 20260826,
+  "permutation_repeats": 100000,
+  "bootstrap_repeats": 10000,
+  "input": {
+    "file": "experiments/EXP-20260822-003/results/model_scores.csv",
+    "sha256": "072dd2775d4e3bfaa480cd70639cc799c1e5914b2e9cc5213328383557680654"
+  },
+  "endpoint": "source-separated ScreenNaiveGeneScore WRN (7486)",
+  "tissues": ["Large Intestine", "Ovary"],
+  "overlap_counts": {"Large Intestine": 17, "Ovary": 17, "total": 34},
+  "minimum_total_overlap": 30,
+  "minimum_overlap_each_tissue": 15,
+  "minimum_theta": 0.5,
+  "maximum_permutation_p": 0.05,
+  "minimum_bootstrap_lower": 0.2,
+  "minimum_any_tissue_rho": -0.2,
+  "discordance_gap_threshold": 0.25,
+  "exploratory_top_gap_models": 5,
+  "expected_output": "experiments/EXP-20260822-005/results/summary.json",
+  "code_commit_before_implementation": "7a5ee06272d61d5fce5a47026ecc29707ab96db5"
+}
