@@ -1,0 +1,109 @@
+{
+  "experiment_id": "EXP-20260822-020",
+  "analysis_type": "preregistered_source_specific_lineage_stratified_tp53_wee1_replication",
+  "primary_pair": "TP53_damaging_status_to_WEE1_dependency",
+  "entrypoint": "uv run candrel-tp53-wee1-replication",
+  "inputs": {
+    "endpoint": {
+      "path": "data/raw/depmap/23q4/ScreenNaiveGeneScore.csv",
+      "sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721",
+      "target_column": "WEE1 (7465)"
+    },
+    "screen_qc": {
+      "path": "data/raw/depmap/23q4/AchillesScreenQCReport.csv",
+      "sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407"
+    },
+    "screen_map": {
+      "path": "data/raw/depmap/23q4/CRISPRScreenMap.csv",
+      "sha256": "1e2bf9075600cd049dafc385866991523c65806657f3c8bd71afde3fe00ee9ad"
+    },
+    "model": {
+      "path": "data/raw/depmap/23q4/Model.csv",
+      "sha256": "6b77a73209ce3faaa7442dbd947d8e08ddcb08b538c36fe820163f9cff321341"
+    },
+    "damaging_matrix": {
+      "path": "data/raw/depmap/23q4/OmicsSomaticMutationsMatrixDamaging.csv",
+      "sha256": "aea4d970c0876afb90d2dc0e2709ff28be5a84e4e246f3a5a31faaba0fbc47e3",
+      "status_column": "TP53 (7157)"
+    }
+  },
+  "eligibility": {
+    "libraries": ["Avana", "KY"],
+    "pass_qc": true,
+    "can_include": true,
+    "expected_source_models": {"Avana": 975, "KY": 315}
+  },
+  "status_contract": {
+    "exposed": "damaging",
+    "reference": "matrix_intact",
+    "exposed_matrix_values": [1, 2],
+    "reference_matrix_values": [0],
+    "expected_counts": {
+      "Avana": {"damaging": 610, "matrix_intact": 365},
+      "KY": {"damaging": 233, "matrix_intact": 82}
+    },
+    "expected_mixed_lineages": {"Avana": 25, "KY": 16}
+  },
+  "candidate_census": {
+    "path": "experiments/EXP-20260822-020/candidate_census.json",
+    "sha256": "eff2a48885b1a6acdfbbe5c16d6bd803efa94aebb70bdfcbebfd8eefd30ee4bf",
+    "canonical_roster_sha256": "61060e6ef0c24ad1bb3acc2fbe75e9ad5f8908df505d20290cbab2189557b376"
+  },
+  "design_receipt": {
+    "path": "experiments/EXP-20260822-020/design_census_receipt.json",
+    "sha256": "8d73ad3b5951e76bc3f3b0333bbcd80dd2d5633a4ef2ad4670c84f196c201579",
+    "canonical_roster_sha256": "61060e6ef0c24ad1bb3acc2fbe75e9ad5f8908df505d20290cbab2189557b376"
+  },
+  "selection_seal": {
+    "path": "experiments/EXP-20260822-020/selection_seal.json",
+    "sha256": "281d19735b6d09dd7b51758cdeeab29bbdc3acecfbe2f86a0db9afe2bbe316df",
+    "sealed_before_endpoint_access": true,
+    "protocol_commit": "cc8a055434b54f31d5125ec27412ab1867751536"
+  },
+  "design_sensitivity": {
+    "mean_shift": -0.358286909243,
+    "null_permutations": 100000,
+    "alternative_simulations": 10000,
+    "planning_power_seeds": {"Avana": 20262000, "KY": 20262100},
+    "expected_critical_delta": {"Avana": -0.07859134565733761, "KY": -0.14327062228654125},
+    "expected_power": {"Avana": 0.9948, "KY": 0.7564},
+    "minimum_power_for_confirmatory_label": 0.8,
+    "frozen_label": "FEASIBILITY_ONLY"
+  },
+  "inference": {
+    "inference_seeds": {"Avana": 20272000, "KY": 20272100},
+    "permutations": 100000,
+    "bootstraps": 10000,
+    "delta_target": -0.2,
+    "permutation_p_max": 0.05,
+    "bootstrap_upper_max": 0.0,
+    "max_lineage_delta": 0.2
+  },
+  "claim_contract": {
+    "analysis_label": "FEASIBILITY_ONLY",
+    "confirmatory_claim": false,
+    "overall_pass": false
+  },
+  "uv_lock_sha256": "d09301a2eff28d69c3e0b504d4cdae5ed21c1e451efb92e60f360ebf047106dd",
+  "implementation_boundary": {
+    "required_base_commit": "0e195ed66248082180d4e2791b8dbea506dfb110",
+    "implementation_commit": "a63129a5db70dfd96ed543e2fabbf6b9273b1400",
+    "implementation_module": "src/candrel/tp53_wee1_replication.py",
+    "engine_module": "src/candrel/tp53_mdm2_replication.py",
+    "project_file": "pyproject.toml",
+    "modules": [
+      {
+        "path": "src/candrel/tp53_wee1_replication.py",
+        "sha256": "f0935db8b79d7b686d2bf20c83338ef8c64d0e0c2c19b8a809cc9148d0e082cc"
+      },
+      {
+        "path": "src/candrel/tp53_mdm2_replication.py",
+        "sha256": "8c2bda37783d193bd0f948d4c4cfc4608dccba49d8d0c16aeba640cbac1c4164"
+      },
+      {
+        "path": "pyproject.toml",
+        "sha256": "8610b8c5c970f4d95dbaf908944f705ac50708c599319ac6fa335ed8e9772fab"
+      }
+    ]
+  }
+}
