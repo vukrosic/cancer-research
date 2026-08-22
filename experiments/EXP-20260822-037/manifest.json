@@ -45,7 +45,7 @@
   "uv_lock_sha256": "d09301a2eff28d69c3e0b504d4cdae5ed21c1e451efb92e60f360ebf047106dd",
   "implementation_boundary": {
     "required_base_commit": "e12edbdb9e1d1526d2e32c7f93e01a77786855b6",
-    "implementation_commit": "PENDING_IMPLEMENTATION_COMMIT",
+    "implementation_commit": "8bf9e4c04f7f9bc8cf701ebc33b26fd92a0a7030",
     "implementation_module": "src/candrel/cdkn2a_mat2a_replication.py",
     "engine_module": "src/candrel/tp53_mdm2_replication.py",
     "project_file": "pyproject.toml",
