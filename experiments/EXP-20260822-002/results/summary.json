@@ -1,0 +1,238 @@
+{
+  "aggregate": {
+    "eligible_genes": 8,
+    "genes_with_positive_delta": 4,
+    "median_delta_rho": -0.00312256537075728,
+    "positive_delta_fraction": 0.5
+  },
+  "bootstrap_repeats": 2000,
+  "created_at_utc": "2026-08-22T08:45:07.835594+00:00",
+  "environment": {
+    "platform": "macOS-26.5-arm64-arm-64bit",
+    "python": "3.12.8"
+  },
+  "experiment_id": "EXP-20260822-002",
+  "genes": [
+    {
+      "delta_bootstrap_95ci": [
+        -0.10155868826891075,
+        0.002086436383655996
+      ],
+      "delta_rho_fc_clean_qn_minus_bf_scaled": -0.04742808316771113,
+      "descriptive_spearman_bf": 0.27677195685670264,
+      "eligible": true,
+      "gene_id": "SIDG41173",
+      "identical_primary_cohort": true,
+      "n_descriptive_bf_pairs": 177,
+      "n_identical_paired_models": 177,
+      "spearman_bf_scaled": 0.2550488218694275,
+      "spearman_fc_clean_qn": 0.20762073870171638,
+      "symbol": "WRN"
+    },
+    {
+      "delta_bootstrap_95ci": [
+        -0.030230421370954236,
+        0.07536826806423387
+      ],
+      "delta_rho_fc_clean_qn_minus_bf_scaled": 0.023235833867142203,
+      "descriptive_spearman_bf": 0.1348639220235107,
+      "eligible": true,
+      "gene_id": "SIDG02491",
+      "identical_primary_cohort": true,
+      "n_descriptive_bf_pairs": 177,
+      "n_identical_paired_models": 177,
+      "spearman_bf_scaled": 0.12429450667405345,
+      "spearman_fc_clean_qn": 0.14753034054119565,
+      "symbol": "BRAF"
+    },
+    {
+      "delta_bootstrap_95ci": [
+        -0.0271933484819089,
+        0.03707213339596537
+      ],
+      "delta_rho_fc_clean_qn_minus_bf_scaled": 0.005505743794044116,
+      "descriptive_spearman_bf": 0.554407385606205,
+      "eligible": true,
+      "gene_id": "SIDG13960",
+      "identical_primary_cohort": true,
+      "n_descriptive_bf_pairs": 177,
+      "n_identical_paired_models": 177,
+      "spearman_bf_scaled": 0.5470473156628175,
+      "spearman_fc_clean_qn": 0.5525530594568616,
+      "symbol": "KRAS"
+    },
+    {
+      "delta_bootstrap_95ci": [
+        -0.06755938799876086,
+        0.043590618704202694
+      ],
+      "delta_rho_fc_clean_qn_minus_bf_scaled": -0.011750874535558675,
+      "descriptive_spearman_bf": 0.27605347899101473,
+      "eligible": true,
+      "gene_id": "SIDG22269",
+      "identical_primary_cohort": true,
+      "n_descriptive_bf_pairs": 177,
+      "n_identical_paired_models": 177,
+      "spearman_bf_scaled": 0.259301258634719,
+      "spearman_fc_clean_qn": 0.2475503840991603,
+      "symbol": "NRAS"
+    },
+    {
+      "delta_bootstrap_95ci": [
+        -0.03944840118753646,
+        0.07805114489052246
+      ],
+      "delta_rho_fc_clean_qn_minus_bf_scaled": 0.02198282578210209,
+      "descriptive_spearman_bf": 0.5658467651183324,
+      "eligible": true,
+      "gene_id": "SIDG07457",
+      "identical_primary_cohort": true,
+      "n_descriptive_bf_pairs": 177,
+      "n_identical_paired_models": 177,
+      "spearman_bf_scaled": 0.5578764218071017,
+      "spearman_fc_clean_qn": 0.5798592475892038,
+      "symbol": "EGFR"
+    },
+    {
+      "delta_bootstrap_95ci": [
+        -0.03878399434204565,
+        0.05056083656362207
+      ],
+      "delta_rho_fc_clean_qn_minus_bf_scaled": 0.0058343865237791,
+      "descriptive_spearman_bf": 0.6295099634701616,
+      "eligible": true,
+      "gene_id": "SIDG24670",
+      "identical_primary_cohort": true,
+      "n_descriptive_bf_pairs": 177,
+      "n_identical_paired_models": 177,
+      "spearman_bf_scaled": 0.6286573120271464,
+      "spearman_fc_clean_qn": 0.6344916985509255,
+      "symbol": "PIK3CA"
+    },
+    {
+      "delta_bootstrap_95ci": [
+        -0.09402645442006069,
+        0.024057704086030515
+      ],
+      "delta_rho_fc_clean_qn_minus_bf_scaled": -0.03265882938637221,
+      "descriptive_spearman_bf": 0.5097535534357092,
+      "eligible": true,
+      "gene_id": "SIDG05669",
+      "identical_primary_cohort": true,
+      "n_descriptive_bf_pairs": 177,
+      "n_identical_paired_models": 177,
+      "spearman_bf_scaled": 0.5063067059813066,
+      "spearman_fc_clean_qn": 0.47364787659493435,
+      "symbol": "CTNNB1"
+    },
+    {
+      "delta_bootstrap_95ci": [
+        -0.08128237540141704,
+        0.02052174742071123
+      ],
+      "delta_rho_fc_clean_qn_minus_bf_scaled": -0.031165059469191958,
+      "descriptive_spearman_bf": 0.4019580685929953,
+      "eligible": true,
+      "gene_id": "SIDG17467",
+      "identical_primary_cohort": true,
+      "n_descriptive_bf_pairs": 177,
+      "n_identical_paired_models": 177,
+      "spearman_bf_scaled": 0.40199702221221933,
+      "spearman_fc_clean_qn": 0.3708319627430274,
+      "symbol": "MDM2"
+    }
+  ],
+  "input_files": [
+    {
+      "path": "data/raw/cell_model_passports/crispr_full_v2_BRAF_SIDG02491.json",
+      "sha256": "c4a44208c1a413fcb43695c0d9ef1eb3747cde2568fc0057a6d4fe2123f4633a"
+    },
+    {
+      "path": "data/raw/cell_model_passports/crispr_full_v2_CTNNB1_SIDG05669.json",
+      "sha256": "04d2539849b83cfaa6205400446f42a7eb24259259279d2e9ecd2fa80dae8535"
+    },
+    {
+      "path": "data/raw/cell_model_passports/crispr_full_v2_EGFR_SIDG07457.json",
+      "sha256": "522064a028d64a5193f82f3978395b6bd41dd469898954c1fbe5c9f7f2a57b60"
+    },
+    {
+      "path": "data/raw/cell_model_passports/crispr_full_v2_KRAS_SIDG13960.json",
+      "sha256": "cd2afdd4b699981ce02e42df28ee7bc1ee8eff71f234615c0a35436252114cbe"
+    },
+    {
+      "path": "data/raw/cell_model_passports/crispr_full_v2_MDM2_SIDG17467.json",
+      "sha256": "5b07b5c1ece018ca105d333af198b0b54c9eb106e69ed763848677b566f49284"
+    },
+    {
+      "path": "data/raw/cell_model_passports/crispr_full_v2_NRAS_SIDG22269.json",
+      "sha256": "5f1bebd8280d774b9f17d554cc902716f39b1e854da9b2db92cceddfc76b7d87"
+    },
+    {
+      "path": "data/raw/cell_model_passports/crispr_full_v2_PIK3CA_SIDG24670.json",
+      "sha256": "fe81f77153637cf5dc6295038739a4b18b4438b5b3a6d147b5e308be2975cf3c"
+    },
+    {
+      "path": "data/raw/cell_model_passports/crispr_full_v2_WRN_SIDG41173.json",
+      "sha256": "3f8ee984e75d95c4eb6056772c783ae04eac50dc9d2d128fa06a307dea4e3a6a"
+    },
+    {
+      "path": "data/raw/cell_model_passports/gene_BRAF.json",
+      "sha256": "46184bb60457b3393e8e280a09ad872ed0991ef20c6671db129532c5e79bb50e"
+    },
+    {
+      "path": "data/raw/cell_model_passports/gene_CTNNB1.json",
+      "sha256": "1e9ab817104861964622afb7328df0138a96cf5043783f964c275535e5a47f48"
+    },
+    {
+      "path": "data/raw/cell_model_passports/gene_EGFR.json",
+      "sha256": "8e23119f181d5a6c3d32322f4c43804269d76b1f1285b523ffc63a7034ec3215"
+    },
+    {
+      "path": "data/raw/cell_model_passports/gene_KRAS.json",
+      "sha256": "7c1b5137065b843a558de3ec6944a70f016dab3d44c51e22db3d70e50f85ed45"
+    },
+    {
+      "path": "data/raw/cell_model_passports/gene_MDM2.json",
+      "sha256": "f923dc57117fb45b18a1669d77b823bc47c65c999a6ee9d84e76cc930b4c838c"
+    },
+    {
+      "path": "data/raw/cell_model_passports/gene_NRAS.json",
+      "sha256": "64f8de3e4feb62b07ec0808b3e683573909b7faa3f5bc4e648c611eb73088490"
+    },
+    {
+      "path": "data/raw/cell_model_passports/gene_PIK3CA.json",
+      "sha256": "1bd07b997b8cb8b27b71f17b87c1b41bc99b05e663341256dbd9622d94e6fcee"
+    },
+    {
+      "path": "data/raw/cell_model_passports/gene_WRN.json",
+      "sha256": "5e623d633190689c712c92e246d2d73553a6bd5c5fcba08e5ae310d40460a83e"
+    }
+  ],
+  "input_receipt_sha256": "2086b1f686c28aa87fe2e82228792f98533ca82c14ba3b6a7a07b901d829b2e9",
+  "panel": [
+    "WRN",
+    "BRAF",
+    "KRAS",
+    "NRAS",
+    "EGFR",
+    "PIK3CA",
+    "CTNNB1",
+    "MDM2"
+  ],
+  "preregistered_gates": {
+    "all_8_genes_have_identical_100_model_cohorts": true,
+    "at_least_6_genes_have_positive_delta": false,
+    "median_delta_rho_at_least_0_10": false
+  },
+  "primary_fields": [
+    "fc_clean_qn",
+    "bf_scaled"
+  ],
+  "seed": 20260823,
+  "source": {
+    "api_version": "1.23.0",
+    "base_url": "https://api.cellmodelpassports.sanger.ac.uk",
+    "name": "Cell Model Passports API"
+  },
+  "status": "FAIL"
+}

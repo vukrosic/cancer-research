@@ -14,6 +14,7 @@ dev = ["pytest==8.4.2"]
 
 [project.scripts]
 candrel-smoke = "candrel.smoke:main"
+candrel-processing-sensitivity = "candrel.processing_sensitivity:main"
 
 [build-system]
 requires = ["hatchling"]

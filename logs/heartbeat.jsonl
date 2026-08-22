@@ -1,1 +1,4 @@
 {"ts":"2026-08-22T10:16:07+02:00","source":"heartbeat","level":"info","event":"initialized","detail":"No durable automation installed in initial bounded launch."}
+{"ts":"2026-08-22T10:34:00+02:00","source":"heartbeat","level":"info","event":"last_seen","detail":"Persistent same-task research heartbeat installed and active as cancer-dependency-reliability-research-heartbeat; provenance and cohort-label gate started."}
+{"ts":"2026-08-22T10:45:23+02:00","source":"heartbeat","level":"info","event":"last_seen","detail":"Iteration 2 complete with a preserved negative processing-sensitivity result; independent audit is the current critical path."}
+{"ts":"2026-08-22T10:48:54+02:00","source":"heartbeat","level":"info","event":"last_seen","detail":"Independent audit returned GO for EXP-002; pushing the negative-result checkpoint is the current critical path."}

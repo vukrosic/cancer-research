@@ -7,7 +7,8 @@
 - API version observed: 1.23.0.
 - Data version observed on portal: 2.19.0.
 - CRISPR measurements observed: 22,218,273.
-- Fields used initially: model ID, gene ID, source, QC flag, `fc_clean_qn`.
+- Fields used initially: model ID, gene ID, source, QC flag, `fc_clean_qn`, `bf`, and
+  `bf_scaled`.
 - Sources represented: Broad and Sanger.
 - Acquisition: narrow gene-level JSON API calls, locally cached and SHA-256 hashed.
 - Redistribution: raw API responses are not committed pending a dataset-specific
@@ -15,6 +16,14 @@
 - Usage policy checked 2026-08-22: public API use by individuals is permitted for
   non-commercial use without login; commercial and third-party website use requires
   consent. <https://cellmodelpassports.sanger.ac.uk/documentation/guides/API>
+- Current model annotation frozen for the cohort audit:
+  `model_list_20260814.csv`, SHA-256
+  `eb43e92042ab430adabbbcf65e577459ac52d57df802eb388aea5865ff9b49aa`.
+- MSI method: MSIsensor-pro score at least 7 is labelled MSI; lower scores are MSS.
+  <https://depmap.sanger.ac.uk/documentation/cell-models/msi-ploidy-mutational-burden/>
+- CRISPR processing documentation records overlap-informed ComBat correction for
+  combined Broad/Sanger analysis and BAGEL2-derived source and combined fitness
+  metrics. <https://depmap.sanger.ac.uk/documentation/datasets/wg-crispr-knockout/>
 
 ## DepMap Public 26Q1
 

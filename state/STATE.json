@@ -1,10 +1,12 @@
 {
-  "current_experiment_id": "EXP-20260822-001",
-  "stage": "active_research",
-  "completed": ["hardware_audit", "direction_scouting", "question_selection", "preregistration", "locked_environment", "tests", "EXP-20260822-001", "result_card", "independent_audit", "audit_remediation", "initial_git_commit", "clean_clone_verification", "independent_reaudit_go", "github_publication"],
-  "next_actions": ["freeze_source_separated_score_provenance", "audit_MSI_and_CRC_labels", "preregister_EXP-20260822-002"],
+  "current_experiment_id": "EXP-20260822-002",
+  "stage": "checkpoint_ready_to_push",
+  "completed": ["hardware_audit", "direction_scouting", "question_selection", "preregistration", "locked_environment", "tests", "EXP-20260822-001", "result_card", "independent_audit", "audit_remediation", "initial_git_commit", "clean_clone_verification", "independent_reaudit_go", "github_publication", "persistent_goal", "persistent_heartbeat", "source_provenance_audit", "MSI_CRC_label_audit", "EXP-20260822-002_preregistration", "EXP-20260822-002_execution", "EXP-20260822-002_independent_audit_GO"],
+  "next_actions": ["commit_and_push_negative_result", "preregister_current_release_availability_experiment", "implement_auditor_test_recommendations"],
   "github_url": "https://github.com/vukrosic/cancer-dependency-reliability",
   "initial_publication_commit": "2d308eb",
-  "authorized_scope": "local repository experiments and requested GitHub publication",
+  "authorized_scope": "local repository experiments, recurring same-task research heartbeat, and requested GitHub publication",
+  "heartbeat_automation_id": "cancer-dependency-reliability-research-heartbeat",
+  "heartbeat_status": "ACTIVE",
   "stop_reason": null
 }

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "EXP-20260822-002",
+  "parent_id": "EXP-20260822-001",
+  "frozen_at": "2026-08-22T10:42:44+02:00",
+  "entrypoint": "uv run candrel-processing-sensitivity",
+  "seed": 20260823,
+  "bootstrap_repeats": 2000,
+  "source": {
+    "api": "https://api.cellmodelpassports.sanger.ac.uk",
+    "api_version": "1.23.0",
+    "observed_data_version": "2.19.0"
+  },
+  "primary_fields": ["fc_clean_qn", "bf_scaled"],
+  "descriptive_field": "bf",
+  "panel": ["WRN", "BRAF", "KRAS", "NRAS", "EGFR", "PIK3CA", "CTNNB1", "MDM2"],
+  "minimum_pairs_per_gene": 100,
+  "minimum_median_delta_rho": 0.10,
+  "minimum_genes_positive_delta": 6,
+  "expected_output": "experiments/EXP-20260822-002/results/summary.json",
+  "code_commit_before_implementation": "4b8ae43a22b7a9ee461e2c15285b25087353f608",
+  "input_receipt": "experiments/EXP-20260822-001/input_receipt.json",
+  "input_receipt_sha256": "2086b1f686c28aa87fe2e82228792f98533ca82c14ba3b6a7a07b901d829b2e9"
+}
