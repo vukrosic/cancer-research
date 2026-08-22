@@ -29,7 +29,7 @@ EXPECTED_MODULE_PATH = "src/candrel/tp53_wee1_replication.py"
 ENGINE_MODULE_PATH = "src/candrel/tp53_mdm2_replication.py"
 PROJECT_PATH = "pyproject.toml"
 SELECTION_SEAL_PATH = "experiments/EXP-20260822-020/selection_seal.json"
-REQUIRED_BASE_COMMIT = "0e195ed"
+REQUIRED_BASE_COMMIT = "0e195ed66248082180d4e2791b8dbea506dfb110"
 EXPECTED_HASHES = {
     "endpoint": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721",
     "screen_qc": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407",
