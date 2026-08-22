@@ -1,7 +1,7 @@
 {
   "current_experiment_id": "EXP-20260822-001",
   "stage": "independent_reaudit",
-  "completed": ["hardware_audit", "direction_scouting", "question_selection", "preregistration", "locked_environment", "tests", "EXP-20260822-001", "result_card", "independent_audit", "audit_remediation", "initial_git_commit"],
+  "completed": ["hardware_audit", "direction_scouting", "question_selection", "preregistration", "locked_environment", "tests", "EXP-20260822-001", "result_card", "independent_audit", "audit_remediation", "initial_git_commit", "clean_clone_verification"],
   "next_actions": ["independent_reaudit", "publish_github_repository", "freeze_source_separated_score_provenance", "audit_MSI_and_CRC_labels", "preregister_EXP-20260822-002"],
   "authorized_scope": "local repository experiments and requested GitHub publication",
   "stop_reason": null
