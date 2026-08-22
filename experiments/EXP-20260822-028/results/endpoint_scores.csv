@@ -1,0 +1,1291 @@
+pair_id,source,model_id,lineage,status,target_score
+TP53_damaging_to_TIPARP,Avana,ACH-000004,Myeloid,damaging,-0.1983089679528227
+TP53_damaging_to_TIPARP,Avana,ACH-000005,Myeloid,damaging,0.17949262241518582
+TP53_damaging_to_TIPARP,Avana,ACH-000007,Bowel,matrix_intact,-0.20913310205805458
+TP53_damaging_to_TIPARP,Avana,ACH-000009,Bowel,damaging,0.2047759043445334
+TP53_damaging_to_TIPARP,Avana,ACH-000011,Bladder/Urinary Tract,matrix_intact,-2.7500173067238434
+TP53_damaging_to_TIPARP,Avana,ACH-000012,Lung,matrix_intact,-1.000527112328899
+TP53_damaging_to_TIPARP,Avana,ACH-000013,Ovary/Fallopian Tube,damaging,-0.3714542540555165
+TP53_damaging_to_TIPARP,Avana,ACH-000015,Lung,damaging,-0.014735193396489155
+TP53_damaging_to_TIPARP,Avana,ACH-000017,Breast,damaging,0.27350059438913776
+TP53_damaging_to_TIPARP,Avana,ACH-000018,Bladder/Urinary Tract,damaging,-0.14803291428205695
+TP53_damaging_to_TIPARP,Avana,ACH-000019,Breast,matrix_intact,-0.12038929672048448
+TP53_damaging_to_TIPARP,Avana,ACH-000021,Lung,damaging,-0.2916572388600428
+TP53_damaging_to_TIPARP,Avana,ACH-000022,Pancreas,damaging,0.17201229965421663
+TP53_damaging_to_TIPARP,Avana,ACH-000024,Lymphoid,damaging,1.050356388933793
+TP53_damaging_to_TIPARP,Avana,ACH-000025,CNS/Brain,matrix_intact,-1.1337279360645143
+TP53_damaging_to_TIPARP,Avana,ACH-000028,Breast,matrix_intact,-0.16953104029796068
+TP53_damaging_to_TIPARP,Avana,ACH-000029,Lung,matrix_intact,-1.4734092326675485
+TP53_damaging_to_TIPARP,Avana,ACH-000030,Lung,damaging,-0.35737249014754724
+TP53_damaging_to_TIPARP,Avana,ACH-000035,Lung,damaging,-0.2077687397937722
+TP53_damaging_to_TIPARP,Avana,ACH-000036,CNS/Brain,matrix_intact,-0.8652512691233696
+TP53_damaging_to_TIPARP,Avana,ACH-000037,Soft Tissue,damaging,-0.3526627472689108
+TP53_damaging_to_TIPARP,Avana,ACH-000039,Bone,matrix_intact,-0.19127328876008912
+TP53_damaging_to_TIPARP,Avana,ACH-000040,CNS/Brain,damaging,-0.9617896392912503
+TP53_damaging_to_TIPARP,Avana,ACH-000041,Bone,damaging,-0.14208835517500293
+TP53_damaging_to_TIPARP,Avana,ACH-000042,Pancreas,damaging,-0.3667974035114959
+TP53_damaging_to_TIPARP,Avana,ACH-000045,Myeloid,matrix_intact,-0.12644075281203024
+TP53_damaging_to_TIPARP,Avana,ACH-000047,Esophagus/Stomach,damaging,-0.7428748314060284
+TP53_damaging_to_TIPARP,Avana,ACH-000048,Ovary/Fallopian Tube,damaging,-0.1494355716936879
+TP53_damaging_to_TIPARP,Avana,ACH-000052,Bone,damaging,-0.6751154092334941
+TP53_damaging_to_TIPARP,Avana,ACH-000053,Lymphoid,damaging,-0.1904641956585455
+TP53_damaging_to_TIPARP,Avana,ACH-000054,Soft Tissue,matrix_intact,-0.7136656759393811
+TP53_damaging_to_TIPARP,Avana,ACH-000055,CNS/Brain,damaging,-0.43748765876913565
+TP53_damaging_to_TIPARP,Avana,ACH-000060,Pancreas,damaging,-1.129942123761182
+TP53_damaging_to_TIPARP,Avana,ACH-000067,CNS/Brain,damaging,-1.992096927061878
+TP53_damaging_to_TIPARP,Avana,ACH-000070,Lymphoid,matrix_intact,0.08548163386761598
+TP53_damaging_to_TIPARP,Avana,ACH-000074,Myeloid,damaging,-0.08332098453556198
+TP53_damaging_to_TIPARP,Avana,ACH-000075,CNS/Brain,matrix_intact,-0.1009378997552654
+TP53_damaging_to_TIPARP,Avana,ACH-000076,Myeloid,damaging,-0.9495292106253168
+TP53_damaging_to_TIPARP,Avana,ACH-000077,Lymphoid,matrix_intact,0.14280134476541445
+TP53_damaging_to_TIPARP,Avana,ACH-000078,Peripheral Nervous System,matrix_intact,0.06506668737978855
+TP53_damaging_to_TIPARP,Avana,ACH-000082,Bone,matrix_intact,-0.6664604307733275
+TP53_damaging_to_TIPARP,Avana,ACH-000085,Pancreas,damaging,-0.7990484037255134
+TP53_damaging_to_TIPARP,Avana,ACH-000086,Pleura,matrix_intact,0.18695839305740278
+TP53_damaging_to_TIPARP,Avana,ACH-000090,Prostate,damaging,-0.07989528767373733
+TP53_damaging_to_TIPARP,Avana,ACH-000092,Pleura,matrix_intact,-0.8658818574798688
+TP53_damaging_to_TIPARP,Avana,ACH-000093,Pancreas,matrix_intact,-1.1146487130923415
+TP53_damaging_to_TIPARP,Avana,ACH-000095,CNS/Brain,matrix_intact,-0.24190844362862737
+TP53_damaging_to_TIPARP,Avana,ACH-000097,Breast,matrix_intact,-1.2965002497271017
+TP53_damaging_to_TIPARP,Avana,ACH-000098,CNS/Brain,damaging,-0.8063981630842125
+TP53_damaging_to_TIPARP,Avana,ACH-000099,Peripheral Nervous System,matrix_intact,0.2265524776866466
+TP53_damaging_to_TIPARP,Avana,ACH-000101,Lymphoid,damaging,-0.013239401977522852
+TP53_damaging_to_TIPARP,Avana,ACH-000108,Pancreas,damaging,-0.2568978160600362
+TP53_damaging_to_TIPARP,Avana,ACH-000111,Breast,matrix_intact,-0.5756172891418667
+TP53_damaging_to_TIPARP,Avana,ACH-000113,Myeloid,matrix_intact,-0.38204807113107986
+TP53_damaging_to_TIPARP,Avana,ACH-000114,Pancreas,damaging,-0.4506383713512561
+TP53_damaging_to_TIPARP,Avana,ACH-000115,Prostate,damaging,0.05655679156813544
+TP53_damaging_to_TIPARP,Avana,ACH-000118,Pancreas,damaging,-1.1253550912642878
+TP53_damaging_to_TIPARP,Avana,ACH-000120,Peripheral Nervous System,matrix_intact,-0.17187739362029003
+TP53_damaging_to_TIPARP,Avana,ACH-000123,Ovary/Fallopian Tube,matrix_intact,0.025263674046873272
+TP53_damaging_to_TIPARP,Avana,ACH-000127,Bladder/Urinary Tract,damaging,-0.596988639140826
+TP53_damaging_to_TIPARP,Avana,ACH-000128,CNS/Brain,damaging,-0.128065885451369
+TP53_damaging_to_TIPARP,Avana,ACH-000132,Ovary/Fallopian Tube,damaging,-2.4655587302971558
+TP53_damaging_to_TIPARP,Avana,ACH-000133,Soft Tissue,damaging,-0.47169844399449357
+TP53_damaging_to_TIPARP,Avana,ACH-000137,CNS/Brain,damaging,-0.1339210737987218
+TP53_damaging_to_TIPARP,Avana,ACH-000138,Pancreas,damaging,-0.1413756291535225
+TP53_damaging_to_TIPARP,Avana,ACH-000141,Biliary Tract,damaging,-0.1652449599590246
+TP53_damaging_to_TIPARP,Avana,ACH-000142,Bladder/Urinary Tract,damaging,0.30508163454528997
+TP53_damaging_to_TIPARP,Avana,ACH-000143,Lung,damaging,0.10317488055638038
+TP53_damaging_to_TIPARP,Avana,ACH-000145,Soft Tissue,damaging,-0.15569560331132024
+TP53_damaging_to_TIPARP,Avana,ACH-000146,Myeloid,damaging,-0.15066048455095699
+TP53_damaging_to_TIPARP,Avana,ACH-000147,Breast,damaging,0.3223970457917327
+TP53_damaging_to_TIPARP,Avana,ACH-000148,Breast,damaging,-0.006467886044952844
+TP53_damaging_to_TIPARP,Avana,ACH-000151,Lymphoid,matrix_intact,0.08313994006383349
+TP53_damaging_to_TIPARP,Avana,ACH-000152,CNS/Brain,damaging,-0.16663826709421517
+TP53_damaging_to_TIPARP,Avana,ACH-000153,Pleura,matrix_intact,-0.3251581913286038
+TP53_damaging_to_TIPARP,Avana,ACH-000159,Kidney,matrix_intact,0.16346193512691046
+TP53_damaging_to_TIPARP,Avana,ACH-000160,CNS/Brain,matrix_intact,-0.020334160191915786
+TP53_damaging_to_TIPARP,Avana,ACH-000161,Lung,matrix_intact,-0.6584574780603241
+TP53_damaging_to_TIPARP,Avana,ACH-000163,Head and Neck,damaging,-0.9074737404917026
+TP53_damaging_to_TIPARP,Avana,ACH-000164,Pancreas,damaging,-0.14534117327749602
+TP53_damaging_to_TIPARP,Avana,ACH-000168,Myeloid,damaging,0.03195505795952899
+TP53_damaging_to_TIPARP,Avana,ACH-000169,Soft Tissue,damaging,-0.4025894577213842
+TP53_damaging_to_TIPARP,Avana,ACH-000174,Thyroid,damaging,-1.4702520999090982
+TP53_damaging_to_TIPARP,Avana,ACH-000178,Pancreas,matrix_intact,-0.5373602074149253
+TP53_damaging_to_TIPARP,Avana,ACH-000182,Ampulla of Vater,matrix_intact,-0.9977965751575653
+TP53_damaging_to_TIPARP,Avana,ACH-000183,Lymphoid,damaging,0.1257237141328979
+TP53_damaging_to_TIPARP,Avana,ACH-000187,Lung,damaging,0.2072414537182831
+TP53_damaging_to_TIPARP,Avana,ACH-000188,Head and Neck,damaging,-1.1548096689760854
+TP53_damaging_to_TIPARP,Avana,ACH-000189,Kidney,matrix_intact,-0.15552362015092447
+TP53_damaging_to_TIPARP,Avana,ACH-000190,Myeloid,damaging,-1.4776350032418022
+TP53_damaging_to_TIPARP,Avana,ACH-000191,Thyroid,damaging,-1.2539015943967424
+TP53_damaging_to_TIPARP,Avana,ACH-000195,Myeloid,damaging,0.07223935072522855
+TP53_damaging_to_TIPARP,Avana,ACH-000198,Myeloid,matrix_intact,-1.385905849422325
+TP53_damaging_to_TIPARP,Avana,ACH-000200,CNS/Brain,matrix_intact,-0.2394758463875549
+TP53_damaging_to_TIPARP,Avana,ACH-000202,Bowel,damaging,-0.034071947870868854
+TP53_damaging_to_TIPARP,Avana,ACH-000204,Lymphoid,damaging,-0.541612375827623
+TP53_damaging_to_TIPARP,Avana,ACH-000206,Lymphoid,matrix_intact,-0.0002986360244875974
+TP53_damaging_to_TIPARP,Avana,ACH-000207,Head and Neck,damaging,-0.07499208665557114
+TP53_damaging_to_TIPARP,Avana,ACH-000209,Biliary Tract,matrix_intact,0.2430136990844028
+TP53_damaging_to_TIPARP,Avana,ACH-000211,CNS/Brain,damaging,-2.114121137598986
+TP53_damaging_to_TIPARP,Avana,ACH-000212,Breast,damaging,-0.9610756158517327
+TP53_damaging_to_TIPARP,Avana,ACH-000215,CNS/Brain,damaging,-1.1213090852924121
+TP53_damaging_to_TIPARP,Avana,ACH-000216,Esophagus/Stomach,damaging,-0.9174228630015946
+TP53_damaging_to_TIPARP,Avana,ACH-000217,Liver,damaging,-1.5128756479963859
+TP53_damaging_to_TIPARP,Avana,ACH-000219,Skin,matrix_intact,-0.2425067978364146
+TP53_damaging_to_TIPARP,Avana,ACH-000221,Liver,damaging,0.029215718023785992
+TP53_damaging_to_TIPARP,Avana,ACH-000222,Pancreas,damaging,-0.23167649593754688
+TP53_damaging_to_TIPARP,Avana,ACH-000223,Breast,damaging,-1.195721424231448
+TP53_damaging_to_TIPARP,Avana,ACH-000226,Lymphoid,matrix_intact,-0.005751007916589626
+TP53_damaging_to_TIPARP,Avana,ACH-000227,Peripheral Nervous System,matrix_intact,0.004750622882882565
+TP53_damaging_to_TIPARP,Avana,ACH-000228,Head and Neck,matrix_intact,-0.8030644448404165
+TP53_damaging_to_TIPARP,Avana,ACH-000231,CNS/Brain,damaging,-0.28134774365064213
+TP53_damaging_to_TIPARP,Avana,ACH-000232,CNS/Brain,damaging,0.14060648144738097
+TP53_damaging_to_TIPARP,Avana,ACH-000233,Lymphoid,damaging,-0.5871050814638905
+TP53_damaging_to_TIPARP,Avana,ACH-000234,Kidney,matrix_intact,-0.22738859613808238
+TP53_damaging_to_TIPARP,Avana,ACH-000235,Pancreas,damaging,-1.953061833385302
+TP53_damaging_to_TIPARP,Avana,ACH-000237,Ovary/Fallopian Tube,damaging,-0.5230924342123424
+TP53_damaging_to_TIPARP,Avana,ACH-000238,Head and Neck,damaging,-0.44893003494053085
+TP53_damaging_to_TIPARP,Avana,ACH-000243,Pancreas,damaging,-0.5422755183440597
+TP53_damaging_to_TIPARP,Avana,ACH-000244,CNS/Brain,matrix_intact,-0.12604402891053867
+TP53_damaging_to_TIPARP,Avana,ACH-000246,Kidney,matrix_intact,-0.22822829261795047
+TP53_damaging_to_TIPARP,Avana,ACH-000247,Esophagus/Stomach,matrix_intact,0.8616768689600516
+TP53_damaging_to_TIPARP,Avana,ACH-000248,Breast,damaging,-0.0014730655634763792
+TP53_damaging_to_TIPARP,Avana,ACH-000250,Kidney,damaging,0.08066982915030128
+TP53_damaging_to_TIPARP,Avana,ACH-000251,Lung,damaging,-0.1717741678518894
+TP53_damaging_to_TIPARP,Avana,ACH-000252,Bowel,damaging,-0.1578964623314089
+TP53_damaging_to_TIPARP,Avana,ACH-000253,Bowel,damaging,-0.20202682102949765
+TP53_damaging_to_TIPARP,Avana,ACH-000255,Esophagus/Stomach,damaging,-0.7222893561223009
+TP53_damaging_to_TIPARP,Avana,ACH-000256,Ovary/Fallopian Tube,damaging,-0.27596766671133827
+TP53_damaging_to_TIPARP,Avana,ACH-000257,Lung,damaging,-0.9417568614116947
+TP53_damaging_to_TIPARP,Avana,ACH-000258,Breast,matrix_intact,0.023737939974143932
+TP53_damaging_to_TIPARP,Avana,ACH-000259,Peripheral Nervous System,damaging,0.0431646512805821
+TP53_damaging_to_TIPARP,Avana,ACH-000260,Peripheral Nervous System,matrix_intact,-0.6083603100785554
+TP53_damaging_to_TIPARP,Avana,ACH-000261,Lung,damaging,-0.1986812240876667
+TP53_damaging_to_TIPARP,Avana,ACH-000262,Kidney,matrix_intact,-0.1293692722575442
+TP53_damaging_to_TIPARP,Avana,ACH-000263,Myeloid,damaging,0.11295372036995055
+TP53_damaging_to_TIPARP,Avana,ACH-000264,Lung,damaging,-0.6591246679877832
+TP53_damaging_to_TIPARP,Avana,ACH-000265,Pancreas,matrix_intact,0.024185205654338238
+TP53_damaging_to_TIPARP,Avana,ACH-000266,Pancreas,damaging,-0.3047256101400008
+TP53_damaging_to_TIPARP,Avana,ACH-000272,Kidney,matrix_intact,-0.055511818004436685
+TP53_damaging_to_TIPARP,Avana,ACH-000273,CNS/Brain,damaging,-1.2033556622638755
+TP53_damaging_to_TIPARP,Avana,ACH-000274,Skin,matrix_intact,0.40104180835412734
+TP53_damaging_to_TIPARP,Avana,ACH-000276,Breast,damaging,0.018067843630157898
+TP53_damaging_to_TIPARP,Avana,ACH-000277,Breast,damaging,0.03449429244450944
+TP53_damaging_to_TIPARP,Avana,ACH-000278,Ovary/Fallopian Tube,damaging,-0.3788469982479673
+TP53_damaging_to_TIPARP,Avana,ACH-000279,Bone,damaging,-0.558943618526762
+TP53_damaging_to_TIPARP,Avana,ACH-000280,Ovary/Fallopian Tube,matrix_intact,-0.047724375508449865
+TP53_damaging_to_TIPARP,Avana,ACH-000281,Pancreas,damaging,-0.1058898653797226
+TP53_damaging_to_TIPARP,Avana,ACH-000286,Bowel,damaging,-0.07698476209702136
+TP53_damaging_to_TIPARP,Avana,ACH-000288,Breast,damaging,-1.1554643964109692
+TP53_damaging_to_TIPARP,Avana,ACH-000290,Lung,damaging,0.32058085703350647
+TP53_damaging_to_TIPARP,Avana,ACH-000291,Ovary/Fallopian Tube,damaging,0.05087658647218876
+TP53_damaging_to_TIPARP,Avana,ACH-000292,Lung,damaging,0.006921826378140358
+TP53_damaging_to_TIPARP,Avana,ACH-000293,Uterus,damaging,-0.2104166627795751
+TP53_damaging_to_TIPARP,Avana,ACH-000294,Myeloid,damaging,-0.20702308027299549
+TP53_damaging_to_TIPARP,Avana,ACH-000295,Myeloid,damaging,-0.12116482881360557
+TP53_damaging_to_TIPARP,Avana,ACH-000296,Bowel,damaging,-0.7210799522329105
+TP53_damaging_to_TIPARP,Avana,ACH-000302,Uterus,damaging,0.24898771813308912
+TP53_damaging_to_TIPARP,Avana,ACH-000303,Esophagus/Stomach,damaging,-1.0340620940187852
+TP53_damaging_to_TIPARP,Avana,ACH-000304,Skin,matrix_intact,0.3525976315748354
+TP53_damaging_to_TIPARP,Avana,ACH-000305,Esophagus/Stomach,damaging,-0.785136894747461
+TP53_damaging_to_TIPARP,Avana,ACH-000307,Pancreas,damaging,-0.6798028543253163
+TP53_damaging_to_TIPARP,Avana,ACH-000308,Ovary/Fallopian Tube,damaging,-0.04815976800551604
+TP53_damaging_to_TIPARP,Avana,ACH-000310,Peripheral Nervous System,matrix_intact,0.112349798384518
+TP53_damaging_to_TIPARP,Avana,ACH-000311,Lung,damaging,0.07429396136241562
+TP53_damaging_to_TIPARP,Avana,ACH-000312,Peripheral Nervous System,damaging,0.19212056809727954
+TP53_damaging_to_TIPARP,Avana,ACH-000313,Kidney,matrix_intact,-0.5836208287970837
+TP53_damaging_to_TIPARP,Avana,ACH-000315,Lymphoid,damaging,-0.08626466073087033
+TP53_damaging_to_TIPARP,Avana,ACH-000316,Liver,damaging,-0.4096153300385762
+TP53_damaging_to_TIPARP,Avana,ACH-000317,Kidney,matrix_intact,-0.6712535624853464
+TP53_damaging_to_TIPARP,Avana,ACH-000318,Esophagus/Stomach,damaging,-0.053832833944055976
+TP53_damaging_to_TIPARP,Avana,ACH-000319,Pleura,matrix_intact,-0.2618382672416608
+TP53_damaging_to_TIPARP,Avana,ACH-000320,Pancreas,damaging,-0.05429117656469431
+TP53_damaging_to_TIPARP,Avana,ACH-000322,Skin,matrix_intact,1.141216658037877
+TP53_damaging_to_TIPARP,Avana,ACH-000323,CNS/Brain,damaging,-0.14238087164652805
+TP53_damaging_to_TIPARP,Avana,ACH-000324,Ovary/Fallopian Tube,matrix_intact,-0.30698455824030757
+TP53_damaging_to_TIPARP,Avana,ACH-000325,Esophagus/Stomach,damaging,0.7952367161975156
+TP53_damaging_to_TIPARP,Avana,ACH-000326,Myeloid,damaging,-0.39339685625823156
+TP53_damaging_to_TIPARP,Avana,ACH-000329,CNS/Brain,matrix_intact,-0.2355815768563366
+TP53_damaging_to_TIPARP,Avana,ACH-000330,Breast,damaging,-0.0991106030966204
+TP53_damaging_to_TIPARP,Avana,ACH-000331,Pleura,damaging,-0.30161242860623305
+TP53_damaging_to_TIPARP,Avana,ACH-000332,Pancreas,damaging,-0.13447490016098484
+TP53_damaging_to_TIPARP,Avana,ACH-000334,Lymphoid,damaging,0.07049400373970863
+TP53_damaging_to_TIPARP,Avana,ACH-000335,Pleura,matrix_intact,-0.03620080270637069
+TP53_damaging_to_TIPARP,Avana,ACH-000336,Myeloid,matrix_intact,0.00813295993655892
+TP53_damaging_to_TIPARP,Avana,ACH-000337,Lung,damaging,-0.1044201231939223
+TP53_damaging_to_TIPARP,Avana,ACH-000339,Lung,damaging,-0.9667129752506343
+TP53_damaging_to_TIPARP,Avana,ACH-000341,Peripheral Nervous System,damaging,0.08348654348779835
+TP53_damaging_to_TIPARP,Avana,ACH-000343,Lung,damaging,0.16300379903201762
+TP53_damaging_to_TIPARP,Avana,ACH-000344,Esophagus/Stomach,damaging,0.27879257650822165
+TP53_damaging_to_TIPARP,Avana,ACH-000346,Lymphoid,matrix_intact,0.01143477215568299
+TP53_damaging_to_TIPARP,Avana,ACH-000348,Skin,damaging,-0.858210746729696
+TP53_damaging_to_TIPARP,Avana,ACH-000350,Bowel,matrix_intact,0.4260055111421691
+TP53_damaging_to_TIPARP,Avana,ACH-000352,Breast,matrix_intact,-0.5340412035364901
+TP53_damaging_to_TIPARP,Avana,ACH-000355,Lung,damaging,-0.6920595749058633
+TP53_damaging_to_TIPARP,Avana,ACH-000356,Esophagus/Stomach,damaging,-0.006888164076256517
+TP53_damaging_to_TIPARP,Avana,ACH-000359,Bone,matrix_intact,-2.6080745111784283
+TP53_damaging_to_TIPARP,Avana,ACH-000361,Liver,matrix_intact,-0.440048955452391
+TP53_damaging_to_TIPARP,Avana,ACH-000362,Myeloid,matrix_intact,-0.9643791573713812
+TP53_damaging_to_TIPARP,Avana,ACH-000363,Lymphoid,damaging,-0.5937722917917294
+TP53_damaging_to_TIPARP,Avana,ACH-000364,Bone,matrix_intact,0.14049691983394524
+TP53_damaging_to_TIPARP,Avana,ACH-000365,Lymphoid,damaging,0.15177691205251603
+TP53_damaging_to_TIPARP,Avana,ACH-000366,Peripheral Nervous System,damaging,-0.1314579031265672
+TP53_damaging_to_TIPARP,Avana,ACH-000368,CNS/Brain,damaging,-0.4279947137629253
+TP53_damaging_to_TIPARP,Avana,ACH-000370,CNS/Brain,damaging,-0.1002056593889185
+TP53_damaging_to_TIPARP,Avana,ACH-000371,Lymphoid,damaging,-0.04402674307446422
+TP53_damaging_to_TIPARP,Avana,ACH-000374,Breast,damaging,-0.18214926275253623
+TP53_damaging_to_TIPARP,Avana,ACH-000375,Kidney,matrix_intact,-1.1319749107919508
+TP53_damaging_to_TIPARP,Avana,ACH-000376,CNS/Brain,damaging,-0.41813620364739146
+TP53_damaging_to_TIPARP,Avana,ACH-000377,Ampulla of Vater,damaging,0.22742758592641543
+TP53_damaging_to_TIPARP,Avana,ACH-000378,Lung,damaging,-0.20303987764076495
+TP53_damaging_to_TIPARP,Avana,ACH-000381,Bowel,damaging,0.17460381781491982
+TP53_damaging_to_TIPARP,Avana,ACH-000383,Esophagus/Stomach,damaging,-0.6757865157132465
+TP53_damaging_to_TIPARP,Avana,ACH-000385,Kidney,matrix_intact,0.17381549693331394
+TP53_damaging_to_TIPARP,Avana,ACH-000387,Myeloid,damaging,-0.04749201881476379
+TP53_damaging_to_TIPARP,Avana,ACH-000389,CNS/Brain,matrix_intact,0.13739921281539974
+TP53_damaging_to_TIPARP,Avana,ACH-000390,Lung,damaging,0.34021739003539503
+TP53_damaging_to_TIPARP,Avana,ACH-000391,Bone,matrix_intact,0.041702708184195095
+TP53_damaging_to_TIPARP,Avana,ACH-000393,Liver,damaging,-0.28220124778985367
+TP53_damaging_to_TIPARP,Avana,ACH-000395,Lung,damaging,-0.6836438818178243
+TP53_damaging_to_TIPARP,Avana,ACH-000396,Bladder/Urinary Tract,damaging,0.08558542288090892
+TP53_damaging_to_TIPARP,Avana,ACH-000397,Uterus,damaging,-0.11722397121866562
+TP53_damaging_to_TIPARP,Avana,ACH-000398,Lymphoid,damaging,0.18664444175923933
+TP53_damaging_to_TIPARP,Avana,ACH-000401,Skin,damaging,0.06845325298299934
+TP53_damaging_to_TIPARP,Avana,ACH-000402,Lymphoid,damaging,-0.03998468058537068
+TP53_damaging_to_TIPARP,Avana,ACH-000403,Bowel,damaging,-0.9220323266082862
+TP53_damaging_to_TIPARP,Avana,ACH-000404,Skin,matrix_intact,0.0824815764786412
+TP53_damaging_to_TIPARP,Avana,ACH-000405,Lymphoid,damaging,-0.0631886218665779
+TP53_damaging_to_TIPARP,Avana,ACH-000406,Myeloid,damaging,-0.1298446580097282
+TP53_damaging_to_TIPARP,Avana,ACH-000407,Uterus,damaging,-0.8682275108983575
+TP53_damaging_to_TIPARP,Avana,ACH-000408,Esophagus/Stomach,matrix_intact,-0.16100108766625223
+TP53_damaging_to_TIPARP,Avana,ACH-000410,Bone,matrix_intact,-0.250355415281977
+TP53_damaging_to_TIPARP,Avana,ACH-000411,Kidney,matrix_intact,-0.2868952269292442
+TP53_damaging_to_TIPARP,Avana,ACH-000414,Lung,matrix_intact,0.043380090965852186
+TP53_damaging_to_TIPARP,Avana,ACH-000415,Head and Neck,damaging,-0.5621278672833538
+TP53_damaging_to_TIPARP,Avana,ACH-000416,Lung,damaging,-0.7925057477107798
+TP53_damaging_to_TIPARP,Avana,ACH-000417,Pancreas,matrix_intact,-0.22125277790946765
+TP53_damaging_to_TIPARP,Avana,ACH-000420,Liver,damaging,-0.0019084114306919808
+TP53_damaging_to_TIPARP,Avana,ACH-000421,Bowel,damaging,-0.40535059544107555
+TP53_damaging_to_TIPARP,Avana,ACH-000422,Liver,damaging,-0.7362698022250114
+TP53_damaging_to_TIPARP,Avana,ACH-000424,Bone,damaging,-0.1804254843525586
+TP53_damaging_to_TIPARP,Avana,ACH-000425,Skin,matrix_intact,0.32735549758478166
+TP53_damaging_to_TIPARP,Avana,ACH-000426,Lymphoid,damaging,0.03980580165750064
+TP53_damaging_to_TIPARP,Avana,ACH-000427,Esophagus/Stomach,damaging,0.08011246363328531
+TP53_damaging_to_TIPARP,Avana,ACH-000431,Lung,damaging,-0.0788258997648432
+TP53_damaging_to_TIPARP,Avana,ACH-000433,Kidney,matrix_intact,-0.19763302500133278
+TP53_damaging_to_TIPARP,Avana,ACH-000434,Lung,damaging,-1.3353584349167877
+TP53_damaging_to_TIPARP,Avana,ACH-000435,Uterus,damaging,-0.27536434249604724
+TP53_damaging_to_TIPARP,Avana,ACH-000436,Lymphoid,matrix_intact,-0.18029834928627061
+TP53_damaging_to_TIPARP,Avana,ACH-000437,CNS/Brain,damaging,-0.8371571808489708
+TP53_damaging_to_TIPARP,Avana,ACH-000438,Lung,damaging,-0.16713772315459074
+TP53_damaging_to_TIPARP,Avana,ACH-000441,Skin,matrix_intact,-1.1537400743984367
+TP53_damaging_to_TIPARP,Avana,ACH-000444,Lung,matrix_intact,-0.7688063761749877
+TP53_damaging_to_TIPARP,Avana,ACH-000445,CNS/Brain,damaging,-0.9025960416212673
+TP53_damaging_to_TIPARP,Avana,ACH-000448,Lung,matrix_intact,-1.2484326068127314
+TP53_damaging_to_TIPARP,Avana,ACH-000450,Skin,matrix_intact,0.25164898162749477
+TP53_damaging_to_TIPARP,Avana,ACH-000452,Esophagus/Stomach,damaging,-0.23750995333806427
+TP53_damaging_to_TIPARP,Avana,ACH-000454,Lung,damaging,-1.1365375743288668
+TP53_damaging_to_TIPARP,Avana,ACH-000455,CNS/Brain,damaging,-1.608123747242793
+TP53_damaging_to_TIPARP,Avana,ACH-000456,Thyroid,damaging,-2.207023554783933
+TP53_damaging_to_TIPARP,Avana,ACH-000458,Skin,damaging,-0.20522088287755394
+TP53_damaging_to_TIPARP,Avana,ACH-000459,Kidney,matrix_intact,-0.21588285601733673
+TP53_damaging_to_TIPARP,Avana,ACH-000460,Ovary/Fallopian Tube,damaging,-0.6913141949007772
+TP53_damaging_to_TIPARP,Avana,ACH-000461,Biliary Tract,damaging,-0.331610820110055
+TP53_damaging_to_TIPARP,Avana,ACH-000463,Lung,matrix_intact,-0.27874496143676547
+TP53_damaging_to_TIPARP,Avana,ACH-000464,CNS/Brain,damaging,0.03828481635799723
+TP53_damaging_to_TIPARP,Avana,ACH-000466,Esophagus/Stomach,damaging,0.08039149184515368
+TP53_damaging_to_TIPARP,Avana,ACH-000467,Bowel,damaging,-0.3153971459495822
+TP53_damaging_to_TIPARP,Avana,ACH-000468,Pancreas,matrix_intact,-1.103313404381028
+TP53_damaging_to_TIPARP,Avana,ACH-000469,CNS/Brain,damaging,-1.0168123446402006
+TP53_damaging_to_TIPARP,Avana,ACH-000470,Bowel,damaging,-1.1758515589877128
+TP53_damaging_to_TIPARP,Avana,ACH-000471,Liver,matrix_intact,-0.5989767303596114
+TP53_damaging_to_TIPARP,Avana,ACH-000472,Head and Neck,damaging,-1.1042268646415958
+TP53_damaging_to_TIPARP,Avana,ACH-000473,Bladder/Urinary Tract,damaging,0.1628168678423213
+TP53_damaging_to_TIPARP,Avana,ACH-000475,Liver,damaging,0.19599197671767982
+TP53_damaging_to_TIPARP,Avana,ACH-000476,Liver,damaging,-0.05867993760284041
+TP53_damaging_to_TIPARP,Avana,ACH-000477,Skin,matrix_intact,0.17732850268395683
+TP53_damaging_to_TIPARP,Avana,ACH-000478,Liver,damaging,-1.3069779782720392
+TP53_damaging_to_TIPARP,Avana,ACH-000479,CNS/Brain,matrix_intact,0.0012462460763167371
+TP53_damaging_to_TIPARP,Avana,ACH-000480,Liver,damaging,-0.09945503591988303
+TP53_damaging_to_TIPARP,Avana,ACH-000481,Lung,damaging,-0.007033697286480067
+TP53_damaging_to_TIPARP,Avana,ACH-000483,Liver,damaging,-0.2852110992190654
+TP53_damaging_to_TIPARP,Avana,ACH-000484,Kidney,damaging,-0.44327604008430743
+TP53_damaging_to_TIPARP,Avana,ACH-000485,Esophagus/Stomach,damaging,-1.3536996968031365
+TP53_damaging_to_TIPARP,Avana,ACH-000486,Bladder/Urinary Tract,matrix_intact,-0.49412379238029125
+TP53_damaging_to_TIPARP,Avana,ACH-000487,Myeloid,damaging,-0.10189131395804639
+TP53_damaging_to_TIPARP,Avana,ACH-000488,Esophagus/Stomach,damaging,-1.039915963362212
+TP53_damaging_to_TIPARP,Avana,ACH-000489,Bowel,matrix_intact,-0.5723331308442239
+TP53_damaging_to_TIPARP,Avana,ACH-000490,Cervix,matrix_intact,-0.7935512932966655
+TP53_damaging_to_TIPARP,Avana,ACH-000491,Bowel,damaging,-0.11575378419704821
+TP53_damaging_to_TIPARP,Avana,ACH-000493,Liver,damaging,-0.6915683448398244
+TP53_damaging_to_TIPARP,Avana,ACH-000495,Kidney,matrix_intact,-0.10357686762092565
+TP53_damaging_to_TIPARP,Avana,ACH-000496,Lung,damaging,-1.037864310934526
+TP53_damaging_to_TIPARP,Avana,ACH-000499,Bone,damaging,-0.24130900241393147
+TP53_damaging_to_TIPARP,Avana,ACH-000500,Head and Neck,matrix_intact,0.17324147573338244
+TP53_damaging_to_TIPARP,Avana,ACH-000502,Pancreas,damaging,-0.3784340076765078
+TP53_damaging_to_TIPARP,Avana,ACH-000503,Head and Neck,damaging,-0.35081977520901875
+TP53_damaging_to_TIPARP,Avana,ACH-000504,CNS/Brain,damaging,-0.13741906593695677
+TP53_damaging_to_TIPARP,Avana,ACH-000505,Soft Tissue,damaging,-0.3371543323878101
+TP53_damaging_to_TIPARP,Avana,ACH-000507,Esophagus/Stomach,matrix_intact,0.1132524185275674
+TP53_damaging_to_TIPARP,Avana,ACH-000510,Lung,matrix_intact,-0.3842244558909461
+TP53_damaging_to_TIPARP,Avana,ACH-000511,Lung,matrix_intact,-0.9152101984940639
+TP53_damaging_to_TIPARP,Avana,ACH-000512,Lymphoid,damaging,-0.6936529063955605
+TP53_damaging_to_TIPARP,Avana,ACH-000514,Lung,damaging,0.17928188908763376
+TP53_damaging_to_TIPARP,Avana,ACH-000516,Bone,matrix_intact,-1.215696717752679
+TP53_damaging_to_TIPARP,Avana,ACH-000517,Pancreas,damaging,-1.1350003060534763
+TP53_damaging_to_TIPARP,Avana,ACH-000518,Head and Neck,damaging,-0.01605815765604302
+TP53_damaging_to_TIPARP,Avana,ACH-000520,Ovary/Fallopian Tube,damaging,-1.1704617483111133
+TP53_damaging_to_TIPARP,Avana,ACH-000521,Lung,damaging,-0.44825234397666236
+TP53_damaging_to_TIPARP,Avana,ACH-000522,Bladder/Urinary Tract,damaging,-0.18281844295512653
+TP53_damaging_to_TIPARP,Avana,ACH-000524,Ovary/Fallopian Tube,damaging,0.1642422570920043
+TP53_damaging_to_TIPARP,Avana,ACH-000525,Lung,damaging,0.3419458960144519
+TP53_damaging_to_TIPARP,Avana,ACH-000527,Ovary/Fallopian Tube,matrix_intact,-0.8890374350617554
+TP53_damaging_to_TIPARP,Avana,ACH-000528,Lung,damaging,-0.20587097263440732
+TP53_damaging_to_TIPARP,Avana,ACH-000532,Bowel,damaging,-0.585596069744495
+TP53_damaging_to_TIPARP,Avana,ACH-000533,Kidney,matrix_intact,-0.23055412814141574
+TP53_damaging_to_TIPARP,Avana,ACH-000535,Pancreas,damaging,-0.26659953676346193
+TP53_damaging_to_TIPARP,Avana,ACH-000537,Liver,damaging,-0.05330133642008933
+TP53_damaging_to_TIPARP,Avana,ACH-000541,Lymphoid,damaging,-0.7017631317712647
+TP53_damaging_to_TIPARP,Avana,ACH-000542,Ovary/Fallopian Tube,matrix_intact,-2.9759633832672323
+TP53_damaging_to_TIPARP,Avana,ACH-000544,Esophagus/Stomach,damaging,-1.141936242792787
+TP53_damaging_to_TIPARP,Avana,ACH-000545,Bladder/Urinary Tract,damaging,-0.7001099049558941
+TP53_damaging_to_TIPARP,Avana,ACH-000547,Bladder/Urinary Tract,matrix_intact,-0.09125631804978995
+TP53_damaging_to_TIPARP,Avana,ACH-000548,Head and Neck,damaging,-1.0861472772063046
+TP53_damaging_to_TIPARP,Avana,ACH-000549,Head and Neck,damaging,-0.5224891861156195
+TP53_damaging_to_TIPARP,Avana,ACH-000550,Skin,damaging,-1.1957092772561713
+TP53_damaging_to_TIPARP,Avana,ACH-000551,Myeloid,damaging,0.04263300430019607
+TP53_damaging_to_TIPARP,Avana,ACH-000552,Bowel,damaging,0.16724552163785225
+TP53_damaging_to_TIPARP,Avana,ACH-000556,Cervix,matrix_intact,0.28325971805197936
+TP53_damaging_to_TIPARP,Avana,ACH-000557,Myeloid,damaging,0.14146704181878705
+TP53_damaging_to_TIPARP,Avana,ACH-000559,Lung,damaging,-0.09330429089284661
+TP53_damaging_to_TIPARP,Avana,ACH-000563,Lung,damaging,-1.1600598918331766
+TP53_damaging_to_TIPARP,Avana,ACH-000567,Lymphoid,damaging,-0.10902493805443218
+TP53_damaging_to_TIPARP,Avana,ACH-000570,CNS/Brain,matrix_intact,-1.0869673505002808
+TP53_damaging_to_TIPARP,Avana,ACH-000571,CNS/Brain,damaging,-1.1965156133020214
+TP53_damaging_to_TIPARP,Avana,ACH-000573,Breast,damaging,-0.9254052524887566
+TP53_damaging_to_TIPARP,Avana,ACH-000576,Lymphoid,damaging,-0.5897644213583635
+TP53_damaging_to_TIPARP,Avana,ACH-000577,Liver,damaging,-0.27923418632722
+TP53_damaging_to_TIPARP,Avana,ACH-000579,Skin,matrix_intact,-0.08655491349382607
+TP53_damaging_to_TIPARP,Avana,ACH-000580,Skin,matrix_intact,-0.4636931225322942
+TP53_damaging_to_TIPARP,Avana,ACH-000581,Esophagus/Stomach,damaging,0.01523324493441082
+TP53_damaging_to_TIPARP,Avana,ACH-000584,Ovary/Fallopian Tube,damaging,-0.3337388699621362
+TP53_damaging_to_TIPARP,Avana,ACH-000585,Lung,damaging,-0.6148557522019438
+TP53_damaging_to_TIPARP,Avana,ACH-000587,Lung,damaging,-1.1187326342645232
+TP53_damaging_to_TIPARP,Avana,ACH-000588,Lymphoid,damaging,-1.3159423824411207
+TP53_damaging_to_TIPARP,Avana,ACH-000589,Lung,matrix_intact,-0.31785720580475435
+TP53_damaging_to_TIPARP,Avana,ACH-000591,CNS/Brain,damaging,-0.36194294445091174
+TP53_damaging_to_TIPARP,Avana,ACH-000592,CNS/Brain,damaging,-0.5159934372039161
+TP53_damaging_to_TIPARP,Avana,ACH-000593,Bladder/Urinary Tract,damaging,-0.8782597949827489
+TP53_damaging_to_TIPARP,Avana,ACH-000595,CNS/Brain,matrix_intact,0.8518632071718732
+TP53_damaging_to_TIPARP,Avana,ACH-000596,Lung,damaging,-1.0678862248678898
+TP53_damaging_to_TIPARP,Avana,ACH-000597,Kidney,matrix_intact,-0.021450885486189043
+TP53_damaging_to_TIPARP,Avana,ACH-000599,Pancreas,damaging,-1.656852158010702
+TP53_damaging_to_TIPARP,Avana,ACH-000601,Pancreas,damaging,-0.2648588971496937
+TP53_damaging_to_TIPARP,Avana,ACH-000602,Myeloid,matrix_intact,-0.6383384407911807
+TP53_damaging_to_TIPARP,Avana,ACH-000604,Myeloid,damaging,0.06390140079847667
+TP53_damaging_to_TIPARP,Avana,ACH-000605,Esophagus/Stomach,damaging,-0.17280364453338054
+TP53_damaging_to_TIPARP,Avana,ACH-000606,Head and Neck,damaging,-0.044987598303380116
+TP53_damaging_to_TIPARP,Avana,ACH-000607,Soft Tissue,matrix_intact,-0.33133101588765124
+TP53_damaging_to_TIPARP,Avana,ACH-000608,Ovary/Fallopian Tube,damaging,0.06780390185200716
+TP53_damaging_to_TIPARP,Avana,ACH-000609,CNS/Brain,matrix_intact,-0.13731862572203601
+TP53_damaging_to_TIPARP,Avana,ACH-000614,Skin,matrix_intact,-0.16094622671953607
+TP53_damaging_to_TIPARP,Avana,ACH-000616,Esophagus/Stomach,damaging,-1.5905461546480781
+TP53_damaging_to_TIPARP,Avana,ACH-000618,Head and Neck,damaging,-0.11094276122462407
+TP53_damaging_to_TIPARP,Avana,ACH-000619,Head and Neck,damaging,-0.6973386926035543
+TP53_damaging_to_TIPARP,Avana,ACH-000620,Liver,matrix_intact,0.23539503048212518
+TP53_damaging_to_TIPARP,Avana,ACH-000621,Breast,damaging,-0.16583819642263203
+TP53_damaging_to_TIPARP,Avana,ACH-000622,CNS/Brain,damaging,0.036796515197054736
+TP53_damaging_to_TIPARP,Avana,ACH-000623,CNS/Brain,damaging,0.16514322468032192
+TP53_damaging_to_TIPARP,Avana,ACH-000624,Breast,damaging,-0.4149851446498187
+TP53_damaging_to_TIPARP,Avana,ACH-000627,Lung,damaging,-0.3640137942513771
+TP53_damaging_to_TIPARP,Avana,ACH-000630,Head and Neck,damaging,-0.49145285401562777
+TP53_damaging_to_TIPARP,Avana,ACH-000632,Skin,damaging,0.9533120877348242
+TP53_damaging_to_TIPARP,Avana,ACH-000633,Esophagus/Stomach,damaging,0.19729080887031308
+TP53_damaging_to_TIPARP,Avana,ACH-000634,CNS/Brain,damaging,-0.03217042252870526
+TP53_damaging_to_TIPARP,Avana,ACH-000637,Esophagus/Stomach,damaging,-0.4014298940765676
+TP53_damaging_to_TIPARP,Avana,ACH-000638,Lung,damaging,-0.42394876402945225
+TP53_damaging_to_TIPARP,Avana,ACH-000639,Lung,damaging,-0.696741100628762
+TP53_damaging_to_TIPARP,Avana,ACH-000645,Pleura,matrix_intact,0.019925057956257368
+TP53_damaging_to_TIPARP,Avana,ACH-000646,Ovary/Fallopian Tube,matrix_intact,-0.23525804419275964
+TP53_damaging_to_TIPARP,Avana,ACH-000647,Esophagus/Stomach,damaging,-0.011057787763325309
+TP53_damaging_to_TIPARP,Avana,ACH-000648,Pleura,matrix_intact,-0.03578319346341984
+TP53_damaging_to_TIPARP,Avana,ACH-000649,Kidney,damaging,-0.6064253918546514
+TP53_damaging_to_TIPARP,Avana,ACH-000651,Bowel,damaging,-0.11417331682082574
+TP53_damaging_to_TIPARP,Avana,ACH-000652,Pancreas,damaging,-0.2595233474202057
+TP53_damaging_to_TIPARP,Avana,ACH-000653,Lymphoid,matrix_intact,-1.5092298387109773
+TP53_damaging_to_TIPARP,Avana,ACH-000654,Lymphoid,damaging,0.08828327378607703
+TP53_damaging_to_TIPARP,Avana,ACH-000655,CNS/Brain,damaging,-0.6929699025150023
+TP53_damaging_to_TIPARP,Avana,ACH-000657,Ovary/Fallopian Tube,matrix_intact,0.21575613659226928
+TP53_damaging_to_TIPARP,Avana,ACH-000661,Skin,matrix_intact,-0.3211568143770348
+TP53_damaging_to_TIPARP,Avana,ACH-000662,Lung,matrix_intact,-1.4926202757256908
+TP53_damaging_to_TIPARP,Avana,ACH-000663,Ovary/Fallopian Tube,matrix_intact,0.2497024780111236
+TP53_damaging_to_TIPARP,Avana,ACH-000664,Lymphoid,damaging,-0.7614188646774128
+TP53_damaging_to_TIPARP,Avana,ACH-000665,Lung,damaging,-0.8111075755557423
+TP53_damaging_to_TIPARP,Avana,ACH-000667,Lung,damaging,-0.6368184021887764
+TP53_damaging_to_TIPARP,Avana,ACH-000671,Liver,damaging,0.2729606586159359
+TP53_damaging_to_TIPARP,Avana,ACH-000673,CNS/Brain,damaging,-0.6519447139082701
+TP53_damaging_to_TIPARP,Avana,ACH-000676,CNS/Brain,damaging,-0.10665258835597546
+TP53_damaging_to_TIPARP,Avana,ACH-000677,Lung,matrix_intact,-0.3024922170785382
+TP53_damaging_to_TIPARP,Avana,ACH-000680,Bowel,damaging,-0.06280054318481387
+TP53_damaging_to_TIPARP,Avana,ACH-000681,Lung,matrix_intact,-0.37645082983381895
+TP53_damaging_to_TIPARP,Avana,ACH-000682,Head and Neck,damaging,-0.5697222751340476
+TP53_damaging_to_TIPARP,Avana,ACH-000683,Bowel,damaging,-0.4805342208003143
+TP53_damaging_to_TIPARP,Avana,ACH-000684,Kidney,matrix_intact,-0.006985579262049929
+TP53_damaging_to_TIPARP,Avana,ACH-000685,Pancreas,damaging,-0.013942851048500654
+TP53_damaging_to_TIPARP,Avana,ACH-000688,Ovary/Fallopian Tube,damaging,-0.6842840172976548
+TP53_damaging_to_TIPARP,Avana,ACH-000693,Esophagus/Stomach,damaging,-0.18121466308470646
+TP53_damaging_to_TIPARP,Avana,ACH-000694,Esophagus/Stomach,damaging,-0.46074913323117395
+TP53_damaging_to_TIPARP,Avana,ACH-000695,Lung,damaging,-0.14103416048209017
+TP53_damaging_to_TIPARP,Avana,ACH-000696,Ovary/Fallopian Tube,damaging,-0.5554742845362326
+TP53_damaging_to_TIPARP,Avana,ACH-000697,Lymphoid,matrix_intact,-0.3827877367548974
+TP53_damaging_to_TIPARP,Avana,ACH-000698,Lung,damaging,-0.16752191931537697
+TP53_damaging_to_TIPARP,Avana,ACH-000699,Breast,damaging,0.027158150909223005
+TP53_damaging_to_TIPARP,Avana,ACH-000700,Lung,damaging,-0.3912554839275124
+TP53_damaging_to_TIPARP,Avana,ACH-000701,Ovary/Fallopian Tube,damaging,0.0612631626682893
+TP53_damaging_to_TIPARP,Avana,ACH-000702,Lymphoid,matrix_intact,-0.697839671596487
+TP53_damaging_to_TIPARP,Avana,ACH-000706,Lung,damaging,0.12615146861026894
+TP53_damaging_to_TIPARP,Avana,ACH-000709,Kidney,matrix_intact,-0.09662034687587576
+TP53_damaging_to_TIPARP,Avana,ACH-000711,Breast,damaging,-0.41540887998686554
+TP53_damaging_to_TIPARP,Avana,ACH-000713,Ovary/Fallopian Tube,damaging,-0.18623065799810867
+TP53_damaging_to_TIPARP,Avana,ACH-000714,Lymphoid,matrix_intact,-0.6249377527330024
+TP53_damaging_to_TIPARP,Avana,ACH-000716,Thyroid,damaging,-0.44777822996945243
+TP53_damaging_to_TIPARP,Avana,ACH-000718,Lung,damaging,-1.1562172311830923
+TP53_damaging_to_TIPARP,Avana,ACH-000719,Ovary/Fallopian Tube,matrix_intact,-0.11815619895779376
+TP53_damaging_to_TIPARP,Avana,ACH-000720,Bladder/Urinary Tract,damaging,-0.24316602855175426
+TP53_damaging_to_TIPARP,Avana,ACH-000721,Breast,damaging,-0.1302624812186108
+TP53_damaging_to_TIPARP,Avana,ACH-000724,Bladder/Urinary Tract,damaging,0.20146981778770817
+TP53_damaging_to_TIPARP,Avana,ACH-000725,Breast,damaging,0.08710561915693885
+TP53_damaging_to_TIPARP,Avana,ACH-000732,Head and Neck,damaging,-0.6926515971563063
+TP53_damaging_to_TIPARP,Avana,ACH-000734,Liver,matrix_intact,0.03608408012658861
+TP53_damaging_to_TIPARP,Avana,ACH-000735,Head and Neck,matrix_intact,-1.8743452835738361
+TP53_damaging_to_TIPARP,Avana,ACH-000736,Esophagus/Stomach,damaging,-0.17816730803191308
+TP53_damaging_to_TIPARP,Avana,ACH-000738,CNS/Brain,matrix_intact,0.28935626307472795
+TP53_damaging_to_TIPARP,Avana,ACH-000739,Liver,matrix_intact,0.28867496751142335
+TP53_damaging_to_TIPARP,Avana,ACH-000740,Head and Neck,damaging,-1.8060435081394464
+TP53_damaging_to_TIPARP,Avana,ACH-000741,Bladder/Urinary Tract,damaging,-0.03692120600421138
+TP53_damaging_to_TIPARP,Avana,ACH-000746,Esophagus/Stomach,damaging,0.6805877018786277
+TP53_damaging_to_TIPARP,Avana,ACH-000747,Lung,damaging,0.13833333904930048
+TP53_damaging_to_TIPARP,Avana,ACH-000748,Bone,matrix_intact,-0.5299926095534745
+TP53_damaging_to_TIPARP,Avana,ACH-000753,Bladder/Urinary Tract,damaging,-0.5032054993654101
+TP53_damaging_to_TIPARP,Avana,ACH-000754,Lymphoid,matrix_intact,-0.589294640547457
+TP53_damaging_to_TIPARP,Avana,ACH-000756,CNS/Brain,damaging,-0.1410044023413154
+TP53_damaging_to_TIPARP,Avana,ACH-000757,Lung,matrix_intact,-0.49838270893140246
+TP53_damaging_to_TIPARP,Avana,ACH-000758,Esophagus/Stomach,damaging,0.17389014554999396
+TP53_damaging_to_TIPARP,Avana,ACH-000760,CNS/Brain,matrix_intact,0.15960448696556373
+TP53_damaging_to_TIPARP,Avana,ACH-000762,Head and Neck,damaging,-0.8681754341036778
+TP53_damaging_to_TIPARP,Avana,ACH-000763,Lymphoid,matrix_intact,-1.1772770661638816
+TP53_damaging_to_TIPARP,Avana,ACH-000764,Esophagus/Stomach,damaging,0.054706939135824945
+TP53_damaging_to_TIPARP,Avana,ACH-000765,Skin,matrix_intact,0.09626199151455203
+TP53_damaging_to_TIPARP,Avana,ACH-000766,Lung,damaging,-1.7347401488036316
+TP53_damaging_to_TIPARP,Avana,ACH-000767,Lung,damaging,0.3731898260339931
+TP53_damaging_to_TIPARP,Avana,ACH-000768,Breast,damaging,-1.831278636423424
+TP53_damaging_to_TIPARP,Avana,ACH-000769,Lung,damaging,-0.08777072492317355
+TP53_damaging_to_TIPARP,Avana,ACH-000770,Myeloid,damaging,0.08880221876690376
+TP53_damaging_to_TIPARP,Avana,ACH-000771,Head and Neck,damaging,-1.1862245659867408
+TP53_damaging_to_TIPARP,Avana,ACH-000773,Lymphoid,matrix_intact,-0.4885805864883157
+TP53_damaging_to_TIPARP,Avana,ACH-000774,Lung,damaging,-0.8643297112535011
+TP53_damaging_to_TIPARP,Avana,ACH-000775,Lung,matrix_intact,-0.1520718070076677
+TP53_damaging_to_TIPARP,Avana,ACH-000776,CNS/Brain,matrix_intact,0.1252604178890549
+TP53_damaging_to_TIPARP,Avana,ACH-000777,Esophagus/Stomach,damaging,-0.4102788930636163
+TP53_damaging_to_TIPARP,Avana,ACH-000778,Head and Neck,damaging,-0.4780989756452537
+TP53_damaging_to_TIPARP,Avana,ACH-000781,Lung,damaging,-0.0014166691810146292
+TP53_damaging_to_TIPARP,Avana,ACH-000782,Lymphoid,damaging,0.13846778174232457
+TP53_damaging_to_TIPARP,Avana,ACH-000783,Breast,damaging,0.021252181510940514
+TP53_damaging_to_TIPARP,Avana,ACH-000784,Esophagus/Stomach,damaging,-0.3782543115615794
+TP53_damaging_to_TIPARP,Avana,ACH-000785,Lung,damaging,-0.5474528742955522
+TP53_damaging_to_TIPARP,Avana,ACH-000787,Lung,damaging,-0.8252245778126079
+TP53_damaging_to_TIPARP,Avana,ACH-000788,Skin,damaging,0.2086131721835639
+TP53_damaging_to_TIPARP,Avana,ACH-000790,Lung,damaging,-0.19782584931182876
+TP53_damaging_to_TIPARP,Avana,ACH-000791,Lung,matrix_intact,-0.31337391435702733
+TP53_damaging_to_TIPARP,Avana,ACH-000792,Kidney,damaging,-0.42057988621400577
+TP53_damaging_to_TIPARP,Avana,ACH-000793,Esophagus/Stomach,matrix_intact,-0.495629113834398
+TP53_damaging_to_TIPARP,Avana,ACH-000794,Head and Neck,damaging,-3.572052583795678
+TP53_damaging_to_TIPARP,Avana,ACH-000796,Ovary/Fallopian Tube,damaging,-1.5732193894592377
+TP53_damaging_to_TIPARP,Avana,ACH-000799,Skin,matrix_intact,-0.40332004242050085
+TP53_damaging_to_TIPARP,Avana,ACH-000800,Lung,damaging,-0.23885248541740364
+TP53_damaging_to_TIPARP,Avana,ACH-000801,Skin,matrix_intact,0.40362272752532924
+TP53_damaging_to_TIPARP,Avana,ACH-000802,Bladder/Urinary Tract,damaging,-0.974762344319609
+TP53_damaging_to_TIPARP,Avana,ACH-000804,Peripheral Nervous System,matrix_intact,0.06996905745270321
+TP53_damaging_to_TIPARP,Avana,ACH-000805,Skin,matrix_intact,0.33010039329441726
+TP53_damaging_to_TIPARP,Avana,ACH-000807,CNS/Brain,damaging,-0.7023448617955377
+TP53_damaging_to_TIPARP,Avana,ACH-000809,Esophagus/Stomach,damaging,-0.473533963195964
+TP53_damaging_to_TIPARP,Avana,ACH-000810,Skin,damaging,-0.23446092672776686
+TP53_damaging_to_TIPARP,Avana,ACH-000811,Ovary/Fallopian Tube,damaging,0.019952292323263288
+TP53_damaging_to_TIPARP,Avana,ACH-000817,Lymphoid,damaging,-0.05307271367045818
+TP53_damaging_to_TIPARP,Avana,ACH-000819,CNS/Brain,damaging,0.1871175380565816
+TP53_damaging_to_TIPARP,Avana,ACH-000820,Bowel,damaging,-0.3871305252380195
+TP53_damaging_to_TIPARP,Avana,ACH-000821,Lymphoid,damaging,-0.8851199802831666
+TP53_damaging_to_TIPARP,Avana,ACH-000822,Skin,matrix_intact,-0.14395816927401706
+TP53_damaging_to_TIPARP,Avana,ACH-000823,Esophagus/Stomach,damaging,-0.19052289200326242
+TP53_damaging_to_TIPARP,Avana,ACH-000824,Esophagus/Stomach,damaging,-0.008831004820882567
+TP53_damaging_to_TIPARP,Avana,ACH-000827,Skin,matrix_intact,-0.6984022495527888
+TP53_damaging_to_TIPARP,Avana,ACH-000829,Lymphoid,matrix_intact,-0.1436574249486125
+TP53_damaging_to_TIPARP,Avana,ACH-000831,Uterus,damaging,-0.24172841899268296
+TP53_damaging_to_TIPARP,Avana,ACH-000832,Head and Neck,damaging,-1.7982804078791546
+TP53_damaging_to_TIPARP,Avana,ACH-000833,Soft Tissue,damaging,-0.07078444419192516
+TP53_damaging_to_TIPARP,Avana,ACH-000834,Bladder/Urinary Tract,damaging,-0.1590209870369525
+TP53_damaging_to_TIPARP,Avana,ACH-000835,Soft Tissue,damaging,-1.5945724763621478
+TP53_damaging_to_TIPARP,Avana,ACH-000836,Head and Neck,damaging,-0.9537147499295731
+TP53_damaging_to_TIPARP,Avana,ACH-000837,Lung,damaging,-0.503633181049916
+TP53_damaging_to_TIPARP,Avana,ACH-000838,Lymphoid,matrix_intact,-0.098624753439016
+TP53_damaging_to_TIPARP,Avana,ACH-000839,Bladder/Urinary Tract,damaging,-1.3338609471829543
+TP53_damaging_to_TIPARP,Avana,ACH-000840,Lung,damaging,-0.22505048175723097
+TP53_damaging_to_TIPARP,Avana,ACH-000841,Lung,damaging,-0.6112160680711178
+TP53_damaging_to_TIPARP,Avana,ACH-000843,Lung,damaging,-0.3106052498272889
+TP53_damaging_to_TIPARP,Avana,ACH-000845,Lung,damaging,-1.598873375555935
+TP53_damaging_to_TIPARP,Avana,ACH-000846,Head and Neck,damaging,-0.822573926042296
+TP53_damaging_to_TIPARP,Avana,ACH-000847,Esophagus/Stomach,damaging,0.18402974070507577
+TP53_damaging_to_TIPARP,Avana,ACH-000848,Liver,matrix_intact,0.2788463890668269
+TP53_damaging_to_TIPARP,Avana,ACH-000849,Breast,damaging,0.0757404799790666
+TP53_damaging_to_TIPARP,Avana,ACH-000851,Lung,damaging,-0.1808154182982374
+TP53_damaging_to_TIPARP,Avana,ACH-000853,Lung,damaging,-0.8012838529802342
+TP53_damaging_to_TIPARP,Avana,ACH-000855,Esophagus/Stomach,damaging,-0.9728564688921195
+TP53_damaging_to_TIPARP,Avana,ACH-000856,Breast,matrix_intact,-0.07902707122519224
+TP53_damaging_to_TIPARP,Avana,ACH-000858,Lung,damaging,-0.21765029952758264
+TP53_damaging_to_TIPARP,Avana,ACH-000859,Breast,damaging,-0.6258320678787533
+TP53_damaging_to_TIPARP,Avana,ACH-000860,Lung,matrix_intact,-0.1545133683558596
+TP53_damaging_to_TIPARP,Avana,ACH-000861,Lung,damaging,-0.5429593510511908
+TP53_damaging_to_TIPARP,Avana,ACH-000862,Bladder/Urinary Tract,damaging,-0.7020339299959142
+TP53_damaging_to_TIPARP,Avana,ACH-000865,Esophagus/Stomach,damaging,-0.07534745151266972
+TP53_damaging_to_TIPARP,Avana,ACH-000866,Lung,damaging,0.3722509940025308
+TP53_damaging_to_TIPARP,Avana,ACH-000867,Lung,damaging,0.04630285585469811
+TP53_damaging_to_TIPARP,Avana,ACH-000869,Lung,damaging,0.9122335435403183
+TP53_damaging_to_TIPARP,Avana,ACH-000871,Lung,damaging,0.05720110802439041
+TP53_damaging_to_TIPARP,Avana,ACH-000872,Lung,damaging,-0.2828943073406997
+TP53_damaging_to_TIPARP,Avana,ACH-000873,Esophagus/Stomach,damaging,-0.13700614322114427
+TP53_damaging_to_TIPARP,Avana,ACH-000876,Breast,damaging,0.5788233309095081
+TP53_damaging_to_TIPARP,Avana,ACH-000878,Lung,damaging,0.33969672946039386
+TP53_damaging_to_TIPARP,Avana,ACH-000880,Esophagus/Stomach,matrix_intact,-0.1300360570509053
+TP53_damaging_to_TIPARP,Avana,ACH-000881,Skin,matrix_intact,-0.4036957804588197
+TP53_damaging_to_TIPARP,Avana,ACH-000882,Skin,matrix_intact,0.2999396278352866
+TP53_damaging_to_TIPARP,Avana,ACH-000884,Skin,damaging,-0.3251713602401533
+TP53_damaging_to_TIPARP,Avana,ACH-000885,Ovary/Fallopian Tube,matrix_intact,-0.5003357710189864
+TP53_damaging_to_TIPARP,Avana,ACH-000886,Lung,damaging,-1.2775424879446007
+TP53_damaging_to_TIPARP,Avana,ACH-000887,CNS/Brain,damaging,0.19324740214296615
+TP53_damaging_to_TIPARP,Avana,ACH-000888,Lung,damaging,-0.060250537374235254
+TP53_damaging_to_TIPARP,Avana,ACH-000889,Lymphoid,damaging,0.3347813371172679
+TP53_damaging_to_TIPARP,Avana,ACH-000890,Lung,damaging,-1.437818785122168
+TP53_damaging_to_TIPARP,Avana,ACH-000896,Bladder/Urinary Tract,damaging,0.12678167012673436
+TP53_damaging_to_TIPARP,Avana,ACH-000898,Esophagus/Stomach,matrix_intact,-0.5081010444080256
+TP53_damaging_to_TIPARP,Avana,ACH-000899,Skin,matrix_intact,0.18625584882844054
+TP53_damaging_to_TIPARP,Avana,ACH-000900,Lung,damaging,-0.6060246195038843
+TP53_damaging_to_TIPARP,Avana,ACH-000901,Lung,damaging,-0.5861569339294608
+TP53_damaging_to_TIPARP,Avana,ACH-000903,Thyroid,damaging,-0.37343979543658573
+TP53_damaging_to_TIPARP,Avana,ACH-000905,Bladder/Urinary Tract,damaging,-0.5160159404653801
+TP53_damaging_to_TIPARP,Avana,ACH-000906,Ovary/Fallopian Tube,damaging,-0.4371265595793095
+TP53_damaging_to_TIPARP,Avana,ACH-000907,Kidney,matrix_intact,-0.9354890216921978
+TP53_damaging_to_TIPARP,Avana,ACH-000910,Breast,matrix_intact,0.07173982263580685
+TP53_damaging_to_TIPARP,Avana,ACH-000911,Esophagus/Stomach,damaging,0.29299641049101044
+TP53_damaging_to_TIPARP,Avana,ACH-000912,Lung,damaging,1.0398491866208288
+TP53_damaging_to_TIPARP,Avana,ACH-000913,Uterus,damaging,-0.9474952685747491
+TP53_damaging_to_TIPARP,Avana,ACH-000914,Lymphoid,damaging,-0.12240037994781355
+TP53_damaging_to_TIPARP,Avana,ACH-000915,Skin,damaging,0.28243926299862476
+TP53_damaging_to_TIPARP,Avana,ACH-000916,Lung,damaging,-0.8397467523905795
+TP53_damaging_to_TIPARP,Avana,ACH-000917,Esophagus/Stomach,matrix_intact,-0.2542581041045449
+TP53_damaging_to_TIPARP,Avana,ACH-000920,Myeloid,damaging,-0.031183015421618138
+TP53_damaging_to_TIPARP,Avana,ACH-000921,Lung,damaging,-0.418161077998397
+TP53_damaging_to_TIPARP,Avana,ACH-000922,Lymphoid,matrix_intact,0.16160741192257033
+TP53_damaging_to_TIPARP,Avana,ACH-000924,Lung,damaging,-0.45426737138780504
+TP53_damaging_to_TIPARP,Avana,ACH-000926,Bowel,matrix_intact,-0.29421845581412015
+TP53_damaging_to_TIPARP,Avana,ACH-000928,Uterus,matrix_intact,-0.325931967049538
+TP53_damaging_to_TIPARP,Avana,ACH-000929,Lung,damaging,-0.26249717946867746
+TP53_damaging_to_TIPARP,Avana,ACH-000932,Esophagus/Stomach,matrix_intact,-0.13266520254838768
+TP53_damaging_to_TIPARP,Avana,ACH-000935,Bowel,matrix_intact,-0.5138568243264101
+TP53_damaging_to_TIPARP,Avana,ACH-000936,Ovary/Fallopian Tube,damaging,0.1397264681800675
+TP53_damaging_to_TIPARP,Avana,ACH-000937,Lymphoid,damaging,0.3211859226651983
+TP53_damaging_to_TIPARP,Avana,ACH-000938,Lymphoid,matrix_intact,0.19093427703497046
+TP53_damaging_to_TIPARP,Avana,ACH-000939,Uterus,damaging,0.36031046014195056
+TP53_damaging_to_TIPARP,Avana,ACH-000941,Uterus,damaging,-0.1493428672198665
+TP53_damaging_to_TIPARP,Avana,ACH-000943,Bowel,matrix_intact,0.035902415698524814
+TP53_damaging_to_TIPARP,Avana,ACH-000944,Lymphoid,damaging,0.2275757278954748
+TP53_damaging_to_TIPARP,Avana,ACH-000946,Uterus,matrix_intact,-0.06845404281170209
+TP53_damaging_to_TIPARP,Avana,ACH-000947,Ovary/Fallopian Tube,damaging,0.056338643824543774
+TP53_damaging_to_TIPARP,Avana,ACH-000948,Esophagus/Stomach,matrix_intact,-0.5013457349500197
+TP53_damaging_to_TIPARP,Avana,ACH-000950,Bowel,matrix_intact,-0.2849839888966771
+TP53_damaging_to_TIPARP,Avana,ACH-000953,Lymphoid,damaging,0.4275988759491285
+TP53_damaging_to_TIPARP,Avana,ACH-000957,Bowel,matrix_intact,-0.11494556805924945
+TP53_damaging_to_TIPARP,Avana,ACH-000958,Bowel,matrix_intact,-0.26542810573522807
+TP53_damaging_to_TIPARP,Avana,ACH-000959,Bowel,damaging,-0.05626347475380419
+TP53_damaging_to_TIPARP,Avana,ACH-000960,Lymphoid,damaging,-0.06806526447990129
+TP53_damaging_to_TIPARP,Avana,ACH-000961,Uterus,damaging,0.014510768686637497
+TP53_damaging_to_TIPARP,Avana,ACH-000963,Bowel,damaging,-0.03174616452250572
+TP53_damaging_to_TIPARP,Avana,ACH-000965,Uterus,matrix_intact,0.21432307656874505
+TP53_damaging_to_TIPARP,Avana,ACH-000968,Skin,matrix_intact,-0.2517842942405428
+TP53_damaging_to_TIPARP,Avana,ACH-000969,Bowel,damaging,-0.36110468267577145
+TP53_damaging_to_TIPARP,Avana,ACH-000973,Bladder/Urinary Tract,damaging,0.09951181893678292
+TP53_damaging_to_TIPARP,Avana,ACH-000974,Uterus,matrix_intact,-0.2597835994109113
+TP53_damaging_to_TIPARP,Avana,ACH-000975,Lung,damaging,-0.2158487355302214
+TP53_damaging_to_TIPARP,Avana,ACH-000976,Biliary Tract,damaging,-0.8935903240627621
+TP53_damaging_to_TIPARP,Avana,ACH-000977,Prostate,matrix_intact,0.1823307836146997
+TP53_damaging_to_TIPARP,Avana,ACH-000978,Uterus,damaging,0.08164492414673896
+TP53_damaging_to_TIPARP,Avana,ACH-000980,Lung,damaging,0.006953629715298358
+TP53_damaging_to_TIPARP,Avana,ACH-000983,Myeloid,damaging,-0.2239175954249295
+TP53_damaging_to_TIPARP,Avana,ACH-000984,Uterus,damaging,-0.1878738865056726
+TP53_damaging_to_TIPARP,Avana,ACH-000986,Bowel,damaging,-0.2514934916192234
+TP53_damaging_to_TIPARP,Avana,ACH-000988,Uterus,damaging,0.004181376033923129
+TP53_damaging_to_TIPARP,Avana,ACH-000993,Uterus,damaging,-0.10861645325861555
+TP53_damaging_to_TIPARP,Avana,ACH-000994,Uterus,damaging,0.1424119541516613
+TP53_damaging_to_TIPARP,Avana,ACH-000995,Lymphoid,damaging,0.015263440960874446
+TP53_damaging_to_TIPARP,Avana,ACH-000996,Uterus,damaging,-0.5442909049445319
+TP53_damaging_to_TIPARP,Avana,ACH-001001,Bone,damaging,-0.6400600087884882
+TP53_damaging_to_TIPARP,Avana,ACH-001020,CNS/Brain,matrix_intact,-0.027784728517567102
+TP53_damaging_to_TIPARP,Avana,ACH-001028,CNS/Brain,damaging,0.08982535648371354
+TP53_damaging_to_TIPARP,Avana,ACH-001029,Bone,damaging,0.2968144200798554
+TP53_damaging_to_TIPARP,Avana,ACH-001031,CNS/Brain,matrix_intact,0.06577084605486189
+TP53_damaging_to_TIPARP,Avana,ACH-001033,CNS/Brain,matrix_intact,-0.894983552644375
+TP53_damaging_to_TIPARP,Avana,ACH-001036,Myeloid,matrix_intact,-0.28548379758751036
+TP53_damaging_to_TIPARP,Avana,ACH-001038,Bone,damaging,-1.7064076249698097
+TP53_damaging_to_TIPARP,Avana,ACH-001041,Skin,damaging,0.148212786658812
+TP53_damaging_to_TIPARP,Avana,ACH-001048,Ovary/Fallopian Tube,damaging,-0.8507578659078643
+TP53_damaging_to_TIPARP,Avana,ACH-001050,Soft Tissue,matrix_intact,-0.7998821514810346
+TP53_damaging_to_TIPARP,Avana,ACH-001053,CNS/Brain,matrix_intact,-0.09605063287171067
+TP53_damaging_to_TIPARP,Avana,ACH-001054,CNS/Brain,matrix_intact,-0.5190075161145824
+TP53_damaging_to_TIPARP,Avana,ACH-001061,Bowel,damaging,-0.0292481189556901
+TP53_damaging_to_TIPARP,Avana,ACH-001067,CNS/Brain,matrix_intact,-0.5212171032764732
+TP53_damaging_to_TIPARP,Avana,ACH-001075,Lung,matrix_intact,0.12734089126360806
+TP53_damaging_to_TIPARP,Avana,ACH-001096,Soft Tissue,matrix_intact,-0.2266904826027041
+TP53_damaging_to_TIPARP,Avana,ACH-001098,Pancreas,damaging,-0.42656688923028035
+TP53_damaging_to_TIPARP,Avana,ACH-001099,Kidney,matrix_intact,0.1593395853805705
+TP53_damaging_to_TIPARP,Avana,ACH-001119,Lymphoid,matrix_intact,-0.2617998655235479
+TP53_damaging_to_TIPARP,Avana,ACH-001128,Kidney,matrix_intact,0.020456680454813747
+TP53_damaging_to_TIPARP,Avana,ACH-001129,Myeloid,damaging,-0.021834443493763553
+TP53_damaging_to_TIPARP,Avana,ACH-001134,Lymphoid,matrix_intact,-0.2134054711930788
+TP53_damaging_to_TIPARP,Avana,ACH-001145,Ovary/Fallopian Tube,damaging,-0.8075391835378216
+TP53_damaging_to_TIPARP,Avana,ACH-001151,Ovary/Fallopian Tube,matrix_intact,-0.705751201866165
+TP53_damaging_to_TIPARP,Avana,ACH-001163,Kidney,damaging,0.1878749396399345
+TP53_damaging_to_TIPARP,Avana,ACH-001164,Soft Tissue,matrix_intact,0.14218197802242027
+TP53_damaging_to_TIPARP,Avana,ACH-001172,CNS/Brain,damaging,0.14459518541248048
+TP53_damaging_to_TIPARP,Avana,ACH-001183,Bladder/Urinary Tract,damaging,-0.22256277111022799
+TP53_damaging_to_TIPARP,Avana,ACH-001184,Soft Tissue,matrix_intact,-0.3079532664932847
+TP53_damaging_to_TIPARP,Avana,ACH-001188,Peripheral Nervous System,matrix_intact,0.16809576337499132
+TP53_damaging_to_TIPARP,Avana,ACH-001190,Skin,damaging,-0.036914447520478844
+TP53_damaging_to_TIPARP,Avana,ACH-001192,Bone,damaging,-0.3802401679165719
+TP53_damaging_to_TIPARP,Avana,ACH-001193,Bone,damaging,-0.07385322671988485
+TP53_damaging_to_TIPARP,Avana,ACH-001194,Kidney,damaging,-1.187686276226998
+TP53_damaging_to_TIPARP,Avana,ACH-001196,Soft Tissue,damaging,-0.10870107841574715
+TP53_damaging_to_TIPARP,Avana,ACH-001197,Lymphoid,damaging,-1.1452292755922944
+TP53_damaging_to_TIPARP,Avana,ACH-001205,Bone,matrix_intact,-0.2291472550405818
+TP53_damaging_to_TIPARP,Avana,ACH-001211,Kidney,matrix_intact,0.13711945419137414
+TP53_damaging_to_TIPARP,Avana,ACH-001212,Kidney,matrix_intact,0.13660717941694675
+TP53_damaging_to_TIPARP,Avana,ACH-001228,Head and Neck,matrix_intact,-0.24734125405125484
+TP53_damaging_to_TIPARP,Avana,ACH-001229,Head and Neck,matrix_intact,-0.39112584758553387
+TP53_damaging_to_TIPARP,Avana,ACH-001232,CNS/Brain,damaging,-0.07990103346659627
+TP53_damaging_to_TIPARP,Avana,ACH-001239,Skin,matrix_intact,0.5978242427300562
+TP53_damaging_to_TIPARP,Avana,ACH-001270,Soft Tissue,matrix_intact,0.1830930063236491
+TP53_damaging_to_TIPARP,Avana,ACH-001274,Soft Tissue,matrix_intact,-0.6088500857195588
+TP53_damaging_to_TIPARP,Avana,ACH-001275,Soft Tissue,matrix_intact,0.046780678340963486
+TP53_damaging_to_TIPARP,Avana,ACH-001277,Soft Tissue,damaging,-0.026019305879481147
+TP53_damaging_to_TIPARP,Avana,ACH-001278,Ovary/Fallopian Tube,matrix_intact,-0.03441576038171067
+TP53_damaging_to_TIPARP,Avana,ACH-001279,Ovary/Fallopian Tube,matrix_intact,-0.1217292433743106
+TP53_damaging_to_TIPARP,Avana,ACH-001280,Soft Tissue,damaging,0.18278214021132116
+TP53_damaging_to_TIPARP,Avana,ACH-001283,Bone,damaging,-1.2609689216899556
+TP53_damaging_to_TIPARP,Avana,ACH-001289,CNS/Brain,matrix_intact,0.4582613920876857
+TP53_damaging_to_TIPARP,Avana,ACH-001295,Eye,matrix_intact,0.07280278778477581
+TP53_damaging_to_TIPARP,Avana,ACH-001300,Peripheral Nervous System,matrix_intact,-0.03229866348849165
+TP53_damaging_to_TIPARP,Avana,ACH-001301,Peripheral Nervous System,matrix_intact,0.05196762015162631
+TP53_damaging_to_TIPARP,Avana,ACH-001302,Peripheral Nervous System,matrix_intact,0.09150386207964271
+TP53_damaging_to_TIPARP,Avana,ACH-001303,Peripheral Nervous System,matrix_intact,-0.20419603104864376
+TP53_damaging_to_TIPARP,Avana,ACH-001306,Thyroid,damaging,0.03575370662370543
+TP53_damaging_to_TIPARP,Avana,ACH-001307,Thyroid,damaging,-0.4891148474822872
+TP53_damaging_to_TIPARP,Avana,ACH-001310,Kidney,matrix_intact,-0.4021833758688418
+TP53_damaging_to_TIPARP,Avana,ACH-001318,Liver,damaging,0.2111582293644751
+TP53_damaging_to_TIPARP,Avana,ACH-001322,Soft Tissue,matrix_intact,-0.271270487674601
+TP53_damaging_to_TIPARP,Avana,ACH-001328,Skin,damaging,-0.6749374202780234
+TP53_damaging_to_TIPARP,Avana,ACH-001329,CNS/Brain,matrix_intact,-0.6189102317605357
+TP53_damaging_to_TIPARP,Avana,ACH-001333,Cervix,damaging,-0.24824918256235412
+TP53_damaging_to_TIPARP,Avana,ACH-001334,Cervix,matrix_intact,-1.6472573617073798
+TP53_damaging_to_TIPARP,Avana,ACH-001335,Cervix,matrix_intact,0.6212319405522857
+TP53_damaging_to_TIPARP,Avana,ACH-001336,Cervix,matrix_intact,-0.5268589082151512
+TP53_damaging_to_TIPARP,Avana,ACH-001338,Peripheral Nervous System,matrix_intact,0.03616413133573202
+TP53_damaging_to_TIPARP,Avana,ACH-001340,Ovary/Fallopian Tube,damaging,-0.5164685842780612
+TP53_damaging_to_TIPARP,Avana,ACH-001341,Cervix,matrix_intact,-0.40991731349602206
+TP53_damaging_to_TIPARP,Avana,ACH-001344,Peripheral Nervous System,matrix_intact,0.42573983668145493
+TP53_damaging_to_TIPARP,Avana,ACH-001345,Bowel,matrix_intact,-0.06983410266184319
+TP53_damaging_to_TIPARP,Avana,ACH-001346,Head and Neck,damaging,-1.0344896620326312
+TP53_damaging_to_TIPARP,Avana,ACH-001347,Head and Neck,damaging,0.14789355333392734
+TP53_damaging_to_TIPARP,Avana,ACH-001353,Pancreas,damaging,-3.728632822401224
+TP53_damaging_to_TIPARP,Avana,ACH-001354,Peripheral Nervous System,damaging,-0.051752826016839414
+TP53_damaging_to_TIPARP,Avana,ACH-001356,Thyroid,damaging,-0.11007434598358579
+TP53_damaging_to_TIPARP,Avana,ACH-001360,Cervix,matrix_intact,0.215517592723804
+TP53_damaging_to_TIPARP,Avana,ACH-001366,Peripheral Nervous System,damaging,0.1603181110615593
+TP53_damaging_to_TIPARP,Avana,ACH-001367,Peripheral Nervous System,damaging,-0.3126132597253628
+TP53_damaging_to_TIPARP,Avana,ACH-001368,Esophagus/Stomach,damaging,0.17956965630493665
+TP53_damaging_to_TIPARP,Avana,ACH-001370,Ovary/Fallopian Tube,damaging,-0.11339277357106604
+TP53_damaging_to_TIPARP,Avana,ACH-001374,Ovary/Fallopian Tube,matrix_intact,0.23638603339541342
+TP53_damaging_to_TIPARP,Avana,ACH-001375,Pancreas,damaging,-0.3957781912131222
+TP53_damaging_to_TIPARP,Avana,ACH-001377,Pancreas,matrix_intact,0.016144541017681008
+TP53_damaging_to_TIPARP,Avana,ACH-001379,Pancreas,damaging,-1.0022284333553522
+TP53_damaging_to_TIPARP,Avana,ACH-001380,Pancreas,damaging,-0.5016916729360146
+TP53_damaging_to_TIPARP,Avana,ACH-001382,Pancreas,damaging,0.05794495215295514
+TP53_damaging_to_TIPARP,Avana,ACH-001385,Head and Neck,matrix_intact,-0.06325005025412328
+TP53_damaging_to_TIPARP,Avana,ACH-001386,Lung,damaging,0.002829637308265895
+TP53_damaging_to_TIPARP,Avana,ACH-001388,Breast,matrix_intact,-0.2299583170705975
+TP53_damaging_to_TIPARP,Avana,ACH-001389,Breast,damaging,-0.17660751061748486
+TP53_damaging_to_TIPARP,Avana,ACH-001390,Breast,damaging,0.13737177554454763
+TP53_damaging_to_TIPARP,Avana,ACH-001391,Breast,matrix_intact,-0.29104530441331455
+TP53_damaging_to_TIPARP,Avana,ACH-001392,Breast,damaging,0.16001921775679673
+TP53_damaging_to_TIPARP,Avana,ACH-001393,Breast,damaging,0.14773791661477859
+TP53_damaging_to_TIPARP,Avana,ACH-001394,Breast,damaging,-1.6625728555983115
+TP53_damaging_to_TIPARP,Avana,ACH-001396,Breast,damaging,0.003967694620182094
+TP53_damaging_to_TIPARP,Avana,ACH-001398,Kidney,matrix_intact,-0.22283862373120697
+TP53_damaging_to_TIPARP,Avana,ACH-001400,Vulva/Vagina,damaging,-0.37270980113549435
+TP53_damaging_to_TIPARP,Avana,ACH-001402,Cervix,matrix_intact,-0.2562978153306617
+TP53_damaging_to_TIPARP,Avana,ACH-001403,Ovary/Fallopian Tube,damaging,-0.5646079146808551
+TP53_damaging_to_TIPARP,Avana,ACH-001407,Bladder/Urinary Tract,damaging,-1.798114727057285
+TP53_damaging_to_TIPARP,Avana,ACH-001408,Bladder/Urinary Tract,damaging,-0.2629514784090814
+TP53_damaging_to_TIPARP,Avana,ACH-001409,Bladder/Urinary Tract,damaging,-0.24599101412799482
+TP53_damaging_to_TIPARP,Avana,ACH-001411,Bladder/Urinary Tract,damaging,-0.025045932464467055
+TP53_damaging_to_TIPARP,Avana,ACH-001412,Bladder/Urinary Tract,damaging,-0.11998427195498797
+TP53_damaging_to_TIPARP,Avana,ACH-001413,Bladder/Urinary Tract,matrix_intact,-1.4624418010875444
+TP53_damaging_to_TIPARP,Avana,ACH-001414,Bladder/Urinary Tract,matrix_intact,-1.7486223984268978
+TP53_damaging_to_TIPARP,Avana,ACH-001415,Bladder/Urinary Tract,damaging,-0.08847551968447168
+TP53_damaging_to_TIPARP,Avana,ACH-001416,Bladder/Urinary Tract,damaging,-0.17516706082828112
+TP53_damaging_to_TIPARP,Avana,ACH-001418,Ovary/Fallopian Tube,damaging,0.09878071729157417
+TP53_damaging_to_TIPARP,Avana,ACH-001419,Breast,damaging,0.09554173203909314
+TP53_damaging_to_TIPARP,Avana,ACH-001421,Eye,matrix_intact,0.13068108861765387
+TP53_damaging_to_TIPARP,Avana,ACH-001422,Prostate,matrix_intact,0.0115371238995618
+TP53_damaging_to_TIPARP,Avana,ACH-001430,Bone,matrix_intact,0.002408514267826997
+TP53_damaging_to_TIPARP,Avana,ACH-001431,Bone,matrix_intact,-0.3532357103219139
+TP53_damaging_to_TIPARP,Avana,ACH-001433,Soft Tissue,damaging,0.14409216494346877
+TP53_damaging_to_TIPARP,Avana,ACH-001442,Skin,damaging,-0.6620449556841996
+TP53_damaging_to_TIPARP,Avana,ACH-001443,Thyroid,damaging,-0.8610624392399377
+TP53_damaging_to_TIPARP,Avana,ACH-001450,Lymphoid,damaging,0.04420269588799286
+TP53_damaging_to_TIPARP,Avana,ACH-001451,Cervix,matrix_intact,-0.46399732794628823
+TP53_damaging_to_TIPARP,Avana,ACH-001453,Prostate,matrix_intact,-0.8006479135861068
+TP53_damaging_to_TIPARP,Avana,ACH-001454,Bowel,matrix_intact,-0.034621175783165314
+TP53_damaging_to_TIPARP,Avana,ACH-001458,Bowel,damaging,0.3065803641152893
+TP53_damaging_to_TIPARP,Avana,ACH-001459,Bowel,damaging,0.044567199796178916
+TP53_damaging_to_TIPARP,Avana,ACH-001460,Bowel,damaging,-0.4551352859709762
+TP53_damaging_to_TIPARP,Avana,ACH-001461,Bowel,matrix_intact,-0.07640703912577251
+TP53_damaging_to_TIPARP,Avana,ACH-001481,Peripheral Nervous System,damaging,0.04079552504288178
+TP53_damaging_to_TIPARP,Avana,ACH-001494,Biliary Tract,damaging,-1.3324679364411471
+TP53_damaging_to_TIPARP,Avana,ACH-001495,Uterus,damaging,-1.0527589013484722
+TP53_damaging_to_TIPARP,Avana,ACH-001496,Esophagus/Stomach,damaging,-0.2065503542479155
+TP53_damaging_to_TIPARP,Avana,ACH-001497,Esophagus/Stomach,damaging,-0.5725447101734136
+TP53_damaging_to_TIPARP,Avana,ACH-001498,Lymphoid,damaging,-0.7113436003069742
+TP53_damaging_to_TIPARP,Avana,ACH-001500,Esophagus/Stomach,damaging,0.39514676983636365
+TP53_damaging_to_TIPARP,Avana,ACH-001509,Head and Neck,damaging,-0.47701588052550864
+TP53_damaging_to_TIPARP,Avana,ACH-001510,Head and Neck,damaging,-0.5747841930798749
+TP53_damaging_to_TIPARP,Avana,ACH-001511,Head and Neck,damaging,-0.15098631977102794
+TP53_damaging_to_TIPARP,Avana,ACH-001513,Cervix,damaging,-0.19830483164378432
+TP53_damaging_to_TIPARP,Avana,ACH-001515,Cervix,matrix_intact,0.0589705092393738
+TP53_damaging_to_TIPARP,Avana,ACH-001517,Uterus,damaging,-0.3396849898464671
+TP53_damaging_to_TIPARP,Avana,ACH-001518,Uterus,damaging,-0.20048290956789122
+TP53_damaging_to_TIPARP,Avana,ACH-001520,Lymphoid,matrix_intact,-0.9454975650009492
+TP53_damaging_to_TIPARP,Avana,ACH-001521,Skin,damaging,-0.6829732480517637
+TP53_damaging_to_TIPARP,Avana,ACH-001522,Skin,matrix_intact,-0.12627777738455578
+TP53_damaging_to_TIPARP,Avana,ACH-001523,Skin,damaging,-0.32176857508668366
+TP53_damaging_to_TIPARP,Avana,ACH-001524,Skin,damaging,-0.6840118650680043
+TP53_damaging_to_TIPARP,Avana,ACH-001525,Cervix,damaging,-0.6098520192705665
+TP53_damaging_to_TIPARP,Avana,ACH-001526,Bone,matrix_intact,-0.17013211408846912
+TP53_damaging_to_TIPARP,Avana,ACH-001528,Thyroid,matrix_intact,-0.7994277030011204
+TP53_damaging_to_TIPARP,Avana,ACH-001529,Uterus,matrix_intact,0.4188279832524979
+TP53_damaging_to_TIPARP,Avana,ACH-001530,Uterus,matrix_intact,0.23520171935069542
+TP53_damaging_to_TIPARP,Avana,ACH-001532,Kidney,matrix_intact,0.2484222226426369
+TP53_damaging_to_TIPARP,Avana,ACH-001533,Lymphoid,damaging,-0.018269701132344305
+TP53_damaging_to_TIPARP,Avana,ACH-001536,Biliary Tract,matrix_intact,-1.3119472986878065
+TP53_damaging_to_TIPARP,Avana,ACH-001538,Biliary Tract,matrix_intact,-0.8858617384974393
+TP53_damaging_to_TIPARP,Avana,ACH-001539,Lymphoid,damaging,-0.4475478145909194
+TP53_damaging_to_TIPARP,Avana,ACH-001542,Head and Neck,damaging,-0.825614833901517
+TP53_damaging_to_TIPARP,Avana,ACH-001543,Head and Neck,damaging,0.13858905024198276
+TP53_damaging_to_TIPARP,Avana,ACH-001547,Pleura,matrix_intact,-2.070629375195126
+TP53_damaging_to_TIPARP,Avana,ACH-001548,Peripheral Nervous System,matrix_intact,0.03487009098881484
+TP53_damaging_to_TIPARP,Avana,ACH-001549,Lung,damaging,0.3020505919972117
+TP53_damaging_to_TIPARP,Avana,ACH-001550,Skin,damaging,-0.4629323828244179
+TP53_damaging_to_TIPARP,Avana,ACH-001551,Skin,damaging,-0.9617456811875011
+TP53_damaging_to_TIPARP,Avana,ACH-001552,Skin,damaging,0.005935552227960297
+TP53_damaging_to_TIPARP,Avana,ACH-001554,Eye,matrix_intact,-0.5430462511709657
+TP53_damaging_to_TIPARP,Avana,ACH-001555,Pleura,matrix_intact,-2.3707383464144733
+TP53_damaging_to_TIPARP,Avana,ACH-001556,Pleura,matrix_intact,0.0702233204890312
+TP53_damaging_to_TIPARP,Avana,ACH-001557,Pleura,matrix_intact,0.05457772437865768
+TP53_damaging_to_TIPARP,Avana,ACH-001558,Pleura,matrix_intact,-0.05751603317073077
+TP53_damaging_to_TIPARP,Avana,ACH-001559,Pleura,damaging,-0.4420028924807129
+TP53_damaging_to_TIPARP,Avana,ACH-001560,Pleura,matrix_intact,-0.383007623407937
+TP53_damaging_to_TIPARP,Avana,ACH-001562,Pleura,matrix_intact,0.5586146379281961
+TP53_damaging_to_TIPARP,Avana,ACH-001563,Skin,matrix_intact,-1.4759638951036687
+TP53_damaging_to_TIPARP,Avana,ACH-001566,Skin,matrix_intact,0.11962610516169374
+TP53_damaging_to_TIPARP,Avana,ACH-001567,Skin,matrix_intact,-0.7371917945384254
+TP53_damaging_to_TIPARP,Avana,ACH-001568,Skin,matrix_intact,-0.20147770895909287
+TP53_damaging_to_TIPARP,Avana,ACH-001570,Skin,matrix_intact,-0.10969395555361941
+TP53_damaging_to_TIPARP,Avana,ACH-001574,Myeloid,matrix_intact,-1.1688150489188787
+TP53_damaging_to_TIPARP,Avana,ACH-001577,Myeloid,matrix_intact,0.0830197130327077
+TP53_damaging_to_TIPARP,Avana,ACH-001607,Biliary Tract,damaging,-1.9516642859185813
+TP53_damaging_to_TIPARP,Avana,ACH-001608,CNS/Brain,damaging,-0.27356377761878875
+TP53_damaging_to_TIPARP,Avana,ACH-001609,CNS/Brain,damaging,-0.05580459471855503
+TP53_damaging_to_TIPARP,Avana,ACH-001610,CNS/Brain,damaging,-0.09543720312483742
+TP53_damaging_to_TIPARP,Avana,ACH-001611,CNS/Brain,matrix_intact,-0.23887293063155024
+TP53_damaging_to_TIPARP,Avana,ACH-001616,Lymphoid,matrix_intact,-0.9266103156350076
+TP53_damaging_to_TIPARP,Avana,ACH-001618,Myeloid,damaging,-0.5099437006760805
+TP53_damaging_to_TIPARP,Avana,ACH-001619,Biliary Tract,damaging,-0.36864109579303017
+TP53_damaging_to_TIPARP,Avana,ACH-001622,CNS/Brain,matrix_intact,-0.4109316377208573
+TP53_damaging_to_TIPARP,Avana,ACH-001623,CNS/Brain,damaging,-0.4955833783291559
+TP53_damaging_to_TIPARP,Avana,ACH-001624,CNS/Brain,matrix_intact,0.1492911796446137
+TP53_damaging_to_TIPARP,Avana,ACH-001627,Prostate,matrix_intact,-0.6947118904777492
+TP53_damaging_to_TIPARP,Avana,ACH-001628,Ovary/Fallopian Tube,damaging,-0.14442430622772345
+TP53_damaging_to_TIPARP,Avana,ACH-001630,Ovary/Fallopian Tube,damaging,-0.8512180799074391
+TP53_damaging_to_TIPARP,Avana,ACH-001634,Lymphoid,matrix_intact,0.6637192299213477
+TP53_damaging_to_TIPARP,Avana,ACH-001641,Head and Neck,damaging,-0.9972717168959595
+TP53_damaging_to_TIPARP,Avana,ACH-001645,Skin,matrix_intact,-0.7288896263579749
+TP53_damaging_to_TIPARP,Avana,ACH-001647,Myeloid,damaging,-1.1573461482680587
+TP53_damaging_to_TIPARP,Avana,ACH-001648,Prostate,matrix_intact,-1.6020246894601229
+TP53_damaging_to_TIPARP,Avana,ACH-001649,Prostate,matrix_intact,-0.43252125540149255
+TP53_damaging_to_TIPARP,Avana,ACH-001650,Cervix,matrix_intact,-0.8335016797216406
+TP53_damaging_to_TIPARP,Avana,ACH-001651,Cervix,matrix_intact,0.10023362456748593
+TP53_damaging_to_TIPARP,Avana,ACH-001652,Cervix,matrix_intact,-0.3638322943547472
+TP53_damaging_to_TIPARP,Avana,ACH-001653,Esophagus/Stomach,damaging,-0.44502737147148996
+TP53_damaging_to_TIPARP,Avana,ACH-001654,Esophagus/Stomach,damaging,-0.8066702582055965
+TP53_damaging_to_TIPARP,Avana,ACH-001655,Uterus,damaging,0.016945509292778056
+TP53_damaging_to_TIPARP,Avana,ACH-001656,Myeloid,damaging,0.19249627089253796
+TP53_damaging_to_TIPARP,Avana,ACH-001664,Esophagus/Stomach,damaging,-1.9614222194532818
+TP53_damaging_to_TIPARP,Avana,ACH-001668,Testis,matrix_intact,-0.36728035967130773
+TP53_damaging_to_TIPARP,Avana,ACH-001669,Lymphoid,damaging,0.15059600546603277
+TP53_damaging_to_TIPARP,Avana,ACH-001670,CNS/Brain,damaging,-0.2897491963325974
+TP53_damaging_to_TIPARP,Avana,ACH-001673,Biliary Tract,damaging,-0.41397900381203057
+TP53_damaging_to_TIPARP,Avana,ACH-001674,Peripheral Nervous System,matrix_intact,0.24818597607889853
+TP53_damaging_to_TIPARP,Avana,ACH-001675,Head and Neck,damaging,-1.1637317770643745
+TP53_damaging_to_TIPARP,Avana,ACH-001677,Lymphoid,matrix_intact,0.07913873378816824
+TP53_damaging_to_TIPARP,Avana,ACH-001685,Lymphoid,matrix_intact,0.10453866125488281
+TP53_damaging_to_TIPARP,Avana,ACH-001687,Kidney,matrix_intact,-0.4192724953016208
+TP53_damaging_to_TIPARP,Avana,ACH-001688,Kidney,matrix_intact,-0.6147971529945577
+TP53_damaging_to_TIPARP,Avana,ACH-001690,Head and Neck,damaging,-0.9910527377447872
+TP53_damaging_to_TIPARP,Avana,ACH-001691,Head and Neck,damaging,-1.0606311276441613
+TP53_damaging_to_TIPARP,Avana,ACH-001692,Head and Neck,matrix_intact,-1.5269384373471215
+TP53_damaging_to_TIPARP,Avana,ACH-001694,Head and Neck,damaging,-1.6903571577928918
+TP53_damaging_to_TIPARP,Avana,ACH-001696,Head and Neck,damaging,-1.7450536761040838
+TP53_damaging_to_TIPARP,Avana,ACH-001698,Head and Neck,damaging,-1.168326135904456
+TP53_damaging_to_TIPARP,Avana,ACH-001699,Head and Neck,damaging,-0.3009969233058126
+TP53_damaging_to_TIPARP,Avana,ACH-001701,Head and Neck,damaging,-0.24219697840521484
+TP53_damaging_to_TIPARP,Avana,ACH-001702,Soft Tissue,matrix_intact,0.05436938582208263
+TP53_damaging_to_TIPARP,Avana,ACH-001707,Lymphoid,matrix_intact,0.06521850521449091
+TP53_damaging_to_TIPARP,Avana,ACH-001709,Lymphoid,damaging,-0.8785520059398465
+TP53_damaging_to_TIPARP,Avana,ACH-001711,CNS/Brain,damaging,-1.0012570655029571
+TP53_damaging_to_TIPARP,Avana,ACH-001715,Bone,matrix_intact,-0.44246718383553496
+TP53_damaging_to_TIPARP,Avana,ACH-001719,Ovary/Fallopian Tube,damaging,-0.5145546522357877
+TP53_damaging_to_TIPARP,Avana,ACH-001735,Lymphoid,damaging,-0.13556396174931426
+TP53_damaging_to_TIPARP,Avana,ACH-001736,Lymphoid,damaging,-0.47713088312928864
+TP53_damaging_to_TIPARP,Avana,ACH-001737,Lymphoid,matrix_intact,0.09367882673788365
+TP53_damaging_to_TIPARP,Avana,ACH-001740,Soft Tissue,damaging,0.11005240473274233
+TP53_damaging_to_TIPARP,Avana,ACH-001745,Soft Tissue,damaging,0.15434911473872767
+TP53_damaging_to_TIPARP,Avana,ACH-001750,Soft Tissue,damaging,0.10104300986518842
+TP53_damaging_to_TIPARP,Avana,ACH-001765,Soft Tissue,damaging,-0.22052700714759926
+TP53_damaging_to_TIPARP,Avana,ACH-001786,Bowel,matrix_intact,-0.7057605344564646
+TP53_damaging_to_TIPARP,Avana,ACH-001791,Soft Tissue,matrix_intact,-0.23395931370672418
+TP53_damaging_to_TIPARP,Avana,ACH-001793,Soft Tissue,matrix_intact,-0.6971691474583143
+TP53_damaging_to_TIPARP,Avana,ACH-001794,Soft Tissue,matrix_intact,-1.2048495381753177
+TP53_damaging_to_TIPARP,Avana,ACH-001795,Soft Tissue,matrix_intact,-2.1366932408337034
+TP53_damaging_to_TIPARP,Avana,ACH-001796,Soft Tissue,matrix_intact,0.18189110196326083
+TP53_damaging_to_TIPARP,Avana,ACH-001799,Soft Tissue,matrix_intact,-1.048572464959646
+TP53_damaging_to_TIPARP,Avana,ACH-001802,Soft Tissue,matrix_intact,-0.0781273958353359
+TP53_damaging_to_TIPARP,Avana,ACH-001804,Soft Tissue,damaging,-0.36284164839286503
+TP53_damaging_to_TIPARP,Avana,ACH-001814,Bone,matrix_intact,-0.15477406127823157
+TP53_damaging_to_TIPARP,Avana,ACH-001819,Breast,damaging,-0.1014234619309247
+TP53_damaging_to_TIPARP,Avana,ACH-001820,Breast,damaging,-0.17635957323477908
+TP53_damaging_to_TIPARP,Avana,ACH-001834,Biliary Tract,damaging,-0.7701546313966809
+TP53_damaging_to_TIPARP,Avana,ACH-001835,Biliary Tract,damaging,0.06206998926889055
+TP53_damaging_to_TIPARP,Avana,ACH-001836,Biliary Tract,damaging,-0.5585336771668253
+TP53_damaging_to_TIPARP,Avana,ACH-001838,Biliary Tract,damaging,-0.7681653794323648
+TP53_damaging_to_TIPARP,Avana,ACH-001839,Biliary Tract,matrix_intact,-0.4466268784052626
+TP53_damaging_to_TIPARP,Avana,ACH-001841,Biliary Tract,damaging,-1.0902584416497918
+TP53_damaging_to_TIPARP,Avana,ACH-001842,Biliary Tract,damaging,0.19661202457975108
+TP53_damaging_to_TIPARP,Avana,ACH-001843,Biliary Tract,matrix_intact,-5.588940913223932
+TP53_damaging_to_TIPARP,Avana,ACH-001844,Biliary Tract,damaging,-0.36786141474217166
+TP53_damaging_to_TIPARP,Avana,ACH-001848,Biliary Tract,matrix_intact,-1.449899299425486
+TP53_damaging_to_TIPARP,Avana,ACH-001849,Biliary Tract,damaging,-0.020226315126072418
+TP53_damaging_to_TIPARP,Avana,ACH-001850,Biliary Tract,damaging,-1.8026358207762265
+TP53_damaging_to_TIPARP,Avana,ACH-001852,Biliary Tract,damaging,-1.5330250935074057
+TP53_damaging_to_TIPARP,Avana,ACH-001853,Liver,matrix_intact,-0.1691555421978581
+TP53_damaging_to_TIPARP,Avana,ACH-001856,Biliary Tract,matrix_intact,0.1866814134285217
+TP53_damaging_to_TIPARP,Avana,ACH-001857,Biliary Tract,damaging,0.35310990432789524
+TP53_damaging_to_TIPARP,Avana,ACH-001858,Biliary Tract,damaging,-0.28443966233769435
+TP53_damaging_to_TIPARP,Avana,ACH-001861,Biliary Tract,damaging,-1.4952396623434314
+TP53_damaging_to_TIPARP,Avana,ACH-001862,Ampulla of Vater,matrix_intact,-0.3738199751975352
+TP53_damaging_to_TIPARP,Avana,ACH-001863,Biliary Tract,damaging,-0.03635867738713198
+TP53_damaging_to_TIPARP,Avana,ACH-001864,Biliary Tract,damaging,-0.5137227515110463
+TP53_damaging_to_TIPARP,Avana,ACH-001959,Biliary Tract,damaging,-0.16187533826764258
+TP53_damaging_to_TIPARP,Avana,ACH-001960,Biliary Tract,damaging,-0.05412029118823631
+TP53_damaging_to_TIPARP,Avana,ACH-001961,Biliary Tract,damaging,-0.08472021592026291
+TP53_damaging_to_TIPARP,Avana,ACH-001970,Skin,matrix_intact,0.16070362476425756
+TP53_damaging_to_TIPARP,Avana,ACH-001973,Skin,damaging,-0.03904190242057475
+TP53_damaging_to_TIPARP,Avana,ACH-001977,Pleura,matrix_intact,-0.22198836830420224
+TP53_damaging_to_TIPARP,Avana,ACH-001982,Skin,matrix_intact,0.24144310153845833
+TP53_damaging_to_TIPARP,Avana,ACH-001986,Skin,matrix_intact,0.42283152229120546
+TP53_damaging_to_TIPARP,Avana,ACH-001990,Skin,damaging,-0.14720952479885202
+TP53_damaging_to_TIPARP,Avana,ACH-001991,Ovary/Fallopian Tube,matrix_intact,0.2149209875905549
+TP53_damaging_to_TIPARP,Avana,ACH-001992,Pleura,damaging,-0.8146714341652075
+TP53_damaging_to_TIPARP,Avana,ACH-001993,Lymphoid,damaging,0.05122898058690298
+TP53_damaging_to_TIPARP,Avana,ACH-001997,Biliary Tract,damaging,-1.1796777333197472
+TP53_damaging_to_TIPARP,Avana,ACH-001999,Pancreas,damaging,-0.6337305388534649
+TP53_damaging_to_TIPARP,Avana,ACH-002001,Skin,matrix_intact,0.46472764568051916
+TP53_damaging_to_TIPARP,Avana,ACH-002002,Skin,matrix_intact,-0.8746910531946901
+TP53_damaging_to_TIPARP,Avana,ACH-002003,Skin,matrix_intact,-1.0396654350882577
+TP53_damaging_to_TIPARP,Avana,ACH-002005,Skin,damaging,0.4609062832932174
+TP53_damaging_to_TIPARP,Avana,ACH-002014,Eye,matrix_intact,0.21433366490425249
+TP53_damaging_to_TIPARP,Avana,ACH-002015,Eye,matrix_intact,-0.7571791271528134
+TP53_damaging_to_TIPARP,Avana,ACH-002016,Eye,matrix_intact,-0.7985479921584239
+TP53_damaging_to_TIPARP,Avana,ACH-002018,Eye,matrix_intact,0.11472237253395132
+TP53_damaging_to_TIPARP,Avana,ACH-002019,Cervix,matrix_intact,-0.11468986007174653
+TP53_damaging_to_TIPARP,Avana,ACH-002020,Cervix,damaging,0.2301113415704496
+TP53_damaging_to_TIPARP,Avana,ACH-002021,Uterus,matrix_intact,0.1583575275940863
+TP53_damaging_to_TIPARP,Avana,ACH-002023,Ampulla of Vater,damaging,-1.2718010344089548
+TP53_damaging_to_TIPARP,Avana,ACH-002024,Bowel,damaging,-0.04526973473618055
+TP53_damaging_to_TIPARP,Avana,ACH-002025,Bowel,damaging,-0.8978661531059213
+TP53_damaging_to_TIPARP,Avana,ACH-002026,Uterus,matrix_intact,-0.31361222672812145
+TP53_damaging_to_TIPARP,Avana,ACH-002027,Uterus,matrix_intact,-0.05988338343769018
+TP53_damaging_to_TIPARP,Avana,ACH-002029,Head and Neck,damaging,-0.37477923772484434
+TP53_damaging_to_TIPARP,Avana,ACH-002030,Head and Neck,damaging,-1.434018662499211
+TP53_damaging_to_TIPARP,Avana,ACH-002035,Lung,matrix_intact,-0.1363914636425153
+TP53_damaging_to_TIPARP,Avana,ACH-002039,Pancreas,damaging,-0.5766061636446208
+TP53_damaging_to_TIPARP,Avana,ACH-002040,Vulva/Vagina,damaging,0.18494228274764218
+TP53_damaging_to_TIPARP,Avana,ACH-002041,Thyroid,damaging,-0.26218043952577824
+TP53_damaging_to_TIPARP,Avana,ACH-002042,Head and Neck,damaging,-0.7275338250252115
+TP53_damaging_to_TIPARP,Avana,ACH-002043,Head and Neck,damaging,-1.1089733516317395
+TP53_damaging_to_TIPARP,Avana,ACH-002044,Head and Neck,damaging,0.17654699182010217
+TP53_damaging_to_TIPARP,Avana,ACH-002045,Head and Neck,damaging,-0.9230195568187145
+TP53_damaging_to_TIPARP,Avana,ACH-002046,Uterus,damaging,-0.3006681622745318
+TP53_damaging_to_TIPARP,Avana,ACH-002048,Soft Tissue,matrix_intact,0.1974902040129312
+TP53_damaging_to_TIPARP,Avana,ACH-002051,Lung,damaging,0.3415764837310818
+TP53_damaging_to_TIPARP,Avana,ACH-002059,Lymphoid,matrix_intact,-0.0815971366813289
+TP53_damaging_to_TIPARP,Avana,ACH-002061,Myeloid,damaging,-0.1621491149079235
+TP53_damaging_to_TIPARP,Avana,ACH-002062,Lymphoid,matrix_intact,-1.3341626093711731
+TP53_damaging_to_TIPARP,Avana,ACH-002066,Peripheral Nervous System,damaging,-0.12253647158537095
+TP53_damaging_to_TIPARP,Avana,ACH-002067,Bone,damaging,-0.2338092937222846
+TP53_damaging_to_TIPARP,Avana,ACH-002069,Bone,matrix_intact,0.24137837886300964
+TP53_damaging_to_TIPARP,Avana,ACH-002070,CNS/Brain,damaging,-0.6054060566246178
+TP53_damaging_to_TIPARP,Avana,ACH-002077,Lung,damaging,-0.20761278720845233
+TP53_damaging_to_TIPARP,Avana,ACH-002080,Peripheral Nervous System,matrix_intact,0.2829801981283967
+TP53_damaging_to_TIPARP,Avana,ACH-002084,Skin,matrix_intact,-0.10303107444742336
+TP53_damaging_to_TIPARP,Avana,ACH-002214,Lymphoid,matrix_intact,0.34698493860715285
+TP53_damaging_to_TIPARP,Avana,ACH-002215,Lymphoid,matrix_intact,-0.03607645630459184
+TP53_damaging_to_TIPARP,Avana,ACH-002291,Testis,matrix_intact,0.08497126121624099
+TP53_damaging_to_TIPARP,Avana,ACH-002399,Breast,damaging,-0.29999029829587176
+TP53_damaging_to_TIPARP,Avana,ACH-002446,Esophagus/Stomach,damaging,-0.6489567296274803
+TP53_damaging_to_TIPARP,Avana,ACH-002458,Skin,matrix_intact,-0.44090988884092613
+TP53_damaging_to_TIPARP,Avana,ACH-002459,Skin,matrix_intact,-0.9779097496754385
+TP53_damaging_to_TIPARP,Avana,ACH-002460,Skin,matrix_intact,0.05420852828519884
+TP53_damaging_to_TIPARP,Avana,ACH-002461,Skin,damaging,-0.3499922498187752
+TP53_damaging_to_TIPARP,Avana,ACH-002462,Eye,matrix_intact,-2.1823098754235732
+TP53_damaging_to_TIPARP,Avana,ACH-002463,Eye,damaging,-2.091657311722199
+TP53_damaging_to_TIPARP,Avana,ACH-002464,Eye,matrix_intact,-2.1014046839195535
+TP53_damaging_to_TIPARP,Avana,ACH-002465,Eye,matrix_intact,-0.7176490905237539
+TP53_damaging_to_TIPARP,Avana,ACH-002467,Eye,matrix_intact,-1.571080773096039
+TP53_damaging_to_TIPARP,Avana,ACH-002471,Bone,matrix_intact,0.05642676296776408
+TP53_damaging_to_TIPARP,Avana,ACH-002478,Lymphoid,matrix_intact,0.48586746377430057
+TP53_damaging_to_TIPARP,Avana,ACH-002485,Lymphoid,matrix_intact,-0.15276084526226258
+TP53_damaging_to_TIPARP,Avana,ACH-002486,Ovary/Fallopian Tube,damaging,-0.8647028466406166
+TP53_damaging_to_TIPARP,Avana,ACH-002508,Skin,damaging,-0.4760071338621774
+TP53_damaging_to_TIPARP,Avana,ACH-002510,Skin,matrix_intact,0.27467987341753586
+TP53_damaging_to_TIPARP,Avana,ACH-002511,Skin,matrix_intact,-1.4735232852667526
+TP53_damaging_to_TIPARP,Avana,ACH-002512,Skin,matrix_intact,0.16599620977423385
+TP53_damaging_to_TIPARP,Avana,ACH-002522,Lung,damaging,-0.11926593480553865
+TP53_damaging_to_TIPARP,Avana,ACH-002523,Liver,damaging,0.052719964998304975
+TP53_damaging_to_TIPARP,Avana,ACH-002524,Ovary/Fallopian Tube,matrix_intact,-0.5788086538696624
+TP53_damaging_to_TIPARP,Avana,ACH-002526,Lung,damaging,-1.4473365073822297
+TP53_damaging_to_TIPARP,Avana,ACH-002531,Lung,matrix_intact,-0.6410925074295142
+TP53_damaging_to_TIPARP,Avana,ACH-002533,Kidney,matrix_intact,-1.6835168249363512
+TP53_damaging_to_TIPARP,Avana,ACH-002535,Bowel,damaging,0.1995067946021138
+TP53_damaging_to_TIPARP,Avana,ACH-002647,Biliary Tract,matrix_intact,-0.29707692378533945
+TP53_damaging_to_TIPARP,Avana,ACH-002650,Lung,damaging,-0.036135872910472606
+TP53_damaging_to_TIPARP,Avana,ACH-002654,Bowel,damaging,-0.541699706736522
+TP53_damaging_to_TIPARP,Avana,ACH-002659,Bowel,damaging,-0.34473409907962926
+TP53_damaging_to_TIPARP,Avana,ACH-002664,Bowel,damaging,-0.4912036149486404
+TP53_damaging_to_TIPARP,Avana,ACH-002669,Bowel,damaging,-0.23658965248805275
+TP53_damaging_to_TIPARP,Avana,ACH-002672,Pancreas,matrix_intact,0.06929749633611315
+TP53_damaging_to_TIPARP,Avana,ACH-002680,CNS/Brain,damaging,-1.1264725587658821
+TP53_damaging_to_TIPARP,Avana,ACH-002687,Eye,matrix_intact,0.09981559128616718
+TP53_damaging_to_TIPARP,Avana,ACH-002693,Peripheral Nervous System,damaging,0.1214256156192852
+TP53_damaging_to_TIPARP,Avana,ACH-002710,Peripheral Nervous System,matrix_intact,-0.6264450545580775
+TP53_damaging_to_TIPARP,Avana,ACH-002785,Soft Tissue,matrix_intact,0.1258760093385631
+TP53_damaging_to_TIPARP,Avana,ACH-002799,Peripheral Nervous System,matrix_intact,-0.18126663841359258
+TP53_damaging_to_TIPARP,Avana,ACH-002800,Peripheral Nervous System,matrix_intact,-0.9059331760530909
+TP53_damaging_to_TIPARP,Avana,ACH-002834,Bone,matrix_intact,-0.29885210169205834
+TP53_damaging_to_TIPARP,Avana,ACH-002847,Skin,matrix_intact,-0.7513502184095417
+TP53_damaging_to_TIPARP,Avana,ACH-002922,Peripheral Nervous System,damaging,-0.05815191689701357
+TP53_damaging_to_TIPARP,Avana,ACH-002925,Eye,matrix_intact,-0.2090199013856942
+TP53_damaging_to_TIPARP,Avana,ACH-002926,Eye,matrix_intact,-0.15143084720875555
+TP53_damaging_to_TIPARP,KY,ACH-000001,Ovary/Fallopian Tube,damaging,-0.3827900493909019
+TP53_damaging_to_TIPARP,KY,ACH-000007,Bowel,matrix_intact,-0.0804833769170984
+TP53_damaging_to_TIPARP,KY,ACH-000009,Bowel,damaging,0.12854898731346273
+TP53_damaging_to_TIPARP,KY,ACH-000019,Breast,matrix_intact,-1.0151954785257562
+TP53_damaging_to_TIPARP,KY,ACH-000023,Pancreas,damaging,0.05987508383802201
+TP53_damaging_to_TIPARP,KY,ACH-000024,Lymphoid,damaging,-0.5578358610132796
+TP53_damaging_to_TIPARP,KY,ACH-000030,Lung,damaging,-0.2584062219633132
+TP53_damaging_to_TIPARP,KY,ACH-000035,Lung,damaging,-0.4700824605326514
+TP53_damaging_to_TIPARP,KY,ACH-000042,Pancreas,damaging,-1.2116552182233518
+TP53_damaging_to_TIPARP,KY,ACH-000048,Ovary/Fallopian Tube,damaging,0.3777796677068643
+TP53_damaging_to_TIPARP,KY,ACH-000060,Pancreas,damaging,-0.46827855749386976
+TP53_damaging_to_TIPARP,KY,ACH-000067,CNS/Brain,damaging,-1.1633088027866858
+TP53_damaging_to_TIPARP,KY,ACH-000075,CNS/Brain,matrix_intact,-0.9592538412268934
+TP53_damaging_to_TIPARP,KY,ACH-000094,Pancreas,damaging,-1.0602009107204344
+TP53_damaging_to_TIPARP,KY,ACH-000098,CNS/Brain,damaging,-0.8683688657333649
+TP53_damaging_to_TIPARP,KY,ACH-000103,Ovary/Fallopian Tube,damaging,-0.09443039213144476
+TP53_damaging_to_TIPARP,KY,ACH-000108,Pancreas,damaging,-0.6475721633269962
+TP53_damaging_to_TIPARP,KY,ACH-000111,Breast,matrix_intact,-0.12968708654643707
+TP53_damaging_to_TIPARP,KY,ACH-000113,Myeloid,matrix_intact,-0.7757871871100294
+TP53_damaging_to_TIPARP,KY,ACH-000114,Pancreas,damaging,-2.0726223364816643
+TP53_damaging_to_TIPARP,KY,ACH-000118,Pancreas,damaging,-1.1598551792596654
+TP53_damaging_to_TIPARP,KY,ACH-000120,Peripheral Nervous System,matrix_intact,0.21762930133688216
+TP53_damaging_to_TIPARP,KY,ACH-000124,Lymphoid,matrix_intact,0.0053515129894255165
+TP53_damaging_to_TIPARP,KY,ACH-000132,Ovary/Fallopian Tube,damaging,-1.8973323173108865
+TP53_damaging_to_TIPARP,KY,ACH-000137,CNS/Brain,damaging,-0.37044708648845115
+TP53_damaging_to_TIPARP,KY,ACH-000139,Pancreas,matrix_intact,-1.1153663118488668
+TP53_damaging_to_TIPARP,KY,ACH-000144,Esophagus/Stomach,damaging,0.2928920215621247
+TP53_damaging_to_TIPARP,KY,ACH-000147,Breast,damaging,0.3196276533903921
+TP53_damaging_to_TIPARP,KY,ACH-000148,Breast,damaging,-0.5170254949053437
+TP53_damaging_to_TIPARP,KY,ACH-000149,Peripheral Nervous System,matrix_intact,0.07046010366758862
+TP53_damaging_to_TIPARP,KY,ACH-000155,Pancreas,matrix_intact,-0.5339698996380626
+TP53_damaging_to_TIPARP,KY,ACH-000176,Lung,damaging,-0.10580433929520483
+TP53_damaging_to_TIPARP,KY,ACH-000181,Head and Neck,damaging,-0.943745522490878
+TP53_damaging_to_TIPARP,KY,ACH-000183,Lymphoid,damaging,-1.0084117393269836
+TP53_damaging_to_TIPARP,KY,ACH-000192,Uterus,damaging,-0.3138766148865783
+TP53_damaging_to_TIPARP,KY,ACH-000200,CNS/Brain,matrix_intact,-1.2786149075885462
+TP53_damaging_to_TIPARP,KY,ACH-000204,Lymphoid,damaging,-0.8737054268723078
+TP53_damaging_to_TIPARP,KY,ACH-000207,Head and Neck,damaging,-0.3817297003526003
+TP53_damaging_to_TIPARP,KY,ACH-000213,Pancreas,damaging,-1.4019994691189854
+TP53_damaging_to_TIPARP,KY,ACH-000219,Skin,matrix_intact,-0.09749464782130585
+TP53_damaging_to_TIPARP,KY,ACH-000222,Pancreas,damaging,-0.3577403765236821
+TP53_damaging_to_TIPARP,KY,ACH-000223,Breast,damaging,-1.6891607282031782
+TP53_damaging_to_TIPARP,KY,ACH-000227,Peripheral Nervous System,matrix_intact,0.2627186264137708
+TP53_damaging_to_TIPARP,KY,ACH-000232,CNS/Brain,damaging,-0.3574310498862154
+TP53_damaging_to_TIPARP,KY,ACH-000235,Pancreas,damaging,-1.8805766656258953
+TP53_damaging_to_TIPARP,KY,ACH-000238,Head and Neck,damaging,0.14228797233786436
+TP53_damaging_to_TIPARP,KY,ACH-000243,Pancreas,damaging,-1.2753300347638812
+TP53_damaging_to_TIPARP,KY,ACH-000244,CNS/Brain,matrix_intact,0.018884352738210416
+TP53_damaging_to_TIPARP,KY,ACH-000248,Breast,damaging,-0.283458525641653
+TP53_damaging_to_TIPARP,KY,ACH-000249,Bowel,damaging,-0.259609867846922
+TP53_damaging_to_TIPARP,KY,ACH-000252,Bowel,damaging,-0.1776100506993059
+TP53_damaging_to_TIPARP,KY,ACH-000260,Peripheral Nervous System,matrix_intact,-0.17212541777966903
+TP53_damaging_to_TIPARP,KY,ACH-000265,Pancreas,matrix_intact,-0.8921173346782587
+TP53_damaging_to_TIPARP,KY,ACH-000269,CNS/Brain,matrix_intact,0.11657965061991064
+TP53_damaging_to_TIPARP,KY,ACH-000271,Lymphoid,damaging,-0.24266477884004026
+TP53_damaging_to_TIPARP,KY,ACH-000273,CNS/Brain,damaging,-2.434597676133257
+TP53_damaging_to_TIPARP,KY,ACH-000276,Breast,damaging,-0.7032296563473507
+TP53_damaging_to_TIPARP,KY,ACH-000291,Ovary/Fallopian Tube,damaging,0.06808897486474362
+TP53_damaging_to_TIPARP,KY,ACH-000293,Uterus,damaging,-0.6852551230957452
+TP53_damaging_to_TIPARP,KY,ACH-000305,Esophagus/Stomach,damaging,-1.0368083830099588
+TP53_damaging_to_TIPARP,KY,ACH-000308,Ovary/Fallopian Tube,damaging,0.02951007846070021
+TP53_damaging_to_TIPARP,KY,ACH-000318,Esophagus/Stomach,damaging,-0.9729900394530914
+TP53_damaging_to_TIPARP,KY,ACH-000320,Pancreas,damaging,-0.41598971120970124
+TP53_damaging_to_TIPARP,KY,ACH-000323,CNS/Brain,damaging,-1.3326604215001525
+TP53_damaging_to_TIPARP,KY,ACH-000336,Myeloid,matrix_intact,-0.08133078850183136
+TP53_damaging_to_TIPARP,KY,ACH-000337,Lung,damaging,-0.16660105707336484
+TP53_damaging_to_TIPARP,KY,ACH-000341,Peripheral Nervous System,damaging,0.15887221153703876
+TP53_damaging_to_TIPARP,KY,ACH-000350,Bowel,matrix_intact,0.015492944484486496
+TP53_damaging_to_TIPARP,KY,ACH-000354,Pancreas,damaging,-0.9149683936204115
+TP53_damaging_to_TIPARP,KY,ACH-000366,Peripheral Nervous System,damaging,-0.062098508443233724
+TP53_damaging_to_TIPARP,KY,ACH-000367,Pleura,matrix_intact,-0.3236354892413776
+TP53_damaging_to_TIPARP,KY,ACH-000374,Breast,damaging,0.23046125789134378
+TP53_damaging_to_TIPARP,KY,ACH-000376,CNS/Brain,damaging,-0.8545950062119507
+TP53_damaging_to_TIPARP,KY,ACH-000381,Bowel,damaging,-1.9110812550185834
+TP53_damaging_to_TIPARP,KY,ACH-000383,Esophagus/Stomach,damaging,-1.6725262379943473
+TP53_damaging_to_TIPARP,KY,ACH-000391,Bone,matrix_intact,-0.4602707797310324
+TP53_damaging_to_TIPARP,KY,ACH-000395,Lung,damaging,0.02957025344682464
+TP53_damaging_to_TIPARP,KY,ACH-000408,Esophagus/Stomach,matrix_intact,-1.1422671450660273
+TP53_damaging_to_TIPARP,KY,ACH-000411,Kidney,matrix_intact,-1.0612043536273814
+TP53_damaging_to_TIPARP,KY,ACH-000414,Lung,matrix_intact,0.06306399772042605
+TP53_damaging_to_TIPARP,KY,ACH-000417,Pancreas,matrix_intact,-0.24066426204332755
+TP53_damaging_to_TIPARP,KY,ACH-000421,Bowel,damaging,-0.9672993003400002
+TP53_damaging_to_TIPARP,KY,ACH-000424,Bone,damaging,-0.7389904590252655
+TP53_damaging_to_TIPARP,KY,ACH-000427,Esophagus/Stomach,damaging,-1.0509902131783175
+TP53_damaging_to_TIPARP,KY,ACH-000430,Ovary/Fallopian Tube,damaging,-1.324399188619774
+TP53_damaging_to_TIPARP,KY,ACH-000434,Lung,damaging,-0.7682905694766576
+TP53_damaging_to_TIPARP,KY,ACH-000437,CNS/Brain,damaging,-0.22618646711156032
+TP53_damaging_to_TIPARP,KY,ACH-000438,Lung,damaging,-0.521021642414559
+TP53_damaging_to_TIPARP,KY,ACH-000442,Lung,damaging,0.5272883245782514
+TP53_damaging_to_TIPARP,KY,ACH-000452,Esophagus/Stomach,damaging,-0.4346390351374942
+TP53_damaging_to_TIPARP,KY,ACH-000464,CNS/Brain,damaging,0.04197008937149958
+TP53_damaging_to_TIPARP,KY,ACH-000469,CNS/Brain,damaging,-2.007173907862785
+TP53_damaging_to_TIPARP,KY,ACH-000481,Lung,damaging,0.14254549911689604
+TP53_damaging_to_TIPARP,KY,ACH-000501,Bowel,damaging,-2.8575469427010236
+TP53_damaging_to_TIPARP,KY,ACH-000504,CNS/Brain,damaging,-0.3660610766128653
+TP53_damaging_to_TIPARP,KY,ACH-000505,Soft Tissue,damaging,-0.3727522752226807
+TP53_damaging_to_TIPARP,KY,ACH-000510,Lung,matrix_intact,-0.4742159022542749
+TP53_damaging_to_TIPARP,KY,ACH-000518,Head and Neck,damaging,-2.0250567889497755
+TP53_damaging_to_TIPARP,KY,ACH-000524,Ovary/Fallopian Tube,damaging,0.11906414210173077
+TP53_damaging_to_TIPARP,KY,ACH-000527,Ovary/Fallopian Tube,matrix_intact,-0.44398474162684465
+TP53_damaging_to_TIPARP,KY,ACH-000532,Bowel,damaging,0.3788325295228712
+TP53_damaging_to_TIPARP,KY,ACH-000535,Pancreas,damaging,-0.8980344990356933
+TP53_damaging_to_TIPARP,KY,ACH-000544,Esophagus/Stomach,damaging,-0.6358197697378015
+TP53_damaging_to_TIPARP,KY,ACH-000546,Head and Neck,damaging,-0.5341560756812876
+TP53_damaging_to_TIPARP,KY,ACH-000548,Head and Neck,damaging,-1.4707734797439056
+TP53_damaging_to_TIPARP,KY,ACH-000552,Bowel,damaging,-0.0082632438988334
+TP53_damaging_to_TIPARP,KY,ACH-000554,Breast,damaging,-0.19572722078126212
+TP53_damaging_to_TIPARP,KY,ACH-000558,CNS/Brain,matrix_intact,0.11406398752705268
+TP53_damaging_to_TIPARP,KY,ACH-000561,Esophagus/Stomach,damaging,-0.712953477092916
+TP53_damaging_to_TIPARP,KY,ACH-000562,Lung,damaging,-1.229367503176697
+TP53_damaging_to_TIPARP,KY,ACH-000563,Lung,damaging,-1.0976461606516965
+TP53_damaging_to_TIPARP,KY,ACH-000565,Bowel,damaging,-0.595163892537605
+TP53_damaging_to_TIPARP,KY,ACH-000571,CNS/Brain,damaging,-1.3686879970215684
+TP53_damaging_to_TIPARP,KY,ACH-000573,Breast,damaging,-0.5284008688686114
+TP53_damaging_to_TIPARP,KY,ACH-000581,Esophagus/Stomach,damaging,-0.11311248324574723
+TP53_damaging_to_TIPARP,KY,ACH-000584,Ovary/Fallopian Tube,damaging,-0.6251993636927934
+TP53_damaging_to_TIPARP,KY,ACH-000585,Lung,damaging,0.08402848283189401
+TP53_damaging_to_TIPARP,KY,ACH-000587,Lung,damaging,-0.7411897674305129
+TP53_damaging_to_TIPARP,KY,ACH-000595,CNS/Brain,matrix_intact,-0.8446306085719122
+TP53_damaging_to_TIPARP,KY,ACH-000596,Lung,damaging,-3.801286636317792
+TP53_damaging_to_TIPARP,KY,ACH-000599,Pancreas,damaging,-1.2526526035696999
+TP53_damaging_to_TIPARP,KY,ACH-000601,Pancreas,damaging,-0.651700636523774
+TP53_damaging_to_TIPARP,KY,ACH-000609,CNS/Brain,matrix_intact,-0.42204857615278385
+TP53_damaging_to_TIPARP,KY,ACH-000619,Head and Neck,damaging,-1.6871158819579932
+TP53_damaging_to_TIPARP,KY,ACH-000622,CNS/Brain,damaging,-0.13845640114394628
+TP53_damaging_to_TIPARP,KY,ACH-000624,Breast,damaging,-0.9446637679366937
+TP53_damaging_to_TIPARP,KY,ACH-000637,Esophagus/Stomach,damaging,-0.1582266299025639
+TP53_damaging_to_TIPARP,KY,ACH-000651,Bowel,damaging,-0.9773756212661514
+TP53_damaging_to_TIPARP,KY,ACH-000652,Pancreas,damaging,0.04113502030225055
+TP53_damaging_to_TIPARP,KY,ACH-000656,Lymphoid,damaging,-0.07638680730467463
+TP53_damaging_to_TIPARP,KY,ACH-000657,Ovary/Fallopian Tube,matrix_intact,-0.8656979669704579
+TP53_damaging_to_TIPARP,KY,ACH-000660,Lymphoid,matrix_intact,0.18814539714634995
+TP53_damaging_to_TIPARP,KY,ACH-000662,Lung,matrix_intact,-2.8350601900970513
+TP53_damaging_to_TIPARP,KY,ACH-000665,Lung,damaging,-1.3271775720430636
+TP53_damaging_to_TIPARP,KY,ACH-000666,Lung,damaging,-0.7479454450209843
+TP53_damaging_to_TIPARP,KY,ACH-000668,Breast,damaging,-0.14980957201893128
+TP53_damaging_to_TIPARP,KY,ACH-000677,Lung,matrix_intact,0.25082908913624125
+TP53_damaging_to_TIPARP,KY,ACH-000681,Lung,matrix_intact,-1.8797482096483384
+TP53_damaging_to_TIPARP,KY,ACH-000694,Esophagus/Stomach,damaging,0.02849964878408247
+TP53_damaging_to_TIPARP,KY,ACH-000696,Ovary/Fallopian Tube,damaging,-0.41792756332479636
+TP53_damaging_to_TIPARP,KY,ACH-000699,Breast,damaging,-0.500462427096383
+TP53_damaging_to_TIPARP,KY,ACH-000704,Ovary/Fallopian Tube,matrix_intact,0.10621327910008861
+TP53_damaging_to_TIPARP,KY,ACH-000711,Breast,damaging,-0.2902612081971245
+TP53_damaging_to_TIPARP,KY,ACH-000714,Lymphoid,matrix_intact,-0.6575671640916728
+TP53_damaging_to_TIPARP,KY,ACH-000717,Esophagus/Stomach,damaging,-0.8956791206435634
+TP53_damaging_to_TIPARP,KY,ACH-000719,Ovary/Fallopian Tube,matrix_intact,-0.16565237000492833
+TP53_damaging_to_TIPARP,KY,ACH-000722,Bowel,damaging,-1.0141403178889763
+TP53_damaging_to_TIPARP,KY,ACH-000738,CNS/Brain,matrix_intact,-0.2807862082914673
+TP53_damaging_to_TIPARP,KY,ACH-000740,Head and Neck,damaging,-2.0135924730880768
+TP53_damaging_to_TIPARP,KY,ACH-000748,Bone,matrix_intact,0.24044283863167357
+TP53_damaging_to_TIPARP,KY,ACH-000756,CNS/Brain,damaging,-0.17754209048205333
+TP53_damaging_to_TIPARP,KY,ACH-000768,Breast,damaging,-1.2149415136649024
+TP53_damaging_to_TIPARP,KY,ACH-000769,Lung,damaging,-0.4396444683594814
+TP53_damaging_to_TIPARP,KY,ACH-000778,Head and Neck,damaging,-1.31732567023973
+TP53_damaging_to_TIPARP,KY,ACH-000781,Lung,damaging,-0.15273877219731585
+TP53_damaging_to_TIPARP,KY,ACH-000784,Esophagus/Stomach,damaging,-0.5163210325879541
+TP53_damaging_to_TIPARP,KY,ACH-000787,Lung,damaging,-3.1601136093551325
+TP53_damaging_to_TIPARP,KY,ACH-000788,Skin,damaging,-0.30194184654436546
+TP53_damaging_to_TIPARP,KY,ACH-000793,Esophagus/Stomach,matrix_intact,-0.16323201787287936
+TP53_damaging_to_TIPARP,KY,ACH-000794,Head and Neck,damaging,-3.9389064310438577
+TP53_damaging_to_TIPARP,KY,ACH-000796,Ovary/Fallopian Tube,damaging,-0.7441450159151225
+TP53_damaging_to_TIPARP,KY,ACH-000809,Esophagus/Stomach,damaging,-0.7877760895133442
+TP53_damaging_to_TIPARP,KY,ACH-000817,Lymphoid,damaging,-1.6122267119830116
+TP53_damaging_to_TIPARP,KY,ACH-000823,Esophagus/Stomach,damaging,-0.21394885498049554
+TP53_damaging_to_TIPARP,KY,ACH-000824,Esophagus/Stomach,damaging,-0.18171425453028678
+TP53_damaging_to_TIPARP,KY,ACH-000832,Head and Neck,damaging,-2.4113654722605977
+TP53_damaging_to_TIPARP,KY,ACH-000841,Lung,damaging,-1.2264012449331074
+TP53_damaging_to_TIPARP,KY,ACH-000843,Lung,damaging,-1.229005514091625
+TP53_damaging_to_TIPARP,KY,ACH-000846,Head and Neck,damaging,-0.9365373172282085
+TP53_damaging_to_TIPARP,KY,ACH-000847,Esophagus/Stomach,damaging,-0.00970426539500611
+TP53_damaging_to_TIPARP,KY,ACH-000849,Breast,damaging,-1.4251503347335666
+TP53_damaging_to_TIPARP,KY,ACH-000855,Esophagus/Stomach,damaging,0.038516746212144626
+TP53_damaging_to_TIPARP,KY,ACH-000856,Breast,matrix_intact,-0.22729763489557278
+TP53_damaging_to_TIPARP,KY,ACH-000858,Lung,damaging,-0.7157556473432956
+TP53_damaging_to_TIPARP,KY,ACH-000859,Breast,damaging,-0.290965623792936
+TP53_damaging_to_TIPARP,KY,ACH-000860,Lung,matrix_intact,-0.34761402341137854
+TP53_damaging_to_TIPARP,KY,ACH-000861,Lung,damaging,-2.171480729010053
+TP53_damaging_to_TIPARP,KY,ACH-000863,CNS/Brain,matrix_intact,-0.1244810223384558
+TP53_damaging_to_TIPARP,KY,ACH-000864,Uterus,damaging,0.18548834333068237
+TP53_damaging_to_TIPARP,KY,ACH-000865,Esophagus/Stomach,damaging,-0.9951277699378194
+TP53_damaging_to_TIPARP,KY,ACH-000869,Lung,damaging,0.2909432317606206
+TP53_damaging_to_TIPARP,KY,ACH-000873,Esophagus/Stomach,damaging,-3.1530098935827873
+TP53_damaging_to_TIPARP,KY,ACH-000876,Breast,damaging,0.04538069283815991
+TP53_damaging_to_TIPARP,KY,ACH-000878,Lung,damaging,0.47916035751825453
+TP53_damaging_to_TIPARP,KY,ACH-000879,Uterus,damaging,-0.6431093401414142
+TP53_damaging_to_TIPARP,KY,ACH-000880,Esophagus/Stomach,matrix_intact,-0.06805764202672993
+TP53_damaging_to_TIPARP,KY,ACH-000885,Ovary/Fallopian Tube,matrix_intact,-0.46597288630543926
+TP53_damaging_to_TIPARP,KY,ACH-000894,Lung,damaging,0.2730889205824461
+TP53_damaging_to_TIPARP,KY,ACH-000900,Lung,damaging,-2.1435284946797846
+TP53_damaging_to_TIPARP,KY,ACH-000906,Ovary/Fallopian Tube,damaging,-0.12280306006542573
+TP53_damaging_to_TIPARP,KY,ACH-000910,Breast,matrix_intact,-0.7774310260294968
+TP53_damaging_to_TIPARP,KY,ACH-000911,Esophagus/Stomach,damaging,-0.14055994274084457
+TP53_damaging_to_TIPARP,KY,ACH-000913,Uterus,damaging,-2.1761956490419747
+TP53_damaging_to_TIPARP,KY,ACH-000917,Esophagus/Stomach,matrix_intact,-0.5436074411792616
+TP53_damaging_to_TIPARP,KY,ACH-000919,Esophagus/Stomach,matrix_intact,-0.19760144309212171
+TP53_damaging_to_TIPARP,KY,ACH-000926,Bowel,matrix_intact,-1.6637668195540851
+TP53_damaging_to_TIPARP,KY,ACH-000932,Esophagus/Stomach,matrix_intact,-0.24249205053832487
+TP53_damaging_to_TIPARP,KY,ACH-000934,Breast,damaging,-0.33832735625935406
+TP53_damaging_to_TIPARP,KY,ACH-000935,Bowel,matrix_intact,-2.0324796473683664
+TP53_damaging_to_TIPARP,KY,ACH-000936,Ovary/Fallopian Tube,damaging,0.036254211821794065
+TP53_damaging_to_TIPARP,KY,ACH-000943,Bowel,matrix_intact,-0.27535208621278345
+TP53_damaging_to_TIPARP,KY,ACH-000945,Lung,damaging,-1.3922322551212183
+TP53_damaging_to_TIPARP,KY,ACH-000947,Ovary/Fallopian Tube,damaging,0.28628302674363815
+TP53_damaging_to_TIPARP,KY,ACH-000948,Esophagus/Stomach,matrix_intact,-1.1075458610831983
+TP53_damaging_to_TIPARP,KY,ACH-000950,Bowel,matrix_intact,-0.6895800753524375
+TP53_damaging_to_TIPARP,KY,ACH-000956,Prostate,damaging,-0.0745396923029678
+TP53_damaging_to_TIPARP,KY,ACH-000957,Bowel,matrix_intact,-0.3628558381381142
+TP53_damaging_to_TIPARP,KY,ACH-000958,Bowel,matrix_intact,-0.30679448785341595
+TP53_damaging_to_TIPARP,KY,ACH-000962,Ovary/Fallopian Tube,damaging,-1.275438490751919
+TP53_damaging_to_TIPARP,KY,ACH-000965,Uterus,matrix_intact,-0.26631948527307564
+TP53_damaging_to_TIPARP,KY,ACH-000966,Ovary/Fallopian Tube,damaging,-0.2035002420609662
+TP53_damaging_to_TIPARP,KY,ACH-000969,Bowel,damaging,-0.8066767363485777
+TP53_damaging_to_TIPARP,KY,ACH-000970,Bowel,damaging,-1.1928058845770686
+TP53_damaging_to_TIPARP,KY,ACH-000971,Bowel,matrix_intact,-0.4832091700972936
+TP53_damaging_to_TIPARP,KY,ACH-000974,Uterus,matrix_intact,-0.2650317989463923
+TP53_damaging_to_TIPARP,KY,ACH-000977,Prostate,matrix_intact,-0.8057184164827627
+TP53_damaging_to_TIPARP,KY,ACH-000979,Prostate,damaging,-1.3873480545708265
+TP53_damaging_to_TIPARP,KY,ACH-000980,Lung,damaging,0.006699181559257038
+TP53_damaging_to_TIPARP,KY,ACH-000985,Bowel,damaging,0.5063821479801297
+TP53_damaging_to_TIPARP,KY,ACH-000991,Bowel,damaging,-0.8016232597181306
+TP53_damaging_to_TIPARP,KY,ACH-000997,Bowel,damaging,-0.5380226147116527
+TP53_damaging_to_TIPARP,KY,ACH-001016,CNS/Brain,damaging,-1.4555760558002162
+TP53_damaging_to_TIPARP,KY,ACH-001039,Bowel,damaging,-1.8839992427524412
+TP53_damaging_to_TIPARP,KY,ACH-001063,Ovary/Fallopian Tube,damaging,-0.3814928019992827
+TP53_damaging_to_TIPARP,KY,ACH-001065,Breast,damaging,-0.18714675492448285
+TP53_damaging_to_TIPARP,KY,ACH-001081,Bowel,damaging,-0.5091097334306761
+TP53_damaging_to_TIPARP,KY,ACH-001107,Pancreas,damaging,-0.5957693930460514
+TP53_damaging_to_TIPARP,KY,ACH-001126,CNS/Brain,damaging,-0.8049800113507316
+TP53_damaging_to_TIPARP,KY,ACH-001137,Lung,damaging,-0.19065391252576605
+TP53_damaging_to_TIPARP,KY,ACH-001151,Ovary/Fallopian Tube,matrix_intact,-0.10681296680160889
+TP53_damaging_to_TIPARP,KY,ACH-001190,Skin,damaging,-0.9937174082193933
+TP53_damaging_to_TIPARP,KY,ACH-001193,Bone,damaging,-0.4612603390616111
+TP53_damaging_to_TIPARP,KY,ACH-001233,Lung,damaging,-0.3481159412139397
+TP53_damaging_to_TIPARP,KY,ACH-001331,Head and Neck,matrix_intact,-1.9077198542752714
+TP53_damaging_to_TIPARP,KY,ACH-001332,Head and Neck,damaging,-1.2817324864300657
+TP53_damaging_to_TIPARP,KY,ACH-001345,Bowel,matrix_intact,-0.33269370969731155
+TP53_damaging_to_TIPARP,KY,ACH-001368,Esophagus/Stomach,damaging,0.06332525084176292
+TP53_damaging_to_TIPARP,KY,ACH-001399,Bowel,damaging,-0.6664363723349344
+TP53_damaging_to_TIPARP,KY,ACH-001418,Ovary/Fallopian Tube,damaging,0.12903076258708698
+TP53_damaging_to_TIPARP,KY,ACH-001494,Biliary Tract,damaging,-0.8318626072221603
+TP53_damaging_to_TIPARP,KY,ACH-001496,Esophagus/Stomach,damaging,-0.16474478793276856
+TP53_damaging_to_TIPARP,KY,ACH-001497,Esophagus/Stomach,damaging,-2.3323780662552367
+TP53_damaging_to_TIPARP,KY,ACH-001500,Esophagus/Stomach,damaging,-0.10972583453317308
+TP53_damaging_to_TIPARP,KY,ACH-001517,Uterus,damaging,-0.11373974530270896
+TP53_damaging_to_TIPARP,KY,ACH-001542,Head and Neck,damaging,0.17559196510632216
+TP53_damaging_to_TIPARP,KY,ACH-001544,Esophagus/Stomach,damaging,-0.6945044163876792
+TP53_damaging_to_TIPARP,KY,ACH-001603,Peripheral Nervous System,matrix_intact,-0.42865108383230305
+TP53_damaging_to_TIPARP,KY,ACH-001605,CNS/Brain,damaging,0.1545689278299056
+TP53_damaging_to_TIPARP,KY,ACH-001606,CNS/Brain,damaging,-0.43936157843265256
+TP53_damaging_to_TIPARP,KY,ACH-001625,Head and Neck,damaging,-1.3471864061283094
+TP53_damaging_to_TIPARP,KY,ACH-001626,Head and Neck,damaging,-0.8300468767443108
+TP53_damaging_to_TIPARP,KY,ACH-001630,Ovary/Fallopian Tube,damaging,-0.8023274389994026
+TP53_damaging_to_TIPARP,KY,ACH-001632,Ovary/Fallopian Tube,damaging,-0.5126403991213934
+TP53_damaging_to_TIPARP,KY,ACH-001639,Lymphoid,damaging,0.12823116565160567
+TP53_damaging_to_TIPARP,KY,ACH-001654,Esophagus/Stomach,damaging,-1.0235792338343312
+TP53_damaging_to_TIPARP,KY,ACH-001674,Peripheral Nervous System,matrix_intact,0.37207869607490807
+TP53_damaging_to_TIPARP,KY,ACH-001715,Bone,matrix_intact,-0.7188555083113991
+TP53_damaging_to_TIPARP,KY,ACH-001819,Breast,damaging,-1.1217966414317433
+TP53_damaging_to_TIPARP,KY,ACH-001820,Breast,damaging,-0.3259346838077642
+TP53_damaging_to_TIPARP,KY,ACH-002029,Head and Neck,damaging,-1.3578727655485874
+TP53_damaging_to_TIPARP,KY,ACH-002043,Head and Neck,damaging,-0.04257960329697369
+TP53_damaging_to_TIPARP,KY,ACH-002045,Head and Neck,damaging,-0.7478436186070777
+TP53_damaging_to_TIPARP,KY,ACH-002083,Peripheral Nervous System,matrix_intact,-1.3789346747772617
+TP53_damaging_to_TIPARP,KY,ACH-002105,Bone,matrix_intact,-0.728823393341505
+TP53_damaging_to_TIPARP,KY,ACH-002106,Bone,damaging,-0.17580258259907267
+TP53_damaging_to_TIPARP,KY,ACH-002109,Bone,damaging,-0.09981785322295351
+TP53_damaging_to_TIPARP,KY,ACH-002110,Bone,damaging,-0.9473565074256562
+TP53_damaging_to_TIPARP,KY,ACH-002114,Bone,damaging,-0.7851250935738939
+TP53_damaging_to_TIPARP,KY,ACH-002116,Bone,damaging,-0.5775169764139235
+TP53_damaging_to_TIPARP,KY,ACH-002119,Bone,matrix_intact,-0.5174734493523051
+TP53_damaging_to_TIPARP,KY,ACH-002140,Ovary/Fallopian Tube,matrix_intact,-1.4642873689323477
+TP53_damaging_to_TIPARP,KY,ACH-002141,Esophagus/Stomach,damaging,-0.3190654235818811
+TP53_damaging_to_TIPARP,KY,ACH-002143,Skin,matrix_intact,-0.4807697325803959
+TP53_damaging_to_TIPARP,KY,ACH-002150,Kidney,matrix_intact,-0.17429755590726823
+TP53_damaging_to_TIPARP,KY,ACH-002156,Lung,damaging,0.044582998865998806
+TP53_damaging_to_TIPARP,KY,ACH-002160,Bone,matrix_intact,-0.2390260147439013
+TP53_damaging_to_TIPARP,KY,ACH-002161,Esophagus/Stomach,damaging,0.058034686718991334
+TP53_damaging_to_TIPARP,KY,ACH-002179,Breast,damaging,0.11416458533737356
+TP53_damaging_to_TIPARP,KY,ACH-002181,Ovary/Fallopian Tube,damaging,-0.19446632094239422
+TP53_damaging_to_TIPARP,KY,ACH-002183,Ovary/Fallopian Tube,matrix_intact,0.2975137959584914
+TP53_damaging_to_TIPARP,KY,ACH-002186,Pancreas,damaging,-1.807888073259115
+TP53_damaging_to_TIPARP,KY,ACH-002189,Kidney,damaging,-1.15335389347645
+TP53_damaging_to_TIPARP,KY,ACH-002198,Other,matrix_intact,-1.1811184290915682
+TP53_damaging_to_TIPARP,KY,ACH-002202,Esophagus/Stomach,damaging,-0.5571788829626175
+TP53_damaging_to_TIPARP,KY,ACH-002210,Myeloid,damaging,-0.2432850637189284
+TP53_damaging_to_TIPARP,KY,ACH-002212,Head and Neck,damaging,-1.9161699668815386
+TP53_damaging_to_TIPARP,KY,ACH-002228,CNS/Brain,damaging,-0.4787250881892984
+TP53_damaging_to_TIPARP,KY,ACH-002229,CNS/Brain,matrix_intact,-0.2650084026570108
+TP53_damaging_to_TIPARP,KY,ACH-002230,CNS/Brain,damaging,-1.2700868282030269
+TP53_damaging_to_TIPARP,KY,ACH-002233,Bowel,damaging,-0.7425042464649639
+TP53_damaging_to_TIPARP,KY,ACH-002234,Head and Neck,matrix_intact,-0.7104035353717496
+TP53_damaging_to_TIPARP,KY,ACH-002239,Head and Neck,damaging,-0.8419402460945712
+TP53_damaging_to_TIPARP,KY,ACH-002243,Esophagus/Stomach,damaging,-0.6894699434447583
+TP53_damaging_to_TIPARP,KY,ACH-002247,Myeloid,matrix_intact,-1.332115511345605
+TP53_damaging_to_TIPARP,KY,ACH-002249,Head and Neck,damaging,-1.276042954255809
+TP53_damaging_to_TIPARP,KY,ACH-002250,Head and Neck,damaging,-0.3374217976479219
+TP53_damaging_to_TIPARP,KY,ACH-002251,Head and Neck,damaging,-2.01460736942494
+TP53_damaging_to_TIPARP,KY,ACH-002257,CNS/Brain,damaging,-0.14473618170393274
+TP53_damaging_to_TIPARP,KY,ACH-002261,Peripheral Nervous System,damaging,0.02881353593320735
+TP53_damaging_to_TIPARP,KY,ACH-002263,Esophagus/Stomach,damaging,-0.2828502503826011
+TP53_damaging_to_TIPARP,KY,ACH-002265,Head and Neck,damaging,-0.25898869906208205
+TP53_damaging_to_TIPARP,KY,ACH-002269,CNS/Brain,damaging,-0.8812866412539648
+TP53_damaging_to_TIPARP,KY,ACH-002278,Peripheral Nervous System,matrix_intact,0.05123613388510323
+TP53_damaging_to_TIPARP,KY,ACH-002280,Peripheral Nervous System,damaging,-0.0033181898419260003
+TP53_damaging_to_TIPARP,KY,ACH-002282,Peripheral Nervous System,matrix_intact,-0.3653655372698066
+TP53_damaging_to_TIPARP,KY,ACH-002283,Peripheral Nervous System,matrix_intact,-0.12353860165510841
+TP53_damaging_to_TIPARP,KY,ACH-002284,Peripheral Nervous System,damaging,0.31456956875810366
+TP53_damaging_to_TIPARP,KY,ACH-002285,Peripheral Nervous System,damaging,0.042150769417059836
+TP53_damaging_to_TIPARP,KY,ACH-002294,Head and Neck,damaging,-0.06217699633141597
+TP53_damaging_to_TIPARP,KY,ACH-002295,Head and Neck,damaging,-0.0758395519451077
+TP53_damaging_to_TIPARP,KY,ACH-002296,Head and Neck,damaging,-0.2898806924171925
+TP53_damaging_to_TIPARP,KY,ACH-002297,Head and Neck,damaging,-1.112192343506644
+TP53_damaging_to_TIPARP,KY,ACH-002298,Head and Neck,damaging,-1.0267594092020589
+TP53_damaging_to_TIPARP,KY,ACH-002304,CNS/Brain,damaging,0.2717241750427347
+TP53_damaging_to_TIPARP,KY,ACH-002305,Head and Neck,damaging,-1.0793043753995872

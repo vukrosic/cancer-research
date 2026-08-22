@@ -21,7 +21,7 @@ uncertainty and artifact controls?
 
 ## Current phase
 
-Twenty-seven bounded experiments are complete:
+Twenty-eight bounded experiments are complete:
 
 - `EXP-20260822-001` passed the API engineering gate: all eight frozen genes had 177
   paired Broad/Sanger models and positive source correlations.
@@ -192,6 +192,14 @@ Twenty-seven bounded experiments are complete:
   `0.5760`. This does not establish functional ARID1A loss, ovarian-specific
   biology, pharmacologic EZH2 inhibition, causal synthetic lethality, treatment,
   clinical utility, or a confirmatory claim.
+- `EXP-20260822-028` is **T1 descriptive association only; not T2/confirmatory**
+  and is labeled **FEASIBILITY_ONLY_NOMINAL_GATE_FAILURE**. The frozen
+  damaging-matrix TP53-proxy-to-TIPARP direction was weakly negative but
+  uncertain in Avana (delta `-0.0274`, p `0.2850`) and KY (delta `-0.0796`, p
+  `0.1835`); both sources failed effect, permutation, bootstrap, and
+  no-positive-lineage gates. KY planning power was `0.7509`, so no functional
+  TP53, SCHEMATIC interaction, PARP7-inhibitor, treatment, clinical, or
+  confirmatory claim is permitted.
 
 A label-only provenance audit found that the CRC-only cohort has only 7 MSI Broad
 models, below the independently proposed minimum of 8. That CRC-only gate remains a
@@ -227,6 +235,7 @@ uv run python -m candrel.kmt2d_kmt2c_replication  # expected exit 2; T1 feasibil
 uv run python -m candrel.cdkn2a_pelo_replication  # expected exit 2; T1 feasibility-only proxy/lineage-gate failure
 uv run python -m candrel.pten_papss1_replication  # expected exit 2; T1 feasibility-only transport/lineage-gate failure
 uv run python -m candrel.arid1a_ezh2_replication  # expected exit 2; T1 feasibility-only proxy/lineage-gate failure
+uv run python -m candrel.tp53_tiparp_replication  # expected exit 2; T1 feasibility-only proxy/lineage-gate failure
 ```
 
 Raw API responses are cached under `data/raw/` and excluded from Git. Every run
