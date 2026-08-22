@@ -28,5 +28,14 @@ protein state, and assay differences remain alternative explanations.
 
 ## Execution receipt
 
-To be completed after the bound runner executes. Preserve any null,
-heterogeneous, or feasibility-only outcome without post hoc rescue.
+The bound runner completed in approximately `18.031` seconds with the required
+feasibility-only exit code `2`. Pre-endpoint boundary verification returned GO;
+the exact `TDO2 (6999)` header was verified before endpoint values were parsed.
+The terminal result is `FEASIBILITY_ONLY_NOMINAL_GATE_FAILURE`, with
+`confirmatory_claim: false` and `overall_pass: false`.
+
+Independent recomputation matched both source-specific deltas, pair counts,
+permutation p-values, bootstrap intervals, and lineage deltas. Avana was weakly
+negative and KY strongly positive, so the sources disagree in direction. The
+full repository suite passed `121` tests. Preserve this discordant
+feasibility-only outcome without post hoc rescue.

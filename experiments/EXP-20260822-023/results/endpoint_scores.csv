@@ -1,0 +1,1291 @@
+pair_id,source,model_id,lineage,status,target_score
+APC_damaging_to_TDO2,Avana,ACH-000004,Myeloid,matrix_intact,-0.033895528528276424
+APC_damaging_to_TDO2,Avana,ACH-000005,Myeloid,matrix_intact,-0.04090403649827445
+APC_damaging_to_TDO2,Avana,ACH-000007,Bowel,matrix_intact,0.2745992236529183
+APC_damaging_to_TDO2,Avana,ACH-000009,Bowel,damaging,0.03537784009290108
+APC_damaging_to_TDO2,Avana,ACH-000011,Bladder/Urinary Tract,matrix_intact,0.30627818406417523
+APC_damaging_to_TDO2,Avana,ACH-000012,Lung,matrix_intact,0.020434056574633378
+APC_damaging_to_TDO2,Avana,ACH-000013,Ovary/Fallopian Tube,matrix_intact,0.07317730188530319
+APC_damaging_to_TDO2,Avana,ACH-000015,Lung,damaging,0.1751187918655125
+APC_damaging_to_TDO2,Avana,ACH-000017,Breast,matrix_intact,-0.10987374477730999
+APC_damaging_to_TDO2,Avana,ACH-000018,Bladder/Urinary Tract,matrix_intact,0.21059653163019604
+APC_damaging_to_TDO2,Avana,ACH-000019,Breast,matrix_intact,0.007376181261684073
+APC_damaging_to_TDO2,Avana,ACH-000021,Lung,matrix_intact,0.11141565046276566
+APC_damaging_to_TDO2,Avana,ACH-000022,Pancreas,matrix_intact,0.0250500860583122
+APC_damaging_to_TDO2,Avana,ACH-000024,Lymphoid,matrix_intact,-0.14337455675080601
+APC_damaging_to_TDO2,Avana,ACH-000025,CNS/Brain,matrix_intact,-0.08712876476598197
+APC_damaging_to_TDO2,Avana,ACH-000028,Breast,matrix_intact,0.1245890584444398
+APC_damaging_to_TDO2,Avana,ACH-000029,Lung,matrix_intact,0.25700289783783115
+APC_damaging_to_TDO2,Avana,ACH-000030,Lung,matrix_intact,-0.08441195626924416
+APC_damaging_to_TDO2,Avana,ACH-000035,Lung,matrix_intact,0.00110097945234423
+APC_damaging_to_TDO2,Avana,ACH-000036,CNS/Brain,matrix_intact,0.10309721481400975
+APC_damaging_to_TDO2,Avana,ACH-000037,Soft Tissue,matrix_intact,-0.24077097411561704
+APC_damaging_to_TDO2,Avana,ACH-000039,Bone,matrix_intact,-0.09332239869404903
+APC_damaging_to_TDO2,Avana,ACH-000040,CNS/Brain,matrix_intact,-0.05264943738936406
+APC_damaging_to_TDO2,Avana,ACH-000041,Bone,matrix_intact,0.34522359203191044
+APC_damaging_to_TDO2,Avana,ACH-000042,Pancreas,matrix_intact,0.13527585052228377
+APC_damaging_to_TDO2,Avana,ACH-000045,Myeloid,matrix_intact,0.0005668547948234053
+APC_damaging_to_TDO2,Avana,ACH-000047,Esophagus/Stomach,matrix_intact,-0.24556954671536416
+APC_damaging_to_TDO2,Avana,ACH-000048,Ovary/Fallopian Tube,matrix_intact,0.006998970406162489
+APC_damaging_to_TDO2,Avana,ACH-000052,Bone,matrix_intact,-0.19335874492036392
+APC_damaging_to_TDO2,Avana,ACH-000053,Lymphoid,matrix_intact,0.13003556377359873
+APC_damaging_to_TDO2,Avana,ACH-000054,Soft Tissue,matrix_intact,0.23759003990348193
+APC_damaging_to_TDO2,Avana,ACH-000055,CNS/Brain,matrix_intact,0.11063368598617926
+APC_damaging_to_TDO2,Avana,ACH-000060,Pancreas,matrix_intact,0.18121354067181006
+APC_damaging_to_TDO2,Avana,ACH-000067,CNS/Brain,matrix_intact,0.09274744477228758
+APC_damaging_to_TDO2,Avana,ACH-000070,Lymphoid,matrix_intact,0.11537105045515254
+APC_damaging_to_TDO2,Avana,ACH-000074,Myeloid,matrix_intact,0.09892512223846242
+APC_damaging_to_TDO2,Avana,ACH-000075,CNS/Brain,matrix_intact,0.1333553357295382
+APC_damaging_to_TDO2,Avana,ACH-000076,Myeloid,matrix_intact,-0.08415409785210716
+APC_damaging_to_TDO2,Avana,ACH-000077,Lymphoid,matrix_intact,0.09824614360836392
+APC_damaging_to_TDO2,Avana,ACH-000078,Peripheral Nervous System,matrix_intact,-0.004051257035437883
+APC_damaging_to_TDO2,Avana,ACH-000082,Bone,matrix_intact,0.20883102994345887
+APC_damaging_to_TDO2,Avana,ACH-000085,Pancreas,matrix_intact,-0.22561920984533756
+APC_damaging_to_TDO2,Avana,ACH-000086,Pleura,matrix_intact,0.2101938194349579
+APC_damaging_to_TDO2,Avana,ACH-000090,Prostate,matrix_intact,0.042272839536950685
+APC_damaging_to_TDO2,Avana,ACH-000092,Pleura,matrix_intact,-0.03277762890775589
+APC_damaging_to_TDO2,Avana,ACH-000093,Pancreas,matrix_intact,0.33249007293596755
+APC_damaging_to_TDO2,Avana,ACH-000095,CNS/Brain,matrix_intact,6.741118214682873e-05
+APC_damaging_to_TDO2,Avana,ACH-000097,Breast,matrix_intact,0.32553128293652733
+APC_damaging_to_TDO2,Avana,ACH-000098,CNS/Brain,matrix_intact,-0.046952150016529
+APC_damaging_to_TDO2,Avana,ACH-000099,Peripheral Nervous System,matrix_intact,0.4091515346499026
+APC_damaging_to_TDO2,Avana,ACH-000101,Lymphoid,matrix_intact,0.22558566027064897
+APC_damaging_to_TDO2,Avana,ACH-000108,Pancreas,matrix_intact,0.07151553302145755
+APC_damaging_to_TDO2,Avana,ACH-000111,Breast,matrix_intact,-0.08509583720683495
+APC_damaging_to_TDO2,Avana,ACH-000113,Myeloid,matrix_intact,0.11332880697446544
+APC_damaging_to_TDO2,Avana,ACH-000114,Pancreas,matrix_intact,0.1571225920591014
+APC_damaging_to_TDO2,Avana,ACH-000115,Prostate,matrix_intact,-0.053666229344151925
+APC_damaging_to_TDO2,Avana,ACH-000118,Pancreas,matrix_intact,-0.005054330170442878
+APC_damaging_to_TDO2,Avana,ACH-000120,Peripheral Nervous System,matrix_intact,0.024184607468519137
+APC_damaging_to_TDO2,Avana,ACH-000123,Ovary/Fallopian Tube,matrix_intact,0.10703737727712517
+APC_damaging_to_TDO2,Avana,ACH-000127,Bladder/Urinary Tract,matrix_intact,0.1835227191093809
+APC_damaging_to_TDO2,Avana,ACH-000128,CNS/Brain,matrix_intact,0.2503139918124785
+APC_damaging_to_TDO2,Avana,ACH-000132,Ovary/Fallopian Tube,matrix_intact,0.03993627252755075
+APC_damaging_to_TDO2,Avana,ACH-000133,Soft Tissue,matrix_intact,0.028852066632315716
+APC_damaging_to_TDO2,Avana,ACH-000137,CNS/Brain,matrix_intact,0.06299139375074903
+APC_damaging_to_TDO2,Avana,ACH-000138,Pancreas,matrix_intact,0.020194275542387653
+APC_damaging_to_TDO2,Avana,ACH-000141,Biliary Tract,matrix_intact,0.052976129673108184
+APC_damaging_to_TDO2,Avana,ACH-000142,Bladder/Urinary Tract,matrix_intact,0.32143452753229607
+APC_damaging_to_TDO2,Avana,ACH-000143,Lung,matrix_intact,-0.10886295349556506
+APC_damaging_to_TDO2,Avana,ACH-000145,Soft Tissue,matrix_intact,-0.13545419878365333
+APC_damaging_to_TDO2,Avana,ACH-000146,Myeloid,matrix_intact,-0.07365393666514096
+APC_damaging_to_TDO2,Avana,ACH-000147,Breast,matrix_intact,0.052427191846631305
+APC_damaging_to_TDO2,Avana,ACH-000148,Breast,matrix_intact,0.1992914846142234
+APC_damaging_to_TDO2,Avana,ACH-000151,Lymphoid,matrix_intact,-0.0724395479743319
+APC_damaging_to_TDO2,Avana,ACH-000152,CNS/Brain,matrix_intact,-0.10405703081307208
+APC_damaging_to_TDO2,Avana,ACH-000153,Pleura,matrix_intact,0.12378873296775593
+APC_damaging_to_TDO2,Avana,ACH-000159,Kidney,matrix_intact,0.12081723542712687
+APC_damaging_to_TDO2,Avana,ACH-000160,CNS/Brain,matrix_intact,0.19579825769233136
+APC_damaging_to_TDO2,Avana,ACH-000161,Lung,matrix_intact,0.04428242877619848
+APC_damaging_to_TDO2,Avana,ACH-000163,Head and Neck,matrix_intact,0.06576830977026932
+APC_damaging_to_TDO2,Avana,ACH-000164,Pancreas,matrix_intact,0.10995291741167341
+APC_damaging_to_TDO2,Avana,ACH-000168,Myeloid,matrix_intact,0.2632468156551333
+APC_damaging_to_TDO2,Avana,ACH-000169,Soft Tissue,matrix_intact,-0.10774382344544128
+APC_damaging_to_TDO2,Avana,ACH-000174,Thyroid,matrix_intact,0.16786494523156698
+APC_damaging_to_TDO2,Avana,ACH-000178,Pancreas,matrix_intact,0.40168824705241507
+APC_damaging_to_TDO2,Avana,ACH-000182,Ampulla of Vater,matrix_intact,-0.014424733651849445
+APC_damaging_to_TDO2,Avana,ACH-000183,Lymphoid,matrix_intact,0.2761038961822496
+APC_damaging_to_TDO2,Avana,ACH-000187,Lung,matrix_intact,0.2849809762750404
+APC_damaging_to_TDO2,Avana,ACH-000188,Head and Neck,matrix_intact,-0.022222614168073862
+APC_damaging_to_TDO2,Avana,ACH-000189,Kidney,matrix_intact,-0.0816040190060478
+APC_damaging_to_TDO2,Avana,ACH-000190,Myeloid,matrix_intact,0.2195518124818355
+APC_damaging_to_TDO2,Avana,ACH-000191,Thyroid,matrix_intact,0.06821678278972715
+APC_damaging_to_TDO2,Avana,ACH-000195,Myeloid,matrix_intact,-0.04165429171549476
+APC_damaging_to_TDO2,Avana,ACH-000198,Myeloid,matrix_intact,0.21641056914748058
+APC_damaging_to_TDO2,Avana,ACH-000200,CNS/Brain,matrix_intact,-0.15238745388428443
+APC_damaging_to_TDO2,Avana,ACH-000202,Bowel,damaging,-0.09381134578054078
+APC_damaging_to_TDO2,Avana,ACH-000204,Lymphoid,matrix_intact,0.24152250725151037
+APC_damaging_to_TDO2,Avana,ACH-000206,Lymphoid,matrix_intact,0.10229932352087667
+APC_damaging_to_TDO2,Avana,ACH-000207,Head and Neck,matrix_intact,-0.00015336988672699087
+APC_damaging_to_TDO2,Avana,ACH-000209,Biliary Tract,matrix_intact,0.07494711794496123
+APC_damaging_to_TDO2,Avana,ACH-000211,CNS/Brain,matrix_intact,0.21612837283157843
+APC_damaging_to_TDO2,Avana,ACH-000212,Breast,matrix_intact,0.46625280692000415
+APC_damaging_to_TDO2,Avana,ACH-000215,CNS/Brain,matrix_intact,-0.30476671472615047
+APC_damaging_to_TDO2,Avana,ACH-000216,Esophagus/Stomach,matrix_intact,0.08708371981789798
+APC_damaging_to_TDO2,Avana,ACH-000217,Liver,matrix_intact,0.00034804283882204634
+APC_damaging_to_TDO2,Avana,ACH-000219,Skin,matrix_intact,0.09251810079547959
+APC_damaging_to_TDO2,Avana,ACH-000221,Liver,matrix_intact,-0.004362097667771146
+APC_damaging_to_TDO2,Avana,ACH-000222,Pancreas,matrix_intact,-0.052913728344252065
+APC_damaging_to_TDO2,Avana,ACH-000223,Breast,matrix_intact,0.17783456283689417
+APC_damaging_to_TDO2,Avana,ACH-000226,Lymphoid,matrix_intact,0.17437568398064543
+APC_damaging_to_TDO2,Avana,ACH-000227,Peripheral Nervous System,matrix_intact,0.0652443950367309
+APC_damaging_to_TDO2,Avana,ACH-000228,Head and Neck,matrix_intact,0.13980408136277409
+APC_damaging_to_TDO2,Avana,ACH-000231,CNS/Brain,matrix_intact,0.03319098979490189
+APC_damaging_to_TDO2,Avana,ACH-000232,CNS/Brain,matrix_intact,0.35631693798754593
+APC_damaging_to_TDO2,Avana,ACH-000233,Lymphoid,matrix_intact,-0.1443248873256913
+APC_damaging_to_TDO2,Avana,ACH-000234,Kidney,matrix_intact,-0.02666724880900345
+APC_damaging_to_TDO2,Avana,ACH-000235,Pancreas,damaging,0.0040624498685475265
+APC_damaging_to_TDO2,Avana,ACH-000237,Ovary/Fallopian Tube,matrix_intact,0.5438187610680606
+APC_damaging_to_TDO2,Avana,ACH-000238,Head and Neck,matrix_intact,-0.037384508932123084
+APC_damaging_to_TDO2,Avana,ACH-000243,Pancreas,matrix_intact,-0.14160264706205156
+APC_damaging_to_TDO2,Avana,ACH-000244,CNS/Brain,matrix_intact,-0.12055331121747416
+APC_damaging_to_TDO2,Avana,ACH-000246,Kidney,matrix_intact,-0.1145967636989646
+APC_damaging_to_TDO2,Avana,ACH-000247,Esophagus/Stomach,matrix_intact,0.12231991744218715
+APC_damaging_to_TDO2,Avana,ACH-000248,Breast,matrix_intact,0.3244699648500978
+APC_damaging_to_TDO2,Avana,ACH-000250,Kidney,matrix_intact,0.1561881302525543
+APC_damaging_to_TDO2,Avana,ACH-000251,Lung,matrix_intact,0.30159507709936806
+APC_damaging_to_TDO2,Avana,ACH-000252,Bowel,damaging,0.5079174867774426
+APC_damaging_to_TDO2,Avana,ACH-000253,Bowel,damaging,0.08441041493662997
+APC_damaging_to_TDO2,Avana,ACH-000255,Esophagus/Stomach,matrix_intact,0.015322559473761852
+APC_damaging_to_TDO2,Avana,ACH-000256,Ovary/Fallopian Tube,matrix_intact,0.4296522316795559
+APC_damaging_to_TDO2,Avana,ACH-000257,Lung,matrix_intact,0.6148113040747929
+APC_damaging_to_TDO2,Avana,ACH-000258,Breast,damaging,-0.09247285373961639
+APC_damaging_to_TDO2,Avana,ACH-000259,Peripheral Nervous System,matrix_intact,-0.04168833502983233
+APC_damaging_to_TDO2,Avana,ACH-000260,Peripheral Nervous System,matrix_intact,-0.07450130858471891
+APC_damaging_to_TDO2,Avana,ACH-000261,Lung,matrix_intact,0.044463505090783784
+APC_damaging_to_TDO2,Avana,ACH-000262,Kidney,matrix_intact,0.01525263942987018
+APC_damaging_to_TDO2,Avana,ACH-000263,Myeloid,matrix_intact,0.037455591579809974
+APC_damaging_to_TDO2,Avana,ACH-000264,Lung,matrix_intact,-0.16409939135791066
+APC_damaging_to_TDO2,Avana,ACH-000265,Pancreas,matrix_intact,-0.0558983188660582
+APC_damaging_to_TDO2,Avana,ACH-000266,Pancreas,matrix_intact,0.00355481941561293
+APC_damaging_to_TDO2,Avana,ACH-000272,Kidney,matrix_intact,0.0013076726988528204
+APC_damaging_to_TDO2,Avana,ACH-000273,CNS/Brain,matrix_intact,-0.08342071554796816
+APC_damaging_to_TDO2,Avana,ACH-000274,Skin,matrix_intact,0.18074673882590186
+APC_damaging_to_TDO2,Avana,ACH-000276,Breast,matrix_intact,0.4607811228626728
+APC_damaging_to_TDO2,Avana,ACH-000277,Breast,matrix_intact,0.08160903263463523
+APC_damaging_to_TDO2,Avana,ACH-000278,Ovary/Fallopian Tube,matrix_intact,0.07865957348829633
+APC_damaging_to_TDO2,Avana,ACH-000279,Bone,matrix_intact,0.03473771046433784
+APC_damaging_to_TDO2,Avana,ACH-000280,Ovary/Fallopian Tube,matrix_intact,0.35786254281136043
+APC_damaging_to_TDO2,Avana,ACH-000281,Pancreas,matrix_intact,0.11766655408546708
+APC_damaging_to_TDO2,Avana,ACH-000286,Bowel,damaging,-0.0013061331708255353
+APC_damaging_to_TDO2,Avana,ACH-000288,Breast,matrix_intact,0.4248250207232301
+APC_damaging_to_TDO2,Avana,ACH-000290,Lung,matrix_intact,-0.19137166051872467
+APC_damaging_to_TDO2,Avana,ACH-000291,Ovary/Fallopian Tube,matrix_intact,0.05868027147537437
+APC_damaging_to_TDO2,Avana,ACH-000292,Lung,matrix_intact,0.014589080082839816
+APC_damaging_to_TDO2,Avana,ACH-000293,Uterus,matrix_intact,-0.17116228126206323
+APC_damaging_to_TDO2,Avana,ACH-000294,Myeloid,matrix_intact,0.0066401888017637856
+APC_damaging_to_TDO2,Avana,ACH-000295,Myeloid,matrix_intact,0.14295457540641354
+APC_damaging_to_TDO2,Avana,ACH-000296,Bowel,damaging,0.1440052481445905
+APC_damaging_to_TDO2,Avana,ACH-000302,Uterus,matrix_intact,0.10545856491251104
+APC_damaging_to_TDO2,Avana,ACH-000303,Esophagus/Stomach,matrix_intact,0.13701991631163588
+APC_damaging_to_TDO2,Avana,ACH-000304,Skin,matrix_intact,-0.11324305619230966
+APC_damaging_to_TDO2,Avana,ACH-000305,Esophagus/Stomach,matrix_intact,0.20046191286064244
+APC_damaging_to_TDO2,Avana,ACH-000307,Pancreas,matrix_intact,-0.14740052389653574
+APC_damaging_to_TDO2,Avana,ACH-000308,Ovary/Fallopian Tube,matrix_intact,0.26403085852200725
+APC_damaging_to_TDO2,Avana,ACH-000310,Peripheral Nervous System,matrix_intact,0.00917007460261477
+APC_damaging_to_TDO2,Avana,ACH-000311,Lung,matrix_intact,0.0044843979490001296
+APC_damaging_to_TDO2,Avana,ACH-000312,Peripheral Nervous System,matrix_intact,-0.0574874574846517
+APC_damaging_to_TDO2,Avana,ACH-000313,Kidney,matrix_intact,0.1784527123461186
+APC_damaging_to_TDO2,Avana,ACH-000315,Lymphoid,matrix_intact,0.4255583550774688
+APC_damaging_to_TDO2,Avana,ACH-000316,Liver,matrix_intact,0.11051590352333035
+APC_damaging_to_TDO2,Avana,ACH-000317,Kidney,matrix_intact,-0.09035087817906808
+APC_damaging_to_TDO2,Avana,ACH-000318,Esophagus/Stomach,matrix_intact,-0.17114668696613228
+APC_damaging_to_TDO2,Avana,ACH-000319,Pleura,matrix_intact,0.06710712129269451
+APC_damaging_to_TDO2,Avana,ACH-000320,Pancreas,matrix_intact,-0.1114219433070112
+APC_damaging_to_TDO2,Avana,ACH-000322,Skin,matrix_intact,0.1920853522373784
+APC_damaging_to_TDO2,Avana,ACH-000323,CNS/Brain,matrix_intact,0.060537873488427776
+APC_damaging_to_TDO2,Avana,ACH-000324,Ovary/Fallopian Tube,matrix_intact,-0.006918922255942546
+APC_damaging_to_TDO2,Avana,ACH-000325,Esophagus/Stomach,matrix_intact,-0.39102010431430256
+APC_damaging_to_TDO2,Avana,ACH-000326,Myeloid,matrix_intact,-0.0451138475346107
+APC_damaging_to_TDO2,Avana,ACH-000329,CNS/Brain,matrix_intact,0.14132871783175327
+APC_damaging_to_TDO2,Avana,ACH-000330,Breast,matrix_intact,0.2032472241404544
+APC_damaging_to_TDO2,Avana,ACH-000331,Pleura,matrix_intact,-0.0007702547376143044
+APC_damaging_to_TDO2,Avana,ACH-000332,Pancreas,matrix_intact,0.06249644448400497
+APC_damaging_to_TDO2,Avana,ACH-000334,Lymphoid,matrix_intact,-0.04277602629983421
+APC_damaging_to_TDO2,Avana,ACH-000335,Pleura,matrix_intact,0.05651965089062959
+APC_damaging_to_TDO2,Avana,ACH-000336,Myeloid,matrix_intact,-0.015093060518139717
+APC_damaging_to_TDO2,Avana,ACH-000337,Lung,matrix_intact,-0.01803736993309086
+APC_damaging_to_TDO2,Avana,ACH-000339,Lung,matrix_intact,0.20218621287858363
+APC_damaging_to_TDO2,Avana,ACH-000341,Peripheral Nervous System,matrix_intact,0.35241890719211577
+APC_damaging_to_TDO2,Avana,ACH-000343,Lung,matrix_intact,0.028490636123298163
+APC_damaging_to_TDO2,Avana,ACH-000344,Esophagus/Stomach,matrix_intact,0.023050954296295764
+APC_damaging_to_TDO2,Avana,ACH-000346,Lymphoid,matrix_intact,-0.19863379840988865
+APC_damaging_to_TDO2,Avana,ACH-000348,Skin,matrix_intact,-0.1912946835611833
+APC_damaging_to_TDO2,Avana,ACH-000350,Bowel,damaging,0.09342844354767592
+APC_damaging_to_TDO2,Avana,ACH-000352,Breast,matrix_intact,-0.1780469274337494
+APC_damaging_to_TDO2,Avana,ACH-000355,Lung,matrix_intact,0.15068909913122933
+APC_damaging_to_TDO2,Avana,ACH-000356,Esophagus/Stomach,matrix_intact,0.07039122586747795
+APC_damaging_to_TDO2,Avana,ACH-000359,Bone,matrix_intact,0.1439586760072596
+APC_damaging_to_TDO2,Avana,ACH-000361,Liver,matrix_intact,0.42800231046119697
+APC_damaging_to_TDO2,Avana,ACH-000362,Myeloid,matrix_intact,0.05366690570344386
+APC_damaging_to_TDO2,Avana,ACH-000363,Lymphoid,matrix_intact,-0.10095973899992709
+APC_damaging_to_TDO2,Avana,ACH-000364,Bone,matrix_intact,-0.14624144840944373
+APC_damaging_to_TDO2,Avana,ACH-000365,Lymphoid,matrix_intact,0.20300388648692372
+APC_damaging_to_TDO2,Avana,ACH-000366,Peripheral Nervous System,matrix_intact,0.36116126539175347
+APC_damaging_to_TDO2,Avana,ACH-000368,CNS/Brain,matrix_intact,-0.10018609020579519
+APC_damaging_to_TDO2,Avana,ACH-000370,CNS/Brain,matrix_intact,0.3484562936116351
+APC_damaging_to_TDO2,Avana,ACH-000371,Lymphoid,matrix_intact,0.14204935028549134
+APC_damaging_to_TDO2,Avana,ACH-000374,Breast,matrix_intact,0.5539567705291938
+APC_damaging_to_TDO2,Avana,ACH-000375,Kidney,matrix_intact,0.24731660558517984
+APC_damaging_to_TDO2,Avana,ACH-000376,CNS/Brain,matrix_intact,-0.10451767357458366
+APC_damaging_to_TDO2,Avana,ACH-000377,Ampulla of Vater,matrix_intact,0.25052764862214216
+APC_damaging_to_TDO2,Avana,ACH-000378,Lung,matrix_intact,-0.07673080208791618
+APC_damaging_to_TDO2,Avana,ACH-000381,Bowel,damaging,-0.19435137412217782
+APC_damaging_to_TDO2,Avana,ACH-000383,Esophagus/Stomach,matrix_intact,0.19146189639493189
+APC_damaging_to_TDO2,Avana,ACH-000385,Kidney,matrix_intact,0.03340569288722321
+APC_damaging_to_TDO2,Avana,ACH-000387,Myeloid,matrix_intact,0.08404946728341249
+APC_damaging_to_TDO2,Avana,ACH-000389,CNS/Brain,matrix_intact,0.10060772385148425
+APC_damaging_to_TDO2,Avana,ACH-000390,Lung,matrix_intact,0.34613577234069914
+APC_damaging_to_TDO2,Avana,ACH-000391,Bone,matrix_intact,-0.06040856208254384
+APC_damaging_to_TDO2,Avana,ACH-000393,Liver,matrix_intact,0.012332430742288314
+APC_damaging_to_TDO2,Avana,ACH-000395,Lung,matrix_intact,0.18631910921604478
+APC_damaging_to_TDO2,Avana,ACH-000396,Bladder/Urinary Tract,matrix_intact,0.07884318785525138
+APC_damaging_to_TDO2,Avana,ACH-000397,Uterus,matrix_intact,-0.06540781419267633
+APC_damaging_to_TDO2,Avana,ACH-000398,Lymphoid,matrix_intact,-0.07532544355215531
+APC_damaging_to_TDO2,Avana,ACH-000401,Skin,matrix_intact,0.09050608399154525
+APC_damaging_to_TDO2,Avana,ACH-000402,Lymphoid,matrix_intact,-0.05144094596083261
+APC_damaging_to_TDO2,Avana,ACH-000403,Bowel,damaging,0.13570879501681582
+APC_damaging_to_TDO2,Avana,ACH-000404,Skin,matrix_intact,0.04840946521395574
+APC_damaging_to_TDO2,Avana,ACH-000405,Lymphoid,matrix_intact,0.00874097793773245
+APC_damaging_to_TDO2,Avana,ACH-000406,Myeloid,matrix_intact,-0.019895371179438293
+APC_damaging_to_TDO2,Avana,ACH-000407,Uterus,matrix_intact,0.0016495232657315999
+APC_damaging_to_TDO2,Avana,ACH-000408,Esophagus/Stomach,matrix_intact,0.3465800497966441
+APC_damaging_to_TDO2,Avana,ACH-000410,Bone,matrix_intact,0.04310985800621833
+APC_damaging_to_TDO2,Avana,ACH-000411,Kidney,matrix_intact,-0.0893252444321404
+APC_damaging_to_TDO2,Avana,ACH-000414,Lung,matrix_intact,-0.0035651130433541
+APC_damaging_to_TDO2,Avana,ACH-000415,Head and Neck,matrix_intact,0.27598317283876916
+APC_damaging_to_TDO2,Avana,ACH-000416,Lung,matrix_intact,0.021810449520222264
+APC_damaging_to_TDO2,Avana,ACH-000417,Pancreas,matrix_intact,0.07052132555275932
+APC_damaging_to_TDO2,Avana,ACH-000420,Liver,matrix_intact,0.1628563088771644
+APC_damaging_to_TDO2,Avana,ACH-000421,Bowel,damaging,0.13758991925473713
+APC_damaging_to_TDO2,Avana,ACH-000422,Liver,matrix_intact,0.12977207311612293
+APC_damaging_to_TDO2,Avana,ACH-000424,Bone,matrix_intact,-0.17192487722783323
+APC_damaging_to_TDO2,Avana,ACH-000425,Skin,matrix_intact,0.21528686320701765
+APC_damaging_to_TDO2,Avana,ACH-000426,Lymphoid,matrix_intact,0.16963862985067507
+APC_damaging_to_TDO2,Avana,ACH-000427,Esophagus/Stomach,matrix_intact,0.15373840005898076
+APC_damaging_to_TDO2,Avana,ACH-000431,Lung,matrix_intact,-0.24059310524592276
+APC_damaging_to_TDO2,Avana,ACH-000433,Kidney,matrix_intact,0.39140789555937916
+APC_damaging_to_TDO2,Avana,ACH-000434,Lung,matrix_intact,0.18853223058575755
+APC_damaging_to_TDO2,Avana,ACH-000435,Uterus,matrix_intact,0.07491388637231286
+APC_damaging_to_TDO2,Avana,ACH-000436,Lymphoid,matrix_intact,0.17920267036589385
+APC_damaging_to_TDO2,Avana,ACH-000437,CNS/Brain,matrix_intact,-0.02217630825814121
+APC_damaging_to_TDO2,Avana,ACH-000438,Lung,matrix_intact,0.11415627314172733
+APC_damaging_to_TDO2,Avana,ACH-000441,Skin,matrix_intact,0.17106855780726932
+APC_damaging_to_TDO2,Avana,ACH-000444,Lung,matrix_intact,-0.02596132521034579
+APC_damaging_to_TDO2,Avana,ACH-000445,CNS/Brain,matrix_intact,0.21297207701396448
+APC_damaging_to_TDO2,Avana,ACH-000448,Lung,matrix_intact,0.31088963941938014
+APC_damaging_to_TDO2,Avana,ACH-000450,Skin,matrix_intact,-0.03473585227681575
+APC_damaging_to_TDO2,Avana,ACH-000452,Esophagus/Stomach,matrix_intact,-0.006615523342398795
+APC_damaging_to_TDO2,Avana,ACH-000454,Lung,matrix_intact,0.22180849109516915
+APC_damaging_to_TDO2,Avana,ACH-000455,CNS/Brain,matrix_intact,-0.03637178407448878
+APC_damaging_to_TDO2,Avana,ACH-000456,Thyroid,matrix_intact,0.15771766702608309
+APC_damaging_to_TDO2,Avana,ACH-000458,Skin,matrix_intact,0.1798996966013347
+APC_damaging_to_TDO2,Avana,ACH-000459,Kidney,matrix_intact,0.26420348598179194
+APC_damaging_to_TDO2,Avana,ACH-000460,Ovary/Fallopian Tube,matrix_intact,-0.17757596717449584
+APC_damaging_to_TDO2,Avana,ACH-000461,Biliary Tract,matrix_intact,-0.434874417666734
+APC_damaging_to_TDO2,Avana,ACH-000463,Lung,matrix_intact,0.21249589699610288
+APC_damaging_to_TDO2,Avana,ACH-000464,CNS/Brain,matrix_intact,0.11507310894314718
+APC_damaging_to_TDO2,Avana,ACH-000466,Esophagus/Stomach,matrix_intact,0.12736562729554932
+APC_damaging_to_TDO2,Avana,ACH-000467,Bowel,matrix_intact,0.44476110225162047
+APC_damaging_to_TDO2,Avana,ACH-000468,Pancreas,matrix_intact,-0.02037821132799012
+APC_damaging_to_TDO2,Avana,ACH-000469,CNS/Brain,matrix_intact,-0.2629360121374732
+APC_damaging_to_TDO2,Avana,ACH-000470,Bowel,damaging,0.451854941408917
+APC_damaging_to_TDO2,Avana,ACH-000471,Liver,matrix_intact,0.2480505448692752
+APC_damaging_to_TDO2,Avana,ACH-000472,Head and Neck,matrix_intact,0.2705560326373292
+APC_damaging_to_TDO2,Avana,ACH-000473,Bladder/Urinary Tract,matrix_intact,0.3936590605641118
+APC_damaging_to_TDO2,Avana,ACH-000475,Liver,matrix_intact,-0.10302149579307553
+APC_damaging_to_TDO2,Avana,ACH-000476,Liver,matrix_intact,-0.3246557514878776
+APC_damaging_to_TDO2,Avana,ACH-000477,Skin,matrix_intact,-0.12489780404823325
+APC_damaging_to_TDO2,Avana,ACH-000478,Liver,matrix_intact,-0.06324771643570408
+APC_damaging_to_TDO2,Avana,ACH-000479,CNS/Brain,matrix_intact,0.05868767336912199
+APC_damaging_to_TDO2,Avana,ACH-000480,Liver,matrix_intact,0.24020005748696469
+APC_damaging_to_TDO2,Avana,ACH-000481,Lung,matrix_intact,0.41804706858039287
+APC_damaging_to_TDO2,Avana,ACH-000483,Liver,matrix_intact,-0.056490266855406396
+APC_damaging_to_TDO2,Avana,ACH-000484,Kidney,matrix_intact,-0.06415527361038736
+APC_damaging_to_TDO2,Avana,ACH-000485,Esophagus/Stomach,matrix_intact,0.6046900602231369
+APC_damaging_to_TDO2,Avana,ACH-000486,Bladder/Urinary Tract,matrix_intact,0.10672569111686145
+APC_damaging_to_TDO2,Avana,ACH-000487,Myeloid,matrix_intact,-0.20197916026082915
+APC_damaging_to_TDO2,Avana,ACH-000488,Esophagus/Stomach,matrix_intact,0.22034359609830784
+APC_damaging_to_TDO2,Avana,ACH-000489,Bowel,damaging,-0.014882085194221559
+APC_damaging_to_TDO2,Avana,ACH-000490,Cervix,matrix_intact,0.16040058887602057
+APC_damaging_to_TDO2,Avana,ACH-000491,Bowel,matrix_intact,0.21741425037914003
+APC_damaging_to_TDO2,Avana,ACH-000493,Liver,matrix_intact,0.032762376243612105
+APC_damaging_to_TDO2,Avana,ACH-000495,Kidney,matrix_intact,0.028298892407826085
+APC_damaging_to_TDO2,Avana,ACH-000496,Lung,matrix_intact,0.08957011410260973
+APC_damaging_to_TDO2,Avana,ACH-000499,Bone,matrix_intact,-0.19476993044071997
+APC_damaging_to_TDO2,Avana,ACH-000500,Head and Neck,matrix_intact,0.35364090085186006
+APC_damaging_to_TDO2,Avana,ACH-000502,Pancreas,matrix_intact,0.040737995191643214
+APC_damaging_to_TDO2,Avana,ACH-000503,Head and Neck,matrix_intact,0.1586319036152694
+APC_damaging_to_TDO2,Avana,ACH-000504,CNS/Brain,matrix_intact,0.020274524780416157
+APC_damaging_to_TDO2,Avana,ACH-000505,Soft Tissue,matrix_intact,0.023930612878158463
+APC_damaging_to_TDO2,Avana,ACH-000507,Esophagus/Stomach,matrix_intact,-0.023807548682154192
+APC_damaging_to_TDO2,Avana,ACH-000510,Lung,matrix_intact,0.18115070216706775
+APC_damaging_to_TDO2,Avana,ACH-000511,Lung,matrix_intact,0.05905413419618802
+APC_damaging_to_TDO2,Avana,ACH-000512,Lymphoid,matrix_intact,-0.20938120016463033
+APC_damaging_to_TDO2,Avana,ACH-000514,Lung,matrix_intact,-0.04656932982656857
+APC_damaging_to_TDO2,Avana,ACH-000516,Bone,matrix_intact,-2.980653357508023e-05
+APC_damaging_to_TDO2,Avana,ACH-000517,Pancreas,matrix_intact,0.09182710940857369
+APC_damaging_to_TDO2,Avana,ACH-000518,Head and Neck,matrix_intact,0.15660838571461294
+APC_damaging_to_TDO2,Avana,ACH-000520,Ovary/Fallopian Tube,matrix_intact,0.027803884104876865
+APC_damaging_to_TDO2,Avana,ACH-000521,Lung,matrix_intact,-0.15493396117344382
+APC_damaging_to_TDO2,Avana,ACH-000522,Bladder/Urinary Tract,matrix_intact,0.07905840132637693
+APC_damaging_to_TDO2,Avana,ACH-000524,Ovary/Fallopian Tube,matrix_intact,0.06506311865483715
+APC_damaging_to_TDO2,Avana,ACH-000525,Lung,matrix_intact,0.08931404583388948
+APC_damaging_to_TDO2,Avana,ACH-000527,Ovary/Fallopian Tube,matrix_intact,0.21067541773789364
+APC_damaging_to_TDO2,Avana,ACH-000528,Lung,matrix_intact,0.049844521754398366
+APC_damaging_to_TDO2,Avana,ACH-000532,Bowel,damaging,0.06411147238676922
+APC_damaging_to_TDO2,Avana,ACH-000533,Kidney,matrix_intact,-0.23762706562748684
+APC_damaging_to_TDO2,Avana,ACH-000535,Pancreas,matrix_intact,-0.006273762314642314
+APC_damaging_to_TDO2,Avana,ACH-000537,Liver,matrix_intact,0.17173986424773152
+APC_damaging_to_TDO2,Avana,ACH-000541,Lymphoid,matrix_intact,0.3588631521567845
+APC_damaging_to_TDO2,Avana,ACH-000542,Ovary/Fallopian Tube,matrix_intact,0.24602032915018118
+APC_damaging_to_TDO2,Avana,ACH-000544,Esophagus/Stomach,matrix_intact,-0.025136504761074457
+APC_damaging_to_TDO2,Avana,ACH-000545,Bladder/Urinary Tract,matrix_intact,-0.08233108654279955
+APC_damaging_to_TDO2,Avana,ACH-000547,Bladder/Urinary Tract,matrix_intact,-0.14975006123858314
+APC_damaging_to_TDO2,Avana,ACH-000548,Head and Neck,matrix_intact,0.2260429575935765
+APC_damaging_to_TDO2,Avana,ACH-000549,Head and Neck,matrix_intact,-0.06527602216431966
+APC_damaging_to_TDO2,Avana,ACH-000550,Skin,matrix_intact,0.41821138777236744
+APC_damaging_to_TDO2,Avana,ACH-000551,Myeloid,matrix_intact,-0.3963820468900683
+APC_damaging_to_TDO2,Avana,ACH-000552,Bowel,damaging,-0.02423877344548669
+APC_damaging_to_TDO2,Avana,ACH-000556,Cervix,matrix_intact,0.1022128765985655
+APC_damaging_to_TDO2,Avana,ACH-000557,Myeloid,matrix_intact,0.2872324545502983
+APC_damaging_to_TDO2,Avana,ACH-000559,Lung,matrix_intact,0.09321414272459352
+APC_damaging_to_TDO2,Avana,ACH-000563,Lung,matrix_intact,-0.12447504581940946
+APC_damaging_to_TDO2,Avana,ACH-000567,Lymphoid,matrix_intact,0.11778125526263714
+APC_damaging_to_TDO2,Avana,ACH-000570,CNS/Brain,matrix_intact,-0.0552442778347486
+APC_damaging_to_TDO2,Avana,ACH-000571,CNS/Brain,matrix_intact,0.16538605622027314
+APC_damaging_to_TDO2,Avana,ACH-000573,Breast,matrix_intact,0.16140303634637676
+APC_damaging_to_TDO2,Avana,ACH-000576,Lymphoid,matrix_intact,0.044422245964615664
+APC_damaging_to_TDO2,Avana,ACH-000577,Liver,matrix_intact,0.05649240572494117
+APC_damaging_to_TDO2,Avana,ACH-000579,Skin,matrix_intact,0.029517437619483944
+APC_damaging_to_TDO2,Avana,ACH-000580,Skin,matrix_intact,-0.30848966972522707
+APC_damaging_to_TDO2,Avana,ACH-000581,Esophagus/Stomach,matrix_intact,-0.22915733528613205
+APC_damaging_to_TDO2,Avana,ACH-000584,Ovary/Fallopian Tube,matrix_intact,0.17633590460208703
+APC_damaging_to_TDO2,Avana,ACH-000585,Lung,matrix_intact,0.4368104725080055
+APC_damaging_to_TDO2,Avana,ACH-000587,Lung,matrix_intact,0.14240715671153537
+APC_damaging_to_TDO2,Avana,ACH-000588,Lymphoid,matrix_intact,0.28226219659181095
+APC_damaging_to_TDO2,Avana,ACH-000589,Lung,matrix_intact,0.10658754089812406
+APC_damaging_to_TDO2,Avana,ACH-000591,CNS/Brain,matrix_intact,-0.048210967182364936
+APC_damaging_to_TDO2,Avana,ACH-000592,CNS/Brain,matrix_intact,-0.026927878548705136
+APC_damaging_to_TDO2,Avana,ACH-000593,Bladder/Urinary Tract,matrix_intact,0.41276093964634336
+APC_damaging_to_TDO2,Avana,ACH-000595,CNS/Brain,matrix_intact,0.06759017431363465
+APC_damaging_to_TDO2,Avana,ACH-000596,Lung,matrix_intact,-0.1985002891243175
+APC_damaging_to_TDO2,Avana,ACH-000597,Kidney,matrix_intact,-0.03734137881479968
+APC_damaging_to_TDO2,Avana,ACH-000599,Pancreas,matrix_intact,-0.09501131141204502
+APC_damaging_to_TDO2,Avana,ACH-000601,Pancreas,matrix_intact,0.08013129550054285
+APC_damaging_to_TDO2,Avana,ACH-000602,Myeloid,matrix_intact,0.02389992759652327
+APC_damaging_to_TDO2,Avana,ACH-000604,Myeloid,matrix_intact,0.3161777844022384
+APC_damaging_to_TDO2,Avana,ACH-000605,Esophagus/Stomach,matrix_intact,0.00015975429756745659
+APC_damaging_to_TDO2,Avana,ACH-000606,Head and Neck,matrix_intact,0.030376018190923004
+APC_damaging_to_TDO2,Avana,ACH-000607,Soft Tissue,matrix_intact,-0.03045072087964446
+APC_damaging_to_TDO2,Avana,ACH-000608,Ovary/Fallopian Tube,matrix_intact,0.13686569000492183
+APC_damaging_to_TDO2,Avana,ACH-000609,CNS/Brain,matrix_intact,0.032632174283020086
+APC_damaging_to_TDO2,Avana,ACH-000614,Skin,matrix_intact,0.03551087797266249
+APC_damaging_to_TDO2,Avana,ACH-000616,Esophagus/Stomach,matrix_intact,0.3096344825527328
+APC_damaging_to_TDO2,Avana,ACH-000618,Head and Neck,matrix_intact,-0.010429293090119078
+APC_damaging_to_TDO2,Avana,ACH-000619,Head and Neck,matrix_intact,0.052559313783702606
+APC_damaging_to_TDO2,Avana,ACH-000620,Liver,matrix_intact,0.2423655871227619
+APC_damaging_to_TDO2,Avana,ACH-000621,Breast,matrix_intact,0.39216123647563605
+APC_damaging_to_TDO2,Avana,ACH-000622,CNS/Brain,matrix_intact,0.08734116498038169
+APC_damaging_to_TDO2,Avana,ACH-000623,CNS/Brain,matrix_intact,0.3871417682079423
+APC_damaging_to_TDO2,Avana,ACH-000624,Breast,matrix_intact,0.19736840611118933
+APC_damaging_to_TDO2,Avana,ACH-000627,Lung,matrix_intact,-0.09513254845755047
+APC_damaging_to_TDO2,Avana,ACH-000630,Head and Neck,matrix_intact,-0.05787721136988646
+APC_damaging_to_TDO2,Avana,ACH-000632,Skin,matrix_intact,-0.26206078886068507
+APC_damaging_to_TDO2,Avana,ACH-000633,Esophagus/Stomach,matrix_intact,-0.03334476453585513
+APC_damaging_to_TDO2,Avana,ACH-000634,CNS/Brain,matrix_intact,0.014942846428556074
+APC_damaging_to_TDO2,Avana,ACH-000637,Esophagus/Stomach,matrix_intact,0.42910103097918917
+APC_damaging_to_TDO2,Avana,ACH-000638,Lung,matrix_intact,-0.1516204321066522
+APC_damaging_to_TDO2,Avana,ACH-000639,Lung,matrix_intact,0.06444931289243312
+APC_damaging_to_TDO2,Avana,ACH-000645,Pleura,matrix_intact,0.038288223473280876
+APC_damaging_to_TDO2,Avana,ACH-000646,Ovary/Fallopian Tube,matrix_intact,-0.33048409028837167
+APC_damaging_to_TDO2,Avana,ACH-000647,Esophagus/Stomach,matrix_intact,-0.012669214521212196
+APC_damaging_to_TDO2,Avana,ACH-000648,Pleura,matrix_intact,-0.018756460983287312
+APC_damaging_to_TDO2,Avana,ACH-000649,Kidney,matrix_intact,0.09766724916505855
+APC_damaging_to_TDO2,Avana,ACH-000651,Bowel,damaging,0.41940391694650725
+APC_damaging_to_TDO2,Avana,ACH-000652,Pancreas,matrix_intact,0.2368310208028785
+APC_damaging_to_TDO2,Avana,ACH-000653,Lymphoid,matrix_intact,0.10243335790977412
+APC_damaging_to_TDO2,Avana,ACH-000654,Lymphoid,matrix_intact,-0.035430330701959
+APC_damaging_to_TDO2,Avana,ACH-000655,CNS/Brain,matrix_intact,0.18067096266731666
+APC_damaging_to_TDO2,Avana,ACH-000657,Ovary/Fallopian Tube,matrix_intact,0.30762287272107747
+APC_damaging_to_TDO2,Avana,ACH-000661,Skin,matrix_intact,0.1360379956272574
+APC_damaging_to_TDO2,Avana,ACH-000662,Lung,matrix_intact,-0.7191134238512794
+APC_damaging_to_TDO2,Avana,ACH-000663,Ovary/Fallopian Tube,matrix_intact,0.3098418664815693
+APC_damaging_to_TDO2,Avana,ACH-000664,Lymphoid,matrix_intact,0.16671085794452367
+APC_damaging_to_TDO2,Avana,ACH-000665,Lung,matrix_intact,0.1671437953607717
+APC_damaging_to_TDO2,Avana,ACH-000667,Lung,matrix_intact,-0.02828287713061968
+APC_damaging_to_TDO2,Avana,ACH-000671,Liver,matrix_intact,0.09440608828163419
+APC_damaging_to_TDO2,Avana,ACH-000673,CNS/Brain,matrix_intact,-0.037957891845608945
+APC_damaging_to_TDO2,Avana,ACH-000676,CNS/Brain,matrix_intact,-0.24979682098837952
+APC_damaging_to_TDO2,Avana,ACH-000677,Lung,matrix_intact,0.16232394893579283
+APC_damaging_to_TDO2,Avana,ACH-000680,Bowel,damaging,-1.4177460314197312
+APC_damaging_to_TDO2,Avana,ACH-000681,Lung,matrix_intact,0.028666536539567217
+APC_damaging_to_TDO2,Avana,ACH-000682,Head and Neck,matrix_intact,0.0016165435870263596
+APC_damaging_to_TDO2,Avana,ACH-000683,Bowel,damaging,0.19516911316920732
+APC_damaging_to_TDO2,Avana,ACH-000684,Kidney,matrix_intact,0.3785434246882923
+APC_damaging_to_TDO2,Avana,ACH-000685,Pancreas,matrix_intact,0.10922862488774229
+APC_damaging_to_TDO2,Avana,ACH-000688,Ovary/Fallopian Tube,matrix_intact,0.4029259580373846
+APC_damaging_to_TDO2,Avana,ACH-000693,Esophagus/Stomach,matrix_intact,0.09853973912845247
+APC_damaging_to_TDO2,Avana,ACH-000694,Esophagus/Stomach,matrix_intact,0.27112044368073906
+APC_damaging_to_TDO2,Avana,ACH-000695,Lung,matrix_intact,0.07741197181673055
+APC_damaging_to_TDO2,Avana,ACH-000696,Ovary/Fallopian Tube,matrix_intact,0.08651165879294057
+APC_damaging_to_TDO2,Avana,ACH-000697,Lymphoid,matrix_intact,0.1524300455477547
+APC_damaging_to_TDO2,Avana,ACH-000698,Lung,matrix_intact,0.3738296983268465
+APC_damaging_to_TDO2,Avana,ACH-000699,Breast,matrix_intact,0.40374847702136896
+APC_damaging_to_TDO2,Avana,ACH-000700,Lung,matrix_intact,-0.201094185519251
+APC_damaging_to_TDO2,Avana,ACH-000701,Ovary/Fallopian Tube,matrix_intact,0.1751246558516001
+APC_damaging_to_TDO2,Avana,ACH-000702,Lymphoid,matrix_intact,0.374994489991464
+APC_damaging_to_TDO2,Avana,ACH-000706,Lung,matrix_intact,0.06351609837240568
+APC_damaging_to_TDO2,Avana,ACH-000709,Kidney,matrix_intact,0.5469224595651285
+APC_damaging_to_TDO2,Avana,ACH-000711,Breast,matrix_intact,0.06031714359703093
+APC_damaging_to_TDO2,Avana,ACH-000713,Ovary/Fallopian Tube,matrix_intact,0.696441255873574
+APC_damaging_to_TDO2,Avana,ACH-000714,Lymphoid,matrix_intact,-0.26865334304730937
+APC_damaging_to_TDO2,Avana,ACH-000716,Thyroid,matrix_intact,0.07386346135577923
+APC_damaging_to_TDO2,Avana,ACH-000718,Lung,matrix_intact,0.35431551790228966
+APC_damaging_to_TDO2,Avana,ACH-000719,Ovary/Fallopian Tube,matrix_intact,-0.24274040656796247
+APC_damaging_to_TDO2,Avana,ACH-000720,Bladder/Urinary Tract,matrix_intact,-0.23865236563884284
+APC_damaging_to_TDO2,Avana,ACH-000721,Breast,matrix_intact,0.038513116064016556
+APC_damaging_to_TDO2,Avana,ACH-000724,Bladder/Urinary Tract,matrix_intact,-0.22569004093157513
+APC_damaging_to_TDO2,Avana,ACH-000725,Breast,matrix_intact,0.3591137128496561
+APC_damaging_to_TDO2,Avana,ACH-000732,Head and Neck,matrix_intact,0.052480662801059015
+APC_damaging_to_TDO2,Avana,ACH-000734,Liver,matrix_intact,0.6831202519753152
+APC_damaging_to_TDO2,Avana,ACH-000735,Head and Neck,matrix_intact,0.07547030678116047
+APC_damaging_to_TDO2,Avana,ACH-000736,Esophagus/Stomach,matrix_intact,0.19122150071115002
+APC_damaging_to_TDO2,Avana,ACH-000738,CNS/Brain,matrix_intact,-0.03763315595527336
+APC_damaging_to_TDO2,Avana,ACH-000739,Liver,matrix_intact,0.02638015971718496
+APC_damaging_to_TDO2,Avana,ACH-000740,Head and Neck,matrix_intact,0.11272314963026633
+APC_damaging_to_TDO2,Avana,ACH-000741,Bladder/Urinary Tract,matrix_intact,0.1739948938685551
+APC_damaging_to_TDO2,Avana,ACH-000746,Esophagus/Stomach,damaging,0.2151823431297974
+APC_damaging_to_TDO2,Avana,ACH-000747,Lung,matrix_intact,-0.05681369178071728
+APC_damaging_to_TDO2,Avana,ACH-000748,Bone,matrix_intact,-0.07664681969377701
+APC_damaging_to_TDO2,Avana,ACH-000753,Bladder/Urinary Tract,matrix_intact,0.023667672022555
+APC_damaging_to_TDO2,Avana,ACH-000754,Lymphoid,matrix_intact,-0.2651154298596792
+APC_damaging_to_TDO2,Avana,ACH-000756,CNS/Brain,matrix_intact,0.1291774580624559
+APC_damaging_to_TDO2,Avana,ACH-000757,Lung,matrix_intact,0.10354702695322666
+APC_damaging_to_TDO2,Avana,ACH-000758,Esophagus/Stomach,damaging,0.15341573993143964
+APC_damaging_to_TDO2,Avana,ACH-000760,CNS/Brain,matrix_intact,0.11615210882665669
+APC_damaging_to_TDO2,Avana,ACH-000762,Head and Neck,matrix_intact,0.22025894570579294
+APC_damaging_to_TDO2,Avana,ACH-000763,Lymphoid,matrix_intact,-0.16614224662091634
+APC_damaging_to_TDO2,Avana,ACH-000764,Esophagus/Stomach,matrix_intact,0.0014412775789902285
+APC_damaging_to_TDO2,Avana,ACH-000765,Skin,matrix_intact,0.0763448489741778
+APC_damaging_to_TDO2,Avana,ACH-000766,Lung,matrix_intact,0.007419576556557075
+APC_damaging_to_TDO2,Avana,ACH-000767,Lung,matrix_intact,0.002283497401327002
+APC_damaging_to_TDO2,Avana,ACH-000768,Breast,matrix_intact,0.1667342552995752
+APC_damaging_to_TDO2,Avana,ACH-000769,Lung,damaging,0.08372166236462039
+APC_damaging_to_TDO2,Avana,ACH-000770,Myeloid,matrix_intact,-0.0013514350957492607
+APC_damaging_to_TDO2,Avana,ACH-000771,Head and Neck,matrix_intact,0.002153951900288248
+APC_damaging_to_TDO2,Avana,ACH-000773,Lymphoid,matrix_intact,-0.03138716866898737
+APC_damaging_to_TDO2,Avana,ACH-000774,Lung,matrix_intact,0.1717238856150848
+APC_damaging_to_TDO2,Avana,ACH-000775,Lung,matrix_intact,-0.05903159477393061
+APC_damaging_to_TDO2,Avana,ACH-000776,CNS/Brain,matrix_intact,0.13108633307474665
+APC_damaging_to_TDO2,Avana,ACH-000777,Esophagus/Stomach,matrix_intact,0.3541574771394927
+APC_damaging_to_TDO2,Avana,ACH-000778,Head and Neck,matrix_intact,0.27536970990403375
+APC_damaging_to_TDO2,Avana,ACH-000781,Lung,matrix_intact,0.03054367603612324
+APC_damaging_to_TDO2,Avana,ACH-000782,Lymphoid,matrix_intact,0.10468133129496099
+APC_damaging_to_TDO2,Avana,ACH-000783,Breast,matrix_intact,0.26114690584572
+APC_damaging_to_TDO2,Avana,ACH-000784,Esophagus/Stomach,matrix_intact,0.5498497352822436
+APC_damaging_to_TDO2,Avana,ACH-000785,Lung,matrix_intact,-0.04237295069431327
+APC_damaging_to_TDO2,Avana,ACH-000787,Lung,matrix_intact,-0.04540748706747611
+APC_damaging_to_TDO2,Avana,ACH-000788,Skin,matrix_intact,0.25571487836650725
+APC_damaging_to_TDO2,Avana,ACH-000790,Lung,matrix_intact,-0.06821370196974519
+APC_damaging_to_TDO2,Avana,ACH-000791,Lung,matrix_intact,-0.037238354647271245
+APC_damaging_to_TDO2,Avana,ACH-000792,Kidney,matrix_intact,-0.010338974972740254
+APC_damaging_to_TDO2,Avana,ACH-000793,Esophagus/Stomach,matrix_intact,-0.2684647204097334
+APC_damaging_to_TDO2,Avana,ACH-000794,Head and Neck,matrix_intact,0.11916634459195788
+APC_damaging_to_TDO2,Avana,ACH-000796,Ovary/Fallopian Tube,matrix_intact,-0.07361004442225605
+APC_damaging_to_TDO2,Avana,ACH-000799,Skin,matrix_intact,0.10515347471640085
+APC_damaging_to_TDO2,Avana,ACH-000800,Lung,matrix_intact,-0.1498761793203749
+APC_damaging_to_TDO2,Avana,ACH-000801,Skin,matrix_intact,-0.4733792091984581
+APC_damaging_to_TDO2,Avana,ACH-000802,Bladder/Urinary Tract,matrix_intact,-0.07033650142910995
+APC_damaging_to_TDO2,Avana,ACH-000804,Peripheral Nervous System,matrix_intact,-0.04686530936990371
+APC_damaging_to_TDO2,Avana,ACH-000805,Skin,matrix_intact,-0.022141568197130604
+APC_damaging_to_TDO2,Avana,ACH-000807,CNS/Brain,matrix_intact,-0.01045811930306334
+APC_damaging_to_TDO2,Avana,ACH-000809,Esophagus/Stomach,matrix_intact,0.21515105875769264
+APC_damaging_to_TDO2,Avana,ACH-000810,Skin,damaging,0.3762680323096878
+APC_damaging_to_TDO2,Avana,ACH-000811,Ovary/Fallopian Tube,damaging,0.0845323677604976
+APC_damaging_to_TDO2,Avana,ACH-000817,Lymphoid,matrix_intact,0.17896366649314693
+APC_damaging_to_TDO2,Avana,ACH-000819,CNS/Brain,matrix_intact,-0.05239179932747179
+APC_damaging_to_TDO2,Avana,ACH-000820,Bowel,damaging,0.29617561887598404
+APC_damaging_to_TDO2,Avana,ACH-000821,Lymphoid,matrix_intact,-0.10448802919913631
+APC_damaging_to_TDO2,Avana,ACH-000822,Skin,matrix_intact,-0.12224164198988738
+APC_damaging_to_TDO2,Avana,ACH-000823,Esophagus/Stomach,matrix_intact,0.04890653148918338
+APC_damaging_to_TDO2,Avana,ACH-000824,Esophagus/Stomach,matrix_intact,-0.1637056637810964
+APC_damaging_to_TDO2,Avana,ACH-000827,Skin,matrix_intact,0.24393091294729446
+APC_damaging_to_TDO2,Avana,ACH-000829,Lymphoid,matrix_intact,0.16221182150619695
+APC_damaging_to_TDO2,Avana,ACH-000831,Uterus,matrix_intact,0.3697985231658927
+APC_damaging_to_TDO2,Avana,ACH-000832,Head and Neck,matrix_intact,-0.15097914410811972
+APC_damaging_to_TDO2,Avana,ACH-000833,Soft Tissue,matrix_intact,-0.22657710254400204
+APC_damaging_to_TDO2,Avana,ACH-000834,Bladder/Urinary Tract,matrix_intact,0.07909822841299587
+APC_damaging_to_TDO2,Avana,ACH-000835,Soft Tissue,matrix_intact,-0.08028092428794137
+APC_damaging_to_TDO2,Avana,ACH-000836,Head and Neck,matrix_intact,0.282917861296955
+APC_damaging_to_TDO2,Avana,ACH-000837,Lung,matrix_intact,0.02940350089269818
+APC_damaging_to_TDO2,Avana,ACH-000838,Lymphoid,matrix_intact,-0.013717388968572566
+APC_damaging_to_TDO2,Avana,ACH-000839,Bladder/Urinary Tract,matrix_intact,0.09001699119410136
+APC_damaging_to_TDO2,Avana,ACH-000840,Lung,matrix_intact,-0.1872516228376621
+APC_damaging_to_TDO2,Avana,ACH-000841,Lung,matrix_intact,-0.02598349982118151
+APC_damaging_to_TDO2,Avana,ACH-000843,Lung,matrix_intact,-0.039070366942709364
+APC_damaging_to_TDO2,Avana,ACH-000845,Lung,matrix_intact,-0.033416231493293286
+APC_damaging_to_TDO2,Avana,ACH-000846,Head and Neck,matrix_intact,0.15284114828508444
+APC_damaging_to_TDO2,Avana,ACH-000847,Esophagus/Stomach,damaging,0.0597628328565762
+APC_damaging_to_TDO2,Avana,ACH-000848,Liver,matrix_intact,-0.1855869389786134
+APC_damaging_to_TDO2,Avana,ACH-000849,Breast,matrix_intact,-0.07889550588916984
+APC_damaging_to_TDO2,Avana,ACH-000851,Lung,matrix_intact,-0.16737129408707077
+APC_damaging_to_TDO2,Avana,ACH-000853,Lung,matrix_intact,0.17085446646520552
+APC_damaging_to_TDO2,Avana,ACH-000855,Esophagus/Stomach,matrix_intact,0.24950126581609494
+APC_damaging_to_TDO2,Avana,ACH-000856,Breast,matrix_intact,0.009453692481694559
+APC_damaging_to_TDO2,Avana,ACH-000858,Lung,matrix_intact,0.18764518676460848
+APC_damaging_to_TDO2,Avana,ACH-000859,Breast,matrix_intact,0.029930624575039873
+APC_damaging_to_TDO2,Avana,ACH-000860,Lung,matrix_intact,-0.04996719217307844
+APC_damaging_to_TDO2,Avana,ACH-000861,Lung,matrix_intact,-0.020780010011399938
+APC_damaging_to_TDO2,Avana,ACH-000862,Bladder/Urinary Tract,matrix_intact,-0.07485615073035579
+APC_damaging_to_TDO2,Avana,ACH-000865,Esophagus/Stomach,matrix_intact,0.09751401817871978
+APC_damaging_to_TDO2,Avana,ACH-000866,Lung,matrix_intact,0.050943544816294054
+APC_damaging_to_TDO2,Avana,ACH-000867,Lung,matrix_intact,0.0716671057698881
+APC_damaging_to_TDO2,Avana,ACH-000869,Lung,matrix_intact,-0.046625142013371854
+APC_damaging_to_TDO2,Avana,ACH-000871,Lung,matrix_intact,0.18765847460386678
+APC_damaging_to_TDO2,Avana,ACH-000872,Lung,matrix_intact,0.2684165167654188
+APC_damaging_to_TDO2,Avana,ACH-000873,Esophagus/Stomach,matrix_intact,0.16689096366184675
+APC_damaging_to_TDO2,Avana,ACH-000876,Breast,matrix_intact,0.27729284699036083
+APC_damaging_to_TDO2,Avana,ACH-000878,Lung,matrix_intact,0.11126429671251255
+APC_damaging_to_TDO2,Avana,ACH-000880,Esophagus/Stomach,matrix_intact,0.48145836514069495
+APC_damaging_to_TDO2,Avana,ACH-000881,Skin,matrix_intact,0.1579927579585223
+APC_damaging_to_TDO2,Avana,ACH-000882,Skin,matrix_intact,-0.13466498462072407
+APC_damaging_to_TDO2,Avana,ACH-000884,Skin,matrix_intact,0.0015445742653988261
+APC_damaging_to_TDO2,Avana,ACH-000885,Ovary/Fallopian Tube,matrix_intact,0.21181805970382556
+APC_damaging_to_TDO2,Avana,ACH-000886,Lung,matrix_intact,0.18435608258664044
+APC_damaging_to_TDO2,Avana,ACH-000887,CNS/Brain,matrix_intact,-0.1711894635091591
+APC_damaging_to_TDO2,Avana,ACH-000888,Lung,matrix_intact,0.03122610824321583
+APC_damaging_to_TDO2,Avana,ACH-000889,Lymphoid,matrix_intact,0.22201101778043283
+APC_damaging_to_TDO2,Avana,ACH-000890,Lung,matrix_intact,0.03992779783174604
+APC_damaging_to_TDO2,Avana,ACH-000896,Bladder/Urinary Tract,matrix_intact,0.09174459445111745
+APC_damaging_to_TDO2,Avana,ACH-000898,Esophagus/Stomach,matrix_intact,0.07593874195780656
+APC_damaging_to_TDO2,Avana,ACH-000899,Skin,matrix_intact,0.3145441577943257
+APC_damaging_to_TDO2,Avana,ACH-000900,Lung,matrix_intact,0.19890555433677323
+APC_damaging_to_TDO2,Avana,ACH-000901,Lung,matrix_intact,-0.30768755916573765
+APC_damaging_to_TDO2,Avana,ACH-000903,Thyroid,matrix_intact,-0.1589000176497576
+APC_damaging_to_TDO2,Avana,ACH-000905,Bladder/Urinary Tract,matrix_intact,0.12680644428114718
+APC_damaging_to_TDO2,Avana,ACH-000906,Ovary/Fallopian Tube,matrix_intact,-0.07982205143403467
+APC_damaging_to_TDO2,Avana,ACH-000907,Kidney,matrix_intact,0.2108845850590511
+APC_damaging_to_TDO2,Avana,ACH-000910,Breast,matrix_intact,0.03635954673635154
+APC_damaging_to_TDO2,Avana,ACH-000911,Esophagus/Stomach,matrix_intact,0.07503397790917654
+APC_damaging_to_TDO2,Avana,ACH-000912,Lung,matrix_intact,-0.010964401657059218
+APC_damaging_to_TDO2,Avana,ACH-000913,Uterus,matrix_intact,0.19470711420786702
+APC_damaging_to_TDO2,Avana,ACH-000914,Lymphoid,matrix_intact,0.0647418665563188
+APC_damaging_to_TDO2,Avana,ACH-000915,Skin,matrix_intact,0.310267687487725
+APC_damaging_to_TDO2,Avana,ACH-000916,Lung,matrix_intact,0.25716572442520097
+APC_damaging_to_TDO2,Avana,ACH-000917,Esophagus/Stomach,matrix_intact,0.03414910190681518
+APC_damaging_to_TDO2,Avana,ACH-000920,Myeloid,matrix_intact,-0.20454129027440487
+APC_damaging_to_TDO2,Avana,ACH-000921,Lung,matrix_intact,0.332886761094084
+APC_damaging_to_TDO2,Avana,ACH-000922,Lymphoid,matrix_intact,-0.05028397003070404
+APC_damaging_to_TDO2,Avana,ACH-000924,Lung,matrix_intact,-0.043237260916548226
+APC_damaging_to_TDO2,Avana,ACH-000926,Bowel,damaging,0.1485372147761698
+APC_damaging_to_TDO2,Avana,ACH-000928,Uterus,matrix_intact,0.2620995043382326
+APC_damaging_to_TDO2,Avana,ACH-000929,Lung,matrix_intact,0.06175569985567268
+APC_damaging_to_TDO2,Avana,ACH-000932,Esophagus/Stomach,matrix_intact,-0.43727125367002895
+APC_damaging_to_TDO2,Avana,ACH-000935,Bowel,damaging,-0.07801643832569508
+APC_damaging_to_TDO2,Avana,ACH-000936,Ovary/Fallopian Tube,matrix_intact,0.4146794647054398
+APC_damaging_to_TDO2,Avana,ACH-000937,Lymphoid,matrix_intact,0.23996873742426938
+APC_damaging_to_TDO2,Avana,ACH-000938,Lymphoid,matrix_intact,0.059104406346666624
+APC_damaging_to_TDO2,Avana,ACH-000939,Uterus,damaging,-0.04054378035097138
+APC_damaging_to_TDO2,Avana,ACH-000941,Uterus,matrix_intact,-0.04724877258191873
+APC_damaging_to_TDO2,Avana,ACH-000943,Bowel,matrix_intact,0.2258099651381379
+APC_damaging_to_TDO2,Avana,ACH-000944,Lymphoid,matrix_intact,0.33933534042845676
+APC_damaging_to_TDO2,Avana,ACH-000946,Uterus,matrix_intact,-0.03733502854912276
+APC_damaging_to_TDO2,Avana,ACH-000947,Ovary/Fallopian Tube,matrix_intact,0.2707975021365178
+APC_damaging_to_TDO2,Avana,ACH-000948,Esophagus/Stomach,matrix_intact,-0.03186633935297231
+APC_damaging_to_TDO2,Avana,ACH-000950,Bowel,damaging,0.15652706303679587
+APC_damaging_to_TDO2,Avana,ACH-000953,Lymphoid,matrix_intact,0.08472417971875816
+APC_damaging_to_TDO2,Avana,ACH-000957,Bowel,matrix_intact,0.5074876847669683
+APC_damaging_to_TDO2,Avana,ACH-000958,Bowel,matrix_intact,-0.06430560323258966
+APC_damaging_to_TDO2,Avana,ACH-000959,Bowel,damaging,0.015335265650311375
+APC_damaging_to_TDO2,Avana,ACH-000960,Lymphoid,matrix_intact,0.2460514093693646
+APC_damaging_to_TDO2,Avana,ACH-000961,Uterus,matrix_intact,0.056069426389031125
+APC_damaging_to_TDO2,Avana,ACH-000963,Bowel,matrix_intact,0.21738957739998627
+APC_damaging_to_TDO2,Avana,ACH-000965,Uterus,matrix_intact,-0.46701261631986135
+APC_damaging_to_TDO2,Avana,ACH-000968,Skin,matrix_intact,-0.0695095018494323
+APC_damaging_to_TDO2,Avana,ACH-000969,Bowel,damaging,-0.03684693515984558
+APC_damaging_to_TDO2,Avana,ACH-000973,Bladder/Urinary Tract,matrix_intact,0.23970248620314197
+APC_damaging_to_TDO2,Avana,ACH-000974,Uterus,matrix_intact,0.24052990531746674
+APC_damaging_to_TDO2,Avana,ACH-000975,Lung,matrix_intact,-0.08188202558680224
+APC_damaging_to_TDO2,Avana,ACH-000976,Biliary Tract,matrix_intact,-0.33911169803226043
+APC_damaging_to_TDO2,Avana,ACH-000977,Prostate,matrix_intact,-0.08063316169472234
+APC_damaging_to_TDO2,Avana,ACH-000978,Uterus,matrix_intact,0.030901879712024155
+APC_damaging_to_TDO2,Avana,ACH-000980,Lung,damaging,0.0027556118130104904
+APC_damaging_to_TDO2,Avana,ACH-000983,Myeloid,matrix_intact,0.11084943164852895
+APC_damaging_to_TDO2,Avana,ACH-000984,Uterus,matrix_intact,0.4622965333175215
+APC_damaging_to_TDO2,Avana,ACH-000986,Bowel,damaging,0.0001292221805677951
+APC_damaging_to_TDO2,Avana,ACH-000988,Uterus,damaging,-0.0741515530341875
+APC_damaging_to_TDO2,Avana,ACH-000993,Uterus,damaging,-0.19855047073606666
+APC_damaging_to_TDO2,Avana,ACH-000994,Uterus,matrix_intact,0.11858629765142462
+APC_damaging_to_TDO2,Avana,ACH-000995,Lymphoid,damaging,-0.004741445856886659
+APC_damaging_to_TDO2,Avana,ACH-000996,Uterus,damaging,-0.4021714329028324
+APC_damaging_to_TDO2,Avana,ACH-001001,Bone,matrix_intact,0.21925126293887948
+APC_damaging_to_TDO2,Avana,ACH-001020,CNS/Brain,matrix_intact,-0.1008491420773709
+APC_damaging_to_TDO2,Avana,ACH-001028,CNS/Brain,matrix_intact,0.17358978566158895
+APC_damaging_to_TDO2,Avana,ACH-001029,Bone,matrix_intact,0.09722708767000426
+APC_damaging_to_TDO2,Avana,ACH-001031,CNS/Brain,matrix_intact,-0.03318383869654122
+APC_damaging_to_TDO2,Avana,ACH-001033,CNS/Brain,matrix_intact,-0.15503419441969998
+APC_damaging_to_TDO2,Avana,ACH-001036,Myeloid,matrix_intact,-0.07068885402387572
+APC_damaging_to_TDO2,Avana,ACH-001038,Bone,matrix_intact,0.2124918510763733
+APC_damaging_to_TDO2,Avana,ACH-001041,Skin,matrix_intact,0.05820608184691253
+APC_damaging_to_TDO2,Avana,ACH-001048,Ovary/Fallopian Tube,matrix_intact,0.6094909856292228
+APC_damaging_to_TDO2,Avana,ACH-001050,Soft Tissue,matrix_intact,0.14929136920199457
+APC_damaging_to_TDO2,Avana,ACH-001053,CNS/Brain,matrix_intact,0.21390150454198853
+APC_damaging_to_TDO2,Avana,ACH-001054,CNS/Brain,matrix_intact,-0.06685591648659717
+APC_damaging_to_TDO2,Avana,ACH-001061,Bowel,damaging,0.33856118920097766
+APC_damaging_to_TDO2,Avana,ACH-001067,CNS/Brain,matrix_intact,0.28940198336659995
+APC_damaging_to_TDO2,Avana,ACH-001075,Lung,matrix_intact,0.05060347975413297
+APC_damaging_to_TDO2,Avana,ACH-001096,Soft Tissue,matrix_intact,0.1724343203168459
+APC_damaging_to_TDO2,Avana,ACH-001098,Pancreas,matrix_intact,0.13605981604515452
+APC_damaging_to_TDO2,Avana,ACH-001099,Kidney,matrix_intact,-0.1245218492519
+APC_damaging_to_TDO2,Avana,ACH-001119,Lymphoid,matrix_intact,-0.11305774245025935
+APC_damaging_to_TDO2,Avana,ACH-001128,Kidney,matrix_intact,0.06388917277715532
+APC_damaging_to_TDO2,Avana,ACH-001129,Myeloid,matrix_intact,-0.034016761695778844
+APC_damaging_to_TDO2,Avana,ACH-001134,Lymphoid,matrix_intact,0.18275760925840417
+APC_damaging_to_TDO2,Avana,ACH-001145,Ovary/Fallopian Tube,matrix_intact,0.07946500937496193
+APC_damaging_to_TDO2,Avana,ACH-001151,Ovary/Fallopian Tube,matrix_intact,0.03506382253524974
+APC_damaging_to_TDO2,Avana,ACH-001163,Kidney,matrix_intact,0.16997262615994957
+APC_damaging_to_TDO2,Avana,ACH-001164,Soft Tissue,matrix_intact,0.1020555831375316
+APC_damaging_to_TDO2,Avana,ACH-001172,CNS/Brain,matrix_intact,0.14882029710116826
+APC_damaging_to_TDO2,Avana,ACH-001183,Bladder/Urinary Tract,matrix_intact,0.24338526338671984
+APC_damaging_to_TDO2,Avana,ACH-001184,Soft Tissue,matrix_intact,-0.0902553003603979
+APC_damaging_to_TDO2,Avana,ACH-001188,Peripheral Nervous System,matrix_intact,-0.05798359101145724
+APC_damaging_to_TDO2,Avana,ACH-001190,Skin,matrix_intact,0.025432289995463122
+APC_damaging_to_TDO2,Avana,ACH-001192,Bone,matrix_intact,-0.24157091577858528
+APC_damaging_to_TDO2,Avana,ACH-001193,Bone,matrix_intact,-0.043802767635853876
+APC_damaging_to_TDO2,Avana,ACH-001194,Kidney,matrix_intact,0.04045671622605614
+APC_damaging_to_TDO2,Avana,ACH-001196,Soft Tissue,matrix_intact,0.09180973194650434
+APC_damaging_to_TDO2,Avana,ACH-001197,Lymphoid,matrix_intact,0.15717136155317002
+APC_damaging_to_TDO2,Avana,ACH-001205,Bone,matrix_intact,0.03556082617182452
+APC_damaging_to_TDO2,Avana,ACH-001211,Kidney,matrix_intact,-0.33054023512604574
+APC_damaging_to_TDO2,Avana,ACH-001212,Kidney,matrix_intact,-0.09940543665393298
+APC_damaging_to_TDO2,Avana,ACH-001228,Head and Neck,matrix_intact,0.034071368790816514
+APC_damaging_to_TDO2,Avana,ACH-001229,Head and Neck,matrix_intact,0.29941048238716783
+APC_damaging_to_TDO2,Avana,ACH-001232,CNS/Brain,matrix_intact,0.07613023535651918
+APC_damaging_to_TDO2,Avana,ACH-001239,Skin,damaging,0.018926753374173756
+APC_damaging_to_TDO2,Avana,ACH-001270,Soft Tissue,matrix_intact,0.07118144193396242
+APC_damaging_to_TDO2,Avana,ACH-001274,Soft Tissue,matrix_intact,0.0360040663556248
+APC_damaging_to_TDO2,Avana,ACH-001275,Soft Tissue,matrix_intact,-0.009884423796105359
+APC_damaging_to_TDO2,Avana,ACH-001277,Soft Tissue,matrix_intact,-0.15125210325933958
+APC_damaging_to_TDO2,Avana,ACH-001278,Ovary/Fallopian Tube,matrix_intact,-0.1268980763347937
+APC_damaging_to_TDO2,Avana,ACH-001279,Ovary/Fallopian Tube,matrix_intact,0.2512247771065329
+APC_damaging_to_TDO2,Avana,ACH-001280,Soft Tissue,matrix_intact,-0.12338849073368158
+APC_damaging_to_TDO2,Avana,ACH-001283,Bone,matrix_intact,-0.028978281952082102
+APC_damaging_to_TDO2,Avana,ACH-001289,CNS/Brain,matrix_intact,-0.0460307003176527
+APC_damaging_to_TDO2,Avana,ACH-001295,Eye,matrix_intact,0.3450251430676459
+APC_damaging_to_TDO2,Avana,ACH-001300,Peripheral Nervous System,matrix_intact,0.01137471978364684
+APC_damaging_to_TDO2,Avana,ACH-001301,Peripheral Nervous System,matrix_intact,-0.02055921463751476
+APC_damaging_to_TDO2,Avana,ACH-001302,Peripheral Nervous System,matrix_intact,-0.1763744625269545
+APC_damaging_to_TDO2,Avana,ACH-001303,Peripheral Nervous System,matrix_intact,-0.1891138974326112
+APC_damaging_to_TDO2,Avana,ACH-001306,Thyroid,matrix_intact,-0.13030972753479375
+APC_damaging_to_TDO2,Avana,ACH-001307,Thyroid,matrix_intact,0.3512950344310619
+APC_damaging_to_TDO2,Avana,ACH-001310,Kidney,matrix_intact,0.1527078152289944
+APC_damaging_to_TDO2,Avana,ACH-001318,Liver,matrix_intact,0.15124157896086304
+APC_damaging_to_TDO2,Avana,ACH-001322,Soft Tissue,matrix_intact,0.23605346696954166
+APC_damaging_to_TDO2,Avana,ACH-001328,Skin,matrix_intact,-0.002365722771447268
+APC_damaging_to_TDO2,Avana,ACH-001329,CNS/Brain,matrix_intact,0.17616554141525353
+APC_damaging_to_TDO2,Avana,ACH-001333,Cervix,matrix_intact,0.3758038477905892
+APC_damaging_to_TDO2,Avana,ACH-001334,Cervix,matrix_intact,0.1549467777154518
+APC_damaging_to_TDO2,Avana,ACH-001335,Cervix,matrix_intact,-0.02738281428378904
+APC_damaging_to_TDO2,Avana,ACH-001336,Cervix,matrix_intact,-0.0919716311291091
+APC_damaging_to_TDO2,Avana,ACH-001338,Peripheral Nervous System,matrix_intact,-0.027013856267434064
+APC_damaging_to_TDO2,Avana,ACH-001340,Ovary/Fallopian Tube,matrix_intact,0.10700752101751432
+APC_damaging_to_TDO2,Avana,ACH-001341,Cervix,matrix_intact,0.2317131972212052
+APC_damaging_to_TDO2,Avana,ACH-001344,Peripheral Nervous System,matrix_intact,0.036895534898146655
+APC_damaging_to_TDO2,Avana,ACH-001345,Bowel,damaging,-0.060045943918954695
+APC_damaging_to_TDO2,Avana,ACH-001346,Head and Neck,matrix_intact,-0.09012239135825517
+APC_damaging_to_TDO2,Avana,ACH-001347,Head and Neck,matrix_intact,0.13436083734249005
+APC_damaging_to_TDO2,Avana,ACH-001353,Pancreas,matrix_intact,0.20406668141862422
+APC_damaging_to_TDO2,Avana,ACH-001354,Peripheral Nervous System,matrix_intact,0.31507158147254094
+APC_damaging_to_TDO2,Avana,ACH-001356,Thyroid,matrix_intact,0.15152900007919184
+APC_damaging_to_TDO2,Avana,ACH-001360,Cervix,matrix_intact,0.2280705788608745
+APC_damaging_to_TDO2,Avana,ACH-001366,Peripheral Nervous System,matrix_intact,-0.028429230983902633
+APC_damaging_to_TDO2,Avana,ACH-001367,Peripheral Nervous System,matrix_intact,-0.19538053356157895
+APC_damaging_to_TDO2,Avana,ACH-001368,Esophagus/Stomach,matrix_intact,0.13026187040423653
+APC_damaging_to_TDO2,Avana,ACH-001370,Ovary/Fallopian Tube,matrix_intact,-0.16347956064616548
+APC_damaging_to_TDO2,Avana,ACH-001374,Ovary/Fallopian Tube,matrix_intact,0.12590104650702907
+APC_damaging_to_TDO2,Avana,ACH-001375,Pancreas,matrix_intact,0.07497748680859884
+APC_damaging_to_TDO2,Avana,ACH-001377,Pancreas,matrix_intact,0.1675421434483052
+APC_damaging_to_TDO2,Avana,ACH-001379,Pancreas,matrix_intact,-0.11705461338346759
+APC_damaging_to_TDO2,Avana,ACH-001380,Pancreas,matrix_intact,-0.028852752753062712
+APC_damaging_to_TDO2,Avana,ACH-001382,Pancreas,matrix_intact,-0.07229248260476512
+APC_damaging_to_TDO2,Avana,ACH-001385,Head and Neck,matrix_intact,0.1929510135921468
+APC_damaging_to_TDO2,Avana,ACH-001386,Lung,matrix_intact,0.08839977081683154
+APC_damaging_to_TDO2,Avana,ACH-001388,Breast,matrix_intact,0.0751498099486376
+APC_damaging_to_TDO2,Avana,ACH-001389,Breast,matrix_intact,0.23492531157162327
+APC_damaging_to_TDO2,Avana,ACH-001390,Breast,matrix_intact,-0.21879724008951046
+APC_damaging_to_TDO2,Avana,ACH-001391,Breast,matrix_intact,-0.355983340996504
+APC_damaging_to_TDO2,Avana,ACH-001392,Breast,matrix_intact,0.23287675046557824
+APC_damaging_to_TDO2,Avana,ACH-001393,Breast,matrix_intact,-0.027589383342436
+APC_damaging_to_TDO2,Avana,ACH-001394,Breast,matrix_intact,-0.0663775146233854
+APC_damaging_to_TDO2,Avana,ACH-001396,Breast,matrix_intact,-0.3950539034835394
+APC_damaging_to_TDO2,Avana,ACH-001398,Kidney,matrix_intact,0.10551890500626858
+APC_damaging_to_TDO2,Avana,ACH-001400,Vulva/Vagina,matrix_intact,0.02314684762926763
+APC_damaging_to_TDO2,Avana,ACH-001402,Cervix,matrix_intact,0.2472964675701354
+APC_damaging_to_TDO2,Avana,ACH-001403,Ovary/Fallopian Tube,matrix_intact,0.2912101043467361
+APC_damaging_to_TDO2,Avana,ACH-001407,Bladder/Urinary Tract,matrix_intact,-0.17692811392752977
+APC_damaging_to_TDO2,Avana,ACH-001408,Bladder/Urinary Tract,matrix_intact,-0.09136363391784752
+APC_damaging_to_TDO2,Avana,ACH-001409,Bladder/Urinary Tract,matrix_intact,0.11826854865405953
+APC_damaging_to_TDO2,Avana,ACH-001411,Bladder/Urinary Tract,matrix_intact,-0.014004028014019027
+APC_damaging_to_TDO2,Avana,ACH-001412,Bladder/Urinary Tract,matrix_intact,0.1823506315255346
+APC_damaging_to_TDO2,Avana,ACH-001413,Bladder/Urinary Tract,matrix_intact,0.3668862894303859
+APC_damaging_to_TDO2,Avana,ACH-001414,Bladder/Urinary Tract,matrix_intact,0.1934952279355731
+APC_damaging_to_TDO2,Avana,ACH-001415,Bladder/Urinary Tract,matrix_intact,0.08030643208944582
+APC_damaging_to_TDO2,Avana,ACH-001416,Bladder/Urinary Tract,matrix_intact,-0.06385906740778013
+APC_damaging_to_TDO2,Avana,ACH-001418,Ovary/Fallopian Tube,matrix_intact,-0.11841358855981454
+APC_damaging_to_TDO2,Avana,ACH-001419,Breast,matrix_intact,0.0013930997523709694
+APC_damaging_to_TDO2,Avana,ACH-001421,Eye,matrix_intact,0.057055623475874145
+APC_damaging_to_TDO2,Avana,ACH-001422,Prostate,matrix_intact,-0.10393365825514342
+APC_damaging_to_TDO2,Avana,ACH-001430,Bone,matrix_intact,-0.11300056232756765
+APC_damaging_to_TDO2,Avana,ACH-001431,Bone,matrix_intact,0.01848690963561898
+APC_damaging_to_TDO2,Avana,ACH-001433,Soft Tissue,matrix_intact,0.006706847267340527
+APC_damaging_to_TDO2,Avana,ACH-001442,Skin,matrix_intact,0.10973997285195433
+APC_damaging_to_TDO2,Avana,ACH-001443,Thyroid,matrix_intact,0.3227851344313396
+APC_damaging_to_TDO2,Avana,ACH-001450,Lymphoid,matrix_intact,0.1963916631666276
+APC_damaging_to_TDO2,Avana,ACH-001451,Cervix,matrix_intact,0.06082517425036696
+APC_damaging_to_TDO2,Avana,ACH-001453,Prostate,matrix_intact,0.20419220151463383
+APC_damaging_to_TDO2,Avana,ACH-001454,Bowel,matrix_intact,0.12739541135178806
+APC_damaging_to_TDO2,Avana,ACH-001458,Bowel,damaging,-0.20568095581182438
+APC_damaging_to_TDO2,Avana,ACH-001459,Bowel,damaging,-0.13915573279074908
+APC_damaging_to_TDO2,Avana,ACH-001460,Bowel,damaging,-0.23368267023974593
+APC_damaging_to_TDO2,Avana,ACH-001461,Bowel,matrix_intact,-0.05562811819756504
+APC_damaging_to_TDO2,Avana,ACH-001481,Peripheral Nervous System,matrix_intact,-0.11306408524710405
+APC_damaging_to_TDO2,Avana,ACH-001494,Biliary Tract,matrix_intact,0.09486441307676013
+APC_damaging_to_TDO2,Avana,ACH-001495,Uterus,matrix_intact,0.498347144760781
+APC_damaging_to_TDO2,Avana,ACH-001496,Esophagus/Stomach,matrix_intact,-0.01972441484637375
+APC_damaging_to_TDO2,Avana,ACH-001497,Esophagus/Stomach,matrix_intact,0.25524101906275076
+APC_damaging_to_TDO2,Avana,ACH-001498,Lymphoid,matrix_intact,0.6169396037903202
+APC_damaging_to_TDO2,Avana,ACH-001500,Esophagus/Stomach,matrix_intact,0.2536443384052504
+APC_damaging_to_TDO2,Avana,ACH-001509,Head and Neck,matrix_intact,0.03915736432011621
+APC_damaging_to_TDO2,Avana,ACH-001510,Head and Neck,matrix_intact,0.05360479017639362
+APC_damaging_to_TDO2,Avana,ACH-001511,Head and Neck,matrix_intact,0.04866029717607075
+APC_damaging_to_TDO2,Avana,ACH-001513,Cervix,damaging,-0.020847451850911622
+APC_damaging_to_TDO2,Avana,ACH-001515,Cervix,matrix_intact,0.15473327530865574
+APC_damaging_to_TDO2,Avana,ACH-001517,Uterus,matrix_intact,0.21984685847226845
+APC_damaging_to_TDO2,Avana,ACH-001518,Uterus,matrix_intact,0.15034318513058048
+APC_damaging_to_TDO2,Avana,ACH-001520,Lymphoid,matrix_intact,-0.5315568593229174
+APC_damaging_to_TDO2,Avana,ACH-001521,Skin,matrix_intact,-0.19608161971112625
+APC_damaging_to_TDO2,Avana,ACH-001522,Skin,matrix_intact,0.1629993012357365
+APC_damaging_to_TDO2,Avana,ACH-001523,Skin,matrix_intact,0.354200192633221
+APC_damaging_to_TDO2,Avana,ACH-001524,Skin,matrix_intact,0.1549240249161334
+APC_damaging_to_TDO2,Avana,ACH-001525,Cervix,matrix_intact,0.10626682303277413
+APC_damaging_to_TDO2,Avana,ACH-001526,Bone,matrix_intact,-0.09747975563610728
+APC_damaging_to_TDO2,Avana,ACH-001528,Thyroid,matrix_intact,0.10472233468780251
+APC_damaging_to_TDO2,Avana,ACH-001529,Uterus,matrix_intact,-0.2472776641190587
+APC_damaging_to_TDO2,Avana,ACH-001530,Uterus,matrix_intact,-0.011774305117850957
+APC_damaging_to_TDO2,Avana,ACH-001532,Kidney,matrix_intact,0.08227703485455647
+APC_damaging_to_TDO2,Avana,ACH-001533,Lymphoid,matrix_intact,-0.029124236470160318
+APC_damaging_to_TDO2,Avana,ACH-001536,Biliary Tract,matrix_intact,0.13968764830311106
+APC_damaging_to_TDO2,Avana,ACH-001538,Biliary Tract,matrix_intact,-0.021299560992339726
+APC_damaging_to_TDO2,Avana,ACH-001539,Lymphoid,matrix_intact,-0.07027379819181373
+APC_damaging_to_TDO2,Avana,ACH-001542,Head and Neck,matrix_intact,0.19862184093824276
+APC_damaging_to_TDO2,Avana,ACH-001543,Head and Neck,matrix_intact,0.3359597573303628
+APC_damaging_to_TDO2,Avana,ACH-001547,Pleura,matrix_intact,0.3164451967315407
+APC_damaging_to_TDO2,Avana,ACH-001548,Peripheral Nervous System,matrix_intact,0.0215900779446034
+APC_damaging_to_TDO2,Avana,ACH-001549,Lung,matrix_intact,-0.06755530303677443
+APC_damaging_to_TDO2,Avana,ACH-001550,Skin,matrix_intact,0.014380693295323467
+APC_damaging_to_TDO2,Avana,ACH-001551,Skin,matrix_intact,-0.1275724615767997
+APC_damaging_to_TDO2,Avana,ACH-001552,Skin,matrix_intact,0.02840952823954796
+APC_damaging_to_TDO2,Avana,ACH-001554,Eye,matrix_intact,-0.2184063254707484
+APC_damaging_to_TDO2,Avana,ACH-001555,Pleura,matrix_intact,0.3296013938093787
+APC_damaging_to_TDO2,Avana,ACH-001556,Pleura,matrix_intact,0.22548897706174068
+APC_damaging_to_TDO2,Avana,ACH-001557,Pleura,matrix_intact,0.023936819727713082
+APC_damaging_to_TDO2,Avana,ACH-001558,Pleura,matrix_intact,0.20576048578006073
+APC_damaging_to_TDO2,Avana,ACH-001559,Pleura,matrix_intact,0.22722964774215365
+APC_damaging_to_TDO2,Avana,ACH-001560,Pleura,matrix_intact,-0.49668759869741946
+APC_damaging_to_TDO2,Avana,ACH-001562,Pleura,matrix_intact,0.1801628504522124
+APC_damaging_to_TDO2,Avana,ACH-001563,Skin,matrix_intact,0.1692571220433554
+APC_damaging_to_TDO2,Avana,ACH-001566,Skin,matrix_intact,0.05725284933930365
+APC_damaging_to_TDO2,Avana,ACH-001567,Skin,matrix_intact,-0.15533604178651297
+APC_damaging_to_TDO2,Avana,ACH-001568,Skin,matrix_intact,-0.2752704072899198
+APC_damaging_to_TDO2,Avana,ACH-001570,Skin,matrix_intact,0.02315511619543148
+APC_damaging_to_TDO2,Avana,ACH-001574,Myeloid,matrix_intact,-0.23371410612868887
+APC_damaging_to_TDO2,Avana,ACH-001577,Myeloid,matrix_intact,-0.03738132965951774
+APC_damaging_to_TDO2,Avana,ACH-001607,Biliary Tract,matrix_intact,0.4442856626524536
+APC_damaging_to_TDO2,Avana,ACH-001608,CNS/Brain,matrix_intact,0.17260178629866113
+APC_damaging_to_TDO2,Avana,ACH-001609,CNS/Brain,matrix_intact,0.16500726433715765
+APC_damaging_to_TDO2,Avana,ACH-001610,CNS/Brain,matrix_intact,0.10676656090440324
+APC_damaging_to_TDO2,Avana,ACH-001611,CNS/Brain,matrix_intact,0.08083565256500154
+APC_damaging_to_TDO2,Avana,ACH-001616,Lymphoid,matrix_intact,0.024809023654075398
+APC_damaging_to_TDO2,Avana,ACH-001618,Myeloid,matrix_intact,-0.7039763665680145
+APC_damaging_to_TDO2,Avana,ACH-001619,Biliary Tract,matrix_intact,0.16967835461472533
+APC_damaging_to_TDO2,Avana,ACH-001622,CNS/Brain,matrix_intact,0.2478600329815812
+APC_damaging_to_TDO2,Avana,ACH-001623,CNS/Brain,matrix_intact,-0.381222058669911
+APC_damaging_to_TDO2,Avana,ACH-001624,CNS/Brain,matrix_intact,0.1914545006500638
+APC_damaging_to_TDO2,Avana,ACH-001627,Prostate,matrix_intact,-0.11583909955158546
+APC_damaging_to_TDO2,Avana,ACH-001628,Ovary/Fallopian Tube,matrix_intact,-0.313978991443098
+APC_damaging_to_TDO2,Avana,ACH-001630,Ovary/Fallopian Tube,matrix_intact,0.12946492706324841
+APC_damaging_to_TDO2,Avana,ACH-001634,Lymphoid,matrix_intact,0.3908140847987443
+APC_damaging_to_TDO2,Avana,ACH-001641,Head and Neck,matrix_intact,-0.15340576662589275
+APC_damaging_to_TDO2,Avana,ACH-001645,Skin,matrix_intact,0.12245345096619616
+APC_damaging_to_TDO2,Avana,ACH-001647,Myeloid,matrix_intact,0.11752280717827938
+APC_damaging_to_TDO2,Avana,ACH-001648,Prostate,matrix_intact,-0.03471240543455472
+APC_damaging_to_TDO2,Avana,ACH-001649,Prostate,matrix_intact,-0.029053501708982576
+APC_damaging_to_TDO2,Avana,ACH-001650,Cervix,matrix_intact,0.030790808730645977
+APC_damaging_to_TDO2,Avana,ACH-001651,Cervix,matrix_intact,0.019782936585074504
+APC_damaging_to_TDO2,Avana,ACH-001652,Cervix,matrix_intact,0.05490073236092213
+APC_damaging_to_TDO2,Avana,ACH-001653,Esophagus/Stomach,matrix_intact,-0.16912789150030516
+APC_damaging_to_TDO2,Avana,ACH-001654,Esophagus/Stomach,matrix_intact,0.22125497503564157
+APC_damaging_to_TDO2,Avana,ACH-001655,Uterus,matrix_intact,-0.005911354463120383
+APC_damaging_to_TDO2,Avana,ACH-001656,Myeloid,matrix_intact,0.11876447338026043
+APC_damaging_to_TDO2,Avana,ACH-001664,Esophagus/Stomach,matrix_intact,0.16920583321235483
+APC_damaging_to_TDO2,Avana,ACH-001668,Testis,matrix_intact,0.28098754795587055
+APC_damaging_to_TDO2,Avana,ACH-001669,Lymphoid,matrix_intact,0.037590815752532356
+APC_damaging_to_TDO2,Avana,ACH-001670,CNS/Brain,matrix_intact,0.13461261568390584
+APC_damaging_to_TDO2,Avana,ACH-001673,Biliary Tract,matrix_intact,0.02283044067987068
+APC_damaging_to_TDO2,Avana,ACH-001674,Peripheral Nervous System,matrix_intact,0.0904358871705973
+APC_damaging_to_TDO2,Avana,ACH-001675,Head and Neck,matrix_intact,0.21055822275324265
+APC_damaging_to_TDO2,Avana,ACH-001677,Lymphoid,matrix_intact,-0.1007537794736035
+APC_damaging_to_TDO2,Avana,ACH-001685,Lymphoid,matrix_intact,0.12020092083424833
+APC_damaging_to_TDO2,Avana,ACH-001687,Kidney,matrix_intact,0.3126092536852699
+APC_damaging_to_TDO2,Avana,ACH-001688,Kidney,matrix_intact,-0.08114358490602935
+APC_damaging_to_TDO2,Avana,ACH-001690,Head and Neck,matrix_intact,0.03008202346291312
+APC_damaging_to_TDO2,Avana,ACH-001691,Head and Neck,matrix_intact,0.014109201915736065
+APC_damaging_to_TDO2,Avana,ACH-001692,Head and Neck,matrix_intact,0.1418820607806195
+APC_damaging_to_TDO2,Avana,ACH-001694,Head and Neck,matrix_intact,0.1430802530075907
+APC_damaging_to_TDO2,Avana,ACH-001696,Head and Neck,matrix_intact,0.11480030769925655
+APC_damaging_to_TDO2,Avana,ACH-001698,Head and Neck,matrix_intact,0.07835994826291998
+APC_damaging_to_TDO2,Avana,ACH-001699,Head and Neck,matrix_intact,-0.03829724071769374
+APC_damaging_to_TDO2,Avana,ACH-001701,Head and Neck,matrix_intact,0.43050004838419564
+APC_damaging_to_TDO2,Avana,ACH-001702,Soft Tissue,matrix_intact,0.5073801977238381
+APC_damaging_to_TDO2,Avana,ACH-001707,Lymphoid,matrix_intact,0.026180796776900002
+APC_damaging_to_TDO2,Avana,ACH-001709,Lymphoid,matrix_intact,0.0887994385545462
+APC_damaging_to_TDO2,Avana,ACH-001711,CNS/Brain,matrix_intact,0.38270313636628783
+APC_damaging_to_TDO2,Avana,ACH-001715,Bone,matrix_intact,-0.16897163007280946
+APC_damaging_to_TDO2,Avana,ACH-001719,Ovary/Fallopian Tube,matrix_intact,0.22954746959174863
+APC_damaging_to_TDO2,Avana,ACH-001735,Lymphoid,matrix_intact,0.2451114777420895
+APC_damaging_to_TDO2,Avana,ACH-001736,Lymphoid,matrix_intact,-0.15342310628226263
+APC_damaging_to_TDO2,Avana,ACH-001737,Lymphoid,damaging,0.1352836260740622
+APC_damaging_to_TDO2,Avana,ACH-001740,Soft Tissue,matrix_intact,0.058955097162007045
+APC_damaging_to_TDO2,Avana,ACH-001745,Soft Tissue,matrix_intact,0.12068182668660501
+APC_damaging_to_TDO2,Avana,ACH-001750,Soft Tissue,matrix_intact,0.23657002890110806
+APC_damaging_to_TDO2,Avana,ACH-001765,Soft Tissue,matrix_intact,-0.0152782548388881
+APC_damaging_to_TDO2,Avana,ACH-001786,Bowel,damaging,-0.15888014649576
+APC_damaging_to_TDO2,Avana,ACH-001791,Soft Tissue,matrix_intact,0.07416419215430685
+APC_damaging_to_TDO2,Avana,ACH-001793,Soft Tissue,matrix_intact,0.13083174975275022
+APC_damaging_to_TDO2,Avana,ACH-001794,Soft Tissue,matrix_intact,0.07635777729281211
+APC_damaging_to_TDO2,Avana,ACH-001795,Soft Tissue,matrix_intact,0.3223307652471794
+APC_damaging_to_TDO2,Avana,ACH-001796,Soft Tissue,matrix_intact,0.07542857100269452
+APC_damaging_to_TDO2,Avana,ACH-001799,Soft Tissue,matrix_intact,0.5438240841051165
+APC_damaging_to_TDO2,Avana,ACH-001802,Soft Tissue,matrix_intact,0.21777251805651382
+APC_damaging_to_TDO2,Avana,ACH-001804,Soft Tissue,matrix_intact,-0.04458169273410492
+APC_damaging_to_TDO2,Avana,ACH-001814,Bone,matrix_intact,0.043820245258234705
+APC_damaging_to_TDO2,Avana,ACH-001819,Breast,matrix_intact,-0.138476334244226
+APC_damaging_to_TDO2,Avana,ACH-001820,Breast,matrix_intact,-0.059478343179396
+APC_damaging_to_TDO2,Avana,ACH-001834,Biliary Tract,matrix_intact,-0.16788310305849843
+APC_damaging_to_TDO2,Avana,ACH-001835,Biliary Tract,matrix_intact,0.09402322279691637
+APC_damaging_to_TDO2,Avana,ACH-001836,Biliary Tract,matrix_intact,-0.08838398676686901
+APC_damaging_to_TDO2,Avana,ACH-001838,Biliary Tract,matrix_intact,0.10646835096639232
+APC_damaging_to_TDO2,Avana,ACH-001839,Biliary Tract,matrix_intact,-0.03819356032159106
+APC_damaging_to_TDO2,Avana,ACH-001841,Biliary Tract,matrix_intact,0.18584721240021196
+APC_damaging_to_TDO2,Avana,ACH-001842,Biliary Tract,matrix_intact,0.18773595243102734
+APC_damaging_to_TDO2,Avana,ACH-001843,Biliary Tract,matrix_intact,1.3351224745859387
+APC_damaging_to_TDO2,Avana,ACH-001844,Biliary Tract,matrix_intact,0.28448213677807405
+APC_damaging_to_TDO2,Avana,ACH-001848,Biliary Tract,matrix_intact,-0.037771323972470044
+APC_damaging_to_TDO2,Avana,ACH-001849,Biliary Tract,matrix_intact,0.08036267029559419
+APC_damaging_to_TDO2,Avana,ACH-001850,Biliary Tract,matrix_intact,0.3397628979428161
+APC_damaging_to_TDO2,Avana,ACH-001852,Biliary Tract,matrix_intact,-0.28058634247792164
+APC_damaging_to_TDO2,Avana,ACH-001853,Liver,matrix_intact,0.3918771115827465
+APC_damaging_to_TDO2,Avana,ACH-001856,Biliary Tract,matrix_intact,0.10690427079837675
+APC_damaging_to_TDO2,Avana,ACH-001857,Biliary Tract,matrix_intact,-0.2241145018081009
+APC_damaging_to_TDO2,Avana,ACH-001858,Biliary Tract,matrix_intact,0.02971259867050377
+APC_damaging_to_TDO2,Avana,ACH-001861,Biliary Tract,matrix_intact,-0.14770357211672297
+APC_damaging_to_TDO2,Avana,ACH-001862,Ampulla of Vater,matrix_intact,-0.08583188946449469
+APC_damaging_to_TDO2,Avana,ACH-001863,Biliary Tract,matrix_intact,-0.08377717236352385
+APC_damaging_to_TDO2,Avana,ACH-001864,Biliary Tract,matrix_intact,0.10704753156968969
+APC_damaging_to_TDO2,Avana,ACH-001959,Biliary Tract,matrix_intact,-0.17721982267388497
+APC_damaging_to_TDO2,Avana,ACH-001960,Biliary Tract,matrix_intact,0.034221954716287833
+APC_damaging_to_TDO2,Avana,ACH-001961,Biliary Tract,matrix_intact,-0.18505544120739892
+APC_damaging_to_TDO2,Avana,ACH-001970,Skin,matrix_intact,0.10035264013599574
+APC_damaging_to_TDO2,Avana,ACH-001973,Skin,matrix_intact,0.009656590324002623
+APC_damaging_to_TDO2,Avana,ACH-001977,Pleura,matrix_intact,0.021723576404394557
+APC_damaging_to_TDO2,Avana,ACH-001982,Skin,matrix_intact,-0.019191697513863785
+APC_damaging_to_TDO2,Avana,ACH-001986,Skin,matrix_intact,0.143703861701549
+APC_damaging_to_TDO2,Avana,ACH-001990,Skin,matrix_intact,0.09837436330786792
+APC_damaging_to_TDO2,Avana,ACH-001991,Ovary/Fallopian Tube,damaging,-0.17132605735529696
+APC_damaging_to_TDO2,Avana,ACH-001992,Pleura,matrix_intact,0.14962673683208513
+APC_damaging_to_TDO2,Avana,ACH-001993,Lymphoid,matrix_intact,0.08742453974771147
+APC_damaging_to_TDO2,Avana,ACH-001997,Biliary Tract,matrix_intact,0.12719520573169038
+APC_damaging_to_TDO2,Avana,ACH-001999,Pancreas,matrix_intact,0.04181814851217171
+APC_damaging_to_TDO2,Avana,ACH-002001,Skin,matrix_intact,0.24845181394587576
+APC_damaging_to_TDO2,Avana,ACH-002002,Skin,matrix_intact,0.021319660610722185
+APC_damaging_to_TDO2,Avana,ACH-002003,Skin,matrix_intact,0.0014923488289989018
+APC_damaging_to_TDO2,Avana,ACH-002005,Skin,matrix_intact,0.12583828630935295
+APC_damaging_to_TDO2,Avana,ACH-002014,Eye,matrix_intact,0.09938638837029454
+APC_damaging_to_TDO2,Avana,ACH-002015,Eye,matrix_intact,-0.031793912772039724
+APC_damaging_to_TDO2,Avana,ACH-002016,Eye,matrix_intact,-0.13091518482907916
+APC_damaging_to_TDO2,Avana,ACH-002018,Eye,matrix_intact,-0.025736350101003613
+APC_damaging_to_TDO2,Avana,ACH-002019,Cervix,matrix_intact,-0.061006849294430746
+APC_damaging_to_TDO2,Avana,ACH-002020,Cervix,matrix_intact,0.2264408485952343
+APC_damaging_to_TDO2,Avana,ACH-002021,Uterus,matrix_intact,0.15852330473318682
+APC_damaging_to_TDO2,Avana,ACH-002023,Ampulla of Vater,matrix_intact,0.11998699604479596
+APC_damaging_to_TDO2,Avana,ACH-002024,Bowel,matrix_intact,-0.08989658147621074
+APC_damaging_to_TDO2,Avana,ACH-002025,Bowel,damaging,0.18190421588117411
+APC_damaging_to_TDO2,Avana,ACH-002026,Uterus,matrix_intact,0.1468557512019846
+APC_damaging_to_TDO2,Avana,ACH-002027,Uterus,matrix_intact,0.3370673293183817
+APC_damaging_to_TDO2,Avana,ACH-002029,Head and Neck,matrix_intact,0.16246012333466356
+APC_damaging_to_TDO2,Avana,ACH-002030,Head and Neck,matrix_intact,-0.06437098906511718
+APC_damaging_to_TDO2,Avana,ACH-002035,Lung,matrix_intact,0.08718095273785134
+APC_damaging_to_TDO2,Avana,ACH-002039,Pancreas,matrix_intact,0.2395359428404764
+APC_damaging_to_TDO2,Avana,ACH-002040,Vulva/Vagina,matrix_intact,-0.1841896860436747
+APC_damaging_to_TDO2,Avana,ACH-002041,Thyroid,matrix_intact,-0.08449676371640535
+APC_damaging_to_TDO2,Avana,ACH-002042,Head and Neck,matrix_intact,0.07027655606667245
+APC_damaging_to_TDO2,Avana,ACH-002043,Head and Neck,matrix_intact,-0.09013927475899224
+APC_damaging_to_TDO2,Avana,ACH-002044,Head and Neck,damaging,0.15509679900433193
+APC_damaging_to_TDO2,Avana,ACH-002045,Head and Neck,matrix_intact,0.7628217861748388
+APC_damaging_to_TDO2,Avana,ACH-002046,Uterus,matrix_intact,0.2600762116227399
+APC_damaging_to_TDO2,Avana,ACH-002048,Soft Tissue,matrix_intact,-0.008255712714610133
+APC_damaging_to_TDO2,Avana,ACH-002051,Lung,matrix_intact,0.4551143326587742
+APC_damaging_to_TDO2,Avana,ACH-002059,Lymphoid,matrix_intact,0.08191654608795278
+APC_damaging_to_TDO2,Avana,ACH-002061,Myeloid,matrix_intact,0.5004652770282241
+APC_damaging_to_TDO2,Avana,ACH-002062,Lymphoid,matrix_intact,0.5972781896598809
+APC_damaging_to_TDO2,Avana,ACH-002066,Peripheral Nervous System,matrix_intact,-0.22263618492562062
+APC_damaging_to_TDO2,Avana,ACH-002067,Bone,matrix_intact,0.10516513944080161
+APC_damaging_to_TDO2,Avana,ACH-002069,Bone,matrix_intact,0.007667052081096904
+APC_damaging_to_TDO2,Avana,ACH-002070,CNS/Brain,matrix_intact,0.21639517965913244
+APC_damaging_to_TDO2,Avana,ACH-002077,Lung,matrix_intact,-0.0430761994354275
+APC_damaging_to_TDO2,Avana,ACH-002080,Peripheral Nervous System,matrix_intact,0.05856074914910578
+APC_damaging_to_TDO2,Avana,ACH-002084,Skin,matrix_intact,0.06877710707190848
+APC_damaging_to_TDO2,Avana,ACH-002214,Lymphoid,matrix_intact,-0.7226787622931234
+APC_damaging_to_TDO2,Avana,ACH-002215,Lymphoid,matrix_intact,-0.07896550852360022
+APC_damaging_to_TDO2,Avana,ACH-002291,Testis,matrix_intact,-0.05735284511630041
+APC_damaging_to_TDO2,Avana,ACH-002399,Breast,matrix_intact,0.44146429676052446
+APC_damaging_to_TDO2,Avana,ACH-002446,Esophagus/Stomach,matrix_intact,0.10860882300846962
+APC_damaging_to_TDO2,Avana,ACH-002458,Skin,matrix_intact,-0.020058294752415023
+APC_damaging_to_TDO2,Avana,ACH-002459,Skin,matrix_intact,0.295214993022939
+APC_damaging_to_TDO2,Avana,ACH-002460,Skin,matrix_intact,0.2553179169829819
+APC_damaging_to_TDO2,Avana,ACH-002461,Skin,matrix_intact,0.07840533224132916
+APC_damaging_to_TDO2,Avana,ACH-002462,Eye,matrix_intact,0.13510079796392999
+APC_damaging_to_TDO2,Avana,ACH-002463,Eye,matrix_intact,0.15745862004860006
+APC_damaging_to_TDO2,Avana,ACH-002464,Eye,matrix_intact,-0.07434101068954942
+APC_damaging_to_TDO2,Avana,ACH-002465,Eye,matrix_intact,0.03401276492796866
+APC_damaging_to_TDO2,Avana,ACH-002467,Eye,matrix_intact,0.8215974735689455
+APC_damaging_to_TDO2,Avana,ACH-002471,Bone,matrix_intact,0.0063313673651602745
+APC_damaging_to_TDO2,Avana,ACH-002478,Lymphoid,matrix_intact,-0.05078627781462901
+APC_damaging_to_TDO2,Avana,ACH-002485,Lymphoid,matrix_intact,-0.042661530074718707
+APC_damaging_to_TDO2,Avana,ACH-002486,Ovary/Fallopian Tube,matrix_intact,-0.052564185947315156
+APC_damaging_to_TDO2,Avana,ACH-002508,Skin,matrix_intact,0.22931835484257404
+APC_damaging_to_TDO2,Avana,ACH-002510,Skin,matrix_intact,0.11033916419529619
+APC_damaging_to_TDO2,Avana,ACH-002511,Skin,matrix_intact,-0.04496057877219163
+APC_damaging_to_TDO2,Avana,ACH-002512,Skin,matrix_intact,-0.22096260622344754
+APC_damaging_to_TDO2,Avana,ACH-002522,Lung,matrix_intact,0.007630005343044519
+APC_damaging_to_TDO2,Avana,ACH-002523,Liver,matrix_intact,0.08357570247512143
+APC_damaging_to_TDO2,Avana,ACH-002524,Ovary/Fallopian Tube,matrix_intact,0.010468141325079033
+APC_damaging_to_TDO2,Avana,ACH-002526,Lung,matrix_intact,0.39630160141828874
+APC_damaging_to_TDO2,Avana,ACH-002531,Lung,matrix_intact,-0.006548872600218785
+APC_damaging_to_TDO2,Avana,ACH-002533,Kidney,matrix_intact,0.12429879498043561
+APC_damaging_to_TDO2,Avana,ACH-002535,Bowel,damaging,-0.04215907217281603
+APC_damaging_to_TDO2,Avana,ACH-002647,Biliary Tract,matrix_intact,-0.06355757552772621
+APC_damaging_to_TDO2,Avana,ACH-002650,Lung,matrix_intact,0.22363748448277215
+APC_damaging_to_TDO2,Avana,ACH-002654,Bowel,damaging,-0.34895776885120167
+APC_damaging_to_TDO2,Avana,ACH-002659,Bowel,matrix_intact,0.1528793933800801
+APC_damaging_to_TDO2,Avana,ACH-002664,Bowel,damaging,0.056408756747601645
+APC_damaging_to_TDO2,Avana,ACH-002669,Bowel,matrix_intact,0.16191584918524085
+APC_damaging_to_TDO2,Avana,ACH-002672,Pancreas,matrix_intact,0.14298779374798182
+APC_damaging_to_TDO2,Avana,ACH-002680,CNS/Brain,matrix_intact,-0.06269260942046717
+APC_damaging_to_TDO2,Avana,ACH-002687,Eye,matrix_intact,0.047875827220091746
+APC_damaging_to_TDO2,Avana,ACH-002693,Peripheral Nervous System,matrix_intact,0.24037289696299308
+APC_damaging_to_TDO2,Avana,ACH-002710,Peripheral Nervous System,matrix_intact,0.18063944143889002
+APC_damaging_to_TDO2,Avana,ACH-002785,Soft Tissue,matrix_intact,0.046845049999023405
+APC_damaging_to_TDO2,Avana,ACH-002799,Peripheral Nervous System,matrix_intact,0.1474576422991918
+APC_damaging_to_TDO2,Avana,ACH-002800,Peripheral Nervous System,matrix_intact,0.35320119481869666
+APC_damaging_to_TDO2,Avana,ACH-002834,Bone,matrix_intact,-0.1444435421532608
+APC_damaging_to_TDO2,Avana,ACH-002847,Skin,matrix_intact,0.12305438883825244
+APC_damaging_to_TDO2,Avana,ACH-002922,Peripheral Nervous System,matrix_intact,0.1649516121020964
+APC_damaging_to_TDO2,Avana,ACH-002925,Eye,matrix_intact,0.06634768627956021
+APC_damaging_to_TDO2,Avana,ACH-002926,Eye,matrix_intact,0.12387585617303505
+APC_damaging_to_TDO2,KY,ACH-000001,Ovary/Fallopian Tube,matrix_intact,-0.046859237201842555
+APC_damaging_to_TDO2,KY,ACH-000007,Bowel,matrix_intact,0.03166753855349865
+APC_damaging_to_TDO2,KY,ACH-000009,Bowel,damaging,-0.08266459089231011
+APC_damaging_to_TDO2,KY,ACH-000019,Breast,matrix_intact,-0.3588634020362498
+APC_damaging_to_TDO2,KY,ACH-000023,Pancreas,matrix_intact,0.23100312641013912
+APC_damaging_to_TDO2,KY,ACH-000024,Lymphoid,matrix_intact,-0.2178861416037278
+APC_damaging_to_TDO2,KY,ACH-000030,Lung,matrix_intact,0.09552110176728427
+APC_damaging_to_TDO2,KY,ACH-000035,Lung,matrix_intact,-0.1349959112097096
+APC_damaging_to_TDO2,KY,ACH-000042,Pancreas,matrix_intact,-0.25276022607821974
+APC_damaging_to_TDO2,KY,ACH-000048,Ovary/Fallopian Tube,matrix_intact,0.2551280917461192
+APC_damaging_to_TDO2,KY,ACH-000060,Pancreas,matrix_intact,-0.3315825318838904
+APC_damaging_to_TDO2,KY,ACH-000067,CNS/Brain,matrix_intact,-0.2742267977419495
+APC_damaging_to_TDO2,KY,ACH-000075,CNS/Brain,matrix_intact,-0.5078587007806252
+APC_damaging_to_TDO2,KY,ACH-000094,Pancreas,matrix_intact,-0.05689265434326257
+APC_damaging_to_TDO2,KY,ACH-000098,CNS/Brain,matrix_intact,0.004635839271436765
+APC_damaging_to_TDO2,KY,ACH-000103,Ovary/Fallopian Tube,matrix_intact,0.22637110376499467
+APC_damaging_to_TDO2,KY,ACH-000108,Pancreas,matrix_intact,-0.310605962133021
+APC_damaging_to_TDO2,KY,ACH-000111,Breast,matrix_intact,-0.03667881951010591
+APC_damaging_to_TDO2,KY,ACH-000113,Myeloid,matrix_intact,-0.0989709762222765
+APC_damaging_to_TDO2,KY,ACH-000114,Pancreas,matrix_intact,-0.31251540312942283
+APC_damaging_to_TDO2,KY,ACH-000118,Pancreas,matrix_intact,-0.3520711183536061
+APC_damaging_to_TDO2,KY,ACH-000120,Peripheral Nervous System,matrix_intact,0.018219967402997084
+APC_damaging_to_TDO2,KY,ACH-000124,Lymphoid,matrix_intact,0.03922722542821037
+APC_damaging_to_TDO2,KY,ACH-000132,Ovary/Fallopian Tube,matrix_intact,0.09408828150621786
+APC_damaging_to_TDO2,KY,ACH-000137,CNS/Brain,matrix_intact,0.06355696949939375
+APC_damaging_to_TDO2,KY,ACH-000139,Pancreas,matrix_intact,0.01204839279094642
+APC_damaging_to_TDO2,KY,ACH-000144,Esophagus/Stomach,matrix_intact,0.3984689818969366
+APC_damaging_to_TDO2,KY,ACH-000147,Breast,matrix_intact,-0.1078951807781971
+APC_damaging_to_TDO2,KY,ACH-000148,Breast,matrix_intact,0.031195931638629604
+APC_damaging_to_TDO2,KY,ACH-000149,Peripheral Nervous System,matrix_intact,-0.8894223424342802
+APC_damaging_to_TDO2,KY,ACH-000155,Pancreas,matrix_intact,-0.10183039515527834
+APC_damaging_to_TDO2,KY,ACH-000176,Lung,matrix_intact,0.22882782295359913
+APC_damaging_to_TDO2,KY,ACH-000181,Head and Neck,matrix_intact,-1.0433533408891378
+APC_damaging_to_TDO2,KY,ACH-000183,Lymphoid,matrix_intact,-3.2233790770621034
+APC_damaging_to_TDO2,KY,ACH-000192,Uterus,matrix_intact,-0.7848391467355261
+APC_damaging_to_TDO2,KY,ACH-000200,CNS/Brain,matrix_intact,-0.18838782273790983
+APC_damaging_to_TDO2,KY,ACH-000204,Lymphoid,matrix_intact,-0.20414090238771057
+APC_damaging_to_TDO2,KY,ACH-000207,Head and Neck,matrix_intact,0.24717598186125112
+APC_damaging_to_TDO2,KY,ACH-000213,Pancreas,matrix_intact,-0.1471747076400997
+APC_damaging_to_TDO2,KY,ACH-000219,Skin,matrix_intact,0.02971820870206141
+APC_damaging_to_TDO2,KY,ACH-000222,Pancreas,matrix_intact,-0.025841089092091696
+APC_damaging_to_TDO2,KY,ACH-000223,Breast,matrix_intact,-0.5449970045147526
+APC_damaging_to_TDO2,KY,ACH-000227,Peripheral Nervous System,matrix_intact,-0.4143085150285292
+APC_damaging_to_TDO2,KY,ACH-000232,CNS/Brain,matrix_intact,-0.20268118865197302
+APC_damaging_to_TDO2,KY,ACH-000235,Pancreas,damaging,-0.2260506378456225
+APC_damaging_to_TDO2,KY,ACH-000238,Head and Neck,matrix_intact,-0.28103338682356444
+APC_damaging_to_TDO2,KY,ACH-000243,Pancreas,matrix_intact,-0.2088865645201198
+APC_damaging_to_TDO2,KY,ACH-000244,CNS/Brain,matrix_intact,-0.144188663245588
+APC_damaging_to_TDO2,KY,ACH-000248,Breast,matrix_intact,0.22120677251665843
+APC_damaging_to_TDO2,KY,ACH-000249,Bowel,damaging,-0.7770988622658507
+APC_damaging_to_TDO2,KY,ACH-000252,Bowel,damaging,-1.5540193959771595
+APC_damaging_to_TDO2,KY,ACH-000260,Peripheral Nervous System,matrix_intact,-0.2519925362711115
+APC_damaging_to_TDO2,KY,ACH-000265,Pancreas,matrix_intact,-0.17282537027828201
+APC_damaging_to_TDO2,KY,ACH-000269,CNS/Brain,matrix_intact,-0.33033166254853086
+APC_damaging_to_TDO2,KY,ACH-000271,Lymphoid,matrix_intact,0.018887189832665203
+APC_damaging_to_TDO2,KY,ACH-000273,CNS/Brain,matrix_intact,0.03662319405761855
+APC_damaging_to_TDO2,KY,ACH-000276,Breast,matrix_intact,0.08004153822545597
+APC_damaging_to_TDO2,KY,ACH-000291,Ovary/Fallopian Tube,matrix_intact,0.2685633754685784
+APC_damaging_to_TDO2,KY,ACH-000293,Uterus,matrix_intact,-0.4590157546528874
+APC_damaging_to_TDO2,KY,ACH-000305,Esophagus/Stomach,matrix_intact,0.003974007256337141
+APC_damaging_to_TDO2,KY,ACH-000308,Ovary/Fallopian Tube,matrix_intact,-0.1911833790981362
+APC_damaging_to_TDO2,KY,ACH-000318,Esophagus/Stomach,matrix_intact,-0.8502679483102794
+APC_damaging_to_TDO2,KY,ACH-000320,Pancreas,matrix_intact,-0.03228800767246354
+APC_damaging_to_TDO2,KY,ACH-000323,CNS/Brain,matrix_intact,-0.38549639294588717
+APC_damaging_to_TDO2,KY,ACH-000336,Myeloid,matrix_intact,0.011904194745538353
+APC_damaging_to_TDO2,KY,ACH-000337,Lung,matrix_intact,-0.4702312597452099
+APC_damaging_to_TDO2,KY,ACH-000341,Peripheral Nervous System,matrix_intact,0.12725024784079278
+APC_damaging_to_TDO2,KY,ACH-000350,Bowel,damaging,0.32028153950060484
+APC_damaging_to_TDO2,KY,ACH-000354,Pancreas,matrix_intact,-0.0669547076231336
+APC_damaging_to_TDO2,KY,ACH-000366,Peripheral Nervous System,matrix_intact,-0.18206621559456096
+APC_damaging_to_TDO2,KY,ACH-000367,Pleura,matrix_intact,-0.286777593125214
+APC_damaging_to_TDO2,KY,ACH-000374,Breast,matrix_intact,-0.22293832559342378
+APC_damaging_to_TDO2,KY,ACH-000376,CNS/Brain,matrix_intact,-0.04885567474937291
+APC_damaging_to_TDO2,KY,ACH-000381,Bowel,damaging,-1.2106323373715688
+APC_damaging_to_TDO2,KY,ACH-000383,Esophagus/Stomach,matrix_intact,-0.386913008282475
+APC_damaging_to_TDO2,KY,ACH-000391,Bone,matrix_intact,-0.15579264257630135
+APC_damaging_to_TDO2,KY,ACH-000395,Lung,matrix_intact,0.3264839016330074
+APC_damaging_to_TDO2,KY,ACH-000408,Esophagus/Stomach,matrix_intact,-0.13159139310803816
+APC_damaging_to_TDO2,KY,ACH-000411,Kidney,matrix_intact,-0.3448815636921874
+APC_damaging_to_TDO2,KY,ACH-000414,Lung,matrix_intact,-0.2495186970056258
+APC_damaging_to_TDO2,KY,ACH-000417,Pancreas,matrix_intact,0.04615469836565932
+APC_damaging_to_TDO2,KY,ACH-000421,Bowel,damaging,0.04467186128727126
+APC_damaging_to_TDO2,KY,ACH-000424,Bone,matrix_intact,-0.10317695688545757
+APC_damaging_to_TDO2,KY,ACH-000427,Esophagus/Stomach,matrix_intact,0.08159025844690589
+APC_damaging_to_TDO2,KY,ACH-000430,Ovary/Fallopian Tube,matrix_intact,0.09944446138695429
+APC_damaging_to_TDO2,KY,ACH-000434,Lung,matrix_intact,0.33635620350460016
+APC_damaging_to_TDO2,KY,ACH-000437,CNS/Brain,matrix_intact,-0.1631950143263482
+APC_damaging_to_TDO2,KY,ACH-000438,Lung,matrix_intact,0.005979233722551092
+APC_damaging_to_TDO2,KY,ACH-000442,Lung,matrix_intact,0.0059334640527459
+APC_damaging_to_TDO2,KY,ACH-000452,Esophagus/Stomach,matrix_intact,-0.243683277706534
+APC_damaging_to_TDO2,KY,ACH-000464,CNS/Brain,matrix_intact,-0.31196859884116723
+APC_damaging_to_TDO2,KY,ACH-000469,CNS/Brain,matrix_intact,-2.0972334497476415
+APC_damaging_to_TDO2,KY,ACH-000481,Lung,matrix_intact,0.1978816638554992
+APC_damaging_to_TDO2,KY,ACH-000501,Bowel,damaging,-0.7455002610863
+APC_damaging_to_TDO2,KY,ACH-000504,CNS/Brain,matrix_intact,-0.07519078361144257
+APC_damaging_to_TDO2,KY,ACH-000505,Soft Tissue,matrix_intact,0.08273373507579944
+APC_damaging_to_TDO2,KY,ACH-000510,Lung,matrix_intact,-0.2763007628052267
+APC_damaging_to_TDO2,KY,ACH-000518,Head and Neck,matrix_intact,-0.7126050597377134
+APC_damaging_to_TDO2,KY,ACH-000524,Ovary/Fallopian Tube,matrix_intact,0.1350975290294354
+APC_damaging_to_TDO2,KY,ACH-000527,Ovary/Fallopian Tube,matrix_intact,0.24896852599592123
+APC_damaging_to_TDO2,KY,ACH-000532,Bowel,damaging,-0.20544640728918143
+APC_damaging_to_TDO2,KY,ACH-000535,Pancreas,matrix_intact,0.27592972050138664
+APC_damaging_to_TDO2,KY,ACH-000544,Esophagus/Stomach,matrix_intact,-0.24299447686576234
+APC_damaging_to_TDO2,KY,ACH-000546,Head and Neck,matrix_intact,-0.1720683790784782
+APC_damaging_to_TDO2,KY,ACH-000548,Head and Neck,matrix_intact,-0.11881383319205281
+APC_damaging_to_TDO2,KY,ACH-000552,Bowel,damaging,0.0897560885982992
+APC_damaging_to_TDO2,KY,ACH-000554,Breast,matrix_intact,-0.36349782721971063
+APC_damaging_to_TDO2,KY,ACH-000558,CNS/Brain,matrix_intact,0.21273742811720459
+APC_damaging_to_TDO2,KY,ACH-000561,Esophagus/Stomach,matrix_intact,-0.698351126590926
+APC_damaging_to_TDO2,KY,ACH-000562,Lung,matrix_intact,0.043304589806875814
+APC_damaging_to_TDO2,KY,ACH-000563,Lung,matrix_intact,0.02770618600470705
+APC_damaging_to_TDO2,KY,ACH-000565,Bowel,damaging,-0.67823242895345
+APC_damaging_to_TDO2,KY,ACH-000571,CNS/Brain,matrix_intact,-0.2624868437859221
+APC_damaging_to_TDO2,KY,ACH-000573,Breast,matrix_intact,-0.5360705193024519
+APC_damaging_to_TDO2,KY,ACH-000581,Esophagus/Stomach,matrix_intact,-0.28762734656791616
+APC_damaging_to_TDO2,KY,ACH-000584,Ovary/Fallopian Tube,matrix_intact,0.21280267715078702
+APC_damaging_to_TDO2,KY,ACH-000585,Lung,matrix_intact,0.28036566386735146
+APC_damaging_to_TDO2,KY,ACH-000587,Lung,matrix_intact,-0.08389713787888436
+APC_damaging_to_TDO2,KY,ACH-000595,CNS/Brain,matrix_intact,0.2072410600326339
+APC_damaging_to_TDO2,KY,ACH-000596,Lung,matrix_intact,-0.7807385440698623
+APC_damaging_to_TDO2,KY,ACH-000599,Pancreas,matrix_intact,-0.022915931252446287
+APC_damaging_to_TDO2,KY,ACH-000601,Pancreas,matrix_intact,-0.17475078285954435
+APC_damaging_to_TDO2,KY,ACH-000609,CNS/Brain,matrix_intact,-0.06427698939249397
+APC_damaging_to_TDO2,KY,ACH-000619,Head and Neck,matrix_intact,0.03708860296043818
+APC_damaging_to_TDO2,KY,ACH-000622,CNS/Brain,matrix_intact,0.23144414871691593
+APC_damaging_to_TDO2,KY,ACH-000624,Breast,matrix_intact,0.2049816620956418
+APC_damaging_to_TDO2,KY,ACH-000637,Esophagus/Stomach,matrix_intact,0.3905130266378387
+APC_damaging_to_TDO2,KY,ACH-000651,Bowel,damaging,0.16408006062518143
+APC_damaging_to_TDO2,KY,ACH-000652,Pancreas,matrix_intact,-0.014827109426812238
+APC_damaging_to_TDO2,KY,ACH-000656,Lymphoid,matrix_intact,-0.29463472561718695
+APC_damaging_to_TDO2,KY,ACH-000657,Ovary/Fallopian Tube,matrix_intact,-0.5018476151735072
+APC_damaging_to_TDO2,KY,ACH-000660,Lymphoid,matrix_intact,-0.1091116917293505
+APC_damaging_to_TDO2,KY,ACH-000662,Lung,matrix_intact,0.22388498101424162
+APC_damaging_to_TDO2,KY,ACH-000665,Lung,matrix_intact,0.20182218187630743
+APC_damaging_to_TDO2,KY,ACH-000666,Lung,matrix_intact,-0.3151200950753843
+APC_damaging_to_TDO2,KY,ACH-000668,Breast,matrix_intact,0.22113653144101866
+APC_damaging_to_TDO2,KY,ACH-000677,Lung,matrix_intact,0.05594456962600741
+APC_damaging_to_TDO2,KY,ACH-000681,Lung,matrix_intact,0.4641533339769382
+APC_damaging_to_TDO2,KY,ACH-000694,Esophagus/Stomach,matrix_intact,-0.029641741063026934
+APC_damaging_to_TDO2,KY,ACH-000696,Ovary/Fallopian Tube,matrix_intact,0.12972733906078118
+APC_damaging_to_TDO2,KY,ACH-000699,Breast,matrix_intact,-0.5406115125864391
+APC_damaging_to_TDO2,KY,ACH-000704,Ovary/Fallopian Tube,matrix_intact,-0.37050916236093384
+APC_damaging_to_TDO2,KY,ACH-000711,Breast,matrix_intact,-0.3094873072024445
+APC_damaging_to_TDO2,KY,ACH-000714,Lymphoid,matrix_intact,-0.1854001213669677
+APC_damaging_to_TDO2,KY,ACH-000717,Esophagus/Stomach,matrix_intact,0.3153223790271364
+APC_damaging_to_TDO2,KY,ACH-000719,Ovary/Fallopian Tube,matrix_intact,-0.1921716590680544
+APC_damaging_to_TDO2,KY,ACH-000722,Bowel,matrix_intact,-2.0527565371140946
+APC_damaging_to_TDO2,KY,ACH-000738,CNS/Brain,matrix_intact,-0.3278407911033527
+APC_damaging_to_TDO2,KY,ACH-000740,Head and Neck,matrix_intact,-0.5011900783028335
+APC_damaging_to_TDO2,KY,ACH-000748,Bone,matrix_intact,0.07583399942863733
+APC_damaging_to_TDO2,KY,ACH-000756,CNS/Brain,matrix_intact,0.29042783185532184
+APC_damaging_to_TDO2,KY,ACH-000768,Breast,matrix_intact,0.03870926310423771
+APC_damaging_to_TDO2,KY,ACH-000769,Lung,damaging,0.287896624644464
+APC_damaging_to_TDO2,KY,ACH-000778,Head and Neck,matrix_intact,0.11507235648809759
+APC_damaging_to_TDO2,KY,ACH-000781,Lung,matrix_intact,0.12289134006583553
+APC_damaging_to_TDO2,KY,ACH-000784,Esophagus/Stomach,matrix_intact,-0.1760357901078121
+APC_damaging_to_TDO2,KY,ACH-000787,Lung,matrix_intact,-0.62791097910468
+APC_damaging_to_TDO2,KY,ACH-000788,Skin,matrix_intact,0.14673851422356352
+APC_damaging_to_TDO2,KY,ACH-000793,Esophagus/Stomach,matrix_intact,-0.2456906074851484
+APC_damaging_to_TDO2,KY,ACH-000794,Head and Neck,matrix_intact,-0.35475016074568977
+APC_damaging_to_TDO2,KY,ACH-000796,Ovary/Fallopian Tube,matrix_intact,0.16074635537967877
+APC_damaging_to_TDO2,KY,ACH-000809,Esophagus/Stomach,matrix_intact,-0.3699118265131267
+APC_damaging_to_TDO2,KY,ACH-000817,Lymphoid,matrix_intact,-0.2469667912353011
+APC_damaging_to_TDO2,KY,ACH-000823,Esophagus/Stomach,matrix_intact,-0.09975100586604652
+APC_damaging_to_TDO2,KY,ACH-000824,Esophagus/Stomach,matrix_intact,-0.3391731338173993
+APC_damaging_to_TDO2,KY,ACH-000832,Head and Neck,matrix_intact,-0.014150899846151513
+APC_damaging_to_TDO2,KY,ACH-000841,Lung,matrix_intact,-0.08807473908831266
+APC_damaging_to_TDO2,KY,ACH-000843,Lung,matrix_intact,0.18423369041182283
+APC_damaging_to_TDO2,KY,ACH-000846,Head and Neck,matrix_intact,0.288119683235939
+APC_damaging_to_TDO2,KY,ACH-000847,Esophagus/Stomach,damaging,0.10228793913405938
+APC_damaging_to_TDO2,KY,ACH-000849,Breast,matrix_intact,0.2533373069682529
+APC_damaging_to_TDO2,KY,ACH-000855,Esophagus/Stomach,matrix_intact,0.1350359340666729
+APC_damaging_to_TDO2,KY,ACH-000856,Breast,matrix_intact,-0.11022595153878278
+APC_damaging_to_TDO2,KY,ACH-000858,Lung,matrix_intact,0.09121511691649468
+APC_damaging_to_TDO2,KY,ACH-000859,Breast,matrix_intact,-0.07344263996740713
+APC_damaging_to_TDO2,KY,ACH-000860,Lung,matrix_intact,0.19975978396977298
+APC_damaging_to_TDO2,KY,ACH-000861,Lung,matrix_intact,-0.7642562825531428
+APC_damaging_to_TDO2,KY,ACH-000863,CNS/Brain,matrix_intact,-0.06031750150244964
+APC_damaging_to_TDO2,KY,ACH-000864,Uterus,matrix_intact,-0.458703180874096
+APC_damaging_to_TDO2,KY,ACH-000865,Esophagus/Stomach,matrix_intact,-1.0291514669357877
+APC_damaging_to_TDO2,KY,ACH-000869,Lung,matrix_intact,-0.15950005564752814
+APC_damaging_to_TDO2,KY,ACH-000873,Esophagus/Stomach,matrix_intact,-0.9992170519777496
+APC_damaging_to_TDO2,KY,ACH-000876,Breast,matrix_intact,0.03340146465457572
+APC_damaging_to_TDO2,KY,ACH-000878,Lung,matrix_intact,0.5949905426405859
+APC_damaging_to_TDO2,KY,ACH-000879,Uterus,damaging,-0.793343602360118
+APC_damaging_to_TDO2,KY,ACH-000880,Esophagus/Stomach,matrix_intact,-0.12379861629838283
+APC_damaging_to_TDO2,KY,ACH-000885,Ovary/Fallopian Tube,matrix_intact,0.2178643524885556
+APC_damaging_to_TDO2,KY,ACH-000894,Lung,matrix_intact,0.04174952999894802
+APC_damaging_to_TDO2,KY,ACH-000900,Lung,matrix_intact,0.16548592701927603
+APC_damaging_to_TDO2,KY,ACH-000906,Ovary/Fallopian Tube,matrix_intact,-0.36809928793186114
+APC_damaging_to_TDO2,KY,ACH-000910,Breast,matrix_intact,-0.01884031209529274
+APC_damaging_to_TDO2,KY,ACH-000911,Esophagus/Stomach,matrix_intact,0.07404602941209926
+APC_damaging_to_TDO2,KY,ACH-000913,Uterus,matrix_intact,-0.5014082281422403
+APC_damaging_to_TDO2,KY,ACH-000917,Esophagus/Stomach,matrix_intact,-0.2673348737555355
+APC_damaging_to_TDO2,KY,ACH-000919,Esophagus/Stomach,matrix_intact,-0.19833679916130376
+APC_damaging_to_TDO2,KY,ACH-000926,Bowel,damaging,0.16255324871422275
+APC_damaging_to_TDO2,KY,ACH-000932,Esophagus/Stomach,matrix_intact,-0.1197332767374001
+APC_damaging_to_TDO2,KY,ACH-000934,Breast,matrix_intact,-0.3131913344961249
+APC_damaging_to_TDO2,KY,ACH-000935,Bowel,damaging,-0.12960211426647025
+APC_damaging_to_TDO2,KY,ACH-000936,Ovary/Fallopian Tube,matrix_intact,0.44136078013585095
+APC_damaging_to_TDO2,KY,ACH-000943,Bowel,matrix_intact,-0.2204469714460101
+APC_damaging_to_TDO2,KY,ACH-000945,Lung,matrix_intact,0.39784917756351323
+APC_damaging_to_TDO2,KY,ACH-000947,Ovary/Fallopian Tube,matrix_intact,0.28703026819332095
+APC_damaging_to_TDO2,KY,ACH-000948,Esophagus/Stomach,matrix_intact,-0.3556478270344723
+APC_damaging_to_TDO2,KY,ACH-000950,Bowel,damaging,-0.0894609121937056
+APC_damaging_to_TDO2,KY,ACH-000956,Prostate,matrix_intact,0.1815520316900189
+APC_damaging_to_TDO2,KY,ACH-000957,Bowel,matrix_intact,-1.675592522338089
+APC_damaging_to_TDO2,KY,ACH-000958,Bowel,matrix_intact,-0.1434342728949787
+APC_damaging_to_TDO2,KY,ACH-000962,Ovary/Fallopian Tube,matrix_intact,-0.9325470929198404
+APC_damaging_to_TDO2,KY,ACH-000965,Uterus,matrix_intact,-0.12294801198099552
+APC_damaging_to_TDO2,KY,ACH-000966,Ovary/Fallopian Tube,matrix_intact,-0.032512168599307834
+APC_damaging_to_TDO2,KY,ACH-000969,Bowel,damaging,-0.11405020224920699
+APC_damaging_to_TDO2,KY,ACH-000970,Bowel,damaging,-0.5994616363970368
+APC_damaging_to_TDO2,KY,ACH-000971,Bowel,matrix_intact,-0.7103296178794474
+APC_damaging_to_TDO2,KY,ACH-000974,Uterus,matrix_intact,0.02968956794151136
+APC_damaging_to_TDO2,KY,ACH-000977,Prostate,matrix_intact,-0.347251418543196
+APC_damaging_to_TDO2,KY,ACH-000979,Prostate,matrix_intact,0.1838186021552802
+APC_damaging_to_TDO2,KY,ACH-000980,Lung,damaging,0.5133464345251315
+APC_damaging_to_TDO2,KY,ACH-000985,Bowel,damaging,-1.3237753529565708
+APC_damaging_to_TDO2,KY,ACH-000991,Bowel,damaging,0.007305057385391431
+APC_damaging_to_TDO2,KY,ACH-000997,Bowel,damaging,-0.3571027171989882
+APC_damaging_to_TDO2,KY,ACH-001016,CNS/Brain,matrix_intact,-0.35508678463172216
+APC_damaging_to_TDO2,KY,ACH-001039,Bowel,damaging,-0.5357106002579322
+APC_damaging_to_TDO2,KY,ACH-001063,Ovary/Fallopian Tube,matrix_intact,-0.004098482696492193
+APC_damaging_to_TDO2,KY,ACH-001065,Breast,matrix_intact,-0.5249427648208341
+APC_damaging_to_TDO2,KY,ACH-001081,Bowel,damaging,-0.08580405881732862
+APC_damaging_to_TDO2,KY,ACH-001107,Pancreas,matrix_intact,0.06853054379295449
+APC_damaging_to_TDO2,KY,ACH-001126,CNS/Brain,matrix_intact,-0.12325011651437207
+APC_damaging_to_TDO2,KY,ACH-001137,Lung,matrix_intact,0.01970554390143479
+APC_damaging_to_TDO2,KY,ACH-001151,Ovary/Fallopian Tube,matrix_intact,-0.068730042287019
+APC_damaging_to_TDO2,KY,ACH-001190,Skin,matrix_intact,-0.6520713495512634
+APC_damaging_to_TDO2,KY,ACH-001193,Bone,matrix_intact,-0.1724207824764905
+APC_damaging_to_TDO2,KY,ACH-001233,Lung,matrix_intact,0.26152464645157164
+APC_damaging_to_TDO2,KY,ACH-001331,Head and Neck,matrix_intact,-0.06303478758620128
+APC_damaging_to_TDO2,KY,ACH-001332,Head and Neck,matrix_intact,-0.10469136478053065
+APC_damaging_to_TDO2,KY,ACH-001345,Bowel,damaging,-0.3978351949965773
+APC_damaging_to_TDO2,KY,ACH-001368,Esophagus/Stomach,matrix_intact,0.02321555636940417
+APC_damaging_to_TDO2,KY,ACH-001399,Bowel,damaging,0.13743553402754624
+APC_damaging_to_TDO2,KY,ACH-001418,Ovary/Fallopian Tube,matrix_intact,-0.005318198721315855
+APC_damaging_to_TDO2,KY,ACH-001494,Biliary Tract,matrix_intact,0.20499740094841087
+APC_damaging_to_TDO2,KY,ACH-001496,Esophagus/Stomach,matrix_intact,0.07960519612610968
+APC_damaging_to_TDO2,KY,ACH-001497,Esophagus/Stomach,matrix_intact,0.010978649129244289
+APC_damaging_to_TDO2,KY,ACH-001500,Esophagus/Stomach,matrix_intact,0.05201581241930575
+APC_damaging_to_TDO2,KY,ACH-001517,Uterus,matrix_intact,0.0336406536374489
+APC_damaging_to_TDO2,KY,ACH-001542,Head and Neck,matrix_intact,-0.3330609188111744
+APC_damaging_to_TDO2,KY,ACH-001544,Esophagus/Stomach,matrix_intact,-0.3512907556423208
+APC_damaging_to_TDO2,KY,ACH-001603,Peripheral Nervous System,matrix_intact,0.4972272857120754
+APC_damaging_to_TDO2,KY,ACH-001605,CNS/Brain,matrix_intact,-0.1481205167289707
+APC_damaging_to_TDO2,KY,ACH-001606,CNS/Brain,matrix_intact,-0.3941000168228417
+APC_damaging_to_TDO2,KY,ACH-001625,Head and Neck,matrix_intact,-0.1523005471188137
+APC_damaging_to_TDO2,KY,ACH-001626,Head and Neck,matrix_intact,0.14673686193914245
+APC_damaging_to_TDO2,KY,ACH-001630,Ovary/Fallopian Tube,matrix_intact,-0.2760239925325127
+APC_damaging_to_TDO2,KY,ACH-001632,Ovary/Fallopian Tube,matrix_intact,-0.057943605978225905
+APC_damaging_to_TDO2,KY,ACH-001639,Lymphoid,matrix_intact,0.33340551733796
+APC_damaging_to_TDO2,KY,ACH-001654,Esophagus/Stomach,matrix_intact,-0.010196205518707138
+APC_damaging_to_TDO2,KY,ACH-001674,Peripheral Nervous System,matrix_intact,0.17925295166946897
+APC_damaging_to_TDO2,KY,ACH-001715,Bone,matrix_intact,-0.5307453137183623
+APC_damaging_to_TDO2,KY,ACH-001819,Breast,matrix_intact,-0.7338062583482691
+APC_damaging_to_TDO2,KY,ACH-001820,Breast,matrix_intact,-0.29857613667624816
+APC_damaging_to_TDO2,KY,ACH-002029,Head and Neck,matrix_intact,-0.41413028668306695
+APC_damaging_to_TDO2,KY,ACH-002043,Head and Neck,matrix_intact,0.03893724966769084
+APC_damaging_to_TDO2,KY,ACH-002045,Head and Neck,matrix_intact,-0.04752614569576156
+APC_damaging_to_TDO2,KY,ACH-002083,Peripheral Nervous System,matrix_intact,0.3663988422920313
+APC_damaging_to_TDO2,KY,ACH-002105,Bone,matrix_intact,0.4094373876937847
+APC_damaging_to_TDO2,KY,ACH-002106,Bone,matrix_intact,-0.09704947183363116
+APC_damaging_to_TDO2,KY,ACH-002109,Bone,matrix_intact,-1.7052344309416918
+APC_damaging_to_TDO2,KY,ACH-002110,Bone,matrix_intact,-0.5826624624009781
+APC_damaging_to_TDO2,KY,ACH-002114,Bone,matrix_intact,-0.1107029256801161
+APC_damaging_to_TDO2,KY,ACH-002116,Bone,matrix_intact,-0.10487261938970893
+APC_damaging_to_TDO2,KY,ACH-002119,Bone,matrix_intact,0.20017214471908318
+APC_damaging_to_TDO2,KY,ACH-002140,Ovary/Fallopian Tube,matrix_intact,0.33055475006525614
+APC_damaging_to_TDO2,KY,ACH-002141,Esophagus/Stomach,matrix_intact,0.07392391688016832
+APC_damaging_to_TDO2,KY,ACH-002143,Skin,matrix_intact,-0.0598356874072567
+APC_damaging_to_TDO2,KY,ACH-002150,Kidney,matrix_intact,0.09442534451582056
+APC_damaging_to_TDO2,KY,ACH-002156,Lung,matrix_intact,0.00405241952116181
+APC_damaging_to_TDO2,KY,ACH-002160,Bone,matrix_intact,0.2613601522856831
+APC_damaging_to_TDO2,KY,ACH-002161,Esophagus/Stomach,damaging,0.11921774320964366
+APC_damaging_to_TDO2,KY,ACH-002179,Breast,matrix_intact,0.3272579085677892
+APC_damaging_to_TDO2,KY,ACH-002181,Ovary/Fallopian Tube,matrix_intact,0.18150653572397368
+APC_damaging_to_TDO2,KY,ACH-002183,Ovary/Fallopian Tube,matrix_intact,0.24340148813357215
+APC_damaging_to_TDO2,KY,ACH-002186,Pancreas,matrix_intact,-0.5494839399852657
+APC_damaging_to_TDO2,KY,ACH-002189,Kidney,matrix_intact,0.16211106654230653
+APC_damaging_to_TDO2,KY,ACH-002198,Other,matrix_intact,-0.10736741199228018
+APC_damaging_to_TDO2,KY,ACH-002202,Esophagus/Stomach,matrix_intact,-0.2675617205555058
+APC_damaging_to_TDO2,KY,ACH-002210,Myeloid,matrix_intact,-0.2517847452279893
+APC_damaging_to_TDO2,KY,ACH-002212,Head and Neck,matrix_intact,-0.001635770973913477
+APC_damaging_to_TDO2,KY,ACH-002228,CNS/Brain,matrix_intact,0.39262025549685664
+APC_damaging_to_TDO2,KY,ACH-002229,CNS/Brain,matrix_intact,0.054375184590372154
+APC_damaging_to_TDO2,KY,ACH-002230,CNS/Brain,matrix_intact,0.011854267434495164
+APC_damaging_to_TDO2,KY,ACH-002233,Bowel,damaging,-0.035155009295026095
+APC_damaging_to_TDO2,KY,ACH-002234,Head and Neck,matrix_intact,-0.21194854937373986
+APC_damaging_to_TDO2,KY,ACH-002239,Head and Neck,matrix_intact,-0.6733944357222619
+APC_damaging_to_TDO2,KY,ACH-002243,Esophagus/Stomach,matrix_intact,-0.6391687357526951
+APC_damaging_to_TDO2,KY,ACH-002247,Myeloid,matrix_intact,-1.6283214971751363
+APC_damaging_to_TDO2,KY,ACH-002249,Head and Neck,matrix_intact,-0.22273583932248897
+APC_damaging_to_TDO2,KY,ACH-002250,Head and Neck,matrix_intact,0.02307421514691499
+APC_damaging_to_TDO2,KY,ACH-002251,Head and Neck,matrix_intact,-0.05180790217060641
+APC_damaging_to_TDO2,KY,ACH-002257,CNS/Brain,matrix_intact,0.1392004567174304
+APC_damaging_to_TDO2,KY,ACH-002261,Peripheral Nervous System,matrix_intact,-0.1647066477735335
+APC_damaging_to_TDO2,KY,ACH-002263,Esophagus/Stomach,matrix_intact,-0.01142192302483735
+APC_damaging_to_TDO2,KY,ACH-002265,Head and Neck,matrix_intact,-0.1445469331756999
+APC_damaging_to_TDO2,KY,ACH-002269,CNS/Brain,matrix_intact,-0.018527078436445833
+APC_damaging_to_TDO2,KY,ACH-002278,Peripheral Nervous System,matrix_intact,0.3360923223773523
+APC_damaging_to_TDO2,KY,ACH-002280,Peripheral Nervous System,matrix_intact,0.1290055562086068
+APC_damaging_to_TDO2,KY,ACH-002282,Peripheral Nervous System,matrix_intact,0.5991684337035911
+APC_damaging_to_TDO2,KY,ACH-002283,Peripheral Nervous System,matrix_intact,0.3813966391559113
+APC_damaging_to_TDO2,KY,ACH-002284,Peripheral Nervous System,matrix_intact,0.3293397380562388
+APC_damaging_to_TDO2,KY,ACH-002285,Peripheral Nervous System,matrix_intact,0.2352969925432695
+APC_damaging_to_TDO2,KY,ACH-002294,Head and Neck,matrix_intact,-0.3291951292313791
+APC_damaging_to_TDO2,KY,ACH-002295,Head and Neck,matrix_intact,0.014906795559189917
+APC_damaging_to_TDO2,KY,ACH-002296,Head and Neck,matrix_intact,-0.12889119852341283
+APC_damaging_to_TDO2,KY,ACH-002297,Head and Neck,matrix_intact,0.47174829934542234
+APC_damaging_to_TDO2,KY,ACH-002298,Head and Neck,matrix_intact,0.14130018391722698
+APC_damaging_to_TDO2,KY,ACH-002304,CNS/Brain,matrix_intact,0.1667389366386396
+APC_damaging_to_TDO2,KY,ACH-002305,Head and Neck,matrix_intact,-0.37987093148891254
