@@ -1,0 +1,100 @@
+{
+  "census_id": "EXP019-candidate-shortlist-20260822",
+  "census_at": "2026-08-22T17:48:30+0200",
+  "purpose": "Outcome-free selection of a distinct PTEN-status-to-PIK3CB-dependency direction",
+  "endpoint_values_opened": false,
+  "endpoint_access": "ScreenNaiveGeneScore.csv header identity only; no PIK3CB score row or target value parsed",
+  "eligibility_rule": "PassesQC == True, CanInclude == True, Library in {Avana, KY}, exact ScreenID-to-ModelID map, nonblank eligible OncotreeLineage",
+  "status_rule": "matrix values restricted to {0,1,2}; primary exposure is PTEN damaging value >= 1 and reference is PTEN matrix value == 0",
+  "selection_basis": "PTEN-to-PIK3CB is pathway-proximal, supported by primary genetic evidence, and has the strongest eligible two-source metadata among the outcome-free candidates reviewed; the KY design remains feasibility-only",
+  "inputs": {
+    "screen_qc_sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407",
+    "screen_map_sha256": "1e2bf9075600cd049dafc385866991523c65806657f3c8bd71afde3fe00ee9ad",
+    "model_sha256": "6b77a73209ce3faaa7442dbd947d8e08ddcb08b538c36fe820163f9cff321341",
+    "damaging_matrix_sha256": "aea4d970c0876afb90d2dc0e2709ff28be5a84e4e246f3a5a31faaba0fbc47e3",
+    "endpoint_header_sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721"
+  },
+  "candidate_shortlist": [
+    {
+      "status_gene": "PTEN",
+      "status_column": "PTEN (5728)",
+      "target_gene": "PIK3CB",
+      "target_column": "PIK3CB (5291)",
+      "exposure_definition": "damaging matrix value >= 1",
+      "Avana": {"damaging": 94, "matrix_intact": 881, "mixed_lineages": 19, "planning_power": 0.8562},
+      "KY": {"damaging": 38, "matrix_intact": 277, "mixed_lineages": 11, "planning_power": 0.5375},
+      "decision": "selected_best_eligible_candidate_but_feasibility_only",
+      "primary_source": "https://pubmed.ncbi.nlm.nih.gov/18755892/"
+    },
+    {
+      "status_gene": "APC",
+      "status_column": "APC (324)",
+      "target_gene": "TDO2",
+      "target_column": "TDO2 (6999)",
+      "exposure_definition": "damaging matrix value >= 1",
+      "Avana": {"damaging": 54, "matrix_intact": 921, "mixed_lineages": 11},
+      "KY": {"damaging": 30, "matrix_intact": 285, "mixed_lineages": 5},
+      "decision": "not_selected_borderline_KY_lineage_diversity",
+      "primary_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9262860/"
+    },
+    {
+      "status_gene": "NF1",
+      "status_column": "NF1 (4763)",
+      "target_gene": "PTPN11",
+      "target_column": "PTPN11 (5781)",
+      "exposure_definition": "damaging matrix value >= 1",
+      "Avana": {"damaging": 57, "matrix_intact": 918, "mixed_lineages": 15},
+      "KY": {"damaging": 21, "matrix_intact": 294, "mixed_lineages": 9},
+      "decision": "not_selected_less_direct_target_and_inhibitor_knockout_semantics",
+      "primary_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6115280/"
+    },
+    {
+      "status_gene": "EP300",
+      "status_column": "EP300 (2033)",
+      "target_gene": "CREBBP",
+      "target_column": "CREBBP (1387)",
+      "exposure_definition": "damaging matrix value >= 1",
+      "Avana": {"damaging": 61, "matrix_intact": 914, "mixed_lineages": 18, "planning_power": 0.7251},
+      "KY": {"damaging": 34, "matrix_intact": 281, "mixed_lineages": 11, "planning_power": 0.4930},
+      "decision": "not_selected_both_source_powers_below_confirmatory_threshold"
+    },
+    {
+      "status_gene": "SMARCA4",
+      "status_column": "SMARCA4 (6597)",
+      "target_gene": "SMARCA2",
+      "target_column": "SMARCA2 (6595)",
+      "exposure_definition": "damaging matrix value >= 1",
+      "Avana": {"damaging": 51, "matrix_intact": 924, "mixed_lineages": 16},
+      "KY": {"damaging": 13, "matrix_intact": 302, "mixed_lineages": 5},
+      "decision": "not_selected_KY_exposure_context_gate"
+    },
+    {
+      "status_gene": "BRCA2",
+      "status_column": "BRCA2 (675)",
+      "target_gene": "POLQ",
+      "target_column": "POLQ (10721)",
+      "exposure_definition": "damaging matrix value >= 1",
+      "Avana": {"damaging": 29, "matrix_intact": 946, "mixed_lineages": 13},
+      "KY": {"damaging": 17, "matrix_intact": 298, "mixed_lineages": 8},
+      "decision": "not_selected_KY_exposure_context_gate"
+    }
+  ],
+  "design_model": {
+    "normal_mean_shift": -0.358286909243,
+    "null_permutations": 100000,
+    "alternative_simulations": 10000,
+    "planning_power_seeds": {"Avana": 20261900, "KY": 20262000},
+    "canonical_roster_sha256": "73222b7a148f333399d580107e1ab64672b0920678f3a2a9789b3440f9c2d953",
+    "design_receipt_path": "experiments/EXP-20260822-019/design_census_receipt.json",
+    "design_receipt_normalized_sha256": "d97ea261c675fabecfe37508ad12fbee6ae62d02daecef9ab5690fe157d6fb85",
+    "critical_quantile": "numpy_linear_05",
+    "rejection_rule": "alternative_delta <= critical_delta",
+    "confirmatory_power_threshold": 0.8,
+    "frozen_label": "FEASIBILITY_ONLY"
+  },
+  "literature_search": {
+    "searched_at": "2026-08-22",
+    "primary_source": "https://pubmed.ncbi.nlm.nih.gov/18755892/",
+    "selection_note": "Wee et al. used selective genetic suppression of class IA PI3K isoforms and reported PIK3CB dependence in PTEN-deficient cancer models, including an in-vivo tumor model. The present experiment tests only source-specific association of a damaging-matrix PTEN proxy with PIK3CB knockout dependency and does not claim PTEN-null function, protein loss, inhibitor sensitivity, or treatment benefit."
+  }
+}
