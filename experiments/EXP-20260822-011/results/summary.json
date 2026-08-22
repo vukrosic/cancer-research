@@ -1,0 +1,89 @@
+{
+  "adequacy": {
+    "complete_finite": true,
+    "eligible_guides": {
+      "Avana": [
+        "AGAAAACCTCAATAGTGGCA",
+        "CTAACATTGAGACTGAACTG",
+        "GTAGCAGTAAGTGCAACGAT",
+        "TCTTCCATCAGAGAAATAAG"
+      ],
+      "KY": [
+        "GCACGTACATAAGCATCAG",
+        "GTCTATCCGCTGTAGCAAT",
+        "TAGCAGTAAGTGCAACGAT",
+        "TAGCATGAGTCTATCAGAT",
+        "TGGAGTTACGTATACAATC"
+      ]
+    },
+    "frozen_screens": 103,
+    "retained_passing_sequences": 282
+  },
+  "analysis_type": "post_failure_single_candidate_pipeline_semantics_audit",
+  "candidate_rule": {
+    "ExcludeFromCRISPRCombined": "False",
+    "fallback_candidate_available": false,
+    "retained_count_equals": "nPassingSequences",
+    "sequence_PassesQC": "True"
+  },
+  "claim_boundary": "frozen 103-screen WRN reconstruction semantics only",
+  "experiment_id": "EXP-20260822-011",
+  "forbidden_analysis_receipt": {
+    "gap_file_loaded": false,
+    "guide_omissions_computed": 0,
+    "ranks_or_percentiles_computed": false,
+    "robustness_statistics_computed": false
+  },
+  "input_receipt": {
+    "avana_guide_map_sha256": "5580f89d2bbd26d25cf107c6441dcc30774a333385e104e83e1212ca16ec99a2",
+    "denominator_file_sha256": "072dd2775d4e3bfaa480cd70639cc799c1e5914b2e9cc5213328383557680654",
+    "ky_guide_map_sha256": "23bafc0d2f88b25727af8e2f5d0245495c39243163fb465ceffc9755c012c4b0",
+    "large_lfc": {
+      "Avana": {
+        "guide_rows": 4,
+        "md5": "58b1f479091a9f8b3e858d69d55413c4",
+        "retained_sequence_columns": 115,
+        "sha256": "f018d7ff6820af6d0bb095f1e2b405ec31d7a744a1e4c019cfd9f3509e63bdee",
+        "size": 3173505617
+      },
+      "KY": {
+        "guide_rows": 5,
+        "md5": "c711c9413b63fe7c55b734e43cdeca91",
+        "retained_sequence_columns": 167,
+        "sha256": "5b03df4b4affda1f0ed36f2bd564e1cbd53ec443b20e60295cad577677874767",
+        "size": 1585769082
+      }
+    },
+    "naive_file_sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721",
+    "parent_failure_receipt_sha256": "e199e3d8bcbe960721292044de6204bd9317908dfc8fcf859deabd43beb4b3f5",
+    "parent_preregistration_sha256": "6e43ed8144f3ae5aa489be76dd244f0c88e359d9274520af504aa52cd5671382",
+    "parent_result_sha256": "e0d4edba97bf6683070158f00dbe786941e4509f8c010f8ffda4d25bd2268b21",
+    "qc_file_sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407",
+    "sequence_map_sha256": "e4b99b4a6cd48c3957c5ada2abeeed1e1de319fe26526e76de6088ec73704c0b"
+  },
+  "overall_pass": true,
+  "parent_comparison": {
+    "new_mismatch_count": 0,
+    "newly_introduced_mismatch_count": 0,
+    "newly_introduced_model_source": [],
+    "parent_mismatch_count": 3,
+    "persistent_model_source": [],
+    "persistent_parent_mismatch_count": 0,
+    "resolved_parent_mismatch_count": 3,
+    "resolved_parent_model_source": [
+      "ACH-000663|Avana",
+      "ACH-000680|Avana",
+      "ACH-000719|KY"
+    ]
+  },
+  "reconstruction_gate": {
+    "absolute_tolerance": 1e-08,
+    "comparisons": 103,
+    "failing_comparisons": 0,
+    "maximum_absolute_discrepancy": 5.551115123125783e-17,
+    "passed": true,
+    "passing_comparisons": 103,
+    "relative_tolerance": 0
+  },
+  "status": "PASS_PASSING_SEQUENCE_RECONSTRUCTION"
+}
