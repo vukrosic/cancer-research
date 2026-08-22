@@ -1,7 +1,7 @@
 {
   "experiment_id": "EXP-20260822-028",
   "analysis_type": "preregistered_source_specific_lineage_stratified_tp53_tiparp_transport_replication",
-  "primary_pair": "TP53_damaging_status_to_TIPARP_dependency",
+  "primary_pair": "TP53_damaging_to_TIPARP",
   "entrypoint": ".venv/bin/python -m candrel.tp53_tiparp_replication",
   "inputs": {
     "endpoint": {"path": "data/raw/depmap/23q4/ScreenNaiveGeneScore.csv", "sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721", "target_column": "TIPARP (25976)"},
