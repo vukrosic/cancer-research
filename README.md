@@ -21,7 +21,7 @@ uncertainty and artifact controls?
 
 ## Current phase
 
-Twenty-six bounded experiments are complete:
+Twenty-seven bounded experiments are complete:
 
 - `EXP-20260822-001` passed the API engineering gate: all eight frozen genes had 177
   paired Broad/Sanger models and positive source correlations.
@@ -184,6 +184,14 @@ Twenty-six bounded experiments are complete:
   patient-versus-cell-line transport gap; no PTEN deletion, PAPSS2 co-deletion,
   patient, causal, inhibitor, treatment, clinical, or confirmatory claim is
   permitted.
+- `EXP-20260822-027` is **T1 descriptive association only; not T2/confirmatory**
+  and is labeled **FEASIBILITY_ONLY_NOMINAL_GATE_FAILURE**. The frozen
+  damaging-matrix ARID1A-proxy-to-EZH2 direction was negative but sub-threshold
+  and heterogeneous in Avana (delta `-0.1925`, p `0.00458`) and weakly negative
+  and uncertain in KY (delta `-0.0828`, p `0.2323`). KY planning power was only
+  `0.5760`. This does not establish functional ARID1A loss, ovarian-specific
+  biology, pharmacologic EZH2 inhibition, causal synthetic lethality, treatment,
+  clinical utility, or a confirmatory claim.
 
 A label-only provenance audit found that the CRC-only cohort has only 7 MSI Broad
 models, below the independently proposed minimum of 8. That CRC-only gate remains a
@@ -218,6 +226,7 @@ uv run python -m candrel.apc_tdo2_replication  # expected exit 2; T1 feasibility
 uv run python -m candrel.kmt2d_kmt2c_replication  # expected exit 2; T1 feasibility-only lineage-gate failure
 uv run python -m candrel.cdkn2a_pelo_replication  # expected exit 2; T1 feasibility-only proxy/lineage-gate failure
 uv run python -m candrel.pten_papss1_replication  # expected exit 2; T1 feasibility-only transport/lineage-gate failure
+uv run python -m candrel.arid1a_ezh2_replication  # expected exit 2; T1 feasibility-only proxy/lineage-gate failure
 ```
 
 Raw API responses are cached under `data/raw/` and excluded from Git. Every run
