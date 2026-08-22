@@ -21,7 +21,7 @@ uncertainty and artifact controls?
 
 ## Current phase
 
-Seventeen bounded experiments are complete:
+Eighteen bounded experiments are complete:
 
 - `EXP-20260822-001` passed the API engineering gate: all eight frozen genes had 177
   paired Broad/Sanger models and positive source correlations.
@@ -111,6 +111,13 @@ Seventeen bounded experiments are complete:
   because Cervix was `+0.3929` and Prostate `+0.3333`. KY passed all nominal
   gates, while its pre-endpoint planning power was only `0.7521`; no
   confirmatory, clinical, treatment, or clean replication claim is permitted.
+- `EXP-20260822-018` is **T1 descriptive association only; not T2/confirmatory**
+  and is labeled **FEASIBILITY_ONLY_NOMINAL_GATE_FAILURE**. The frozen
+  damaging-matrix CDKN2A-to-TYMS direction was negative in both sources (Avana
+  delta `-0.1345`, KY delta `-0.1803`), but Avana failed the effect-size and
+  lineage gates, KY failed effect, permutation, bootstrap, and lineage gates,
+  and KY planning power was only `0.5364`. No reliable biomarker, functional-loss,
+  TYMP, treatment, clinical, or confirmatory claim is permitted.
 
 A label-only provenance audit found that the CRC-only cohort has only 7 MSI Broad
 models, below the independently proposed minimum of 8. That CRC-only gate remains a
@@ -136,6 +143,7 @@ uv run candrel-paralog-replication  # expected exit 2; feasibility-only/non-conf
 uv run candrel-arid1a-replication  # expected exit 2; feasibility-only nominal gate failure
 uv run candrel-arid1a-keap1-replication  # expected exit 2; protocol-deviation/non-confirmatory result
 uv run candrel-tp53-mdm2-replication  # expected exit 2; T1 feasibility-only lineage-gate failure
+uv run candrel-cdkn2a-tyms-replication  # expected exit 2; T1 feasibility-only nominal-gate failure
 ```
 
 Raw API responses are cached under `data/raw/` and excluded from Git. Every run

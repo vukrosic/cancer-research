@@ -1,0 +1,1291 @@
+pair_id,source,model_id,lineage,status,target_score
+CDKN2A_damaging_to_TYMS,Avana,ACH-000004,Myeloid,matrix_intact,-2.2469409562602753
+CDKN2A_damaging_to_TYMS,Avana,ACH-000005,Myeloid,matrix_intact,-0.7839814321407289
+CDKN2A_damaging_to_TYMS,Avana,ACH-000007,Bowel,matrix_intact,-1.0400288754879567
+CDKN2A_damaging_to_TYMS,Avana,ACH-000009,Bowel,matrix_intact,0.005261968164520077
+CDKN2A_damaging_to_TYMS,Avana,ACH-000011,Bladder/Urinary Tract,matrix_intact,-3.007703774848366
+CDKN2A_damaging_to_TYMS,Avana,ACH-000012,Lung,matrix_intact,-2.9506105630984956
+CDKN2A_damaging_to_TYMS,Avana,ACH-000013,Ovary/Fallopian Tube,matrix_intact,0.1431663553014246
+CDKN2A_damaging_to_TYMS,Avana,ACH-000015,Lung,matrix_intact,-0.6643620710902423
+CDKN2A_damaging_to_TYMS,Avana,ACH-000017,Breast,matrix_intact,-2.173621267893947
+CDKN2A_damaging_to_TYMS,Avana,ACH-000018,Bladder/Urinary Tract,matrix_intact,-0.16302328122774423
+CDKN2A_damaging_to_TYMS,Avana,ACH-000019,Breast,matrix_intact,0.04026896239083605
+CDKN2A_damaging_to_TYMS,Avana,ACH-000021,Lung,matrix_intact,0.24073759732062022
+CDKN2A_damaging_to_TYMS,Avana,ACH-000022,Pancreas,matrix_intact,-2.4240225306023624
+CDKN2A_damaging_to_TYMS,Avana,ACH-000024,Lymphoid,damaging,0.2468370954351954
+CDKN2A_damaging_to_TYMS,Avana,ACH-000025,CNS/Brain,matrix_intact,-0.8341314143591245
+CDKN2A_damaging_to_TYMS,Avana,ACH-000028,Breast,matrix_intact,-0.95333765033498
+CDKN2A_damaging_to_TYMS,Avana,ACH-000029,Lung,matrix_intact,-2.832430514956841
+CDKN2A_damaging_to_TYMS,Avana,ACH-000030,Lung,damaging,-1.4302949907727016
+CDKN2A_damaging_to_TYMS,Avana,ACH-000035,Lung,matrix_intact,-0.019857979294506865
+CDKN2A_damaging_to_TYMS,Avana,ACH-000036,CNS/Brain,matrix_intact,-1.5400976121060936
+CDKN2A_damaging_to_TYMS,Avana,ACH-000037,Soft Tissue,matrix_intact,0.13638478387259173
+CDKN2A_damaging_to_TYMS,Avana,ACH-000039,Bone,matrix_intact,0.021188457039547907
+CDKN2A_damaging_to_TYMS,Avana,ACH-000040,CNS/Brain,matrix_intact,0.11076138207890895
+CDKN2A_damaging_to_TYMS,Avana,ACH-000041,Bone,matrix_intact,-0.21720884998675818
+CDKN2A_damaging_to_TYMS,Avana,ACH-000042,Pancreas,damaging,-0.8961263354492655
+CDKN2A_damaging_to_TYMS,Avana,ACH-000045,Myeloid,matrix_intact,-1.2642131421294809
+CDKN2A_damaging_to_TYMS,Avana,ACH-000047,Esophagus/Stomach,matrix_intact,0.08744869091959373
+CDKN2A_damaging_to_TYMS,Avana,ACH-000048,Ovary/Fallopian Tube,matrix_intact,-0.7772105332137791
+CDKN2A_damaging_to_TYMS,Avana,ACH-000052,Bone,matrix_intact,-0.08250030521340572
+CDKN2A_damaging_to_TYMS,Avana,ACH-000053,Lymphoid,matrix_intact,-0.25706313410924964
+CDKN2A_damaging_to_TYMS,Avana,ACH-000054,Soft Tissue,matrix_intact,-0.04192527540880997
+CDKN2A_damaging_to_TYMS,Avana,ACH-000055,CNS/Brain,matrix_intact,-0.5638099901693426
+CDKN2A_damaging_to_TYMS,Avana,ACH-000060,Pancreas,matrix_intact,0.411840569563918
+CDKN2A_damaging_to_TYMS,Avana,ACH-000067,CNS/Brain,matrix_intact,-1.834956117737287
+CDKN2A_damaging_to_TYMS,Avana,ACH-000070,Lymphoid,matrix_intact,-0.6048718477048524
+CDKN2A_damaging_to_TYMS,Avana,ACH-000074,Myeloid,matrix_intact,-1.9149691626102348
+CDKN2A_damaging_to_TYMS,Avana,ACH-000075,CNS/Brain,matrix_intact,0.10656219823385624
+CDKN2A_damaging_to_TYMS,Avana,ACH-000076,Myeloid,matrix_intact,-1.915695382492598
+CDKN2A_damaging_to_TYMS,Avana,ACH-000077,Lymphoid,matrix_intact,0.034945358759369737
+CDKN2A_damaging_to_TYMS,Avana,ACH-000078,Peripheral Nervous System,matrix_intact,-1.1978909575524472
+CDKN2A_damaging_to_TYMS,Avana,ACH-000082,Bone,matrix_intact,-0.15440046994722686
+CDKN2A_damaging_to_TYMS,Avana,ACH-000085,Pancreas,matrix_intact,-0.13924329203324873
+CDKN2A_damaging_to_TYMS,Avana,ACH-000086,Pleura,matrix_intact,-0.12854096421668837
+CDKN2A_damaging_to_TYMS,Avana,ACH-000090,Prostate,matrix_intact,-0.051462511074644224
+CDKN2A_damaging_to_TYMS,Avana,ACH-000092,Pleura,matrix_intact,-3.735643329944814
+CDKN2A_damaging_to_TYMS,Avana,ACH-000093,Pancreas,matrix_intact,-0.9665753601337546
+CDKN2A_damaging_to_TYMS,Avana,ACH-000095,CNS/Brain,matrix_intact,-2.838785519048364
+CDKN2A_damaging_to_TYMS,Avana,ACH-000097,Breast,matrix_intact,-2.740296744565657
+CDKN2A_damaging_to_TYMS,Avana,ACH-000098,CNS/Brain,matrix_intact,0.16102196767833768
+CDKN2A_damaging_to_TYMS,Avana,ACH-000099,Peripheral Nervous System,matrix_intact,-1.9841640878727553
+CDKN2A_damaging_to_TYMS,Avana,ACH-000101,Lymphoid,matrix_intact,-2.5330430946047127
+CDKN2A_damaging_to_TYMS,Avana,ACH-000108,Pancreas,matrix_intact,-1.3155140294695253
+CDKN2A_damaging_to_TYMS,Avana,ACH-000111,Breast,matrix_intact,-5.788186888057714
+CDKN2A_damaging_to_TYMS,Avana,ACH-000113,Myeloid,matrix_intact,0.26846195537964235
+CDKN2A_damaging_to_TYMS,Avana,ACH-000114,Pancreas,matrix_intact,0.19480551953086253
+CDKN2A_damaging_to_TYMS,Avana,ACH-000115,Prostate,matrix_intact,-1.5739899861114917
+CDKN2A_damaging_to_TYMS,Avana,ACH-000118,Pancreas,matrix_intact,0.15358389225043734
+CDKN2A_damaging_to_TYMS,Avana,ACH-000120,Peripheral Nervous System,matrix_intact,-0.3905798578964274
+CDKN2A_damaging_to_TYMS,Avana,ACH-000123,Ovary/Fallopian Tube,matrix_intact,-0.7031284651337337
+CDKN2A_damaging_to_TYMS,Avana,ACH-000127,Bladder/Urinary Tract,matrix_intact,-2.1102475955453537
+CDKN2A_damaging_to_TYMS,Avana,ACH-000128,CNS/Brain,matrix_intact,-0.06649035454479524
+CDKN2A_damaging_to_TYMS,Avana,ACH-000132,Ovary/Fallopian Tube,matrix_intact,0.3637862031957917
+CDKN2A_damaging_to_TYMS,Avana,ACH-000133,Soft Tissue,matrix_intact,-0.5173420081501847
+CDKN2A_damaging_to_TYMS,Avana,ACH-000137,CNS/Brain,matrix_intact,-0.026884741464608397
+CDKN2A_damaging_to_TYMS,Avana,ACH-000138,Pancreas,matrix_intact,-1.7554490655805917
+CDKN2A_damaging_to_TYMS,Avana,ACH-000141,Biliary Tract,matrix_intact,-0.14541327926047481
+CDKN2A_damaging_to_TYMS,Avana,ACH-000142,Bladder/Urinary Tract,matrix_intact,-0.42277142173505133
+CDKN2A_damaging_to_TYMS,Avana,ACH-000143,Lung,matrix_intact,-0.08257760172277087
+CDKN2A_damaging_to_TYMS,Avana,ACH-000145,Soft Tissue,matrix_intact,0.10663707635862271
+CDKN2A_damaging_to_TYMS,Avana,ACH-000146,Myeloid,matrix_intact,-0.7097654898450332
+CDKN2A_damaging_to_TYMS,Avana,ACH-000147,Breast,matrix_intact,-0.20199132310171164
+CDKN2A_damaging_to_TYMS,Avana,ACH-000148,Breast,matrix_intact,-0.22061773465153064
+CDKN2A_damaging_to_TYMS,Avana,ACH-000151,Lymphoid,matrix_intact,-0.7870469694979771
+CDKN2A_damaging_to_TYMS,Avana,ACH-000152,CNS/Brain,matrix_intact,0.4310037464789111
+CDKN2A_damaging_to_TYMS,Avana,ACH-000153,Pleura,matrix_intact,0.13480334930140003
+CDKN2A_damaging_to_TYMS,Avana,ACH-000159,Kidney,matrix_intact,0.13396994990598413
+CDKN2A_damaging_to_TYMS,Avana,ACH-000160,CNS/Brain,matrix_intact,0.1609256683737489
+CDKN2A_damaging_to_TYMS,Avana,ACH-000161,Lung,matrix_intact,0.0288709411376332
+CDKN2A_damaging_to_TYMS,Avana,ACH-000163,Head and Neck,matrix_intact,-0.2870733899972322
+CDKN2A_damaging_to_TYMS,Avana,ACH-000164,Pancreas,matrix_intact,0.11684210756543531
+CDKN2A_damaging_to_TYMS,Avana,ACH-000168,Myeloid,matrix_intact,-0.9292264085531756
+CDKN2A_damaging_to_TYMS,Avana,ACH-000169,Soft Tissue,matrix_intact,-0.5442544496537005
+CDKN2A_damaging_to_TYMS,Avana,ACH-000174,Thyroid,matrix_intact,0.42429177095385867
+CDKN2A_damaging_to_TYMS,Avana,ACH-000178,Pancreas,damaging,-0.14597175708525884
+CDKN2A_damaging_to_TYMS,Avana,ACH-000182,Ampulla of Vater,damaging,-1.6910021749523176
+CDKN2A_damaging_to_TYMS,Avana,ACH-000183,Lymphoid,matrix_intact,-1.493423037334538
+CDKN2A_damaging_to_TYMS,Avana,ACH-000187,Lung,matrix_intact,-1.4944239607240837
+CDKN2A_damaging_to_TYMS,Avana,ACH-000188,Head and Neck,matrix_intact,-1.5357107598112703
+CDKN2A_damaging_to_TYMS,Avana,ACH-000189,Kidney,matrix_intact,-0.03287829618519972
+CDKN2A_damaging_to_TYMS,Avana,ACH-000190,Myeloid,matrix_intact,0.03405296875381229
+CDKN2A_damaging_to_TYMS,Avana,ACH-000191,Thyroid,matrix_intact,-0.22442235509833297
+CDKN2A_damaging_to_TYMS,Avana,ACH-000195,Myeloid,matrix_intact,-0.07395109127284882
+CDKN2A_damaging_to_TYMS,Avana,ACH-000198,Myeloid,matrix_intact,0.11128082000754291
+CDKN2A_damaging_to_TYMS,Avana,ACH-000200,CNS/Brain,matrix_intact,0.07918281821121373
+CDKN2A_damaging_to_TYMS,Avana,ACH-000202,Bowel,matrix_intact,-0.17830642075666162
+CDKN2A_damaging_to_TYMS,Avana,ACH-000204,Lymphoid,matrix_intact,-0.49421957372922476
+CDKN2A_damaging_to_TYMS,Avana,ACH-000206,Lymphoid,matrix_intact,-0.6810162975105416
+CDKN2A_damaging_to_TYMS,Avana,ACH-000207,Head and Neck,matrix_intact,-0.7377093958641412
+CDKN2A_damaging_to_TYMS,Avana,ACH-000209,Biliary Tract,matrix_intact,0.46192422739049777
+CDKN2A_damaging_to_TYMS,Avana,ACH-000211,CNS/Brain,matrix_intact,0.3075541235418865
+CDKN2A_damaging_to_TYMS,Avana,ACH-000212,Breast,matrix_intact,-0.49997601975994194
+CDKN2A_damaging_to_TYMS,Avana,ACH-000215,CNS/Brain,matrix_intact,-0.06406060289958529
+CDKN2A_damaging_to_TYMS,Avana,ACH-000216,Esophagus/Stomach,matrix_intact,-3.034458965466997
+CDKN2A_damaging_to_TYMS,Avana,ACH-000217,Liver,matrix_intact,-3.221247582644326
+CDKN2A_damaging_to_TYMS,Avana,ACH-000219,Skin,damaging,-2.6487133631015287
+CDKN2A_damaging_to_TYMS,Avana,ACH-000221,Liver,matrix_intact,-0.2754064210101466
+CDKN2A_damaging_to_TYMS,Avana,ACH-000222,Pancreas,damaging,-0.5154884314974957
+CDKN2A_damaging_to_TYMS,Avana,ACH-000223,Breast,matrix_intact,0.069900831616589
+CDKN2A_damaging_to_TYMS,Avana,ACH-000226,Lymphoid,matrix_intact,0.2320566530276562
+CDKN2A_damaging_to_TYMS,Avana,ACH-000227,Peripheral Nervous System,matrix_intact,-0.052998910012955924
+CDKN2A_damaging_to_TYMS,Avana,ACH-000228,Head and Neck,matrix_intact,-0.13858147709221807
+CDKN2A_damaging_to_TYMS,Avana,ACH-000231,CNS/Brain,matrix_intact,-0.032267010873384884
+CDKN2A_damaging_to_TYMS,Avana,ACH-000232,CNS/Brain,matrix_intact,-1.1819652121021456
+CDKN2A_damaging_to_TYMS,Avana,ACH-000233,Lymphoid,matrix_intact,-0.45968587612024964
+CDKN2A_damaging_to_TYMS,Avana,ACH-000234,Kidney,matrix_intact,-0.11090716683235602
+CDKN2A_damaging_to_TYMS,Avana,ACH-000235,Pancreas,damaging,-3.458938312341787
+CDKN2A_damaging_to_TYMS,Avana,ACH-000237,Ovary/Fallopian Tube,matrix_intact,0.4276725441210294
+CDKN2A_damaging_to_TYMS,Avana,ACH-000238,Head and Neck,damaging,-1.1235307861143315
+CDKN2A_damaging_to_TYMS,Avana,ACH-000243,Pancreas,matrix_intact,0.028316763163633206
+CDKN2A_damaging_to_TYMS,Avana,ACH-000244,CNS/Brain,matrix_intact,-0.16914795061413118
+CDKN2A_damaging_to_TYMS,Avana,ACH-000246,Kidney,matrix_intact,0.044915543603699815
+CDKN2A_damaging_to_TYMS,Avana,ACH-000247,Esophagus/Stomach,matrix_intact,-2.5697077605878986
+CDKN2A_damaging_to_TYMS,Avana,ACH-000248,Breast,matrix_intact,-0.9910286244531422
+CDKN2A_damaging_to_TYMS,Avana,ACH-000250,Kidney,matrix_intact,-0.7607452469155249
+CDKN2A_damaging_to_TYMS,Avana,ACH-000251,Lung,damaging,0.1810098154400891
+CDKN2A_damaging_to_TYMS,Avana,ACH-000252,Bowel,matrix_intact,0.18120683506677715
+CDKN2A_damaging_to_TYMS,Avana,ACH-000253,Bowel,matrix_intact,-1.3722734772902578
+CDKN2A_damaging_to_TYMS,Avana,ACH-000255,Esophagus/Stomach,matrix_intact,-0.4613704184848584
+CDKN2A_damaging_to_TYMS,Avana,ACH-000256,Ovary/Fallopian Tube,matrix_intact,0.06281963140363037
+CDKN2A_damaging_to_TYMS,Avana,ACH-000257,Lung,matrix_intact,0.43823988976824557
+CDKN2A_damaging_to_TYMS,Avana,ACH-000258,Breast,matrix_intact,0.03397373105799631
+CDKN2A_damaging_to_TYMS,Avana,ACH-000259,Peripheral Nervous System,damaging,-1.7054672343136537
+CDKN2A_damaging_to_TYMS,Avana,ACH-000260,Peripheral Nervous System,matrix_intact,-0.28888565414030126
+CDKN2A_damaging_to_TYMS,Avana,ACH-000261,Lung,matrix_intact,-0.16298737548193157
+CDKN2A_damaging_to_TYMS,Avana,ACH-000262,Kidney,matrix_intact,0.26537033762545265
+CDKN2A_damaging_to_TYMS,Avana,ACH-000263,Myeloid,matrix_intact,-0.09369157126636216
+CDKN2A_damaging_to_TYMS,Avana,ACH-000264,Lung,matrix_intact,0.1682141180022509
+CDKN2A_damaging_to_TYMS,Avana,ACH-000265,Pancreas,matrix_intact,0.496039820517315
+CDKN2A_damaging_to_TYMS,Avana,ACH-000266,Pancreas,matrix_intact,-1.5609527122941753
+CDKN2A_damaging_to_TYMS,Avana,ACH-000272,Kidney,matrix_intact,-0.6410108571790549
+CDKN2A_damaging_to_TYMS,Avana,ACH-000273,CNS/Brain,matrix_intact,-1.7684980102410184
+CDKN2A_damaging_to_TYMS,Avana,ACH-000274,Skin,matrix_intact,-0.19922917412429972
+CDKN2A_damaging_to_TYMS,Avana,ACH-000276,Breast,matrix_intact,0.31670560281732024
+CDKN2A_damaging_to_TYMS,Avana,ACH-000277,Breast,matrix_intact,0.04061070555667036
+CDKN2A_damaging_to_TYMS,Avana,ACH-000278,Ovary/Fallopian Tube,matrix_intact,0.21654415938061786
+CDKN2A_damaging_to_TYMS,Avana,ACH-000279,Bone,matrix_intact,-3.5204871428341127
+CDKN2A_damaging_to_TYMS,Avana,ACH-000280,Ovary/Fallopian Tube,matrix_intact,-0.6493677145770601
+CDKN2A_damaging_to_TYMS,Avana,ACH-000281,Pancreas,matrix_intact,0.40740713630524356
+CDKN2A_damaging_to_TYMS,Avana,ACH-000286,Bowel,matrix_intact,-0.7404281606235981
+CDKN2A_damaging_to_TYMS,Avana,ACH-000288,Breast,matrix_intact,-0.355131066785481
+CDKN2A_damaging_to_TYMS,Avana,ACH-000290,Lung,matrix_intact,-3.6354254072819057
+CDKN2A_damaging_to_TYMS,Avana,ACH-000291,Ovary/Fallopian Tube,matrix_intact,-0.05010174977450932
+CDKN2A_damaging_to_TYMS,Avana,ACH-000292,Lung,matrix_intact,-0.7962012074837835
+CDKN2A_damaging_to_TYMS,Avana,ACH-000293,Uterus,matrix_intact,0.035998670959533074
+CDKN2A_damaging_to_TYMS,Avana,ACH-000294,Myeloid,matrix_intact,-1.0919596489586603
+CDKN2A_damaging_to_TYMS,Avana,ACH-000295,Myeloid,matrix_intact,-0.31503896171852297
+CDKN2A_damaging_to_TYMS,Avana,ACH-000296,Bowel,matrix_intact,-0.8491729986994845
+CDKN2A_damaging_to_TYMS,Avana,ACH-000302,Uterus,matrix_intact,0.0772409154786678
+CDKN2A_damaging_to_TYMS,Avana,ACH-000303,Esophagus/Stomach,damaging,-0.453776273530929
+CDKN2A_damaging_to_TYMS,Avana,ACH-000304,Skin,matrix_intact,0.27489666190652556
+CDKN2A_damaging_to_TYMS,Avana,ACH-000305,Esophagus/Stomach,matrix_intact,-0.6469716242058543
+CDKN2A_damaging_to_TYMS,Avana,ACH-000307,Pancreas,matrix_intact,0.08521688766174015
+CDKN2A_damaging_to_TYMS,Avana,ACH-000308,Ovary/Fallopian Tube,matrix_intact,0.23545998631723247
+CDKN2A_damaging_to_TYMS,Avana,ACH-000310,Peripheral Nervous System,matrix_intact,-0.14033620953766743
+CDKN2A_damaging_to_TYMS,Avana,ACH-000311,Lung,matrix_intact,-0.4741890684211759
+CDKN2A_damaging_to_TYMS,Avana,ACH-000312,Peripheral Nervous System,matrix_intact,-0.10958119245568508
+CDKN2A_damaging_to_TYMS,Avana,ACH-000313,Kidney,matrix_intact,-1.5956987203851911
+CDKN2A_damaging_to_TYMS,Avana,ACH-000315,Lymphoid,matrix_intact,0.17865225612949046
+CDKN2A_damaging_to_TYMS,Avana,ACH-000316,Liver,matrix_intact,0.24596464834798443
+CDKN2A_damaging_to_TYMS,Avana,ACH-000317,Kidney,matrix_intact,-3.3363001330549618
+CDKN2A_damaging_to_TYMS,Avana,ACH-000318,Esophagus/Stomach,matrix_intact,-1.4247015115326236
+CDKN2A_damaging_to_TYMS,Avana,ACH-000319,Pleura,matrix_intact,0.044989507605970765
+CDKN2A_damaging_to_TYMS,Avana,ACH-000320,Pancreas,matrix_intact,-0.0934081216413177
+CDKN2A_damaging_to_TYMS,Avana,ACH-000322,Skin,matrix_intact,-1.0371611769289664
+CDKN2A_damaging_to_TYMS,Avana,ACH-000323,CNS/Brain,matrix_intact,-0.1826413981272745
+CDKN2A_damaging_to_TYMS,Avana,ACH-000324,Ovary/Fallopian Tube,matrix_intact,-0.45722552175045117
+CDKN2A_damaging_to_TYMS,Avana,ACH-000325,Esophagus/Stomach,matrix_intact,-0.351129264166631
+CDKN2A_damaging_to_TYMS,Avana,ACH-000326,Myeloid,matrix_intact,-1.7264394691492306
+CDKN2A_damaging_to_TYMS,Avana,ACH-000329,CNS/Brain,matrix_intact,-0.4155244263652818
+CDKN2A_damaging_to_TYMS,Avana,ACH-000330,Breast,matrix_intact,0.2960406207791406
+CDKN2A_damaging_to_TYMS,Avana,ACH-000331,Pleura,matrix_intact,0.4717735166243044
+CDKN2A_damaging_to_TYMS,Avana,ACH-000332,Pancreas,matrix_intact,0.14732588487210238
+CDKN2A_damaging_to_TYMS,Avana,ACH-000334,Lymphoid,matrix_intact,0.22312978816523854
+CDKN2A_damaging_to_TYMS,Avana,ACH-000335,Pleura,matrix_intact,-0.925280098507161
+CDKN2A_damaging_to_TYMS,Avana,ACH-000336,Myeloid,matrix_intact,-0.015234369664404016
+CDKN2A_damaging_to_TYMS,Avana,ACH-000337,Lung,matrix_intact,-0.9834668367341513
+CDKN2A_damaging_to_TYMS,Avana,ACH-000339,Lung,matrix_intact,-0.2212290083438218
+CDKN2A_damaging_to_TYMS,Avana,ACH-000341,Peripheral Nervous System,matrix_intact,-0.355644312270036
+CDKN2A_damaging_to_TYMS,Avana,ACH-000343,Lung,matrix_intact,0.13059816652890585
+CDKN2A_damaging_to_TYMS,Avana,ACH-000344,Esophagus/Stomach,matrix_intact,-1.6066154403322201
+CDKN2A_damaging_to_TYMS,Avana,ACH-000346,Lymphoid,matrix_intact,-1.0645876685041147
+CDKN2A_damaging_to_TYMS,Avana,ACH-000348,Skin,damaging,-1.480697441869176
+CDKN2A_damaging_to_TYMS,Avana,ACH-000350,Bowel,matrix_intact,0.40227166819334936
+CDKN2A_damaging_to_TYMS,Avana,ACH-000352,Breast,matrix_intact,-0.49336390932813456
+CDKN2A_damaging_to_TYMS,Avana,ACH-000355,Lung,matrix_intact,-2.5653619378673564
+CDKN2A_damaging_to_TYMS,Avana,ACH-000356,Esophagus/Stomach,matrix_intact,-0.6194784681711702
+CDKN2A_damaging_to_TYMS,Avana,ACH-000359,Bone,matrix_intact,0.24426543399694556
+CDKN2A_damaging_to_TYMS,Avana,ACH-000361,Liver,matrix_intact,-0.2738872476454538
+CDKN2A_damaging_to_TYMS,Avana,ACH-000362,Myeloid,matrix_intact,-2.2391076778842898
+CDKN2A_damaging_to_TYMS,Avana,ACH-000363,Lymphoid,matrix_intact,-0.6532515367636527
+CDKN2A_damaging_to_TYMS,Avana,ACH-000364,Bone,matrix_intact,0.25075623402272823
+CDKN2A_damaging_to_TYMS,Avana,ACH-000365,Lymphoid,matrix_intact,0.13840263405370076
+CDKN2A_damaging_to_TYMS,Avana,ACH-000366,Peripheral Nervous System,matrix_intact,-3.076930408178799
+CDKN2A_damaging_to_TYMS,Avana,ACH-000368,CNS/Brain,matrix_intact,-0.009642756104883105
+CDKN2A_damaging_to_TYMS,Avana,ACH-000370,CNS/Brain,matrix_intact,-0.26517324183759794
+CDKN2A_damaging_to_TYMS,Avana,ACH-000371,Lymphoid,matrix_intact,-0.17751228575193245
+CDKN2A_damaging_to_TYMS,Avana,ACH-000374,Breast,matrix_intact,-3.684496551891362
+CDKN2A_damaging_to_TYMS,Avana,ACH-000375,Kidney,matrix_intact,-1.0049672701353587
+CDKN2A_damaging_to_TYMS,Avana,ACH-000376,CNS/Brain,matrix_intact,-0.2711593330139888
+CDKN2A_damaging_to_TYMS,Avana,ACH-000377,Ampulla of Vater,matrix_intact,-5.462043664557085
+CDKN2A_damaging_to_TYMS,Avana,ACH-000378,Lung,matrix_intact,-0.8345116879706147
+CDKN2A_damaging_to_TYMS,Avana,ACH-000381,Bowel,matrix_intact,-2.7585405950526525
+CDKN2A_damaging_to_TYMS,Avana,ACH-000383,Esophagus/Stomach,damaging,-2.4372406513234415
+CDKN2A_damaging_to_TYMS,Avana,ACH-000385,Kidney,matrix_intact,0.16400216699878056
+CDKN2A_damaging_to_TYMS,Avana,ACH-000387,Myeloid,matrix_intact,-1.542329661803154
+CDKN2A_damaging_to_TYMS,Avana,ACH-000389,CNS/Brain,matrix_intact,-0.5398237619176003
+CDKN2A_damaging_to_TYMS,Avana,ACH-000390,Lung,matrix_intact,-2.367552906591861
+CDKN2A_damaging_to_TYMS,Avana,ACH-000391,Bone,damaging,-0.28883600131325693
+CDKN2A_damaging_to_TYMS,Avana,ACH-000393,Liver,matrix_intact,-0.19736022612294596
+CDKN2A_damaging_to_TYMS,Avana,ACH-000395,Lung,damaging,-1.6836730598645397
+CDKN2A_damaging_to_TYMS,Avana,ACH-000396,Bladder/Urinary Tract,matrix_intact,-0.16295359079054975
+CDKN2A_damaging_to_TYMS,Avana,ACH-000397,Uterus,matrix_intact,-0.33618978803449284
+CDKN2A_damaging_to_TYMS,Avana,ACH-000398,Lymphoid,damaging,-1.2348109273505692
+CDKN2A_damaging_to_TYMS,Avana,ACH-000401,Skin,matrix_intact,-1.0301654663523614
+CDKN2A_damaging_to_TYMS,Avana,ACH-000402,Lymphoid,matrix_intact,-0.37793772300490047
+CDKN2A_damaging_to_TYMS,Avana,ACH-000403,Bowel,matrix_intact,0.15223057731419376
+CDKN2A_damaging_to_TYMS,Avana,ACH-000404,Skin,damaging,-0.638713846710484
+CDKN2A_damaging_to_TYMS,Avana,ACH-000405,Lymphoid,matrix_intact,0.2694967005384285
+CDKN2A_damaging_to_TYMS,Avana,ACH-000406,Myeloid,matrix_intact,-2.843287751241829
+CDKN2A_damaging_to_TYMS,Avana,ACH-000407,Uterus,matrix_intact,0.03639089385040556
+CDKN2A_damaging_to_TYMS,Avana,ACH-000408,Esophagus/Stomach,matrix_intact,-0.2944514977494844
+CDKN2A_damaging_to_TYMS,Avana,ACH-000410,Bone,matrix_intact,0.12547058879667178
+CDKN2A_damaging_to_TYMS,Avana,ACH-000411,Kidney,matrix_intact,0.09991159138996018
+CDKN2A_damaging_to_TYMS,Avana,ACH-000414,Lung,matrix_intact,-1.0620016613214158
+CDKN2A_damaging_to_TYMS,Avana,ACH-000415,Head and Neck,matrix_intact,0.2823514753287024
+CDKN2A_damaging_to_TYMS,Avana,ACH-000416,Lung,matrix_intact,-2.4707548671328983
+CDKN2A_damaging_to_TYMS,Avana,ACH-000417,Pancreas,matrix_intact,-0.6993364310575902
+CDKN2A_damaging_to_TYMS,Avana,ACH-000420,Liver,matrix_intact,0.1524150056001851
+CDKN2A_damaging_to_TYMS,Avana,ACH-000421,Bowel,matrix_intact,0.2355491877525352
+CDKN2A_damaging_to_TYMS,Avana,ACH-000422,Liver,matrix_intact,0.0015776729655841981
+CDKN2A_damaging_to_TYMS,Avana,ACH-000424,Bone,matrix_intact,-0.3121791755992854
+CDKN2A_damaging_to_TYMS,Avana,ACH-000425,Skin,matrix_intact,-0.524557514085918
+CDKN2A_damaging_to_TYMS,Avana,ACH-000426,Lymphoid,matrix_intact,-1.0131835930016746
+CDKN2A_damaging_to_TYMS,Avana,ACH-000427,Esophagus/Stomach,matrix_intact,-0.22519684748618296
+CDKN2A_damaging_to_TYMS,Avana,ACH-000431,Lung,matrix_intact,0.046690588580723974
+CDKN2A_damaging_to_TYMS,Avana,ACH-000433,Kidney,matrix_intact,0.17617463588282872
+CDKN2A_damaging_to_TYMS,Avana,ACH-000434,Lung,matrix_intact,-0.08043226520643643
+CDKN2A_damaging_to_TYMS,Avana,ACH-000435,Uterus,matrix_intact,-0.04164513510833686
+CDKN2A_damaging_to_TYMS,Avana,ACH-000436,Lymphoid,matrix_intact,-0.4800512129240957
+CDKN2A_damaging_to_TYMS,Avana,ACH-000437,CNS/Brain,matrix_intact,-0.11852236625715579
+CDKN2A_damaging_to_TYMS,Avana,ACH-000438,Lung,matrix_intact,-0.4816408179654461
+CDKN2A_damaging_to_TYMS,Avana,ACH-000441,Skin,matrix_intact,0.15886878102669222
+CDKN2A_damaging_to_TYMS,Avana,ACH-000444,Lung,matrix_intact,0.17956702027137927
+CDKN2A_damaging_to_TYMS,Avana,ACH-000445,CNS/Brain,matrix_intact,0.011983445416079062
+CDKN2A_damaging_to_TYMS,Avana,ACH-000448,Lung,matrix_intact,-2.4110815913660373
+CDKN2A_damaging_to_TYMS,Avana,ACH-000450,Skin,matrix_intact,-0.415691865281715
+CDKN2A_damaging_to_TYMS,Avana,ACH-000452,Esophagus/Stomach,matrix_intact,-0.009122217786114106
+CDKN2A_damaging_to_TYMS,Avana,ACH-000454,Lung,matrix_intact,-0.9642191416336217
+CDKN2A_damaging_to_TYMS,Avana,ACH-000455,CNS/Brain,matrix_intact,0.042618362363050374
+CDKN2A_damaging_to_TYMS,Avana,ACH-000456,Thyroid,matrix_intact,0.08818915769096236
+CDKN2A_damaging_to_TYMS,Avana,ACH-000458,Skin,matrix_intact,0.03917889810468319
+CDKN2A_damaging_to_TYMS,Avana,ACH-000459,Kidney,matrix_intact,0.10756621653200503
+CDKN2A_damaging_to_TYMS,Avana,ACH-000460,Ovary/Fallopian Tube,matrix_intact,-0.6230941588348977
+CDKN2A_damaging_to_TYMS,Avana,ACH-000461,Biliary Tract,matrix_intact,-3.6296372156797103
+CDKN2A_damaging_to_TYMS,Avana,ACH-000463,Lung,matrix_intact,-0.08495764109848392
+CDKN2A_damaging_to_TYMS,Avana,ACH-000464,CNS/Brain,matrix_intact,0.06018759980378606
+CDKN2A_damaging_to_TYMS,Avana,ACH-000466,Esophagus/Stomach,matrix_intact,-0.5050321301666592
+CDKN2A_damaging_to_TYMS,Avana,ACH-000467,Bowel,matrix_intact,-1.1834548144889299
+CDKN2A_damaging_to_TYMS,Avana,ACH-000468,Pancreas,matrix_intact,0.20231198938599998
+CDKN2A_damaging_to_TYMS,Avana,ACH-000469,CNS/Brain,matrix_intact,0.053965503427631456
+CDKN2A_damaging_to_TYMS,Avana,ACH-000470,Bowel,matrix_intact,0.15883892377274117
+CDKN2A_damaging_to_TYMS,Avana,ACH-000471,Liver,matrix_intact,-0.22399627920762344
+CDKN2A_damaging_to_TYMS,Avana,ACH-000472,Head and Neck,damaging,-0.009114016472733251
+CDKN2A_damaging_to_TYMS,Avana,ACH-000473,Bladder/Urinary Tract,matrix_intact,-0.331074044344712
+CDKN2A_damaging_to_TYMS,Avana,ACH-000475,Liver,matrix_intact,-1.1444642119801562
+CDKN2A_damaging_to_TYMS,Avana,ACH-000476,Liver,matrix_intact,-0.0043414793136965155
+CDKN2A_damaging_to_TYMS,Avana,ACH-000477,Skin,matrix_intact,-1.124478171869323
+CDKN2A_damaging_to_TYMS,Avana,ACH-000478,Liver,matrix_intact,-1.312042116100392
+CDKN2A_damaging_to_TYMS,Avana,ACH-000479,CNS/Brain,matrix_intact,0.17285167930687217
+CDKN2A_damaging_to_TYMS,Avana,ACH-000480,Liver,matrix_intact,-0.5179216037362276
+CDKN2A_damaging_to_TYMS,Avana,ACH-000481,Lung,matrix_intact,0.32796208668794924
+CDKN2A_damaging_to_TYMS,Avana,ACH-000483,Liver,matrix_intact,-0.029397548147668533
+CDKN2A_damaging_to_TYMS,Avana,ACH-000484,Kidney,matrix_intact,-0.8003172774080004
+CDKN2A_damaging_to_TYMS,Avana,ACH-000485,Esophagus/Stomach,matrix_intact,-4.603758301316511
+CDKN2A_damaging_to_TYMS,Avana,ACH-000486,Bladder/Urinary Tract,matrix_intact,-1.6664136900661672
+CDKN2A_damaging_to_TYMS,Avana,ACH-000487,Myeloid,matrix_intact,0.2205915533868007
+CDKN2A_damaging_to_TYMS,Avana,ACH-000488,Esophagus/Stomach,matrix_intact,-1.1780704772840416
+CDKN2A_damaging_to_TYMS,Avana,ACH-000489,Bowel,matrix_intact,-1.335954362629896
+CDKN2A_damaging_to_TYMS,Avana,ACH-000490,Cervix,matrix_intact,-0.03030291964864565
+CDKN2A_damaging_to_TYMS,Avana,ACH-000491,Bowel,matrix_intact,0.4532494010076438
+CDKN2A_damaging_to_TYMS,Avana,ACH-000493,Liver,matrix_intact,0.04934884776502185
+CDKN2A_damaging_to_TYMS,Avana,ACH-000495,Kidney,matrix_intact,0.40618968216274703
+CDKN2A_damaging_to_TYMS,Avana,ACH-000496,Lung,matrix_intact,-1.5436212726050482
+CDKN2A_damaging_to_TYMS,Avana,ACH-000499,Bone,matrix_intact,-0.7088316322765302
+CDKN2A_damaging_to_TYMS,Avana,ACH-000500,Head and Neck,damaging,-0.058358636227896395
+CDKN2A_damaging_to_TYMS,Avana,ACH-000502,Pancreas,matrix_intact,-0.8601915461449792
+CDKN2A_damaging_to_TYMS,Avana,ACH-000503,Head and Neck,matrix_intact,0.007886084160014885
+CDKN2A_damaging_to_TYMS,Avana,ACH-000504,CNS/Brain,matrix_intact,0.10373714678697561
+CDKN2A_damaging_to_TYMS,Avana,ACH-000505,Soft Tissue,matrix_intact,0.15751063655010125
+CDKN2A_damaging_to_TYMS,Avana,ACH-000507,Esophagus/Stomach,matrix_intact,-1.234756150890771
+CDKN2A_damaging_to_TYMS,Avana,ACH-000510,Lung,matrix_intact,-1.0489799397914759
+CDKN2A_damaging_to_TYMS,Avana,ACH-000511,Lung,matrix_intact,0.08291925534397877
+CDKN2A_damaging_to_TYMS,Avana,ACH-000512,Lymphoid,matrix_intact,-2.2856844992073047
+CDKN2A_damaging_to_TYMS,Avana,ACH-000514,Lung,matrix_intact,0.09227745225681741
+CDKN2A_damaging_to_TYMS,Avana,ACH-000516,Bone,matrix_intact,-0.1507873630741745
+CDKN2A_damaging_to_TYMS,Avana,ACH-000517,Pancreas,matrix_intact,-1.4624153525545953
+CDKN2A_damaging_to_TYMS,Avana,ACH-000518,Head and Neck,damaging,-0.11812785745320162
+CDKN2A_damaging_to_TYMS,Avana,ACH-000520,Ovary/Fallopian Tube,matrix_intact,-1.3662308642398542
+CDKN2A_damaging_to_TYMS,Avana,ACH-000521,Lung,matrix_intact,0.13283608262240976
+CDKN2A_damaging_to_TYMS,Avana,ACH-000522,Bladder/Urinary Tract,matrix_intact,-1.480215973961585
+CDKN2A_damaging_to_TYMS,Avana,ACH-000524,Ovary/Fallopian Tube,matrix_intact,-0.022140191887935166
+CDKN2A_damaging_to_TYMS,Avana,ACH-000525,Lung,matrix_intact,-3.3559928887334567
+CDKN2A_damaging_to_TYMS,Avana,ACH-000527,Ovary/Fallopian Tube,matrix_intact,0.03348569887456594
+CDKN2A_damaging_to_TYMS,Avana,ACH-000528,Lung,matrix_intact,0.18267229018180853
+CDKN2A_damaging_to_TYMS,Avana,ACH-000532,Bowel,matrix_intact,-1.366259225392628
+CDKN2A_damaging_to_TYMS,Avana,ACH-000533,Kidney,matrix_intact,0.0737670501649564
+CDKN2A_damaging_to_TYMS,Avana,ACH-000535,Pancreas,matrix_intact,-1.2166745420933722
+CDKN2A_damaging_to_TYMS,Avana,ACH-000537,Liver,matrix_intact,-0.8997315783952102
+CDKN2A_damaging_to_TYMS,Avana,ACH-000541,Lymphoid,matrix_intact,-0.7016494092150685
+CDKN2A_damaging_to_TYMS,Avana,ACH-000542,Ovary/Fallopian Tube,matrix_intact,0.015403218835565908
+CDKN2A_damaging_to_TYMS,Avana,ACH-000544,Esophagus/Stomach,matrix_intact,-2.382426466081161
+CDKN2A_damaging_to_TYMS,Avana,ACH-000545,Bladder/Urinary Tract,damaging,-0.7858372033459631
+CDKN2A_damaging_to_TYMS,Avana,ACH-000547,Bladder/Urinary Tract,matrix_intact,-0.16593133470186947
+CDKN2A_damaging_to_TYMS,Avana,ACH-000548,Head and Neck,damaging,-2.0893429626002
+CDKN2A_damaging_to_TYMS,Avana,ACH-000549,Head and Neck,matrix_intact,0.12535036155269852
+CDKN2A_damaging_to_TYMS,Avana,ACH-000550,Skin,matrix_intact,-1.8033651862875097
+CDKN2A_damaging_to_TYMS,Avana,ACH-000551,Myeloid,matrix_intact,-0.4182347695577811
+CDKN2A_damaging_to_TYMS,Avana,ACH-000552,Bowel,matrix_intact,0.09175903342611132
+CDKN2A_damaging_to_TYMS,Avana,ACH-000556,Cervix,matrix_intact,-1.275845677468772
+CDKN2A_damaging_to_TYMS,Avana,ACH-000557,Myeloid,matrix_intact,-3.8020052912119437
+CDKN2A_damaging_to_TYMS,Avana,ACH-000559,Lung,matrix_intact,-1.2507110458344863
+CDKN2A_damaging_to_TYMS,Avana,ACH-000563,Lung,matrix_intact,0.35949895319686936
+CDKN2A_damaging_to_TYMS,Avana,ACH-000567,Lymphoid,matrix_intact,-1.077556802825101
+CDKN2A_damaging_to_TYMS,Avana,ACH-000570,CNS/Brain,matrix_intact,-0.10685269963578439
+CDKN2A_damaging_to_TYMS,Avana,ACH-000571,CNS/Brain,matrix_intact,-0.1107867361846098
+CDKN2A_damaging_to_TYMS,Avana,ACH-000573,Breast,matrix_intact,-4.663616781395597
+CDKN2A_damaging_to_TYMS,Avana,ACH-000576,Lymphoid,matrix_intact,-0.008519108646222337
+CDKN2A_damaging_to_TYMS,Avana,ACH-000577,Liver,damaging,-1.1083142682098615
+CDKN2A_damaging_to_TYMS,Avana,ACH-000579,Skin,damaging,-0.8953657073001171
+CDKN2A_damaging_to_TYMS,Avana,ACH-000580,Skin,damaging,0.012495831825344438
+CDKN2A_damaging_to_TYMS,Avana,ACH-000581,Esophagus/Stomach,matrix_intact,-0.09408781797930482
+CDKN2A_damaging_to_TYMS,Avana,ACH-000584,Ovary/Fallopian Tube,matrix_intact,0.2833622300645083
+CDKN2A_damaging_to_TYMS,Avana,ACH-000585,Lung,matrix_intact,-3.301427469054688
+CDKN2A_damaging_to_TYMS,Avana,ACH-000587,Lung,damaging,0.11482429265603983
+CDKN2A_damaging_to_TYMS,Avana,ACH-000588,Lymphoid,matrix_intact,-1.8158878034406536
+CDKN2A_damaging_to_TYMS,Avana,ACH-000589,Lung,matrix_intact,-1.0223603119787679
+CDKN2A_damaging_to_TYMS,Avana,ACH-000591,CNS/Brain,matrix_intact,0.2179266263052302
+CDKN2A_damaging_to_TYMS,Avana,ACH-000592,CNS/Brain,matrix_intact,-0.8796423030594771
+CDKN2A_damaging_to_TYMS,Avana,ACH-000593,Bladder/Urinary Tract,matrix_intact,-1.8631222519710193
+CDKN2A_damaging_to_TYMS,Avana,ACH-000595,CNS/Brain,matrix_intact,-0.7507026178679306
+CDKN2A_damaging_to_TYMS,Avana,ACH-000596,Lung,matrix_intact,-0.06494704556620604
+CDKN2A_damaging_to_TYMS,Avana,ACH-000597,Kidney,matrix_intact,-0.1455527165730004
+CDKN2A_damaging_to_TYMS,Avana,ACH-000599,Pancreas,matrix_intact,0.8030599354573154
+CDKN2A_damaging_to_TYMS,Avana,ACH-000601,Pancreas,matrix_intact,-0.7560851619768563
+CDKN2A_damaging_to_TYMS,Avana,ACH-000602,Myeloid,matrix_intact,-1.7183141643137372
+CDKN2A_damaging_to_TYMS,Avana,ACH-000604,Myeloid,matrix_intact,-0.7315139496914265
+CDKN2A_damaging_to_TYMS,Avana,ACH-000605,Esophagus/Stomach,matrix_intact,-0.21868703859719973
+CDKN2A_damaging_to_TYMS,Avana,ACH-000606,Head and Neck,matrix_intact,0.19901496235547037
+CDKN2A_damaging_to_TYMS,Avana,ACH-000607,Soft Tissue,matrix_intact,-0.039309807210121235
+CDKN2A_damaging_to_TYMS,Avana,ACH-000608,Ovary/Fallopian Tube,damaging,-1.9131757680538137
+CDKN2A_damaging_to_TYMS,Avana,ACH-000609,CNS/Brain,matrix_intact,-0.23462904787947342
+CDKN2A_damaging_to_TYMS,Avana,ACH-000614,Skin,matrix_intact,-0.13577777750811523
+CDKN2A_damaging_to_TYMS,Avana,ACH-000616,Esophagus/Stomach,matrix_intact,0.5110465951349803
+CDKN2A_damaging_to_TYMS,Avana,ACH-000618,Head and Neck,matrix_intact,-1.1840227127235807
+CDKN2A_damaging_to_TYMS,Avana,ACH-000619,Head and Neck,matrix_intact,-0.19524956340998623
+CDKN2A_damaging_to_TYMS,Avana,ACH-000620,Liver,matrix_intact,-1.2969634610907446
+CDKN2A_damaging_to_TYMS,Avana,ACH-000621,Breast,matrix_intact,-3.828790951362296
+CDKN2A_damaging_to_TYMS,Avana,ACH-000622,CNS/Brain,matrix_intact,-0.10400242400239712
+CDKN2A_damaging_to_TYMS,Avana,ACH-000623,CNS/Brain,matrix_intact,0.1964218671270625
+CDKN2A_damaging_to_TYMS,Avana,ACH-000624,Breast,matrix_intact,-3.5067746425718807
+CDKN2A_damaging_to_TYMS,Avana,ACH-000627,Lung,matrix_intact,0.046568117246322996
+CDKN2A_damaging_to_TYMS,Avana,ACH-000630,Head and Neck,matrix_intact,-0.2393684044505009
+CDKN2A_damaging_to_TYMS,Avana,ACH-000632,Skin,damaging,-3.5169907195783323
+CDKN2A_damaging_to_TYMS,Avana,ACH-000633,Esophagus/Stomach,matrix_intact,0.2562238088408684
+CDKN2A_damaging_to_TYMS,Avana,ACH-000634,CNS/Brain,matrix_intact,0.1876518402573097
+CDKN2A_damaging_to_TYMS,Avana,ACH-000637,Esophagus/Stomach,matrix_intact,-0.03337465129535033
+CDKN2A_damaging_to_TYMS,Avana,ACH-000638,Lung,matrix_intact,0.4125938248783255
+CDKN2A_damaging_to_TYMS,Avana,ACH-000639,Lung,matrix_intact,-4.44380626496045
+CDKN2A_damaging_to_TYMS,Avana,ACH-000645,Pleura,matrix_intact,0.07858598091918681
+CDKN2A_damaging_to_TYMS,Avana,ACH-000646,Ovary/Fallopian Tube,matrix_intact,-0.20610878928336532
+CDKN2A_damaging_to_TYMS,Avana,ACH-000647,Esophagus/Stomach,matrix_intact,-0.2733045045468314
+CDKN2A_damaging_to_TYMS,Avana,ACH-000648,Pleura,matrix_intact,-0.08783249038222303
+CDKN2A_damaging_to_TYMS,Avana,ACH-000649,Kidney,matrix_intact,-1.4589453815184972
+CDKN2A_damaging_to_TYMS,Avana,ACH-000651,Bowel,matrix_intact,-0.3171772493154715
+CDKN2A_damaging_to_TYMS,Avana,ACH-000652,Pancreas,damaging,-0.03391388961258809
+CDKN2A_damaging_to_TYMS,Avana,ACH-000653,Lymphoid,matrix_intact,-2.370811967104199
+CDKN2A_damaging_to_TYMS,Avana,ACH-000654,Lymphoid,matrix_intact,-0.023570860244086063
+CDKN2A_damaging_to_TYMS,Avana,ACH-000655,CNS/Brain,matrix_intact,0.2849497985027126
+CDKN2A_damaging_to_TYMS,Avana,ACH-000657,Ovary/Fallopian Tube,matrix_intact,0.17095424970025724
+CDKN2A_damaging_to_TYMS,Avana,ACH-000661,Skin,matrix_intact,-1.0020650039919579
+CDKN2A_damaging_to_TYMS,Avana,ACH-000662,Lung,damaging,-0.5967331736426313
+CDKN2A_damaging_to_TYMS,Avana,ACH-000663,Ovary/Fallopian Tube,matrix_intact,0.049607935932089925
+CDKN2A_damaging_to_TYMS,Avana,ACH-000664,Lymphoid,matrix_intact,0.38020656576781375
+CDKN2A_damaging_to_TYMS,Avana,ACH-000665,Lung,matrix_intact,-2.0071406975113533
+CDKN2A_damaging_to_TYMS,Avana,ACH-000667,Lung,matrix_intact,-1.3098762569745293
+CDKN2A_damaging_to_TYMS,Avana,ACH-000671,Liver,matrix_intact,-0.38135587497931944
+CDKN2A_damaging_to_TYMS,Avana,ACH-000673,CNS/Brain,matrix_intact,0.18095352696532177
+CDKN2A_damaging_to_TYMS,Avana,ACH-000676,CNS/Brain,matrix_intact,-0.2390453995975929
+CDKN2A_damaging_to_TYMS,Avana,ACH-000677,Lung,matrix_intact,0.2312423920787996
+CDKN2A_damaging_to_TYMS,Avana,ACH-000680,Bowel,matrix_intact,-0.0023280144130187475
+CDKN2A_damaging_to_TYMS,Avana,ACH-000681,Lung,matrix_intact,-0.22846668880215826
+CDKN2A_damaging_to_TYMS,Avana,ACH-000682,Head and Neck,damaging,-0.43988639341928076
+CDKN2A_damaging_to_TYMS,Avana,ACH-000683,Bowel,damaging,0.2763456798432039
+CDKN2A_damaging_to_TYMS,Avana,ACH-000684,Kidney,matrix_intact,-1.2190828638674498
+CDKN2A_damaging_to_TYMS,Avana,ACH-000685,Pancreas,matrix_intact,-0.9051620376780676
+CDKN2A_damaging_to_TYMS,Avana,ACH-000688,Ovary/Fallopian Tube,matrix_intact,0.10362532711486863
+CDKN2A_damaging_to_TYMS,Avana,ACH-000693,Esophagus/Stomach,matrix_intact,0.14541317834436143
+CDKN2A_damaging_to_TYMS,Avana,ACH-000694,Esophagus/Stomach,matrix_intact,-0.39163297270536956
+CDKN2A_damaging_to_TYMS,Avana,ACH-000695,Lung,matrix_intact,-0.1357443420145597
+CDKN2A_damaging_to_TYMS,Avana,ACH-000696,Ovary/Fallopian Tube,matrix_intact,-0.42702703001101205
+CDKN2A_damaging_to_TYMS,Avana,ACH-000697,Lymphoid,matrix_intact,-0.6552882269826297
+CDKN2A_damaging_to_TYMS,Avana,ACH-000698,Lung,matrix_intact,-1.7224869644045495
+CDKN2A_damaging_to_TYMS,Avana,ACH-000699,Breast,matrix_intact,-1.5146902186869955
+CDKN2A_damaging_to_TYMS,Avana,ACH-000700,Lung,matrix_intact,0.04077150980741065
+CDKN2A_damaging_to_TYMS,Avana,ACH-000701,Ovary/Fallopian Tube,matrix_intact,0.23308015241194002
+CDKN2A_damaging_to_TYMS,Avana,ACH-000702,Lymphoid,matrix_intact,-0.19802319191767165
+CDKN2A_damaging_to_TYMS,Avana,ACH-000706,Lung,matrix_intact,-1.9752489194326515
+CDKN2A_damaging_to_TYMS,Avana,ACH-000709,Kidney,matrix_intact,0.21558395576708517
+CDKN2A_damaging_to_TYMS,Avana,ACH-000711,Breast,matrix_intact,-3.9393351581968017
+CDKN2A_damaging_to_TYMS,Avana,ACH-000713,Ovary/Fallopian Tube,matrix_intact,-1.5841831893923088
+CDKN2A_damaging_to_TYMS,Avana,ACH-000714,Lymphoid,matrix_intact,-1.30245653801488
+CDKN2A_damaging_to_TYMS,Avana,ACH-000716,Thyroid,matrix_intact,0.03376030035465953
+CDKN2A_damaging_to_TYMS,Avana,ACH-000718,Lung,matrix_intact,-0.8523800192144554
+CDKN2A_damaging_to_TYMS,Avana,ACH-000719,Ovary/Fallopian Tube,matrix_intact,0.13276619400049533
+CDKN2A_damaging_to_TYMS,Avana,ACH-000720,Bladder/Urinary Tract,matrix_intact,-0.009155914444475569
+CDKN2A_damaging_to_TYMS,Avana,ACH-000721,Breast,matrix_intact,0.2377987740403223
+CDKN2A_damaging_to_TYMS,Avana,ACH-000724,Bladder/Urinary Tract,matrix_intact,-0.07859672050513933
+CDKN2A_damaging_to_TYMS,Avana,ACH-000725,Breast,matrix_intact,-0.8925628364968793
+CDKN2A_damaging_to_TYMS,Avana,ACH-000732,Head and Neck,matrix_intact,0.17312946700015483
+CDKN2A_damaging_to_TYMS,Avana,ACH-000734,Liver,matrix_intact,-3.2783923448308436
+CDKN2A_damaging_to_TYMS,Avana,ACH-000735,Head and Neck,damaging,-3.6659177550704083
+CDKN2A_damaging_to_TYMS,Avana,ACH-000736,Esophagus/Stomach,matrix_intact,-2.1529138830701866
+CDKN2A_damaging_to_TYMS,Avana,ACH-000738,CNS/Brain,matrix_intact,-0.3139257637244093
+CDKN2A_damaging_to_TYMS,Avana,ACH-000739,Liver,matrix_intact,-0.7212801090673209
+CDKN2A_damaging_to_TYMS,Avana,ACH-000740,Head and Neck,damaging,-0.7761576724791377
+CDKN2A_damaging_to_TYMS,Avana,ACH-000741,Bladder/Urinary Tract,matrix_intact,0.2544678849200279
+CDKN2A_damaging_to_TYMS,Avana,ACH-000746,Esophagus/Stomach,damaging,-0.8930016395402047
+CDKN2A_damaging_to_TYMS,Avana,ACH-000747,Lung,damaging,-1.3661762070574683
+CDKN2A_damaging_to_TYMS,Avana,ACH-000748,Bone,matrix_intact,-0.3823572254382164
+CDKN2A_damaging_to_TYMS,Avana,ACH-000753,Bladder/Urinary Tract,matrix_intact,-2.7300941033234984
+CDKN2A_damaging_to_TYMS,Avana,ACH-000754,Lymphoid,matrix_intact,-0.15920884711626282
+CDKN2A_damaging_to_TYMS,Avana,ACH-000756,CNS/Brain,matrix_intact,0.00955454014636359
+CDKN2A_damaging_to_TYMS,Avana,ACH-000757,Lung,matrix_intact,-0.12186652435627851
+CDKN2A_damaging_to_TYMS,Avana,ACH-000758,Esophagus/Stomach,matrix_intact,-0.38689855731843453
+CDKN2A_damaging_to_TYMS,Avana,ACH-000760,CNS/Brain,matrix_intact,-2.5644010987836663
+CDKN2A_damaging_to_TYMS,Avana,ACH-000762,Head and Neck,matrix_intact,-0.6891765951990582
+CDKN2A_damaging_to_TYMS,Avana,ACH-000763,Lymphoid,matrix_intact,-0.14097985721691325
+CDKN2A_damaging_to_TYMS,Avana,ACH-000764,Esophagus/Stomach,matrix_intact,-0.18097321525413834
+CDKN2A_damaging_to_TYMS,Avana,ACH-000765,Skin,damaging,-0.4809845916956412
+CDKN2A_damaging_to_TYMS,Avana,ACH-000766,Lung,matrix_intact,0.008629192158943644
+CDKN2A_damaging_to_TYMS,Avana,ACH-000767,Lung,matrix_intact,0.17204457660396735
+CDKN2A_damaging_to_TYMS,Avana,ACH-000768,Breast,matrix_intact,0.7179494862642337
+CDKN2A_damaging_to_TYMS,Avana,ACH-000769,Lung,damaging,-0.8731816303814085
+CDKN2A_damaging_to_TYMS,Avana,ACH-000770,Myeloid,matrix_intact,-0.5663429848541328
+CDKN2A_damaging_to_TYMS,Avana,ACH-000771,Head and Neck,damaging,-1.4736999974347351
+CDKN2A_damaging_to_TYMS,Avana,ACH-000773,Lymphoid,matrix_intact,-0.141580582415141
+CDKN2A_damaging_to_TYMS,Avana,ACH-000774,Lung,matrix_intact,0.22626075518798056
+CDKN2A_damaging_to_TYMS,Avana,ACH-000775,Lung,matrix_intact,-0.14892637432625744
+CDKN2A_damaging_to_TYMS,Avana,ACH-000776,CNS/Brain,matrix_intact,0.010717282464496311
+CDKN2A_damaging_to_TYMS,Avana,ACH-000777,Esophagus/Stomach,damaging,0.13404960525259296
+CDKN2A_damaging_to_TYMS,Avana,ACH-000778,Head and Neck,damaging,-0.4106307773896095
+CDKN2A_damaging_to_TYMS,Avana,ACH-000781,Lung,matrix_intact,-2.8135939399985768
+CDKN2A_damaging_to_TYMS,Avana,ACH-000782,Lymphoid,damaging,-0.727325750863395
+CDKN2A_damaging_to_TYMS,Avana,ACH-000783,Breast,matrix_intact,0.4486202259392217
+CDKN2A_damaging_to_TYMS,Avana,ACH-000784,Esophagus/Stomach,matrix_intact,-1.235428092345081
+CDKN2A_damaging_to_TYMS,Avana,ACH-000785,Lung,matrix_intact,-2.7353896881221234
+CDKN2A_damaging_to_TYMS,Avana,ACH-000787,Lung,damaging,-0.39019678818907
+CDKN2A_damaging_to_TYMS,Avana,ACH-000788,Skin,matrix_intact,-0.5686297400257172
+CDKN2A_damaging_to_TYMS,Avana,ACH-000790,Lung,matrix_intact,-0.026582199986724425
+CDKN2A_damaging_to_TYMS,Avana,ACH-000791,Lung,matrix_intact,-0.7176877049197696
+CDKN2A_damaging_to_TYMS,Avana,ACH-000792,Kidney,matrix_intact,-1.305327504786892
+CDKN2A_damaging_to_TYMS,Avana,ACH-000793,Esophagus/Stomach,matrix_intact,-1.3562593167896067
+CDKN2A_damaging_to_TYMS,Avana,ACH-000794,Head and Neck,matrix_intact,-3.347717268198981
+CDKN2A_damaging_to_TYMS,Avana,ACH-000796,Ovary/Fallopian Tube,damaging,-0.34378442100621986
+CDKN2A_damaging_to_TYMS,Avana,ACH-000799,Skin,matrix_intact,0.3511047631356662
+CDKN2A_damaging_to_TYMS,Avana,ACH-000800,Lung,matrix_intact,-0.3838644202701645
+CDKN2A_damaging_to_TYMS,Avana,ACH-000801,Skin,damaging,-2.2443007283235934
+CDKN2A_damaging_to_TYMS,Avana,ACH-000802,Bladder/Urinary Tract,matrix_intact,-0.29466240030563245
+CDKN2A_damaging_to_TYMS,Avana,ACH-000804,Peripheral Nervous System,matrix_intact,-0.20060825620190992
+CDKN2A_damaging_to_TYMS,Avana,ACH-000805,Skin,matrix_intact,-0.5304044975887563
+CDKN2A_damaging_to_TYMS,Avana,ACH-000807,CNS/Brain,matrix_intact,-0.8246124911604374
+CDKN2A_damaging_to_TYMS,Avana,ACH-000809,Esophagus/Stomach,matrix_intact,-0.5990407612351456
+CDKN2A_damaging_to_TYMS,Avana,ACH-000810,Skin,damaging,-0.03894087376394666
+CDKN2A_damaging_to_TYMS,Avana,ACH-000811,Ovary/Fallopian Tube,matrix_intact,0.14484415785230859
+CDKN2A_damaging_to_TYMS,Avana,ACH-000817,Lymphoid,matrix_intact,-1.684069919247296
+CDKN2A_damaging_to_TYMS,Avana,ACH-000819,CNS/Brain,matrix_intact,-0.13138453449264448
+CDKN2A_damaging_to_TYMS,Avana,ACH-000820,Bowel,matrix_intact,-0.43072586417864933
+CDKN2A_damaging_to_TYMS,Avana,ACH-000821,Lymphoid,matrix_intact,-1.533116661258318
+CDKN2A_damaging_to_TYMS,Avana,ACH-000822,Skin,matrix_intact,-1.4691063168197736
+CDKN2A_damaging_to_TYMS,Avana,ACH-000823,Esophagus/Stomach,matrix_intact,-0.7942699558171937
+CDKN2A_damaging_to_TYMS,Avana,ACH-000824,Esophagus/Stomach,matrix_intact,-1.4138133138572044
+CDKN2A_damaging_to_TYMS,Avana,ACH-000827,Skin,matrix_intact,-1.1773101624123132
+CDKN2A_damaging_to_TYMS,Avana,ACH-000829,Lymphoid,matrix_intact,-0.027479568422504735
+CDKN2A_damaging_to_TYMS,Avana,ACH-000831,Uterus,matrix_intact,-1.449856808141948
+CDKN2A_damaging_to_TYMS,Avana,ACH-000832,Head and Neck,damaging,-2.396780679975634
+CDKN2A_damaging_to_TYMS,Avana,ACH-000833,Soft Tissue,matrix_intact,-1.8954369789950123
+CDKN2A_damaging_to_TYMS,Avana,ACH-000834,Bladder/Urinary Tract,matrix_intact,0.14977071504659983
+CDKN2A_damaging_to_TYMS,Avana,ACH-000835,Soft Tissue,matrix_intact,-1.0515231293706018
+CDKN2A_damaging_to_TYMS,Avana,ACH-000836,Head and Neck,matrix_intact,-1.0030687434766277
+CDKN2A_damaging_to_TYMS,Avana,ACH-000837,Lung,matrix_intact,0.10295788988965736
+CDKN2A_damaging_to_TYMS,Avana,ACH-000838,Lymphoid,matrix_intact,0.15343162314995945
+CDKN2A_damaging_to_TYMS,Avana,ACH-000839,Bladder/Urinary Tract,damaging,-1.0435308307274522
+CDKN2A_damaging_to_TYMS,Avana,ACH-000840,Lung,matrix_intact,-0.1294034797898621
+CDKN2A_damaging_to_TYMS,Avana,ACH-000841,Lung,matrix_intact,0.04909881536783301
+CDKN2A_damaging_to_TYMS,Avana,ACH-000843,Lung,matrix_intact,-1.2100333350222359
+CDKN2A_damaging_to_TYMS,Avana,ACH-000845,Lung,damaging,0.3369966441539236
+CDKN2A_damaging_to_TYMS,Avana,ACH-000846,Head and Neck,damaging,0.19203712828684866
+CDKN2A_damaging_to_TYMS,Avana,ACH-000847,Esophagus/Stomach,matrix_intact,-0.016616299872276794
+CDKN2A_damaging_to_TYMS,Avana,ACH-000848,Liver,matrix_intact,-0.9748995344101399
+CDKN2A_damaging_to_TYMS,Avana,ACH-000849,Breast,matrix_intact,-0.5066363115393955
+CDKN2A_damaging_to_TYMS,Avana,ACH-000851,Lung,matrix_intact,-0.7214691406511304
+CDKN2A_damaging_to_TYMS,Avana,ACH-000853,Lung,damaging,-1.7333370365224479
+CDKN2A_damaging_to_TYMS,Avana,ACH-000855,Esophagus/Stomach,matrix_intact,0.23650108220526753
+CDKN2A_damaging_to_TYMS,Avana,ACH-000856,Breast,matrix_intact,-1.217890111155735
+CDKN2A_damaging_to_TYMS,Avana,ACH-000858,Lung,damaging,0.045762456506968
+CDKN2A_damaging_to_TYMS,Avana,ACH-000859,Breast,matrix_intact,-1.0411249391549644
+CDKN2A_damaging_to_TYMS,Avana,ACH-000860,Lung,matrix_intact,-2.167746318156997
+CDKN2A_damaging_to_TYMS,Avana,ACH-000861,Lung,matrix_intact,0.03705743781075019
+CDKN2A_damaging_to_TYMS,Avana,ACH-000862,Bladder/Urinary Tract,matrix_intact,0.07981516609378891
+CDKN2A_damaging_to_TYMS,Avana,ACH-000865,Esophagus/Stomach,matrix_intact,0.32680830913485426
+CDKN2A_damaging_to_TYMS,Avana,ACH-000866,Lung,matrix_intact,-3.6182887621572
+CDKN2A_damaging_to_TYMS,Avana,ACH-000867,Lung,matrix_intact,-2.1383001882111277
+CDKN2A_damaging_to_TYMS,Avana,ACH-000869,Lung,matrix_intact,-2.1469354309767144
+CDKN2A_damaging_to_TYMS,Avana,ACH-000871,Lung,matrix_intact,0.06327236182845174
+CDKN2A_damaging_to_TYMS,Avana,ACH-000872,Lung,damaging,-0.6954923363210583
+CDKN2A_damaging_to_TYMS,Avana,ACH-000873,Esophagus/Stomach,matrix_intact,-1.095897785412408
+CDKN2A_damaging_to_TYMS,Avana,ACH-000876,Breast,matrix_intact,-1.1462034472609426
+CDKN2A_damaging_to_TYMS,Avana,ACH-000878,Lung,matrix_intact,0.4612043983831095
+CDKN2A_damaging_to_TYMS,Avana,ACH-000880,Esophagus/Stomach,matrix_intact,-0.7081586637194751
+CDKN2A_damaging_to_TYMS,Avana,ACH-000881,Skin,matrix_intact,-1.0202662904757407
+CDKN2A_damaging_to_TYMS,Avana,ACH-000882,Skin,matrix_intact,-2.788195042914907
+CDKN2A_damaging_to_TYMS,Avana,ACH-000884,Skin,damaging,-0.2281763674426305
+CDKN2A_damaging_to_TYMS,Avana,ACH-000885,Ovary/Fallopian Tube,matrix_intact,-1.1812711209914881
+CDKN2A_damaging_to_TYMS,Avana,ACH-000886,Lung,matrix_intact,-3.672155710488809
+CDKN2A_damaging_to_TYMS,Avana,ACH-000887,CNS/Brain,matrix_intact,-0.040720865676629775
+CDKN2A_damaging_to_TYMS,Avana,ACH-000888,Lung,matrix_intact,-0.21469431666430072
+CDKN2A_damaging_to_TYMS,Avana,ACH-000889,Lymphoid,matrix_intact,-2.513261547241411
+CDKN2A_damaging_to_TYMS,Avana,ACH-000890,Lung,matrix_intact,-0.18393099302880697
+CDKN2A_damaging_to_TYMS,Avana,ACH-000896,Bladder/Urinary Tract,matrix_intact,0.047607397229290506
+CDKN2A_damaging_to_TYMS,Avana,ACH-000898,Esophagus/Stomach,matrix_intact,-1.0882561775731459
+CDKN2A_damaging_to_TYMS,Avana,ACH-000899,Skin,matrix_intact,-1.8756273723392543
+CDKN2A_damaging_to_TYMS,Avana,ACH-000900,Lung,matrix_intact,-0.9004948475610706
+CDKN2A_damaging_to_TYMS,Avana,ACH-000901,Lung,matrix_intact,-0.5892756005845445
+CDKN2A_damaging_to_TYMS,Avana,ACH-000903,Thyroid,matrix_intact,0.28693761586011135
+CDKN2A_damaging_to_TYMS,Avana,ACH-000905,Bladder/Urinary Tract,matrix_intact,-0.42553198118802404
+CDKN2A_damaging_to_TYMS,Avana,ACH-000906,Ovary/Fallopian Tube,matrix_intact,-0.9042651039975556
+CDKN2A_damaging_to_TYMS,Avana,ACH-000907,Kidney,matrix_intact,-0.3423945337431618
+CDKN2A_damaging_to_TYMS,Avana,ACH-000910,Breast,matrix_intact,-2.879882402962651
+CDKN2A_damaging_to_TYMS,Avana,ACH-000911,Esophagus/Stomach,matrix_intact,0.10425197282098295
+CDKN2A_damaging_to_TYMS,Avana,ACH-000912,Lung,damaging,0.26659322518704315
+CDKN2A_damaging_to_TYMS,Avana,ACH-000913,Uterus,matrix_intact,0.1400486574647708
+CDKN2A_damaging_to_TYMS,Avana,ACH-000914,Lymphoid,matrix_intact,-2.1345418673256087
+CDKN2A_damaging_to_TYMS,Avana,ACH-000915,Skin,matrix_intact,-4.496941763319983
+CDKN2A_damaging_to_TYMS,Avana,ACH-000916,Lung,matrix_intact,-0.7595084969361756
+CDKN2A_damaging_to_TYMS,Avana,ACH-000917,Esophagus/Stomach,matrix_intact,-0.6951015036720647
+CDKN2A_damaging_to_TYMS,Avana,ACH-000920,Myeloid,matrix_intact,-0.16561175082711577
+CDKN2A_damaging_to_TYMS,Avana,ACH-000921,Lung,damaging,-0.33446212350935334
+CDKN2A_damaging_to_TYMS,Avana,ACH-000922,Lymphoid,matrix_intact,-1.668815605185232
+CDKN2A_damaging_to_TYMS,Avana,ACH-000924,Lung,matrix_intact,-1.1606309963916694
+CDKN2A_damaging_to_TYMS,Avana,ACH-000926,Bowel,matrix_intact,0.11945563055501948
+CDKN2A_damaging_to_TYMS,Avana,ACH-000928,Uterus,matrix_intact,-0.3929203428097877
+CDKN2A_damaging_to_TYMS,Avana,ACH-000929,Lung,matrix_intact,-0.6362690422939852
+CDKN2A_damaging_to_TYMS,Avana,ACH-000932,Esophagus/Stomach,matrix_intact,-0.42270632262101904
+CDKN2A_damaging_to_TYMS,Avana,ACH-000935,Bowel,damaging,0.05534519407024066
+CDKN2A_damaging_to_TYMS,Avana,ACH-000936,Ovary/Fallopian Tube,matrix_intact,-1.6018813384556352
+CDKN2A_damaging_to_TYMS,Avana,ACH-000937,Lymphoid,matrix_intact,-4.779111803374889
+CDKN2A_damaging_to_TYMS,Avana,ACH-000938,Lymphoid,matrix_intact,-1.4460889902221852
+CDKN2A_damaging_to_TYMS,Avana,ACH-000939,Uterus,matrix_intact,-0.002785604388234421
+CDKN2A_damaging_to_TYMS,Avana,ACH-000941,Uterus,matrix_intact,0.16944922437415993
+CDKN2A_damaging_to_TYMS,Avana,ACH-000943,Bowel,matrix_intact,0.17406059547314004
+CDKN2A_damaging_to_TYMS,Avana,ACH-000944,Lymphoid,matrix_intact,-0.0342642155181671
+CDKN2A_damaging_to_TYMS,Avana,ACH-000946,Uterus,matrix_intact,0.2966464982037631
+CDKN2A_damaging_to_TYMS,Avana,ACH-000947,Ovary/Fallopian Tube,matrix_intact,-1.2901554858071729
+CDKN2A_damaging_to_TYMS,Avana,ACH-000948,Esophagus/Stomach,matrix_intact,-2.9081382709954573
+CDKN2A_damaging_to_TYMS,Avana,ACH-000950,Bowel,matrix_intact,-0.010686551583190464
+CDKN2A_damaging_to_TYMS,Avana,ACH-000953,Lymphoid,matrix_intact,-4.226161327687749
+CDKN2A_damaging_to_TYMS,Avana,ACH-000957,Bowel,matrix_intact,-0.008802713949307484
+CDKN2A_damaging_to_TYMS,Avana,ACH-000958,Bowel,matrix_intact,-0.03153511920653965
+CDKN2A_damaging_to_TYMS,Avana,ACH-000959,Bowel,matrix_intact,-1.8222324604591837
+CDKN2A_damaging_to_TYMS,Avana,ACH-000960,Lymphoid,matrix_intact,-1.8273754730823923
+CDKN2A_damaging_to_TYMS,Avana,ACH-000961,Uterus,matrix_intact,-0.20967354143914463
+CDKN2A_damaging_to_TYMS,Avana,ACH-000963,Bowel,matrix_intact,-0.8359874357933021
+CDKN2A_damaging_to_TYMS,Avana,ACH-000965,Uterus,matrix_intact,-1.6098392074104115
+CDKN2A_damaging_to_TYMS,Avana,ACH-000968,Skin,matrix_intact,0.09749819108791513
+CDKN2A_damaging_to_TYMS,Avana,ACH-000969,Bowel,matrix_intact,0.06444071437477855
+CDKN2A_damaging_to_TYMS,Avana,ACH-000973,Bladder/Urinary Tract,damaging,-3.6723861664970494
+CDKN2A_damaging_to_TYMS,Avana,ACH-000974,Uterus,matrix_intact,0.10551547100411833
+CDKN2A_damaging_to_TYMS,Avana,ACH-000975,Lung,matrix_intact,-1.7672411385545712
+CDKN2A_damaging_to_TYMS,Avana,ACH-000976,Biliary Tract,matrix_intact,-0.9299318698766408
+CDKN2A_damaging_to_TYMS,Avana,ACH-000977,Prostate,matrix_intact,-1.0413204451854994
+CDKN2A_damaging_to_TYMS,Avana,ACH-000978,Uterus,damaging,0.0268812658144411
+CDKN2A_damaging_to_TYMS,Avana,ACH-000980,Lung,matrix_intact,-2.5889558908619272
+CDKN2A_damaging_to_TYMS,Avana,ACH-000983,Myeloid,matrix_intact,-2.4448554831928204
+CDKN2A_damaging_to_TYMS,Avana,ACH-000984,Uterus,matrix_intact,-0.001695917968167468
+CDKN2A_damaging_to_TYMS,Avana,ACH-000986,Bowel,matrix_intact,-0.3796241729444191
+CDKN2A_damaging_to_TYMS,Avana,ACH-000988,Uterus,damaging,0.11015106255827592
+CDKN2A_damaging_to_TYMS,Avana,ACH-000993,Uterus,matrix_intact,0.2200238225327289
+CDKN2A_damaging_to_TYMS,Avana,ACH-000994,Uterus,matrix_intact,-1.4667631231797817
+CDKN2A_damaging_to_TYMS,Avana,ACH-000995,Lymphoid,matrix_intact,-0.8870009522479174
+CDKN2A_damaging_to_TYMS,Avana,ACH-000996,Uterus,matrix_intact,0.31786025881355007
+CDKN2A_damaging_to_TYMS,Avana,ACH-001001,Bone,matrix_intact,-3.774851798269487
+CDKN2A_damaging_to_TYMS,Avana,ACH-001020,CNS/Brain,matrix_intact,-0.20300917291614162
+CDKN2A_damaging_to_TYMS,Avana,ACH-001028,CNS/Brain,matrix_intact,0.43940996599734117
+CDKN2A_damaging_to_TYMS,Avana,ACH-001029,Bone,matrix_intact,0.21650727556554128
+CDKN2A_damaging_to_TYMS,Avana,ACH-001031,CNS/Brain,matrix_intact,-0.3183085967870821
+CDKN2A_damaging_to_TYMS,Avana,ACH-001033,CNS/Brain,matrix_intact,0.04133541116618736
+CDKN2A_damaging_to_TYMS,Avana,ACH-001036,Myeloid,matrix_intact,-0.6056340928874405
+CDKN2A_damaging_to_TYMS,Avana,ACH-001038,Bone,matrix_intact,-0.7398318110915372
+CDKN2A_damaging_to_TYMS,Avana,ACH-001041,Skin,matrix_intact,-1.3984041820616593
+CDKN2A_damaging_to_TYMS,Avana,ACH-001048,Ovary/Fallopian Tube,matrix_intact,0.2793441617107283
+CDKN2A_damaging_to_TYMS,Avana,ACH-001050,Soft Tissue,matrix_intact,-0.4892756568621426
+CDKN2A_damaging_to_TYMS,Avana,ACH-001053,CNS/Brain,matrix_intact,-1.0925192284378489
+CDKN2A_damaging_to_TYMS,Avana,ACH-001054,CNS/Brain,matrix_intact,-2.70002889925144
+CDKN2A_damaging_to_TYMS,Avana,ACH-001061,Bowel,matrix_intact,0.433794458514766
+CDKN2A_damaging_to_TYMS,Avana,ACH-001067,CNS/Brain,matrix_intact,0.14763751303118544
+CDKN2A_damaging_to_TYMS,Avana,ACH-001075,Lung,matrix_intact,-0.08544146048719452
+CDKN2A_damaging_to_TYMS,Avana,ACH-001096,Soft Tissue,damaging,-1.1488958698758744
+CDKN2A_damaging_to_TYMS,Avana,ACH-001098,Pancreas,damaging,-0.9487602532477948
+CDKN2A_damaging_to_TYMS,Avana,ACH-001099,Kidney,matrix_intact,-0.41564443022755493
+CDKN2A_damaging_to_TYMS,Avana,ACH-001119,Lymphoid,matrix_intact,0.04123281946349902
+CDKN2A_damaging_to_TYMS,Avana,ACH-001128,Kidney,matrix_intact,-0.40460381929890904
+CDKN2A_damaging_to_TYMS,Avana,ACH-001129,Myeloid,matrix_intact,-0.3108575373169194
+CDKN2A_damaging_to_TYMS,Avana,ACH-001134,Lymphoid,matrix_intact,-1.9051338270388338
+CDKN2A_damaging_to_TYMS,Avana,ACH-001145,Ovary/Fallopian Tube,matrix_intact,-0.08987470109650539
+CDKN2A_damaging_to_TYMS,Avana,ACH-001151,Ovary/Fallopian Tube,matrix_intact,-3.413298734214754
+CDKN2A_damaging_to_TYMS,Avana,ACH-001163,Kidney,matrix_intact,0.12284582932106805
+CDKN2A_damaging_to_TYMS,Avana,ACH-001164,Soft Tissue,matrix_intact,-0.36679195485281835
+CDKN2A_damaging_to_TYMS,Avana,ACH-001172,CNS/Brain,matrix_intact,0.17904966911119286
+CDKN2A_damaging_to_TYMS,Avana,ACH-001183,Bladder/Urinary Tract,matrix_intact,0.0922368809857073
+CDKN2A_damaging_to_TYMS,Avana,ACH-001184,Soft Tissue,matrix_intact,-2.1423505165791137
+CDKN2A_damaging_to_TYMS,Avana,ACH-001188,Peripheral Nervous System,matrix_intact,-0.975748572991491
+CDKN2A_damaging_to_TYMS,Avana,ACH-001190,Skin,matrix_intact,0.08927476856212825
+CDKN2A_damaging_to_TYMS,Avana,ACH-001192,Bone,matrix_intact,-1.635411062252642
+CDKN2A_damaging_to_TYMS,Avana,ACH-001193,Bone,matrix_intact,-0.09371638743524442
+CDKN2A_damaging_to_TYMS,Avana,ACH-001194,Kidney,matrix_intact,-0.04413203638865151
+CDKN2A_damaging_to_TYMS,Avana,ACH-001196,Soft Tissue,matrix_intact,-1.3949252562458865
+CDKN2A_damaging_to_TYMS,Avana,ACH-001197,Lymphoid,matrix_intact,-0.2585908656601035
+CDKN2A_damaging_to_TYMS,Avana,ACH-001205,Bone,matrix_intact,-0.5302915792204711
+CDKN2A_damaging_to_TYMS,Avana,ACH-001211,Kidney,matrix_intact,0.1820819315653877
+CDKN2A_damaging_to_TYMS,Avana,ACH-001212,Kidney,matrix_intact,-0.13609362076136883
+CDKN2A_damaging_to_TYMS,Avana,ACH-001228,Head and Neck,matrix_intact,-0.5953485178869924
+CDKN2A_damaging_to_TYMS,Avana,ACH-001229,Head and Neck,matrix_intact,0.021489508809517992
+CDKN2A_damaging_to_TYMS,Avana,ACH-001232,CNS/Brain,matrix_intact,0.004612089071685026
+CDKN2A_damaging_to_TYMS,Avana,ACH-001239,Skin,matrix_intact,-0.9660176658459303
+CDKN2A_damaging_to_TYMS,Avana,ACH-001270,Soft Tissue,matrix_intact,0.043364907445833496
+CDKN2A_damaging_to_TYMS,Avana,ACH-001274,Soft Tissue,matrix_intact,-1.114164716263423
+CDKN2A_damaging_to_TYMS,Avana,ACH-001275,Soft Tissue,matrix_intact,-1.0097625342810224
+CDKN2A_damaging_to_TYMS,Avana,ACH-001277,Soft Tissue,matrix_intact,-0.025860334424029165
+CDKN2A_damaging_to_TYMS,Avana,ACH-001278,Ovary/Fallopian Tube,matrix_intact,-0.09787005034700869
+CDKN2A_damaging_to_TYMS,Avana,ACH-001279,Ovary/Fallopian Tube,matrix_intact,-0.3355533703730714
+CDKN2A_damaging_to_TYMS,Avana,ACH-001280,Soft Tissue,matrix_intact,-0.04156273838090836
+CDKN2A_damaging_to_TYMS,Avana,ACH-001283,Bone,matrix_intact,-1.187386991281676
+CDKN2A_damaging_to_TYMS,Avana,ACH-001289,CNS/Brain,matrix_intact,0.14180647668410137
+CDKN2A_damaging_to_TYMS,Avana,ACH-001295,Eye,matrix_intact,-0.3269393323615071
+CDKN2A_damaging_to_TYMS,Avana,ACH-001300,Peripheral Nervous System,matrix_intact,-1.9519841942676335
+CDKN2A_damaging_to_TYMS,Avana,ACH-001301,Peripheral Nervous System,matrix_intact,-0.1499102387558727
+CDKN2A_damaging_to_TYMS,Avana,ACH-001302,Peripheral Nervous System,matrix_intact,-0.33503004651603957
+CDKN2A_damaging_to_TYMS,Avana,ACH-001303,Peripheral Nervous System,matrix_intact,-0.05363766670864447
+CDKN2A_damaging_to_TYMS,Avana,ACH-001306,Thyroid,matrix_intact,-0.04065151094812823
+CDKN2A_damaging_to_TYMS,Avana,ACH-001307,Thyroid,matrix_intact,0.402152499747777
+CDKN2A_damaging_to_TYMS,Avana,ACH-001310,Kidney,matrix_intact,0.43749780607935035
+CDKN2A_damaging_to_TYMS,Avana,ACH-001318,Liver,damaging,-0.4925253419971637
+CDKN2A_damaging_to_TYMS,Avana,ACH-001322,Soft Tissue,matrix_intact,-0.25209593665731855
+CDKN2A_damaging_to_TYMS,Avana,ACH-001328,Skin,matrix_intact,-2.611660064904164
+CDKN2A_damaging_to_TYMS,Avana,ACH-001329,CNS/Brain,matrix_intact,0.1017917174114106
+CDKN2A_damaging_to_TYMS,Avana,ACH-001333,Cervix,matrix_intact,-0.13167985776728847
+CDKN2A_damaging_to_TYMS,Avana,ACH-001334,Cervix,matrix_intact,-3.1646286590859973
+CDKN2A_damaging_to_TYMS,Avana,ACH-001335,Cervix,matrix_intact,-2.351490513003112
+CDKN2A_damaging_to_TYMS,Avana,ACH-001336,Cervix,matrix_intact,0.0889819274361629
+CDKN2A_damaging_to_TYMS,Avana,ACH-001338,Peripheral Nervous System,matrix_intact,-0.6228191800385883
+CDKN2A_damaging_to_TYMS,Avana,ACH-001340,Ovary/Fallopian Tube,matrix_intact,-0.03160834697677379
+CDKN2A_damaging_to_TYMS,Avana,ACH-001341,Cervix,matrix_intact,0.08163640757473187
+CDKN2A_damaging_to_TYMS,Avana,ACH-001344,Peripheral Nervous System,matrix_intact,-0.08898606543158398
+CDKN2A_damaging_to_TYMS,Avana,ACH-001345,Bowel,matrix_intact,-0.3430167361530465
+CDKN2A_damaging_to_TYMS,Avana,ACH-001346,Head and Neck,damaging,-1.0004511059884629
+CDKN2A_damaging_to_TYMS,Avana,ACH-001347,Head and Neck,damaging,-1.312379011378801
+CDKN2A_damaging_to_TYMS,Avana,ACH-001353,Pancreas,matrix_intact,-3.5651995072353264
+CDKN2A_damaging_to_TYMS,Avana,ACH-001354,Peripheral Nervous System,matrix_intact,0.2505756439033106
+CDKN2A_damaging_to_TYMS,Avana,ACH-001356,Thyroid,matrix_intact,-0.48309729369301285
+CDKN2A_damaging_to_TYMS,Avana,ACH-001360,Cervix,matrix_intact,0.3974813763357501
+CDKN2A_damaging_to_TYMS,Avana,ACH-001366,Peripheral Nervous System,matrix_intact,-1.8242703681755361
+CDKN2A_damaging_to_TYMS,Avana,ACH-001367,Peripheral Nervous System,matrix_intact,-0.43937768596673044
+CDKN2A_damaging_to_TYMS,Avana,ACH-001368,Esophagus/Stomach,matrix_intact,-0.03926277776954482
+CDKN2A_damaging_to_TYMS,Avana,ACH-001370,Ovary/Fallopian Tube,matrix_intact,0.2435847418098994
+CDKN2A_damaging_to_TYMS,Avana,ACH-001374,Ovary/Fallopian Tube,matrix_intact,0.062322735435392164
+CDKN2A_damaging_to_TYMS,Avana,ACH-001375,Pancreas,matrix_intact,-1.3697156928588328
+CDKN2A_damaging_to_TYMS,Avana,ACH-001377,Pancreas,damaging,0.341965646823958
+CDKN2A_damaging_to_TYMS,Avana,ACH-001379,Pancreas,matrix_intact,-2.0497751119769245
+CDKN2A_damaging_to_TYMS,Avana,ACH-001380,Pancreas,matrix_intact,-1.1074573929895162
+CDKN2A_damaging_to_TYMS,Avana,ACH-001382,Pancreas,damaging,-0.1487905555419045
+CDKN2A_damaging_to_TYMS,Avana,ACH-001385,Head and Neck,matrix_intact,-0.3562497343498175
+CDKN2A_damaging_to_TYMS,Avana,ACH-001386,Lung,matrix_intact,0.19276864874222496
+CDKN2A_damaging_to_TYMS,Avana,ACH-001388,Breast,matrix_intact,0.24457215017747122
+CDKN2A_damaging_to_TYMS,Avana,ACH-001389,Breast,matrix_intact,0.41204654358055404
+CDKN2A_damaging_to_TYMS,Avana,ACH-001390,Breast,matrix_intact,-3.0951053527034578
+CDKN2A_damaging_to_TYMS,Avana,ACH-001391,Breast,matrix_intact,-1.7686089877065259
+CDKN2A_damaging_to_TYMS,Avana,ACH-001392,Breast,matrix_intact,0.09738149550861136
+CDKN2A_damaging_to_TYMS,Avana,ACH-001393,Breast,matrix_intact,-1.629783126402176
+CDKN2A_damaging_to_TYMS,Avana,ACH-001394,Breast,matrix_intact,-3.983343714919807
+CDKN2A_damaging_to_TYMS,Avana,ACH-001396,Breast,damaging,-0.9156588443051358
+CDKN2A_damaging_to_TYMS,Avana,ACH-001398,Kidney,matrix_intact,0.06050496402485847
+CDKN2A_damaging_to_TYMS,Avana,ACH-001400,Vulva/Vagina,matrix_intact,-0.4379067527634204
+CDKN2A_damaging_to_TYMS,Avana,ACH-001402,Cervix,matrix_intact,-0.11665907449965826
+CDKN2A_damaging_to_TYMS,Avana,ACH-001403,Ovary/Fallopian Tube,matrix_intact,0.062049132027662074
+CDKN2A_damaging_to_TYMS,Avana,ACH-001407,Bladder/Urinary Tract,matrix_intact,-2.0351805021712477
+CDKN2A_damaging_to_TYMS,Avana,ACH-001408,Bladder/Urinary Tract,matrix_intact,-1.4977486155555617
+CDKN2A_damaging_to_TYMS,Avana,ACH-001409,Bladder/Urinary Tract,matrix_intact,0.07994276423337517
+CDKN2A_damaging_to_TYMS,Avana,ACH-001411,Bladder/Urinary Tract,matrix_intact,0.01426898041850004
+CDKN2A_damaging_to_TYMS,Avana,ACH-001412,Bladder/Urinary Tract,matrix_intact,0.15028294309791673
+CDKN2A_damaging_to_TYMS,Avana,ACH-001413,Bladder/Urinary Tract,matrix_intact,-0.5327326610796499
+CDKN2A_damaging_to_TYMS,Avana,ACH-001414,Bladder/Urinary Tract,matrix_intact,0.5188573362499715
+CDKN2A_damaging_to_TYMS,Avana,ACH-001415,Bladder/Urinary Tract,matrix_intact,0.08435125675809012
+CDKN2A_damaging_to_TYMS,Avana,ACH-001416,Bladder/Urinary Tract,damaging,-0.1518603871635565
+CDKN2A_damaging_to_TYMS,Avana,ACH-001418,Ovary/Fallopian Tube,matrix_intact,0.27439142569825525
+CDKN2A_damaging_to_TYMS,Avana,ACH-001419,Breast,matrix_intact,0.2424524713299899
+CDKN2A_damaging_to_TYMS,Avana,ACH-001421,Eye,matrix_intact,-0.3798129497914022
+CDKN2A_damaging_to_TYMS,Avana,ACH-001422,Prostate,matrix_intact,-0.1630282063212784
+CDKN2A_damaging_to_TYMS,Avana,ACH-001430,Bone,matrix_intact,-0.2506320579877653
+CDKN2A_damaging_to_TYMS,Avana,ACH-001431,Bone,matrix_intact,-1.0344963333246917
+CDKN2A_damaging_to_TYMS,Avana,ACH-001433,Soft Tissue,matrix_intact,-0.4361673552416243
+CDKN2A_damaging_to_TYMS,Avana,ACH-001442,Skin,matrix_intact,-0.8339001253162266
+CDKN2A_damaging_to_TYMS,Avana,ACH-001443,Thyroid,matrix_intact,0.11496061431136076
+CDKN2A_damaging_to_TYMS,Avana,ACH-001450,Lymphoid,matrix_intact,0.49035060689604115
+CDKN2A_damaging_to_TYMS,Avana,ACH-001451,Cervix,matrix_intact,0.19911855437651219
+CDKN2A_damaging_to_TYMS,Avana,ACH-001453,Prostate,matrix_intact,0.4880159626560166
+CDKN2A_damaging_to_TYMS,Avana,ACH-001454,Bowel,matrix_intact,-0.33849697691752423
+CDKN2A_damaging_to_TYMS,Avana,ACH-001458,Bowel,matrix_intact,-1.3183177982593963
+CDKN2A_damaging_to_TYMS,Avana,ACH-001459,Bowel,matrix_intact,-0.7600287013638014
+CDKN2A_damaging_to_TYMS,Avana,ACH-001460,Bowel,matrix_intact,-6.421107115870084
+CDKN2A_damaging_to_TYMS,Avana,ACH-001461,Bowel,matrix_intact,0.02351486176302007
+CDKN2A_damaging_to_TYMS,Avana,ACH-001481,Peripheral Nervous System,matrix_intact,0.15290511692215875
+CDKN2A_damaging_to_TYMS,Avana,ACH-001494,Biliary Tract,matrix_intact,-0.029377573717061206
+CDKN2A_damaging_to_TYMS,Avana,ACH-001495,Uterus,matrix_intact,0.733580204774788
+CDKN2A_damaging_to_TYMS,Avana,ACH-001496,Esophagus/Stomach,matrix_intact,-0.1737003218568253
+CDKN2A_damaging_to_TYMS,Avana,ACH-001497,Esophagus/Stomach,damaging,-1.547576851096442
+CDKN2A_damaging_to_TYMS,Avana,ACH-001498,Lymphoid,damaging,-0.4666300520014318
+CDKN2A_damaging_to_TYMS,Avana,ACH-001500,Esophagus/Stomach,matrix_intact,-0.8036597699475826
+CDKN2A_damaging_to_TYMS,Avana,ACH-001509,Head and Neck,damaging,-0.6002436436910409
+CDKN2A_damaging_to_TYMS,Avana,ACH-001510,Head and Neck,matrix_intact,0.11762302779276228
+CDKN2A_damaging_to_TYMS,Avana,ACH-001511,Head and Neck,matrix_intact,0.05769375097225182
+CDKN2A_damaging_to_TYMS,Avana,ACH-001513,Cervix,matrix_intact,-1.6658888076489173
+CDKN2A_damaging_to_TYMS,Avana,ACH-001515,Cervix,matrix_intact,-2.4655858385194707
+CDKN2A_damaging_to_TYMS,Avana,ACH-001517,Uterus,matrix_intact,0.06798965526238246
+CDKN2A_damaging_to_TYMS,Avana,ACH-001518,Uterus,matrix_intact,0.12702957201873494
+CDKN2A_damaging_to_TYMS,Avana,ACH-001520,Lymphoid,matrix_intact,-3.3267976475003436
+CDKN2A_damaging_to_TYMS,Avana,ACH-001521,Skin,damaging,-0.034662262380782835
+CDKN2A_damaging_to_TYMS,Avana,ACH-001522,Skin,matrix_intact,-1.3632481549347468
+CDKN2A_damaging_to_TYMS,Avana,ACH-001523,Skin,damaging,-2.3825043824860384
+CDKN2A_damaging_to_TYMS,Avana,ACH-001524,Skin,damaging,0.2608022431727832
+CDKN2A_damaging_to_TYMS,Avana,ACH-001525,Cervix,matrix_intact,-1.8738907553851414
+CDKN2A_damaging_to_TYMS,Avana,ACH-001526,Bone,matrix_intact,0.0993196454233539
+CDKN2A_damaging_to_TYMS,Avana,ACH-001528,Thyroid,matrix_intact,-1.962129326784757
+CDKN2A_damaging_to_TYMS,Avana,ACH-001529,Uterus,matrix_intact,-0.10928400034663184
+CDKN2A_damaging_to_TYMS,Avana,ACH-001530,Uterus,matrix_intact,-0.19182228170502225
+CDKN2A_damaging_to_TYMS,Avana,ACH-001532,Kidney,matrix_intact,0.32824703931624244
+CDKN2A_damaging_to_TYMS,Avana,ACH-001533,Lymphoid,matrix_intact,-0.5582807947989558
+CDKN2A_damaging_to_TYMS,Avana,ACH-001536,Biliary Tract,matrix_intact,-0.3840091227479601
+CDKN2A_damaging_to_TYMS,Avana,ACH-001538,Biliary Tract,matrix_intact,0.22090233961745878
+CDKN2A_damaging_to_TYMS,Avana,ACH-001539,Lymphoid,matrix_intact,-0.533932365345418
+CDKN2A_damaging_to_TYMS,Avana,ACH-001542,Head and Neck,matrix_intact,-3.141422907200932
+CDKN2A_damaging_to_TYMS,Avana,ACH-001543,Head and Neck,damaging,-0.5799990202180982
+CDKN2A_damaging_to_TYMS,Avana,ACH-001547,Pleura,matrix_intact,0.36057174425030697
+CDKN2A_damaging_to_TYMS,Avana,ACH-001548,Peripheral Nervous System,matrix_intact,0.18901393591981014
+CDKN2A_damaging_to_TYMS,Avana,ACH-001549,Lung,matrix_intact,-0.09603706108034603
+CDKN2A_damaging_to_TYMS,Avana,ACH-001550,Skin,matrix_intact,0.14279246870189066
+CDKN2A_damaging_to_TYMS,Avana,ACH-001551,Skin,matrix_intact,-0.1968968987618679
+CDKN2A_damaging_to_TYMS,Avana,ACH-001552,Skin,matrix_intact,0.09171907291240301
+CDKN2A_damaging_to_TYMS,Avana,ACH-001554,Eye,damaging,-1.0760180556927295
+CDKN2A_damaging_to_TYMS,Avana,ACH-001555,Pleura,matrix_intact,0.4188604685806253
+CDKN2A_damaging_to_TYMS,Avana,ACH-001556,Pleura,matrix_intact,0.2192931869951261
+CDKN2A_damaging_to_TYMS,Avana,ACH-001557,Pleura,matrix_intact,0.1733389406558336
+CDKN2A_damaging_to_TYMS,Avana,ACH-001558,Pleura,matrix_intact,0.3066003870393509
+CDKN2A_damaging_to_TYMS,Avana,ACH-001559,Pleura,matrix_intact,0.5346375802935971
+CDKN2A_damaging_to_TYMS,Avana,ACH-001560,Pleura,matrix_intact,0.06739783292520501
+CDKN2A_damaging_to_TYMS,Avana,ACH-001562,Pleura,matrix_intact,0.2789397655094882
+CDKN2A_damaging_to_TYMS,Avana,ACH-001563,Skin,damaging,-0.7031086265126891
+CDKN2A_damaging_to_TYMS,Avana,ACH-001566,Skin,matrix_intact,-1.775174015974243
+CDKN2A_damaging_to_TYMS,Avana,ACH-001567,Skin,matrix_intact,-1.1130085918373036
+CDKN2A_damaging_to_TYMS,Avana,ACH-001568,Skin,matrix_intact,0.0643793440530059
+CDKN2A_damaging_to_TYMS,Avana,ACH-001570,Skin,damaging,-1.1121411198643574
+CDKN2A_damaging_to_TYMS,Avana,ACH-001574,Myeloid,matrix_intact,-2.3140680203603656
+CDKN2A_damaging_to_TYMS,Avana,ACH-001577,Myeloid,matrix_intact,0.3625613153034272
+CDKN2A_damaging_to_TYMS,Avana,ACH-001607,Biliary Tract,damaging,0.2993841852975656
+CDKN2A_damaging_to_TYMS,Avana,ACH-001608,CNS/Brain,matrix_intact,0.3307360645534434
+CDKN2A_damaging_to_TYMS,Avana,ACH-001609,CNS/Brain,matrix_intact,0.183165284089458
+CDKN2A_damaging_to_TYMS,Avana,ACH-001610,CNS/Brain,matrix_intact,0.3065401759255594
+CDKN2A_damaging_to_TYMS,Avana,ACH-001611,CNS/Brain,damaging,-1.1513673757621001
+CDKN2A_damaging_to_TYMS,Avana,ACH-001616,Lymphoid,damaging,-4.02601911611947
+CDKN2A_damaging_to_TYMS,Avana,ACH-001618,Myeloid,matrix_intact,-0.9688726655668449
+CDKN2A_damaging_to_TYMS,Avana,ACH-001619,Biliary Tract,matrix_intact,-0.13364238553595925
+CDKN2A_damaging_to_TYMS,Avana,ACH-001622,CNS/Brain,matrix_intact,-0.09104245305554573
+CDKN2A_damaging_to_TYMS,Avana,ACH-001623,CNS/Brain,matrix_intact,-0.06658020270341021
+CDKN2A_damaging_to_TYMS,Avana,ACH-001624,CNS/Brain,matrix_intact,-0.6164873554132071
+CDKN2A_damaging_to_TYMS,Avana,ACH-001627,Prostate,matrix_intact,-0.7569720010124574
+CDKN2A_damaging_to_TYMS,Avana,ACH-001628,Ovary/Fallopian Tube,damaging,-0.23694016484916205
+CDKN2A_damaging_to_TYMS,Avana,ACH-001630,Ovary/Fallopian Tube,matrix_intact,-0.5090186395193559
+CDKN2A_damaging_to_TYMS,Avana,ACH-001634,Lymphoid,matrix_intact,-1.5113972380548066
+CDKN2A_damaging_to_TYMS,Avana,ACH-001641,Head and Neck,matrix_intact,-0.2631115725333108
+CDKN2A_damaging_to_TYMS,Avana,ACH-001645,Skin,matrix_intact,0.11229633213499832
+CDKN2A_damaging_to_TYMS,Avana,ACH-001647,Myeloid,matrix_intact,-0.578200721246608
+CDKN2A_damaging_to_TYMS,Avana,ACH-001648,Prostate,matrix_intact,-1.1850027939570382
+CDKN2A_damaging_to_TYMS,Avana,ACH-001649,Prostate,matrix_intact,-1.7796904643911478
+CDKN2A_damaging_to_TYMS,Avana,ACH-001650,Cervix,matrix_intact,-1.5645310108814532
+CDKN2A_damaging_to_TYMS,Avana,ACH-001651,Cervix,matrix_intact,-0.024699500291785803
+CDKN2A_damaging_to_TYMS,Avana,ACH-001652,Cervix,matrix_intact,0.048068094842872465
+CDKN2A_damaging_to_TYMS,Avana,ACH-001653,Esophagus/Stomach,matrix_intact,0.23290831979654536
+CDKN2A_damaging_to_TYMS,Avana,ACH-001654,Esophagus/Stomach,matrix_intact,-0.22320556304805547
+CDKN2A_damaging_to_TYMS,Avana,ACH-001655,Uterus,matrix_intact,-0.007714564174261973
+CDKN2A_damaging_to_TYMS,Avana,ACH-001656,Myeloid,matrix_intact,-0.9919126843970347
+CDKN2A_damaging_to_TYMS,Avana,ACH-001664,Esophagus/Stomach,matrix_intact,-4.146307608422222
+CDKN2A_damaging_to_TYMS,Avana,ACH-001668,Testis,matrix_intact,0.2868368590158887
+CDKN2A_damaging_to_TYMS,Avana,ACH-001669,Lymphoid,matrix_intact,-1.6499741813375053
+CDKN2A_damaging_to_TYMS,Avana,ACH-001670,CNS/Brain,matrix_intact,-0.9142767392188
+CDKN2A_damaging_to_TYMS,Avana,ACH-001673,Biliary Tract,matrix_intact,-4.3666070808240125
+CDKN2A_damaging_to_TYMS,Avana,ACH-001674,Peripheral Nervous System,matrix_intact,-0.016665390702487348
+CDKN2A_damaging_to_TYMS,Avana,ACH-001675,Head and Neck,damaging,-0.2602816330381157
+CDKN2A_damaging_to_TYMS,Avana,ACH-001677,Lymphoid,matrix_intact,-0.47387702729942227
+CDKN2A_damaging_to_TYMS,Avana,ACH-001685,Lymphoid,matrix_intact,-0.011757556136349746
+CDKN2A_damaging_to_TYMS,Avana,ACH-001687,Kidney,matrix_intact,0.3787003277779828
+CDKN2A_damaging_to_TYMS,Avana,ACH-001688,Kidney,matrix_intact,0.19376979672018632
+CDKN2A_damaging_to_TYMS,Avana,ACH-001690,Head and Neck,damaging,-3.945399016475823
+CDKN2A_damaging_to_TYMS,Avana,ACH-001691,Head and Neck,matrix_intact,-0.6388308683690296
+CDKN2A_damaging_to_TYMS,Avana,ACH-001692,Head and Neck,damaging,-2.1025726067274664
+CDKN2A_damaging_to_TYMS,Avana,ACH-001694,Head and Neck,matrix_intact,-2.127957487680804
+CDKN2A_damaging_to_TYMS,Avana,ACH-001696,Head and Neck,damaging,-0.5346901969855734
+CDKN2A_damaging_to_TYMS,Avana,ACH-001698,Head and Neck,matrix_intact,-1.5080200847962488
+CDKN2A_damaging_to_TYMS,Avana,ACH-001699,Head and Neck,matrix_intact,0.513736742994781
+CDKN2A_damaging_to_TYMS,Avana,ACH-001701,Head and Neck,matrix_intact,0.17421286332542607
+CDKN2A_damaging_to_TYMS,Avana,ACH-001702,Soft Tissue,matrix_intact,0.1422497149011855
+CDKN2A_damaging_to_TYMS,Avana,ACH-001707,Lymphoid,matrix_intact,-1.4083732855335367
+CDKN2A_damaging_to_TYMS,Avana,ACH-001709,Lymphoid,matrix_intact,-0.050318041338427225
+CDKN2A_damaging_to_TYMS,Avana,ACH-001711,CNS/Brain,matrix_intact,-0.23039072674658287
+CDKN2A_damaging_to_TYMS,Avana,ACH-001715,Bone,matrix_intact,0.07651124731699702
+CDKN2A_damaging_to_TYMS,Avana,ACH-001719,Ovary/Fallopian Tube,matrix_intact,0.20267801860019313
+CDKN2A_damaging_to_TYMS,Avana,ACH-001735,Lymphoid,damaging,-2.8414212339221163
+CDKN2A_damaging_to_TYMS,Avana,ACH-001736,Lymphoid,damaging,-2.012153117018565
+CDKN2A_damaging_to_TYMS,Avana,ACH-001737,Lymphoid,matrix_intact,-0.46204211193644795
+CDKN2A_damaging_to_TYMS,Avana,ACH-001740,Soft Tissue,damaging,-1.2456250524948385
+CDKN2A_damaging_to_TYMS,Avana,ACH-001745,Soft Tissue,matrix_intact,-1.6458968768833264
+CDKN2A_damaging_to_TYMS,Avana,ACH-001750,Soft Tissue,matrix_intact,-0.27489019176038865
+CDKN2A_damaging_to_TYMS,Avana,ACH-001765,Soft Tissue,matrix_intact,-1.7030440834840723
+CDKN2A_damaging_to_TYMS,Avana,ACH-001786,Bowel,matrix_intact,-1.3012252497290602
+CDKN2A_damaging_to_TYMS,Avana,ACH-001791,Soft Tissue,matrix_intact,0.3435999099428363
+CDKN2A_damaging_to_TYMS,Avana,ACH-001793,Soft Tissue,matrix_intact,0.30502932244362757
+CDKN2A_damaging_to_TYMS,Avana,ACH-001794,Soft Tissue,matrix_intact,-3.318708544993762
+CDKN2A_damaging_to_TYMS,Avana,ACH-001795,Soft Tissue,matrix_intact,-0.6954155731666365
+CDKN2A_damaging_to_TYMS,Avana,ACH-001796,Soft Tissue,matrix_intact,-0.040323026959552706
+CDKN2A_damaging_to_TYMS,Avana,ACH-001799,Soft Tissue,matrix_intact,-0.6653121943085933
+CDKN2A_damaging_to_TYMS,Avana,ACH-001802,Soft Tissue,matrix_intact,0.2991121552488267
+CDKN2A_damaging_to_TYMS,Avana,ACH-001804,Soft Tissue,matrix_intact,0.2499435071095144
+CDKN2A_damaging_to_TYMS,Avana,ACH-001814,Bone,matrix_intact,0.07630950937873632
+CDKN2A_damaging_to_TYMS,Avana,ACH-001819,Breast,matrix_intact,0.2740865675271129
+CDKN2A_damaging_to_TYMS,Avana,ACH-001820,Breast,matrix_intact,0.0345828781613818
+CDKN2A_damaging_to_TYMS,Avana,ACH-001834,Biliary Tract,matrix_intact,-5.455719306740549
+CDKN2A_damaging_to_TYMS,Avana,ACH-001835,Biliary Tract,matrix_intact,-3.3011465779427054
+CDKN2A_damaging_to_TYMS,Avana,ACH-001836,Biliary Tract,matrix_intact,-3.587175058976946
+CDKN2A_damaging_to_TYMS,Avana,ACH-001838,Biliary Tract,matrix_intact,-0.14851542417813465
+CDKN2A_damaging_to_TYMS,Avana,ACH-001839,Biliary Tract,matrix_intact,-2.957087008632674
+CDKN2A_damaging_to_TYMS,Avana,ACH-001841,Biliary Tract,damaging,-2.368574882161996
+CDKN2A_damaging_to_TYMS,Avana,ACH-001842,Biliary Tract,matrix_intact,0.08840559725258758
+CDKN2A_damaging_to_TYMS,Avana,ACH-001843,Biliary Tract,matrix_intact,-0.5243695939938486
+CDKN2A_damaging_to_TYMS,Avana,ACH-001844,Biliary Tract,matrix_intact,-0.7124383390057316
+CDKN2A_damaging_to_TYMS,Avana,ACH-001848,Biliary Tract,matrix_intact,-3.9360997595732865
+CDKN2A_damaging_to_TYMS,Avana,ACH-001849,Biliary Tract,matrix_intact,0.42285989617669895
+CDKN2A_damaging_to_TYMS,Avana,ACH-001850,Biliary Tract,matrix_intact,-0.8511220477984498
+CDKN2A_damaging_to_TYMS,Avana,ACH-001852,Biliary Tract,matrix_intact,0.21050303325882203
+CDKN2A_damaging_to_TYMS,Avana,ACH-001853,Liver,matrix_intact,0.3857049180693326
+CDKN2A_damaging_to_TYMS,Avana,ACH-001856,Biliary Tract,matrix_intact,0.20195152463010568
+CDKN2A_damaging_to_TYMS,Avana,ACH-001857,Biliary Tract,matrix_intact,0.06403214477168015
+CDKN2A_damaging_to_TYMS,Avana,ACH-001858,Biliary Tract,matrix_intact,-3.7820818553165028
+CDKN2A_damaging_to_TYMS,Avana,ACH-001861,Biliary Tract,matrix_intact,0.35734270483093944
+CDKN2A_damaging_to_TYMS,Avana,ACH-001862,Ampulla of Vater,damaging,-2.5277444704097256
+CDKN2A_damaging_to_TYMS,Avana,ACH-001863,Biliary Tract,matrix_intact,-0.26294336034603905
+CDKN2A_damaging_to_TYMS,Avana,ACH-001864,Biliary Tract,matrix_intact,-1.053350559572853
+CDKN2A_damaging_to_TYMS,Avana,ACH-001959,Biliary Tract,matrix_intact,0.17559343108033723
+CDKN2A_damaging_to_TYMS,Avana,ACH-001960,Biliary Tract,matrix_intact,0.2044441144852982
+CDKN2A_damaging_to_TYMS,Avana,ACH-001961,Biliary Tract,matrix_intact,-4.652304390913062
+CDKN2A_damaging_to_TYMS,Avana,ACH-001970,Skin,matrix_intact,0.031550349532288344
+CDKN2A_damaging_to_TYMS,Avana,ACH-001973,Skin,damaging,-0.2945186756981967
+CDKN2A_damaging_to_TYMS,Avana,ACH-001977,Pleura,matrix_intact,-1.1868744681622263
+CDKN2A_damaging_to_TYMS,Avana,ACH-001982,Skin,matrix_intact,0.35915544999626325
+CDKN2A_damaging_to_TYMS,Avana,ACH-001986,Skin,damaging,0.19180716984697105
+CDKN2A_damaging_to_TYMS,Avana,ACH-001990,Skin,matrix_intact,0.20243751469566457
+CDKN2A_damaging_to_TYMS,Avana,ACH-001991,Ovary/Fallopian Tube,matrix_intact,0.24553193669702417
+CDKN2A_damaging_to_TYMS,Avana,ACH-001992,Pleura,matrix_intact,0.041933959813317975
+CDKN2A_damaging_to_TYMS,Avana,ACH-001993,Lymphoid,matrix_intact,-1.119774281930499
+CDKN2A_damaging_to_TYMS,Avana,ACH-001997,Biliary Tract,matrix_intact,0.4008979921130011
+CDKN2A_damaging_to_TYMS,Avana,ACH-001999,Pancreas,damaging,-2.7679424508409096
+CDKN2A_damaging_to_TYMS,Avana,ACH-002001,Skin,damaging,-0.4554736249964525
+CDKN2A_damaging_to_TYMS,Avana,ACH-002002,Skin,damaging,-3.6599986509079754
+CDKN2A_damaging_to_TYMS,Avana,ACH-002003,Skin,damaging,-0.9776209187280556
+CDKN2A_damaging_to_TYMS,Avana,ACH-002005,Skin,damaging,0.18238351022826915
+CDKN2A_damaging_to_TYMS,Avana,ACH-002014,Eye,matrix_intact,-0.34459174111318835
+CDKN2A_damaging_to_TYMS,Avana,ACH-002015,Eye,matrix_intact,0.1897178922727879
+CDKN2A_damaging_to_TYMS,Avana,ACH-002016,Eye,matrix_intact,-0.13166073790427374
+CDKN2A_damaging_to_TYMS,Avana,ACH-002018,Eye,matrix_intact,-0.44118195163657237
+CDKN2A_damaging_to_TYMS,Avana,ACH-002019,Cervix,matrix_intact,-0.01411428195117595
+CDKN2A_damaging_to_TYMS,Avana,ACH-002020,Cervix,matrix_intact,-1.5703532478287787
+CDKN2A_damaging_to_TYMS,Avana,ACH-002021,Uterus,matrix_intact,0.1399443802444287
+CDKN2A_damaging_to_TYMS,Avana,ACH-002023,Ampulla of Vater,damaging,-3.953752715719735
+CDKN2A_damaging_to_TYMS,Avana,ACH-002024,Bowel,matrix_intact,-0.06461925714981508
+CDKN2A_damaging_to_TYMS,Avana,ACH-002025,Bowel,matrix_intact,-2.64231605013421
+CDKN2A_damaging_to_TYMS,Avana,ACH-002026,Uterus,matrix_intact,-1.3002751297545299
+CDKN2A_damaging_to_TYMS,Avana,ACH-002027,Uterus,matrix_intact,0.3476482078666195
+CDKN2A_damaging_to_TYMS,Avana,ACH-002029,Head and Neck,matrix_intact,-2.3216599874059285
+CDKN2A_damaging_to_TYMS,Avana,ACH-002030,Head and Neck,damaging,-0.7553195781154999
+CDKN2A_damaging_to_TYMS,Avana,ACH-002035,Lung,damaging,-0.49733203534147474
+CDKN2A_damaging_to_TYMS,Avana,ACH-002039,Pancreas,matrix_intact,0.19990065654362982
+CDKN2A_damaging_to_TYMS,Avana,ACH-002040,Vulva/Vagina,matrix_intact,0.29904724419304474
+CDKN2A_damaging_to_TYMS,Avana,ACH-002041,Thyroid,matrix_intact,0.22879275848127995
+CDKN2A_damaging_to_TYMS,Avana,ACH-002042,Head and Neck,matrix_intact,0.15887289737982258
+CDKN2A_damaging_to_TYMS,Avana,ACH-002043,Head and Neck,matrix_intact,0.12396285964511934
+CDKN2A_damaging_to_TYMS,Avana,ACH-002044,Head and Neck,matrix_intact,-2.1457569333112523
+CDKN2A_damaging_to_TYMS,Avana,ACH-002045,Head and Neck,matrix_intact,-0.47845658049571493
+CDKN2A_damaging_to_TYMS,Avana,ACH-002046,Uterus,matrix_intact,0.2551613585522828
+CDKN2A_damaging_to_TYMS,Avana,ACH-002048,Soft Tissue,matrix_intact,-1.4876528924972416
+CDKN2A_damaging_to_TYMS,Avana,ACH-002051,Lung,matrix_intact,0.3015958546044395
+CDKN2A_damaging_to_TYMS,Avana,ACH-002059,Lymphoid,matrix_intact,-0.8080470967667588
+CDKN2A_damaging_to_TYMS,Avana,ACH-002061,Myeloid,matrix_intact,-3.331472615060406
+CDKN2A_damaging_to_TYMS,Avana,ACH-002062,Lymphoid,matrix_intact,-0.5011858401800974
+CDKN2A_damaging_to_TYMS,Avana,ACH-002066,Peripheral Nervous System,matrix_intact,-1.948454495139325
+CDKN2A_damaging_to_TYMS,Avana,ACH-002067,Bone,matrix_intact,-0.21447867166453566
+CDKN2A_damaging_to_TYMS,Avana,ACH-002069,Bone,matrix_intact,0.25068805875373557
+CDKN2A_damaging_to_TYMS,Avana,ACH-002070,CNS/Brain,matrix_intact,-1.6225493911138438
+CDKN2A_damaging_to_TYMS,Avana,ACH-002077,Lung,matrix_intact,0.06695143421039959
+CDKN2A_damaging_to_TYMS,Avana,ACH-002080,Peripheral Nervous System,matrix_intact,-0.6101711070210285
+CDKN2A_damaging_to_TYMS,Avana,ACH-002084,Skin,matrix_intact,0.24590312310682977
+CDKN2A_damaging_to_TYMS,Avana,ACH-002214,Lymphoid,matrix_intact,0.2449008402220629
+CDKN2A_damaging_to_TYMS,Avana,ACH-002215,Lymphoid,matrix_intact,-0.5854930448725142
+CDKN2A_damaging_to_TYMS,Avana,ACH-002291,Testis,matrix_intact,0.2944489712632113
+CDKN2A_damaging_to_TYMS,Avana,ACH-002399,Breast,matrix_intact,-2.9607519045359454
+CDKN2A_damaging_to_TYMS,Avana,ACH-002446,Esophagus/Stomach,matrix_intact,-3.119466875433951
+CDKN2A_damaging_to_TYMS,Avana,ACH-002458,Skin,matrix_intact,0.11273951802188001
+CDKN2A_damaging_to_TYMS,Avana,ACH-002459,Skin,matrix_intact,-0.16496858162371497
+CDKN2A_damaging_to_TYMS,Avana,ACH-002460,Skin,matrix_intact,-0.5208965255344529
+CDKN2A_damaging_to_TYMS,Avana,ACH-002461,Skin,matrix_intact,0.10542372331012434
+CDKN2A_damaging_to_TYMS,Avana,ACH-002462,Eye,damaging,0.03571901642928665
+CDKN2A_damaging_to_TYMS,Avana,ACH-002463,Eye,damaging,0.45028437307535196
+CDKN2A_damaging_to_TYMS,Avana,ACH-002464,Eye,damaging,0.33438088819965417
+CDKN2A_damaging_to_TYMS,Avana,ACH-002465,Eye,damaging,0.17291432293583314
+CDKN2A_damaging_to_TYMS,Avana,ACH-002467,Eye,damaging,0.6392163492683318
+CDKN2A_damaging_to_TYMS,Avana,ACH-002471,Bone,matrix_intact,-0.035707941031843014
+CDKN2A_damaging_to_TYMS,Avana,ACH-002478,Lymphoid,matrix_intact,-1.504316520445549
+CDKN2A_damaging_to_TYMS,Avana,ACH-002485,Lymphoid,matrix_intact,-1.3514122894764244
+CDKN2A_damaging_to_TYMS,Avana,ACH-002486,Ovary/Fallopian Tube,matrix_intact,0.18137339097239608
+CDKN2A_damaging_to_TYMS,Avana,ACH-002508,Skin,damaging,-1.9969899102331383
+CDKN2A_damaging_to_TYMS,Avana,ACH-002510,Skin,matrix_intact,-1.21388224413058
+CDKN2A_damaging_to_TYMS,Avana,ACH-002511,Skin,matrix_intact,-0.20463620715318465
+CDKN2A_damaging_to_TYMS,Avana,ACH-002512,Skin,matrix_intact,0.07108823165925976
+CDKN2A_damaging_to_TYMS,Avana,ACH-002522,Lung,matrix_intact,-0.1647141624540879
+CDKN2A_damaging_to_TYMS,Avana,ACH-002523,Liver,matrix_intact,0.3446654571195754
+CDKN2A_damaging_to_TYMS,Avana,ACH-002524,Ovary/Fallopian Tube,matrix_intact,-0.08234914152693741
+CDKN2A_damaging_to_TYMS,Avana,ACH-002526,Lung,matrix_intact,-2.4084298188531994
+CDKN2A_damaging_to_TYMS,Avana,ACH-002531,Lung,matrix_intact,-1.4319730038696425
+CDKN2A_damaging_to_TYMS,Avana,ACH-002533,Kidney,matrix_intact,-3.0246451629405966
+CDKN2A_damaging_to_TYMS,Avana,ACH-002535,Bowel,matrix_intact,0.42196877948220946
+CDKN2A_damaging_to_TYMS,Avana,ACH-002647,Biliary Tract,matrix_intact,0.1513228668890259
+CDKN2A_damaging_to_TYMS,Avana,ACH-002650,Lung,matrix_intact,0.03351936641627699
+CDKN2A_damaging_to_TYMS,Avana,ACH-002654,Bowel,matrix_intact,-0.47611808963631175
+CDKN2A_damaging_to_TYMS,Avana,ACH-002659,Bowel,matrix_intact,-2.1824082552370343
+CDKN2A_damaging_to_TYMS,Avana,ACH-002664,Bowel,matrix_intact,0.23878629976032303
+CDKN2A_damaging_to_TYMS,Avana,ACH-002669,Bowel,matrix_intact,-0.11826564258400964
+CDKN2A_damaging_to_TYMS,Avana,ACH-002672,Pancreas,damaging,-1.8240228972515524
+CDKN2A_damaging_to_TYMS,Avana,ACH-002680,CNS/Brain,matrix_intact,-1.3825782340914508
+CDKN2A_damaging_to_TYMS,Avana,ACH-002687,Eye,matrix_intact,-0.14876517708434633
+CDKN2A_damaging_to_TYMS,Avana,ACH-002693,Peripheral Nervous System,matrix_intact,0.23666623863759423
+CDKN2A_damaging_to_TYMS,Avana,ACH-002710,Peripheral Nervous System,matrix_intact,-0.23840386151787868
+CDKN2A_damaging_to_TYMS,Avana,ACH-002785,Soft Tissue,matrix_intact,0.33453676534450605
+CDKN2A_damaging_to_TYMS,Avana,ACH-002799,Peripheral Nervous System,matrix_intact,0.13596160660222714
+CDKN2A_damaging_to_TYMS,Avana,ACH-002800,Peripheral Nervous System,matrix_intact,0.02426081746802214
+CDKN2A_damaging_to_TYMS,Avana,ACH-002834,Bone,matrix_intact,-0.09185290568157314
+CDKN2A_damaging_to_TYMS,Avana,ACH-002847,Skin,matrix_intact,-1.9226697581144945
+CDKN2A_damaging_to_TYMS,Avana,ACH-002922,Peripheral Nervous System,matrix_intact,-2.014313032602912
+CDKN2A_damaging_to_TYMS,Avana,ACH-002925,Eye,matrix_intact,0.1792657865390915
+CDKN2A_damaging_to_TYMS,Avana,ACH-002926,Eye,matrix_intact,-1.2695258298537841
+CDKN2A_damaging_to_TYMS,KY,ACH-000001,Ovary/Fallopian Tube,matrix_intact,-0.05671225873410614
+CDKN2A_damaging_to_TYMS,KY,ACH-000007,Bowel,matrix_intact,-2.7050811555707135
+CDKN2A_damaging_to_TYMS,KY,ACH-000009,Bowel,matrix_intact,-0.6564155557703534
+CDKN2A_damaging_to_TYMS,KY,ACH-000019,Breast,matrix_intact,-2.381668016048702
+CDKN2A_damaging_to_TYMS,KY,ACH-000023,Pancreas,matrix_intact,0.17312187251796915
+CDKN2A_damaging_to_TYMS,KY,ACH-000024,Lymphoid,damaging,0.10981594922461557
+CDKN2A_damaging_to_TYMS,KY,ACH-000030,Lung,damaging,-2.586499267984357
+CDKN2A_damaging_to_TYMS,KY,ACH-000035,Lung,matrix_intact,0.1438385243339292
+CDKN2A_damaging_to_TYMS,KY,ACH-000042,Pancreas,damaging,-0.5599002343739397
+CDKN2A_damaging_to_TYMS,KY,ACH-000048,Ovary/Fallopian Tube,matrix_intact,-0.0902944095348333
+CDKN2A_damaging_to_TYMS,KY,ACH-000060,Pancreas,matrix_intact,0.03696295158207202
+CDKN2A_damaging_to_TYMS,KY,ACH-000067,CNS/Brain,matrix_intact,-0.10627299072394787
+CDKN2A_damaging_to_TYMS,KY,ACH-000075,CNS/Brain,matrix_intact,-0.19987325527212457
+CDKN2A_damaging_to_TYMS,KY,ACH-000094,Pancreas,matrix_intact,-1.515190040681445
+CDKN2A_damaging_to_TYMS,KY,ACH-000098,CNS/Brain,matrix_intact,-0.164284205286794
+CDKN2A_damaging_to_TYMS,KY,ACH-000103,Ovary/Fallopian Tube,matrix_intact,-0.42537017447017145
+CDKN2A_damaging_to_TYMS,KY,ACH-000108,Pancreas,matrix_intact,-2.1622171357873157
+CDKN2A_damaging_to_TYMS,KY,ACH-000111,Breast,matrix_intact,-2.28992033787503
+CDKN2A_damaging_to_TYMS,KY,ACH-000113,Myeloid,matrix_intact,-3.2032817191219656
+CDKN2A_damaging_to_TYMS,KY,ACH-000114,Pancreas,matrix_intact,-0.12385770938425777
+CDKN2A_damaging_to_TYMS,KY,ACH-000118,Pancreas,matrix_intact,0.028514535298842274
+CDKN2A_damaging_to_TYMS,KY,ACH-000120,Peripheral Nervous System,matrix_intact,0.4933429704884471
+CDKN2A_damaging_to_TYMS,KY,ACH-000124,Lymphoid,matrix_intact,-2.6313241426599716
+CDKN2A_damaging_to_TYMS,KY,ACH-000132,Ovary/Fallopian Tube,matrix_intact,0.14592532922642112
+CDKN2A_damaging_to_TYMS,KY,ACH-000137,CNS/Brain,matrix_intact,-0.05326571326300576
+CDKN2A_damaging_to_TYMS,KY,ACH-000139,Pancreas,matrix_intact,-3.89556293809157
+CDKN2A_damaging_to_TYMS,KY,ACH-000144,Esophagus/Stomach,matrix_intact,0.0561842168017382
+CDKN2A_damaging_to_TYMS,KY,ACH-000147,Breast,matrix_intact,-0.28342820617196207
+CDKN2A_damaging_to_TYMS,KY,ACH-000148,Breast,matrix_intact,-0.035484627064993994
+CDKN2A_damaging_to_TYMS,KY,ACH-000149,Peripheral Nervous System,matrix_intact,0.01608834345602032
+CDKN2A_damaging_to_TYMS,KY,ACH-000155,Pancreas,matrix_intact,-3.8005376556554626
+CDKN2A_damaging_to_TYMS,KY,ACH-000176,Lung,matrix_intact,0.08360123852850627
+CDKN2A_damaging_to_TYMS,KY,ACH-000181,Head and Neck,matrix_intact,-0.8380220572190007
+CDKN2A_damaging_to_TYMS,KY,ACH-000183,Lymphoid,matrix_intact,-0.5425236143694736
+CDKN2A_damaging_to_TYMS,KY,ACH-000192,Uterus,matrix_intact,-0.019448687464376353
+CDKN2A_damaging_to_TYMS,KY,ACH-000200,CNS/Brain,matrix_intact,0.13218798124373596
+CDKN2A_damaging_to_TYMS,KY,ACH-000204,Lymphoid,matrix_intact,-0.08648118774132259
+CDKN2A_damaging_to_TYMS,KY,ACH-000207,Head and Neck,matrix_intact,0.2117711307788616
+CDKN2A_damaging_to_TYMS,KY,ACH-000213,Pancreas,matrix_intact,-0.9494763044103204
+CDKN2A_damaging_to_TYMS,KY,ACH-000219,Skin,damaging,-0.4863092967857397
+CDKN2A_damaging_to_TYMS,KY,ACH-000222,Pancreas,damaging,-3.023473818726778
+CDKN2A_damaging_to_TYMS,KY,ACH-000223,Breast,matrix_intact,0.44375499157956644
+CDKN2A_damaging_to_TYMS,KY,ACH-000227,Peripheral Nervous System,matrix_intact,-2.865609168679422
+CDKN2A_damaging_to_TYMS,KY,ACH-000232,CNS/Brain,matrix_intact,-0.2750000827206935
+CDKN2A_damaging_to_TYMS,KY,ACH-000235,Pancreas,damaging,-2.8057932296000203
+CDKN2A_damaging_to_TYMS,KY,ACH-000238,Head and Neck,damaging,-2.6508235066426806
+CDKN2A_damaging_to_TYMS,KY,ACH-000243,Pancreas,matrix_intact,-0.8807846357884301
+CDKN2A_damaging_to_TYMS,KY,ACH-000244,CNS/Brain,matrix_intact,0.32686356191527827
+CDKN2A_damaging_to_TYMS,KY,ACH-000248,Breast,matrix_intact,-4.204205891059154
+CDKN2A_damaging_to_TYMS,KY,ACH-000249,Bowel,matrix_intact,0.15114953430379194
+CDKN2A_damaging_to_TYMS,KY,ACH-000252,Bowel,matrix_intact,0.10199500710221256
+CDKN2A_damaging_to_TYMS,KY,ACH-000260,Peripheral Nervous System,matrix_intact,-0.7266604868704825
+CDKN2A_damaging_to_TYMS,KY,ACH-000265,Pancreas,matrix_intact,0.2919552892509163
+CDKN2A_damaging_to_TYMS,KY,ACH-000269,CNS/Brain,matrix_intact,0.5085590255346357
+CDKN2A_damaging_to_TYMS,KY,ACH-000271,Lymphoid,matrix_intact,-0.04213963523732275
+CDKN2A_damaging_to_TYMS,KY,ACH-000273,CNS/Brain,matrix_intact,-1.2979965356163965
+CDKN2A_damaging_to_TYMS,KY,ACH-000276,Breast,matrix_intact,0.14349602448164409
+CDKN2A_damaging_to_TYMS,KY,ACH-000291,Ovary/Fallopian Tube,matrix_intact,0.23872432694529108
+CDKN2A_damaging_to_TYMS,KY,ACH-000293,Uterus,matrix_intact,0.05777912966226198
+CDKN2A_damaging_to_TYMS,KY,ACH-000305,Esophagus/Stomach,matrix_intact,-2.3848234011821345
+CDKN2A_damaging_to_TYMS,KY,ACH-000308,Ovary/Fallopian Tube,matrix_intact,-0.04128012827840161
+CDKN2A_damaging_to_TYMS,KY,ACH-000318,Esophagus/Stomach,matrix_intact,-4.376940153053089
+CDKN2A_damaging_to_TYMS,KY,ACH-000320,Pancreas,matrix_intact,-2.475775071595948
+CDKN2A_damaging_to_TYMS,KY,ACH-000323,CNS/Brain,matrix_intact,-0.3421191117113745
+CDKN2A_damaging_to_TYMS,KY,ACH-000336,Myeloid,matrix_intact,-2.276272599044189
+CDKN2A_damaging_to_TYMS,KY,ACH-000337,Lung,matrix_intact,-1.080704653504817
+CDKN2A_damaging_to_TYMS,KY,ACH-000341,Peripheral Nervous System,matrix_intact,0.1136152973130683
+CDKN2A_damaging_to_TYMS,KY,ACH-000350,Bowel,matrix_intact,0.48144614903316213
+CDKN2A_damaging_to_TYMS,KY,ACH-000354,Pancreas,matrix_intact,-4.717231103882658
+CDKN2A_damaging_to_TYMS,KY,ACH-000366,Peripheral Nervous System,matrix_intact,-1.7456132461257887
+CDKN2A_damaging_to_TYMS,KY,ACH-000367,Pleura,matrix_intact,0.04854238610649977
+CDKN2A_damaging_to_TYMS,KY,ACH-000374,Breast,matrix_intact,-3.948176427828379
+CDKN2A_damaging_to_TYMS,KY,ACH-000376,CNS/Brain,matrix_intact,-0.22478435550058593
+CDKN2A_damaging_to_TYMS,KY,ACH-000381,Bowel,matrix_intact,-0.9253354144055108
+CDKN2A_damaging_to_TYMS,KY,ACH-000383,Esophagus/Stomach,damaging,-2.6266028086686997
+CDKN2A_damaging_to_TYMS,KY,ACH-000391,Bone,damaging,-0.38822220899960574
+CDKN2A_damaging_to_TYMS,KY,ACH-000395,Lung,damaging,0.11114928679232727
+CDKN2A_damaging_to_TYMS,KY,ACH-000408,Esophagus/Stomach,matrix_intact,-0.22636779286974598
+CDKN2A_damaging_to_TYMS,KY,ACH-000411,Kidney,matrix_intact,0.08951059552089195
+CDKN2A_damaging_to_TYMS,KY,ACH-000414,Lung,matrix_intact,-1.8029603781425363
+CDKN2A_damaging_to_TYMS,KY,ACH-000417,Pancreas,matrix_intact,0.06623931493122136
+CDKN2A_damaging_to_TYMS,KY,ACH-000421,Bowel,matrix_intact,0.03186868435883087
+CDKN2A_damaging_to_TYMS,KY,ACH-000424,Bone,matrix_intact,-1.0591593195489526
+CDKN2A_damaging_to_TYMS,KY,ACH-000427,Esophagus/Stomach,matrix_intact,-1.6074902288829425
+CDKN2A_damaging_to_TYMS,KY,ACH-000430,Ovary/Fallopian Tube,matrix_intact,0.2138714978140982
+CDKN2A_damaging_to_TYMS,KY,ACH-000434,Lung,matrix_intact,-0.29957066756412354
+CDKN2A_damaging_to_TYMS,KY,ACH-000437,CNS/Brain,matrix_intact,-0.1899353833744008
+CDKN2A_damaging_to_TYMS,KY,ACH-000438,Lung,matrix_intact,-0.1723336159873731
+CDKN2A_damaging_to_TYMS,KY,ACH-000442,Lung,matrix_intact,-1.6214162679213642
+CDKN2A_damaging_to_TYMS,KY,ACH-000452,Esophagus/Stomach,matrix_intact,-0.17276046890750474
+CDKN2A_damaging_to_TYMS,KY,ACH-000464,CNS/Brain,matrix_intact,0.15659750923361593
+CDKN2A_damaging_to_TYMS,KY,ACH-000469,CNS/Brain,matrix_intact,0.2673826613569491
+CDKN2A_damaging_to_TYMS,KY,ACH-000481,Lung,matrix_intact,0.33161280521223463
+CDKN2A_damaging_to_TYMS,KY,ACH-000501,Bowel,matrix_intact,-0.22106374588470432
+CDKN2A_damaging_to_TYMS,KY,ACH-000504,CNS/Brain,matrix_intact,0.07648969209024783
+CDKN2A_damaging_to_TYMS,KY,ACH-000505,Soft Tissue,matrix_intact,-0.042839228477776055
+CDKN2A_damaging_to_TYMS,KY,ACH-000510,Lung,matrix_intact,-0.9586357526753341
+CDKN2A_damaging_to_TYMS,KY,ACH-000518,Head and Neck,damaging,-3.3717460336508283
+CDKN2A_damaging_to_TYMS,KY,ACH-000524,Ovary/Fallopian Tube,matrix_intact,0.09440003722264707
+CDKN2A_damaging_to_TYMS,KY,ACH-000527,Ovary/Fallopian Tube,matrix_intact,-0.20781331557325625
+CDKN2A_damaging_to_TYMS,KY,ACH-000532,Bowel,matrix_intact,-2.8193228277075533
+CDKN2A_damaging_to_TYMS,KY,ACH-000535,Pancreas,matrix_intact,-1.2898983119125598
+CDKN2A_damaging_to_TYMS,KY,ACH-000544,Esophagus/Stomach,matrix_intact,-1.9721454988792297
+CDKN2A_damaging_to_TYMS,KY,ACH-000546,Head and Neck,damaging,-0.7519534357101664
+CDKN2A_damaging_to_TYMS,KY,ACH-000548,Head and Neck,damaging,-0.5634508863232822
+CDKN2A_damaging_to_TYMS,KY,ACH-000552,Bowel,matrix_intact,-0.6871783574201533
+CDKN2A_damaging_to_TYMS,KY,ACH-000554,Breast,matrix_intact,-1.377799580694565
+CDKN2A_damaging_to_TYMS,KY,ACH-000558,CNS/Brain,matrix_intact,0.29077873709654506
+CDKN2A_damaging_to_TYMS,KY,ACH-000561,Esophagus/Stomach,matrix_intact,-2.2672070067983685
+CDKN2A_damaging_to_TYMS,KY,ACH-000562,Lung,damaging,-2.733261648462194
+CDKN2A_damaging_to_TYMS,KY,ACH-000563,Lung,matrix_intact,0.19992313252797686
+CDKN2A_damaging_to_TYMS,KY,ACH-000565,Bowel,matrix_intact,-1.6577361822873595
+CDKN2A_damaging_to_TYMS,KY,ACH-000571,CNS/Brain,matrix_intact,-2.1385866011486656
+CDKN2A_damaging_to_TYMS,KY,ACH-000573,Breast,matrix_intact,-2.5113555493797706
+CDKN2A_damaging_to_TYMS,KY,ACH-000581,Esophagus/Stomach,matrix_intact,-0.3981562515452577
+CDKN2A_damaging_to_TYMS,KY,ACH-000584,Ovary/Fallopian Tube,matrix_intact,-0.005400173022357624
+CDKN2A_damaging_to_TYMS,KY,ACH-000585,Lung,matrix_intact,-2.6047302356958375
+CDKN2A_damaging_to_TYMS,KY,ACH-000587,Lung,damaging,-0.5887471356477475
+CDKN2A_damaging_to_TYMS,KY,ACH-000595,CNS/Brain,matrix_intact,0.045293038469857494
+CDKN2A_damaging_to_TYMS,KY,ACH-000596,Lung,matrix_intact,-0.4599797056927444
+CDKN2A_damaging_to_TYMS,KY,ACH-000599,Pancreas,matrix_intact,-0.1118597253288639
+CDKN2A_damaging_to_TYMS,KY,ACH-000601,Pancreas,matrix_intact,-0.02813551857242898
+CDKN2A_damaging_to_TYMS,KY,ACH-000609,CNS/Brain,matrix_intact,0.12704473660105184
+CDKN2A_damaging_to_TYMS,KY,ACH-000619,Head and Neck,matrix_intact,-0.7753011390502618
+CDKN2A_damaging_to_TYMS,KY,ACH-000622,CNS/Brain,matrix_intact,0.369718848514551
+CDKN2A_damaging_to_TYMS,KY,ACH-000624,Breast,matrix_intact,-2.9667095980120295
+CDKN2A_damaging_to_TYMS,KY,ACH-000637,Esophagus/Stomach,matrix_intact,-0.17292911053256485
+CDKN2A_damaging_to_TYMS,KY,ACH-000651,Bowel,matrix_intact,0.08270142723520603
+CDKN2A_damaging_to_TYMS,KY,ACH-000652,Pancreas,damaging,-0.07653222720664554
+CDKN2A_damaging_to_TYMS,KY,ACH-000656,Lymphoid,matrix_intact,-0.5299214641828955
+CDKN2A_damaging_to_TYMS,KY,ACH-000657,Ovary/Fallopian Tube,matrix_intact,-0.6855631965154165
+CDKN2A_damaging_to_TYMS,KY,ACH-000660,Lymphoid,matrix_intact,-5.900584934974524
+CDKN2A_damaging_to_TYMS,KY,ACH-000662,Lung,damaging,-0.4194351247732928
+CDKN2A_damaging_to_TYMS,KY,ACH-000665,Lung,matrix_intact,-2.3686152968392493
+CDKN2A_damaging_to_TYMS,KY,ACH-000666,Lung,matrix_intact,-2.0641076243232632
+CDKN2A_damaging_to_TYMS,KY,ACH-000668,Breast,matrix_intact,-4.56787593311634
+CDKN2A_damaging_to_TYMS,KY,ACH-000677,Lung,matrix_intact,0.3643606353789899
+CDKN2A_damaging_to_TYMS,KY,ACH-000681,Lung,matrix_intact,0.046425234093449855
+CDKN2A_damaging_to_TYMS,KY,ACH-000694,Esophagus/Stomach,matrix_intact,0.17937720337834753
+CDKN2A_damaging_to_TYMS,KY,ACH-000696,Ovary/Fallopian Tube,matrix_intact,-0.5108033945519314
+CDKN2A_damaging_to_TYMS,KY,ACH-000699,Breast,matrix_intact,-0.9343741795358298
+CDKN2A_damaging_to_TYMS,KY,ACH-000704,Ovary/Fallopian Tube,matrix_intact,-0.2900091429704976
+CDKN2A_damaging_to_TYMS,KY,ACH-000711,Breast,matrix_intact,0.27913538044831115
+CDKN2A_damaging_to_TYMS,KY,ACH-000714,Lymphoid,matrix_intact,-0.8085915925593824
+CDKN2A_damaging_to_TYMS,KY,ACH-000717,Esophagus/Stomach,matrix_intact,-1.6039255927733216
+CDKN2A_damaging_to_TYMS,KY,ACH-000719,Ovary/Fallopian Tube,matrix_intact,-0.09101275233777079
+CDKN2A_damaging_to_TYMS,KY,ACH-000722,Bowel,matrix_intact,-1.6946985094335894
+CDKN2A_damaging_to_TYMS,KY,ACH-000738,CNS/Brain,matrix_intact,-0.07093766738198853
+CDKN2A_damaging_to_TYMS,KY,ACH-000740,Head and Neck,damaging,-1.8909054253401243
+CDKN2A_damaging_to_TYMS,KY,ACH-000748,Bone,matrix_intact,0.034794941336231934
+CDKN2A_damaging_to_TYMS,KY,ACH-000756,CNS/Brain,matrix_intact,-0.029236876851691684
+CDKN2A_damaging_to_TYMS,KY,ACH-000768,Breast,matrix_intact,0.2062261532770107
+CDKN2A_damaging_to_TYMS,KY,ACH-000769,Lung,damaging,-2.413331045620453
+CDKN2A_damaging_to_TYMS,KY,ACH-000778,Head and Neck,damaging,0.4055836576830867
+CDKN2A_damaging_to_TYMS,KY,ACH-000781,Lung,matrix_intact,-3.9780655404437617
+CDKN2A_damaging_to_TYMS,KY,ACH-000784,Esophagus/Stomach,matrix_intact,-1.173648320575067
+CDKN2A_damaging_to_TYMS,KY,ACH-000787,Lung,damaging,-0.5664348059139671
+CDKN2A_damaging_to_TYMS,KY,ACH-000788,Skin,matrix_intact,0.03419620329445879
+CDKN2A_damaging_to_TYMS,KY,ACH-000793,Esophagus/Stomach,matrix_intact,-0.6157929625283871
+CDKN2A_damaging_to_TYMS,KY,ACH-000794,Head and Neck,matrix_intact,-5.010128255692567
+CDKN2A_damaging_to_TYMS,KY,ACH-000796,Ovary/Fallopian Tube,damaging,-0.15819164227759266
+CDKN2A_damaging_to_TYMS,KY,ACH-000809,Esophagus/Stomach,matrix_intact,-1.583886459791634
+CDKN2A_damaging_to_TYMS,KY,ACH-000817,Lymphoid,matrix_intact,-4.488743326768598
+CDKN2A_damaging_to_TYMS,KY,ACH-000823,Esophagus/Stomach,matrix_intact,-1.540666874481987
+CDKN2A_damaging_to_TYMS,KY,ACH-000824,Esophagus/Stomach,matrix_intact,-2.7909663102300315
+CDKN2A_damaging_to_TYMS,KY,ACH-000832,Head and Neck,damaging,-1.9971199432874343
+CDKN2A_damaging_to_TYMS,KY,ACH-000841,Lung,matrix_intact,0.15012217359163954
+CDKN2A_damaging_to_TYMS,KY,ACH-000843,Lung,matrix_intact,-4.104391762451088
+CDKN2A_damaging_to_TYMS,KY,ACH-000846,Head and Neck,damaging,0.006871431041615213
+CDKN2A_damaging_to_TYMS,KY,ACH-000847,Esophagus/Stomach,matrix_intact,-0.10018638646150946
+CDKN2A_damaging_to_TYMS,KY,ACH-000849,Breast,matrix_intact,-0.6785196908535731
+CDKN2A_damaging_to_TYMS,KY,ACH-000855,Esophagus/Stomach,matrix_intact,0.34354215718421593
+CDKN2A_damaging_to_TYMS,KY,ACH-000856,Breast,matrix_intact,-1.132161416891429
+CDKN2A_damaging_to_TYMS,KY,ACH-000858,Lung,damaging,0.08585503971642146
+CDKN2A_damaging_to_TYMS,KY,ACH-000859,Breast,matrix_intact,-0.5997641194362905
+CDKN2A_damaging_to_TYMS,KY,ACH-000860,Lung,matrix_intact,-0.2557238367690277
+CDKN2A_damaging_to_TYMS,KY,ACH-000861,Lung,matrix_intact,-0.705526726852236
+CDKN2A_damaging_to_TYMS,KY,ACH-000863,CNS/Brain,matrix_intact,-0.060954417272269745
+CDKN2A_damaging_to_TYMS,KY,ACH-000864,Uterus,matrix_intact,-0.09611885517182807
+CDKN2A_damaging_to_TYMS,KY,ACH-000865,Esophagus/Stomach,matrix_intact,0.3086985765116103
+CDKN2A_damaging_to_TYMS,KY,ACH-000869,Lung,matrix_intact,-0.5058353419837461
+CDKN2A_damaging_to_TYMS,KY,ACH-000873,Esophagus/Stomach,matrix_intact,-5.923088651292885
+CDKN2A_damaging_to_TYMS,KY,ACH-000876,Breast,matrix_intact,-1.036622751697682
+CDKN2A_damaging_to_TYMS,KY,ACH-000878,Lung,matrix_intact,0.8429911495672414
+CDKN2A_damaging_to_TYMS,KY,ACH-000879,Uterus,matrix_intact,-0.0704550871919908
+CDKN2A_damaging_to_TYMS,KY,ACH-000880,Esophagus/Stomach,matrix_intact,-0.5159517531094178
+CDKN2A_damaging_to_TYMS,KY,ACH-000885,Ovary/Fallopian Tube,matrix_intact,-0.03416427604022484
+CDKN2A_damaging_to_TYMS,KY,ACH-000894,Lung,matrix_intact,-0.7096386299140929
+CDKN2A_damaging_to_TYMS,KY,ACH-000900,Lung,matrix_intact,-0.5334215251414329
+CDKN2A_damaging_to_TYMS,KY,ACH-000906,Ovary/Fallopian Tube,matrix_intact,-0.7510568087614354
+CDKN2A_damaging_to_TYMS,KY,ACH-000910,Breast,matrix_intact,-2.3007345959476244
+CDKN2A_damaging_to_TYMS,KY,ACH-000911,Esophagus/Stomach,matrix_intact,0.20716419044313042
+CDKN2A_damaging_to_TYMS,KY,ACH-000913,Uterus,matrix_intact,-0.14082515333773393
+CDKN2A_damaging_to_TYMS,KY,ACH-000917,Esophagus/Stomach,matrix_intact,-0.8081563909358097
+CDKN2A_damaging_to_TYMS,KY,ACH-000919,Esophagus/Stomach,matrix_intact,-1.7478939637512596
+CDKN2A_damaging_to_TYMS,KY,ACH-000926,Bowel,matrix_intact,0.414237656689264
+CDKN2A_damaging_to_TYMS,KY,ACH-000932,Esophagus/Stomach,matrix_intact,-0.18038914148056875
+CDKN2A_damaging_to_TYMS,KY,ACH-000934,Breast,matrix_intact,-0.30378771184382614
+CDKN2A_damaging_to_TYMS,KY,ACH-000935,Bowel,damaging,-0.3365607775088345
+CDKN2A_damaging_to_TYMS,KY,ACH-000936,Ovary/Fallopian Tube,matrix_intact,-1.520676131857303
+CDKN2A_damaging_to_TYMS,KY,ACH-000943,Bowel,matrix_intact,0.09230248897517795
+CDKN2A_damaging_to_TYMS,KY,ACH-000945,Lung,matrix_intact,-1.3293743820362802
+CDKN2A_damaging_to_TYMS,KY,ACH-000947,Ovary/Fallopian Tube,matrix_intact,-2.552257879931268
+CDKN2A_damaging_to_TYMS,KY,ACH-000948,Esophagus/Stomach,matrix_intact,-2.6853761933473717
+CDKN2A_damaging_to_TYMS,KY,ACH-000950,Bowel,matrix_intact,-0.6765212192201316
+CDKN2A_damaging_to_TYMS,KY,ACH-000956,Prostate,matrix_intact,-1.4010921087702186
+CDKN2A_damaging_to_TYMS,KY,ACH-000957,Bowel,matrix_intact,0.13203904989191234
+CDKN2A_damaging_to_TYMS,KY,ACH-000958,Bowel,matrix_intact,-0.02961264466838111
+CDKN2A_damaging_to_TYMS,KY,ACH-000962,Ovary/Fallopian Tube,matrix_intact,-1.238512272715891
+CDKN2A_damaging_to_TYMS,KY,ACH-000965,Uterus,matrix_intact,-1.8167345925213072
+CDKN2A_damaging_to_TYMS,KY,ACH-000966,Ovary/Fallopian Tube,matrix_intact,0.2427369143396869
+CDKN2A_damaging_to_TYMS,KY,ACH-000969,Bowel,matrix_intact,-0.05029327624506937
+CDKN2A_damaging_to_TYMS,KY,ACH-000970,Bowel,matrix_intact,-0.6471165179196042
+CDKN2A_damaging_to_TYMS,KY,ACH-000971,Bowel,damaging,-0.019405879946773463
+CDKN2A_damaging_to_TYMS,KY,ACH-000974,Uterus,matrix_intact,0.044348438058402016
+CDKN2A_damaging_to_TYMS,KY,ACH-000977,Prostate,matrix_intact,0.09810630088834138
+CDKN2A_damaging_to_TYMS,KY,ACH-000979,Prostate,damaging,0.11598395265756649
+CDKN2A_damaging_to_TYMS,KY,ACH-000980,Lung,matrix_intact,-0.40407885532707977
+CDKN2A_damaging_to_TYMS,KY,ACH-000985,Bowel,matrix_intact,0.2891909904046764
+CDKN2A_damaging_to_TYMS,KY,ACH-000991,Bowel,matrix_intact,-0.10326902248016752
+CDKN2A_damaging_to_TYMS,KY,ACH-000997,Bowel,matrix_intact,0.035951062649278144
+CDKN2A_damaging_to_TYMS,KY,ACH-001016,CNS/Brain,matrix_intact,-0.29229674562827407
+CDKN2A_damaging_to_TYMS,KY,ACH-001039,Bowel,matrix_intact,-1.2546346704053712
+CDKN2A_damaging_to_TYMS,KY,ACH-001063,Ovary/Fallopian Tube,matrix_intact,0.06940591864757605
+CDKN2A_damaging_to_TYMS,KY,ACH-001065,Breast,matrix_intact,-4.755316779466817
+CDKN2A_damaging_to_TYMS,KY,ACH-001081,Bowel,matrix_intact,-2.9818400093264863
+CDKN2A_damaging_to_TYMS,KY,ACH-001107,Pancreas,matrix_intact,-0.020964871097152935
+CDKN2A_damaging_to_TYMS,KY,ACH-001126,CNS/Brain,damaging,-0.14172214401488686
+CDKN2A_damaging_to_TYMS,KY,ACH-001137,Lung,matrix_intact,-0.516916725314998
+CDKN2A_damaging_to_TYMS,KY,ACH-001151,Ovary/Fallopian Tube,matrix_intact,-2.3687289334482444
+CDKN2A_damaging_to_TYMS,KY,ACH-001190,Skin,matrix_intact,-0.18000852634690004
+CDKN2A_damaging_to_TYMS,KY,ACH-001193,Bone,matrix_intact,-0.05690777407938956
+CDKN2A_damaging_to_TYMS,KY,ACH-001233,Lung,matrix_intact,-0.1453521540171435
+CDKN2A_damaging_to_TYMS,KY,ACH-001331,Head and Neck,matrix_intact,0.059035214486966546
+CDKN2A_damaging_to_TYMS,KY,ACH-001332,Head and Neck,matrix_intact,-1.606830124451384
+CDKN2A_damaging_to_TYMS,KY,ACH-001345,Bowel,matrix_intact,-0.367311911014069
+CDKN2A_damaging_to_TYMS,KY,ACH-001368,Esophagus/Stomach,matrix_intact,-0.15201713335369862
+CDKN2A_damaging_to_TYMS,KY,ACH-001399,Bowel,matrix_intact,-0.2017212438839675
+CDKN2A_damaging_to_TYMS,KY,ACH-001418,Ovary/Fallopian Tube,matrix_intact,-0.22262681198983722
+CDKN2A_damaging_to_TYMS,KY,ACH-001494,Biliary Tract,matrix_intact,-1.3424861190623343
+CDKN2A_damaging_to_TYMS,KY,ACH-001496,Esophagus/Stomach,matrix_intact,0.3045119421710834
+CDKN2A_damaging_to_TYMS,KY,ACH-001497,Esophagus/Stomach,damaging,-4.902178712410865
+CDKN2A_damaging_to_TYMS,KY,ACH-001500,Esophagus/Stomach,matrix_intact,-0.6775099587986558
+CDKN2A_damaging_to_TYMS,KY,ACH-001517,Uterus,matrix_intact,0.09589290582241305
+CDKN2A_damaging_to_TYMS,KY,ACH-001542,Head and Neck,matrix_intact,-0.7426540082004713
+CDKN2A_damaging_to_TYMS,KY,ACH-001544,Esophagus/Stomach,matrix_intact,-0.5415544633773931
+CDKN2A_damaging_to_TYMS,KY,ACH-001603,Peripheral Nervous System,matrix_intact,-0.1489930233791389
+CDKN2A_damaging_to_TYMS,KY,ACH-001605,CNS/Brain,matrix_intact,0.19035044742465262
+CDKN2A_damaging_to_TYMS,KY,ACH-001606,CNS/Brain,matrix_intact,-0.11077562179194975
+CDKN2A_damaging_to_TYMS,KY,ACH-001625,Head and Neck,matrix_intact,-1.050479544349308
+CDKN2A_damaging_to_TYMS,KY,ACH-001626,Head and Neck,damaging,0.003366342322403737
+CDKN2A_damaging_to_TYMS,KY,ACH-001630,Ovary/Fallopian Tube,matrix_intact,-0.5480258124752444
+CDKN2A_damaging_to_TYMS,KY,ACH-001632,Ovary/Fallopian Tube,matrix_intact,-0.034564286490353424
+CDKN2A_damaging_to_TYMS,KY,ACH-001639,Lymphoid,matrix_intact,-0.14328566489726202
+CDKN2A_damaging_to_TYMS,KY,ACH-001654,Esophagus/Stomach,matrix_intact,-0.6384689423016593
+CDKN2A_damaging_to_TYMS,KY,ACH-001674,Peripheral Nervous System,matrix_intact,0.013583864620324461
+CDKN2A_damaging_to_TYMS,KY,ACH-001715,Bone,matrix_intact,0.1262813088371608
+CDKN2A_damaging_to_TYMS,KY,ACH-001819,Breast,matrix_intact,-0.2470347413517664
+CDKN2A_damaging_to_TYMS,KY,ACH-001820,Breast,matrix_intact,-0.1865386505757467
+CDKN2A_damaging_to_TYMS,KY,ACH-002029,Head and Neck,matrix_intact,-4.355222235189275
+CDKN2A_damaging_to_TYMS,KY,ACH-002043,Head and Neck,matrix_intact,-0.10550603190861099
+CDKN2A_damaging_to_TYMS,KY,ACH-002045,Head and Neck,matrix_intact,0.031988253428024215
+CDKN2A_damaging_to_TYMS,KY,ACH-002083,Peripheral Nervous System,matrix_intact,0.02267328026025267
+CDKN2A_damaging_to_TYMS,KY,ACH-002105,Bone,matrix_intact,-0.6971849004845946
+CDKN2A_damaging_to_TYMS,KY,ACH-002106,Bone,matrix_intact,-2.8662588740021575
+CDKN2A_damaging_to_TYMS,KY,ACH-002109,Bone,matrix_intact,0.1442311659325615
+CDKN2A_damaging_to_TYMS,KY,ACH-002110,Bone,matrix_intact,-1.468053753749416
+CDKN2A_damaging_to_TYMS,KY,ACH-002114,Bone,matrix_intact,-0.48280849234610496
+CDKN2A_damaging_to_TYMS,KY,ACH-002116,Bone,matrix_intact,-1.183265850617382
+CDKN2A_damaging_to_TYMS,KY,ACH-002119,Bone,matrix_intact,-1.1288545773882703
+CDKN2A_damaging_to_TYMS,KY,ACH-002140,Ovary/Fallopian Tube,matrix_intact,0.350081452296644
+CDKN2A_damaging_to_TYMS,KY,ACH-002141,Esophagus/Stomach,matrix_intact,-0.8014590212414531
+CDKN2A_damaging_to_TYMS,KY,ACH-002143,Skin,matrix_intact,-0.6342872898890258
+CDKN2A_damaging_to_TYMS,KY,ACH-002150,Kidney,matrix_intact,0.5543214436055136
+CDKN2A_damaging_to_TYMS,KY,ACH-002156,Lung,matrix_intact,0.27962700432230625
+CDKN2A_damaging_to_TYMS,KY,ACH-002160,Bone,matrix_intact,-0.2405359561695072
+CDKN2A_damaging_to_TYMS,KY,ACH-002161,Esophagus/Stomach,matrix_intact,-0.7915442005055725
+CDKN2A_damaging_to_TYMS,KY,ACH-002179,Breast,matrix_intact,-0.5522316468156253
+CDKN2A_damaging_to_TYMS,KY,ACH-002181,Ovary/Fallopian Tube,matrix_intact,0.33773170019721427
+CDKN2A_damaging_to_TYMS,KY,ACH-002183,Ovary/Fallopian Tube,matrix_intact,-0.27709935605329666
+CDKN2A_damaging_to_TYMS,KY,ACH-002186,Pancreas,matrix_intact,-0.24218737719125116
+CDKN2A_damaging_to_TYMS,KY,ACH-002189,Kidney,matrix_intact,0.13452184696784572
+CDKN2A_damaging_to_TYMS,KY,ACH-002198,Other,matrix_intact,-0.29916538289060407
+CDKN2A_damaging_to_TYMS,KY,ACH-002202,Esophagus/Stomach,matrix_intact,-2.9895221822207696
+CDKN2A_damaging_to_TYMS,KY,ACH-002210,Myeloid,matrix_intact,-1.1770076218639958
+CDKN2A_damaging_to_TYMS,KY,ACH-002212,Head and Neck,matrix_intact,-3.582423474820979
+CDKN2A_damaging_to_TYMS,KY,ACH-002228,CNS/Brain,matrix_intact,-0.23710725777708494
+CDKN2A_damaging_to_TYMS,KY,ACH-002229,CNS/Brain,matrix_intact,-0.0021610124546159737
+CDKN2A_damaging_to_TYMS,KY,ACH-002230,CNS/Brain,matrix_intact,0.13145677541258186
+CDKN2A_damaging_to_TYMS,KY,ACH-002233,Bowel,matrix_intact,-0.7142684713309436
+CDKN2A_damaging_to_TYMS,KY,ACH-002234,Head and Neck,damaging,-0.03820783810292905
+CDKN2A_damaging_to_TYMS,KY,ACH-002239,Head and Neck,matrix_intact,-0.34155292959902656
+CDKN2A_damaging_to_TYMS,KY,ACH-002243,Esophagus/Stomach,matrix_intact,0.11239189735466533
+CDKN2A_damaging_to_TYMS,KY,ACH-002247,Myeloid,matrix_intact,-1.3782921884227286
+CDKN2A_damaging_to_TYMS,KY,ACH-002249,Head and Neck,damaging,-4.136849659608441
+CDKN2A_damaging_to_TYMS,KY,ACH-002250,Head and Neck,matrix_intact,-0.2678316247472262
+CDKN2A_damaging_to_TYMS,KY,ACH-002251,Head and Neck,matrix_intact,-1.3742293969974546
+CDKN2A_damaging_to_TYMS,KY,ACH-002257,CNS/Brain,matrix_intact,0.16528666293063926
+CDKN2A_damaging_to_TYMS,KY,ACH-002261,Peripheral Nervous System,matrix_intact,-2.3482358230267
+CDKN2A_damaging_to_TYMS,KY,ACH-002263,Esophagus/Stomach,damaging,-1.9500326790078617
+CDKN2A_damaging_to_TYMS,KY,ACH-002265,Head and Neck,damaging,-0.789235871975067
+CDKN2A_damaging_to_TYMS,KY,ACH-002269,CNS/Brain,matrix_intact,-2.089017798579315
+CDKN2A_damaging_to_TYMS,KY,ACH-002278,Peripheral Nervous System,matrix_intact,-1.9922648639143445
+CDKN2A_damaging_to_TYMS,KY,ACH-002280,Peripheral Nervous System,matrix_intact,-1.1882284163927332
+CDKN2A_damaging_to_TYMS,KY,ACH-002282,Peripheral Nervous System,matrix_intact,-0.6005617167945657
+CDKN2A_damaging_to_TYMS,KY,ACH-002283,Peripheral Nervous System,matrix_intact,0.165718602840916
+CDKN2A_damaging_to_TYMS,KY,ACH-002284,Peripheral Nervous System,matrix_intact,0.1550968957667772
+CDKN2A_damaging_to_TYMS,KY,ACH-002285,Peripheral Nervous System,matrix_intact,-0.059861543308269725
+CDKN2A_damaging_to_TYMS,KY,ACH-002294,Head and Neck,damaging,-1.7979431395174927
+CDKN2A_damaging_to_TYMS,KY,ACH-002295,Head and Neck,matrix_intact,-0.6143578178506324
+CDKN2A_damaging_to_TYMS,KY,ACH-002296,Head and Neck,damaging,-0.9063114586403564
+CDKN2A_damaging_to_TYMS,KY,ACH-002297,Head and Neck,matrix_intact,-2.1077915265391667
+CDKN2A_damaging_to_TYMS,KY,ACH-002298,Head and Neck,matrix_intact,-5.1767952216667315
+CDKN2A_damaging_to_TYMS,KY,ACH-002304,CNS/Brain,matrix_intact,0.014741888418786469
+CDKN2A_damaging_to_TYMS,KY,ACH-002305,Head and Neck,matrix_intact,-0.08368783911955475
