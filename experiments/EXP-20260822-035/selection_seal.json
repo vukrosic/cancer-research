@@ -1,0 +1,16 @@
+{
+  "experiment_id": "EXP-20260822-035",
+  "seal_type": "independent_pre_endpoint_selection_seal",
+  "sealed_at": "2026-08-22T22:43:12+0200",
+  "sealed_before_endpoint_access": true,
+  "endpoint_values_opened": false,
+  "selected_pair": "TP53_damaging_to_ENDOD1",
+  "selection_basis": "Distinct primary TP53/ENDOD1 mechanism with executable two-source context; KY planning power remains below the confirmatory threshold, so the experiment is permanently feasibility-only.",
+  "sealed_artifacts": ["experiments/EXP-20260822-035/candidate_census.json", "experiments/EXP-20260822-035/design_census_receipt.json", "experiments/EXP-20260822-035/preregistration.md", "experiments/EXP-20260822-035/methods_audit.md"],
+  "candidate_census_sha256": "4cae9d4c7ad9392c406313475ba9e19a4ff198ef79737f86b8d732fa99e741e0",
+  "design_receipt_sha256": "0f78174f758f87c262710ece7dec76f8b4289e9f0b93d9ef4866f5b689435632",
+  "canonical_roster_sha256": "61060e6ef0c24ad1bb3acc2fbe75e9ad5f8908df505d20290cbab2189557b376",
+  "target_column": "ENDOD1 (23052)",
+  "status_columns": ["TP53 (7157)"],
+  "prior_pairs_excluded": ["STAG2_damaging_to_STAG1", "PDS5B_damaging_to_PDS5A", "ARID1A_damaging_to_ARID1B", "ARID1A_damaging_to_KEAP1", "TP53_matrix_intact_to_MDM2", "CDKN2A_damaging_to_TYMS", "PTEN_damaging_to_PIK3CB", "TP53_damaging_to_WEE1", "NF1_damaging_to_PTPN11", "EP300_damaging_to_CREBBP", "APC_damaging_to_TDO2", "KMT2D_damaging_to_KMT2C", "CDKN2A_damaging_to_PELO", "PTEN_damaging_to_PAPSS1", "ARID1A_damaging_to_EZH2", "TP53_damaging_to_TIPARP", "BRCA1_or_BRCA2_damaging_to_POLQ", "BRCA1_or_BRCA2_damaging_to_CIP2A", "SMAD4_damaging_to_BRD4", "SMAD4_damaging_to_AURKA", "ARID1A_damaging_to_ATR", "TP53_damaging_to_TDG"]
+}
