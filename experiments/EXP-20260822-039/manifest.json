@@ -1,0 +1,59 @@
+{
+  "experiment_id": "EXP-20260822-039",
+  "analysis_type": "preregistered_source_specific_lineage_stratified_pbrm1_arid2_parp1_proxy_replication",
+  "primary_pair": "PBRM1_or_ARID2_damaging_status_to_PARP1_dependency",
+  "entrypoint": ".venv/bin/python -m candrel.pbrm1_arid2_parp1_replication",
+  "inputs": {
+    "endpoint": {"path": "data/raw/depmap/23q4/ScreenNaiveGeneScore.csv", "sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721", "target_column": "PARP1 (142)"},
+    "screen_qc": {"path": "data/raw/depmap/23q4/AchillesScreenQCReport.csv", "sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407"},
+    "screen_map": {"path": "data/raw/depmap/23q4/CRISPRScreenMap.csv", "sha256": "1e2bf9075600cd049dafc385866991523c65806657c3f8bd71afde3fe00ee9ad"},
+    "model": {"path": "data/raw/depmap/23q4/Model.csv", "sha256": "6b77a73209ce3faaa7442dbd947d8e08ddcb08b538c36fe820163f9cff321341"},
+    "damaging_matrix": {"path": "data/raw/depmap/23q4/OmicsSomaticMutationsMatrixDamaging.csv", "sha256": "aea4d970c0876afb90d2dc0e2709ff28be5a84e4e246f3a5a31faaba0fbc47e3", "status_columns": ["PBRM1 (55193)", "ARID2 (196528)"]}
+  },
+  "eligibility": {"libraries": ["Avana", "KY"], "pass_qc": true, "can_include": true, "expected_source_models": {"Avana": 975, "KY": 315}},
+  "status_contract": {
+    "exposed": "damaging",
+    "reference": "matrix_intact",
+    "status_columns": ["PBRM1 (55193)", "ARID2 (196528)"],
+    "exposed_matrix_values": [1],
+    "reference_matrix_values": [0],
+    "expected_counts": {"Avana": {"damaging": 49, "matrix_intact": 926}, "KY": {"damaging": 22, "matrix_intact": 293}},
+    "expected_mixed_lineages": {"Avana": 15, "KY": 8}
+  },
+  "candidate_census": {"path": "experiments/EXP-20260822-039/candidate_census.json", "sha256": "92516b61012e4062793f7fe0c902a9f3894c3a94aa2eb8326308673fec43d8d2", "canonical_roster_sha256": "6ab143e99b7d58d82a1b1e22b9948aacc5944ebe6daabe448505cd8735188af4"},
+  "design_receipt": {"path": "experiments/EXP-20260822-039/design_census_receipt.json", "sha256": "3e3fc49dd87358ef979108501b74a9336c670c4e3fb01f3c5d4458fb5c123121", "canonical_roster_sha256": "6ab143e99b7d58d82a1b1e22b9948aacc5944ebe6daabe448505cd8735188af4"},
+  "selection_seal": {"path": "experiments/EXP-20260822-039/selection_seal.json", "sha256": "e45d924ae8c5c8f7f49faeb5410148996912398e7a7672b5ddf996137113c729", "sealed_before_endpoint_access": true, "protocol_commit": "1fd72544be7a09d6c9d21bee9a4cf6a04c864b5a"},
+  "design_sensitivity": {
+    "mean_shift": -0.358286909243,
+    "null_permutations": 100000,
+    "alternative_simulations": 10000,
+    "planning_power_seeds": {"Avana": 20263900, "KY": 20264000},
+    "expected_critical_delta": {"Avana": -0.16113744075829384, "KY": -0.23933209647495363},
+    "expected_power": {"Avana": 0.6569, "KY": 0.3913},
+    "minimum_power_for_confirmatory_label": 0.8,
+    "frozen_label": "FEASIBILITY_ONLY"
+  },
+  "inference": {
+    "inference_seeds": {"Avana": 20273900, "KY": 20274000},
+    "permutations": 100000,
+    "bootstraps": 10000,
+    "delta_target": -0.2,
+    "permutation_p_max": 0.05,
+    "bootstrap_upper_max": 0.0,
+    "max_lineage_delta": 0.2
+  },
+  "claim_contract": {"analysis_label": "FEASIBILITY_ONLY", "confirmatory_claim": false, "overall_pass": false},
+  "uv_lock_sha256": "d09301a2eff28d69c3e0b504d4cdae5ed21c1e451efb92e60f360ebf047106dd",
+  "implementation_boundary": {
+    "required_base_commit": "037c6d5872f24ef9a4e458fd6e8248b3aa046c57",
+    "implementation_commit": "3667d5054fa33e39532e9bc9d323cdc8fa380047",
+    "implementation_module": "src/candrel/pbrm1_arid2_parp1_replication.py",
+    "engine_module": "src/candrel/tp53_mdm2_replication.py",
+    "project_file": "pyproject.toml",
+    "modules": [
+      {"path": "src/candrel/pbrm1_arid2_parp1_replication.py", "sha256": "e2a26f205530820eefe779feca878834a86680441cf2fde62a48556119899acc"},
+      {"path": "src/candrel/tp53_mdm2_replication.py", "sha256": "8c2bda37783d193bd0f948d4c4cfc4608dccba49d8d0c16aeba640cbac1c4164"},
+      {"path": "pyproject.toml", "sha256": "3d941c33519bcfcdba4300c703cb9419ba199317387814a1dd4ede6007e3300c"}
+    ]
+  }
+}
