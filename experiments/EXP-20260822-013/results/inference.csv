@@ -1,0 +1,5 @@
+parameter,tissue,n_pairs,spearman_rho,equal_tissue_theta,inferential_primary
+efficacy,Large Intestine,17,-0.06372549019607843,0.20710784313725492,True
+efficacy,Ovary,17,0.47794117647058826,0.20710784313725492,True
+growth,Large Intestine,17,0.031862745098039214,0.11397058823529412,False
+growth,Ovary,17,0.19607843137254902,0.11397058823529412,False

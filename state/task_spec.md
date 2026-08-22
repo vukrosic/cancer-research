@@ -8,9 +8,10 @@ orthogonal experimental validation.
 
 ## Current milestone
 
-Execute the frozen EXP-011 post-failure passing-sequence semantics audit without
-modifying EXP-010 or computing guide omissions, and require 103/103 exact baseline
-reconstructions before any future robustness experiment is considered.
+Preserve the audited EXP-013 negative same-assay process-association result, then
+select a distinct outcome-blind gene-specific or assay-kinetic direction. Do not
+rescue EXP-013 with its descriptive growth companion, tissue subgroups, or another
+post hoc combination.
 
 ## Program success
 

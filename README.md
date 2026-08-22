@@ -21,7 +21,7 @@ uncertainty and artifact controls?
 
 ## Current phase
 
-Twelve bounded experiments are complete:
+Thirteen bounded experiments are complete:
 
 - `EXP-20260822-001` passed the API engineering gate: all eight frozen genes had 177
   paired Broad/Sanger models and positive source correlations.
@@ -80,6 +80,11 @@ Twelve bounded experiments are complete:
   global omissions, versus the required 8/10. The complete audit includes 1,030
   screen/configuration rows, 340 paired-model rows, and no inferential or causal
   guide claim.
+- `EXP-20260822-013` failed the preregistered same-assay efficacy-process
+  association gates: theta was 0.2071, one-sided permutation p was 0.1220, and
+  the fixed-rank bootstrap 95% interval was [-0.1697, 0.5334]. The tissue-rho
+  floor gate passed, but the positive-association claim did not. Growth rate was
+  descriptive only; no growth p-value or confidence interval was computed.
 
 A label-only provenance audit found that the CRC-only cohort has only 7 MSI Broad
 models, below the independently proposed minimum of 8. That CRC-only gate remains a
@@ -100,6 +105,7 @@ uv run candrel-sequence-inclusion-asymmetry  # expected exit 2; inclusion audit 
 uv run candrel-wrn-guide-loo  # expected exit 1; frozen baseline reconstruction failed
 uv run candrel-wrn-sequence-semantics  # expected pass; 103-score semantics audit
 uv run candrel-wrn-guide-loo-passing  # expected exit 2; 5/10 robustness criterion failed
+uv run candrel-wrn-process-association  # expected exit 2; efficacy association gates failed
 ```
 
 Raw API responses are cached under `data/raw/` and excluded from Git. Every run

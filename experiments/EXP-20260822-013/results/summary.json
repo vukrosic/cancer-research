@@ -1,0 +1,95 @@
+{
+  "adequacy": {
+    "efficacy": {
+      "Large Intestine": {
+        "distinct": 17,
+        "largest_tie": 1,
+        "pairs": 17
+      },
+      "Ovary": {
+        "distinct": 17,
+        "largest_tie": 1,
+        "pairs": 17
+      }
+    },
+    "growth": {
+      "Large Intestine": {
+        "distinct": 17,
+        "largest_tie": 1,
+        "pairs": 17
+      },
+      "Ovary": {
+        "distinct": 17,
+        "largest_tie": 1,
+        "pairs": 17
+      }
+    }
+  },
+  "analysis_type": "preregistered_same_assay_model_parameter_association_after_endpoint_unsealing",
+  "artifact_receipt_sha256": {
+    "inference.csv": "1bb0297c5f27627ccf5397dcece2abbbece493ac62208bda271df846a1e4c984",
+    "paired_exposure_outcome.csv": "49a2b9b2271ebc9f1042743928bfa45e44c6e9978c6d24e06dd5f67971c00d49",
+    "parameter_ledger.csv": "384c906eb35d2c4a52411e5db1ac2919e67918f87b7a8113ee966b4cdfd1d470",
+    "summary.json": "4d1a513ddad967cdb71dfe4b4d514d8d5e8165e1d608f2a9965b3ad48e621f5c"
+  },
+  "claim_boundary": "frozen cohort-specific association between efficacy-rank discordance and WRN gap",
+  "experiment_id": "EXP-20260822-013",
+  "growth_descriptive": {
+    "can_rescue_primary": false,
+    "confidence_intervals_computed": 0,
+    "p_values_computed": 0,
+    "theta": 0.11397058823529412,
+    "tissue_rho": {
+      "Large Intestine": 0.031862745098039214,
+      "Ovary": 0.19607843137254902
+    }
+  },
+  "inference_receipt": {
+    "bootstraps": 10000,
+    "paired_model_unit": true,
+    "permutations": 100000,
+    "raw_units_compared_across_sources": false,
+    "seed": 20260830,
+    "zero_variance_bootstrap_redraws": 0
+  },
+  "input_receipt": {
+    "denominator": {
+      "rows": "103",
+      "sha256": "072dd2775d4e3bfaa480cd70639cc799c1e5914b2e9cc5213328383557680654"
+    },
+    "efficacy": {
+      "domain": "efficacy",
+      "mapped_source_model_values": 103,
+      "sha256": "a64065456d8d1e83d2fac94fc7e3ae28e65272cd2a45c3fa969848555f0b7aa0",
+      "unique_model_ids": 1100
+    },
+    "growth": {
+      "domain": "growth",
+      "mapped_source_model_values": 103,
+      "sha256": "4f2f4a9f80af1e9862319156f9a8de38d677797074823bebec7853060550f29c",
+      "unique_model_ids": 1100
+    },
+    "outcome_sha256_after_adequacy": "f2dc22d9c26f937413b612ae4924f1965c837e480a805c1ff0b7b0c5d8b3cd4a"
+  },
+  "overall_pass": false,
+  "primary": {
+    "bootstrap_ci_95": [
+      -0.1697118656184235,
+      0.5334215543371682
+    ],
+    "gates": {
+      "bootstrap_lower_gt_0_10": false,
+      "no_tissue_rho_below_minus_0_20": true,
+      "permutation_p_le_0_05": false,
+      "theta_ge_0_40": false
+    },
+    "pass": false,
+    "permutation_p_one_sided": 0.12201877981220188,
+    "theta": 0.20710784313725492,
+    "tissue_rho": {
+      "Large Intestine": -0.06372549019607843,
+      "Ovary": 0.47794117647058826
+    }
+  },
+  "status": "FAIL_EFFICACY_ASSOCIATION"
+}
