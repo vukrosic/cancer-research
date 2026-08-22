@@ -50,6 +50,14 @@
   `e4b99b4a6cd48c3957c5ada2abeeed1e1de319fe26526e76de6088ec73704c0b`.
 - `Model.csv`: SHA-256
   `6b77a73209ce3faaa7442dbd947d8e08ddcb08b538c36fe820163f9cff321341`.
+- `AchillesCommonEssentialControls.csv`: official MD5
+  `1cbfa612d5d4d16e287bb9f23964839c`; observed SHA-256
+  `496c5ec9eaa2f4c13dc00fd15a8e24df253afcc5a969d3956b7dd3d987640084`.
+- `AchillesNonessentialControls.csv`: official MD5
+  `9b210b75fdc9c9af6408941f730279ab`; observed SHA-256
+  `2aacca44b6a79e7240518e6adbd89c70d7d895da91cd4c8b4d380529bc5b8e5e`.
+- WRN (7486) is absent from both official control lists; EXP-006 uses this to rule out
+  direct inclusion of WRN in the selected screen-control QC metrics.
 - Avana denotes Broad screens and KY denotes Sanger screens. EXP-003 uses ranks
   within source and tissue; raw score magnitudes are not compared across libraries.
 - Raw matrices remain gitignored. Hashes, derived model tables, code, and results
