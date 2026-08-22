@@ -1,0 +1,92 @@
+{
+  "experiment_id": "EXP-20260822-021",
+  "receipt_type": "outcome_free_canonical_roster_and_design",
+  "endpoint_values_opened": false,
+  "canonical_roster": {
+    "rows": 1290,
+    "serialization": "one compact sorted-key JSON object per sorted (source, ModelID) row followed by LF",
+    "row_fields": ["source", "model_id", "lineage", "screen_ids", "matrix_value", "status"],
+    "status_labels": {"damaging": "NF1 matrix value >= 1", "matrix_intact": "NF1 matrix value == 0"},
+    "sha256": "8c3229c5925e533688a9efb8979700d1f2d379a760d0672544a61073a8bfc375"
+  },
+  "source_model_counts": {"Avana": 975, "KY": 315},
+  "source_status_counts": {
+    "Avana": {"damaging": 57, "matrix_intact": 918},
+    "KY": {"damaging": 21, "matrix_intact": 294}
+  },
+  "source_mixed_lineages": {"Avana": 15, "KY": 9},
+  "lineage_counts": {
+    "Avana": {
+      "Ampulla of Vater": {"damaging": 0, "matrix_intact": 4},
+      "Biliary Tract": {"damaging": 0, "matrix_intact": 34},
+      "Bladder/Urinary Tract": {"damaging": 1, "matrix_intact": 31},
+      "Bone": {"damaging": 1, "matrix_intact": 28},
+      "Bowel": {"damaging": 5, "matrix_intact": 41},
+      "Breast": {"damaging": 4, "matrix_intact": 39},
+      "CNS/Brain": {"damaging": 10, "matrix_intact": 63},
+      "Cervix": {"damaging": 0, "matrix_intact": 18},
+      "Esophagus/Stomach": {"damaging": 3, "matrix_intact": 52},
+      "Eye": {"damaging": 0, "matrix_intact": 15},
+      "Head and Neck": {"damaging": 0, "matrix_intact": 53},
+      "Kidney": {"damaging": 0, "matrix_intact": 35},
+      "Liver": {"damaging": 1, "matrix_intact": 23},
+      "Lung": {"damaging": 7, "matrix_intact": 103},
+      "Lymphoid": {"damaging": 0, "matrix_intact": 75},
+      "Myeloid": {"damaging": 2, "matrix_intact": 33},
+      "Ovary/Fallopian Tube": {"damaging": 3, "matrix_intact": 45},
+      "Pancreas": {"damaging": 0, "matrix_intact": 39},
+      "Peripheral Nervous System": {"damaging": 6, "matrix_intact": 25},
+      "Pleura": {"damaging": 0, "matrix_intact": 18},
+      "Prostate": {"damaging": 0, "matrix_intact": 8},
+      "Skin": {"damaging": 3, "matrix_intact": 66},
+      "Soft Tissue": {"damaging": 3, "matrix_intact": 33},
+      "Testis": {"damaging": 0, "matrix_intact": 2},
+      "Thyroid": {"damaging": 3, "matrix_intact": 8},
+      "Uterus": {"damaging": 5, "matrix_intact": 25},
+      "Vulva/Vagina": {"damaging": 0, "matrix_intact": 2}
+    },
+    "KY": {
+      "Biliary Tract": {"damaging": 0, "matrix_intact": 1},
+      "Bone": {"damaging": 1, "matrix_intact": 12},
+      "Bowel": {"damaging": 3, "matrix_intact": 27},
+      "Breast": {"damaging": 1, "matrix_intact": 24},
+      "CNS/Brain": {"damaging": 6, "matrix_intact": 27},
+      "Esophagus/Stomach": {"damaging": 2, "matrix_intact": 37},
+      "Head and Neck": {"damaging": 0, "matrix_intact": 33},
+      "Kidney": {"damaging": 1, "matrix_intact": 2},
+      "Lung": {"damaging": 2, "matrix_intact": 36},
+      "Lymphoid": {"damaging": 0, "matrix_intact": 10},
+      "Myeloid": {"damaging": 0, "matrix_intact": 4},
+      "Other": {"damaging": 0, "matrix_intact": 1},
+      "Ovary/Fallopian Tube": {"damaging": 2, "matrix_intact": 27},
+      "Pancreas": {"damaging": 0, "matrix_intact": 23},
+      "Peripheral Nervous System": {"damaging": 3, "matrix_intact": 13},
+      "Pleura": {"damaging": 0, "matrix_intact": 1},
+      "Prostate": {"damaging": 0, "matrix_intact": 3},
+      "Skin": {"damaging": 0, "matrix_intact": 4},
+      "Soft Tissue": {"damaging": 0, "matrix_intact": 1},
+      "Uterus": {"damaging": 0, "matrix_intact": 8}
+    }
+  },
+  "design_algorithm": {
+    "random_generator": "numpy.random.Generator(numpy.random.PCG64(seed))",
+    "null_score_distribution": "Normal(0, 1)",
+    "alternative_exposed_distribution": "Normal(-0.358286909243, 1)",
+    "alternative_reference_distribution": "Normal(0, 1)",
+    "lineage_order": "lexicographic",
+    "status_order": ["damaging", "matrix_intact"],
+    "model_order": "lexicographic within source/lineage/status",
+    "rank_method": "average",
+    "null_batch_size": 1000,
+    "null_permutations": 100000,
+    "alternative_simulations": 10000,
+    "critical_quantile": "numpy_linear_05",
+    "rejection_rule": "alternative_delta <= critical_delta"
+  },
+  "planning_receipts": {
+    "Avana": {"seed": 20262100, "critical_delta": -0.14961776483436476, "simulated_power": 0.7173, "confirmatory_power_adequate": false},
+    "KY": {"seed": 20262200, "critical_delta": -0.23846153846153847, "simulated_power": 0.4028, "confirmatory_power_adequate": false}
+  },
+  "receipt_sha256": "fdd988807837eb4dfb4d4085636508566cdc7a005812a3550007b51d66bd233e",
+  "sealed_before_endpoint": true
+}
