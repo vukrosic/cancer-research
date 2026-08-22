@@ -22,6 +22,7 @@ candrel-wrn-guide-mutation-adequacy = "candrel.wrn_guide_mutation_adequacy:main"
 candrel-control-discordance = "candrel.control_discordance:main"
 candrel-sequence-inclusion-asymmetry = "candrel.sequence_inclusion_asymmetry:main"
 candrel-wrn-guide-loo = "candrel.wrn_guide_loo:main"
+candrel-wrn-sequence-semantics = "candrel.wrn_sequence_semantics:main"
 
 [build-system]
 requires = ["hatchling"]
