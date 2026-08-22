@@ -49,9 +49,9 @@ The final independent rerun verified:
 - descriptive-only secondary behavior and no secondary rescue;
 - all input hashes and four CSV artifact hashes.
 
-The result directory, result card, and this audit remain to be committed as one
-tracked release. The normalized summary self-digest is intentional and is
-documented separately from the raw `summary.json` SHA-256.
+Release commit `6c3fbd5` tracks the result directory, result card, and this audit.
+The normalized summary self-digest is intentional and is documented separately
+from the raw `summary.json` SHA-256.
 
 ## Claim boundary
 
