@@ -1,0 +1,125 @@
+{
+  "adequacy": {
+    "Avana": {
+      "adequate": true,
+      "completeness": 1.0,
+      "counts": {
+        "Endometrium": {
+          "MSI": 5,
+          "MSS": 2
+        },
+        "Large Intestine": {
+          "MSI": 7,
+          "MSS": 18
+        },
+        "Ovary": {
+          "MSI": 5,
+          "MSS": 17
+        },
+        "Stomach": {
+          "MSI": 3,
+          "MSS": 12
+        }
+      },
+      "eligible_models": 69,
+      "scored_models": 69
+    },
+    "KY": {
+      "adequate": true,
+      "completeness": 1.0,
+      "counts": {
+        "Endometrium": {
+          "MSI": 5,
+          "MSS": 3
+        },
+        "Large Intestine": {
+          "MSI": 10,
+          "MSS": 20
+        },
+        "Ovary": {
+          "MSI": 6,
+          "MSS": 20
+        },
+        "Stomach": {
+          "MSI": 4,
+          "MSS": 10
+        }
+      },
+      "eligible_models": 78,
+      "scored_models": 78
+    }
+  },
+  "bootstrap_repeats": 10000,
+  "confirmation": {
+    "bootstrap_ci_95": [
+      -1.0,
+      -0.8133333333333334
+    ],
+    "gates": {
+      "ci_not_materially_opposite": true,
+      "negative_direction": true,
+      "negative_tissues": true,
+      "no_materially_opposite_tissue": true,
+      "permutation_p": true,
+      "practical_effect": true
+    },
+    "library": "KY",
+    "median_within_tissue_msi_minus_mss": -3.4479984292739942,
+    "n_models": 78,
+    "negative_tissue_count": 4,
+    "pass": true,
+    "permutation_p_one_sided": 9.99990000099999e-06,
+    "stratified_delta": -0.9306666666666666,
+    "tissue_deltas": {
+      "Endometrium": -0.8666666666666667,
+      "Large Intestine": -0.93,
+      "Ovary": -0.9166666666666666,
+      "Stomach": -1.0
+    }
+  },
+  "confirmation_policy": "KY contrast evaluated only after Avana passes",
+  "discovery": {
+    "bootstrap_ci_95": [
+      -0.9377431906614786,
+      -0.5019455252918288
+    ],
+    "gates": {
+      "ci_not_materially_opposite": true,
+      "negative_direction": true,
+      "negative_tissues": true,
+      "no_materially_opposite_tissue": true,
+      "permutation_p": true,
+      "practical_effect": true
+    },
+    "library": "Avana",
+    "median_within_tissue_msi_minus_mss": -0.8839621768140811,
+    "n_models": 69,
+    "negative_tissue_count": 4,
+    "pass": true,
+    "permutation_p_one_sided": 9.99990000099999e-06,
+    "stratified_delta": -0.7431906614785992,
+    "tissue_deltas": {
+      "Endometrium": -0.8,
+      "Large Intestine": -0.9047619047619048,
+      "Ovary": -0.4823529411764706,
+      "Stomach": -0.7777777777777778
+    }
+  },
+  "experiment_id": "EXP-20260822-003",
+  "input_hashes": {
+    "model_file_sha256": "6b77a73209ce3faaa7442dbd947d8e08ddcb08b538c36fe820163f9cff321341",
+    "msi_file_sha256": "eb43e92042ab430adabbbcf65e577459ac52d57df802eb388aea5865ff9b49aa",
+    "qc_file_sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407",
+    "score_file_md5": "265f8372e9cd0fad56c1a6b66b8a783d",
+    "sequence_map_file_sha256": "e4b99b4a6cd48c3957c5ada2abeeed1e1de319fe26526e76de6088ec73704c0b"
+  },
+  "overall_pass": true,
+  "permutation_repeats": 100000,
+  "protocol_deviation": {
+    "claim_label": "sequentially_gated_confirmation_not_unseen_held_out",
+    "occurred": true,
+    "summary": "The first implementation parsed KY endpoint values before the Avana gate. No KY contrast was calculated until Avana passed, but KY values cannot be described as unseen. Final code is source-sequential."
+  },
+  "seed": 20260824,
+  "status": "PASS_POSITIVE_CONTROL_RECOVERY"
+}

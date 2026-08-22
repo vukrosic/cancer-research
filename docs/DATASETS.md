@@ -28,10 +28,35 @@
 ## DepMap Public 26Q1
 
 - Portal: <https://depmap.org/portal/data_page/?tab=currentRelease>
-- Candidate later files: model metadata, screen map, gene effect, copy number,
-  mutation, and expression subsets.
-- Observed full gene-effect file size: about 440.6 MB.
-- Use: current Broad discovery and release-stability analyses.
+- Breadbox screen metadata audited: 1,518 screens; among `PassesQC && CanInclude`,
+  Avana 1,049, Brunello 13, Humagne-CD 70, KY 322, and TKOv3 4.
+- `ScreenGeneEffect` is not used as a source-independent endpoint. The official
+  26Q1 notes state that Chronos library correction affects both screen- and
+  model-level gene-effect matrices.
+
+## DepMap Public 23Q4
+
+- Official record: <https://doi.org/10.25452/figshare.plus.24667905.v2>.
+- `ScreenNaiveGeneScore.csv`: 469,333,423 bytes; official and observed MD5
+  `265f8372e9cd0fad56c1a6b66b8a783d`; observed SHA-256
+  `e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721`.
+- Download URL: <https://ndownloader.figshare.com/files/43347798>; retrieved
+  2026-08-22 at approximately 11:01 Europe/Sarajevo.
+- Semantics: LFC collapsed by mean of sequences and median of guides, computed per
+  library-screen type and then concatenated.
+- `AchillesScreenQCReport.csv`: SHA-256
+  `fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407`.
+- `ScreenSequenceMap.csv`: SHA-256
+  `e4b99b4a6cd48c3957c5ada2abeeed1e1de319fe26526e76de6088ec73704c0b`.
+- `Model.csv`: SHA-256
+  `6b77a73209ce3faaa7442dbd947d8e08ddcb08b538c36fe820163f9cff321341`.
+- Avana denotes Broad screens and KY denotes Sanger screens. EXP-003 uses ranks
+  within source and tissue; raw score magnitudes are not compared across libraries.
+- Raw matrices remain gitignored. Hashes, derived model tables, code, and results
+  are tracked.
+- Terms checked at acquisition: DepMap portal terms apply;
+  <https://depmap.org/portal/terms/>. This repository redistributes derived results,
+  not the raw matrix.
 
 ## Storage policy
 

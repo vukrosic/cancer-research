@@ -21,25 +21,30 @@ uncertainty and artifact controls?
 
 ## Current phase
 
-Two bounded gates are complete:
+Three bounded experiments are complete:
 
 - `EXP-20260822-001` passed the API engineering gate: all eight frozen genes had 177
   paired Broad/Sanger models and positive source correlations.
 - `EXP-20260822-002` **falsified** the preregistered claim that `fc_clean_qn`
   materially inflates agreement relative to source-labelled `bf_scaled`: median
   correlation difference was -0.0031 and only 4/8 genes favored `fc_clean_qn`.
+- `EXP-20260822-003` recovered the known MSI–WRN positive control with a
+  source-separated naïve endpoint: tissue-stratified delta was -0.743 in Broad
+  Avana discovery and -0.931 in the sequentially gated Sanger KY confirmation
+  contrast, with all four tissues negative in both sources and preregistered gates
+  passed. A recorded implementation deviation forbids calling KY values fully unseen.
 
-A label-only provenance audit found that the historical colorectal cohort has only
-7 MSI Broad models, below the independently proposed minimum of 8. The MSI–WRN
-outcome test therefore remains sealed while current-release, source-separated
-evidence is audited. This is a deliberate negative checkpoint, not a completed
-biological claim.
+A label-only provenance audit found that the CRC-only cohort has only 7 MSI Broad
+models, below the independently proposed minimum of 8. That CRC-only gate remains a
+deliberate failure. EXP-003 is a separately preregistered four-tissue positive-control
+test and does not retroactively rescue it.
 
 ```bash
 uv sync
 uv run pytest
 uv run candrel-smoke  # writes rerun_latest.json and stops if the API inputs drift
 uv run candrel-processing-sensitivity  # expected exit 2: frozen hypothesis failed
+uv run candrel-msi-wrn-replication  # source-separated discovery -> gated confirmation
 ```
 
 Raw API responses are cached under `data/raw/` and excluded from Git. Every run
