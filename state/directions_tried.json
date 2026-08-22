@@ -3,5 +3,6 @@
   {"direction": "cross_assay_drug_response", "decision": "backlog", "reason": "important but crowded generalization literature"},
   {"direction": "survival_signature_transport", "decision": "deferred", "reason": "high endpoint and novelty risk"},
   {"direction": "rare_subgroup_dependency_stability", "decision": "selected", "reason": "best impact-feasibility-verification balance"},
-  {"direction": "replication_first_paralog_loss", "decision": "selected_next", "reason": "biologically useful after pipeline validation"}
+  {"direction": "replication_first_paralog_loss", "decision": "selected_next", "reason": "biologically useful after pipeline validation"},
+  {"direction": "matrix_defined_EP300_status_to_CREBBP_dependency", "decision": "completed_feasibility_only", "reason": "strong aggregate association in both source families but lineage heterogeneity and sub-0.80 planning power prevent confirmatory claim"}
 ]

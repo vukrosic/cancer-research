@@ -1,8 +1,8 @@
 {
-  "iteration": 21,
-  "total_findings": 57,
+  "iteration": 22,
+  "total_findings": 60,
   "status": "active",
   "stale_count": 0,
-  "current_experiment": "EXP-20260822-021",
-  "last_updated": "2026-08-22T18:50:00+02:00"
+  "current_experiment": "EXP-20260822-022",
+  "last_updated": "2026-08-22T19:16:29+02:00"
 }
