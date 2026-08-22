@@ -1,0 +1,90 @@
+{
+  "census_id": "EXP039-candidate-shortlist-20260822",
+  "census_at": "2026-08-22T23:36:32+0200",
+  "purpose": "Outcome-free selection of a distinct PBAF-loss-proxy-to-PARP1 dependency direction",
+  "endpoint_values_opened": false,
+  "endpoint_access": "ScreenNaiveGeneScore.csv header identity only; no PARP1 score row or target value parsed",
+  "eligibility_rule": "PassesQC == True, CanInclude == True, Library in {Avana, KY}, exact ScreenID-to-ModelID map, nonblank eligible OncotreeLineage",
+  "status_rule": "Composite damaging proxy is 1 when PBRM1 (55193) or ARID2 (196528) matrix value is 1 or 2; reference is 0 when both matrix values are 0",
+  "selection_basis": "A primary Cancer Research study reports PARP and ATR inhibitor synthetic lethality in PBRM1-deficient cancer. The frozen experiment tests whether a conservative composite PBAF-subunit damaging proxy transports to source-specific genetic PARP1 dependency. It cannot claim isolated PBRM1 loss, ARID2 loss, pharmacologic PARP inhibition, homologous-recombination deficiency, or clinical benefit.",
+  "distinctness_contract": {
+    "prior_experiments": ["EXP-20260822-001", "EXP-20260822-002", "EXP-20260822-003", "EXP-20260822-004", "EXP-20260822-005", "EXP-20260822-006", "EXP-20260822-007", "EXP-20260822-008", "EXP-20260822-009", "EXP-20260822-010", "EXP-20260822-011", "EXP-20260822-012", "EXP-20260822-013", "EXP-20260822-014", "EXP-20260822-015", "EXP-20260822-016", "EXP-20260822-017", "EXP-20260822-018", "EXP-20260822-019", "EXP-20260822-020", "EXP-20260822-021", "EXP-20260822-022", "EXP-20260822-023", "EXP-20260822-024", "EXP-20260822-025", "EXP-20260822-026", "EXP-20260822-027", "EXP-20260822-028", "EXP-20260822-029", "EXP-20260822-030", "EXP-20260822-031", "EXP-20260822-032", "EXP-20260822-033", "EXP-20260822-034", "EXP-20260822-035", "EXP-20260822-036", "EXP-20260822-037", "EXP-20260822-038"],
+    "prior_pairs_excluded": ["STAG2_damaging_to_STAG1", "PDS5B_damaging_to_PDS5A", "ARID1A_damaging_to_ARID1B", "ARID1A_damaging_to_KEAP1", "TP53_matrix_intact_to_MDM2", "CDKN2A_damaging_to_TYMS", "PTEN_damaging_to_PIK3CB", "TP53_damaging_to_WEE1", "NF1_damaging_to_PTPN11", "EP300_damaging_to_CREBBP", "APC_damaging_to_TDO2", "KMT2D_damaging_to_KMT2C", "CDKN2A_damaging_to_PELO", "PTEN_damaging_to_PAPSS1", "ARID1A_damaging_to_EZH2", "TP53_damaging_to_TIPARP", "BRCA1_or_BRCA2_damaging_to_POLQ", "BRCA1_or_BRCA2_damaging_to_CIP2A", "SMAD4_damaging_to_BRD4", "SMAD4_damaging_to_AURKA", "ARID1A_damaging_to_ATR", "TP53_damaging_to_TDG", "TP53_damaging_to_ENDOD1", "RB1_damaging_to_SKP2", "CDKN2A_damaging_to_MAT2A", "PTEN_damaging_to_ICMT"],
+    "current_pair": "PBRM1_or_ARID2_damaging_to_PARP1",
+    "endpoint_gene_changed": true,
+    "status_gene_changed": true,
+    "status_columns": ["PBRM1 (55193)", "ARID2 (196528)"]
+  },
+  "inputs": {
+    "screen_qc_sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407",
+    "screen_map_sha256": "1e2bf9075600cd049dafc385866991523c65806657f3c8bd71afde3fe00ee9ad",
+    "model_sha256": "6b77a73209ce3faaa7442dbd947d8e08ddcb08b538c36fe820163f9cff321341",
+    "damaging_matrix_sha256": "aea4d970c0876afb90d2dc0e2709ff28be5a84e4e246f3a5a31faaba0fbc47e3",
+    "endpoint_sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721",
+    "status_columns": ["PBRM1 (55193)", "ARID2 (196528)"],
+    "endpoint_target_column": "PARP1 (142)"
+  },
+  "frozen_context": {
+    "eligible_screens": 1292,
+    "source_model_counts": {"Avana": 975, "KY": 315},
+    "status_counts": {"Avana": {"damaging": 49, "matrix_intact": 926}, "KY": {"damaging": 22, "matrix_intact": 293}},
+    "mixed_lineages": {"Avana": 15, "KY": 8},
+    "minimum_exposed_models_per_source": 20,
+    "minimum_reference_models_per_source": 50,
+    "minimum_mixed_lineages_per_source": 5,
+    "canonical_roster_sha256": "6ab143e99b7d58d82a1b1e22b9948aacc5944ebe6daabe448505cd8735188af4"
+  },
+  "candidate_shortlist": [
+    {
+      "status_gene": "PBRM1_or_ARID2",
+      "status_columns": ["PBRM1 (55193)", "ARID2 (196528)"],
+      "target_gene": "PARP1",
+      "target_alias": "poly(ADP-ribose) polymerase 1",
+      "target_column": "PARP1 (142)",
+      "exposure_definition": "composite damaging when either PBRM1 or ARID2 matrix value is >= 1; reference when both are 0",
+      "Avana": {"damaging": 49, "matrix_intact": 926, "mixed_lineages": 15, "planning_power": 0.6569},
+      "KY": {"damaging": 22, "matrix_intact": 293, "mixed_lineages": 8, "planning_power": 0.3913},
+      "decision": "selected_executable_PBAF_proxy_with_primary_PBRM1_PARPi_rationale_but_permanent_feasibility_only_label",
+      "primary_source": "https://aacrjournals.org/cancerres/article/81/11/2888/673616/PBRM1-Deficiency-Confers-Synthetic-Lethality-to"
+    },
+    {
+      "status_gene": "PBRM1",
+      "status_column": "PBRM1 (55193)",
+      "target_gene": "PARP1",
+      "target_column": "PARP1 (142)",
+      "exposure_definition": "PBRM1 damaging matrix value >= 1",
+      "Avana": {"damaging": 32, "matrix_intact": 943, "mixed_lineages": 13},
+      "KY": {"damaging": 11, "matrix_intact": 304, "mixed_lineages": 6},
+      "decision": "not_selected_KY_exposure_below_frozen_execution_minimum_of_20",
+      "primary_source": "https://aacrjournals.org/cancerres/article/81/11/2888/673616/PBRM1-Deficiency-Confers-Synthetic-Lethality-to"
+    },
+    {
+      "status_gene": "PBRM1_or_ARID2",
+      "status_columns": ["PBRM1 (55193)", "ARID2 (196528)"],
+      "target_gene": "ATR",
+      "target_column": "ATR (545)",
+      "exposure_definition": "same composite damaging proxy",
+      "Avana": {"damaging": 49, "matrix_intact": 926, "mixed_lineages": 15},
+      "KY": {"damaging": 22, "matrix_intact": 293, "mixed_lineages": 8},
+      "decision": "not_selected_target_alternative_reserved_for_later_without_endpoint_access",
+      "primary_source": "https://aacrjournals.org/cancerres/article/81/11/2888/673616/PBRM1-Deficiency-Confers-Synthetic-Lethality-to"
+    }
+  ],
+  "design_model": {
+    "normal_mean_shift": -0.358286909243,
+    "null_permutations": 100000,
+    "alternative_simulations": 10000,
+    "planning_power_seeds": {"Avana": 20263900, "KY": 20264000},
+    "inference_seeds": {"Avana": 20273900, "KY": 20274000},
+    "canonical_roster_sha256": "6ab143e99b7d58d82a1b1e22b9948aacc5944ebe6daabe448505cd8735188af4",
+    "critical_quantile": "numpy_linear_05",
+    "rejection_rule": "alternative_delta <= critical_delta",
+    "confirmatory_power_threshold": 0.8,
+    "frozen_label": "FEASIBILITY_ONLY"
+  },
+  "literature_search": {
+    "searched_at": "2026-08-22",
+    "primary_sources": ["https://aacrjournals.org/cancerres/article/81/11/2888/673616/PBRM1-Deficiency-Confers-Synthetic-Lethality-to"],
+    "selection_note": "The primary study reports PBRM1-deficiency synthetic lethality with PARP and ATR inhibitors. Because isolated PBRM1 damaging status has only 11 eligible KY models, the preregistered executable proxy broadens the exposure to either of the two PBAF subunits PBRM1 or ARID2 and explicitly forbids isolated-PBRM1 or pharmacologic overclaiming. Both source planning powers are below 0.80."
+  }
+}
