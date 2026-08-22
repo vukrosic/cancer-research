@@ -1,0 +1,88 @@
+{
+  "experiment_id": "EXP-20260822-010",
+  "parent_id": "EXP-20260822-005",
+  "frozen_at": "2026-08-22T13:01:51+02:00",
+  "analysis_type": "preregistered_exhaustive_derived_robustness_audit_after_endpoint_unsealing",
+  "entrypoint": "uv run candrel-wrn-guide-loo",
+  "release": "DepMap Public 23Q4",
+  "figshare_article": 24667905,
+  "figshare_version": 2,
+  "large_inputs": {
+    "AvanaLogfoldChange.csv": {
+      "figshare_file_id": 43346409,
+      "size": 3173505617,
+      "md5": "58b1f479091a9f8b3e858d69d55413c4"
+    },
+    "KYLogfoldChange.csv": {
+      "figshare_file_id": 43346778,
+      "size": 1585769082,
+      "md5": "c711c9413b63fe7c55b734e43cdeca91"
+    }
+  },
+  "inputs": {
+    "avana_guide_map": {
+      "file": "data/raw/depmap/23q4/AvanaGuideMap.csv",
+      "sha256": "5580f89d2bbd26d25cf107c6441dcc30774a333385e104e83e1212ca16ec99a2"
+    },
+    "ky_guide_map": {
+      "file": "data/raw/depmap/23q4/KYGuideMap.csv",
+      "sha256": "23bafc0d2f88b25727af8e2f5d0245495c39243163fb465ceffc9755c012c4b0"
+    },
+    "screen_sequence_map": {
+      "file": "data/raw/depmap/23q4/ScreenSequenceMap.csv",
+      "sha256": "e4b99b4a6cd48c3957c5ada2abeeed1e1de319fe26526e76de6088ec73704c0b"
+    },
+    "screen_qc": {
+      "file": "data/raw/depmap/23q4/AchillesScreenQCReport.csv",
+      "sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407"
+    },
+    "naive_gene_scores": {
+      "file": "data/raw/depmap/23q4/ScreenNaiveGeneScore.csv",
+      "sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721"
+    },
+    "denominator_model_scores": {
+      "file": "experiments/EXP-20260822-003/results/model_scores.csv",
+      "sha256": "072dd2775d4e3bfaa480cd70639cc799c1e5914b2e9cc5213328383557680654"
+    },
+    "wrn_gaps": {
+      "file": "experiments/EXP-20260822-005/results/model_percentile_gaps.csv",
+      "sha256": "f2dc22d9c26f937413b612ae4924f1965c837e480a805c1ff0b7b0c5d8b3cd4a"
+    }
+  },
+  "eligible_guides": {
+    "Avana": [
+      "AGAAAACCTCAATAGTGGCA",
+      "CTAACATTGAGACTGAACTG",
+      "GTAGCAGTAAGTGCAACGAT",
+      "TCTTCCATCAGAGAAATAAG"
+    ],
+    "KY": [
+      "GCACGTACATAAGCATCAG",
+      "GTCTATCCGCTGTAGCAAT",
+      "TAGCAGTAAGTGCAACGAT",
+      "TAGCATGAGTCTATCAGAT",
+      "TGGAGTTACGTATACAATC"
+    ]
+  },
+  "full_denominator_counts": {
+    "Avana|Large Intestine": 25,
+    "KY|Large Intestine": 30,
+    "Avana|Ovary": 22,
+    "KY|Ovary": 26,
+    "total_source_screens": 103
+  },
+  "paired_counts": {
+    "Large Intestine": 17,
+    "Ovary": 17,
+    "total": 34,
+    "baseline_gap_flagged": 10,
+    "baseline_gap_unflagged": 24
+  },
+  "baseline_absolute_tolerance": 1e-8,
+  "baseline_relative_tolerance": 0,
+  "global_single_guide_omissions": 9,
+  "minimum_fully_robust_flagged_models": 8,
+  "flag_threshold": 0.25,
+  "expected_output": "experiments/EXP-20260822-010/results/summary.json",
+  "code_commit_before_implementation": "3b5c70420e2c88188b854b64deb238afc7bc8bd5"
+}

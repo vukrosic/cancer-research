@@ -8,9 +8,9 @@ orthogonal experimental validation.
 
 ## Current milestone
 
-Execute the frozen EXP-009 sequence-inclusion-asymmetry audit, preserve its result
-regardless of direction, and then select the next orthogonal gene-specific or
-assay-process hypothesis without post hoc rescue.
+Execute the frozen EXP-010 exhaustive single-guide-omission robustness audit,
+preserve its result regardless of direction, and use it to determine whether the
+previously flagged WRN gaps are stable to one eligible guide at a time.
 
 ## Program success
 
