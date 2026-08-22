@@ -1,0 +1,43 @@
+{
+  "experiment_id": "EXP-20260822-003",
+  "parent_id": "PROVENANCE-AUDIT-20260822",
+  "frozen_at": "2026-08-22T11:00:55+02:00",
+  "entrypoint": "uv run candrel-msi-wrn-replication",
+  "seed": 20260824,
+  "permutation_repeats": 100000,
+  "bootstrap_repeats": 10000,
+  "release": {
+    "name": "DepMap Public 23Q4",
+    "article_id": 24667905,
+    "article_version": 2,
+    "doi": "10.25452/figshare.plus.24667905.v2"
+  },
+  "endpoint": {
+    "file": "ScreenNaiveGeneScore.csv",
+    "url": "https://ndownloader.figshare.com/files/43347798",
+    "expected_md5": "265f8372e9cd0fad56c1a6b66b8a783d",
+    "column": "WRN (7486)",
+    "direction": "more_negative_is_stronger_loss_of_fitness"
+  },
+  "metadata": {
+    "screen_qc_file": "data/raw/depmap/23q4/AchillesScreenQCReport.csv",
+    "screen_qc_sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407",
+    "sequence_map_file": "data/raw/depmap/23q4/ScreenSequenceMap.csv",
+    "sequence_map_sha256": "e4b99b4a6cd48c3957c5ada2abeeed1e1de319fe26526e76de6088ec73704c0b",
+    "model_file": "data/raw/depmap/23q4/Model.csv",
+    "model_sha256": "6b77a73209ce3faaa7442dbd947d8e08ddcb08b538c36fe820163f9cff321341",
+    "msi_file": "data/raw/cell_model_passports/provenance_gate/model_list_20260814.csv",
+    "msi_sha256": "eb43e92042ab430adabbbcf65e577459ac52d57df802eb388aea5865ff9b49aa"
+  },
+  "libraries": {"discovery": "Avana", "confirmation": "KY"},
+  "tissues": ["Large Intestine", "Ovary", "Endometrium", "Stomach"],
+  "minimum_group_per_tissue_source": 2,
+  "minimum_endpoint_completeness": 0.8,
+  "maximum_p": 0.05,
+  "maximum_delta": -0.33,
+  "maximum_ci_upper": 0.1,
+  "minimum_negative_tissues": 3,
+  "maximum_any_tissue_delta": 0.33,
+  "expected_output": "experiments/EXP-20260822-003/results/summary.json",
+  "code_commit_before_implementation": "157f980c397947252d2988c0031e956f4972b7c7"
+}
