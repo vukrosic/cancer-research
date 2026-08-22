@@ -5,8 +5,8 @@
   "next_actions": ["commit_and_push_negative_result", "preregister_current_release_availability_experiment", "implement_auditor_test_recommendations"],
   "github_url": "https://github.com/vukrosic/cancer-dependency-reliability",
   "initial_publication_commit": "2d308eb",
-  "authorized_scope": "local repository experiments, recurring same-task research heartbeat, and requested GitHub publication",
+  "authorized_scope": "local repository experiments and requested GitHub publication",
   "heartbeat_automation_id": "cancer-dependency-reliability-research-heartbeat",
-  "heartbeat_status": "ACTIVE",
+  "heartbeat_status": "DELETED_BY_USER_REQUEST",
   "stop_reason": null
 }
