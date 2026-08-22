@@ -12,7 +12,7 @@
   "score": "fc_clean_qn",
   "panel": ["WRN", "BRAF", "KRAS", "NRAS", "EGFR", "PIK3CA", "CTNNB1", "MDM2"],
   "expected_output": "experiments/EXP-20260822-001/results/summary.json",
-  "code_commit": "TO_BE_FILLED_AFTER_INITIAL_COMMIT",
+  "code_commit": "c9d8f3c8990369b5b35b0348d94e092374f92e26",
   "input_receipt": "experiments/EXP-20260822-001/input_receipt.json",
   "input_receipt_sha256": "2086b1f686c28aa87fe2e82228792f98533ca82c14ba3b6a7a07b901d829b2e9"
 }
