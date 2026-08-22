@@ -1,0 +1,83 @@
+{
+  "census_id": "EXP028-candidate-shortlist-20260822",
+  "census_at": "2026-08-22T20:44:00+0200",
+  "purpose": "Outcome-free selection of a distinct TP53-proxy-to-TIPARP-dependency direction",
+  "endpoint_values_opened": false,
+  "endpoint_access": "ScreenNaiveGeneScore.csv header identity only; no TIPARP score row or target value parsed",
+  "eligibility_rule": "PassesQC == True, CanInclude == True, Library in {Avana, KY}, exact ScreenID-to-ModelID map, nonblank eligible OncotreeLineage",
+  "status_rule": "matrix values restricted to {0,1,2}; primary exposure is TP53 damaging value >= 1 and reference is TP53 matrix value == 0",
+  "selection_basis": "TP53-damaging-proxy-to-TIPARP is a distinct target direction after the completed TP53-to-MDM2 and TP53-to-WEE1 audits. The primary SCHEMATIC study reports a multilineage PARP7/TIPARP interaction network that includes TP53 and related genome-integrity factors, while its strongest pharmacologic biomarker validation focused on KDM5C/KDM6A. EXP028 audits whether a common frozen TP53 damaging proxy tracks source-specific TIPARP knockout dependency. KY planning power is 0.7509, so the paired experiment is permanently feasibility-only.",
+  "distinctness_contract": {
+    "prior_experiments": ["EXP-20260822-014", "EXP-20260822-015", "EXP-20260822-016", "EXP-20260822-017", "EXP-20260822-018", "EXP-20260822-019", "EXP-20260822-020", "EXP-20260822-021", "EXP-20260822-022", "EXP-20260822-023", "EXP-20260822-024", "EXP-20260822-025", "EXP-20260822-026", "EXP-20260822-027"],
+    "prior_pairs_excluded": ["STAG2_damaging_to_STAG1", "PDS5B_damaging_to_PDS5A", "ARID1A_damaging_to_ARID1B", "ARID1A_damaging_to_KEAP1", "TP53_matrix_intact_to_MDM2", "CDKN2A_damaging_to_TYMS", "PTEN_damaging_to_PIK3CB", "TP53_damaging_to_WEE1", "NF1_damaging_to_PTPN11", "EP300_damaging_to_CREBBP", "APC_damaging_to_TDO2", "KMT2D_damaging_to_KMT2C", "CDKN2A_damaging_to_PELO", "PTEN_damaging_to_PAPSS1", "ARID1A_damaging_to_EZH2"],
+    "current_pair": "TP53_damaging_to_TIPARP",
+    "endpoint_gene_changed": true,
+    "status_gene_changed": false
+  },
+  "inputs": {
+    "screen_qc_sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407",
+    "screen_map_sha256": "1e2bf9075600cd049dafc385866991523c65806657f3c8bd71afde3fe00ee9ad",
+    "model_sha256": "6b77a73209ce3faaa7442dbd947d8e08ddcb08b538c36fe820163f9cff321341",
+    "damaging_matrix_sha256": "aea4d970c0876afb90d2dc0e2709ff28be5a84e4e246f3a5a31faaba0fbc47e3",
+    "endpoint_sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721",
+    "endpoint_target_column": "TIPARP (25976)"
+  },
+  "candidate_shortlist": [
+    {
+      "status_gene": "TP53",
+      "status_column": "TP53 (7157)",
+      "target_gene": "TIPARP",
+      "target_alias": "PARP7",
+      "target_column": "TIPARP (25976)",
+      "exposure_definition": "damaging matrix value >= 1",
+      "Avana": {"damaging": 610, "matrix_intact": 365, "mixed_lineages": 25, "planning_power": 0.9952},
+      "KY": {"damaging": 233, "matrix_intact": 82, "mixed_lineages": 16, "planning_power": 0.7509},
+      "decision": "selected_distinct_recent_multilineage_parp7_network_with_adequate_two_source_context_but_feasibility_only",
+      "primary_source": "https://www.nature.com/articles/s41588-024-01971-9"
+    },
+    {
+      "status_gene": "CDKN2A",
+      "status_column": "CDKN2A (1029)",
+      "target_gene": "TIPARP",
+      "target_alias": "PARP7",
+      "target_column": "TIPARP (25976)",
+      "exposure_definition": "damaging matrix value >= 1",
+      "Avana": {"damaging": 110, "matrix_intact": 865, "mixed_lineages": 19, "planning_power": 0.8941},
+      "KY": {"damaging": 37, "matrix_intact": 278, "mixed_lineages": 11, "planning_power": 0.5364},
+      "decision": "not_selected_same_target_but_less_two_source_planning_support_after_completed_cdkn2a_audits",
+      "primary_source": "https://www.nature.com/articles/s41588-024-01971-9"
+    },
+    {
+      "status_gene": "KRAS",
+      "status_column": "KRAS (3845)",
+      "target_gene": "SCD",
+      "target_column": "SCD (6319)",
+      "exposure_definition": "damaging matrix value >= 1",
+      "Avana": {"damaging": 0, "matrix_intact": 975, "mixed_lineages": 0},
+      "KY": {"damaging": 0, "matrix_intact": 315, "mixed_lineages": 0},
+      "decision": "not_selected_t0_exposure_constancy_the_paper_reports_kras_gain_of_function_or_copy_number_biology_not_represented_by_this_damaging_matrix_column",
+      "primary_source": "https://doi.org/10.1038/s41586-026-10843-7"
+    }
+  ],
+  "design_model": {
+    "normal_mean_shift": -0.358286909243,
+    "null_permutations": 100000,
+    "alternative_simulations": 10000,
+    "planning_power_seeds": {"Avana": 20262800, "KY": 20262900},
+    "canonical_roster_sha256": "61060e6ef0c24ad1bb3acc2fbe75e9ad5f8908df505d20290cbab2189557b376",
+    "design_receipt_path": "experiments/EXP-20260822-028/design_census_receipt.json",
+    "critical_quantile": "numpy_linear_05",
+    "rejection_rule": "alternative_delta <= critical_delta",
+    "confirmatory_power_threshold": 0.8,
+    "frozen_label": "FEASIBILITY_ONLY"
+  },
+  "literature_search": {
+    "searched_at": "2026-08-22",
+    "primary_sources": [
+      "https://www.nature.com/articles/s41588-024-01971-9",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12266356/",
+      "https://doi.org/10.1038/s41586-026-10843-7"
+    ],
+    "selection_note": "The primary SCHEMATIC study reports PARP7/TIPARP synthetic-lethal interactions with a genome-integrity network that includes TP53 and validates pharmacologic PARP7 sensitivity most directly for KDM5C/KDM6A alterations. EXP028 tests only a matrix-defined TP53 damaging proxy against source-specific TIPARP knockout dependency; it does not claim functional TP53 loss, the paper's combinatorial interaction score, PARP7 inhibitor sensitivity, causal synthetic lethality, treatment benefit, or clinical utility."
+  }
+}
