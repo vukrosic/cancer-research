@@ -79,6 +79,15 @@ class IntegrityError(RuntimeError):
     """Raised when a frozen input, ordering, or analysis invariant drifts."""
 
 
+class T0Stop(IntegrityError):
+    """A preregistered non-evaluable stop, distinct from input/code integrity drift."""
+
+    def __init__(self, status: str, endpoint_opened: bool, message: str) -> None:
+        super().__init__(message)
+        self.status = status
+        self.endpoint_opened = endpoint_opened
+
+
 @dataclass(frozen=True)
 class EligibleScreen:
     screen_id: str
@@ -262,7 +271,11 @@ def load_context(
             if len(losses) != EXPECTED_LOSS_COUNTS[(pair["pair_id"], source)]:
                 raise IntegrityError(f"frozen loss count drift: {pair['pair_id']} {source}")
             if len(losses) < MIN_LOSS or len(intact) < MIN_INTACT or len(lineages) < MIN_LINEAGES:
-                raise IntegrityError(f"context adequacy failure: {pair['pair_id']} {source}")
+                raise T0Stop(
+                    "T0_CONTEXT_ADEQUACY",
+                    False,
+                    f"context adequacy failure: {pair['pair_id']} {source}",
+                )
     receipt = {
         "screen_qc_sha256": actual,
         "screen_map_sha256": screen_map_hash,
@@ -501,7 +514,11 @@ def load_endpoint(
             else:
                 model_scores[key] = float(median(values[key]))
     if missing:
-        raise IntegrityError(f"endpoint completeness failure: {len(missing)} missing model/pair values")
+        raise T0Stop(
+            "T0_ENDPOINT_COMPLETENESS",
+            True,
+            f"endpoint completeness failure: {len(missing)} missing model/pair values",
+        )
     return model_scores, {
         "sha256": actual,
         "eligible_screens_seen": len(seen_screens),
@@ -778,6 +795,20 @@ def publish(args: argparse.Namespace) -> int:
             if json.loads((stage / "summary.json").read_text(encoding="utf-8")) != result:
                 raise IntegrityError("summary round-trip drift")
             os.replace(stage, target)
+    except T0Stop as exc:
+        write_error(
+            error,
+            {
+                "experiment_id": EXPERIMENT_ID,
+                "status": exc.status,
+                "error": str(exc),
+                "error_type": type(exc).__name__,
+                "t0": True,
+                "endpoint_opened": exc.endpoint_opened,
+                "results_written": False,
+            },
+        )
+        return 2
     except Exception as exc:
         write_error(error, {"experiment_id": EXPERIMENT_ID, "status": "ERROR_INTEGRITY", "error": str(exc), "error_type": type(exc).__name__, "results_written": False})
         return 1

@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import pytest
 
-from candrel.paralog_replication import delta_from_scores, summary_digest
+from candrel.paralog_replication import T0Stop, delta_from_scores, summary_digest
 
 
 def test_delta_counts_lower_scores_as_negative_and_ties_as_zero() -> None:
@@ -27,3 +27,12 @@ def test_summary_digest_normalizes_self_receipt() -> None:
     digest = summary_digest(result)
     result["artifact_receipt_sha256"]["summary.json"] = digest
     assert summary_digest(result) == digest
+
+
+def test_t0_stop_preserves_protocol_status_and_endpoint_boundary() -> None:
+    context_stop = T0Stop("T0_CONTEXT_ADEQUACY", False, "not enough status groups")
+    endpoint_stop = T0Stop("T0_ENDPOINT_COMPLETENESS", True, "missing target score")
+    assert context_stop.status == "T0_CONTEXT_ADEQUACY"
+    assert context_stop.endpoint_opened is False
+    assert endpoint_stop.status == "T0_ENDPOINT_COMPLETENESS"
+    assert endpoint_stop.endpoint_opened is True
