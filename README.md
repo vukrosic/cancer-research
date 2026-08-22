@@ -21,7 +21,7 @@ uncertainty and artifact controls?
 
 ## Current phase
 
-Three bounded experiments are complete:
+Six bounded experiments are complete:
 
 - `EXP-20260822-001` passed the API engineering gate: all eight frozen genes had 177
   paired Broad/Sanger models and positive source correlations.
@@ -41,6 +41,13 @@ Three bounded experiments are complete:
   but ovarian agreement was weaker and 10/34 models had percentile gaps at least
   0.25. Independent audit corrected the bootstrap implementation and returned GO;
   the corrected CI is [0.319, 0.787].
+- `EXP-20260822-006` **falsified** the preregistered QC-asymmetry hypothesis: the
+  equal-tissue association between a five-metric source-QC-rank-asymmetry composite
+  and WRN percentile gap was -0.066 (permutation p=0.645, bootstrap 95% CI
+  [-0.392, 0.278]). All four gates failed and tissue directions disagreed. This
+  rules out the proposed simple QC composite as a useful explanation in this set;
+  it does not rule out guide design, assay duration, cell state, or other technical
+  factors.
 
 A label-only provenance audit found that the CRC-only cohort has only 7 MSI Broad
 models, below the independently proposed minimum of 8. That CRC-only gate remains a
@@ -54,6 +61,7 @@ uv run candrel-smoke  # writes rerun_latest.json and stops if the API inputs dri
 uv run candrel-processing-sensitivity  # expected exit 2: frozen hypothesis failed
 uv run candrel-msi-wrn-replication  # source-separated discovery -> gated confirmation
 uv run candrel-wrn-ordering  # expected pass; two-tissue model-ordering reliability
+uv run candrel-wrn-qc-asymmetry  # expected exit 2; frozen QC-gap hypothesis failed
 ```
 
 Raw API responses are cached under `data/raw/` and excluded from Git. Every run

@@ -17,6 +17,7 @@ candrel-smoke = "candrel.smoke:main"
 candrel-processing-sensitivity = "candrel.processing_sensitivity:main"
 candrel-msi-wrn-replication = "candrel.msi_wrn_replication:main"
 candrel-wrn-ordering = "candrel.wrn_ordering:main"
+candrel-wrn-qc-asymmetry = "candrel.wrn_qc_asymmetry:main"
 
 [build-system]
 requires = ["hatchling"]
