@@ -46,12 +46,12 @@
   "uv_lock_sha256": "d09301a2eff28d69c3e0b504d4cdae5ed21c1e451efb92e60f360ebf047106dd",
   "implementation_boundary": {
     "required_base_commit": "037c6d5872f24ef9a4e458fd6e8248b3aa046c57",
-    "implementation_commit": "15dd90b402218c862086ddfa0aa66a7d543d25fd",
+    "implementation_commit": "24dda7edc41f1cf4c66281c54cce509b04e499d9",
     "implementation_module": "src/candrel/pbrm1_arid2_parp1_replication.py",
     "engine_module": "src/candrel/tp53_mdm2_replication.py",
     "project_file": "pyproject.toml",
     "modules": [
-      {"path": "src/candrel/pbrm1_arid2_parp1_replication.py", "sha256": "a97313706e99534afd0c19f82cf6a79b552aa5b56b8c655c86e1bd1a881b7727"},
+      {"path": "src/candrel/pbrm1_arid2_parp1_replication.py", "sha256": "9d4d6caf137403b3a0df0800f0a055f2aab1b0cc82df1d570959c85128f7b9d2"},
       {"path": "src/candrel/tp53_mdm2_replication.py", "sha256": "8c2bda37783d193bd0f948d4c4cfc4608dccba49d8d0c16aeba640cbac1c4164"},
       {"path": "pyproject.toml", "sha256": "3d941c33519bcfcdba4300c703cb9419ba199317387814a1dd4ede6007e3300c"}
     ]

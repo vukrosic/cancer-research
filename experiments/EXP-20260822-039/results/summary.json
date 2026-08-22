@@ -1,0 +1,175 @@
+{
+  "analysis_label": "FEASIBILITY_ONLY",
+  "analysis_type": "preregistered_source_specific_lineage_stratified_pbrm1_arid2_parp1_proxy_replication",
+  "artifact_receipt_sha256": {
+    "context_ledger.csv": "4beaa3d4d6b4ede1b27e8dc3ebffb0dd87a454e235513384b182c3ef50e704be",
+    "design_sensitivity.csv": "cfc878555f978e8fd68e0e7ed9552ff2929121626f6fa656bf6b2be8241b2da3",
+    "endpoint_scores.csv": "b7c5ef73e3399f8dec2c85f9db126f50fd2cf897cbe6bffa6731881bba907227",
+    "inference.csv": "fda19f054f7ed7e6f0feedcf9592e88a779f1ecea4bb8bf7231227342fec49b4",
+    "summary.json": "4e3b15cdac892e147725eff444b95e1ae9c97bd54c3a42a1a01d79a07d05e992"
+  },
+  "claim_boundary": "composite PBRM1-or-ARID2 damaging-matrix proxy association with source-specific PARP1 dependency in frozen 23Q4 cell-line screen cohorts; no isolated PBRM1 loss, ARID2 loss, PBAF causality, HRD, PARP-inhibitor, treatment, clinical, or confirmatory claim",
+  "claim_eligibility": {
+    "design_sensitivity_label": "FEASIBILITY_ONLY",
+    "nominal_primary_gates_pass": false,
+    "primary_confirmatory": false
+  },
+  "confirmatory_claim": false,
+  "context_receipt": {
+    "canonical_roster_sha256": "6ab143e99b7d58d82a1b1e22b9948aacc5944ebe6daabe448505cd8735188af4",
+    "composite_rule": "damaging if either PBRM1 or ARID2 matrix value is 1 or 2; matrix_intact if both values are 0",
+    "context_ledger_sha256": "4beaa3d4d6b4ede1b27e8dc3ebffb0dd87a454e235513384b182c3ef50e704be",
+    "damaging_sha256": "aea4d970c0876afb90d2dc0e2709ff28be5a84e4e246f3a5a31faaba0fbc47e3",
+    "eligible_screens": 1292,
+    "eligible_source_models": {
+      "Avana": 975,
+      "KY": 315
+    },
+    "mixed_lineages": {
+      "Avana": 15,
+      "KY": 8
+    },
+    "model_sha256": "6b77a73209ce3faaa7442dbd947d8e08ddcb08b538c36fe820163f9cff321341",
+    "screen_map_sha256": "1e2bf9075600cd049dafc385866991523c65806657f3c8bd71afde3fe00ee9ad",
+    "screen_qc_sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407",
+    "status_column": "PBRM1_or_ARID2_composite",
+    "status_columns": [
+      "PBRM1 (55193)",
+      "ARID2 (196528)"
+    ],
+    "status_counts": {
+      "Avana": {
+        "damaging": 49,
+        "matrix_intact": 926
+      },
+      "KY": {
+        "damaging": 22,
+        "matrix_intact": 293
+      }
+    },
+    "status_threshold": 1,
+    "unique_model_ids": 1098
+  },
+  "design_sensitivity": {
+    "all_primary_sources_power_adequate": false,
+    "confirmatory_claim_enabled": false,
+    "design_sensitivity_sha256": "cfc878555f978e8fd68e0e7ed9552ff2929121626f6fa656bf6b2be8241b2da3",
+    "frozen_label": "FEASIBILITY_ONLY",
+    "minimum_confirmatory_power": 0.8
+  },
+  "endpoint_receipt": {
+    "eligible_screens_expected": 1292,
+    "eligible_screens_seen": 1292,
+    "median_collapse": true,
+    "model_values": 1290,
+    "sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721"
+  },
+  "experiment_id": "EXP-20260822-039",
+  "implementation_receipt": {
+    "engine_module": "src/candrel/tp53_mdm2_replication.py",
+    "implementation_commit": "24dda7edc41f1cf4c66281c54cce509b04e499d9",
+    "implementation_module": "src/candrel/pbrm1_arid2_parp1_replication.py",
+    "manifest_path": "experiments/EXP-20260822-039/manifest.json",
+    "required_base_commit": "037c6d5872f24ef9a4e458fd6e8248b3aa046c57",
+    "uv_lock_sha256": "d09301a2eff28d69c3e0b504d4cdae5ed21c1e451efb92e60f360ebf047106dd"
+  },
+  "inference_receipt": {
+    "bootstrap_interval": "percentile_95_linear_quantile",
+    "bootstraps": 10000,
+    "cross_source_raw_score_comparison": false,
+    "design_seeds": {
+      "Avana": 20263900,
+      "KY": 20264000
+    },
+    "inference_seeds": {
+      "Avana": 20273900,
+      "KY": 20274000
+    },
+    "permutations": 100000,
+    "unit": "collapsed_source_model_id"
+  },
+  "overall_pass": false,
+  "pre_endpoint_receipt": {
+    "context_ledger_sha256": "4beaa3d4d6b4ede1b27e8dc3ebffb0dd87a454e235513384b182c3ef50e704be",
+    "design_sensitivity_sha256": "cfc878555f978e8fd68e0e7ed9552ff2929121626f6fa656bf6b2be8241b2da3",
+    "experiment_id": "EXP-20260822-039",
+    "receipt_sha256": "da8966d3c0901d71413cced694df9044e63674ecc7402d0e4557eb40fe08bb72",
+    "sealed_before_endpoint": true
+  },
+  "primary": [
+    {
+      "bootstrap_ci_95_percentile": [
+        -0.12703791469194312,
+        0.23793838862559205
+      ],
+      "bootstrap_repeats": 10000,
+      "delta": 0.054976303317535544,
+      "gates": {
+        "at_least_5_negative_lineages": true,
+        "bootstrap_upper_lt_0": false,
+        "delta_le_minus_0_20": false,
+        "delta_lt_0": false,
+        "no_lineage_delta_gt_plus_0_20": false,
+        "permutation_p_le_0_05": false
+      },
+      "lineage_deltas": {
+        "Biliary Tract": -0.10714285714285714,
+        "Bowel": 0.1590909090909091,
+        "CNS/Brain": 0.04225352112676056,
+        "Esophagus/Stomach": 0.4166666666666667,
+        "Eye": 0.14285714285714285,
+        "Head and Neck": -0.6923076923076923,
+        "Kidney": -0.05555555555555555,
+        "Lung": -0.07165109034267912,
+        "Lymphoid": 0.08108108108108109,
+        "Myeloid": -0.6470588235294118,
+        "Ovary/Fallopian Tube": 0.10869565217391304,
+        "Pancreas": 0.1111111111111111,
+        "Skin": 0.1625,
+        "Uterus": -0.1111111111111111,
+        "Vulva/Vagina": 1.0
+      },
+      "pair_count": 2110,
+      "pair_id": "PBRM1_or_ARID2_damaging_to_PARP1",
+      "pass": false,
+      "permutation_extreme_count": 71325,
+      "permutation_p_one_sided_lower": 0.7132528674713253,
+      "permutation_repeats": 100000,
+      "source": "Avana"
+    },
+    {
+      "bootstrap_ci_95_percentile": [
+        -0.07235621521335807,
+        0.5064935064935064
+      ],
+      "bootstrap_repeats": 10000,
+      "delta": 0.22448979591836735,
+      "gates": {
+        "at_least_5_negative_lineages": false,
+        "bootstrap_upper_lt_0": false,
+        "delta_le_minus_0_20": false,
+        "delta_lt_0": false,
+        "no_lineage_delta_gt_plus_0_20": false,
+        "permutation_p_le_0_05": false
+      },
+      "lineage_deltas": {
+        "Bowel": 0.616,
+        "CNS/Brain": 0.6129032258064516,
+        "Esophagus/Stomach": 0.09411764705882353,
+        "Kidney": 1.0,
+        "Lung": 0.3333333333333333,
+        "Ovary/Fallopian Tube": -0.1111111111111111,
+        "Pancreas": -0.42857142857142855,
+        "Uterus": -1.0
+      },
+      "pair_count": 539,
+      "pair_id": "PBRM1_or_ARID2_damaging_to_PARP1",
+      "pass": false,
+      "permutation_extreme_count": 93862,
+      "permutation_p_one_sided_lower": 0.9386206137938621,
+      "permutation_repeats": 100000,
+      "source": "KY"
+    }
+  ],
+  "status": "FEASIBILITY_ONLY_NOMINAL_GATE_FAILURE"
+}
