@@ -1,0 +1,15 @@
+{
+  "experiment_id": "EXP-20260822-021",
+  "seal_type": "independent_pre_endpoint_selection_seal",
+  "sealed_before_endpoint_access": true,
+  "endpoint_values_opened": false,
+  "protocol_commit": "ad16b66838d3e8413ce10b8f73f3a50cc093fd40",
+  "sealed_artifacts": [
+    "experiments/EXP-20260822-021/candidate_census.json",
+    "experiments/EXP-20260822-021/design_census_receipt.json",
+    "experiments/EXP-20260822-021/preregistration.md",
+    "experiments/EXP-20260822-021/methods_audit.md"
+  ],
+  "seal_scope": "candidate identity, metadata-only cohort, canonical roster, design algorithm, seeds, thresholds, and claim contract; no PTPN11 endpoint row or value",
+  "next_allowed_action": "implementation and independent boundary audit before endpoint parsing"
+}
