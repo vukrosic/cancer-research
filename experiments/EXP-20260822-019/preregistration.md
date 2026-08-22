@@ -44,6 +44,26 @@ lineage/status/model order, average ranks, a Normal(0,1) null, and an exposed
 Normal(-0.358286909243,1) alternative. The exact receipt is bound by the
 manifest and sealed before endpoint access.
 
+For inference, each eligible source/model unit is assigned the median of all
+eligible screen rows for that source/model. Within each source, models are
+partitioned by lexicographically ordered lineage; only lineages containing at
+least one model in both status groups contribute. For a contributing lineage,
+the delta numerator is the number of exposed/reference pairs with exposed
+score greater than reference score minus the number with exposed score less
+than reference score; the reported delta is the sum of lineage numerators
+divided by the sum of `n_exposed * n_reference` across contributing lineages.
+
+The one-sided permutation null independently reshuffles exposed labels within
+each lineage while preserving each lineage's exposed count, uses the
+source-specific PCG64 inference seed, runs 100,000 draws in batches of 1,000,
+and reports `(1 + count(null_delta <= observed_delta)) / (100000 + 1)`. The
+bootstrap independently resamples model IDs with replacement within each
+lineage/status cell for 10,000 draws using the same source-specific generator
+after the permutation draws, recomputes the same fixed-denominator delta, and
+uses NumPy's linear quantile method at 0.025 and 0.975. The implementation
+must use the exact frozen source-specific inference seeds `20271900` (Avana)
+and `20272000` (KY).
+
 - Avana seed `20261900`: critical delta `-0.12334911537503115`, planning power
   `0.8562`;
 - KY seed `20262000`: critical delta `-0.19418758256274768`, planning power
@@ -101,3 +121,10 @@ PTEN proxy is associated with source-specific PIK3CB knockout dependency in
 these frozen cell-line cohorts. It cannot establish PTEN-null biology, PTEN
 protein/phosphatase loss, copy-number state, PIK3CB inhibitor sensitivity,
 therapeutic window, patient selection, treatment benefit, or clinical utility.
+
+The design receipt's normalized digest is computed as
+`SHA256(json.dumps(payload_with_receipt_sha256_set_to_empty, indent=2,
+sort_keys=True) + "\n")` encoded as UTF-8. The canonical roster digest is
+computed from one compact sorted-key JSON object per sorted `(source, ModelID)`
+row, followed by LF, with fields `source`, `model_id`, `lineage`, `screen_ids`,
+`matrix_value`, and `status`.

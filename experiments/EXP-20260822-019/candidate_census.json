@@ -12,7 +12,8 @@
     "screen_map_sha256": "1e2bf9075600cd049dafc385866991523c65806657f3c8bd71afde3fe00ee9ad",
     "model_sha256": "6b77a73209ce3faaa7442dbd947d8e08ddcb08b538c36fe820163f9cff321341",
     "damaging_matrix_sha256": "aea4d970c0876afb90d2dc0e2709ff28be5a84e4e246f3a5a31faaba0fbc47e3",
-    "endpoint_header_sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721"
+    "endpoint_sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721",
+    "endpoint_target_column": "PIK3CB (5291)"
   },
   "candidate_shortlist": [
     {
