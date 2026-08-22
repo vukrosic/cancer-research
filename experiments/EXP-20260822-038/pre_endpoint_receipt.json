@@ -1,0 +1,7 @@
+{
+  "context_ledger_sha256": "48bf8b95574dc6b79acdb31acbb08cbc9166ffd4c04de600142df9c03baaa11b",
+  "design_sensitivity_sha256": "5a97a287c00c662c5a4297154d0d66640fbcbc19a6cb42b1659e9d31178dba1e",
+  "experiment_id": "EXP-20260822-038",
+  "receipt_sha256": "9193e3e0fddd2409455bcc6ffcb7881e5ecd1a0a8a6b64f9ef1a22473e7f90d2",
+  "sealed_before_endpoint": true
+}
