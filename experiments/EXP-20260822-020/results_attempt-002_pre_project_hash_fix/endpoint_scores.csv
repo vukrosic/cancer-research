@@ -1,0 +1,1291 @@
+pair_id,source,model_id,lineage,status,target_score
+TP53_damaging_to_WEE1,Avana,ACH-000004,Myeloid,damaging,-1.9364411023107642
+TP53_damaging_to_WEE1,Avana,ACH-000005,Myeloid,damaging,-1.25641382722687
+TP53_damaging_to_WEE1,Avana,ACH-000007,Bowel,matrix_intact,-1.078025727365286
+TP53_damaging_to_WEE1,Avana,ACH-000009,Bowel,damaging,-1.6718523412686135
+TP53_damaging_to_WEE1,Avana,ACH-000011,Bladder/Urinary Tract,matrix_intact,-3.4235732500125287
+TP53_damaging_to_WEE1,Avana,ACH-000012,Lung,matrix_intact,-2.406754019937877
+TP53_damaging_to_WEE1,Avana,ACH-000013,Ovary/Fallopian Tube,damaging,-3.547858090671757
+TP53_damaging_to_WEE1,Avana,ACH-000015,Lung,damaging,-1.6689480027204922
+TP53_damaging_to_WEE1,Avana,ACH-000017,Breast,damaging,-1.0546143748163157
+TP53_damaging_to_WEE1,Avana,ACH-000018,Bladder/Urinary Tract,damaging,-0.6437425837587161
+TP53_damaging_to_WEE1,Avana,ACH-000019,Breast,matrix_intact,-1.129276372991887
+TP53_damaging_to_WEE1,Avana,ACH-000021,Lung,damaging,-1.8999411004507298
+TP53_damaging_to_WEE1,Avana,ACH-000022,Pancreas,damaging,-1.4890246255162634
+TP53_damaging_to_WEE1,Avana,ACH-000024,Lymphoid,damaging,-3.211093090781704
+TP53_damaging_to_WEE1,Avana,ACH-000025,CNS/Brain,matrix_intact,-1.6828192849233234
+TP53_damaging_to_WEE1,Avana,ACH-000028,Breast,matrix_intact,-1.6773583330357598
+TP53_damaging_to_WEE1,Avana,ACH-000029,Lung,matrix_intact,-2.610817776594085
+TP53_damaging_to_WEE1,Avana,ACH-000030,Lung,damaging,-2.6415037318524677
+TP53_damaging_to_WEE1,Avana,ACH-000035,Lung,damaging,-1.8587625851201248
+TP53_damaging_to_WEE1,Avana,ACH-000036,CNS/Brain,matrix_intact,-2.3853671837341426
+TP53_damaging_to_WEE1,Avana,ACH-000037,Soft Tissue,damaging,-2.9260674382754486
+TP53_damaging_to_WEE1,Avana,ACH-000039,Bone,matrix_intact,-0.9055280256673279
+TP53_damaging_to_WEE1,Avana,ACH-000040,CNS/Brain,damaging,-1.5082874163434563
+TP53_damaging_to_WEE1,Avana,ACH-000041,Bone,damaging,-2.0972955026340006
+TP53_damaging_to_WEE1,Avana,ACH-000042,Pancreas,damaging,-1.7951903413910062
+TP53_damaging_to_WEE1,Avana,ACH-000045,Myeloid,matrix_intact,-1.4542663365470623
+TP53_damaging_to_WEE1,Avana,ACH-000047,Esophagus/Stomach,damaging,-2.546861764144192
+TP53_damaging_to_WEE1,Avana,ACH-000048,Ovary/Fallopian Tube,damaging,-1.3149144744157746
+TP53_damaging_to_WEE1,Avana,ACH-000052,Bone,damaging,-0.6285183644326793
+TP53_damaging_to_WEE1,Avana,ACH-000053,Lymphoid,damaging,-1.8587054818665067
+TP53_damaging_to_WEE1,Avana,ACH-000054,Soft Tissue,matrix_intact,-2.2941336286343725
+TP53_damaging_to_WEE1,Avana,ACH-000055,CNS/Brain,damaging,-1.9809648141925478
+TP53_damaging_to_WEE1,Avana,ACH-000060,Pancreas,damaging,-3.0275336686500345
+TP53_damaging_to_WEE1,Avana,ACH-000067,CNS/Brain,damaging,-2.1498965896592876
+TP53_damaging_to_WEE1,Avana,ACH-000070,Lymphoid,matrix_intact,-1.0376797349854634
+TP53_damaging_to_WEE1,Avana,ACH-000074,Myeloid,damaging,-2.6399935494756415
+TP53_damaging_to_WEE1,Avana,ACH-000075,CNS/Brain,matrix_intact,-0.753623971270962
+TP53_damaging_to_WEE1,Avana,ACH-000076,Myeloid,damaging,-2.4034410180732584
+TP53_damaging_to_WEE1,Avana,ACH-000077,Lymphoid,matrix_intact,-1.4934967104805574
+TP53_damaging_to_WEE1,Avana,ACH-000078,Peripheral Nervous System,matrix_intact,-1.0280699190322458
+TP53_damaging_to_WEE1,Avana,ACH-000082,Bone,matrix_intact,-1.9978688604801618
+TP53_damaging_to_WEE1,Avana,ACH-000085,Pancreas,damaging,-1.2174160082390335
+TP53_damaging_to_WEE1,Avana,ACH-000086,Pleura,matrix_intact,-2.50295477562551
+TP53_damaging_to_WEE1,Avana,ACH-000090,Prostate,damaging,-0.4808040303134082
+TP53_damaging_to_WEE1,Avana,ACH-000092,Pleura,matrix_intact,-3.0190987217131275
+TP53_damaging_to_WEE1,Avana,ACH-000093,Pancreas,matrix_intact,-1.4197070286877214
+TP53_damaging_to_WEE1,Avana,ACH-000095,CNS/Brain,matrix_intact,-3.415126495735399
+TP53_damaging_to_WEE1,Avana,ACH-000097,Breast,matrix_intact,-3.785396368113707
+TP53_damaging_to_WEE1,Avana,ACH-000098,CNS/Brain,damaging,-3.7291827520515204
+TP53_damaging_to_WEE1,Avana,ACH-000099,Peripheral Nervous System,matrix_intact,-3.192141337439293
+TP53_damaging_to_WEE1,Avana,ACH-000101,Lymphoid,damaging,-3.112930714430885
+TP53_damaging_to_WEE1,Avana,ACH-000108,Pancreas,damaging,-1.3383578486136203
+TP53_damaging_to_WEE1,Avana,ACH-000111,Breast,matrix_intact,-7.313333815428574
+TP53_damaging_to_WEE1,Avana,ACH-000113,Myeloid,matrix_intact,-1.743146730812062
+TP53_damaging_to_WEE1,Avana,ACH-000114,Pancreas,damaging,-4.4852674428061015
+TP53_damaging_to_WEE1,Avana,ACH-000115,Prostate,damaging,-2.0816427082288893
+TP53_damaging_to_WEE1,Avana,ACH-000118,Pancreas,damaging,-1.455787420672909
+TP53_damaging_to_WEE1,Avana,ACH-000120,Peripheral Nervous System,matrix_intact,-2.2935968340603745
+TP53_damaging_to_WEE1,Avana,ACH-000123,Ovary/Fallopian Tube,matrix_intact,-1.5761419943434167
+TP53_damaging_to_WEE1,Avana,ACH-000127,Bladder/Urinary Tract,damaging,-4.2948735365176
+TP53_damaging_to_WEE1,Avana,ACH-000128,CNS/Brain,damaging,-0.8879472980139048
+TP53_damaging_to_WEE1,Avana,ACH-000132,Ovary/Fallopian Tube,damaging,-5.040415571055921
+TP53_damaging_to_WEE1,Avana,ACH-000133,Soft Tissue,damaging,-1.5789852957669392
+TP53_damaging_to_WEE1,Avana,ACH-000137,CNS/Brain,damaging,-1.1758570571236162
+TP53_damaging_to_WEE1,Avana,ACH-000138,Pancreas,damaging,-1.9482970477494939
+TP53_damaging_to_WEE1,Avana,ACH-000141,Biliary Tract,damaging,-1.805323429534435
+TP53_damaging_to_WEE1,Avana,ACH-000142,Bladder/Urinary Tract,damaging,-2.0207906165485072
+TP53_damaging_to_WEE1,Avana,ACH-000143,Lung,damaging,-1.3171504340797258
+TP53_damaging_to_WEE1,Avana,ACH-000145,Soft Tissue,damaging,-1.9977175612088072
+TP53_damaging_to_WEE1,Avana,ACH-000146,Myeloid,damaging,-2.4931393199760805
+TP53_damaging_to_WEE1,Avana,ACH-000147,Breast,damaging,-2.1372026693918635
+TP53_damaging_to_WEE1,Avana,ACH-000148,Breast,damaging,-1.9331352032170241
+TP53_damaging_to_WEE1,Avana,ACH-000151,Lymphoid,matrix_intact,-0.9011200731418061
+TP53_damaging_to_WEE1,Avana,ACH-000152,CNS/Brain,damaging,-1.55145557473094
+TP53_damaging_to_WEE1,Avana,ACH-000153,Pleura,matrix_intact,-2.0297551700398877
+TP53_damaging_to_WEE1,Avana,ACH-000159,Kidney,matrix_intact,-2.0189944288830697
+TP53_damaging_to_WEE1,Avana,ACH-000160,CNS/Brain,matrix_intact,-2.62102834281702
+TP53_damaging_to_WEE1,Avana,ACH-000161,Lung,matrix_intact,-0.9025048877877495
+TP53_damaging_to_WEE1,Avana,ACH-000163,Head and Neck,damaging,-2.3139152272032346
+TP53_damaging_to_WEE1,Avana,ACH-000164,Pancreas,damaging,-3.0748821214196513
+TP53_damaging_to_WEE1,Avana,ACH-000168,Myeloid,damaging,-0.8660772787116491
+TP53_damaging_to_WEE1,Avana,ACH-000169,Soft Tissue,damaging,-1.7067637788572672
+TP53_damaging_to_WEE1,Avana,ACH-000174,Thyroid,damaging,-3.959079749464501
+TP53_damaging_to_WEE1,Avana,ACH-000178,Pancreas,matrix_intact,-3.1426166393956665
+TP53_damaging_to_WEE1,Avana,ACH-000182,Ampulla of Vater,matrix_intact,-6.523184042275363
+TP53_damaging_to_WEE1,Avana,ACH-000183,Lymphoid,damaging,-3.774042523779113
+TP53_damaging_to_WEE1,Avana,ACH-000187,Lung,damaging,-1.4691577631007435
+TP53_damaging_to_WEE1,Avana,ACH-000188,Head and Neck,damaging,-2.8352663819039874
+TP53_damaging_to_WEE1,Avana,ACH-000189,Kidney,matrix_intact,-0.6688707316796567
+TP53_damaging_to_WEE1,Avana,ACH-000190,Myeloid,damaging,-1.633137296684163
+TP53_damaging_to_WEE1,Avana,ACH-000191,Thyroid,damaging,-2.9685084875401224
+TP53_damaging_to_WEE1,Avana,ACH-000195,Myeloid,damaging,-1.3074886422571366
+TP53_damaging_to_WEE1,Avana,ACH-000198,Myeloid,matrix_intact,-3.0102464451984754
+TP53_damaging_to_WEE1,Avana,ACH-000200,CNS/Brain,matrix_intact,-0.5737649986538842
+TP53_damaging_to_WEE1,Avana,ACH-000202,Bowel,damaging,-0.48949816921089373
+TP53_damaging_to_WEE1,Avana,ACH-000204,Lymphoid,damaging,-0.49833436308803725
+TP53_damaging_to_WEE1,Avana,ACH-000206,Lymphoid,matrix_intact,-1.4932582623783057
+TP53_damaging_to_WEE1,Avana,ACH-000207,Head and Neck,damaging,-1.6117754744304633
+TP53_damaging_to_WEE1,Avana,ACH-000209,Biliary Tract,matrix_intact,-0.7591958998301425
+TP53_damaging_to_WEE1,Avana,ACH-000211,CNS/Brain,damaging,-2.964055513884997
+TP53_damaging_to_WEE1,Avana,ACH-000212,Breast,damaging,-5.072335951406313
+TP53_damaging_to_WEE1,Avana,ACH-000215,CNS/Brain,damaging,-5.660530551109836
+TP53_damaging_to_WEE1,Avana,ACH-000216,Esophagus/Stomach,damaging,-5.021053813139916
+TP53_damaging_to_WEE1,Avana,ACH-000217,Liver,damaging,-2.4939152923781354
+TP53_damaging_to_WEE1,Avana,ACH-000219,Skin,matrix_intact,-3.024631995397778
+TP53_damaging_to_WEE1,Avana,ACH-000221,Liver,damaging,-2.078614607409458
+TP53_damaging_to_WEE1,Avana,ACH-000222,Pancreas,damaging,-0.6364157434874876
+TP53_damaging_to_WEE1,Avana,ACH-000223,Breast,damaging,-4.496779729359927
+TP53_damaging_to_WEE1,Avana,ACH-000226,Lymphoid,matrix_intact,-3.0336530243597895
+TP53_damaging_to_WEE1,Avana,ACH-000227,Peripheral Nervous System,matrix_intact,-0.710626393128944
+TP53_damaging_to_WEE1,Avana,ACH-000228,Head and Neck,matrix_intact,-1.800710470980904
+TP53_damaging_to_WEE1,Avana,ACH-000231,CNS/Brain,damaging,-6.969495683956538
+TP53_damaging_to_WEE1,Avana,ACH-000232,CNS/Brain,damaging,-3.156650244330952
+TP53_damaging_to_WEE1,Avana,ACH-000233,Lymphoid,damaging,-1.8308238783777222
+TP53_damaging_to_WEE1,Avana,ACH-000234,Kidney,matrix_intact,-0.9305629103662687
+TP53_damaging_to_WEE1,Avana,ACH-000235,Pancreas,damaging,-3.1703968537489633
+TP53_damaging_to_WEE1,Avana,ACH-000237,Ovary/Fallopian Tube,damaging,-2.870205910050932
+TP53_damaging_to_WEE1,Avana,ACH-000238,Head and Neck,damaging,-3.402400244358156
+TP53_damaging_to_WEE1,Avana,ACH-000243,Pancreas,damaging,-1.1993562438274314
+TP53_damaging_to_WEE1,Avana,ACH-000244,CNS/Brain,matrix_intact,-0.6389812029720289
+TP53_damaging_to_WEE1,Avana,ACH-000246,Kidney,matrix_intact,-3.9655924247617342
+TP53_damaging_to_WEE1,Avana,ACH-000247,Esophagus/Stomach,matrix_intact,-6.976932159374943
+TP53_damaging_to_WEE1,Avana,ACH-000248,Breast,damaging,-1.255566069081103
+TP53_damaging_to_WEE1,Avana,ACH-000250,Kidney,damaging,-3.633452516691414
+TP53_damaging_to_WEE1,Avana,ACH-000251,Lung,damaging,-0.8873672962504354
+TP53_damaging_to_WEE1,Avana,ACH-000252,Bowel,damaging,-0.6465846475307471
+TP53_damaging_to_WEE1,Avana,ACH-000253,Bowel,damaging,-1.694338421655198
+TP53_damaging_to_WEE1,Avana,ACH-000255,Esophagus/Stomach,damaging,-2.206167422462433
+TP53_damaging_to_WEE1,Avana,ACH-000256,Ovary/Fallopian Tube,damaging,-2.110369404951533
+TP53_damaging_to_WEE1,Avana,ACH-000257,Lung,damaging,-2.122465392710288
+TP53_damaging_to_WEE1,Avana,ACH-000258,Breast,matrix_intact,-1.1601855628854039
+TP53_damaging_to_WEE1,Avana,ACH-000259,Peripheral Nervous System,damaging,-2.0712454960983555
+TP53_damaging_to_WEE1,Avana,ACH-000260,Peripheral Nervous System,matrix_intact,-2.0565599668377836
+TP53_damaging_to_WEE1,Avana,ACH-000261,Lung,damaging,-3.051597563513893
+TP53_damaging_to_WEE1,Avana,ACH-000262,Kidney,matrix_intact,-1.2138260644943415
+TP53_damaging_to_WEE1,Avana,ACH-000263,Myeloid,damaging,-0.7106829109183117
+TP53_damaging_to_WEE1,Avana,ACH-000264,Lung,damaging,-4.687573266519738
+TP53_damaging_to_WEE1,Avana,ACH-000265,Pancreas,matrix_intact,-1.8238477483132993
+TP53_damaging_to_WEE1,Avana,ACH-000266,Pancreas,damaging,-1.8506927748566
+TP53_damaging_to_WEE1,Avana,ACH-000272,Kidney,matrix_intact,-3.634021360183228
+TP53_damaging_to_WEE1,Avana,ACH-000273,CNS/Brain,damaging,-2.5370837139642974
+TP53_damaging_to_WEE1,Avana,ACH-000274,Skin,matrix_intact,-3.8757459406278945
+TP53_damaging_to_WEE1,Avana,ACH-000276,Breast,damaging,-2.6316476499588592
+TP53_damaging_to_WEE1,Avana,ACH-000277,Breast,damaging,-0.9394747830839602
+TP53_damaging_to_WEE1,Avana,ACH-000278,Ovary/Fallopian Tube,damaging,-1.849820099864722
+TP53_damaging_to_WEE1,Avana,ACH-000279,Bone,damaging,-3.2853236194915607
+TP53_damaging_to_WEE1,Avana,ACH-000280,Ovary/Fallopian Tube,matrix_intact,-1.8529517243030003
+TP53_damaging_to_WEE1,Avana,ACH-000281,Pancreas,damaging,-1.3929666959748328
+TP53_damaging_to_WEE1,Avana,ACH-000286,Bowel,damaging,-2.0577765710056175
+TP53_damaging_to_WEE1,Avana,ACH-000288,Breast,damaging,-5.037452989864093
+TP53_damaging_to_WEE1,Avana,ACH-000290,Lung,damaging,-3.05606583348236
+TP53_damaging_to_WEE1,Avana,ACH-000291,Ovary/Fallopian Tube,damaging,-3.335971072404968
+TP53_damaging_to_WEE1,Avana,ACH-000292,Lung,damaging,-1.3451039953282797
+TP53_damaging_to_WEE1,Avana,ACH-000293,Uterus,damaging,-1.7478618785361788
+TP53_damaging_to_WEE1,Avana,ACH-000294,Myeloid,damaging,-0.8545740200574612
+TP53_damaging_to_WEE1,Avana,ACH-000295,Myeloid,damaging,-0.6065202034388865
+TP53_damaging_to_WEE1,Avana,ACH-000296,Bowel,damaging,-1.5920779742277573
+TP53_damaging_to_WEE1,Avana,ACH-000302,Uterus,damaging,-2.0043183480433466
+TP53_damaging_to_WEE1,Avana,ACH-000303,Esophagus/Stomach,damaging,-2.384665876387201
+TP53_damaging_to_WEE1,Avana,ACH-000304,Skin,matrix_intact,-0.783171588273091
+TP53_damaging_to_WEE1,Avana,ACH-000305,Esophagus/Stomach,damaging,-3.340442079495115
+TP53_damaging_to_WEE1,Avana,ACH-000307,Pancreas,damaging,-2.611870479914384
+TP53_damaging_to_WEE1,Avana,ACH-000308,Ovary/Fallopian Tube,damaging,-5.5520304692478835
+TP53_damaging_to_WEE1,Avana,ACH-000310,Peripheral Nervous System,matrix_intact,-0.7895176383042761
+TP53_damaging_to_WEE1,Avana,ACH-000311,Lung,damaging,-1.0054311259857673
+TP53_damaging_to_WEE1,Avana,ACH-000312,Peripheral Nervous System,damaging,-0.9055545221339361
+TP53_damaging_to_WEE1,Avana,ACH-000313,Kidney,matrix_intact,-3.1762158544281047
+TP53_damaging_to_WEE1,Avana,ACH-000315,Lymphoid,damaging,-1.9841180078429375
+TP53_damaging_to_WEE1,Avana,ACH-000316,Liver,damaging,-3.8659977531273846
+TP53_damaging_to_WEE1,Avana,ACH-000317,Kidney,matrix_intact,-2.3982169304970538
+TP53_damaging_to_WEE1,Avana,ACH-000318,Esophagus/Stomach,damaging,-1.7818151325580733
+TP53_damaging_to_WEE1,Avana,ACH-000319,Pleura,matrix_intact,-1.2443951096655264
+TP53_damaging_to_WEE1,Avana,ACH-000320,Pancreas,damaging,-0.4821818144513415
+TP53_damaging_to_WEE1,Avana,ACH-000322,Skin,matrix_intact,-3.6142631975353052
+TP53_damaging_to_WEE1,Avana,ACH-000323,CNS/Brain,damaging,-1.531752118405997
+TP53_damaging_to_WEE1,Avana,ACH-000324,Ovary/Fallopian Tube,matrix_intact,-1.7120913817034062
+TP53_damaging_to_WEE1,Avana,ACH-000325,Esophagus/Stomach,damaging,-2.6861209620901354
+TP53_damaging_to_WEE1,Avana,ACH-000326,Myeloid,damaging,-2.0846069826683062
+TP53_damaging_to_WEE1,Avana,ACH-000329,CNS/Brain,matrix_intact,-3.3672714376123665
+TP53_damaging_to_WEE1,Avana,ACH-000330,Breast,damaging,-0.7787801098194773
+TP53_damaging_to_WEE1,Avana,ACH-000331,Pleura,damaging,-1.7749711685621476
+TP53_damaging_to_WEE1,Avana,ACH-000332,Pancreas,damaging,-2.1557141711879124
+TP53_damaging_to_WEE1,Avana,ACH-000334,Lymphoid,damaging,-0.9509123476693837
+TP53_damaging_to_WEE1,Avana,ACH-000335,Pleura,matrix_intact,-2.0860147880152553
+TP53_damaging_to_WEE1,Avana,ACH-000336,Myeloid,matrix_intact,-0.41820278412592016
+TP53_damaging_to_WEE1,Avana,ACH-000337,Lung,damaging,-0.656944148525494
+TP53_damaging_to_WEE1,Avana,ACH-000339,Lung,damaging,-3.5546365415476977
+TP53_damaging_to_WEE1,Avana,ACH-000341,Peripheral Nervous System,damaging,-0.7397229107170136
+TP53_damaging_to_WEE1,Avana,ACH-000343,Lung,damaging,-1.0371457369980575
+TP53_damaging_to_WEE1,Avana,ACH-000344,Esophagus/Stomach,damaging,-1.7588075288569494
+TP53_damaging_to_WEE1,Avana,ACH-000346,Lymphoid,matrix_intact,-1.2995931868695187
+TP53_damaging_to_WEE1,Avana,ACH-000348,Skin,damaging,-2.713682455152216
+TP53_damaging_to_WEE1,Avana,ACH-000350,Bowel,matrix_intact,-2.250157699302093
+TP53_damaging_to_WEE1,Avana,ACH-000352,Breast,matrix_intact,-1.3268064384018787
+TP53_damaging_to_WEE1,Avana,ACH-000355,Lung,damaging,-0.9001331996464779
+TP53_damaging_to_WEE1,Avana,ACH-000356,Esophagus/Stomach,damaging,-0.8191408365524561
+TP53_damaging_to_WEE1,Avana,ACH-000359,Bone,matrix_intact,-2.929323227573583
+TP53_damaging_to_WEE1,Avana,ACH-000361,Liver,matrix_intact,-1.5193688201324922
+TP53_damaging_to_WEE1,Avana,ACH-000362,Myeloid,matrix_intact,-2.2054350484831575
+TP53_damaging_to_WEE1,Avana,ACH-000363,Lymphoid,damaging,-3.8332408584364015
+TP53_damaging_to_WEE1,Avana,ACH-000364,Bone,matrix_intact,-1.72139287824687
+TP53_damaging_to_WEE1,Avana,ACH-000365,Lymphoid,damaging,-2.632911239173872
+TP53_damaging_to_WEE1,Avana,ACH-000366,Peripheral Nervous System,damaging,-2.7173058328316535
+TP53_damaging_to_WEE1,Avana,ACH-000368,CNS/Brain,damaging,-1.1673988849108068
+TP53_damaging_to_WEE1,Avana,ACH-000370,CNS/Brain,damaging,-0.9337074410804577
+TP53_damaging_to_WEE1,Avana,ACH-000371,Lymphoid,damaging,-1.757805103070749
+TP53_damaging_to_WEE1,Avana,ACH-000374,Breast,damaging,-4.460975342154182
+TP53_damaging_to_WEE1,Avana,ACH-000375,Kidney,matrix_intact,-2.8465835617593367
+TP53_damaging_to_WEE1,Avana,ACH-000376,CNS/Brain,damaging,-2.5354291664906516
+TP53_damaging_to_WEE1,Avana,ACH-000377,Ampulla of Vater,damaging,-5.058827845560163
+TP53_damaging_to_WEE1,Avana,ACH-000378,Lung,damaging,-1.4048624948609167
+TP53_damaging_to_WEE1,Avana,ACH-000381,Bowel,damaging,-1.461544672299774
+TP53_damaging_to_WEE1,Avana,ACH-000383,Esophagus/Stomach,damaging,-4.270903888300945
+TP53_damaging_to_WEE1,Avana,ACH-000385,Kidney,matrix_intact,-1.7637168973383979
+TP53_damaging_to_WEE1,Avana,ACH-000387,Myeloid,damaging,-2.1896255012233548
+TP53_damaging_to_WEE1,Avana,ACH-000389,CNS/Brain,matrix_intact,-1.5903543493584835
+TP53_damaging_to_WEE1,Avana,ACH-000390,Lung,damaging,-2.2406971367801827
+TP53_damaging_to_WEE1,Avana,ACH-000391,Bone,matrix_intact,-0.6899871776994972
+TP53_damaging_to_WEE1,Avana,ACH-000393,Liver,damaging,-1.8498538838398906
+TP53_damaging_to_WEE1,Avana,ACH-000395,Lung,damaging,-1.7840681538171532
+TP53_damaging_to_WEE1,Avana,ACH-000396,Bladder/Urinary Tract,damaging,-0.34080192075667703
+TP53_damaging_to_WEE1,Avana,ACH-000397,Uterus,damaging,-2.3273825252307763
+TP53_damaging_to_WEE1,Avana,ACH-000398,Lymphoid,damaging,-1.6762969704548407
+TP53_damaging_to_WEE1,Avana,ACH-000401,Skin,damaging,-1.2279283713707296
+TP53_damaging_to_WEE1,Avana,ACH-000402,Lymphoid,damaging,-0.7440306881713896
+TP53_damaging_to_WEE1,Avana,ACH-000403,Bowel,damaging,-2.4431347673472956
+TP53_damaging_to_WEE1,Avana,ACH-000404,Skin,matrix_intact,-1.404515521573515
+TP53_damaging_to_WEE1,Avana,ACH-000405,Lymphoid,damaging,-2.9767716499104653
+TP53_damaging_to_WEE1,Avana,ACH-000406,Myeloid,damaging,-2.6021969986550753
+TP53_damaging_to_WEE1,Avana,ACH-000407,Uterus,damaging,-1.8365446399954855
+TP53_damaging_to_WEE1,Avana,ACH-000408,Esophagus/Stomach,matrix_intact,-0.6569886523551522
+TP53_damaging_to_WEE1,Avana,ACH-000410,Bone,matrix_intact,-1.9180111393644053
+TP53_damaging_to_WEE1,Avana,ACH-000411,Kidney,matrix_intact,-2.621827695531654
+TP53_damaging_to_WEE1,Avana,ACH-000414,Lung,matrix_intact,-1.4154541823032658
+TP53_damaging_to_WEE1,Avana,ACH-000415,Head and Neck,damaging,-2.7499846750488093
+TP53_damaging_to_WEE1,Avana,ACH-000416,Lung,damaging,-2.420597923609012
+TP53_damaging_to_WEE1,Avana,ACH-000417,Pancreas,matrix_intact,-1.5655698192479321
+TP53_damaging_to_WEE1,Avana,ACH-000420,Liver,damaging,-1.3820898968999202
+TP53_damaging_to_WEE1,Avana,ACH-000421,Bowel,damaging,-1.724697916190122
+TP53_damaging_to_WEE1,Avana,ACH-000422,Liver,damaging,-3.8883326007891137
+TP53_damaging_to_WEE1,Avana,ACH-000424,Bone,damaging,-0.4159044224946259
+TP53_damaging_to_WEE1,Avana,ACH-000425,Skin,matrix_intact,-1.9876847572308534
+TP53_damaging_to_WEE1,Avana,ACH-000426,Lymphoid,damaging,-1.0788645522023814
+TP53_damaging_to_WEE1,Avana,ACH-000427,Esophagus/Stomach,damaging,-0.6021987625372724
+TP53_damaging_to_WEE1,Avana,ACH-000431,Lung,damaging,-1.5214665315062423
+TP53_damaging_to_WEE1,Avana,ACH-000433,Kidney,matrix_intact,-1.8041615025988702
+TP53_damaging_to_WEE1,Avana,ACH-000434,Lung,damaging,-2.2224504742856923
+TP53_damaging_to_WEE1,Avana,ACH-000435,Uterus,damaging,-0.4475066462765474
+TP53_damaging_to_WEE1,Avana,ACH-000436,Lymphoid,matrix_intact,-2.7247024699837996
+TP53_damaging_to_WEE1,Avana,ACH-000437,CNS/Brain,damaging,-4.760476986797746
+TP53_damaging_to_WEE1,Avana,ACH-000438,Lung,damaging,-1.8563070247245044
+TP53_damaging_to_WEE1,Avana,ACH-000441,Skin,matrix_intact,-4.65521543289971
+TP53_damaging_to_WEE1,Avana,ACH-000444,Lung,matrix_intact,-3.822020453172664
+TP53_damaging_to_WEE1,Avana,ACH-000445,CNS/Brain,damaging,-2.3224710714981596
+TP53_damaging_to_WEE1,Avana,ACH-000448,Lung,matrix_intact,-2.519311124570188
+TP53_damaging_to_WEE1,Avana,ACH-000450,Skin,matrix_intact,-1.5431377496421947
+TP53_damaging_to_WEE1,Avana,ACH-000452,Esophagus/Stomach,damaging,-3.625232426007499
+TP53_damaging_to_WEE1,Avana,ACH-000454,Lung,damaging,-1.6817083628246985
+TP53_damaging_to_WEE1,Avana,ACH-000455,CNS/Brain,damaging,-6.168412260601464
+TP53_damaging_to_WEE1,Avana,ACH-000456,Thyroid,damaging,-4.56343419122183
+TP53_damaging_to_WEE1,Avana,ACH-000458,Skin,damaging,-1.4244554036271175
+TP53_damaging_to_WEE1,Avana,ACH-000459,Kidney,matrix_intact,-1.00609355087952
+TP53_damaging_to_WEE1,Avana,ACH-000460,Ovary/Fallopian Tube,damaging,-1.4610218863756865
+TP53_damaging_to_WEE1,Avana,ACH-000461,Biliary Tract,damaging,-2.231999735240329
+TP53_damaging_to_WEE1,Avana,ACH-000463,Lung,matrix_intact,-1.3533667376130012
+TP53_damaging_to_WEE1,Avana,ACH-000464,CNS/Brain,damaging,-1.1319741849402938
+TP53_damaging_to_WEE1,Avana,ACH-000466,Esophagus/Stomach,damaging,-0.8123243837890614
+TP53_damaging_to_WEE1,Avana,ACH-000467,Bowel,damaging,-1.0675180552661447
+TP53_damaging_to_WEE1,Avana,ACH-000468,Pancreas,matrix_intact,-2.2715524010652013
+TP53_damaging_to_WEE1,Avana,ACH-000469,CNS/Brain,damaging,-2.7508843388295725
+TP53_damaging_to_WEE1,Avana,ACH-000470,Bowel,damaging,-2.481891616701833
+TP53_damaging_to_WEE1,Avana,ACH-000471,Liver,matrix_intact,-5.855153717708054
+TP53_damaging_to_WEE1,Avana,ACH-000472,Head and Neck,damaging,-2.007345081530519
+TP53_damaging_to_WEE1,Avana,ACH-000473,Bladder/Urinary Tract,damaging,-1.5922737078169127
+TP53_damaging_to_WEE1,Avana,ACH-000475,Liver,damaging,-4.74616124090403
+TP53_damaging_to_WEE1,Avana,ACH-000476,Liver,damaging,-1.6484509847565372
+TP53_damaging_to_WEE1,Avana,ACH-000477,Skin,matrix_intact,-2.465689749340214
+TP53_damaging_to_WEE1,Avana,ACH-000478,Liver,damaging,-3.110137978047194
+TP53_damaging_to_WEE1,Avana,ACH-000479,CNS/Brain,matrix_intact,-0.4581389723702314
+TP53_damaging_to_WEE1,Avana,ACH-000480,Liver,damaging,-1.7821664733478597
+TP53_damaging_to_WEE1,Avana,ACH-000481,Lung,damaging,-1.4611485102809776
+TP53_damaging_to_WEE1,Avana,ACH-000483,Liver,damaging,-1.8760321796550223
+TP53_damaging_to_WEE1,Avana,ACH-000484,Kidney,damaging,-2.897120677668884
+TP53_damaging_to_WEE1,Avana,ACH-000485,Esophagus/Stomach,damaging,-2.9508131282886305
+TP53_damaging_to_WEE1,Avana,ACH-000486,Bladder/Urinary Tract,matrix_intact,-2.2345874010630844
+TP53_damaging_to_WEE1,Avana,ACH-000487,Myeloid,damaging,-2.9000888333327186
+TP53_damaging_to_WEE1,Avana,ACH-000488,Esophagus/Stomach,damaging,-3.7393563079264247
+TP53_damaging_to_WEE1,Avana,ACH-000489,Bowel,matrix_intact,-5.016059929219725
+TP53_damaging_to_WEE1,Avana,ACH-000490,Cervix,matrix_intact,-2.141148507222403
+TP53_damaging_to_WEE1,Avana,ACH-000491,Bowel,damaging,-1.8530096482275022
+TP53_damaging_to_WEE1,Avana,ACH-000493,Liver,damaging,-1.7661539431262394
+TP53_damaging_to_WEE1,Avana,ACH-000495,Kidney,matrix_intact,-2.0553401244452125
+TP53_damaging_to_WEE1,Avana,ACH-000496,Lung,damaging,-1.9417315716624513
+TP53_damaging_to_WEE1,Avana,ACH-000499,Bone,damaging,-1.1953826305480488
+TP53_damaging_to_WEE1,Avana,ACH-000500,Head and Neck,matrix_intact,-0.2800225648926595
+TP53_damaging_to_WEE1,Avana,ACH-000502,Pancreas,damaging,-2.0398455055779445
+TP53_damaging_to_WEE1,Avana,ACH-000503,Head and Neck,damaging,-0.9276600723164324
+TP53_damaging_to_WEE1,Avana,ACH-000504,CNS/Brain,damaging,-1.2186335134864588
+TP53_damaging_to_WEE1,Avana,ACH-000505,Soft Tissue,damaging,-1.763022219439757
+TP53_damaging_to_WEE1,Avana,ACH-000507,Esophagus/Stomach,matrix_intact,-1.7351245907607251
+TP53_damaging_to_WEE1,Avana,ACH-000510,Lung,matrix_intact,-2.926752150707325
+TP53_damaging_to_WEE1,Avana,ACH-000511,Lung,matrix_intact,-1.639066107254742
+TP53_damaging_to_WEE1,Avana,ACH-000512,Lymphoid,damaging,-2.278811397837679
+TP53_damaging_to_WEE1,Avana,ACH-000514,Lung,damaging,-1.7514198200308853
+TP53_damaging_to_WEE1,Avana,ACH-000516,Bone,matrix_intact,-4.907012684730105
+TP53_damaging_to_WEE1,Avana,ACH-000517,Pancreas,damaging,-3.0399182873508597
+TP53_damaging_to_WEE1,Avana,ACH-000518,Head and Neck,damaging,-0.9055110879745075
+TP53_damaging_to_WEE1,Avana,ACH-000520,Ovary/Fallopian Tube,damaging,-4.705054913712447
+TP53_damaging_to_WEE1,Avana,ACH-000521,Lung,damaging,-1.6517901433312439
+TP53_damaging_to_WEE1,Avana,ACH-000522,Bladder/Urinary Tract,damaging,-4.069511984276916
+TP53_damaging_to_WEE1,Avana,ACH-000524,Ovary/Fallopian Tube,damaging,-2.6661611520856727
+TP53_damaging_to_WEE1,Avana,ACH-000525,Lung,damaging,-3.417465112572806
+TP53_damaging_to_WEE1,Avana,ACH-000527,Ovary/Fallopian Tube,matrix_intact,-3.0189936906582737
+TP53_damaging_to_WEE1,Avana,ACH-000528,Lung,damaging,-2.185799185777366
+TP53_damaging_to_WEE1,Avana,ACH-000532,Bowel,damaging,-1.615579654921429
+TP53_damaging_to_WEE1,Avana,ACH-000533,Kidney,matrix_intact,-1.6197664042570947
+TP53_damaging_to_WEE1,Avana,ACH-000535,Pancreas,damaging,-1.801693088447819
+TP53_damaging_to_WEE1,Avana,ACH-000537,Liver,damaging,-2.981206592845196
+TP53_damaging_to_WEE1,Avana,ACH-000541,Lymphoid,damaging,-2.076487718608613
+TP53_damaging_to_WEE1,Avana,ACH-000542,Ovary/Fallopian Tube,matrix_intact,-3.5633430254222067
+TP53_damaging_to_WEE1,Avana,ACH-000544,Esophagus/Stomach,damaging,-3.229007602219847
+TP53_damaging_to_WEE1,Avana,ACH-000545,Bladder/Urinary Tract,damaging,-1.7470605444469025
+TP53_damaging_to_WEE1,Avana,ACH-000547,Bladder/Urinary Tract,matrix_intact,-1.2614639089897897
+TP53_damaging_to_WEE1,Avana,ACH-000548,Head and Neck,damaging,-1.8355130274378033
+TP53_damaging_to_WEE1,Avana,ACH-000549,Head and Neck,damaging,-1.3438284009830825
+TP53_damaging_to_WEE1,Avana,ACH-000550,Skin,damaging,-1.8563164520354607
+TP53_damaging_to_WEE1,Avana,ACH-000551,Myeloid,damaging,-3.8433385762174925
+TP53_damaging_to_WEE1,Avana,ACH-000552,Bowel,damaging,-1.0928965882174198
+TP53_damaging_to_WEE1,Avana,ACH-000556,Cervix,matrix_intact,-2.612994873836658
+TP53_damaging_to_WEE1,Avana,ACH-000557,Myeloid,damaging,-4.815082919313795
+TP53_damaging_to_WEE1,Avana,ACH-000559,Lung,damaging,-2.7022746462636853
+TP53_damaging_to_WEE1,Avana,ACH-000563,Lung,damaging,-1.7805470324937622
+TP53_damaging_to_WEE1,Avana,ACH-000567,Lymphoid,damaging,-1.370614349536225
+TP53_damaging_to_WEE1,Avana,ACH-000570,CNS/Brain,matrix_intact,-2.806602415167582
+TP53_damaging_to_WEE1,Avana,ACH-000571,CNS/Brain,damaging,-2.9024087589590195
+TP53_damaging_to_WEE1,Avana,ACH-000573,Breast,damaging,-5.490171159485541
+TP53_damaging_to_WEE1,Avana,ACH-000576,Lymphoid,damaging,-1.264297111087184
+TP53_damaging_to_WEE1,Avana,ACH-000577,Liver,damaging,-1.5119771401860753
+TP53_damaging_to_WEE1,Avana,ACH-000579,Skin,matrix_intact,-2.2367587777520113
+TP53_damaging_to_WEE1,Avana,ACH-000580,Skin,matrix_intact,-1.8654709304979828
+TP53_damaging_to_WEE1,Avana,ACH-000581,Esophagus/Stomach,damaging,-0.3082077017173033
+TP53_damaging_to_WEE1,Avana,ACH-000584,Ovary/Fallopian Tube,damaging,-5.367905242777777
+TP53_damaging_to_WEE1,Avana,ACH-000585,Lung,damaging,-3.4031987336762723
+TP53_damaging_to_WEE1,Avana,ACH-000587,Lung,damaging,-5.494469194240296
+TP53_damaging_to_WEE1,Avana,ACH-000588,Lymphoid,damaging,-2.876555408075204
+TP53_damaging_to_WEE1,Avana,ACH-000589,Lung,matrix_intact,-1.5828084198914345
+TP53_damaging_to_WEE1,Avana,ACH-000591,CNS/Brain,damaging,-2.182338355183041
+TP53_damaging_to_WEE1,Avana,ACH-000592,CNS/Brain,damaging,-2.2280388760646077
+TP53_damaging_to_WEE1,Avana,ACH-000593,Bladder/Urinary Tract,damaging,-3.757028559379253
+TP53_damaging_to_WEE1,Avana,ACH-000595,CNS/Brain,matrix_intact,-4.696409029328443
+TP53_damaging_to_WEE1,Avana,ACH-000596,Lung,damaging,-1.3669110780042182
+TP53_damaging_to_WEE1,Avana,ACH-000597,Kidney,matrix_intact,-0.841406468993799
+TP53_damaging_to_WEE1,Avana,ACH-000599,Pancreas,damaging,-8.133761748487697
+TP53_damaging_to_WEE1,Avana,ACH-000601,Pancreas,damaging,-2.7270035248651805
+TP53_damaging_to_WEE1,Avana,ACH-000602,Myeloid,matrix_intact,-1.5846705621897588
+TP53_damaging_to_WEE1,Avana,ACH-000604,Myeloid,damaging,-1.2641326587150061
+TP53_damaging_to_WEE1,Avana,ACH-000605,Esophagus/Stomach,damaging,-1.1276088975128162
+TP53_damaging_to_WEE1,Avana,ACH-000606,Head and Neck,damaging,-1.383343683741129
+TP53_damaging_to_WEE1,Avana,ACH-000607,Soft Tissue,matrix_intact,-0.8960067797984541
+TP53_damaging_to_WEE1,Avana,ACH-000608,Ovary/Fallopian Tube,damaging,-2.358695400295367
+TP53_damaging_to_WEE1,Avana,ACH-000609,CNS/Brain,matrix_intact,-0.6320986203131685
+TP53_damaging_to_WEE1,Avana,ACH-000614,Skin,matrix_intact,-2.7049984905665063
+TP53_damaging_to_WEE1,Avana,ACH-000616,Esophagus/Stomach,damaging,-3.8007365930536103
+TP53_damaging_to_WEE1,Avana,ACH-000618,Head and Neck,damaging,-1.748192368406583
+TP53_damaging_to_WEE1,Avana,ACH-000619,Head and Neck,damaging,-1.364299753440831
+TP53_damaging_to_WEE1,Avana,ACH-000620,Liver,matrix_intact,-3.0389465789366352
+TP53_damaging_to_WEE1,Avana,ACH-000621,Breast,damaging,-3.964178933122751
+TP53_damaging_to_WEE1,Avana,ACH-000622,CNS/Brain,damaging,-1.6897972974387248
+TP53_damaging_to_WEE1,Avana,ACH-000623,CNS/Brain,damaging,-2.9302255098072574
+TP53_damaging_to_WEE1,Avana,ACH-000624,Breast,damaging,-4.210535658124975
+TP53_damaging_to_WEE1,Avana,ACH-000627,Lung,damaging,-2.4041094377958903
+TP53_damaging_to_WEE1,Avana,ACH-000630,Head and Neck,damaging,-2.824884254013957
+TP53_damaging_to_WEE1,Avana,ACH-000632,Skin,damaging,-3.6169381529366653
+TP53_damaging_to_WEE1,Avana,ACH-000633,Esophagus/Stomach,damaging,-2.816343786593916
+TP53_damaging_to_WEE1,Avana,ACH-000634,CNS/Brain,damaging,-2.413792961291289
+TP53_damaging_to_WEE1,Avana,ACH-000637,Esophagus/Stomach,damaging,-2.4568165037916296
+TP53_damaging_to_WEE1,Avana,ACH-000638,Lung,damaging,-1.3690325186501702
+TP53_damaging_to_WEE1,Avana,ACH-000639,Lung,damaging,-2.41121425309852
+TP53_damaging_to_WEE1,Avana,ACH-000645,Pleura,matrix_intact,-1.5747982646398544
+TP53_damaging_to_WEE1,Avana,ACH-000646,Ovary/Fallopian Tube,matrix_intact,-0.9333222095903912
+TP53_damaging_to_WEE1,Avana,ACH-000647,Esophagus/Stomach,damaging,-2.902213967897587
+TP53_damaging_to_WEE1,Avana,ACH-000648,Pleura,matrix_intact,-2.0573366118558383
+TP53_damaging_to_WEE1,Avana,ACH-000649,Kidney,damaging,-2.0883866571613496
+TP53_damaging_to_WEE1,Avana,ACH-000651,Bowel,damaging,-1.3157671972804912
+TP53_damaging_to_WEE1,Avana,ACH-000652,Pancreas,damaging,-1.7881358104490417
+TP53_damaging_to_WEE1,Avana,ACH-000653,Lymphoid,matrix_intact,-2.8626064664373616
+TP53_damaging_to_WEE1,Avana,ACH-000654,Lymphoid,damaging,-2.1416800423280904
+TP53_damaging_to_WEE1,Avana,ACH-000655,CNS/Brain,damaging,-2.6035133997877353
+TP53_damaging_to_WEE1,Avana,ACH-000657,Ovary/Fallopian Tube,matrix_intact,-2.9147063184188187
+TP53_damaging_to_WEE1,Avana,ACH-000661,Skin,matrix_intact,-2.407940119264526
+TP53_damaging_to_WEE1,Avana,ACH-000662,Lung,matrix_intact,-6.983234392855696
+TP53_damaging_to_WEE1,Avana,ACH-000663,Ovary/Fallopian Tube,matrix_intact,-2.043901186043643
+TP53_damaging_to_WEE1,Avana,ACH-000664,Lymphoid,damaging,-5.3296101575566235
+TP53_damaging_to_WEE1,Avana,ACH-000665,Lung,damaging,-2.4949443326083975
+TP53_damaging_to_WEE1,Avana,ACH-000667,Lung,damaging,-4.807718246912227
+TP53_damaging_to_WEE1,Avana,ACH-000671,Liver,damaging,-2.584254374484996
+TP53_damaging_to_WEE1,Avana,ACH-000673,CNS/Brain,damaging,-3.7086377828680113
+TP53_damaging_to_WEE1,Avana,ACH-000676,CNS/Brain,damaging,-5.693295627960645
+TP53_damaging_to_WEE1,Avana,ACH-000677,Lung,matrix_intact,-1.5538842157381367
+TP53_damaging_to_WEE1,Avana,ACH-000680,Bowel,damaging,-0.8963051040170668
+TP53_damaging_to_WEE1,Avana,ACH-000681,Lung,matrix_intact,-2.0818186341764826
+TP53_damaging_to_WEE1,Avana,ACH-000682,Head and Neck,damaging,-3.4588394280229657
+TP53_damaging_to_WEE1,Avana,ACH-000683,Bowel,damaging,-2.7666934999505597
+TP53_damaging_to_WEE1,Avana,ACH-000684,Kidney,matrix_intact,-1.8608703647128797
+TP53_damaging_to_WEE1,Avana,ACH-000685,Pancreas,damaging,-2.039088569580075
+TP53_damaging_to_WEE1,Avana,ACH-000688,Ovary/Fallopian Tube,damaging,-0.999416820085552
+TP53_damaging_to_WEE1,Avana,ACH-000693,Esophagus/Stomach,damaging,-2.6132903050085767
+TP53_damaging_to_WEE1,Avana,ACH-000694,Esophagus/Stomach,damaging,-2.6388994014299882
+TP53_damaging_to_WEE1,Avana,ACH-000695,Lung,damaging,-0.8505506314186093
+TP53_damaging_to_WEE1,Avana,ACH-000696,Ovary/Fallopian Tube,damaging,-1.8829325311304115
+TP53_damaging_to_WEE1,Avana,ACH-000697,Lymphoid,matrix_intact,-1.0200090639265316
+TP53_damaging_to_WEE1,Avana,ACH-000698,Lung,damaging,-3.0054897447264524
+TP53_damaging_to_WEE1,Avana,ACH-000699,Breast,damaging,-2.7603804147940734
+TP53_damaging_to_WEE1,Avana,ACH-000700,Lung,damaging,-0.5868833422423193
+TP53_damaging_to_WEE1,Avana,ACH-000701,Ovary/Fallopian Tube,damaging,-0.6656746829727374
+TP53_damaging_to_WEE1,Avana,ACH-000702,Lymphoid,matrix_intact,-5.781730717990313
+TP53_damaging_to_WEE1,Avana,ACH-000706,Lung,damaging,-2.411003044787271
+TP53_damaging_to_WEE1,Avana,ACH-000709,Kidney,matrix_intact,-2.0842258353146823
+TP53_damaging_to_WEE1,Avana,ACH-000711,Breast,damaging,-7.155481509922608
+TP53_damaging_to_WEE1,Avana,ACH-000713,Ovary/Fallopian Tube,damaging,-2.1425281867916777
+TP53_damaging_to_WEE1,Avana,ACH-000714,Lymphoid,matrix_intact,-1.8607960374242216
+TP53_damaging_to_WEE1,Avana,ACH-000716,Thyroid,damaging,-1.7250386564411766
+TP53_damaging_to_WEE1,Avana,ACH-000718,Lung,damaging,-2.337773905977441
+TP53_damaging_to_WEE1,Avana,ACH-000719,Ovary/Fallopian Tube,matrix_intact,-2.2022673720124923
+TP53_damaging_to_WEE1,Avana,ACH-000720,Bladder/Urinary Tract,damaging,-3.5335735265603
+TP53_damaging_to_WEE1,Avana,ACH-000721,Breast,damaging,-3.908997478192105
+TP53_damaging_to_WEE1,Avana,ACH-000724,Bladder/Urinary Tract,damaging,-1.8334474984397482
+TP53_damaging_to_WEE1,Avana,ACH-000725,Breast,damaging,-2.3331825830329587
+TP53_damaging_to_WEE1,Avana,ACH-000732,Head and Neck,damaging,-1.295771669675391
+TP53_damaging_to_WEE1,Avana,ACH-000734,Liver,matrix_intact,-2.998390921820845
+TP53_damaging_to_WEE1,Avana,ACH-000735,Head and Neck,matrix_intact,-4.258492928307334
+TP53_damaging_to_WEE1,Avana,ACH-000736,Esophagus/Stomach,damaging,-2.2824326086055997
+TP53_damaging_to_WEE1,Avana,ACH-000738,CNS/Brain,matrix_intact,-2.4224451925324613
+TP53_damaging_to_WEE1,Avana,ACH-000739,Liver,matrix_intact,-1.711500993013666
+TP53_damaging_to_WEE1,Avana,ACH-000740,Head and Neck,damaging,-2.932046394637153
+TP53_damaging_to_WEE1,Avana,ACH-000741,Bladder/Urinary Tract,damaging,-6.088893227504972
+TP53_damaging_to_WEE1,Avana,ACH-000746,Esophagus/Stomach,damaging,-3.3987359180886623
+TP53_damaging_to_WEE1,Avana,ACH-000747,Lung,damaging,-2.1657508452737795
+TP53_damaging_to_WEE1,Avana,ACH-000748,Bone,matrix_intact,-2.790678009872848
+TP53_damaging_to_WEE1,Avana,ACH-000753,Bladder/Urinary Tract,damaging,-4.138008232032976
+TP53_damaging_to_WEE1,Avana,ACH-000754,Lymphoid,matrix_intact,-4.823190566155501
+TP53_damaging_to_WEE1,Avana,ACH-000756,CNS/Brain,damaging,-7.993607577156169
+TP53_damaging_to_WEE1,Avana,ACH-000757,Lung,matrix_intact,-1.4689608880306246
+TP53_damaging_to_WEE1,Avana,ACH-000758,Esophagus/Stomach,damaging,-1.9167178091128707
+TP53_damaging_to_WEE1,Avana,ACH-000760,CNS/Brain,matrix_intact,-3.564206745002842
+TP53_damaging_to_WEE1,Avana,ACH-000762,Head and Neck,damaging,-4.98625353200609
+TP53_damaging_to_WEE1,Avana,ACH-000763,Lymphoid,matrix_intact,-1.3893028329144705
+TP53_damaging_to_WEE1,Avana,ACH-000764,Esophagus/Stomach,damaging,-0.43459537454762914
+TP53_damaging_to_WEE1,Avana,ACH-000765,Skin,matrix_intact,-2.201634124610962
+TP53_damaging_to_WEE1,Avana,ACH-000766,Lung,damaging,-4.601164513369879
+TP53_damaging_to_WEE1,Avana,ACH-000767,Lung,damaging,-2.204297406531441
+TP53_damaging_to_WEE1,Avana,ACH-000768,Breast,damaging,-3.5994760629658735
+TP53_damaging_to_WEE1,Avana,ACH-000769,Lung,damaging,-0.8997166620817599
+TP53_damaging_to_WEE1,Avana,ACH-000770,Myeloid,damaging,-1.650025027750972
+TP53_damaging_to_WEE1,Avana,ACH-000771,Head and Neck,damaging,-1.8594666170551066
+TP53_damaging_to_WEE1,Avana,ACH-000773,Lymphoid,matrix_intact,-1.9995427544558746
+TP53_damaging_to_WEE1,Avana,ACH-000774,Lung,damaging,-1.5954331080264776
+TP53_damaging_to_WEE1,Avana,ACH-000775,Lung,matrix_intact,-1.8552534392911495
+TP53_damaging_to_WEE1,Avana,ACH-000776,CNS/Brain,matrix_intact,-1.072828618143979
+TP53_damaging_to_WEE1,Avana,ACH-000777,Esophagus/Stomach,damaging,-2.1350005001751944
+TP53_damaging_to_WEE1,Avana,ACH-000778,Head and Neck,damaging,-1.5963057883360423
+TP53_damaging_to_WEE1,Avana,ACH-000781,Lung,damaging,-2.8764146175110143
+TP53_damaging_to_WEE1,Avana,ACH-000782,Lymphoid,damaging,-0.9501794671958684
+TP53_damaging_to_WEE1,Avana,ACH-000783,Breast,damaging,-2.57789278646878
+TP53_damaging_to_WEE1,Avana,ACH-000784,Esophagus/Stomach,damaging,-2.9022301069170013
+TP53_damaging_to_WEE1,Avana,ACH-000785,Lung,damaging,-1.2790106833442534
+TP53_damaging_to_WEE1,Avana,ACH-000787,Lung,damaging,-1.830633539511445
+TP53_damaging_to_WEE1,Avana,ACH-000788,Skin,damaging,-6.37207406789992
+TP53_damaging_to_WEE1,Avana,ACH-000790,Lung,damaging,-0.9862836143529751
+TP53_damaging_to_WEE1,Avana,ACH-000791,Lung,matrix_intact,-1.3570199113737824
+TP53_damaging_to_WEE1,Avana,ACH-000792,Kidney,damaging,-1.9931030905134612
+TP53_damaging_to_WEE1,Avana,ACH-000793,Esophagus/Stomach,matrix_intact,-4.970571216456966
+TP53_damaging_to_WEE1,Avana,ACH-000794,Head and Neck,damaging,-3.660407045160558
+TP53_damaging_to_WEE1,Avana,ACH-000796,Ovary/Fallopian Tube,damaging,-3.8904960595096982
+TP53_damaging_to_WEE1,Avana,ACH-000799,Skin,matrix_intact,-2.30451385218843
+TP53_damaging_to_WEE1,Avana,ACH-000800,Lung,damaging,-1.9103411734065991
+TP53_damaging_to_WEE1,Avana,ACH-000801,Skin,matrix_intact,-4.063741618360183
+TP53_damaging_to_WEE1,Avana,ACH-000802,Bladder/Urinary Tract,damaging,-3.206132612569579
+TP53_damaging_to_WEE1,Avana,ACH-000804,Peripheral Nervous System,matrix_intact,-0.8174991249501762
+TP53_damaging_to_WEE1,Avana,ACH-000805,Skin,matrix_intact,-0.8929613123072584
+TP53_damaging_to_WEE1,Avana,ACH-000807,CNS/Brain,damaging,-2.672372696072501
+TP53_damaging_to_WEE1,Avana,ACH-000809,Esophagus/Stomach,damaging,-3.011954905329669
+TP53_damaging_to_WEE1,Avana,ACH-000810,Skin,damaging,-3.7882994549876168
+TP53_damaging_to_WEE1,Avana,ACH-000811,Ovary/Fallopian Tube,damaging,-2.3434961638469676
+TP53_damaging_to_WEE1,Avana,ACH-000817,Lymphoid,damaging,-1.3746744143345233
+TP53_damaging_to_WEE1,Avana,ACH-000819,CNS/Brain,damaging,-1.0525914017278253
+TP53_damaging_to_WEE1,Avana,ACH-000820,Bowel,damaging,-0.7356769051967031
+TP53_damaging_to_WEE1,Avana,ACH-000821,Lymphoid,damaging,-2.4463914415204737
+TP53_damaging_to_WEE1,Avana,ACH-000822,Skin,matrix_intact,-3.3159262234981317
+TP53_damaging_to_WEE1,Avana,ACH-000823,Esophagus/Stomach,damaging,-2.013913528279941
+TP53_damaging_to_WEE1,Avana,ACH-000824,Esophagus/Stomach,damaging,-3.0243613501968305
+TP53_damaging_to_WEE1,Avana,ACH-000827,Skin,matrix_intact,-2.018275316694742
+TP53_damaging_to_WEE1,Avana,ACH-000829,Lymphoid,matrix_intact,-2.61653661874258
+TP53_damaging_to_WEE1,Avana,ACH-000831,Uterus,damaging,-2.7314627933210596
+TP53_damaging_to_WEE1,Avana,ACH-000832,Head and Neck,damaging,-1.553941177144388
+TP53_damaging_to_WEE1,Avana,ACH-000833,Soft Tissue,damaging,-1.2172458430195472
+TP53_damaging_to_WEE1,Avana,ACH-000834,Bladder/Urinary Tract,damaging,-1.563330594266659
+TP53_damaging_to_WEE1,Avana,ACH-000835,Soft Tissue,damaging,-1.7841167818783168
+TP53_damaging_to_WEE1,Avana,ACH-000836,Head and Neck,damaging,-3.0160698849933336
+TP53_damaging_to_WEE1,Avana,ACH-000837,Lung,damaging,-1.3633312201792311
+TP53_damaging_to_WEE1,Avana,ACH-000838,Lymphoid,matrix_intact,-1.8320117263950468
+TP53_damaging_to_WEE1,Avana,ACH-000839,Bladder/Urinary Tract,damaging,-1.335845860023257
+TP53_damaging_to_WEE1,Avana,ACH-000840,Lung,damaging,-1.0375700658425777
+TP53_damaging_to_WEE1,Avana,ACH-000841,Lung,damaging,-1.1279099378115767
+TP53_damaging_to_WEE1,Avana,ACH-000843,Lung,damaging,-1.43999677665945
+TP53_damaging_to_WEE1,Avana,ACH-000845,Lung,damaging,-2.377449513064095
+TP53_damaging_to_WEE1,Avana,ACH-000846,Head and Neck,damaging,-2.9655198034836503
+TP53_damaging_to_WEE1,Avana,ACH-000847,Esophagus/Stomach,damaging,-0.6034125485669843
+TP53_damaging_to_WEE1,Avana,ACH-000848,Liver,matrix_intact,-1.7335545746374446
+TP53_damaging_to_WEE1,Avana,ACH-000849,Breast,damaging,-4.2477477033690985
+TP53_damaging_to_WEE1,Avana,ACH-000851,Lung,damaging,-1.2050562118141928
+TP53_damaging_to_WEE1,Avana,ACH-000853,Lung,damaging,-1.4610386469547376
+TP53_damaging_to_WEE1,Avana,ACH-000855,Esophagus/Stomach,damaging,-1.6857613267821523
+TP53_damaging_to_WEE1,Avana,ACH-000856,Breast,matrix_intact,-1.1331536814140846
+TP53_damaging_to_WEE1,Avana,ACH-000858,Lung,damaging,-1.4527117900211275
+TP53_damaging_to_WEE1,Avana,ACH-000859,Breast,damaging,-1.001516042480433
+TP53_damaging_to_WEE1,Avana,ACH-000860,Lung,matrix_intact,-2.7581924584007833
+TP53_damaging_to_WEE1,Avana,ACH-000861,Lung,damaging,-1.7273043152088374
+TP53_damaging_to_WEE1,Avana,ACH-000862,Bladder/Urinary Tract,damaging,-2.489207645873036
+TP53_damaging_to_WEE1,Avana,ACH-000865,Esophagus/Stomach,damaging,-1.9720185145278095
+TP53_damaging_to_WEE1,Avana,ACH-000866,Lung,damaging,-4.087986045399322
+TP53_damaging_to_WEE1,Avana,ACH-000867,Lung,damaging,-3.59215630106295
+TP53_damaging_to_WEE1,Avana,ACH-000869,Lung,damaging,-3.853330707683415
+TP53_damaging_to_WEE1,Avana,ACH-000871,Lung,damaging,-1.4166788030890767
+TP53_damaging_to_WEE1,Avana,ACH-000872,Lung,damaging,-1.4346782636660778
+TP53_damaging_to_WEE1,Avana,ACH-000873,Esophagus/Stomach,damaging,-1.1181080538686423
+TP53_damaging_to_WEE1,Avana,ACH-000876,Breast,damaging,-1.1185888222086322
+TP53_damaging_to_WEE1,Avana,ACH-000878,Lung,damaging,-0.6911903960807916
+TP53_damaging_to_WEE1,Avana,ACH-000880,Esophagus/Stomach,matrix_intact,-1.8794900446026515
+TP53_damaging_to_WEE1,Avana,ACH-000881,Skin,matrix_intact,-1.1351243641170798
+TP53_damaging_to_WEE1,Avana,ACH-000882,Skin,matrix_intact,-2.7883127210786465
+TP53_damaging_to_WEE1,Avana,ACH-000884,Skin,damaging,-1.6830268814190763
+TP53_damaging_to_WEE1,Avana,ACH-000885,Ovary/Fallopian Tube,matrix_intact,-2.631363936387085
+TP53_damaging_to_WEE1,Avana,ACH-000886,Lung,damaging,-5.128851613575559
+TP53_damaging_to_WEE1,Avana,ACH-000887,CNS/Brain,damaging,-4.20503681362154
+TP53_damaging_to_WEE1,Avana,ACH-000888,Lung,damaging,-2.096763812716133
+TP53_damaging_to_WEE1,Avana,ACH-000889,Lymphoid,damaging,-3.7842376069073773
+TP53_damaging_to_WEE1,Avana,ACH-000890,Lung,damaging,-2.186640758350893
+TP53_damaging_to_WEE1,Avana,ACH-000896,Bladder/Urinary Tract,damaging,-2.460873802007547
+TP53_damaging_to_WEE1,Avana,ACH-000898,Esophagus/Stomach,matrix_intact,-1.4020403502136212
+TP53_damaging_to_WEE1,Avana,ACH-000899,Skin,matrix_intact,-6.466515729013555
+TP53_damaging_to_WEE1,Avana,ACH-000900,Lung,damaging,-1.5291147032137238
+TP53_damaging_to_WEE1,Avana,ACH-000901,Lung,damaging,-2.88739961164619
+TP53_damaging_to_WEE1,Avana,ACH-000903,Thyroid,damaging,-3.109945090781733
+TP53_damaging_to_WEE1,Avana,ACH-000905,Bladder/Urinary Tract,damaging,-3.1144690821429593
+TP53_damaging_to_WEE1,Avana,ACH-000906,Ovary/Fallopian Tube,damaging,-2.727287132896824
+TP53_damaging_to_WEE1,Avana,ACH-000907,Kidney,matrix_intact,-1.7372334748930287
+TP53_damaging_to_WEE1,Avana,ACH-000910,Breast,matrix_intact,-2.632930101466954
+TP53_damaging_to_WEE1,Avana,ACH-000911,Esophagus/Stomach,damaging,-1.484175306714819
+TP53_damaging_to_WEE1,Avana,ACH-000912,Lung,damaging,-3.5232893408625654
+TP53_damaging_to_WEE1,Avana,ACH-000913,Uterus,damaging,-2.5280232192910517
+TP53_damaging_to_WEE1,Avana,ACH-000914,Lymphoid,damaging,-4.6182038809286965
+TP53_damaging_to_WEE1,Avana,ACH-000915,Skin,damaging,-4.664102729891873
+TP53_damaging_to_WEE1,Avana,ACH-000916,Lung,damaging,-1.1581511677701766
+TP53_damaging_to_WEE1,Avana,ACH-000917,Esophagus/Stomach,matrix_intact,-1.326610453692279
+TP53_damaging_to_WEE1,Avana,ACH-000920,Myeloid,damaging,-0.37528622976866777
+TP53_damaging_to_WEE1,Avana,ACH-000921,Lung,damaging,-1.160854574654147
+TP53_damaging_to_WEE1,Avana,ACH-000922,Lymphoid,matrix_intact,-1.8315722357703232
+TP53_damaging_to_WEE1,Avana,ACH-000924,Lung,damaging,-2.4378565039214872
+TP53_damaging_to_WEE1,Avana,ACH-000926,Bowel,matrix_intact,-1.6470015598341141
+TP53_damaging_to_WEE1,Avana,ACH-000928,Uterus,matrix_intact,-1.5162515591454815
+TP53_damaging_to_WEE1,Avana,ACH-000929,Lung,damaging,-0.6044446366109337
+TP53_damaging_to_WEE1,Avana,ACH-000932,Esophagus/Stomach,matrix_intact,-2.8993337287374823
+TP53_damaging_to_WEE1,Avana,ACH-000935,Bowel,matrix_intact,-1.429303732449417
+TP53_damaging_to_WEE1,Avana,ACH-000936,Ovary/Fallopian Tube,damaging,-2.13643523459573
+TP53_damaging_to_WEE1,Avana,ACH-000937,Lymphoid,damaging,-5.827108714878918
+TP53_damaging_to_WEE1,Avana,ACH-000938,Lymphoid,matrix_intact,-1.598645184500437
+TP53_damaging_to_WEE1,Avana,ACH-000939,Uterus,damaging,-1.3902755539405538
+TP53_damaging_to_WEE1,Avana,ACH-000941,Uterus,damaging,-2.1668126463625366
+TP53_damaging_to_WEE1,Avana,ACH-000943,Bowel,matrix_intact,-2.193296870542991
+TP53_damaging_to_WEE1,Avana,ACH-000944,Lymphoid,damaging,-1.8065551130097495
+TP53_damaging_to_WEE1,Avana,ACH-000946,Uterus,matrix_intact,-2.1046869272391797
+TP53_damaging_to_WEE1,Avana,ACH-000947,Ovary/Fallopian Tube,damaging,-2.6796241333415196
+TP53_damaging_to_WEE1,Avana,ACH-000948,Esophagus/Stomach,matrix_intact,-1.9335517685095636
+TP53_damaging_to_WEE1,Avana,ACH-000950,Bowel,matrix_intact,-0.5922729949406668
+TP53_damaging_to_WEE1,Avana,ACH-000953,Lymphoid,damaging,-3.8070557953848727
+TP53_damaging_to_WEE1,Avana,ACH-000957,Bowel,matrix_intact,-1.5542130529084135
+TP53_damaging_to_WEE1,Avana,ACH-000958,Bowel,matrix_intact,-0.9193155132699076
+TP53_damaging_to_WEE1,Avana,ACH-000959,Bowel,damaging,-1.2216409885559254
+TP53_damaging_to_WEE1,Avana,ACH-000960,Lymphoid,damaging,-2.2465398356245467
+TP53_damaging_to_WEE1,Avana,ACH-000961,Uterus,damaging,-1.0955858193376726
+TP53_damaging_to_WEE1,Avana,ACH-000963,Bowel,damaging,-0.487184418399383
+TP53_damaging_to_WEE1,Avana,ACH-000965,Uterus,matrix_intact,-3.676307642897184
+TP53_damaging_to_WEE1,Avana,ACH-000968,Skin,matrix_intact,-1.9901077949791004
+TP53_damaging_to_WEE1,Avana,ACH-000969,Bowel,damaging,-1.1373037692382224
+TP53_damaging_to_WEE1,Avana,ACH-000973,Bladder/Urinary Tract,damaging,-4.568750985683149
+TP53_damaging_to_WEE1,Avana,ACH-000974,Uterus,matrix_intact,-2.8751695816838225
+TP53_damaging_to_WEE1,Avana,ACH-000975,Lung,damaging,-2.8202381523916067
+TP53_damaging_to_WEE1,Avana,ACH-000976,Biliary Tract,damaging,-3.6199028168512064
+TP53_damaging_to_WEE1,Avana,ACH-000977,Prostate,matrix_intact,-2.2150723661533323
+TP53_damaging_to_WEE1,Avana,ACH-000978,Uterus,damaging,-0.694123610866249
+TP53_damaging_to_WEE1,Avana,ACH-000980,Lung,damaging,-3.3316431659916104
+TP53_damaging_to_WEE1,Avana,ACH-000983,Myeloid,damaging,-2.9671452622172296
+TP53_damaging_to_WEE1,Avana,ACH-000984,Uterus,damaging,-2.534788863529374
+TP53_damaging_to_WEE1,Avana,ACH-000986,Bowel,damaging,-0.8347279675044472
+TP53_damaging_to_WEE1,Avana,ACH-000988,Uterus,damaging,-1.3166012711703399
+TP53_damaging_to_WEE1,Avana,ACH-000993,Uterus,damaging,-2.8499928155166283
+TP53_damaging_to_WEE1,Avana,ACH-000994,Uterus,damaging,-1.0741614369031698
+TP53_damaging_to_WEE1,Avana,ACH-000995,Lymphoid,damaging,-0.5304469487267296
+TP53_damaging_to_WEE1,Avana,ACH-000996,Uterus,damaging,-1.3156236630503213
+TP53_damaging_to_WEE1,Avana,ACH-001001,Bone,damaging,-3.1294009398606377
+TP53_damaging_to_WEE1,Avana,ACH-001020,CNS/Brain,matrix_intact,-0.23781158740709712
+TP53_damaging_to_WEE1,Avana,ACH-001028,CNS/Brain,damaging,-2.918303226144076
+TP53_damaging_to_WEE1,Avana,ACH-001029,Bone,damaging,-3.1548727435857487
+TP53_damaging_to_WEE1,Avana,ACH-001031,CNS/Brain,matrix_intact,-2.833622853541649
+TP53_damaging_to_WEE1,Avana,ACH-001033,CNS/Brain,matrix_intact,-1.3800456245707946
+TP53_damaging_to_WEE1,Avana,ACH-001036,Myeloid,matrix_intact,-0.7323114966886597
+TP53_damaging_to_WEE1,Avana,ACH-001038,Bone,damaging,-5.514030215033666
+TP53_damaging_to_WEE1,Avana,ACH-001041,Skin,damaging,-1.7462480689342175
+TP53_damaging_to_WEE1,Avana,ACH-001048,Ovary/Fallopian Tube,damaging,-3.491585046774251
+TP53_damaging_to_WEE1,Avana,ACH-001050,Soft Tissue,matrix_intact,-2.20675724051618
+TP53_damaging_to_WEE1,Avana,ACH-001053,CNS/Brain,matrix_intact,-1.4837093141354467
+TP53_damaging_to_WEE1,Avana,ACH-001054,CNS/Brain,matrix_intact,-2.119387862889983
+TP53_damaging_to_WEE1,Avana,ACH-001061,Bowel,damaging,-1.3460527975331398
+TP53_damaging_to_WEE1,Avana,ACH-001067,CNS/Brain,matrix_intact,-3.4424282745584636
+TP53_damaging_to_WEE1,Avana,ACH-001075,Lung,matrix_intact,-1.5616758744764052
+TP53_damaging_to_WEE1,Avana,ACH-001096,Soft Tissue,matrix_intact,-1.2237858931684245
+TP53_damaging_to_WEE1,Avana,ACH-001098,Pancreas,damaging,-1.0644102470021108
+TP53_damaging_to_WEE1,Avana,ACH-001099,Kidney,matrix_intact,-1.6804514455125457
+TP53_damaging_to_WEE1,Avana,ACH-001119,Lymphoid,matrix_intact,-1.079030576654876
+TP53_damaging_to_WEE1,Avana,ACH-001128,Kidney,matrix_intact,-1.0598425694365132
+TP53_damaging_to_WEE1,Avana,ACH-001129,Myeloid,damaging,-0.35568018045316174
+TP53_damaging_to_WEE1,Avana,ACH-001134,Lymphoid,matrix_intact,-1.8605550315345116
+TP53_damaging_to_WEE1,Avana,ACH-001145,Ovary/Fallopian Tube,damaging,-2.4537258081892754
+TP53_damaging_to_WEE1,Avana,ACH-001151,Ovary/Fallopian Tube,matrix_intact,-2.6833246751281257
+TP53_damaging_to_WEE1,Avana,ACH-001163,Kidney,damaging,-2.1836089420582874
+TP53_damaging_to_WEE1,Avana,ACH-001164,Soft Tissue,matrix_intact,-1.0490980134264838
+TP53_damaging_to_WEE1,Avana,ACH-001172,CNS/Brain,damaging,-3.211498490287042
+TP53_damaging_to_WEE1,Avana,ACH-001183,Bladder/Urinary Tract,damaging,-1.5470948621707055
+TP53_damaging_to_WEE1,Avana,ACH-001184,Soft Tissue,matrix_intact,-1.6986350751168686
+TP53_damaging_to_WEE1,Avana,ACH-001188,Peripheral Nervous System,matrix_intact,-1.54995301050793
+TP53_damaging_to_WEE1,Avana,ACH-001190,Skin,damaging,-1.3833094283067848
+TP53_damaging_to_WEE1,Avana,ACH-001192,Bone,damaging,-1.2762738220258658
+TP53_damaging_to_WEE1,Avana,ACH-001193,Bone,damaging,-0.6874018333347317
+TP53_damaging_to_WEE1,Avana,ACH-001194,Kidney,damaging,-3.5523172963139324
+TP53_damaging_to_WEE1,Avana,ACH-001196,Soft Tissue,damaging,-1.532123331702766
+TP53_damaging_to_WEE1,Avana,ACH-001197,Lymphoid,damaging,-2.1910891599355975
+TP53_damaging_to_WEE1,Avana,ACH-001205,Bone,matrix_intact,-0.610554008525003
+TP53_damaging_to_WEE1,Avana,ACH-001211,Kidney,matrix_intact,-1.007909203823965
+TP53_damaging_to_WEE1,Avana,ACH-001212,Kidney,matrix_intact,-0.7443948160624466
+TP53_damaging_to_WEE1,Avana,ACH-001228,Head and Neck,matrix_intact,-1.474308475935897
+TP53_damaging_to_WEE1,Avana,ACH-001229,Head and Neck,matrix_intact,-2.748413902591458
+TP53_damaging_to_WEE1,Avana,ACH-001232,CNS/Brain,damaging,-2.2173729243961393
+TP53_damaging_to_WEE1,Avana,ACH-001239,Skin,matrix_intact,-1.973964442428099
+TP53_damaging_to_WEE1,Avana,ACH-001270,Soft Tissue,matrix_intact,-0.4490437348677916
+TP53_damaging_to_WEE1,Avana,ACH-001274,Soft Tissue,matrix_intact,-2.479877635607208
+TP53_damaging_to_WEE1,Avana,ACH-001275,Soft Tissue,matrix_intact,-1.110275167922314
+TP53_damaging_to_WEE1,Avana,ACH-001277,Soft Tissue,damaging,-0.8527148875968757
+TP53_damaging_to_WEE1,Avana,ACH-001278,Ovary/Fallopian Tube,matrix_intact,-1.3746670822014515
+TP53_damaging_to_WEE1,Avana,ACH-001279,Ovary/Fallopian Tube,matrix_intact,-5.808753862545821
+TP53_damaging_to_WEE1,Avana,ACH-001280,Soft Tissue,damaging,-1.577324275766661
+TP53_damaging_to_WEE1,Avana,ACH-001283,Bone,damaging,-2.20554081154968
+TP53_damaging_to_WEE1,Avana,ACH-001289,CNS/Brain,matrix_intact,-1.6276129620880049
+TP53_damaging_to_WEE1,Avana,ACH-001295,Eye,matrix_intact,-3.1586675193502387
+TP53_damaging_to_WEE1,Avana,ACH-001300,Peripheral Nervous System,matrix_intact,-1.787411557876982
+TP53_damaging_to_WEE1,Avana,ACH-001301,Peripheral Nervous System,matrix_intact,-1.3241026192749499
+TP53_damaging_to_WEE1,Avana,ACH-001302,Peripheral Nervous System,matrix_intact,-0.9803525478961252
+TP53_damaging_to_WEE1,Avana,ACH-001303,Peripheral Nervous System,matrix_intact,-1.0731514400484157
+TP53_damaging_to_WEE1,Avana,ACH-001306,Thyroid,damaging,-2.167851727879858
+TP53_damaging_to_WEE1,Avana,ACH-001307,Thyroid,damaging,-1.4663854709399118
+TP53_damaging_to_WEE1,Avana,ACH-001310,Kidney,matrix_intact,-1.2572706139710994
+TP53_damaging_to_WEE1,Avana,ACH-001318,Liver,damaging,-2.335520091453149
+TP53_damaging_to_WEE1,Avana,ACH-001322,Soft Tissue,matrix_intact,-0.8759067659238556
+TP53_damaging_to_WEE1,Avana,ACH-001328,Skin,damaging,-2.3465768902060367
+TP53_damaging_to_WEE1,Avana,ACH-001329,CNS/Brain,matrix_intact,-2.3843211918807685
+TP53_damaging_to_WEE1,Avana,ACH-001333,Cervix,damaging,-2.4332418311860264
+TP53_damaging_to_WEE1,Avana,ACH-001334,Cervix,matrix_intact,-3.0345944256169766
+TP53_damaging_to_WEE1,Avana,ACH-001335,Cervix,matrix_intact,-1.9886598539899416
+TP53_damaging_to_WEE1,Avana,ACH-001336,Cervix,matrix_intact,-3.342198009796059
+TP53_damaging_to_WEE1,Avana,ACH-001338,Peripheral Nervous System,matrix_intact,-0.7808516059289232
+TP53_damaging_to_WEE1,Avana,ACH-001340,Ovary/Fallopian Tube,damaging,-3.521936653924751
+TP53_damaging_to_WEE1,Avana,ACH-001341,Cervix,matrix_intact,-3.143960940415888
+TP53_damaging_to_WEE1,Avana,ACH-001344,Peripheral Nervous System,matrix_intact,-0.4541287685480996
+TP53_damaging_to_WEE1,Avana,ACH-001345,Bowel,matrix_intact,-0.4992807628129765
+TP53_damaging_to_WEE1,Avana,ACH-001346,Head and Neck,damaging,-2.644259801713914
+TP53_damaging_to_WEE1,Avana,ACH-001347,Head and Neck,damaging,-2.2960232174081083
+TP53_damaging_to_WEE1,Avana,ACH-001353,Pancreas,damaging,-4.371597939119001
+TP53_damaging_to_WEE1,Avana,ACH-001354,Peripheral Nervous System,damaging,-1.7788982009423187
+TP53_damaging_to_WEE1,Avana,ACH-001356,Thyroid,damaging,-2.5475950680926003
+TP53_damaging_to_WEE1,Avana,ACH-001360,Cervix,matrix_intact,-1.52185160309122
+TP53_damaging_to_WEE1,Avana,ACH-001366,Peripheral Nervous System,damaging,-1.3605811646477788
+TP53_damaging_to_WEE1,Avana,ACH-001367,Peripheral Nervous System,damaging,-0.771588816224163
+TP53_damaging_to_WEE1,Avana,ACH-001368,Esophagus/Stomach,damaging,-3.0776523021571296
+TP53_damaging_to_WEE1,Avana,ACH-001370,Ovary/Fallopian Tube,damaging,-1.403427668511965
+TP53_damaging_to_WEE1,Avana,ACH-001374,Ovary/Fallopian Tube,matrix_intact,-0.30130780450427297
+TP53_damaging_to_WEE1,Avana,ACH-001375,Pancreas,damaging,-1.9521245049491394
+TP53_damaging_to_WEE1,Avana,ACH-001377,Pancreas,matrix_intact,-2.4816090637584596
+TP53_damaging_to_WEE1,Avana,ACH-001379,Pancreas,damaging,-1.9201019087019473
+TP53_damaging_to_WEE1,Avana,ACH-001380,Pancreas,damaging,-2.4901221447810125
+TP53_damaging_to_WEE1,Avana,ACH-001382,Pancreas,damaging,-0.5843566156992686
+TP53_damaging_to_WEE1,Avana,ACH-001385,Head and Neck,matrix_intact,-2.1769512557360233
+TP53_damaging_to_WEE1,Avana,ACH-001386,Lung,damaging,-1.0309061668364445
+TP53_damaging_to_WEE1,Avana,ACH-001388,Breast,matrix_intact,-3.242552165789335
+TP53_damaging_to_WEE1,Avana,ACH-001389,Breast,damaging,-4.372302832854903
+TP53_damaging_to_WEE1,Avana,ACH-001390,Breast,damaging,-2.4644543944864337
+TP53_damaging_to_WEE1,Avana,ACH-001391,Breast,matrix_intact,-2.985236968667709
+TP53_damaging_to_WEE1,Avana,ACH-001392,Breast,damaging,-0.3729792304692789
+TP53_damaging_to_WEE1,Avana,ACH-001393,Breast,damaging,-1.5561631293442995
+TP53_damaging_to_WEE1,Avana,ACH-001394,Breast,damaging,-7.595311165809033
+TP53_damaging_to_WEE1,Avana,ACH-001396,Breast,damaging,-2.6136523407380174
+TP53_damaging_to_WEE1,Avana,ACH-001398,Kidney,matrix_intact,-0.6213281721029609
+TP53_damaging_to_WEE1,Avana,ACH-001400,Vulva/Vagina,damaging,-0.8907353371269036
+TP53_damaging_to_WEE1,Avana,ACH-001402,Cervix,matrix_intact,-3.2687020190600884
+TP53_damaging_to_WEE1,Avana,ACH-001403,Ovary/Fallopian Tube,damaging,-3.0610918196333494
+TP53_damaging_to_WEE1,Avana,ACH-001407,Bladder/Urinary Tract,damaging,-3.275144924156613
+TP53_damaging_to_WEE1,Avana,ACH-001408,Bladder/Urinary Tract,damaging,-1.6025060948377194
+TP53_damaging_to_WEE1,Avana,ACH-001409,Bladder/Urinary Tract,damaging,-1.0884386338281573
+TP53_damaging_to_WEE1,Avana,ACH-001411,Bladder/Urinary Tract,damaging,-1.2002709140496934
+TP53_damaging_to_WEE1,Avana,ACH-001412,Bladder/Urinary Tract,damaging,-1.6991891453674164
+TP53_damaging_to_WEE1,Avana,ACH-001413,Bladder/Urinary Tract,matrix_intact,-3.617258490860239
+TP53_damaging_to_WEE1,Avana,ACH-001414,Bladder/Urinary Tract,matrix_intact,-2.494817013733895
+TP53_damaging_to_WEE1,Avana,ACH-001415,Bladder/Urinary Tract,damaging,-1.348311456067575
+TP53_damaging_to_WEE1,Avana,ACH-001416,Bladder/Urinary Tract,damaging,-1.8461264290378718
+TP53_damaging_to_WEE1,Avana,ACH-001418,Ovary/Fallopian Tube,damaging,-6.597895621020424
+TP53_damaging_to_WEE1,Avana,ACH-001419,Breast,damaging,-1.4135488594448127
+TP53_damaging_to_WEE1,Avana,ACH-001421,Eye,matrix_intact,-0.8486938781128526
+TP53_damaging_to_WEE1,Avana,ACH-001422,Prostate,matrix_intact,-2.029574910177927
+TP53_damaging_to_WEE1,Avana,ACH-001430,Bone,matrix_intact,-0.5316780950087865
+TP53_damaging_to_WEE1,Avana,ACH-001431,Bone,matrix_intact,-1.25086976131163
+TP53_damaging_to_WEE1,Avana,ACH-001433,Soft Tissue,damaging,-3.999878240819629
+TP53_damaging_to_WEE1,Avana,ACH-001442,Skin,damaging,-1.5183989210146445
+TP53_damaging_to_WEE1,Avana,ACH-001443,Thyroid,damaging,-4.1702234546175125
+TP53_damaging_to_WEE1,Avana,ACH-001450,Lymphoid,damaging,-1.5904869641084467
+TP53_damaging_to_WEE1,Avana,ACH-001451,Cervix,matrix_intact,-1.5250075529535176
+TP53_damaging_to_WEE1,Avana,ACH-001453,Prostate,matrix_intact,-1.3398501476365872
+TP53_damaging_to_WEE1,Avana,ACH-001454,Bowel,matrix_intact,-2.234186378784077
+TP53_damaging_to_WEE1,Avana,ACH-001458,Bowel,damaging,-1.2009574183192044
+TP53_damaging_to_WEE1,Avana,ACH-001459,Bowel,damaging,-0.6125134426032726
+TP53_damaging_to_WEE1,Avana,ACH-001460,Bowel,damaging,-6.674487172924509
+TP53_damaging_to_WEE1,Avana,ACH-001461,Bowel,matrix_intact,-0.6863626932147313
+TP53_damaging_to_WEE1,Avana,ACH-001481,Peripheral Nervous System,damaging,-0.9966232699995485
+TP53_damaging_to_WEE1,Avana,ACH-001494,Biliary Tract,damaging,-2.6314381431382063
+TP53_damaging_to_WEE1,Avana,ACH-001495,Uterus,damaging,-3.0106326046932974
+TP53_damaging_to_WEE1,Avana,ACH-001496,Esophagus/Stomach,damaging,-3.4514753847828343
+TP53_damaging_to_WEE1,Avana,ACH-001497,Esophagus/Stomach,damaging,-1.2210732669825854
+TP53_damaging_to_WEE1,Avana,ACH-001498,Lymphoid,damaging,-2.4840264076392202
+TP53_damaging_to_WEE1,Avana,ACH-001500,Esophagus/Stomach,damaging,-1.5786362347343315
+TP53_damaging_to_WEE1,Avana,ACH-001509,Head and Neck,damaging,-1.4229600118817736
+TP53_damaging_to_WEE1,Avana,ACH-001510,Head and Neck,damaging,-5.046875158260892
+TP53_damaging_to_WEE1,Avana,ACH-001511,Head and Neck,damaging,-3.2057662592432603
+TP53_damaging_to_WEE1,Avana,ACH-001513,Cervix,damaging,-3.1003504034661704
+TP53_damaging_to_WEE1,Avana,ACH-001515,Cervix,matrix_intact,-2.417574020250478
+TP53_damaging_to_WEE1,Avana,ACH-001517,Uterus,damaging,-4.7089324833726405
+TP53_damaging_to_WEE1,Avana,ACH-001518,Uterus,damaging,-2.496108212420107
+TP53_damaging_to_WEE1,Avana,ACH-001520,Lymphoid,matrix_intact,-2.6476815248436933
+TP53_damaging_to_WEE1,Avana,ACH-001521,Skin,damaging,-2.0267186796928955
+TP53_damaging_to_WEE1,Avana,ACH-001522,Skin,matrix_intact,-3.5031415408109874
+TP53_damaging_to_WEE1,Avana,ACH-001523,Skin,damaging,-2.3171535597386397
+TP53_damaging_to_WEE1,Avana,ACH-001524,Skin,damaging,-2.0988291724298143
+TP53_damaging_to_WEE1,Avana,ACH-001525,Cervix,damaging,-2.8307700301088587
+TP53_damaging_to_WEE1,Avana,ACH-001526,Bone,matrix_intact,-1.3493791724926374
+TP53_damaging_to_WEE1,Avana,ACH-001528,Thyroid,matrix_intact,-1.7481775345029846
+TP53_damaging_to_WEE1,Avana,ACH-001529,Uterus,matrix_intact,-3.4355994398285956
+TP53_damaging_to_WEE1,Avana,ACH-001530,Uterus,matrix_intact,-3.6903731805217896
+TP53_damaging_to_WEE1,Avana,ACH-001532,Kidney,matrix_intact,-2.8848861018828718
+TP53_damaging_to_WEE1,Avana,ACH-001533,Lymphoid,damaging,-1.2302854035221098
+TP53_damaging_to_WEE1,Avana,ACH-001536,Biliary Tract,matrix_intact,-1.470208726181355
+TP53_damaging_to_WEE1,Avana,ACH-001538,Biliary Tract,matrix_intact,-1.8281374732072702
+TP53_damaging_to_WEE1,Avana,ACH-001539,Lymphoid,damaging,-1.093352380572035
+TP53_damaging_to_WEE1,Avana,ACH-001542,Head and Neck,damaging,-2.863071991272064
+TP53_damaging_to_WEE1,Avana,ACH-001543,Head and Neck,damaging,-5.068571449361507
+TP53_damaging_to_WEE1,Avana,ACH-001547,Pleura,matrix_intact,-2.4037345885664423
+TP53_damaging_to_WEE1,Avana,ACH-001548,Peripheral Nervous System,matrix_intact,-0.660899942886268
+TP53_damaging_to_WEE1,Avana,ACH-001549,Lung,damaging,-6.0949078561285965
+TP53_damaging_to_WEE1,Avana,ACH-001550,Skin,damaging,-0.7618011084269041
+TP53_damaging_to_WEE1,Avana,ACH-001551,Skin,damaging,-2.4525801790103507
+TP53_damaging_to_WEE1,Avana,ACH-001552,Skin,damaging,-0.6103870974510796
+TP53_damaging_to_WEE1,Avana,ACH-001554,Eye,matrix_intact,-2.2842520550960397
+TP53_damaging_to_WEE1,Avana,ACH-001555,Pleura,matrix_intact,-4.83933531624465
+TP53_damaging_to_WEE1,Avana,ACH-001556,Pleura,matrix_intact,-3.059863560769644
+TP53_damaging_to_WEE1,Avana,ACH-001557,Pleura,matrix_intact,-3.4983990783046957
+TP53_damaging_to_WEE1,Avana,ACH-001558,Pleura,matrix_intact,-1.4315582044238897
+TP53_damaging_to_WEE1,Avana,ACH-001559,Pleura,damaging,-1.6855067125675447
+TP53_damaging_to_WEE1,Avana,ACH-001560,Pleura,matrix_intact,-3.871132346420211
+TP53_damaging_to_WEE1,Avana,ACH-001562,Pleura,matrix_intact,-1.662467632850059
+TP53_damaging_to_WEE1,Avana,ACH-001563,Skin,matrix_intact,-3.122811683217913
+TP53_damaging_to_WEE1,Avana,ACH-001566,Skin,matrix_intact,-3.417542714164052
+TP53_damaging_to_WEE1,Avana,ACH-001567,Skin,matrix_intact,-4.78700179301806
+TP53_damaging_to_WEE1,Avana,ACH-001568,Skin,matrix_intact,-2.136262256212065
+TP53_damaging_to_WEE1,Avana,ACH-001570,Skin,matrix_intact,-2.433191336908359
+TP53_damaging_to_WEE1,Avana,ACH-001574,Myeloid,matrix_intact,-2.5319608079313416
+TP53_damaging_to_WEE1,Avana,ACH-001577,Myeloid,matrix_intact,-2.6760593288052146
+TP53_damaging_to_WEE1,Avana,ACH-001607,Biliary Tract,damaging,-6.7154472849337274
+TP53_damaging_to_WEE1,Avana,ACH-001608,CNS/Brain,damaging,-2.8381659999540196
+TP53_damaging_to_WEE1,Avana,ACH-001609,CNS/Brain,damaging,-1.5397163045046445
+TP53_damaging_to_WEE1,Avana,ACH-001610,CNS/Brain,damaging,-0.725532764181843
+TP53_damaging_to_WEE1,Avana,ACH-001611,CNS/Brain,matrix_intact,-1.4296122794959558
+TP53_damaging_to_WEE1,Avana,ACH-001616,Lymphoid,matrix_intact,-5.129615926114562
+TP53_damaging_to_WEE1,Avana,ACH-001618,Myeloid,damaging,-4.223736415490862
+TP53_damaging_to_WEE1,Avana,ACH-001619,Biliary Tract,damaging,-1.7883223304080902
+TP53_damaging_to_WEE1,Avana,ACH-001622,CNS/Brain,matrix_intact,-6.888334575573294
+TP53_damaging_to_WEE1,Avana,ACH-001623,CNS/Brain,damaging,-2.3777929185524904
+TP53_damaging_to_WEE1,Avana,ACH-001624,CNS/Brain,matrix_intact,-1.2740303704860323
+TP53_damaging_to_WEE1,Avana,ACH-001627,Prostate,matrix_intact,-3.3178562021103652
+TP53_damaging_to_WEE1,Avana,ACH-001628,Ovary/Fallopian Tube,damaging,-0.9188355831500001
+TP53_damaging_to_WEE1,Avana,ACH-001630,Ovary/Fallopian Tube,damaging,-2.8382904806829083
+TP53_damaging_to_WEE1,Avana,ACH-001634,Lymphoid,matrix_intact,-2.885405989047869
+TP53_damaging_to_WEE1,Avana,ACH-001641,Head and Neck,damaging,-2.551585942628594
+TP53_damaging_to_WEE1,Avana,ACH-001645,Skin,matrix_intact,-2.8128094929701106
+TP53_damaging_to_WEE1,Avana,ACH-001647,Myeloid,damaging,-1.4773833033400572
+TP53_damaging_to_WEE1,Avana,ACH-001648,Prostate,matrix_intact,-1.852936514646073
+TP53_damaging_to_WEE1,Avana,ACH-001649,Prostate,matrix_intact,-2.253223203119693
+TP53_damaging_to_WEE1,Avana,ACH-001650,Cervix,matrix_intact,-2.7841823258755594
+TP53_damaging_to_WEE1,Avana,ACH-001651,Cervix,matrix_intact,-1.6875152189337195
+TP53_damaging_to_WEE1,Avana,ACH-001652,Cervix,matrix_intact,-3.8199396123423868
+TP53_damaging_to_WEE1,Avana,ACH-001653,Esophagus/Stomach,damaging,-2.5213628972511613
+TP53_damaging_to_WEE1,Avana,ACH-001654,Esophagus/Stomach,damaging,-4.009423709000417
+TP53_damaging_to_WEE1,Avana,ACH-001655,Uterus,damaging,-0.6921217459851969
+TP53_damaging_to_WEE1,Avana,ACH-001656,Myeloid,damaging,-1.396437674470612
+TP53_damaging_to_WEE1,Avana,ACH-001664,Esophagus/Stomach,damaging,-5.6312767857434025
+TP53_damaging_to_WEE1,Avana,ACH-001668,Testis,matrix_intact,-2.2467973789805877
+TP53_damaging_to_WEE1,Avana,ACH-001669,Lymphoid,damaging,-2.1621512518025705
+TP53_damaging_to_WEE1,Avana,ACH-001670,CNS/Brain,damaging,-2.2804890194639054
+TP53_damaging_to_WEE1,Avana,ACH-001673,Biliary Tract,damaging,-3.578426971110286
+TP53_damaging_to_WEE1,Avana,ACH-001674,Peripheral Nervous System,matrix_intact,-2.1687934084271854
+TP53_damaging_to_WEE1,Avana,ACH-001675,Head and Neck,damaging,-2.040268776474321
+TP53_damaging_to_WEE1,Avana,ACH-001677,Lymphoid,matrix_intact,-0.649505851384685
+TP53_damaging_to_WEE1,Avana,ACH-001685,Lymphoid,matrix_intact,-3.5587070321317897
+TP53_damaging_to_WEE1,Avana,ACH-001687,Kidney,matrix_intact,-3.6048159146793046
+TP53_damaging_to_WEE1,Avana,ACH-001688,Kidney,matrix_intact,-1.0862842395870929
+TP53_damaging_to_WEE1,Avana,ACH-001690,Head and Neck,damaging,-5.16593740998868
+TP53_damaging_to_WEE1,Avana,ACH-001691,Head and Neck,damaging,-2.955221430784918
+TP53_damaging_to_WEE1,Avana,ACH-001692,Head and Neck,matrix_intact,-6.877879352551242
+TP53_damaging_to_WEE1,Avana,ACH-001694,Head and Neck,damaging,-2.463591768016712
+TP53_damaging_to_WEE1,Avana,ACH-001696,Head and Neck,damaging,-4.648405857023405
+TP53_damaging_to_WEE1,Avana,ACH-001698,Head and Neck,damaging,-3.030231594352191
+TP53_damaging_to_WEE1,Avana,ACH-001699,Head and Neck,damaging,-3.3478903529103703
+TP53_damaging_to_WEE1,Avana,ACH-001701,Head and Neck,damaging,-2.4077841845371446
+TP53_damaging_to_WEE1,Avana,ACH-001702,Soft Tissue,matrix_intact,-3.9066929831859247
+TP53_damaging_to_WEE1,Avana,ACH-001707,Lymphoid,matrix_intact,-3.0368656457801677
+TP53_damaging_to_WEE1,Avana,ACH-001709,Lymphoid,damaging,-3.522539026231327
+TP53_damaging_to_WEE1,Avana,ACH-001711,CNS/Brain,damaging,-0.9381333643395724
+TP53_damaging_to_WEE1,Avana,ACH-001715,Bone,matrix_intact,-0.8278848148062591
+TP53_damaging_to_WEE1,Avana,ACH-001719,Ovary/Fallopian Tube,damaging,-2.906045012184877
+TP53_damaging_to_WEE1,Avana,ACH-001735,Lymphoid,damaging,-2.3700628046552357
+TP53_damaging_to_WEE1,Avana,ACH-001736,Lymphoid,damaging,-2.5715834659751238
+TP53_damaging_to_WEE1,Avana,ACH-001737,Lymphoid,matrix_intact,-0.7413670418911561
+TP53_damaging_to_WEE1,Avana,ACH-001740,Soft Tissue,damaging,-1.3446811061903625
+TP53_damaging_to_WEE1,Avana,ACH-001745,Soft Tissue,damaging,-1.1710686415806548
+TP53_damaging_to_WEE1,Avana,ACH-001750,Soft Tissue,damaging,-1.8170192595656989
+TP53_damaging_to_WEE1,Avana,ACH-001765,Soft Tissue,damaging,-2.2805002938067274
+TP53_damaging_to_WEE1,Avana,ACH-001786,Bowel,matrix_intact,-2.627942891051715
+TP53_damaging_to_WEE1,Avana,ACH-001791,Soft Tissue,matrix_intact,-1.7449927885693977
+TP53_damaging_to_WEE1,Avana,ACH-001793,Soft Tissue,matrix_intact,-3.437940283983026
+TP53_damaging_to_WEE1,Avana,ACH-001794,Soft Tissue,matrix_intact,-3.843649285705953
+TP53_damaging_to_WEE1,Avana,ACH-001795,Soft Tissue,matrix_intact,-6.025682065316575
+TP53_damaging_to_WEE1,Avana,ACH-001796,Soft Tissue,matrix_intact,-2.0108193833571995
+TP53_damaging_to_WEE1,Avana,ACH-001799,Soft Tissue,matrix_intact,-3.998282658632612
+TP53_damaging_to_WEE1,Avana,ACH-001802,Soft Tissue,matrix_intact,-5.971302249959299
+TP53_damaging_to_WEE1,Avana,ACH-001804,Soft Tissue,damaging,-2.1997806739715706
+TP53_damaging_to_WEE1,Avana,ACH-001814,Bone,matrix_intact,-0.7155174233377292
+TP53_damaging_to_WEE1,Avana,ACH-001819,Breast,damaging,-3.6856168247208645
+TP53_damaging_to_WEE1,Avana,ACH-001820,Breast,damaging,-0.7179065874570659
+TP53_damaging_to_WEE1,Avana,ACH-001834,Biliary Tract,damaging,-5.418192948540345
+TP53_damaging_to_WEE1,Avana,ACH-001835,Biliary Tract,damaging,-3.479598449031724
+TP53_damaging_to_WEE1,Avana,ACH-001836,Biliary Tract,damaging,-4.748117487099566
+TP53_damaging_to_WEE1,Avana,ACH-001838,Biliary Tract,damaging,-2.2912566730134873
+TP53_damaging_to_WEE1,Avana,ACH-001839,Biliary Tract,matrix_intact,-3.8979126183670703
+TP53_damaging_to_WEE1,Avana,ACH-001841,Biliary Tract,damaging,-2.310090353048219
+TP53_damaging_to_WEE1,Avana,ACH-001842,Biliary Tract,damaging,-0.5845793467349383
+TP53_damaging_to_WEE1,Avana,ACH-001843,Biliary Tract,matrix_intact,-5.825049003882968
+TP53_damaging_to_WEE1,Avana,ACH-001844,Biliary Tract,damaging,-1.9188923854794986
+TP53_damaging_to_WEE1,Avana,ACH-001848,Biliary Tract,matrix_intact,-3.9363627685564184
+TP53_damaging_to_WEE1,Avana,ACH-001849,Biliary Tract,damaging,-3.9208715004206924
+TP53_damaging_to_WEE1,Avana,ACH-001850,Biliary Tract,damaging,-3.003696408851132
+TP53_damaging_to_WEE1,Avana,ACH-001852,Biliary Tract,damaging,-3.794965179821093
+TP53_damaging_to_WEE1,Avana,ACH-001853,Liver,matrix_intact,-1.6774337276086118
+TP53_damaging_to_WEE1,Avana,ACH-001856,Biliary Tract,matrix_intact,-2.0851657172987625
+TP53_damaging_to_WEE1,Avana,ACH-001857,Biliary Tract,damaging,-2.254408327734774
+TP53_damaging_to_WEE1,Avana,ACH-001858,Biliary Tract,damaging,-5.175551072585989
+TP53_damaging_to_WEE1,Avana,ACH-001861,Biliary Tract,damaging,-2.01685923647754
+TP53_damaging_to_WEE1,Avana,ACH-001862,Ampulla of Vater,matrix_intact,-2.8247838907039178
+TP53_damaging_to_WEE1,Avana,ACH-001863,Biliary Tract,damaging,-1.4729780337183307
+TP53_damaging_to_WEE1,Avana,ACH-001864,Biliary Tract,damaging,-2.1836937361049658
+TP53_damaging_to_WEE1,Avana,ACH-001959,Biliary Tract,damaging,-2.8036867251826756
+TP53_damaging_to_WEE1,Avana,ACH-001960,Biliary Tract,damaging,-2.5511142031683933
+TP53_damaging_to_WEE1,Avana,ACH-001961,Biliary Tract,damaging,-5.734794844540022
+TP53_damaging_to_WEE1,Avana,ACH-001970,Skin,matrix_intact,-2.230617901939225
+TP53_damaging_to_WEE1,Avana,ACH-001973,Skin,damaging,-0.6848637052650726
+TP53_damaging_to_WEE1,Avana,ACH-001977,Pleura,matrix_intact,-1.6339429155367688
+TP53_damaging_to_WEE1,Avana,ACH-001982,Skin,matrix_intact,-3.6769698655949377
+TP53_damaging_to_WEE1,Avana,ACH-001986,Skin,matrix_intact,-1.9661101798767238
+TP53_damaging_to_WEE1,Avana,ACH-001990,Skin,damaging,-2.928211137060954
+TP53_damaging_to_WEE1,Avana,ACH-001991,Ovary/Fallopian Tube,matrix_intact,-1.2059075110742903
+TP53_damaging_to_WEE1,Avana,ACH-001992,Pleura,damaging,-3.8901068146612134
+TP53_damaging_to_WEE1,Avana,ACH-001993,Lymphoid,damaging,-1.1700826288247614
+TP53_damaging_to_WEE1,Avana,ACH-001997,Biliary Tract,damaging,-2.337273559048089
+TP53_damaging_to_WEE1,Avana,ACH-001999,Pancreas,damaging,-3.6478738522837237
+TP53_damaging_to_WEE1,Avana,ACH-002001,Skin,matrix_intact,-2.3003347167383223
+TP53_damaging_to_WEE1,Avana,ACH-002002,Skin,matrix_intact,-4.825466627026798
+TP53_damaging_to_WEE1,Avana,ACH-002003,Skin,matrix_intact,-6.0547155044693035
+TP53_damaging_to_WEE1,Avana,ACH-002005,Skin,damaging,-1.8630400039915567
+TP53_damaging_to_WEE1,Avana,ACH-002014,Eye,matrix_intact,-1.0235172783369837
+TP53_damaging_to_WEE1,Avana,ACH-002015,Eye,matrix_intact,-3.8586694185435535
+TP53_damaging_to_WEE1,Avana,ACH-002016,Eye,matrix_intact,-2.4363018359376714
+TP53_damaging_to_WEE1,Avana,ACH-002018,Eye,matrix_intact,-3.1218446491023153
+TP53_damaging_to_WEE1,Avana,ACH-002019,Cervix,matrix_intact,-3.1565725408664065
+TP53_damaging_to_WEE1,Avana,ACH-002020,Cervix,damaging,-3.566838670499443
+TP53_damaging_to_WEE1,Avana,ACH-002021,Uterus,matrix_intact,-2.037283785322723
+TP53_damaging_to_WEE1,Avana,ACH-002023,Ampulla of Vater,damaging,-3.5718894079370322
+TP53_damaging_to_WEE1,Avana,ACH-002024,Bowel,damaging,-0.5262348255860781
+TP53_damaging_to_WEE1,Avana,ACH-002025,Bowel,damaging,-1.9248230960714319
+TP53_damaging_to_WEE1,Avana,ACH-002026,Uterus,matrix_intact,-1.8448057832914238
+TP53_damaging_to_WEE1,Avana,ACH-002027,Uterus,matrix_intact,-2.478456685656976
+TP53_damaging_to_WEE1,Avana,ACH-002029,Head and Neck,damaging,-2.643466361503498
+TP53_damaging_to_WEE1,Avana,ACH-002030,Head and Neck,damaging,-2.8361671638261727
+TP53_damaging_to_WEE1,Avana,ACH-002035,Lung,matrix_intact,-1.0101051380443447
+TP53_damaging_to_WEE1,Avana,ACH-002039,Pancreas,damaging,-1.782643687024184
+TP53_damaging_to_WEE1,Avana,ACH-002040,Vulva/Vagina,damaging,-2.116146232343855
+TP53_damaging_to_WEE1,Avana,ACH-002041,Thyroid,damaging,-3.852802236738666
+TP53_damaging_to_WEE1,Avana,ACH-002042,Head and Neck,damaging,-1.1640596918717137
+TP53_damaging_to_WEE1,Avana,ACH-002043,Head and Neck,damaging,-3.3478073652332263
+TP53_damaging_to_WEE1,Avana,ACH-002044,Head and Neck,damaging,-1.7211529266726613
+TP53_damaging_to_WEE1,Avana,ACH-002045,Head and Neck,damaging,-1.5935683919173576
+TP53_damaging_to_WEE1,Avana,ACH-002046,Uterus,damaging,-4.727110493425995
+TP53_damaging_to_WEE1,Avana,ACH-002048,Soft Tissue,matrix_intact,-1.490733903863315
+TP53_damaging_to_WEE1,Avana,ACH-002051,Lung,damaging,-2.565609481795912
+TP53_damaging_to_WEE1,Avana,ACH-002059,Lymphoid,matrix_intact,-1.338014603498698
+TP53_damaging_to_WEE1,Avana,ACH-002061,Myeloid,damaging,-2.6306192389600866
+TP53_damaging_to_WEE1,Avana,ACH-002062,Lymphoid,matrix_intact,-3.514437321493486
+TP53_damaging_to_WEE1,Avana,ACH-002066,Peripheral Nervous System,damaging,-3.0837983440569428
+TP53_damaging_to_WEE1,Avana,ACH-002067,Bone,damaging,-1.142371946534051
+TP53_damaging_to_WEE1,Avana,ACH-002069,Bone,matrix_intact,-1.1334373210489868
+TP53_damaging_to_WEE1,Avana,ACH-002070,CNS/Brain,damaging,-4.00816591837483
+TP53_damaging_to_WEE1,Avana,ACH-002077,Lung,damaging,-0.8155460179113385
+TP53_damaging_to_WEE1,Avana,ACH-002080,Peripheral Nervous System,matrix_intact,-1.6505893265006764
+TP53_damaging_to_WEE1,Avana,ACH-002084,Skin,matrix_intact,-4.801670004087992
+TP53_damaging_to_WEE1,Avana,ACH-002214,Lymphoid,matrix_intact,-5.561709654636869
+TP53_damaging_to_WEE1,Avana,ACH-002215,Lymphoid,matrix_intact,-0.8210052046679048
+TP53_damaging_to_WEE1,Avana,ACH-002291,Testis,matrix_intact,-1.069955333562107
+TP53_damaging_to_WEE1,Avana,ACH-002399,Breast,damaging,-4.528429866843617
+TP53_damaging_to_WEE1,Avana,ACH-002446,Esophagus/Stomach,damaging,-3.1861155647455854
+TP53_damaging_to_WEE1,Avana,ACH-002458,Skin,matrix_intact,-2.438876027479524
+TP53_damaging_to_WEE1,Avana,ACH-002459,Skin,matrix_intact,-3.276734880742147
+TP53_damaging_to_WEE1,Avana,ACH-002460,Skin,matrix_intact,-3.3489438688053137
+TP53_damaging_to_WEE1,Avana,ACH-002461,Skin,damaging,-3.5533367211687787
+TP53_damaging_to_WEE1,Avana,ACH-002462,Eye,matrix_intact,-3.371306579173189
+TP53_damaging_to_WEE1,Avana,ACH-002463,Eye,damaging,-2.4018188731783656
+TP53_damaging_to_WEE1,Avana,ACH-002464,Eye,matrix_intact,-1.0696555888789545
+TP53_damaging_to_WEE1,Avana,ACH-002465,Eye,matrix_intact,-1.183439661973539
+TP53_damaging_to_WEE1,Avana,ACH-002467,Eye,matrix_intact,-2.629085128973972
+TP53_damaging_to_WEE1,Avana,ACH-002471,Bone,matrix_intact,-1.3213810293855972
+TP53_damaging_to_WEE1,Avana,ACH-002478,Lymphoid,matrix_intact,-1.8916910218715537
+TP53_damaging_to_WEE1,Avana,ACH-002485,Lymphoid,matrix_intact,-1.6662381042524483
+TP53_damaging_to_WEE1,Avana,ACH-002486,Ovary/Fallopian Tube,damaging,-2.4519286440152417
+TP53_damaging_to_WEE1,Avana,ACH-002508,Skin,damaging,-3.4992316596761563
+TP53_damaging_to_WEE1,Avana,ACH-002510,Skin,matrix_intact,-2.2458966986165225
+TP53_damaging_to_WEE1,Avana,ACH-002511,Skin,matrix_intact,-4.214967045743823
+TP53_damaging_to_WEE1,Avana,ACH-002512,Skin,matrix_intact,-0.6992164554493542
+TP53_damaging_to_WEE1,Avana,ACH-002522,Lung,damaging,-1.2796878091195705
+TP53_damaging_to_WEE1,Avana,ACH-002523,Liver,damaging,-3.522025882215722
+TP53_damaging_to_WEE1,Avana,ACH-002524,Ovary/Fallopian Tube,matrix_intact,-2.264600804331506
+TP53_damaging_to_WEE1,Avana,ACH-002526,Lung,damaging,-3.531107484775364
+TP53_damaging_to_WEE1,Avana,ACH-002531,Lung,matrix_intact,-1.7966308026766393
+TP53_damaging_to_WEE1,Avana,ACH-002533,Kidney,matrix_intact,-4.01357075452925
+TP53_damaging_to_WEE1,Avana,ACH-002535,Bowel,damaging,-3.9101909304291698
+TP53_damaging_to_WEE1,Avana,ACH-002647,Biliary Tract,matrix_intact,-0.446943380235413
+TP53_damaging_to_WEE1,Avana,ACH-002650,Lung,damaging,-1.8742035025122674
+TP53_damaging_to_WEE1,Avana,ACH-002654,Bowel,damaging,-4.810205257332123
+TP53_damaging_to_WEE1,Avana,ACH-002659,Bowel,damaging,-1.4490023468620734
+TP53_damaging_to_WEE1,Avana,ACH-002664,Bowel,damaging,-1.985595622552939
+TP53_damaging_to_WEE1,Avana,ACH-002669,Bowel,damaging,-4.764692013106882
+TP53_damaging_to_WEE1,Avana,ACH-002672,Pancreas,matrix_intact,-2.5713128058656314
+TP53_damaging_to_WEE1,Avana,ACH-002680,CNS/Brain,damaging,-5.541082938817614
+TP53_damaging_to_WEE1,Avana,ACH-002687,Eye,matrix_intact,-2.987953961674564
+TP53_damaging_to_WEE1,Avana,ACH-002693,Peripheral Nervous System,damaging,-2.526669787893119
+TP53_damaging_to_WEE1,Avana,ACH-002710,Peripheral Nervous System,matrix_intact,-3.966963559973201
+TP53_damaging_to_WEE1,Avana,ACH-002785,Soft Tissue,matrix_intact,-6.093915394807993
+TP53_damaging_to_WEE1,Avana,ACH-002799,Peripheral Nervous System,matrix_intact,-5.5427887744542
+TP53_damaging_to_WEE1,Avana,ACH-002800,Peripheral Nervous System,matrix_intact,-5.565885359655489
+TP53_damaging_to_WEE1,Avana,ACH-002834,Bone,matrix_intact,-1.496651104364144
+TP53_damaging_to_WEE1,Avana,ACH-002847,Skin,matrix_intact,-5.461285925998741
+TP53_damaging_to_WEE1,Avana,ACH-002922,Peripheral Nervous System,damaging,-2.892756122863376
+TP53_damaging_to_WEE1,Avana,ACH-002925,Eye,matrix_intact,-1.2579035727010717
+TP53_damaging_to_WEE1,Avana,ACH-002926,Eye,matrix_intact,-1.5429185131324568
+TP53_damaging_to_WEE1,KY,ACH-000001,Ovary/Fallopian Tube,damaging,-4.4485759790994575
+TP53_damaging_to_WEE1,KY,ACH-000007,Bowel,matrix_intact,-4.50072589397631
+TP53_damaging_to_WEE1,KY,ACH-000009,Bowel,damaging,-4.346696398766682
+TP53_damaging_to_WEE1,KY,ACH-000019,Breast,matrix_intact,-1.8275143206644886
+TP53_damaging_to_WEE1,KY,ACH-000023,Pancreas,damaging,-4.581892234185165
+TP53_damaging_to_WEE1,KY,ACH-000024,Lymphoid,damaging,-3.857920551809969
+TP53_damaging_to_WEE1,KY,ACH-000030,Lung,damaging,-4.189211744858562
+TP53_damaging_to_WEE1,KY,ACH-000035,Lung,damaging,-3.9966645692354965
+TP53_damaging_to_WEE1,KY,ACH-000042,Pancreas,damaging,-3.86422655240659
+TP53_damaging_to_WEE1,KY,ACH-000048,Ovary/Fallopian Tube,damaging,-3.4181531579526414
+TP53_damaging_to_WEE1,KY,ACH-000060,Pancreas,damaging,-2.9124198882672174
+TP53_damaging_to_WEE1,KY,ACH-000067,CNS/Brain,damaging,-3.6420531523621893
+TP53_damaging_to_WEE1,KY,ACH-000075,CNS/Brain,matrix_intact,-2.100147981183204
+TP53_damaging_to_WEE1,KY,ACH-000094,Pancreas,damaging,-3.75032098820631
+TP53_damaging_to_WEE1,KY,ACH-000098,CNS/Brain,damaging,-3.16510783516602
+TP53_damaging_to_WEE1,KY,ACH-000103,Ovary/Fallopian Tube,damaging,-3.8127731745473654
+TP53_damaging_to_WEE1,KY,ACH-000108,Pancreas,damaging,-2.1320133653974787
+TP53_damaging_to_WEE1,KY,ACH-000111,Breast,matrix_intact,-3.6539628001112994
+TP53_damaging_to_WEE1,KY,ACH-000113,Myeloid,matrix_intact,-3.672854145351574
+TP53_damaging_to_WEE1,KY,ACH-000114,Pancreas,damaging,-3.405399910119467
+TP53_damaging_to_WEE1,KY,ACH-000118,Pancreas,damaging,-2.74624192640629
+TP53_damaging_to_WEE1,KY,ACH-000120,Peripheral Nervous System,matrix_intact,-3.3054820609178894
+TP53_damaging_to_WEE1,KY,ACH-000124,Lymphoid,matrix_intact,-2.3429965537863353
+TP53_damaging_to_WEE1,KY,ACH-000132,Ovary/Fallopian Tube,damaging,-3.012626675473817
+TP53_damaging_to_WEE1,KY,ACH-000137,CNS/Brain,damaging,-4.434198403781685
+TP53_damaging_to_WEE1,KY,ACH-000139,Pancreas,matrix_intact,-3.8262700788168815
+TP53_damaging_to_WEE1,KY,ACH-000144,Esophagus/Stomach,damaging,-2.7849749334834253
+TP53_damaging_to_WEE1,KY,ACH-000147,Breast,damaging,-4.577170704256977
+TP53_damaging_to_WEE1,KY,ACH-000148,Breast,damaging,-5.508089791670385
+TP53_damaging_to_WEE1,KY,ACH-000149,Peripheral Nervous System,matrix_intact,-3.7653841751700696
+TP53_damaging_to_WEE1,KY,ACH-000155,Pancreas,matrix_intact,-3.01356438318395
+TP53_damaging_to_WEE1,KY,ACH-000176,Lung,damaging,-2.4140769403346156
+TP53_damaging_to_WEE1,KY,ACH-000181,Head and Neck,damaging,-3.6300084633194523
+TP53_damaging_to_WEE1,KY,ACH-000183,Lymphoid,damaging,-4.916925020886479
+TP53_damaging_to_WEE1,KY,ACH-000192,Uterus,damaging,-3.2830076223932214
+TP53_damaging_to_WEE1,KY,ACH-000200,CNS/Brain,matrix_intact,-4.273096133088382
+TP53_damaging_to_WEE1,KY,ACH-000204,Lymphoid,damaging,-2.991205111290069
+TP53_damaging_to_WEE1,KY,ACH-000207,Head and Neck,damaging,-4.081864752096002
+TP53_damaging_to_WEE1,KY,ACH-000213,Pancreas,damaging,-3.0215143480451636
+TP53_damaging_to_WEE1,KY,ACH-000219,Skin,matrix_intact,-5.4419432155111975
+TP53_damaging_to_WEE1,KY,ACH-000222,Pancreas,damaging,-2.841640012134146
+TP53_damaging_to_WEE1,KY,ACH-000223,Breast,damaging,-4.592282007742988
+TP53_damaging_to_WEE1,KY,ACH-000227,Peripheral Nervous System,matrix_intact,-6.107465059015586
+TP53_damaging_to_WEE1,KY,ACH-000232,CNS/Brain,damaging,-3.700176415730881
+TP53_damaging_to_WEE1,KY,ACH-000235,Pancreas,damaging,-1.9408298527816477
+TP53_damaging_to_WEE1,KY,ACH-000238,Head and Neck,damaging,-4.743968685895993
+TP53_damaging_to_WEE1,KY,ACH-000243,Pancreas,damaging,-5.479530662976255
+TP53_damaging_to_WEE1,KY,ACH-000244,CNS/Brain,matrix_intact,-0.8948929510034798
+TP53_damaging_to_WEE1,KY,ACH-000248,Breast,damaging,-3.904683954338054
+TP53_damaging_to_WEE1,KY,ACH-000249,Bowel,damaging,-5.155537331474864
+TP53_damaging_to_WEE1,KY,ACH-000252,Bowel,damaging,-4.365269485514842
+TP53_damaging_to_WEE1,KY,ACH-000260,Peripheral Nervous System,matrix_intact,-4.659653835115932
+TP53_damaging_to_WEE1,KY,ACH-000265,Pancreas,matrix_intact,-3.2922761709779955
+TP53_damaging_to_WEE1,KY,ACH-000269,CNS/Brain,matrix_intact,-1.613171150490726
+TP53_damaging_to_WEE1,KY,ACH-000271,Lymphoid,damaging,-2.271272160885896
+TP53_damaging_to_WEE1,KY,ACH-000273,CNS/Brain,damaging,-4.958146899063914
+TP53_damaging_to_WEE1,KY,ACH-000276,Breast,damaging,-6.45544603807375
+TP53_damaging_to_WEE1,KY,ACH-000291,Ovary/Fallopian Tube,damaging,-3.889905970563415
+TP53_damaging_to_WEE1,KY,ACH-000293,Uterus,damaging,-4.2216495720893805
+TP53_damaging_to_WEE1,KY,ACH-000305,Esophagus/Stomach,damaging,-4.41004786044397
+TP53_damaging_to_WEE1,KY,ACH-000308,Ovary/Fallopian Tube,damaging,-1.690979580467829
+TP53_damaging_to_WEE1,KY,ACH-000318,Esophagus/Stomach,damaging,-5.714226690957365
+TP53_damaging_to_WEE1,KY,ACH-000320,Pancreas,damaging,-3.9326102354576413
+TP53_damaging_to_WEE1,KY,ACH-000323,CNS/Brain,damaging,-4.3130050196329
+TP53_damaging_to_WEE1,KY,ACH-000336,Myeloid,matrix_intact,-2.4612160901489077
+TP53_damaging_to_WEE1,KY,ACH-000337,Lung,damaging,-4.556963400490344
+TP53_damaging_to_WEE1,KY,ACH-000341,Peripheral Nervous System,damaging,-3.4400117187122405
+TP53_damaging_to_WEE1,KY,ACH-000350,Bowel,matrix_intact,-1.1014310063070571
+TP53_damaging_to_WEE1,KY,ACH-000354,Pancreas,damaging,-5.696744921169825
+TP53_damaging_to_WEE1,KY,ACH-000366,Peripheral Nervous System,damaging,-1.0056767562140845
+TP53_damaging_to_WEE1,KY,ACH-000367,Pleura,matrix_intact,-1.8794506743557227
+TP53_damaging_to_WEE1,KY,ACH-000374,Breast,damaging,-3.522517860665508
+TP53_damaging_to_WEE1,KY,ACH-000376,CNS/Brain,damaging,-3.4655954953452044
+TP53_damaging_to_WEE1,KY,ACH-000381,Bowel,damaging,-3.529533105604113
+TP53_damaging_to_WEE1,KY,ACH-000383,Esophagus/Stomach,damaging,-5.616269959662607
+TP53_damaging_to_WEE1,KY,ACH-000391,Bone,matrix_intact,-3.34517071546799
+TP53_damaging_to_WEE1,KY,ACH-000395,Lung,damaging,-3.378705877610525
+TP53_damaging_to_WEE1,KY,ACH-000408,Esophagus/Stomach,matrix_intact,-4.987992784218222
+TP53_damaging_to_WEE1,KY,ACH-000411,Kidney,matrix_intact,-3.5761963806958232
+TP53_damaging_to_WEE1,KY,ACH-000414,Lung,matrix_intact,-2.263057957998506
+TP53_damaging_to_WEE1,KY,ACH-000417,Pancreas,matrix_intact,-2.8886396344715983
+TP53_damaging_to_WEE1,KY,ACH-000421,Bowel,damaging,-4.052347969961625
+TP53_damaging_to_WEE1,KY,ACH-000424,Bone,damaging,-4.424305045210084
+TP53_damaging_to_WEE1,KY,ACH-000427,Esophagus/Stomach,damaging,-5.365761367164364
+TP53_damaging_to_WEE1,KY,ACH-000430,Ovary/Fallopian Tube,damaging,-3.6228533197598645
+TP53_damaging_to_WEE1,KY,ACH-000434,Lung,damaging,-2.426579018985731
+TP53_damaging_to_WEE1,KY,ACH-000437,CNS/Brain,damaging,-2.2259772615281155
+TP53_damaging_to_WEE1,KY,ACH-000438,Lung,damaging,-3.9992489841076235
+TP53_damaging_to_WEE1,KY,ACH-000442,Lung,damaging,-5.7172823606487215
+TP53_damaging_to_WEE1,KY,ACH-000452,Esophagus/Stomach,damaging,-5.266815088423077
+TP53_damaging_to_WEE1,KY,ACH-000464,CNS/Brain,damaging,-4.379284837713941
+TP53_damaging_to_WEE1,KY,ACH-000469,CNS/Brain,damaging,-6.307958911094339
+TP53_damaging_to_WEE1,KY,ACH-000481,Lung,damaging,-2.686454878183728
+TP53_damaging_to_WEE1,KY,ACH-000501,Bowel,damaging,-5.116949801500386
+TP53_damaging_to_WEE1,KY,ACH-000504,CNS/Brain,damaging,-4.494674159617103
+TP53_damaging_to_WEE1,KY,ACH-000505,Soft Tissue,damaging,-2.891064848041047
+TP53_damaging_to_WEE1,KY,ACH-000510,Lung,matrix_intact,-5.449709004367758
+TP53_damaging_to_WEE1,KY,ACH-000518,Head and Neck,damaging,-3.943214080025497
+TP53_damaging_to_WEE1,KY,ACH-000524,Ovary/Fallopian Tube,damaging,-2.4712539413201973
+TP53_damaging_to_WEE1,KY,ACH-000527,Ovary/Fallopian Tube,matrix_intact,-4.9460716666917985
+TP53_damaging_to_WEE1,KY,ACH-000532,Bowel,damaging,-3.315000011181599
+TP53_damaging_to_WEE1,KY,ACH-000535,Pancreas,damaging,-3.5706003733863616
+TP53_damaging_to_WEE1,KY,ACH-000544,Esophagus/Stomach,damaging,-5.258213355467608
+TP53_damaging_to_WEE1,KY,ACH-000546,Head and Neck,damaging,-4.708298496039233
+TP53_damaging_to_WEE1,KY,ACH-000548,Head and Neck,damaging,-4.959109789399757
+TP53_damaging_to_WEE1,KY,ACH-000552,Bowel,damaging,-3.706534150986848
+TP53_damaging_to_WEE1,KY,ACH-000554,Breast,damaging,-2.6592051792824942
+TP53_damaging_to_WEE1,KY,ACH-000558,CNS/Brain,matrix_intact,-3.3090798493172677
+TP53_damaging_to_WEE1,KY,ACH-000561,Esophagus/Stomach,damaging,-5.645553483913528
+TP53_damaging_to_WEE1,KY,ACH-000562,Lung,damaging,-2.3995937192063033
+TP53_damaging_to_WEE1,KY,ACH-000563,Lung,damaging,-1.4832814426976733
+TP53_damaging_to_WEE1,KY,ACH-000565,Bowel,damaging,-3.494457288770036
+TP53_damaging_to_WEE1,KY,ACH-000571,CNS/Brain,damaging,-4.827201955393047
+TP53_damaging_to_WEE1,KY,ACH-000573,Breast,damaging,-4.03517186157024
+TP53_damaging_to_WEE1,KY,ACH-000581,Esophagus/Stomach,damaging,-3.7463063495596223
+TP53_damaging_to_WEE1,KY,ACH-000584,Ovary/Fallopian Tube,damaging,-8.074912925921032
+TP53_damaging_to_WEE1,KY,ACH-000585,Lung,damaging,-3.9052497887302806
+TP53_damaging_to_WEE1,KY,ACH-000587,Lung,damaging,-2.8356444021035885
+TP53_damaging_to_WEE1,KY,ACH-000595,CNS/Brain,matrix_intact,-2.7533263539497383
+TP53_damaging_to_WEE1,KY,ACH-000596,Lung,damaging,-4.461996301313938
+TP53_damaging_to_WEE1,KY,ACH-000599,Pancreas,damaging,-3.7386942257444393
+TP53_damaging_to_WEE1,KY,ACH-000601,Pancreas,damaging,-2.6119613474642835
+TP53_damaging_to_WEE1,KY,ACH-000609,CNS/Brain,matrix_intact,-3.7037923734261056
+TP53_damaging_to_WEE1,KY,ACH-000619,Head and Neck,damaging,-5.160548129736028
+TP53_damaging_to_WEE1,KY,ACH-000622,CNS/Brain,damaging,-3.5397333976758047
+TP53_damaging_to_WEE1,KY,ACH-000624,Breast,damaging,-3.988546567546834
+TP53_damaging_to_WEE1,KY,ACH-000637,Esophagus/Stomach,damaging,-4.560336681167146
+TP53_damaging_to_WEE1,KY,ACH-000651,Bowel,damaging,-1.9169267703154529
+TP53_damaging_to_WEE1,KY,ACH-000652,Pancreas,damaging,-4.037697656044679
+TP53_damaging_to_WEE1,KY,ACH-000656,Lymphoid,damaging,-6.461406404162692
+TP53_damaging_to_WEE1,KY,ACH-000657,Ovary/Fallopian Tube,matrix_intact,-2.0696207614885194
+TP53_damaging_to_WEE1,KY,ACH-000660,Lymphoid,matrix_intact,-6.06146180803594
+TP53_damaging_to_WEE1,KY,ACH-000662,Lung,matrix_intact,-5.416308997285438
+TP53_damaging_to_WEE1,KY,ACH-000665,Lung,damaging,-3.210705352621714
+TP53_damaging_to_WEE1,KY,ACH-000666,Lung,damaging,-3.381624916039585
+TP53_damaging_to_WEE1,KY,ACH-000668,Breast,damaging,-6.477678124144761
+TP53_damaging_to_WEE1,KY,ACH-000677,Lung,matrix_intact,-2.9198611398397296
+TP53_damaging_to_WEE1,KY,ACH-000681,Lung,matrix_intact,-3.6149320005593313
+TP53_damaging_to_WEE1,KY,ACH-000694,Esophagus/Stomach,damaging,-4.905461512653958
+TP53_damaging_to_WEE1,KY,ACH-000696,Ovary/Fallopian Tube,damaging,-3.798356113301485
+TP53_damaging_to_WEE1,KY,ACH-000699,Breast,damaging,-3.5312175824410756
+TP53_damaging_to_WEE1,KY,ACH-000704,Ovary/Fallopian Tube,matrix_intact,-0.49412981833522235
+TP53_damaging_to_WEE1,KY,ACH-000711,Breast,damaging,-3.6838717385704043
+TP53_damaging_to_WEE1,KY,ACH-000714,Lymphoid,matrix_intact,-2.7617935951375188
+TP53_damaging_to_WEE1,KY,ACH-000717,Esophagus/Stomach,damaging,-3.58144215993635
+TP53_damaging_to_WEE1,KY,ACH-000719,Ovary/Fallopian Tube,matrix_intact,-2.0035611913798297
+TP53_damaging_to_WEE1,KY,ACH-000722,Bowel,damaging,-4.393217844534209
+TP53_damaging_to_WEE1,KY,ACH-000738,CNS/Brain,matrix_intact,-2.4788893585660774
+TP53_damaging_to_WEE1,KY,ACH-000740,Head and Neck,damaging,-5.3271180188695935
+TP53_damaging_to_WEE1,KY,ACH-000748,Bone,matrix_intact,-4.9140577117104565
+TP53_damaging_to_WEE1,KY,ACH-000756,CNS/Brain,damaging,-4.881952465061423
+TP53_damaging_to_WEE1,KY,ACH-000768,Breast,damaging,-4.140833907567899
+TP53_damaging_to_WEE1,KY,ACH-000769,Lung,damaging,-3.3118911230539005
+TP53_damaging_to_WEE1,KY,ACH-000778,Head and Neck,damaging,-3.8642194877937395
+TP53_damaging_to_WEE1,KY,ACH-000781,Lung,damaging,-3.463315118936727
+TP53_damaging_to_WEE1,KY,ACH-000784,Esophagus/Stomach,damaging,-4.663062751765589
+TP53_damaging_to_WEE1,KY,ACH-000787,Lung,damaging,-6.233396554452736
+TP53_damaging_to_WEE1,KY,ACH-000788,Skin,damaging,-4.485049278225191
+TP53_damaging_to_WEE1,KY,ACH-000793,Esophagus/Stomach,matrix_intact,-1.4753276985078345
+TP53_damaging_to_WEE1,KY,ACH-000794,Head and Neck,damaging,-4.672496191531785
+TP53_damaging_to_WEE1,KY,ACH-000796,Ovary/Fallopian Tube,damaging,-3.102170729902595
+TP53_damaging_to_WEE1,KY,ACH-000809,Esophagus/Stomach,damaging,-4.740908229714564
+TP53_damaging_to_WEE1,KY,ACH-000817,Lymphoid,damaging,-4.341594486733276
+TP53_damaging_to_WEE1,KY,ACH-000823,Esophagus/Stomach,damaging,-6.152509205544928
+TP53_damaging_to_WEE1,KY,ACH-000824,Esophagus/Stomach,damaging,-3.0737117387101005
+TP53_damaging_to_WEE1,KY,ACH-000832,Head and Neck,damaging,-3.810598610645395
+TP53_damaging_to_WEE1,KY,ACH-000841,Lung,damaging,-2.6264121125030533
+TP53_damaging_to_WEE1,KY,ACH-000843,Lung,damaging,-6.911468453957789
+TP53_damaging_to_WEE1,KY,ACH-000846,Head and Neck,damaging,-5.688428491833417
+TP53_damaging_to_WEE1,KY,ACH-000847,Esophagus/Stomach,damaging,-4.703457384285267
+TP53_damaging_to_WEE1,KY,ACH-000849,Breast,damaging,-3.8289730465164844
+TP53_damaging_to_WEE1,KY,ACH-000855,Esophagus/Stomach,damaging,-2.8540728824234907
+TP53_damaging_to_WEE1,KY,ACH-000856,Breast,matrix_intact,-1.6986181940889842
+TP53_damaging_to_WEE1,KY,ACH-000858,Lung,damaging,-4.5107182580250225
+TP53_damaging_to_WEE1,KY,ACH-000859,Breast,damaging,-2.0557256242108957
+TP53_damaging_to_WEE1,KY,ACH-000860,Lung,matrix_intact,-1.9560105957072296
+TP53_damaging_to_WEE1,KY,ACH-000861,Lung,damaging,-4.4371534172094504
+TP53_damaging_to_WEE1,KY,ACH-000863,CNS/Brain,matrix_intact,-3.509702495438841
+TP53_damaging_to_WEE1,KY,ACH-000864,Uterus,damaging,-2.3821889019935014
+TP53_damaging_to_WEE1,KY,ACH-000865,Esophagus/Stomach,damaging,-5.907020713687831
+TP53_damaging_to_WEE1,KY,ACH-000869,Lung,damaging,-3.106900134170349
+TP53_damaging_to_WEE1,KY,ACH-000873,Esophagus/Stomach,damaging,-5.338695445768146
+TP53_damaging_to_WEE1,KY,ACH-000876,Breast,damaging,-2.355366876724349
+TP53_damaging_to_WEE1,KY,ACH-000878,Lung,damaging,-0.9950135889810436
+TP53_damaging_to_WEE1,KY,ACH-000879,Uterus,damaging,-2.3937307576435303
+TP53_damaging_to_WEE1,KY,ACH-000880,Esophagus/Stomach,matrix_intact,-5.274907872616741
+TP53_damaging_to_WEE1,KY,ACH-000885,Ovary/Fallopian Tube,matrix_intact,-3.9147605826102336
+TP53_damaging_to_WEE1,KY,ACH-000894,Lung,damaging,-3.204585363375728
+TP53_damaging_to_WEE1,KY,ACH-000900,Lung,damaging,-3.676798508666154
+TP53_damaging_to_WEE1,KY,ACH-000906,Ovary/Fallopian Tube,damaging,-4.869725424344636
+TP53_damaging_to_WEE1,KY,ACH-000910,Breast,matrix_intact,-2.7154517007140258
+TP53_damaging_to_WEE1,KY,ACH-000911,Esophagus/Stomach,damaging,-4.880876899554492
+TP53_damaging_to_WEE1,KY,ACH-000913,Uterus,damaging,-7.261268186179496
+TP53_damaging_to_WEE1,KY,ACH-000917,Esophagus/Stomach,matrix_intact,-3.255636434805675
+TP53_damaging_to_WEE1,KY,ACH-000919,Esophagus/Stomach,matrix_intact,-3.468525924077044
+TP53_damaging_to_WEE1,KY,ACH-000926,Bowel,matrix_intact,-3.202296878165464
+TP53_damaging_to_WEE1,KY,ACH-000932,Esophagus/Stomach,matrix_intact,-2.706381040950992
+TP53_damaging_to_WEE1,KY,ACH-000934,Breast,damaging,-3.498019361477122
+TP53_damaging_to_WEE1,KY,ACH-000935,Bowel,matrix_intact,-2.887744554387356
+TP53_damaging_to_WEE1,KY,ACH-000936,Ovary/Fallopian Tube,damaging,-2.9106861849161993
+TP53_damaging_to_WEE1,KY,ACH-000943,Bowel,matrix_intact,-5.145980439205133
+TP53_damaging_to_WEE1,KY,ACH-000945,Lung,damaging,-4.184032105724898
+TP53_damaging_to_WEE1,KY,ACH-000947,Ovary/Fallopian Tube,damaging,-4.14356807046518
+TP53_damaging_to_WEE1,KY,ACH-000948,Esophagus/Stomach,matrix_intact,-3.113018157498349
+TP53_damaging_to_WEE1,KY,ACH-000950,Bowel,matrix_intact,-3.9565250696731447
+TP53_damaging_to_WEE1,KY,ACH-000956,Prostate,damaging,-1.620381075486314
+TP53_damaging_to_WEE1,KY,ACH-000957,Bowel,matrix_intact,-3.910745972379793
+TP53_damaging_to_WEE1,KY,ACH-000958,Bowel,matrix_intact,-3.867349484428577
+TP53_damaging_to_WEE1,KY,ACH-000962,Ovary/Fallopian Tube,damaging,-5.100791988388661
+TP53_damaging_to_WEE1,KY,ACH-000965,Uterus,matrix_intact,-4.986047053506521
+TP53_damaging_to_WEE1,KY,ACH-000966,Ovary/Fallopian Tube,damaging,-1.9360707707756841
+TP53_damaging_to_WEE1,KY,ACH-000969,Bowel,damaging,-4.769367249975763
+TP53_damaging_to_WEE1,KY,ACH-000970,Bowel,damaging,-4.023475516258682
+TP53_damaging_to_WEE1,KY,ACH-000971,Bowel,matrix_intact,-3.5454527981166724
+TP53_damaging_to_WEE1,KY,ACH-000974,Uterus,matrix_intact,-3.3783031856823746
+TP53_damaging_to_WEE1,KY,ACH-000977,Prostate,matrix_intact,-4.0151409730152885
+TP53_damaging_to_WEE1,KY,ACH-000979,Prostate,damaging,-3.232527459341746
+TP53_damaging_to_WEE1,KY,ACH-000980,Lung,damaging,-4.4573169211750026
+TP53_damaging_to_WEE1,KY,ACH-000985,Bowel,damaging,-5.37057252993577
+TP53_damaging_to_WEE1,KY,ACH-000991,Bowel,damaging,-4.343360004503663
+TP53_damaging_to_WEE1,KY,ACH-000997,Bowel,damaging,-3.997955058810754
+TP53_damaging_to_WEE1,KY,ACH-001016,CNS/Brain,damaging,-3.5652157664222144
+TP53_damaging_to_WEE1,KY,ACH-001039,Bowel,damaging,-5.014923545488627
+TP53_damaging_to_WEE1,KY,ACH-001063,Ovary/Fallopian Tube,damaging,-2.8524594694853924
+TP53_damaging_to_WEE1,KY,ACH-001065,Breast,damaging,-3.6029408234672644
+TP53_damaging_to_WEE1,KY,ACH-001081,Bowel,damaging,-4.454643384891571
+TP53_damaging_to_WEE1,KY,ACH-001107,Pancreas,damaging,-3.353955941545357
+TP53_damaging_to_WEE1,KY,ACH-001126,CNS/Brain,damaging,-5.1512134850634705
+TP53_damaging_to_WEE1,KY,ACH-001137,Lung,damaging,-2.2929507182798994
+TP53_damaging_to_WEE1,KY,ACH-001151,Ovary/Fallopian Tube,matrix_intact,-3.794521045086436
+TP53_damaging_to_WEE1,KY,ACH-001190,Skin,damaging,-5.446888584713826
+TP53_damaging_to_WEE1,KY,ACH-001193,Bone,damaging,-3.4195024109849284
+TP53_damaging_to_WEE1,KY,ACH-001233,Lung,damaging,-3.110842613513865
+TP53_damaging_to_WEE1,KY,ACH-001331,Head and Neck,matrix_intact,-4.756314737912032
+TP53_damaging_to_WEE1,KY,ACH-001332,Head and Neck,damaging,-5.074333030973444
+TP53_damaging_to_WEE1,KY,ACH-001345,Bowel,matrix_intact,-4.20601333672175
+TP53_damaging_to_WEE1,KY,ACH-001368,Esophagus/Stomach,damaging,-3.407192349044967
+TP53_damaging_to_WEE1,KY,ACH-001399,Bowel,damaging,-2.9861234884535435
+TP53_damaging_to_WEE1,KY,ACH-001418,Ovary/Fallopian Tube,damaging,-3.091560245876528
+TP53_damaging_to_WEE1,KY,ACH-001494,Biliary Tract,damaging,-5.1490116049294
+TP53_damaging_to_WEE1,KY,ACH-001496,Esophagus/Stomach,damaging,-3.3352781095537054
+TP53_damaging_to_WEE1,KY,ACH-001497,Esophagus/Stomach,damaging,-3.318578437014955
+TP53_damaging_to_WEE1,KY,ACH-001500,Esophagus/Stomach,damaging,-4.46771843117116
+TP53_damaging_to_WEE1,KY,ACH-001517,Uterus,damaging,-4.099272943149929
+TP53_damaging_to_WEE1,KY,ACH-001542,Head and Neck,damaging,-5.3505243553817285
+TP53_damaging_to_WEE1,KY,ACH-001544,Esophagus/Stomach,damaging,-4.631368292444531
+TP53_damaging_to_WEE1,KY,ACH-001603,Peripheral Nervous System,matrix_intact,-3.4783590867883727
+TP53_damaging_to_WEE1,KY,ACH-001605,CNS/Brain,damaging,-1.7688507085018648
+TP53_damaging_to_WEE1,KY,ACH-001606,CNS/Brain,damaging,-3.650386101540222
+TP53_damaging_to_WEE1,KY,ACH-001625,Head and Neck,damaging,-5.347653383326623
+TP53_damaging_to_WEE1,KY,ACH-001626,Head and Neck,damaging,-3.2798590672386165
+TP53_damaging_to_WEE1,KY,ACH-001630,Ovary/Fallopian Tube,damaging,-3.268476468058191
+TP53_damaging_to_WEE1,KY,ACH-001632,Ovary/Fallopian Tube,damaging,-3.8572751706083177
+TP53_damaging_to_WEE1,KY,ACH-001639,Lymphoid,damaging,-1.7319665451862531
+TP53_damaging_to_WEE1,KY,ACH-001654,Esophagus/Stomach,damaging,-3.6723435591214724
+TP53_damaging_to_WEE1,KY,ACH-001674,Peripheral Nervous System,matrix_intact,-2.9830177496609465
+TP53_damaging_to_WEE1,KY,ACH-001715,Bone,matrix_intact,-3.327582008329223
+TP53_damaging_to_WEE1,KY,ACH-001819,Breast,damaging,-6.163503952782361
+TP53_damaging_to_WEE1,KY,ACH-001820,Breast,damaging,-4.25505158079059
+TP53_damaging_to_WEE1,KY,ACH-002029,Head and Neck,damaging,-4.483673564035148
+TP53_damaging_to_WEE1,KY,ACH-002043,Head and Neck,damaging,-4.582015717771078
+TP53_damaging_to_WEE1,KY,ACH-002045,Head and Neck,damaging,-3.5770111067556076
+TP53_damaging_to_WEE1,KY,ACH-002083,Peripheral Nervous System,matrix_intact,-3.2012379752361295
+TP53_damaging_to_WEE1,KY,ACH-002105,Bone,matrix_intact,-3.650577571320019
+TP53_damaging_to_WEE1,KY,ACH-002106,Bone,damaging,-3.4706641972386874
+TP53_damaging_to_WEE1,KY,ACH-002109,Bone,damaging,-2.597390653578288
+TP53_damaging_to_WEE1,KY,ACH-002110,Bone,damaging,-5.940958146640887
+TP53_damaging_to_WEE1,KY,ACH-002114,Bone,damaging,-4.9162229154043136
+TP53_damaging_to_WEE1,KY,ACH-002116,Bone,damaging,-3.801551959398306
+TP53_damaging_to_WEE1,KY,ACH-002119,Bone,matrix_intact,-5.02696061304065
+TP53_damaging_to_WEE1,KY,ACH-002140,Ovary/Fallopian Tube,matrix_intact,-3.9804547860592385
+TP53_damaging_to_WEE1,KY,ACH-002141,Esophagus/Stomach,damaging,-2.6339378586456896
+TP53_damaging_to_WEE1,KY,ACH-002143,Skin,matrix_intact,-2.5770434566849403
+TP53_damaging_to_WEE1,KY,ACH-002150,Kidney,matrix_intact,-4.6866613267777755
+TP53_damaging_to_WEE1,KY,ACH-002156,Lung,damaging,-4.701920212125484
+TP53_damaging_to_WEE1,KY,ACH-002160,Bone,matrix_intact,-5.258684403551764
+TP53_damaging_to_WEE1,KY,ACH-002161,Esophagus/Stomach,damaging,-4.561620924008977
+TP53_damaging_to_WEE1,KY,ACH-002179,Breast,damaging,-3.0895736749478324
+TP53_damaging_to_WEE1,KY,ACH-002181,Ovary/Fallopian Tube,damaging,-5.4854818468114575
+TP53_damaging_to_WEE1,KY,ACH-002183,Ovary/Fallopian Tube,matrix_intact,-0.7135109967538482
+TP53_damaging_to_WEE1,KY,ACH-002186,Pancreas,damaging,-3.566833624091732
+TP53_damaging_to_WEE1,KY,ACH-002189,Kidney,damaging,-5.034644345229086
+TP53_damaging_to_WEE1,KY,ACH-002198,Other,matrix_intact,-2.984886525320161
+TP53_damaging_to_WEE1,KY,ACH-002202,Esophagus/Stomach,damaging,-3.5131040651155696
+TP53_damaging_to_WEE1,KY,ACH-002210,Myeloid,damaging,-5.685989817009804
+TP53_damaging_to_WEE1,KY,ACH-002212,Head and Neck,damaging,-3.2825422090385263
+TP53_damaging_to_WEE1,KY,ACH-002228,CNS/Brain,damaging,-6.713193038248443
+TP53_damaging_to_WEE1,KY,ACH-002229,CNS/Brain,matrix_intact,-2.4676351573822166
+TP53_damaging_to_WEE1,KY,ACH-002230,CNS/Brain,damaging,-2.681606086658518
+TP53_damaging_to_WEE1,KY,ACH-002233,Bowel,damaging,-3.4289421934897306
+TP53_damaging_to_WEE1,KY,ACH-002234,Head and Neck,matrix_intact,-3.185871391439821
+TP53_damaging_to_WEE1,KY,ACH-002239,Head and Neck,damaging,-5.310427043211878
+TP53_damaging_to_WEE1,KY,ACH-002243,Esophagus/Stomach,damaging,-3.479020879719982
+TP53_damaging_to_WEE1,KY,ACH-002247,Myeloid,matrix_intact,-3.927646388288807
+TP53_damaging_to_WEE1,KY,ACH-002249,Head and Neck,damaging,-4.797491480561064
+TP53_damaging_to_WEE1,KY,ACH-002250,Head and Neck,damaging,-5.392985605558468
+TP53_damaging_to_WEE1,KY,ACH-002251,Head and Neck,damaging,-5.064861838736649
+TP53_damaging_to_WEE1,KY,ACH-002257,CNS/Brain,damaging,-2.893986761354056
+TP53_damaging_to_WEE1,KY,ACH-002261,Peripheral Nervous System,damaging,-1.8061299159913171
+TP53_damaging_to_WEE1,KY,ACH-002263,Esophagus/Stomach,damaging,-5.057979685293135
+TP53_damaging_to_WEE1,KY,ACH-002265,Head and Neck,damaging,-5.6960321351859955
+TP53_damaging_to_WEE1,KY,ACH-002269,CNS/Brain,damaging,-3.387062767153912
+TP53_damaging_to_WEE1,KY,ACH-002278,Peripheral Nervous System,matrix_intact,-2.681744102838265
+TP53_damaging_to_WEE1,KY,ACH-002280,Peripheral Nervous System,damaging,-0.8989059181931953
+TP53_damaging_to_WEE1,KY,ACH-002282,Peripheral Nervous System,matrix_intact,-1.4858774761082294
+TP53_damaging_to_WEE1,KY,ACH-002283,Peripheral Nervous System,matrix_intact,-2.8668136381086082
+TP53_damaging_to_WEE1,KY,ACH-002284,Peripheral Nervous System,damaging,-2.334774919186402
+TP53_damaging_to_WEE1,KY,ACH-002285,Peripheral Nervous System,damaging,-5.177611107742334
+TP53_damaging_to_WEE1,KY,ACH-002294,Head and Neck,damaging,-4.6613288988240775
+TP53_damaging_to_WEE1,KY,ACH-002295,Head and Neck,damaging,-3.372534392363382
+TP53_damaging_to_WEE1,KY,ACH-002296,Head and Neck,damaging,-3.7904634832709267
+TP53_damaging_to_WEE1,KY,ACH-002297,Head and Neck,damaging,-3.9969075153929814
+TP53_damaging_to_WEE1,KY,ACH-002298,Head and Neck,damaging,-6.637049042873976
+TP53_damaging_to_WEE1,KY,ACH-002304,CNS/Brain,damaging,-5.599640510978701
+TP53_damaging_to_WEE1,KY,ACH-002305,Head and Neck,damaging,-3.9003193149319455

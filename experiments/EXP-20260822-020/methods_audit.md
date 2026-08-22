@@ -57,6 +57,11 @@ values are parsed.
 
 ## Execution receipt
 
-To be completed after the bound runner executes. The result bundle must remain
-source-separated and preserve any null, heterogeneity, or feasibility-only
-outcome without post hoc rescue.
+The bound runner completed with `1,292` eligible screens and `1,290`
+source/model units. The terminal result is
+`FEASIBILITY_ONLY_NOMINAL_GATE_FAILURE`, with `confirmatory_claim: false` and
+`overall_pass: false`. Avana had a near-zero aggregate delta and failed its
+effect, permutation, bootstrap, and no-positive-lineage gates. KY had a
+negative aggregate delta and passed its effect, permutation, and bootstrap
+gates, but failed the no-positive-lineage gate. The complete source-separated
+result bundle, receipts, and audit are in this experiment directory.

@@ -1,0 +1,8 @@
+{
+  "experiment_id": "EXP-20260822-020",
+  "results_written": false,
+  "status": "ERROR_RESULTS_DIRECTORY_EXISTS",
+  "cause": "The empty results directory was created during repository preparation before the runner's own existence guard was invoked.",
+  "endpoint_values_parsed": false,
+  "protocol_effect": "No endpoint values were opened; no protocol input, threshold, seed, or claim contract changed."
+}

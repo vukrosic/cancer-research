@@ -1,0 +1,12 @@
+{
+  "experiment_id": "EXP-20260822-020",
+  "attempt": "002_pre_project_hash_fix",
+  "status": "PROVISIONAL_RESULT_PRESERVED_NOT_RELEASED",
+  "endpoint_values_parsed": true,
+  "implementation_commit": "a63129a5db70dfd96ed543e2fabbf6b9273b1400",
+  "reason_not_released": "Adding an EXP020 console script changed pyproject.toml and invalidated the historical project-file hash bound into released experiment manifests. The project file was restored and EXP020 was rebound before final rerun.",
+  "results_directory": "experiments/EXP-20260822-020/results_attempt-002_pre_project_hash_fix",
+  "pre_endpoint_receipt": "experiments/EXP-20260822-020/pre_endpoint_receipt_attempt-002_pre_project_hash_fix.json",
+  "summary_normalized_sha256": "38caf9d1f2261387d5de8022cc020d6f9ff162be4c42c5e3a521b4a72ba7b955",
+  "interpretation": "Deterministic provisional values were preserved as an audit artifact; the canonical released result must be produced under the final historical-project-hash-compatible manifest."
+}
