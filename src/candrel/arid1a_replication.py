@@ -117,7 +117,7 @@ def load_model_lineages(path: Path) -> tuple[dict[str, str], str]:
         for row in reader:
             model_id = row["ModelID"].strip()
             lineage = row["OncotreeLineage"].strip()
-            if not model_id or model_id in lineages or not lineage:
+            if not model_id or model_id in lineages:
                 raise IntegrityError(f"invalid Model.csv identity: {model_id}")
             lineages[model_id] = lineage
     return lineages, actual

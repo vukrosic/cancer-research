@@ -1,0 +1,7 @@
+{
+  "error": "invalid Model.csv identity: ACH-003132",
+  "error_type": "IntegrityError",
+  "experiment_id": "EXP-20260822-015",
+  "results_written": false,
+  "status": "ERROR_INTEGRITY"
+}
