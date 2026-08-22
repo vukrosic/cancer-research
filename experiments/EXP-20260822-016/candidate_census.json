@@ -1,0 +1,67 @@
+{
+  "census_id": "EXP016-candidate-shortlist-20260822",
+  "census_at": "2026-08-22T16:13:24+02:00",
+  "purpose": "Outcome-free selection of a distinct status-to-dependency direction",
+  "endpoint_values_opened": false,
+  "endpoint_access": "ScreenNaiveGeneScore.csv header identity only; no score row or target value parsed",
+  "eligibility_rule": "PassesQC == True, CanInclude == True, Library in {Avana, KY}, exact ScreenID-to-ModelID map, nonblank eligible OncotreeLineage",
+  "status_rule": "official damaging matrix value >= 1; values restricted to {0,1,2}",
+  "inputs": {
+    "screen_qc_sha256": "fbb4bc1f27a65a626250d8c5e51a485c8d31f853461e717756be0dcdd160c407",
+    "screen_map_sha256": "1e2bf9075600cd049dafc385866991523c65806657f3c8bd71afde3fe00ee9ad",
+    "model_sha256": "6b77a73209ce3faaa7442dbd947d8e08ddcb08b538c36fe820163f9cff321341",
+    "damaging_matrix_sha256": "aea4d970c0876afb90d2dc0e2709ff28be5a84e4e246f3a5a31faaba0fbc47e3",
+    "endpoint_header_sha256": "e674845fcff8297cc99a3dc0188a40e210289207c37004ba78ddd74d8f03d721"
+  },
+  "candidate_shortlist": [
+    {
+      "status_gene": "EP300",
+      "status_column": "EP300 (2033)",
+      "target_gene": "CREBBP",
+      "target_column": "CREBBP (1387)",
+      "Avana": {"damaging": 61, "intact": 914, "mixed_lineages": 18, "planning_power": 0.7324},
+      "KY": {"damaging": 34, "intact": 281, "mixed_lineages": 11, "planning_power": 0.4798},
+      "decision": "not_selected_underpowered_in_both_sources"
+    },
+    {
+      "status_gene": "SMARCA4",
+      "status_column": "SMARCA4 (6597)",
+      "target_gene": "SMARCA2",
+      "target_column": "SMARCA2 (6595)",
+      "Avana": {"damaging": 51, "intact": 924, "mixed_lineages": 16, "planning_power": 0.6483},
+      "KY": {"damaging": 13, "intact": 302, "mixed_lineages": 5, "planning_power": 0.3218},
+      "decision": "not_selected_KY_context_gate"
+    },
+    {
+      "status_gene": "MTAP",
+      "status_column": "MTAP (4507)",
+      "target_gene": "PRMT5",
+      "target_column": "PRMT5 (10419)",
+      "Avana": {"damaging": 2, "intact": 973, "mixed_lineages": 2, "planning_power": 0.1313},
+      "KY": {"damaging": 1, "intact": 314, "mixed_lineages": 1, "planning_power": 0.1226},
+      "decision": "not_selected_matrix_status_context_gate"
+    },
+    {
+      "status_gene": "ARID1A",
+      "status_column": "ARID1A (8289)",
+      "target_gene": "KEAP1",
+      "target_column": "KEAP1 (9817)",
+      "Avana": {"damaging": 101, "intact": 874, "mixed_lineages": 19, "planning_power": 0.8622},
+      "KY": {"damaging": 43, "intact": 272, "mixed_lineages": 11, "planning_power": 0.5699},
+      "decision": "selected_recent_primary_crispr_and_adequate_context_but_feasibility_only"
+    }
+  ],
+  "design_model": {
+    "normal_mean_shift": -0.358286909243,
+    "null_permutations": 100000,
+    "alternative_simulations": 10000,
+    "design_seeds": {"Avana": 20261630, "KY": 20261730},
+    "critical_quantile": "numpy_linear_05",
+    "rejection_rule": "alternative_delta <= critical_delta"
+  },
+  "literature_search": {
+    "searched_at": "2026-08-22",
+    "primary_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11394604/",
+    "selection_note": "Recent primary CRISPR study reports ARID1A-deficient-cell vulnerability to KEAP1 perturbation; selection remains a reliability replication, not a novelty claim."
+  }
+}
