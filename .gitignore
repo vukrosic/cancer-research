@@ -3,6 +3,21 @@
 __pycache__/
 .pytest_cache/
 *.py[cod]
+
+# Local credentials and private machine material.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+secrets*.json
+*.db
+*.sqlite
+*.sqlite3
+
 data/raw/*
 data/processed/*
 !data/raw/.gitkeep
